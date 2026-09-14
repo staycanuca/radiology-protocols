@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: trauma
 clinical_indications:
 - Pacientă gravidă cu politraumatism
@@ -70,6 +70,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 2.5 mm
 title: CT Abdomen și Pelvis în Traumatism la Gravidă
+sources:
+- title: ACR Appropriateness Criteria — Major Blunt Trauma
+  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
+  institution: ACR
+  source_region: US
+  kind: Criterii de oportunitate clinică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
+- title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Abdomen și Pelvis în Traumatism la Gravidă
@@ -187,3 +202,8 @@ title: CT Abdomen și Pelvis în Traumatism la Gravidă
     | Axial | Fază Venoasă Portală AP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Organe parenchimatoase materne |
     | Coronal | Fază Venoasă Portală AP | Abdomen-Pelvis | 3 mm/3 mm | Standard |  | Privire coronală de ansamblu |
     | Sagital | Fază Venoasă Portală AP | Pelvis | 3 mm/3 mm | Standard |  | Evaluare uter și placentă |
+
+## Surse și revizuire
+
+- [ACR Appropriateness Criteria — Major Blunt Trauma](https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria) — *ACR* (US)
+- [UT Southwestern Radiology — Trauma Whole-Body CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

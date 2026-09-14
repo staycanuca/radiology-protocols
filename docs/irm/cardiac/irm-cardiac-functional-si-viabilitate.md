@@ -87,7 +87,26 @@ sequences:
   tr_te: TR 700 ms / TE 3.0 ms / TI 250-320 ms
 slug: irm-cardiac-functional-si-viabilitate
 title: IRM Cardiac - Evaluare Funcțională, Ischemie & Viabilitate (LGE)
+sources:
+- title: SCMR / ACR-NASCI Practice Parameter for the Performance of Cardiac Magnetic
+    Resonance Imaging
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CMR.pdf
+  institution: ACR / SCMR
+  source_region: US
+  kind: Standard de practică IRM cardiovascular
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 8fd8c2be19913bbc74eb327ac8bb44f090f555d6bc90ffb56256d14cfb31d16d
+- title: UT Southwestern Radiology — Cardiac MR Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 15b64e8c0d1c83d4ed74c3e0e07b8690a60efdcc4e9083d1af807018cacc44f0
+position: Decubit dorsal, centrare pe linia mediosternală la nivelul spațiului IV
+  intercostal.
 ---
+
 # IRM Cardiac - Evaluare Funcțională, Ischemie & Viabilitate (LGE)
 
 <div class="irm-meta-bar">
@@ -188,3 +207,8 @@ title: IRM Cardiac - Evaluare Funcțională, Ischemie & Viabilitate (LGE)
     2. **Verificare Implanturi Medicale:** Pacienții cu stimulatoare cardiace (pacemaker/ICD), neurostimulatoare, pompe de insulină, clipuri anevrismale intracraniene sau corpi străini intraoculari metalici necesită documentare strictă "MR Conditional" la puterea de câmp utilizată (1.5T vs 3.0T).
     3. **Rată Specifică de Absorbție (SAR):** Monitorizarea depunerii de energie de radiofrecvență (RF) în țesuturi. Respectarea limitei modului normal de operare (SAR corp întreg < 2.0 W/kg) pentru prevenirea supraîncălzirii termice, în special la pacienți febrili sau obezi.
     4. **Atenuare Artefacte:** Utilizarea benzilor de saturație spațială pentru eliminarea artefactelor de pulsație vasculară/deglutiție, calibrarea supresiei de grăsime (Dixon/SPAIR) în prezența materialelor de osteosinteză titan.
+
+## Surse și revizuire
+
+- [SCMR / ACR-NASCI Practice Parameter for the Performance of Cardiac Magnetic Resonance Imaging](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CMR.pdf) — *ACR / SCMR* (US)
+- [UT Southwestern Radiology — Cardiac MR Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html) — *UT Southwestern* (US)

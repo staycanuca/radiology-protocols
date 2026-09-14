@@ -47,6 +47,24 @@ transducers_equipment:
   patient_position: Adaptată zonei de interes; manevră Valsalva pentru hernii parietale
   transducer_types: Sondă Liniară de înaltă frecvență 10.0 - 18.0 MHz (cu pernuță
     de gel / standoff pad la leziuni exofitice)
+sources:
+- title: AIUM Practice Parameter for the Performance of a Thyroid and Neck Ultrasound
+    Examination
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM
+  source_region: US
+  kind: Parametru de practică US tiroidă și părți moi
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Thyroid and Soft Tissue Ultrasound
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială;
+  poziționare adaptată regiunii anatomice afectate.'
 ---
 
 # Ecografie de Părți Moi Subcutanate (Formațiuni, Lipom, Colecție)
@@ -130,3 +148,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 Chistul sebaceu (epidermoid) prezintă caracteristic întărire acustică posterioară și adesea un traiect punctiform ('punctum') către epiderm.
+
+## Surse și revizuire
+
+- [AIUM Practice Parameter for the Performance of a Thyroid and Neck Ultrasound Examination](https://www.aium.org/resources/practice-parameters) — *AIUM* (US)
+- [UT Southwestern Radiology — Thyroid and Soft Tissue Ultrasound](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

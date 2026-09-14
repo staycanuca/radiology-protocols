@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Formațiune tumorală intraorbitară sau a glandei lacrimale
@@ -77,6 +77,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Orbite
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Orbite
@@ -197,3 +212,8 @@ title: CT Orbite
     | Coronal | CT Axial Orbite | Orbite | 1 mm/1 mm | Bone and Standard |  | Plan coronal pentru planșeul orbitar și mușchii extraoculari |
     | Sagital | CT Axial Orbite | Orbite | 1 mm/1 mm | Standard |  | Plan sagital oblic pe axul nervului optic |
     | 3D if trauma | CT Axial Orbite | Orbite | 0.75 mm/0.75 mm | Bone |  | Randare tridimensională 3D în fracturi complexe de cadru orbitar |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

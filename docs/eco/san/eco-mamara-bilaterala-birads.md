@@ -58,6 +58,23 @@ transducers_equipment:
     sub spate pentru cadranele externe
   transducer_types: Sondă Liniară de înaltă frecvență 10.0 - 18.0 MHz (High-Frequency
     Matrix Linear)
+sources:
+- title: AIUM-ACR Practice Parameter for the Performance of a Breast Ultrasound Examination
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM / ACR
+  source_region: US
+  kind: Parametru de practică ecografie mamară
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Breast Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit dorsal cu
+  brațul de partea examinată ridicat deasupra capului pentru apl'
 ---
 
 # Ecografie Mamară Bilaterală și Axilară (Clasificare BI-RADS US)
@@ -143,3 +160,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 Categoriile BI-RADS 3 impun monitorizare ecografică la 6 luni. Categoriile BI-RADS 4 și 5 impun biopsie histologică ghidată ecografic.
+
+## Surse și revizuire
+
+- [AIUM-ACR Practice Parameter for the Performance of a Breast Ultrasound Examination](https://www.aium.org/resources/practice-parameters) — *AIUM / ACR* (US)
+- [UT Southwestern Radiology — Breast Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Hiperparatiroidism primar sau secundar refractar
@@ -95,6 +95,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT 4D Glande Paratiroide
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT 4D Glande Paratiroide
@@ -219,3 +234,8 @@ title: CT 4D Glande Paratiroide
     | Axial | Fază Arterială | Gât | 1.25 mm/1.25 mm | Standard |  | Vârful încărcării adenomului paratiroidian |
     | Subtraction | Fază Arterială | Gât | 1.25 mm/1.25 mm | Standard |  | Substracție digitală pentru evidențierea adenomului |
     | Coronal | Fază Arterială | Gât-Mediastin | 1.5 mm/1.5 mm | Standard |  | Plan coronal pentru căutarea adenoamelor ectopice mediastinale |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

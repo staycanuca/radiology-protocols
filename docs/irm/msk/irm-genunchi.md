@@ -76,7 +76,26 @@ sequences:
   tr_te: TR 2800 ms / TE 30 ms
 slug: irm-genunchi
 title: IRM Genunchi
+sources:
+- title: OHSU Diagnostic Radiology — Musculoskeletal MRI Protocols
+  url: https://www.ohsu.edu/school-of-medicine/diagnostic-radiology/mri-protocols
+  institution: OHSU
+  source_region: US
+  kind: Protocol instituțional IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: f472cca210c17724389892b28b4ff21ac0d171c1731755f8540809a18a414746
+- title: ACR-SSR Practice Parameter for the Performance of Musculoskeletal Magnetic
+    Resonance Imaging
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Musculoskeletal.pdf
+  institution: ACR / SSR
+  source_region: US
+  kind: Standard de practică IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4234ca9d7210e58f3bd8273bbf42d9d235105c2df0d73ff341522727f8fe9893
+position: Decubit dorsal cu picioarele înainte, genunchiul fixat rigid în antenă cu
+  perne de spumă.
 ---
+
 # IRM Genunchi
 
 <div class="irm-meta-bar">
@@ -176,3 +195,8 @@ title: IRM Genunchi
     2. **Verificare Implanturi Medicale:** Pacienții cu stimulatoare cardiace (pacemaker/ICD), neurostimulatoare, pompe de insulină, clipuri anevrismale intracraniene sau corpi străini intraoculari metalici necesită documentare strictă "MR Conditional" la puterea de câmp utilizată (1.5T vs 3.0T).
     3. **Rată Specifică de Absorbție (SAR):** Monitorizarea depunerii de energie de radiofrecvență (RF) în țesuturi. Respectarea limitei modului normal de operare (SAR corp întreg < 2.0 W/kg) pentru prevenirea supraîncălzirii termice, în special la pacienți febrili sau obezi.
     4. **Atenuare Artefacte:** Utilizarea benzilor de saturație spațială pentru eliminarea artefactelor de pulsație vasculară/deglutiție, calibrarea supresiei de grăsime (Dixon/SPAIR) în prezența materialelor de osteosinteză titan.
+
+## Surse și revizuire
+
+- [OHSU Diagnostic Radiology — Musculoskeletal MRI Protocols](https://www.ohsu.edu/school-of-medicine/diagnostic-radiology/mri-protocols) — *OHSU* (US)
+- [ACR-SSR Practice Parameter for the Performance of Musculoskeletal Magnetic Resonance Imaging](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Musculoskeletal.pdf) — *ACR / SSR* (US)

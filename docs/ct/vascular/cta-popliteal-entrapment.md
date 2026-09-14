@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: vascular
 clinical_indications:
 - Sindrom de pensare / încarcerare a arterei poplitee
@@ -89,6 +89,22 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
+sources:
+- title: ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic
+    Angiography (CTA)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf
+  institution: ACR / NASCI / SIR
+  source_region: US
+  kind: Standard de practică angio-CT
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bf7ff18eff996f000474c6a03d89a358f09f8af2ee90da1217121760ae1ae6f9
+- title: UT Southwestern Radiology — CTA & Vascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
@@ -211,3 +227,8 @@ title: Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment
     | Axial | Angio-CT Flexie Plantară | Genunchi-Gambă | 1 mm/1 mm | Vascular |  | Aprecierea compresiunii arteriale în timpul flexiei plantare |
     | Coronal | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | MIP comparativ neutru vs. manevră activă |
     | Sagital | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | Vedere sagitală a fosei poplitee |
+
+## Surse și revizuire
+
+- [ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic Angiography (CTA)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf) — *ACR / NASCI / SIR* (US)
+- [UT Southwestern Radiology — CTA & Vascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

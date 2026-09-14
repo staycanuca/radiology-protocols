@@ -75,7 +75,25 @@ sequences:
   tr_te: TR 22 ms / TE 3.5 ms / FA 18°
 slug: irm-cerebral-stroke-ischemie
 title: IRM Cerebral Urgență - Protocol AVC Ischemic Acut (Stroke)
+sources:
+- title: OHSU Diagnostic Radiology — Brain & Spine MRI Protocols
+  url: https://www.ohsu.edu/school-of-medicine/diagnostic-radiology/mri-protocols
+  institution: OHSU
+  source_region: US
+  kind: Protocol instituțional IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: f472cca210c17724389892b28b4ff21ac0d171c1731755f8540809a18a414746
+- title: ACR-ASNR-SPR Practice Parameter for the Performance of Magnetic Resonance
+    Imaging (MRI) of the Brain
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Brain.pdf
+  institution: ACR / ASNR
+  source_region: US
+  kind: Standard de practică IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 05b5d22ee8b61e427ebdd5871542c5dee1f63a2932ca9179c569964f9b430a90
+position: Decubit dorsal, centrare nasion, cap fixat pentru evitarea mișcării.
 ---
+
 # IRM Cerebral Urgență - Protocol AVC Ischemic Acut (Stroke)
 
 <div class="irm-meta-bar">
@@ -175,3 +193,8 @@ title: IRM Cerebral Urgență - Protocol AVC Ischemic Acut (Stroke)
     2. **Verificare Implanturi Medicale:** Pacienții cu stimulatoare cardiace (pacemaker/ICD), neurostimulatoare, pompe de insulină, clipuri anevrismale intracraniene sau corpi străini intraoculari metalici necesită documentare strictă "MR Conditional" la puterea de câmp utilizată (1.5T vs 3.0T).
     3. **Rată Specifică de Absorbție (SAR):** Monitorizarea depunerii de energie de radiofrecvență (RF) în țesuturi. Respectarea limitei modului normal de operare (SAR corp întreg < 2.0 W/kg) pentru prevenirea supraîncălzirii termice, în special la pacienți febrili sau obezi.
     4. **Atenuare Artefacte:** Utilizarea benzilor de saturație spațială pentru eliminarea artefactelor de pulsație vasculară/deglutiție, calibrarea supresiei de grăsime (Dixon/SPAIR) în prezența materialelor de osteosinteză titan.
+
+## Surse și revizuire
+
+- [OHSU Diagnostic Radiology — Brain & Spine MRI Protocols](https://www.ohsu.edu/school-of-medicine/diagnostic-radiology/mri-protocols) — *OHSU* (US)
+- [ACR-ASNR-SPR Practice Parameter for the Performance of Magnetic Resonance Imaging (MRI) of the Brain](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Brain.pdf) — *ACR / ASNR* (US)

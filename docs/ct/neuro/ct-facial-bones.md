@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Traumatism maxilo-facial / agresiune fizică
@@ -74,6 +74,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Masiv Facial și Schelet Nazal
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Masiv Facial și Schelet Nazal
@@ -193,3 +208,8 @@ title: CT Masiv Facial și Schelet Nazal
     | Coronal | CT Masiv Facial | Față | 1 mm/1 mm | Bone |  | Plan coronal pentru orbite și sinusuri |
     | Sagital | CT Masiv Facial | Față | 1 mm/1 mm | Bone |  | Plan mediosagital pentru oasele proprii nazale |
     | 3D | CT Masiv Facial | Față | 0.75 mm/0.75 mm | Bone |  | Randare tridimensională 3D de suprafață a masivului facial |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

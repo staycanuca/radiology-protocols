@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: cardiac
 clinical_indications:
 - Disecție acută de aortă toraco-abdominală (tip Stanford A sau B)
@@ -95,6 +95,21 @@ tech_params:
   scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
   slice_thickness: 0.625 mm
 title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aortă & Cord)
+sources:
+- title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
+  institution: ACR / SCCT
+  source_region: US
+  kind: Standard de practică cardiovasculară
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
+- title: UT Southwestern Radiology — Cardiovascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aortă & Cord)
@@ -219,3 +234,8 @@ title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aortă & Cord)
     | Axial | Angio-CT Flash AP | Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Aorta abdominală și arterele viscerale |
     | Coronal | Angio-CT Torace Sincronizat | Torace-Abdomen-Pelvis | 3 mm/3 mm | Vascular |  | Reconstrucție MIP completă a aortei |
     | Sagital | Angio-CT Torace Sincronizat | Torace-Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Reconstrucție MPR curbată pe întreaga lungime aortică |
+
+## Surse și revizuire
+
+- [SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf) — *ACR / SCCT* (US)
+- [UT Southwestern Radiology — Cardiovascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

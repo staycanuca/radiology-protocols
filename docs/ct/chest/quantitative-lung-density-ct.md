@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: chest
 clinical_indications:
 - Evaluare și cuantificare emfizem pulmonar în BPOC
@@ -71,6 +71,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625-1.0 mm
 title: CT Cuantificare Densitate Pulmonară (Emfizem)
+sources:
+- title: AAPM CT Protocols — Routine Adult Chest CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bec845e0b9aa0e1fbdd4cdc56ff2a4bb55e22590ee1e2f9b7329c8b90b876734
+- title: UT Southwestern Radiology — CT Chest Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Cuantificare Densitate Pulmonară (Emfizem)
@@ -174,3 +189,8 @@ title: CT Cuantificare Densitate Pulmonară (Emfizem)
     | Axial | Densitometrie | Torace | 0.75 mm/0.5 mm | Standard | Standard | Kernel standard pentru densitometrie cantitativă |
     | Axial | Parenchim | Torace | 1.0 mm/1.0 mm | Plămân | 3 | Evaluare vizuală a parenchimului |
     | Coronal | Parenchim | Torace | 2.0 mm/2.0 mm | Plămân | 3 | Distribuție lobară cranio-caudală |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Routine Adult Chest CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Chest Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: abdomen
 clinical_indications:
 - Litiaza reno-vezicală (nefrolitiază / ureterolitiază)
@@ -73,6 +73,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Renal-Uretero-Vezical Nativ (CT KUB Doză Redusă)
+sources:
+- title: AAPM CT Protocols — Adult Abdomen/Pelvis CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: f0c7c2e31da9a9ed24dbdef7bd5b38994d670ba52d21b702faac79b97ace00c3
+- title: UT Southwestern Radiology — CT Abdomen & Pelvis Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Renal-Uretero-Vezical Nativ (CT KUB Doză Redusă)
@@ -192,3 +207,8 @@ title: CT Renal-Uretero-Vezical Nativ (CT KUB Doză Redusă)
     | Axial | Fază Nativă KUB | Abdomen-Pelvis | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă pentru delimitarea densității calculilor |
     | Coronal | Fază Nativă KUB | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Vedere coronală de ansamblu a tractului urinar |
     | MIP | Fază Nativă KUB | Abdomen-Pelvis | 5 mm/2 mm | Standard |  | Localizare topografică a calculului |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Abdomen/Pelvis CT](https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Abdomen & Pelvis Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: trauma
 clinical_indications:
 - Traumatism cranio-cerebral (TCC)
@@ -79,6 +79,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Craniu și Coloană Cervicală în Politraumatism
+sources:
+- title: ACR Appropriateness Criteria — Major Blunt Trauma
+  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
+  institution: ACR
+  source_region: US
+  kind: Criterii de oportunitate clinică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
+- title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Craniu și Coloană Cervicală în Politraumatism
@@ -185,3 +200,8 @@ title: CT Craniu și Coloană Cervicală în Politraumatism
     | Sagital | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Plan mediosagital și parasagital coloană cervicală |
     | Coronal | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Aliniament coronal și apofiza odontoidă |
     | Axial | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă axială coloană cervicală |
+
+## Surse și revizuire
+
+- [ACR Appropriateness Criteria — Major Blunt Trauma](https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria) — *ACR* (US)
+- [UT Southwestern Radiology — Trauma Whole-Body CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

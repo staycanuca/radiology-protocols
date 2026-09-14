@@ -87,7 +87,25 @@ radiation_safety:
 slug: c-arm-nefrostomie-si-stent-jj
 title: 'C-Arm în Urologie Intervențională: Nefrostomie Percutanată & Montare Stent
   JJ'
+sources:
+- title: ACR-AAPM Technical Standard for Management of the Fluoroscopic Step in Interventional
+    Procedures (C-Arm)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf
+  institution: ACR / AAPM
+  source_region: US
+  kind: Standard tehnic fluoroscopie C-Arm
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 45621b1990b6eabf74f9996a8a9c707b6d18590d018367baf4fe51409a0450b0
+- title: IAEA — Radiation Protection in Fluoroscopically Guided Procedures
+  url: https://www.iaea.org/resources/rpop/health-professionals/radiology/fluoroscopy
+  institution: IAEA
+  source_region: Internațional
+  kind: Standard internațional de radioprotecție
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: fd2fa0ce9ba7efff54f416412f61219daf64504650a6a468b204fc00e14c54fa
+position: Decubit ventral sau oblic 30° pe masa chirurgicală radiotransparentă
 ---
+
 # C-Arm în Urologie Intervențională: Nefrostomie Percutanată & Montare Stent JJ
 
 <div class="fluoro-meta-bar">
@@ -201,3 +219,8 @@ title: 'C-Arm în Urologie Intervențională: Nefrostomie Percutanată & Montare
     3. **Optimizare Doză (ALARA):** Se utilizează regim de fluoroscopie pulsată (4 - 7.5 - 15 fps) în locul modului continuu și colimare strânsă strict pe zona de interes.
     4. **Last Image Hold (LIH):** Utilizarea imaginii înghețate pe monitor pentru decizii operatorii sau analize anatomice, fără reactivarea inutilă a pedalei de expunere.
     5. **Protecție Personal:** Toți membrii echipei prezenți în sală poartă echipament individual de protecție din plumb (șorț echivalent 0.35-0.5 mm Pb, guler tiroidian, ochelari plumbuiți) și păstrează o distanță maximă posibilă față de tub conform legii pătratului invers al distanței.
+
+## Surse și revizuire
+
+- [ACR-AAPM Technical Standard for Management of the Fluoroscopic Step in Interventional Procedures (C-Arm)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf) — *ACR / AAPM* (US)
+- [IAEA — Radiation Protection in Fluoroscopically Guided Procedures](https://www.iaea.org/resources/rpop/health-professionals/radiology/fluoroscopy) — *IAEA* (Internațional)

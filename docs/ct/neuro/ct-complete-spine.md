@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Pan-scan în politraumatism sever cu leziuni vertebrale multiple suspectate
@@ -68,6 +68,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
@@ -186,3 +201,8 @@ title: CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
     | Axial | CT Coloană Completă | Coloană | 1.5 mm/1.5 mm | Bone |  | Secțiuni fine axiale etajate |
     | Sagital | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan sagital panoramic complet al coloanei vertebrale |
     | Coronal | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan coronal de ansamblu |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

@@ -85,7 +85,27 @@ radiation_safety:
 - Protecție gonadală poziționată atunci când nu maschează ansele din micul bazin
 slug: tranzit-intestin-subtire-sbft
 title: Tranzit Intestin Subțire (Enterocliză / Small Bowel Follow-Through - SBFT)
+sources:
+- title: ACR-SAR-SPR Practice Parameter for the Performance of Gastrointestinal Fluoroscopy
+    in Adults
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf
+  institution: ACR / SAR / SPR
+  source_region: US
+  kind: Standard de practică fluoroscopie digestivă
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 45621b1990b6eabf74f9996a8a9c707b6d18590d018367baf4fe51409a0450b0
+- title: UT Southwestern Radiology — Diagnostic Fluoroscopy Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/diagnostic.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional fluoroscopie
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4d9de4a012f12a5d0ac28d46131bf9ab7e4668e6fae1937eaf76d68167f9290d
+position: 'Decubit ventral (poziție esențială: compresiunea naturală exercitată de
+  greutatea pacientului pe planul mesei etalează ansele jejuno-ileale prevenind aglomerarea
+  lor în pelvis); decubit dorsal la compresia manuală țintită'
 ---
+
 # Tranzit Intestin Subțire (Enterocliză / Small Bowel Follow-Through - SBFT)
 
 <div class="fluoro-meta-bar">
@@ -198,3 +218,8 @@ title: Tranzit Intestin Subțire (Enterocliză / Small Bowel Follow-Through - SB
     3. **Optimizare Doză (ALARA):** Se utilizează regim de fluoroscopie pulsată (4 - 7.5 - 15 fps) în locul modului continuu și colimare strânsă strict pe zona de interes.
     4. **Last Image Hold (LIH):** Utilizarea imaginii înghețate pe monitor pentru decizii operatorii sau analize anatomice, fără reactivarea inutilă a pedalei de expunere.
     5. **Protecție Personal:** Toți membrii echipei prezenți în sală poartă echipament individual de protecție din plumb (șorț echivalent 0.35-0.5 mm Pb, guler tiroidian, ochelari plumbuiți) și păstrează o distanță maximă posibilă față de tub conform legii pătratului invers al distanței.
+
+## Surse și revizuire
+
+- [ACR-SAR-SPR Practice Parameter for the Performance of Gastrointestinal Fluoroscopy in Adults](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf) — *ACR / SAR / SPR* (US)
+- [UT Southwestern Radiology — Diagnostic Fluoroscopy Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/diagnostic.html) — *UT Southwestern* (US)

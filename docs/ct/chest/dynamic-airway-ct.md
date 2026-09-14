@@ -86,6 +86,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625-1 mm
 title: CT Dinamic de Căi Aeriene
+sources:
+- title: AAPM CT Protocols — Routine Adult Chest CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bec845e0b9aa0e1fbdd4cdc56ff2a4bb55e22590ee1e2f9b7329c8b90b876734
+- title: UT Southwestern Radiology — CT Chest Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Dinamic de Căi Aeriene
@@ -192,3 +207,8 @@ title: CT Dinamic de Căi Aeriene
     | Coronal | Ambele faze | Căi aeriene | 1.5 mm | Plămân | 3 | Coronal căi aeriene |
     | Sagital | Ambele faze | Căi aeriene | 1.5 mm | Plămân | 3 | Sagital căi aeriene |
     | 3D VR | Ambele faze | Căi aeriene | 0.625-1 mm sursă | Plămân | N/A | Reconstrucție 3D de căi aeriene |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Routine Adult Chest CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Chest Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

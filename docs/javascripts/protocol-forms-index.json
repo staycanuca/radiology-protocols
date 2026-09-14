@@ -7,7 +7,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-02",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Dureri abdominale de cauză neelucidată",
@@ -97,7 +97,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Caracterizarea leziunilor focale hepatice",
@@ -204,7 +204,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Formațiune tumorală pancreatică / suspiciune adenocarcinom",
@@ -295,7 +295,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Caracterizarea maselor și formațiunilor renale solide",
@@ -392,7 +392,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Caracterizarea formațiunilor suprarenaliene",
@@ -489,7 +489,7 @@
     "modality": "ct",
     "protocol_type": "non-contrast",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Litiaza reno-vezicală (nefrolitiază / ureterolitiază)",
@@ -568,7 +568,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Bilanț și stadializare oncologică (CAP)",
@@ -649,7 +649,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Suspiciune de ruptură vezicală (intraperitoneală vs. extraperitoneală)",
@@ -744,7 +744,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Boala Crohn (activitate, stenoze, traiecte fistuloase)",
@@ -834,7 +834,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Hematurie microscopică sau macroscopică",
@@ -932,7 +932,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-intervențională pentru ablația de fibrilație atrială (izolare de vene pulmonare)",
@@ -1023,7 +1023,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-02-02",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Durere toracică cu probabilitate pre-test intermediară de boală coronariană",
@@ -1116,7 +1116,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-02-02",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluarea permeabilității grefoanelor de bypass aorto-coronarian (arteriale și venoase)",
@@ -1315,7 +1315,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-procedurală TMVR (implantare mitrală transcateter sau valve-in-valve)",
@@ -1422,7 +1422,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-procedurală TTVR (înlocuire sau reparare transcateter de valvă tricuspidă)",
@@ -1513,7 +1513,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Disecție acută de aortă toraco-abdominală (tip Stanford A sau B)",
@@ -1620,7 +1620,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-operatorie pentru resternotomie (chirurgie cardiacă secundară/iterativă)",
@@ -1719,7 +1719,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Disecție acută de aortă toracică",
@@ -1818,7 +1818,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluarea funcțională a protezelor valvulare (mecanice sau biologice)",
@@ -1901,7 +1901,7 @@
     "modality": "ct",
     "protocol_type": "non-contrast",
     "last_updated": "2026-02-02",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Stratificarea riscului cardiovascular la pacienți asimptomatici",
@@ -1965,7 +1965,7 @@
     "modality": "ct",
     "protocol_type": "cardiac gated",
     "last_updated": "2026-02-02",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Suspiciune de endocardită infecțioasă pe valvă nativă sau proteză",
@@ -2063,7 +2063,7 @@
     "modality": "ct",
     "protocol_type": "chest/pulmonary",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluare și cuantificare emfizem pulmonar în BPOC",
@@ -2314,7 +2314,7 @@
     "modality": "ct",
     "protocol_type": "chest/pulmonary",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Urmărire nodul pulmonar solid/subsolid cunoscut",
@@ -2401,7 +2401,7 @@
     "modality": "ct",
     "protocol_type": "non-contrast",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluare pneumonie / condensare alveolară / infecție",
@@ -2489,7 +2489,7 @@
     "modality": "ct",
     "protocol_type": "chest/pulmonary",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluare inițială pneumopatie interstițială difuză (PID)",
@@ -2549,7 +2549,7 @@
     "modality": "ct",
     "protocol_type": "chest/pulmonary",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Diferențierea atelectaziilor posterioare dependente de fibroza subpleurală precoce",
@@ -2609,7 +2609,7 @@
     "modality": "ct",
     "protocol_type": "chest/pulmonary",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Pneumonită de hipersensibilitate (pattern capcană de aer)",
@@ -2790,7 +2790,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Leziuni de burelet glenoidian (labrum) - leziuni SLAP, Bankart",
@@ -2870,7 +2870,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale cotului (paletă humerală, capitul, trohlee)",
@@ -2950,7 +2950,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi de platou tibial (clasificare Schatzker)",
@@ -3031,7 +3031,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi de gleznă (maleolă internă, externă, posterioară)",
@@ -3111,7 +3111,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi diafizare sau metafizo-epifizare complexe ale membrului inferior",
@@ -3191,7 +3191,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale membrului superior (humerus diafizar, radius, ulnă)",
@@ -3270,7 +3270,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-operatorie ortopedică sau tumorală",
@@ -3366,7 +3366,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale mâinii (metacarpiene, falange)",
@@ -3446,7 +3446,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale inelului pelvin (clasificare Young-Burgess / Tile)",
@@ -3526,7 +3526,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi de oase tarsiene (calcaneu, talus, navicular, cuboid, cuneiforme)",
@@ -3606,7 +3606,7 @@
     "modality": "ct",
     "protocol_type": "non-contrast",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Artrită gutoasă / depuneri de cristale de urat monosodic",
@@ -3685,7 +3685,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale extremității distale a radiusului (Pouteau-Colles, Goyrand-Smith, Barton)",
@@ -3765,7 +3765,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fracturi ale epifizei proximale humerale (clasificare Neer)",
@@ -3845,7 +3845,7 @@
     "modality": "ct",
     "protocol_type": "musculoskeletal",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Fractură de șold (col femural, trohanteriană, subtrohanteriană)",
@@ -3926,7 +3926,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Stenoză carotidiană aterosclerotică",
@@ -4009,7 +4009,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Screening și diagnostic anevrisme intracraniene",
@@ -4100,7 +4100,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-04",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Bilanț complet AVC ischemic / accident ischemic tranzitor (AIT)",
@@ -4191,7 +4191,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Hiperparatiroidism primar sau secundar refractar",
@@ -4297,7 +4297,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-operatorie stereotaxică / neuronavigație intraoperatorie",
@@ -4377,7 +4377,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-03",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Protocol de primă intenție în suspiciunea de AVC acut",
@@ -4457,7 +4457,7 @@
     "modality": "ct",
     "protocol_type": "spine",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism de coloană cervicală / accident rutier / cădere",
@@ -4537,7 +4537,7 @@
     "modality": "ct",
     "protocol_type": "spine",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism de coloană vertebrală lombară",
@@ -4618,7 +4618,7 @@
     "modality": "ct",
     "protocol_type": "spine",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism de coloană toracală",
@@ -4690,7 +4690,7 @@
     "modality": "ct",
     "protocol_type": "spine",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Pan-scan în politraumatism sever cu leziuni vertebrale multiple suspectate",
@@ -4762,7 +4762,7 @@
     "modality": "ct",
     "protocol_type": "non-contrast",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism maxilo-facial / agresiune fizică",
@@ -4841,7 +4841,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Formațiune tumorală intraorbitară sau a glandei lacrimale",
@@ -4922,7 +4922,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Formațiune tumorală cervicală / suspiciune neoplazie căi aero-digestive superioare",
@@ -4995,7 +4995,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Sinuzită cronică sau recurentă",
@@ -5082,7 +5082,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare chirurgicală endoscopică rinosinusală (FESS)",
@@ -5160,7 +5160,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Hipoacuzie de transmisie, neurosenzorială sau mixtă",
@@ -5248,7 +5248,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Tromboză de sinusuri venoase cerebrale (tromboflebită cerebrală)",
@@ -5340,7 +5340,7 @@
     "modality": "ct",
     "protocol_type": "spine",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Evaluare post-mielografie cu contrast intratecal",
@@ -5420,7 +5420,7 @@
     "modality": "ct",
     "protocol_type": "neuroradiology",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Accident vascular cerebral ischemic acut (Cod AVC)",
@@ -5518,7 +5518,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Leziune vasculară post-traumatică la nivelul membrului inferior",
@@ -5601,7 +5601,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism toracic închis cu suspiciune de leziune aortică traumatică",
@@ -5691,7 +5691,7 @@
     "modality": "ct",
     "protocol_type": "trauma",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Pacientă gravidă cu politraumatism",
@@ -5763,7 +5763,7 @@
     "modality": "ct",
     "protocol_type": "trauma",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism cranio-cerebral (TCC)",
@@ -5849,7 +5849,7 @@
     "modality": "ct",
     "protocol_type": "trauma",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism facial sever / agresiune fizică",
@@ -5943,7 +5943,7 @@
     "modality": "ct",
     "protocol_type": "trauma",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Traumatism toracic închis (blunt chest trauma)",
@@ -6038,7 +6038,7 @@
     "modality": "ct",
     "protocol_type": "trauma",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Suspiciune de anevrism de aortă abdominală (AAA) rupt sau fisurat",
@@ -6136,7 +6136,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Anevrism de aortă abdominală (AAA)",
@@ -6228,7 +6228,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Ischemie mezenterică acută (durere abdominală severă necorelată cu examenul clinic)",
@@ -6319,7 +6319,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Boală arterială periferică (arteriopatie obliterantă a membrelor inferioare - AOMI)",
@@ -6411,7 +6411,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Insuficiență arterială a membrului superior / ischemie acută sau cronică",
@@ -6494,7 +6494,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Endofibroza arterei iliace externe la cicliști de performanță",
@@ -6584,7 +6584,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-procedurală pentru embolizarea arterelor prostatice (PAE)",
@@ -6666,7 +6666,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-operatorie pentru recoltare de lambou liber (fibulă, lambou anterolateral de coapsă - ALT)",
@@ -6748,7 +6748,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Planificare pre-operatorie pentru reconstrucție mamară cu lambou liber DIEP (Deep Inferior Epigastric Perforator)",
@@ -6830,7 +6830,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Screening vascular după disecție spontană de arteră coronară (SCAD)",
@@ -6936,7 +6936,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Sindrom de pensare / încarcerare a arterei poplitee",
@@ -7035,7 +7035,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Anevrism de aortă toracică (fără interesarea rădăcinii aortice)",
@@ -7126,7 +7126,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Anevrism toraco-abdominal de aortă (TAAA)",
@@ -7226,7 +7226,7 @@
     "modality": "ct",
     "protocol_type": "contrast-enhanced",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Suspiciune de trombembolism pulmonar (TEP)",
@@ -7413,7 +7413,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Tromboză venoasă profundă ilio-femurală sau cavă inferioară (TVP)",
@@ -7495,7 +7495,7 @@
     "modality": "ct",
     "protocol_type": "vascular",
     "last_updated": "2026-01-01",
-    "author": "",
+    "author": "Departamentul de Radiologie",
     "synonyms": [],
     "clinical_indications": [
       "Sindrom de venă cavă superioară (SVCS)",
@@ -7585,7 +7585,7 @@
       "Evaluarea colecistului, pancreasului, splinei și rinichilor",
       "Screening abdominal de rutină și monitorizare ascită"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: À jeun (post alimentar strict) minimum 6 ore anterior examinării pentru evacuare",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7645,7 +7645,7 @@
       "Fibromatoză uterină, evaluarea grosimii endometriale",
       "Evaluarea vezicii urinare (polipi, tumori vezicale, litiază)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Ingestie de 750 - 1000 ml apă plată necarbogazoasă cu 60-90 minute anterior exam",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7698,7 +7698,7 @@
       "Insuficiență renală acută sau cronică, monitorizare chisturi renale",
       "Evaluarea reziduului urinar post-micțional (RPM)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Hidratare per os (500 ml apă cu 45 min anterior examinării) pentru repleție vezi",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7750,7 +7750,7 @@
       "Suspiciune de hemoperitoneu, hemotorace, pneumotorace sau tamponadă cardiacă",
       "Triage rapid în camera de gardă (UPU)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire prealabilă (situație de urgență); decubit dorsal strict.",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7819,7 +7819,7 @@
       "Leziuni ale ligamentelor colaterale (LCM / LCL)",
       "Boala Osgood-Schlatter la adolescenți"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit dorsal cu genunchiul flectat la 30° pentru recesul anterior; decubit ven",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7871,7 +7871,7 @@
       "Fascită plantară, durere la primii pași de dimineață în călcâi",
       "Entorse de gleznă (leziune ligament talofibular anterior - LTFA, calcaneofibular - LCF)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit ventral cu picioarele atârnând liber la marginea mesei de examinare; man",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7924,7 +7924,7 @@
       "Tendinită sau instabilitate de tendon lung al bicepsului brahial (TLBB)",
       "Bursită subacromio-subdeltoidiană (SASD)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Pacient așezat pe scaun rotativ, fără spătar, brațul mobil liber pentru manevre ",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -7985,7 +7985,7 @@
       "Suspiciune de adenom paratiroidian în hiperparatiroidism primar",
       "Monitorizare postoperatorie sau post-terapie cu iod radioactiv"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială; hiperextensia gâtului cu un suport sub umeri; îndepărta",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8037,7 +8037,7 @@
       "Limfadenită acută sau cronică, suspiciune de tuberculoză ganglionară",
       "Monitorizare post-terapeutică oncologică"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit dorsal cu hiperextensia gâtului și rotația capului contralateral ariei e",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8073,7 +8073,7 @@
       "Formațiuni tumorale salivare (adenom pleomorf, tumoră Warthin)",
       "Sialadenită acută bacteriană / virală (oreion), sindrom Sjögren"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială; stimularea secreției salivare (suc de lămâie) poate fi ",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8117,7 +8117,7 @@
       "Corpi străini radiotransparenți subcutanați (lemn, spini, sticlă)",
       "Hernii parietale abdominale (epigastrică, ombilicală, Spiegel, inghinală)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială; poziționare adaptată regiunii anatomice afectate.",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8153,7 +8153,7 @@
       "Dureri paroxistice cu plâns inconsolabil și scaun cu aspect de 'peltea de coacăze' (suspiciune de Invaginație Intestinală)",
       "Limfadenită mezenterică la copilul mic"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: La sugarul suspect de SHP: examinare după administrare de puțină glucoză per os ",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8206,7 +8206,7 @@
       "Creștere rapidă a perimetrului cranian, suspiciune de hidrocefalie",
       "Screening malformații cerebrale congenitale sau infecții TORCH"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Sugar calm, preferabil alimentat anterior; capul stabilizat cu blândețe de către",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8250,7 +8250,7 @@
       "Semne clinice de instabilitate la examenul ortopedic pediatric (semnul Ortolani, Barlow pozitiv)",
       "Asimetrie de pliuri coxo-femurale, inegalitate aparentă de membre inferioare (semn Galeazzi)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Sugar liniștit, alimentat recent; îmbrăcăminte lejeră în jumătatea inferioară.",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8287,7 +8287,7 @@
       "Caracterizarea leziunilor nodulare (chist simplu vs. masă solidă)",
       "Ghidaj pentru puncție biopsie mamară percutană (Core Biopsy)"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit dorsal cu brațul de partea examinată ridicat deasupra capului pentru apl",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8332,7 +8332,7 @@
       "Abolirea sau diminuarea pulsurilor periferice (femural, popliteu, tibial posterior, pedios)",
       "Monitorizare post-bypass arterial periferic sau angioplastie percutană"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Repaus fizic culcat 10-15 minute anterior examinării pentru stabilizarea hemodin",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8384,7 +8384,7 @@
       "Insuficiență venoasă cronică, boală varicoasă, ulcer venos de gambă",
       "Tromboflebită superficială (safenă mare / mică) și evaluarea extensiei către crosa safeno-femurală"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială; decubit dorsal pentru sistemul venos profund femural; o",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8436,7 +8436,7 @@
       "Monitorizarea periodică a diametrului anevrismelor de aortă abdominală cunoscute (<55 mm)",
       "Evaluarea extensiei către arterele iliace și excluderea disecției de aortă abdominală"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: À jeun 6 ore pentru reducerea gazelor intestinale suprapuse peste retroperitoneu",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8481,7 +8481,7 @@
       "Monitorizare post-endarterectomie carotidiană sau angioplastie cu stent",
       "Sindrom de furt subclavicular, vertij de cauză hemodinamică"
     ],
-    "position": "",
+    "position": "Decubit dorsal adaptat ferestrei acustice / pregătire: Fără pregătire specială; relaxarea musculaturii gâtului, fără vorbire în timpul ",
     "npo": "",
     "premedication": "",
     "contrast": {},
@@ -8534,7 +8534,7 @@
       "Dilatație inexplicabilă a căii biliare principale observată intraoperator",
       "Verificarea permeabilității joncțiunii bilio-duodenale și a funcției sfincterului Oddi"
     ],
-    "position": "",
+    "position": "Decubit dorsal pe masa de operație cu brațul stâng la 90° și dreptul la trunchi",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8568,7 +8568,7 @@
       "Controlul alinierii axiale și a lungimii membrelor în timpul manevrelor de tracțiune pe masa ortopedică",
       "Verificarea orientării componentelor protetice în artroplastiile complexe de șold sau genunchi"
     ],
-    "position": "",
+    "position": "Decubit dorsal (sau lateral) pe masa ortopedică radiotransparentă conform segmentului osos operat",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8601,7 +8601,7 @@
       "Stenoză degenerativă de canal vertebral cu claudicație neurogenă (infiltrație interlaminară sau transforaminală)",
       "Sindrom dureros post-laminectomie (failed back surgery syndrome)"
     ],
-    "position": "",
+    "position": "Decubit ventral relaxat cu brațele deasupra capului",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8635,7 +8635,7 @@
       "Pregătirea accesului caliceal percutanat pentru nefrolitotomie percutanată (NLP)",
       "Eșecul montării retrograde pe cale cistoscopică a stentului ureteral Double J"
     ],
-    "position": "",
+    "position": "Decubit ventral sau oblic 30° pe masa chirurgicală radiotransparentă",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8669,7 +8669,7 @@
       "Fistule colo-vezicale, colo-vaginale sau colo-cutanate",
       "Control post-operator după intervenții colorectale (Hartmann, rezecții anterioare joase)"
     ],
-    "position": "",
+    "position": "Examinare dinamică: Decubit lateral stâng (Sims) pentru inserția canulei, rotire în decubit ventral, decubit lateral drept, decubit dorsal și poziții oblice (OAD, OAS, oblic axial Chassard-Lapiné pentru rect și sigmoid)",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8704,7 +8704,7 @@
       "Suspiciune de neoplasm esofagian (evaluare lungime și localizare stenoză)",
       "Evaluare post-operatorie a anastomozelor esofagiene (după confirmare preliminară cu contrast hidrosolubil)"
     ],
-    "position": "",
+    "position": "Ortostatism în Oblic Anterior Drept (OAD 35-40°) pentru derularea optimă a esofagului între coloana vertebrală și cord; completat cu incidență profil și clinostatism",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8738,7 +8738,7 @@
       "Diverticuloză duodenală și tulburări de evacuare gastrică (atonie, gastropareză diabetică)",
       "Compresiuni extrinseci gastrice de la nivelul pancreasului sau ficatului"
     ],
-    "position": "",
+    "position": "Examinare dinamică multifazică: Debut în ortostatism (OAD, OAS, PA), urmat de decubit dorsal, decubit ventral, decubit oblic și Trendelenburg 15°",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8772,7 +8772,7 @@
       "Suspiciune de neoplazie sau limfom al intestinului subțire, diverticul Meckel complicat",
       "Episoade repetate de subocluzie mecanică prin bride peritoneale postoperatorii"
     ],
-    "position": "",
+    "position": "Decubit ventral (poziție esențială: compresiunea naturală exercitată de greutatea pacientului pe planul mesei etalează ansele jejuno-ileale prevenind aglomerarea lor în pelvis); decubit dorsal la compresia manuală țintită",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8807,7 +8807,7 @@
       "Anomalii de duplicitate pielo-ureterală cu ureterocel ectopic",
       "Sindroame dismorfice congenitale asociate cu afectare urinară (Prune Belly, sindrom VACTERL)"
     ],
-    "position": "",
+    "position": "Decubit dorsal pe masa radiologică; în timpul micțiunii la băieți poziție oblică 35-45° cu coapsa inferioară flectată; la fetițe decubit dorsal AP",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8838,7 +8838,7 @@
       "Copil stabil hemodinamic, fără semne clinice de peritonită, fără șoc toxico-septic și fără pneumoperitoneu",
       "Debut al simptomatologiei de preferință sub 24 - 48 ore de la debutul primelor colici abdominale"
     ],
-    "position": "",
+    "position": "Decubit dorsal pe masa radiologică",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8874,7 +8874,7 @@
       "Incontinență urinară complexă și evaluarea dissinergiei vezico-sfincteriene neurogene",
       "Control postoperator după reimplantare uretero-vezicală (Cohen, Politano-Leadbetter) sau plastie de uretră"
     ],
-    "position": "",
+    "position": "Decubit dorsal pentru sondare și faza de umplere; În faza micțională: la bărbați poziție Oblică Anterioară Dreaptă sau Stângă (35-45°) cu coapsa inferioară flectată și cea superioară extinsă (etalarea uretrei fără suprapunere pe oasele bazinului); la femei incidență AP",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8908,7 +8908,7 @@
       "Evaluarea stenozei tubare proximale sau a hidrosalpinxului distal",
       "Verificarea permeabilității post-microchirurgie tubară sau controlul ocluziei după sterilizare tubară (Essure)"
     ],
-    "position": "",
+    "position": "Poziție ginecologică (decubit dorsal cu genunchii flectați și coapsele în abducție) pe masa radiologică; centrare pe pelvisul osos inferior",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8941,7 +8941,7 @@
       "Evaluarea defectelor de umplere ureterale (calculi radiotransparenți de acid uric, cheaguri, tumori uroteliale)",
       "Ghidaj fluoroscopic pentru montarea stenturilor ureterale autostatice Double J sau cateterelor de nefrostomie"
     ],
-    "position": "",
+    "position": "Decubit dorsal pe masa urologică radiotransparentă cu telecomandă sau sistem C-Arm mobil",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -8974,7 +8974,7 @@
       "Colangită sclerozantă primitivă (CSP) - diagnostic și monitorizare stricturi",
       "Anomalii congenitale ale arborelui biliar (chist de coledoc, pancreas divisum)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe rebordul costal drept.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9040,7 +9040,7 @@
       "Evaluare răspuns terapeutic la medicație biologică anti-TNF",
       "Urmărire la tineri și copii fără expunere la radiații ionizante"
     ],
-    "position": "",
+    "position": "Decubit ventral (prone) preferat deoarece reduce grosimea abdomenului și separă ansele ileale, sau decubit dorsal dacă nu este tolerat.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9114,7 +9114,7 @@
       "Diferențiere leziuni benigne (hemangiom, hiperplazie nodulară focală FNH, adenom hepatic) de leziuni maligne",
       "Bilanț pre-operator / transplant hepatic și stadializare metastaze hepatice"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe rebordul costal inferior (apendice xifoid), curea de monitorizare respiratorie montată pe abdomen.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9189,7 +9189,7 @@
       "Caracterizarea maselor ovariene complexe conform scorului O-RADS MRI",
       "Cartografiere fibromatoză uterină (miometrectomie vs. embolizare artere uterine)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe simfiza pubiană.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9264,7 +9264,7 @@
       "Supraveghere activă a pacienților cu cancer de prostată cu risc scăzut",
       "Evaluare recidivă biochimică după prostatectomie radicală sau radioterapie"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare la 2 cm deasupra simfizei pubiene.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9347,7 +9347,7 @@
       "Cuantificare precisă volume ventriculare și fracție de ejecție (FEVS, FEVD - gold standard)",
       "Aritmii ventriculare de cauză neclară, displazie aritmogenă de ventricul drept (ARVD)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe linia mediosternală la nivelul spațiului IV intercostal.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9421,7 +9421,7 @@
       "Evaluarea activității inflamatorii (edem osos subcondral activ) înaintea inițierii terapiei biologice",
       "Diagnostic diferențial: osteitis condensans ilii, infecție (sacroiliită septică), fracturi de insuficiență"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe linia medio-sagitală la 3 cm sub spinele iliace antero-superioare.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9488,7 +9488,7 @@
       "Leziuni osteocondrale, osteocondrită disecantă, corpi liberi intra-articulari",
       "Dureri anterioare de genunchi, patologie rotuliană (condromalacie, instabilitate)"
     ],
-    "position": "",
+    "position": "Decubit dorsal cu picioarele înainte, genunchiul fixat rigid în antenă cu perne de spumă.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9563,7 +9563,7 @@
       "Sindrom de impingement de gleznă (anterior / posterior - os trigonum)",
       "Fasciită plantară, neurom Morton sau fracturi de stres metatarsiene"
     ],
-    "position": "",
+    "position": "Decubit dorsal cu picioarele înainte, piciorul afectat în unghi drept (90°).",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9630,7 +9630,7 @@
       "Leziuni de labrum superior (SLAP lesion) și tendon lung al bicepsului",
       "Capsulită retractilă ('umăr înghețat') sau osteonecroză aseptică cap humeral"
     ],
-    "position": "",
+    "position": "Decubit dorsal, pacientul decalat ușor spre partea opusă pentru a aduce umărul cât mai aproape de izocentrul magnetului.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9696,7 +9696,7 @@
       "Diagnostic stenoză / ocluzie aterosclerotică a arterelor cerebrale mari",
       "Cefalee acută brusc instalată (excludere anevrism fisurat / disecție arterială)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe conductele auditive externe.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9747,7 +9747,7 @@
       "Epilepsie / crize convulsive cu debut recent",
       "Evaluare infecții SNC (meningo-encefalită, abces cerebral)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, cap centrat în izocentru pe nasion, imobilizare confortabilă cu pernuțe de spumă.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9829,7 +9829,7 @@
       "Suspiciune de ocluzie de vas mare intracranian (LVO)",
       "Diagnostic diferențial stroke-mimic (migrenă cu aură, criză epileptică post-ictală Todd, hipoglicemie)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare nasion, cap fixat pentru evitarea mișcării.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9895,7 +9895,7 @@
       "Traumatism vertebro-medular cervical (evaluare ligamente, discuri și măduvă)",
       "Suspiciune de leziune demielinizantă medulară cervicală sau siringomielie"
     ],
-    "position": "",
+    "position": "Decubit dorsal, gâtul în rectitudine anatomică, pernuță sub cap și genunchi flectați ușor pe suport.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -9962,7 +9962,7 @@
       "Suspiciune de spondilodiscită infecțioasă sau metastaze vertebrale",
       "Evaluare post-operatorie (diferențiere hernie recidivată vs. fibroză periradiculară cicatricială)"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe vertebra L3 (la 2-3 cm deasupra crestelor iliace).",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -10036,7 +10036,7 @@
       "Diabet insipid central (evaluare neurohipofiză și tijă pituitară)",
       "Deficite hormonale hipofizare / panhipopituitarism"
     ],
-    "position": "",
+    "position": "Decubit dorsal, centrare pe nasion, plan de scanare strict perpendicular pe planul selar.",
     "npo": "",
     "premedication": "",
     "contrast": {
@@ -10112,7 +10112,7 @@
       "Carcinom ocult cu metastază ganglionară axilară și mamografie/ecografie negative",
       "Evaluarea integrității implantelor mamare (ruptură intracapsulară / extracapsulară)"
     ],
-    "position": "",
+    "position": "Decubit ventral (prone), ambii sâni coborâți liber în cupele antenei fără compresie excesivă.",
     "npo": "",
     "premedication": "",
     "contrast": {

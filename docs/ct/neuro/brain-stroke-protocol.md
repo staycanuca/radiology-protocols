@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Accident vascular cerebral ischemic acut (Cod AVC)
@@ -92,6 +92,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Protocol CT AVC Acut (Cod AVC Cerebral)
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Protocol CT AVC Acut (Cod AVC Cerebral)
@@ -214,3 +229,8 @@ title: Protocol CT AVC Acut (Cod AVC Cerebral)
     | Axial | Angio-CT Arc Aortic la Vertex | Craniu | 1 mm/1 mm | Brain |  | Detecția ocluziei de vas mare (LVO) |
     | MIP | Angio-CT Arc Aortic la Vertex | Craniu | 5 mm/2 mm | Brain |  | MIP pentru rețeaua colaterală vasculară pială |
     | CTP maps | Perfuzie CT (opțional) | Craniu | 5 mm/5 mm | N/A |  | Hărți color de perfuzie cerebrală (CBF, CBV, MTT, Tmax) |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

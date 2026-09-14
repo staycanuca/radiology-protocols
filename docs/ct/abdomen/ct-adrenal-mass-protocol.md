@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: abdomen
 clinical_indications:
 - Caracterizarea formațiunilor suprarenaliene
@@ -87,6 +87,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Protocol Masă Suprarenaliană (Washout)
+sources:
+- title: AAPM CT Protocols — Adult Abdomen/Pelvis CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: f0c7c2e31da9a9ed24dbdef7bd5b38994d670ba52d21b702faac79b97ace00c3
+- title: UT Southwestern Radiology — CT Abdomen & Pelvis Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Protocol Masă Suprarenaliană (Washout)
@@ -209,3 +224,8 @@ title: CT Protocol Masă Suprarenaliană (Washout)
     | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Evaluarea încărcării vasculare |
     | Axial | Fază Tardivă la 15 Minute | Abdomen | 2.5 mm/2.5 mm | Standard |  | Măsurare densitate HU pentru spălare (washout) |
     | Coronal | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Vedere anatomică de ansamblu |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Abdomen/Pelvis CT](https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Abdomen & Pelvis Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

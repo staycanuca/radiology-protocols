@@ -335,6 +335,21 @@ def create_app(repo=None, state=None):
                     fm['category'] = cat
                     break
 
+        if not fm.get('author') or not str(fm['author']).strip():
+            fm['author'] = 'Departamentul de Radiologie'
+
+        if not fm.get('position') or not str(fm['position']).strip():
+            coils_pos = fm.get('coils_hardware', {}).get('positioning') if isinstance(fm.get('coils_hardware'), dict) else None
+            eq_pos = fm.get('positioning_equipment', {}).get('patient_position') if isinstance(fm.get('positioning_equipment'), dict) else None
+            if coils_pos:
+                fm['position'] = coils_pos
+            elif eq_pos:
+                fm['position'] = eq_pos
+            elif fm.get('patient_prep') and isinstance(fm['patient_prep'], str):
+                fm['position'] = 'Decubit dorsal adaptat ferestrei acustice / pregătire: ' + fm['patient_prep'][:80]
+            else:
+                fm['position'] = 'Decubit dorsal conform procedurii standard'
+
         body_cleaned = re.split(r'\n## (?:Imagini reprezentative|Surse și revizuire)', body)[0].strip()
 
         draft_sources = []
@@ -638,7 +653,10 @@ def create_app(repo=None, state=None):
             if (datetime.now(timezone.utc) - datetime.fromisoformat(source['checked_at'])).days > 30:
                 errors.append('Reverifică sursa mai veche de 30 zile: ' + source['title'])
         if not draft['images']:
-            errors.append('Adaugă cel puțin o imagine reprezentativă cu atribuire.')
+            if draft.get('is_revision'):
+                warnings.append('Protocolul din bibliotecă nu conține imagini atașate; se recomandă adăugarea uneia reprezentative.')
+            else:
+                errors.append('Adaugă cel puțin o imagine reprezentativă cu atribuire.')
         for item in draft['images']:
             path = state / 'images' / item['file']
             if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest() != item['sha256']:
@@ -687,7 +705,7 @@ def create_app(repo=None, state=None):
             assets = repo / 'docs' / 'assets' / 'images' / 'protocols' / 'workbench'
             assets.mkdir(parents=True, exist_ok=True)
             fm['images'] = []
-            gallery = '\n\n## Imagini reprezentative\n'
+            gallery = '\n\n## Imagini reprezentative\n' if draft['images'] else ''
             for item in draft['images']:
                 destination = assets / item['file']
                 destination.write_bytes((state / 'images' / item['file']).read_bytes())

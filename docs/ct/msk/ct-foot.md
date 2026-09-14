@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: msk
 clinical_indications:
 - Fracturi de oase tarsiene (calcaneu, talus, navicular, cuboid, cuneiforme)
@@ -72,6 +72,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Picior
+sources:
+- title: ACR-SSR Practice Parameter for Musculoskeletal CT
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CT-MSK.pdf
+  institution: ACR / SSR
+  source_region: US
+  kind: Standard de practică MSK
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: c0429ea24ea0955f09249fe969fc88b0a48e70073a42bab3ba08be042e1085f4
+- title: UT Southwestern Radiology — Musculoskeletal CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Picior
@@ -191,3 +206,8 @@ title: CT Picior
     | Coronal | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan coronal perpendicular pe metatarsiene |
     | Sagital | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan sagital pentru bolta plantară și calcaneu |
     | Oblique | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan oblic dedicat articulației Lisfranc |
+
+## Surse și revizuire
+
+- [ACR-SSR Practice Parameter for Musculoskeletal CT](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CT-MSK.pdf) — *ACR / SSR* (US)
+- [UT Southwestern Radiology — Musculoskeletal CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

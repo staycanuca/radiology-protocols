@@ -61,6 +61,24 @@ transducers_equipment:
     și decubit ventral pentru rinichi ectopici/ptotici
   transducer_types: Sondă Convexă 3.5 - 5.0 MHz (screening) + Sondă Liniară 7.5 -
     12.0 MHz (pentru joncțiuni ureterovezicale și calculi vezicali mici)
+sources:
+- title: AIUM Practice Parameter for the Performance of an Ultrasound Examination
+    of the Abdomen and/or Retroperitoneum
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM
+  source_region: US
+  kind: Parametru de practică US abdomen
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Abdominal Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Hidratare per os
+  (500 ml apă cu 45 min anterior examinării) pentru repleție vezi'
 ---
 
 # Ecografie Renală și a Tractului Urinar
@@ -148,3 +166,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 În colica renală acută, absența dilatației pielocaliceale în primele ore nu exclude litiaza obstructivă incipientă. Se recomandă reevaluare sau CT nativ (Low-Dose) la persistența simptomelor.
+
+## Surse și revizuire
+
+- [AIUM Practice Parameter for the Performance of an Ultrasound Examination of the Abdomen and/or Retroperitoneum](https://www.aium.org/resources/practice-parameters) — *AIUM* (US)
+- [UT Southwestern Radiology — Abdominal Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

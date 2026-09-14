@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: vascular
 clinical_indications:
 - Tromboză venoasă profundă ilio-femurală sau cavă inferioară (TVP)
@@ -77,6 +77,22 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Flebo-CT (CTV) Abdomen și Pelvis (Sistem Venos Ilio-Cav)
+sources:
+- title: ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic
+    Angiography (CTA)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf
+  institution: ACR / NASCI / SIR
+  source_region: US
+  kind: Standard de practică angio-CT
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bf7ff18eff996f000474c6a03d89a358f09f8af2ee90da1217121760ae1ae6f9
+- title: UT Southwestern Radiology — CTA & Vascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Flebo-CT (CTV) Abdomen și Pelvis (Sistem Venos Ilio-Cav)
@@ -196,3 +212,8 @@ title: Flebo-CT (CTV) Abdomen și Pelvis (Sistem Venos Ilio-Cav)
     | Coronal | Fază Venoasă CTV | Abdomen-Pelvis | 2 mm/2 mm | Standard |  | MIP al sistemului venos cavo-iliac |
     | Sagital | Fază Venoasă CTV | Abdomen-Pelvis | 2 mm/2 mm | Standard |  | VCI și pensa iliacă (May-Thurner) |
     | 3D VR | Fază Venoasă CTV | Abdomen-Pelvis | 1 mm/1 mm | Standard |  | Randare tridimensională 3D a anatomiei venoase |
+
+## Surse și revizuire
+
+- [ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic Angiography (CTA)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf) — *ACR / NASCI / SIR* (US)
+- [UT Southwestern Radiology — CTA & Vascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

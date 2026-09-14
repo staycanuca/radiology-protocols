@@ -54,6 +54,24 @@ transducers_equipment:
   patient_position: Decubit lateral strict (drept apoi stâng) pe un suport dedicat
     sau susținut de părinte
   transducer_types: Sondă Liniară Pediatrică 7.5 - 12.0 MHz
+sources:
+- title: AIUM-ACR-SPR Practice Parameter for the Performance of Pediatric Ultrasound
+    Examinations
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM / ACR / SPR
+  source_region: US
+  kind: Parametru de practică ecografie pediatrică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Pediatric Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Sugar liniștit,
+  alimentat recent; îmbrăcăminte lejeră în jumătatea inferioară.'
 ---
 
 # Ecografie de Șold la Sugar (Screeningul Displaziei de Dezvoltare - Metoda Graf)
@@ -137,3 +155,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 Ecografia Graf efectuată precoce (4-6 săptămâni) permite tratamentul conservator simplu cu ham Pavlik, evitând chirurgia complexă a luxației neglijate.
+
+## Surse și revizuire
+
+- [AIUM-ACR-SPR Practice Parameter for the Performance of Pediatric Ultrasound Examinations](https://www.aium.org/resources/practice-parameters) — *AIUM / ACR / SPR* (US)
+- [UT Southwestern Radiology — Pediatric Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

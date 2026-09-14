@@ -88,7 +88,26 @@ sequences:
   tr_te: TR 550 ms / TE 10 ms
 slug: irm-mamar-bilateral-cu-contrast
 title: IRM Mamar Bilateral cu Substanță de Contrast - Protocol BI-RADS
+sources:
+- title: ACR-SBI Practice Parameter for the Performance of Contrast-Enhanced Magnetic
+    Resonance Imaging (MRI) of the Breast
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/mr-breast.pdf
+  institution: ACR / SBI
+  source_region: US
+  kind: Standard de practică IRM mamar
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 8383f3c1a03f695ea1107c0b95efc04c0ee594d5086cbf6a95e3526806f4f2db
+- title: UT Southwestern Radiology — Breast MRI Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 15b64e8c0d1c83d4ed74c3e0e07b8690a60efdcc4e9083d1af807018cacc44f0
+position: Decubit ventral (prone), ambii sâni coborâți liber în cupele antenei fără
+  compresie excesivă.
 ---
+
 # IRM Mamar Bilateral cu Substanță de Contrast - Protocol BI-RADS
 
 <div class="irm-meta-bar">
@@ -190,3 +209,8 @@ title: IRM Mamar Bilateral cu Substanță de Contrast - Protocol BI-RADS
     2. **Verificare Implanturi Medicale:** Pacienții cu stimulatoare cardiace (pacemaker/ICD), neurostimulatoare, pompe de insulină, clipuri anevrismale intracraniene sau corpi străini intraoculari metalici necesită documentare strictă "MR Conditional" la puterea de câmp utilizată (1.5T vs 3.0T).
     3. **Rată Specifică de Absorbție (SAR):** Monitorizarea depunerii de energie de radiofrecvență (RF) în țesuturi. Respectarea limitei modului normal de operare (SAR corp întreg < 2.0 W/kg) pentru prevenirea supraîncălzirii termice, în special la pacienți febrili sau obezi.
     4. **Atenuare Artefacte:** Utilizarea benzilor de saturație spațială pentru eliminarea artefactelor de pulsație vasculară/deglutiție, calibrarea supresiei de grăsime (Dixon/SPAIR) în prezența materialelor de osteosinteză titan.
+
+## Surse și revizuire
+
+- [ACR-SBI Practice Parameter for the Performance of Contrast-Enhanced Magnetic Resonance Imaging (MRI) of the Breast](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/mr-breast.pdf) — *ACR / SBI* (US)
+- [UT Southwestern Radiology — Breast MRI Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html) — *UT Southwestern* (US)

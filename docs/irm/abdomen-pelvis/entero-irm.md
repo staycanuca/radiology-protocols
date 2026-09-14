@@ -85,7 +85,26 @@ sequences:
   tr_te: TR 3.8 ms / TE 1.6 ms
 slug: entero-irm
 title: Entero-IRM (Protocol Boală Inflamatorie Intestinală - Crohn)
+sources:
+- title: UT Southwestern Radiology — Abdomen & Pelvis MRI Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 15b64e8c0d1c83d4ed74c3e0e07b8690a60efdcc4e9083d1af807018cacc44f0
+- title: ACR-SAR-SPR Practice Parameter for the Performance of Magnetic Resonance
+    Imaging (MRI) of the Abdomen and Pelvis
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Abd-Pel.pdf
+  institution: ACR / SAR
+  source_region: US
+  kind: Standard de practică IRM
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 96d9b81fe5cc97327da7ae58176482d43b9367d0e227000b2e105e7199658f88
+position: Decubit ventral (prone) preferat deoarece reduce grosimea abdomenului și
+  separă ansele ileale, sau decubit dorsal dacă nu este tolerat.
 ---
+
 # Entero-IRM (Protocol Boală Inflamatorie Intestinală - Crohn)
 
 <div class="irm-meta-bar">
@@ -184,3 +203,8 @@ title: Entero-IRM (Protocol Boală Inflamatorie Intestinală - Crohn)
     2. **Verificare Implanturi Medicale:** Pacienții cu stimulatoare cardiace (pacemaker/ICD), neurostimulatoare, pompe de insulină, clipuri anevrismale intracraniene sau corpi străini intraoculari metalici necesită documentare strictă "MR Conditional" la puterea de câmp utilizată (1.5T vs 3.0T).
     3. **Rată Specifică de Absorbție (SAR):** Monitorizarea depunerii de energie de radiofrecvență (RF) în țesuturi. Respectarea limitei modului normal de operare (SAR corp întreg < 2.0 W/kg) pentru prevenirea supraîncălzirii termice, în special la pacienți febrili sau obezi.
     4. **Atenuare Artefacte:** Utilizarea benzilor de saturație spațială pentru eliminarea artefactelor de pulsație vasculară/deglutiție, calibrarea supresiei de grăsime (Dixon/SPAIR) în prezența materialelor de osteosinteză titan.
+
+## Surse și revizuire
+
+- [UT Southwestern Radiology — Abdomen & Pelvis MRI Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/mr.html) — *UT Southwestern* (US)
+- [ACR-SAR-SPR Practice Parameter for the Performance of Magnetic Resonance Imaging (MRI) of the Abdomen and Pelvis](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/MR-Abd-Pel.pdf) — *ACR / SAR* (US)

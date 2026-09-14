@@ -58,6 +58,24 @@ transducers_equipment:
   patient_position: Decubit dorsal; decubit ventral sau lateral pentru artera poplitee
   transducer_types: Sondă Liniară Vasculară 5.0 - 10.0 MHz + Sondă Convexă 3.5 MHz
     (pentru arterele iliace comune și externe)
+sources:
+- title: AIUM-ACR-SRU Practice Parameter for the Performance of Peripheral Arterial
+    and Venous Ultrasound
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM / ACR / SRU
+  source_region: US
+  kind: Parametru de practică Doppler vascular
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Vascular Doppler Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Repaus fizic culcat
+  10-15 minute anterior examinării pentru stabilizarea hemodin'
 ---
 
 # Ecografie Doppler Arterial al Membrelor Inferioare
@@ -144,3 +162,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 Ecografia Doppler arterială este metoda neinvazivă inițială esențială de stadializare a arteriopatiei obliterante conform clasificării Leriche-Fontaine.
+
+## Surse și revizuire
+
+- [AIUM-ACR-SRU Practice Parameter for the Performance of Peripheral Arterial and Venous Ultrasound](https://www.aium.org/resources/practice-parameters) — *AIUM / ACR / SRU* (US)
+- [UT Southwestern Radiology — Vascular Doppler Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

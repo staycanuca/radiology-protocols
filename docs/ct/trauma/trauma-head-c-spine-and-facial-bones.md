@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: trauma
 clinical_indications:
 - Traumatism facial sever / agresiune fizică
@@ -84,6 +84,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Craniu, Coloană Cervicală și Masiv Facial în Traumatism
+sources:
+- title: ACR Appropriateness Criteria — Major Blunt Trauma
+  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
+  institution: ACR
+  source_region: US
+  kind: Criterii de oportunitate clinică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
+- title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Craniu, Coloană Cervicală și Masiv Facial în Traumatism
@@ -192,3 +207,8 @@ title: CT Craniu, Coloană Cervicală și Masiv Facial în Traumatism
     | Sagital | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Aliniament coloană cervicală |
     | Axial | CT Nativ Masiv Facial | Față | 1 mm/1 mm | Bone |  | Oase faciale și sinusuri paranazale |
     | Coronal | CT Nativ Masiv Facial | Față | 1 mm/1 mm | Bone |  | Plan coronal pentru orbite și schelet facial |
+
+## Surse și revizuire
+
+- [ACR Appropriateness Criteria — Major Blunt Trauma](https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria) — *ACR* (US)
+- [UT Southwestern Radiology — Trauma Whole-Body CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

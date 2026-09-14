@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: abdomen
 clinical_indications:
 - Caracterizarea leziunilor focale hepatice
@@ -96,6 +96,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)
+sources:
+- title: AAPM CT Protocols — Adult Abdomen/Pelvis CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: f0c7c2e31da9a9ed24dbdef7bd5b38994d670ba52d21b702faac79b97ace00c3
+- title: UT Southwestern Radiology — CT Abdomen & Pelvis Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)
@@ -220,3 +235,8 @@ title: CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)
     | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Examinare abdomen complet în fază portală |
     | Coronal | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Comparație în plan coronal |
     | Subtraction | Fază Arterială Tardivă | Ficat | 2.5 mm/2.5 mm | Standard |  | Substracție pentru creșterea conspicuității leziunilor |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Abdomen/Pelvis CT](https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Abdomen & Pelvis Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

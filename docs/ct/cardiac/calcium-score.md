@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: cardiac
 clinical_indications:
 - Stratificarea riscului cardiovascular la pacienți asimptomatici
@@ -62,6 +62,21 @@ tech_params:
   scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
   slice_thickness: 3 mm
 title: CT Scor de Calciu Coronarian (Scor Agatston)
+sources:
+- title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
+  institution: ACR / SCCT
+  source_region: US
+  kind: Standard de practică cardiovasculară
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
+- title: UT Southwestern Radiology — Cardiovascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Scor de Calciu Coronarian (Scor Agatston)
@@ -180,3 +195,8 @@ title: CT Scor de Calciu Coronarian (Scor Agatston)
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
     | Axial | Scor de Calciu | Cord | 3 mm/3 mm | Standard |  | Pentru calcularea scorului Agatston |
     | Axial | Scor de Calciu | Torace | 1.5 mm/1.5 mm | Lung |  | Câmp pulmonar pentru decelarea anomaliilor extracardiace |
+
+## Surse și revizuire
+
+- [SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf) — *ACR / SCCT* (US)
+- [UT Southwestern Radiology — Cardiovascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

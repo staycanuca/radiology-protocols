@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: vascular
 clinical_indications:
 - Endofibroza arterei iliace externe la cicliști de performanță
@@ -82,6 +82,22 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Angio-CT Pelvis Manevră Flexie Șold pentru Bicicliști (Endofibroză Iliacă)
+sources:
+- title: ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic
+    Angiography (CTA)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf
+  institution: ACR / NASCI / SIR
+  source_region: US
+  kind: Standard de practică angio-CT
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bf7ff18eff996f000474c6a03d89a358f09f8af2ee90da1217121760ae1ae6f9
+- title: UT Southwestern Radiology — CTA & Vascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Pelvis Manevră Flexie Șold pentru Bicicliști (Endofibroză Iliacă)
@@ -201,3 +217,8 @@ title: Angio-CT Pelvis Manevră Flexie Șold pentru Bicicliști (Endofibroză Il
     | Axial | Angio-CT Flexie Șold | Pelvis | 1.25 mm/1.25 mm | Vascular |  | Aprecierea compresiunii sau plierii în flexie |
     | Coronal | Angio-CT Flexie Șold | Pelvis | 2 mm/2 mm | Vascular |  | MIP comparativ repaus vs. manevră |
     | Sagital | Angio-CT Flexie Șold | Pelvis | 2 mm/2 mm | Vascular |  | Vedere laterală a curburii vaselor iliace |
+
+## Surse și revizuire
+
+- [ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic Angiography (CTA)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf) — *ACR / NASCI / SIR* (US)
+- [UT Southwestern Radiology — CTA & Vascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

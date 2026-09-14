@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Formațiune tumorală cervicală / suspiciune neoplazie căi aero-digestive superioare
@@ -72,6 +72,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Părți Moi Gât / Regiune Cervicală cu Substanță de Contrast
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Părți Moi Gât / Regiune Cervicală cu Substanță de Contrast
@@ -190,3 +205,8 @@ title: CT Părți Moi Gât / Regiune Cervicală cu Substanță de Contrast
     | Axial | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Fereastră de părți moi cervicale |
     | Coronal | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Plan coronal pentru spațiile parafaringiene și tiroidă |
     | Sagital | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Plan sagital pentru calea aeriană și spațiul retrofaringian |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

@@ -38,7 +38,24 @@ tech_params:
   kv: 45 - 50
   mas: 1.5 - 2.5
 title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
+sources:
+- title: Image Gently — Pediatric Digital Radiography Protocols
+  url: https://www.imagegently.org/Procedures/Digital-Radiography
+  institution: Image Gently Alliance
+  source_region: US
+  kind: Ghid pediatric de reducere a dozei
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
+- title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
+    pediatrică
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
+  institution: Comisia Europeană
+  source_region: UE
+  kind: Ghid european oficial
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
 ---
+
 # Rx Vârstă Osoasă (Mână & Pumn Stâng)
 
 <div class="rx-meta-bar">
@@ -121,3 +138,8 @@ title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+
+## Surse și revizuire
+
+- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography) — *Image Gently Alliance* (US)
+- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)

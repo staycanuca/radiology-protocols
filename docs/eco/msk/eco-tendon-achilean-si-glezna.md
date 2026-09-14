@@ -60,6 +60,24 @@ transducers_equipment:
   patient_position: Decubit ventral cu piciorul în afara mesei pentru tendonul achilean;
     decubit dorsal pentru glezna anterioară/laterală
   transducer_types: Sondă Liniară MSK 9.0 - 18.0 MHz de înaltă rezoluție
+sources:
+- title: AIUM-ACR-SPR-SRU Practice Parameter for the Performance of a Musculoskeletal
+    Ultrasound Examination
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM / ACR
+  source_region: US
+  kind: Parametru de practică US musculoscheletic
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Musculoskeletal Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: Decubit ventral
+  cu picioarele atârnând liber la marginea mesei de examinare; man'
 ---
 
 # Ecografie de Tendon Achilean, Gleznă și Fascie Plantară
@@ -145,3 +163,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 Ruptura de tendon achilean apare cel mai frecvent la 2-6 cm proximal de inserția calcaneană (zona critică hipovascularizată).
+
+## Surse și revizuire
+
+- [AIUM-ACR-SPR-SRU Practice Parameter for the Performance of a Musculoskeletal Ultrasound Examination](https://www.aium.org/resources/practice-parameters) — *AIUM / ACR* (US)
+- [UT Southwestern Radiology — Musculoskeletal Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

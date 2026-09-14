@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Tromboză de sinusuri venoase cerebrale (tromboflebită cerebrală)
@@ -84,6 +84,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)
@@ -205,3 +220,8 @@ title: Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)
     | MIP | Flebo-CT Cerebral | Craniu | 5 mm/2 mm | Brain |  | Privire de ansamblu MIP a flebografiei cerebrale |
     | 3D VR | Flebo-CT Cerebral | Craniu | 0.75 mm/0.75 mm | Brain |  | Randare tridimensională 3D a arborelui venos cerebral |
     | Sagital | Flebo-CT Cerebral | Craniu | 1.5 mm/1.5 mm | Brain |  | Sinusul sagital superior, sinusul drept și vena Galen |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

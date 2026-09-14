@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Hipoacuzie de transmisie, neurosenzorială sau mixtă
@@ -79,6 +79,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Stânci Temporale / Ureche Medie și Internă
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Stânci Temporale / Ureche Medie și Internă
@@ -201,3 +216,8 @@ title: CT Stânci Temporale / Ureche Medie și Internă
     | Coronal | CT Coronal Stânci Temporale | Stâncă temporală | 0.625 mm/0.625 mm | Bone sharp |  | Plan coronal osos pentru lanțul osicular și tegmen |
     | Oblique sagittal | CT Axial Stânci Temporale | Ureche medie | 0.5 mm/0.5 mm | Bone |  | Plan oblic orientat pe lanțul de oscioare |
     | Pöschl/Stenvers | CT Axial Stânci Temporale | Ureche internă | 0.5 mm/0.5 mm | Bone |  | Incidențe specifice Pöschl și Stenvers pentru CAI și canale semicirculare |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

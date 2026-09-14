@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Evaluare post-mielografie cu contrast intratecal
@@ -76,6 +76,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Mielo-CT (Mielografie CT)
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Mielo-CT (Mielografie CT)
@@ -195,3 +210,8 @@ title: Mielo-CT (Mielografie CT)
     | Sagital | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Plan mediosagital pentru compresiunea sacului dural |
     | Coronal | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Plan coronal pentru simetria emergențelor radiculare |
     | Oblique sagittal | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Reformatări oblice pe găurile de conjugare |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

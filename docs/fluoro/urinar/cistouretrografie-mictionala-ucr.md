@@ -102,7 +102,28 @@ radiation_safety:
   corectă a fasciculului deasupra scrotului
 slug: cistouretrografie-mictionala-ucr
 title: Cistouretrografie Micțională (UCR / CUM / Voiding Cystourethrography)
+sources:
+- title: ACR-SPR Practice Parameter for the Performance of Voiding Cystourethrography
+    and Urogenital Fluoroscopy
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf
+  institution: ACR / SPR
+  source_region: US
+  kind: Standard de practică fluoroscopie urinară
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 45621b1990b6eabf74f9996a8a9c707b6d18590d018367baf4fe51409a0450b0
+- title: UT Southwestern Radiology — Urogenital Diagnostic Fluoroscopy Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/diagnostic.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional fluoroscopie
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4d9de4a012f12a5d0ac28d46131bf9ab7e4668e6fae1937eaf76d68167f9290d
+position: 'Decubit dorsal pentru sondare și faza de umplere; În faza micțională: la
+  bărbați poziție Oblică Anterioară Dreaptă sau Stângă (35-45°) cu coapsa inferioară
+  flectată și cea superioară extinsă (etalarea uretrei fără suprapunere pe oasele
+  bazinului); la femei incidență AP'
 ---
+
 # Cistouretrografie Micțională (UCR / CUM / Voiding Cystourethrography)
 
 <div class="fluoro-meta-bar">
@@ -217,3 +238,8 @@ title: Cistouretrografie Micțională (UCR / CUM / Voiding Cystourethrography)
     3. **Optimizare Doză (ALARA):** Se utilizează regim de fluoroscopie pulsată (4 - 7.5 - 15 fps) în locul modului continuu și colimare strânsă strict pe zona de interes.
     4. **Last Image Hold (LIH):** Utilizarea imaginii înghețate pe monitor pentru decizii operatorii sau analize anatomice, fără reactivarea inutilă a pedalei de expunere.
     5. **Protecție Personal:** Toți membrii echipei prezenți în sală poartă echipament individual de protecție din plumb (șorț echivalent 0.35-0.5 mm Pb, guler tiroidian, ochelari plumbuiți) și păstrează o distanță maximă posibilă față de tub conform legii pătratului invers al distanței.
+
+## Surse și revizuire
+
+- [ACR-SPR Practice Parameter for the Performance of Voiding Cystourethrography and Urogenital Fluoroscopy](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf) — *ACR / SPR* (US)
+- [UT Southwestern Radiology — Urogenital Diagnostic Fluoroscopy Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/diagnostic.html) — *UT Southwestern* (US)

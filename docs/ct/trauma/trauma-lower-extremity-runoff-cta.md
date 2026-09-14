@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: trauma
 clinical_indications:
 - Leziune vasculară post-traumatică la nivelul membrului inferior
@@ -78,6 +78,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Angio-CT Membre Inferioare în Traumatism (Runoff Extremități)
+sources:
+- title: ACR Appropriateness Criteria — Major Blunt Trauma
+  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
+  institution: ACR
+  source_region: US
+  kind: Criterii de oportunitate clinică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
+- title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Membre Inferioare în Traumatism (Runoff Extremități)
@@ -197,3 +212,8 @@ title: Angio-CT Membre Inferioare în Traumatism (Runoff Extremități)
     | Coronal | Angio-CT Arterial Membre Inferioare | Membre inferioare | 2 mm/2 mm | Vascular |  | Vedere de ansamblu MIP pe axul arterial |
     | Sagital | Angio-CT Arterial Membre Inferioare | Membre inferioare | 2 mm/2 mm | Vascular |  | Raportul axului vascular cu structurile osoase |
     | 3D VR | Angio-CT Arterial Membre Inferioare | Membre inferioare | 1 mm/1 mm | Vascular |  | Randare tridimensională 3D VR vasculară |
+
+## Surse și revizuire
+
+- [ACR Appropriateness Criteria — Major Blunt Trauma](https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria) — *ACR* (US)
+- [UT Southwestern Radiology — Trauma Whole-Body CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

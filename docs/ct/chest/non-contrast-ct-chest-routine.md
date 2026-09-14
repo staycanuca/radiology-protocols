@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: chest
 clinical_indications:
 - Evaluare pneumonie / condensare alveolară / infecție
@@ -76,6 +76,21 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 1.25 mm
 title: CT Torace Nativ de Rutină
+sources:
+- title: AAPM CT Protocols — Routine Adult Chest CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: bec845e0b9aa0e1fbdd4cdc56ff2a4bb55e22590ee1e2f9b7329c8b90b876734
+- title: UT Southwestern Radiology — CT Chest Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Torace Nativ de Rutină
@@ -181,3 +196,8 @@ title: CT Torace Nativ de Rutină
     | Axial | Nativ | Torace | 2.5 mm/2.5 mm | Standard | 3 | Fereastră mediastinală |
     | Coronal | Nativ | Torace | 2.5 mm/2.5 mm | Plămân | 3 | Coronal pulmonar |
     | Sagital | Nativ | Torace | 2.5 mm/2.5 mm | Plămân | 3 | Sagital pulmonar |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Routine Adult Chest CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Chest Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

@@ -93,7 +93,25 @@ radiation_safety:
 - Părintele însoțitor poartă șorț de plumb și guler tiroidian pe tot parcursul procedurii
 slug: cistouretrografie-mictionala-pediatrica
 title: Cistouretrografie Micțională Pediatrică (CUM / VCUG Pediatric)
+sources:
+- title: Image Gently — Pediatric Fluoroscopy Protocols & Radiation Safety
+  url: https://www.imagegently.org/Procedures/Fluoroscopy
+  institution: Image Gently Alliance
+  source_region: US
+  kind: Ghid pediatric de reducere a dozei fluoroscopie
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 8980473d4f9eebbc8a011eeb2d625b631a9b984fceb163adf52955f8668af536
+- title: ACR-SPR Practice Parameter for the Performance of Pediatric Fluoroscopy
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf
+  institution: ACR / SPR
+  source_region: US
+  kind: Standard de practică fluoroscopie pediatrică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 45621b1990b6eabf74f9996a8a9c707b6d18590d018367baf4fe51409a0450b0
+position: Decubit dorsal pe masa radiologică; în timpul micțiunii la băieți poziție
+  oblică 35-45° cu coapsa inferioară flectată; la fetițe decubit dorsal AP
 ---
+
 # Cistouretrografie Micțională Pediatrică (CUM / VCUG Pediatric)
 
 <div class="fluoro-meta-bar">
@@ -206,3 +224,8 @@ title: Cistouretrografie Micțională Pediatrică (CUM / VCUG Pediatric)
     3. **Optimizare Doză (ALARA):** Se utilizează regim de fluoroscopie pulsată (4 - 7.5 - 15 fps) în locul modului continuu și colimare strânsă strict pe zona de interes.
     4. **Last Image Hold (LIH):** Utilizarea imaginii înghețate pe monitor pentru decizii operatorii sau analize anatomice, fără reactivarea inutilă a pedalei de expunere.
     5. **Protecție Personal:** Toți membrii echipei prezenți în sală poartă echipament individual de protecție din plumb (șorț echivalent 0.35-0.5 mm Pb, guler tiroidian, ochelari plumbuiți) și păstrează o distanță maximă posibilă față de tub conform legii pătratului invers al distanței.
+
+## Surse și revizuire
+
+- [Image Gently — Pediatric Fluoroscopy Protocols & Radiation Safety](https://www.imagegently.org/Procedures/Fluoroscopy) — *Image Gently Alliance* (US)
+- [ACR-SPR Practice Parameter for the Performance of Pediatric Fluoroscopy](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/Fluoro.pdf) — *ACR / SPR* (US)

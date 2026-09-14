@@ -62,6 +62,24 @@ transducers_equipment:
     deplasarea conținutului gastric în pilor
   transducer_types: Sondă Liniară de înaltă frecvență 7.5 - 15.0 MHz (esențială pentru
     apendice și pilor) + Sondă Convexă Pediatrică 5.0 MHz
+sources:
+- title: AIUM-ACR-SPR Practice Parameter for the Performance of Pediatric Ultrasound
+    Examinations
+  url: https://www.aium.org/resources/practice-parameters
+  institution: AIUM / ACR / SPR
+  source_region: US
+  kind: Parametru de practică ecografie pediatrică
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: e3975fb4b4d6c114ceeec2107adabee5207de5b5db8f456b62e71a634582c4c7
+- title: UT Southwestern Radiology — Pediatric Ultrasound Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/us.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional US
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 4aba49923561d38a5d5d5d0aca6a6e2aa0c41bf495d4aac32dc5571fc6a2fa19
+position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: La sugarul suspect
+  de SHP: examinare după administrare de puțină glucoză per os '
 ---
 
 # Ecografie Abdominală Pediatrică (Apendicită Acută & Stenoză Hipertrofică de Pilor)
@@ -147,3 +165,8 @@ transducers_equipment:
 
 ### Recomandări Practice &amp; Observații Tehnice
 La sugarul cu SHP, grosimea stratului muscular piloric ≥3.0 mm pe secțiune transversală ('semnul gogoșii') și lungimea canalului ≥15 mm confirmă diagnosticul chirurgical.
+
+## Surse și revizuire
+
+- [AIUM-ACR-SPR Practice Parameter for the Performance of Pediatric Ultrasound Examinations](https://www.aium.org/resources/practice-parameters) — *AIUM / ACR / SPR* (US)
+- [UT Southwestern Radiology — Pediatric Ultrasound Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/us.html) — *UT Southwestern* (US)

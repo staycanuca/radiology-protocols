@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: cardiac
 clinical_indications:
 - Planificare pre-operatorie pentru resternotomie (chirurgie cardiacă secundară/iterativă)
@@ -89,6 +89,21 @@ tech_params:
   scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
   slice_thickness: 0.625 mm
 title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilanț Resternotomie)
+sources:
+- title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
+  institution: ACR / SCCT
+  source_region: US
+  kind: Standard de practică cardiovasculară
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
+- title: UT Southwestern Radiology — Cardiovascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilanț Resternotomie)
@@ -211,3 +226,8 @@ title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilanț Resternotomie)
     | Axial | Fază Venoasă Torace | Torace | 1.25 mm/1.25 mm | Standard |  | Raportul structurilor retrosternale pe faza venoasă |
     | Coronal | Fază Venoasă Torace | Torace | 2 mm/2 mm | Standard |  | Structurile peretelui toracic anterior |
     | 3D VR | Fază Venoasă Torace | Torace | 1 mm/1 mm | Standard |  | Hartă 3D a vaselor retrosternale pentru planificare chirurgicală |
+
+## Surse și revizuire
+
+- [SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf) — *ACR / SCCT* (US)
+- [UT Southwestern Radiology — Cardiovascular CT Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)

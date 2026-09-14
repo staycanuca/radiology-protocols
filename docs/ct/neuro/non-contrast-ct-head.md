@@ -1,5 +1,5 @@
 ---
-author: null
+author: Departamentul de Radiologie
 category: neuro
 clinical_indications:
 - Protocol de primă intenție în suspiciunea de AVC acut
@@ -77,6 +77,21 @@ tech_params:
   scan_mode: Secvențial (Axial) sau Elicoidal fin
   slice_thickness: 2.5 mm
 title: CT Cerebral Nativ
+sources:
+- title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+  institution: AAPM
+  source_region: US
+  kind: Protocol tehnic standardizat
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+- title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
+  institution: UT Southwestern
+  source_region: US
+  kind: Protocol instituțional
+  checked_at: '2026-09-14T15:57:46.637480+00:00'
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Cerebral Nativ
@@ -197,3 +212,8 @@ title: CT Cerebral Nativ
     | Axial | CT Cerebral Nativ | Craniu | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă pentru decelarea fracturilor calotei și bazei |
     | Coronal | CT Cerebral Nativ | Craniu | 2.5 mm/2.5 mm | Brain |  | Plan coronal pentru baza craniului și vertex |
     | Sagital | CT Cerebral Nativ | Craniu | 2.5 mm/2.5 mm | Brain |  | Plan sagital pentru structurile liniei mediene și ventriculul IV |
+
+## Surse și revizuire
+
+- [AAPM CT Protocols — Adult Routine Head CT](https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf) — *AAPM* (US)
+- [UT Southwestern Radiology — CT Neuro / Head Protocols](https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html) — *UT Southwestern* (US)
