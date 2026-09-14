@@ -521,10 +521,35 @@ footer {
           <input id="sourceUrl" type="url" placeholder="https://...">
           <button id="addSource">Verifică și atașează</button>
         </div>
-        <details>
+        <details style="margin-top: 8px;">
           <summary>Opțiuni suplimentare (PDF scanat / extras manual)</summary>
           <label for="sourceManualExcerpt">Extras manual (necesar dacă PDF-ul este scanat fără text selectabil)</label>
           <textarea id="sourceManualExcerpt" rows="3" placeholder="Introdu un rezumat sau extras din document (minim 50 caractere) dacă extragerea automată nu reușește..."></textarea>
+        </details>
+
+        <details id="localSourceSection" style="margin: 14px 0; padding: 12px 14px; background: #f4f8f6; border: 1px solid #cfe2d7; border-radius: var(--radius-md);">
+          <summary style="font-weight: 600; color: #1e5443; cursor: pointer; display: flex; align-items: center; gap: 6px;">
+            <span>📁</span> Atașează sursă locală (PDF, DOCX, TXT, DOC)
+          </summary>
+          <p class="muted" style="color: #3b6051; margin: 6px 0 10px; font-size: 12.5px;">
+            Încarcă protocoale instituționale interne, proceduri de secție sau ghiduri offline. Textul este extras automat și arhivat în dosar.
+          </p>
+          
+          <label for="localSourceFile">Fișier document (PDF, DOCX, TXT, MD, DOC — max 16 MB)</label>
+          <input id="localSourceFile" type="file" accept=".pdf,.docx,.doc,.txt,.md,.rtf">
+
+          <label for="localSourceTitle">Titlul documentului intern</label>
+          <input id="localSourceTitle" placeholder="Ex.: Protocol Intern CT Torace — Spitalul Clinic 2026">
+
+          <label for="localSourceInstitution">Instituție / Autoritate emitentă</label>
+          <input id="localSourceInstitution" placeholder="Ex.: Departamentul de Radiologie și Imagistică Medicală">
+
+          <label for="localSourceManualExcerpt">Extras manual (opțional, dacă fișierul este imagine scanată)</label>
+          <textarea id="localSourceManualExcerpt" rows="2" placeholder="Rezumatul sau textul extras din document (minim 30 caractere dacă documentul e scanat)..."></textarea>
+
+          <p style="margin-top: 10px;">
+            <button id="btnUploadLocalSource" type="button">📁 Încarcă și extrage textul</button>
+          </p>
         </details>
         <div id="sources"></div>
       </section>
@@ -761,9 +786,21 @@ function renderAttachments() {
   for (const s of active.sources) {
     const e = document.createElement('div');
     e.className = 'card';
-    e.innerHTML = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(s.url)) + '">' + esc(s.title) + '</a>' +
-      '<p class="muted">Accesat: ' + esc(s.checked_at) + ' · Amprentă SHA-256 înregistrată</p>' +
-      '<details><summary>Text extras pentru revizuire</summary><pre>' + esc(s.excerpt) + '</pre></details>';
+    const isLocal = (s.url || '').startsWith('local://') || s.local_file_ref;
+    let headerHtml = '';
+    if (isLocal) {
+      headerHtml = '<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 4px;">' +
+        '<strong>📄 ' + esc(s.title) + '</strong>' +
+        '<span style="font-size: 11.5px; background: #e0efe7; color: #1e5241; border: 1px solid #b8dfcd; padding: 2px 7px; border-radius: 4px; font-weight: 500;">' + esc(s.kind || 'Document local') + '</span>' +
+        '</div>' +
+        (s.local_file_ref ? '<p style="margin: 3px 0 6px;"><a target="_blank" href="/api/drafts/' + active.id + '/sources/' + s.id + '/file" style="font-size: 12.5px; color: #2e6e58;">⬇️ Deschide / Descarcă fișierul original (' + esc(s.local_filename || 'document') + ')</a></p>' : '');
+    } else {
+      headerHtml = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(s.url)) + '"><strong>' + esc(s.title) + ' ↗</strong></a>';
+    }
+    e.innerHTML = headerHtml +
+      '<p class="muted" style="margin: 4px 0;">' + (isLocal ? 'Înregistrat: ' : 'Accesat: ') + esc(s.checked_at) + ' · SHA-256: ' + esc((s.sha256 || '').substring(0, 12)) + '...</p>' +
+      (s.institution ? '<p class="muted" style="margin: 2px 0;">Instituție: ' + esc(s.institution) + '</p>' : '') +
+      '<details style="margin-top: 6px;"><summary>Text extras pentru revizuire</summary><pre style="max-height: 250px; overflow-y: auto;">' + esc(s.excerpt) + '</pre></details>';
     const b = document.createElement('button');
     b.className = 'danger';
     b.textContent = 'Elimină sursa';
@@ -1125,6 +1162,30 @@ on('addSource', async () => {
   });
   if ($('sourceManualExcerpt')) $('sourceManualExcerpt').value = '';
   message('Sursa a fost atașată; textul extras este disponibil pentru revizuire.');
+});
+
+on('btnUploadLocalSource', async () => {
+  const fileInput = $('localSourceFile');
+  if (!fileInput.files.length) {
+    message('Selectează un fișier din calculator (PDF, DOCX, TXT, DOC).', true);
+    return;
+  }
+  const file = fileInput.files[0];
+  const form = new FormData();
+  form.append('file', file);
+  form.append('title', $('localSourceTitle').value || file.name);
+  form.append('institution', $('localSourceInstitution').value || '');
+  form.append('manual_excerpt', $('localSourceManualExcerpt').value || '');
+  
+  const b = $('btnUploadLocalSource');
+  await run(b, async () => {
+    await changeAttachment('/sources/upload', 'POST', form);
+    fileInput.value = '';
+    $('localSourceTitle').value = '';
+    $('localSourceInstitution').value = '';
+    $('localSourceManualExcerpt').value = '';
+    message('Documentul local a fost extras și atașat cu succes ca sursă!');
+  });
 });
 
 on('imageSearch', async () => {

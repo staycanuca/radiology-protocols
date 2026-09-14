@@ -265,3 +265,90 @@ def test_load_protocol_from_library_and_bulk_import(workbench):
     bulk_res = client.post('/api/drafts/import-bulk', json={'modality': 'rx'}, headers=headers)
     assert bulk_res.status_code == 200
 
+
+def test_upload_local_text_and_docx_sources(workbench):
+    client, headers, repo, state = workbench
+    d = draft(workbench, 'ct')
+    prefix = '/api/drafts/' + d['id']
+
+    # 1. Upload a plain text local source
+    txt_content = b"Protocol clinic intern de examinare CT Torace pentru Spitalul Clinic de Urgenta. Parametri tehnici: 120 kV, mod automat AEC."
+    res_txt = client.post(
+        prefix + '/sources/upload',
+        data={
+            'file': (io.BytesIO(txt_content), 'protocol_spital.txt'),
+            'title': 'Protocol Intern Spital Clinic',
+            'institution': 'Spitalul Clinic de Urgenta',
+        },
+        headers=headers
+    )
+    assert res_txt.status_code == 200
+    sources = res_txt.json['sources']
+    assert len(sources) == 1
+    assert sources[0]['title'] == 'Protocol Intern Spital Clinic'
+    assert 'local://' in sources[0]['url']
+    assert '120 kV' in sources[0]['excerpt']
+    assert sources[0]['local_file_ref']
+
+    # 2. Verify file download endpoint
+    source_id = sources[0]['id']
+    file_res = client.get(f"{prefix}/sources/{source_id}/file", headers=headers)
+    assert file_res.status_code == 200
+    assert file_res.data == txt_content
+
+    # 3. Upload a synthetic DOCX local source
+    import zipfile
+    docx_buf = io.BytesIO()
+    with zipfile.ZipFile(docx_buf, 'w') as zf:
+        zf.writestr(
+            'word/document.xml',
+            '<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body><w:p><w:r><w:t>Procedura operationala standardizata pentru scanare CT Abdomen.</w:t></w:r></w:p></w:body></w:document>'
+        )
+    docx_buf.seek(0)
+    res_docx = client.post(
+        prefix + '/sources/upload',
+        data={
+            'file': (docx_buf, 'procedura_abdomen.docx'),
+            'title': 'Procedura Abdomen DOCX',
+            'institution': 'Institutul de Radiologie',
+        },
+        headers=headers
+    )
+    assert res_docx.status_code == 200
+    sources2 = res_docx.json['sources']
+    assert len(sources2) == 2
+    assert any('Procedura operationala standardizata' in s['excerpt'] for s in sources2)
+
+
+def test_import_with_local_source_archives_file(workbench):
+    client, headers, repo, state = workbench
+    prefix = ready(workbench, 'ct')
+
+    # Upload local source to the ready draft
+    txt_data = b"Ghid local de diagnostic CT si doze de radiatie aprobate institutional."
+    client.post(
+        prefix + '/sources/upload',
+        data={
+            'file': (io.BytesIO(txt_data), 'ghid_local.txt'),
+            'title': 'Ghid Local Arobat',
+            'institution': 'Comisia Clinica',
+        },
+        headers=headers
+    )
+
+    # Import the draft
+    res_import = client.post(prefix + '/import', json=REVIEW, headers=headers)
+    assert res_import.status_code == 200
+    path = repo / res_import.json['path']
+    doc_text = path.read_text(encoding='utf-8')
+
+    # Check that the local source was copied to docs/assets/protocols/sources/
+    sources_dest = repo / 'docs' / 'assets' / 'protocols' / 'sources'
+    assert sources_dest.exists()
+    assert any('ghid_local.txt' in f.name for f in sources_dest.glob('*'))
+
+    # Check that the markdown body has relative links to the archived source
+    assert '## Surse și revizuire' in doc_text
+    assert 'assets/protocols/sources/' in doc_text
+
+

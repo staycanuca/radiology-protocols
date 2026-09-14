@@ -23,6 +23,7 @@ from urllib.parse import urljoin, urlparse, quote
 import requests
 import yaml
 from flask import Flask, jsonify, render_template, request, send_from_directory
+from werkzeug.utils import secure_filename
 from PIL import Image
 from protocol_workbench.american_sources import AmericanSearch, provenance
 
@@ -125,6 +126,55 @@ def plain(text):
     parser = TextExtractor()
     parser.feed(text)
     return '\n'.join(parser.parts)
+
+
+def extract_text_from_file(raw: bytes, filename: str) -> tuple[str, str]:
+    """Extrage textul și detectează tipul documentului (PDF, DOCX, TXT, MD, DOC)."""
+    ext = Path(filename).suffix.lower()
+    text = ''
+    kind = 'Document local'
+    if ext == '.pdf' or raw.startswith(b'%PDF'):
+        kind = 'Document local (PDF)'
+        try:
+            from pypdf import PdfReader
+            reader = PdfReader(io.BytesIO(raw))
+            text = '\n'.join(page.extract_text() or '' for page in reader.pages[:100])
+        except Exception:
+            text = ''
+    elif ext == '.docx':
+        kind = 'Document local (DOCX)'
+        try:
+            import zipfile
+            import xml.etree.ElementTree as ET
+            with zipfile.ZipFile(io.BytesIO(raw)) as zf:
+                xml_content = zf.read('word/document.xml')
+                tree = ET.fromstring(xml_content)
+                paragraphs = []
+                for p in tree.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p'):
+                    texts = [node.text for node in p.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}t') if node.text]
+                    if texts:
+                        paragraphs.append(''.join(texts))
+                text = '\n'.join(paragraphs)
+        except Exception:
+            text = ''
+    elif ext in ('.txt', '.md', '.csv', '.json', '.xml', '.html', '.htm'):
+        kind = f"Fișier text ({ext.lstrip('.').upper()})"
+        text = plain(raw.decode('utf-8', errors='replace'))
+    elif ext == '.doc':
+        kind = 'Document local (DOC)'
+        try:
+            runs = re.findall(rb'[\x20-\x7e\t\n\r]{4,}', raw)
+            text = '\n'.join(r.decode('ascii', errors='ignore') for r in runs if len(r) > 10)
+        except Exception:
+            text = ''
+    else:
+        try:
+            text = plain(raw.decode('utf-8'))
+            kind = 'Fișier text'
+        except Exception:
+            text = ''
+            kind = f"Fișier local ({ext.lstrip('.').upper() or 'binar'})"
+    return text, kind
 
 
 def frontmatter(text):
@@ -354,17 +404,31 @@ def create_app(repo=None, state=None):
 
         draft_sources = []
         for s in fm.pop('sources', []):
-            if isinstance(s, dict) and s.get('url'):
+            if isinstance(s, dict) and (s.get('url') or s.get('title')):
+                s_url = s.get('url', '')
+                local_fref = s.get('local_file_ref', '')
+                local_fname = s.get('local_filename', '')
+                if not local_fref and s_url.startswith('assets/protocols/sources/'):
+                    local_fref = Path(s_url).name
+                    local_fname = local_fname or local_fref
+                if local_fref:
+                    src_origin = repo / 'docs' / s_url
+                    if src_origin.exists() and not (state / 'sources' / local_fref).exists():
+                        (state / 'sources').mkdir(parents=True, exist_ok=True)
+                        (state / 'sources' / local_fref).write_bytes(src_origin.read_bytes())
                 draft_sources.append({
                     'id': s.get('id') or uuid.uuid4().hex,
-                    'title': s.get('title', s['url']),
-                    'url': s['url'],
-                    'resolved_url': s.get('resolved_url', s['url']),
+                    'title': s.get('title', s_url),
+                    'url': s_url,
+                    'resolved_url': s.get('resolved_url', s_url),
                     'checked_at': s.get('checked_at', now()),
-                    'sha256': s.get('sha256', hashlib.sha256(s['url'].encode()).hexdigest()),
+                    'sha256': s.get('sha256', hashlib.sha256(s_url.encode()).hexdigest()),
                     'excerpt': s.get('excerpt', f"Sursă extrasă din {rel_posix}."),
                     'institution': s.get('institution', ''),
-                    'source_region': s.get('source_region', '')
+                    'source_region': s.get('source_region', ''),
+                    'kind': s.get('kind', ''),
+                    'local_filename': local_fname,
+                    'local_file_ref': local_fref,
                 })
 
         draft_images = []
@@ -521,6 +585,71 @@ def create_app(repo=None, state=None):
             draft['sources'] = [s for s in draft['sources'] if s['url'] != url] + [source]
             save(draft)
         return jsonify(draft)
+
+    @app.post('/api/drafts/<identifier>/sources/upload')
+    def upload_local_source(identifier):
+        if 'file' not in request.files:
+            raise ValueError('Selectează un fișier pentru încărcare.')
+        file = request.files['file']
+        if not file.filename:
+            raise ValueError('Fișier invalid.')
+        orig_name = Path(file.filename).name
+        sec_name = secure_filename(orig_name) or 'document'
+        raw = file.read(LIMIT)
+        if len(raw) >= LIMIT:
+            raise ValueError('Fișierul depășește limita permisă de 16 MB.')
+
+        title = str(request.form.get('title') or '').strip() or Path(orig_name).stem
+        institution = str(request.form.get('institution') or '').strip() or 'Document instituțional intern'
+        kind_param = str(request.form.get('kind') or '').strip()
+        manual = str(request.form.get('manual_excerpt') or '').strip()
+
+        extracted_text, detected_kind = extract_text_from_file(raw, orig_name)
+        kind = kind_param or detected_kind
+
+        if len(extracted_text.strip()) < 50:
+            if len(manual) >= 30:
+                extracted_text = f"[Extras manual / Document local]\n{manual}"
+            else:
+                raise ValueError('Nu s-a putut extrage text din document (poate fi un fișier scanat sau format binar vechi). Introdu un extras manual de minim 30 caractere în formular.')
+
+        sha256 = hashlib.sha256(raw).hexdigest()
+        sources_dir = state / 'sources'
+        sources_dir.mkdir(parents=True, exist_ok=True)
+        saved_name = f"{sha256[:12]}_{sec_name}"
+        (sources_dir / saved_name).write_bytes(raw)
+
+        source = {
+            'id': uuid.uuid4().hex,
+            'title': title,
+            'url': f'local://{sec_name}',
+            'resolved_url': f'local://{sec_name}',
+            'institution': institution,
+            'source_region': 'Local / Instituțional',
+            'kind': kind,
+            'local_filename': orig_name,
+            'local_file_ref': saved_name,
+            'checked_at': now(),
+            'sha256': sha256,
+            'excerpt': extracted_text[:20000]
+        }
+
+        with lock:
+            draft = read(identifier)
+            if draft['status'] == 'imported':
+                raise ValueError('Dosar deja importat.')
+            draft['sources'] = [s for s in draft['sources'] if s.get('sha256') != sha256] + [source]
+            save(draft)
+        return jsonify(draft)
+
+    @app.get('/api/drafts/<identifier>/sources/<source_id>/file')
+    def get_source_file(identifier, source_id):
+        draft = read(identifier)
+        source = next((s for s in draft['sources'] if s['id'] == source_id), None)
+        if not source or not source.get('local_file_ref'):
+            raise ValueError('Fișierul sursă local nu a fost găsit.')
+        sources_dir = state / 'sources'
+        return send_from_directory(sources_dir, source['local_file_ref'], as_attachment=False)
 
     @app.get('/api/images/search')
     def image_search():
@@ -715,10 +844,36 @@ def create_app(repo=None, state=None):
                                      'author': item['author'], 'license': item['license'], 'source_url': item['source_url']})
                 caption = html.escape(item['caption']).replace('[', '&#91;').replace(']', '&#93;')
                 gallery += '\n![' + caption + '](../../' + url + ')\n\n' + html.escape(attribution) + '\n'
-            fm['sources'] = [{k: v for k, v in s.items() if k != 'excerpt'} for s in draft['sources']]
+            ref_sources = []
+            for s in draft['sources']:
+                item = {k: v for k, v in s.items() if k != 'excerpt'}
+                if s.get('local_file_ref'):
+                    src_dest = repo / 'docs' / 'assets' / 'protocols' / 'sources'
+                    src_dest.mkdir(parents=True, exist_ok=True)
+                    src_file = state / 'sources' / s['local_file_ref']
+                    if src_file.exists():
+                        (src_dest / s['local_file_ref']).write_bytes(src_file.read_bytes())
+                    item['url'] = 'assets/protocols/sources/' + s['local_file_ref']
+                    item['resolved_url'] = 'assets/protocols/sources/' + s['local_file_ref']
+                ref_sources.append(item)
+            fm['sources'] = ref_sources
             fm['workbench_review'] = {'reviewer': reviewer, 'reviewed_at': now(), 'draft_id': identifier,
                                        'clinical_review': True, 'image_review': True, 'rights_review': True}
-            references = '\n\n## Surse și revizuire\n\n' + '\n'.join('- ' + html.escape(s['title']) + ' — <' + s['url'] + '>' for s in draft['sources'])
+            ref_lines = []
+            for s in ref_sources:
+                stitle = html.escape(s.get('title', 'Sursă'))
+                sinst = html.escape(s.get('institution', ''))
+                skind = html.escape(s.get('kind', ''))
+                if s.get('local_file_ref'):
+                    rel_url = '../../assets/protocols/sources/' + s['local_file_ref']
+                    fname = html.escape(s.get('local_filename', 'document'))
+                    desc = f" ({skind}: {fname})" if skind else f" ({fname})"
+                    extra = f" — *{sinst}*" if sinst else ""
+                    ref_lines.append(f"- [{stitle}]({rel_url}){desc}{extra}")
+                else:
+                    extra = f" — *{sinst}*" if sinst else ""
+                    ref_lines.append(f"- [{stitle}]({s['url']}){extra}")
+            references = '\n\n## Surse și revizuire\n\n' + '\n'.join(ref_lines)
             references += '\n\nRevizuit de: ' + html.escape(reviewer) + ' · ' + str(date.today()) + '\n'
             document = '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n' + body + gallery + references
             # Exclusive creation protects existing protocols, unless revising the exact origin file.
