@@ -205,3 +205,32 @@ def test_proxy_failure_has_actionable_message_without_bypass(monkeypatch):
     with pytest.raises(ValueError, match='proxy-ul cu care a pornit serverul'):
         wb.fetch('https://example.org')
     assert calls == ['https://example.org']
+
+
+def test_delete_draft_and_manual_excerpt_fallback(workbench, monkeypatch):
+    client, headers, _, state = workbench
+    d = draft(workbench)
+    draft_id = d['id']
+    assert (state / f'{draft_id}.json').exists()
+
+    # Test manual excerpt fallback when PDF has empty/short text
+    monkeypatch.setattr(wb, 'fetch', lambda *args, **kwargs: (b'%PDF-dummy', 'application/pdf', 'https://example.org/doc.pdf'))
+    # Without manual excerpt, should fail
+    res = client.post(f'/api/drafts/{draft_id}/sources', json={'url': 'https://example.org/doc.pdf'}, headers=headers)
+    assert res.status_code == 400
+
+    # With manual excerpt >= 50 chars, should succeed
+    long_manual = 'Aceasta este o descriere manuala a sursei scanate pentru a asigura documentarea clinica adecvata.'
+    res = client.post(f'/api/drafts/{draft_id}/sources', json={'url': 'https://example.org/doc.pdf', 'manual_excerpt': long_manual}, headers=headers)
+    assert res.status_code == 200
+    assert len(res.json['sources']) == 1
+    assert '[Extras manual / PDF scanat]' in res.json['sources'][0]['excerpt']
+
+    # Test DELETE draft
+    del_res = client.delete(f'/api/drafts/{draft_id}', headers=headers)
+    assert del_res.status_code == 200
+    assert not (state / f'{draft_id}.json').exists()
+
+    # Deleting nonexistent draft should 404
+    assert client.delete(f'/api/drafts/{draft_id}', headers=headers).status_code == 404
+

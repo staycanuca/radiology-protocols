@@ -2,6 +2,8 @@
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from html.parser import HTMLParser
+import json
+from pathlib import Path
 import re
 import threading
 import time
@@ -35,11 +37,23 @@ PORTALS = [
      'description': 'Parametri de practică și standarde tehnice. Consultare pe portalul ACR.'},
 ]
 # Limited, explicit anatomy aliases; queries are not translated by a clinical model.
-ALIASES = {'genunchi': 'knee', 'torace': 'chest', 'craniu': 'head', 'creier': 'brain',
-           'cerebral': 'brain', 'ficat': 'liver', 'renal': 'renal kidney', 'rinichi': 'kidney renal',
-           'umar': 'shoulder', 'sold': 'hip', 'glezna': 'ankle', 'tiroida': 'thyroid',
-           'san': 'breast', 'coloana': 'spine', 'bazin': 'pelvis', 'sinusuri': 'sinus',
-           'esofag': 'esophagram esophagus', 'carotide': 'carotid'}
+ALIASES = {
+    'genunchi': 'knee', 'torace': 'chest', 'craniu': 'head', 'creier': 'brain',
+    'cerebral': 'brain', 'ficat': 'liver', 'renal': 'renal kidney', 'rinichi': 'kidney renal',
+    'umar': 'shoulder', 'sold': 'hip', 'glezna': 'ankle', 'tiroida': 'thyroid',
+    'san': 'breast', 'coloana': 'spine', 'bazin': 'pelvis', 'sinusuri': 'sinus',
+    'esofag': 'esophagram esophagus', 'carotide': 'carotid',
+    'pancreas': 'pancreas pancreatic', 'aorta': 'aorta aortic', 'bila': 'biliary gallbladder',
+    'colecist': 'gallbladder biliary', 'vezica': 'bladder urinary', 'urinar': 'urinary urology bladder renal',
+    'ureter': 'ureter urinary', 'cot': 'elbow', 'pumn': 'wrist', 'mana': 'hand wrist',
+    'picior': 'foot ankle leg', 'coapsa': 'femur thigh', 'gamba': 'tibia fibula calf',
+    'gat': 'neck cervical soft tissue', 'cervical': 'cervical neck spine', 'lombara': 'lumbar spine',
+    'dorsala': 'thoracic spine', 'inima': 'cardiac heart', 'cardiac': 'cardiac heart',
+    'pediatrie': 'pediatric peds child', 'pediatric': 'pediatric peds child', 'copil': 'pediatric peds child',
+    'copii': 'pediatric peds child', 'orbita': 'orbit eye', 'stomac': 'stomach gastric',
+    'intestin': 'bowel intestinal enterography', 'colon': 'colon colonography',
+    'prostata': 'prostate', 'uter': 'uterus pelvic', 'ovare': 'ovary ovarian',
+}
 STOP = set('ct rx irm us mri mr protocol protocols protocoale protocolul imaging scan acquisition radiografie ecografie fluoroscopie flouro fluoro de si pentru cu fara contrast'.split())
 
 
@@ -89,8 +103,43 @@ def parse_catalog(raw, final_url, catalog):
 
 
 class AmericanSearch:
-    def __init__(self, fetch):
+    def __init__(self, fetch, cache_dir=None):
         self.fetch, self.cache, self.lock = fetch, {}, threading.Lock()
+        self.cache_dir = Path(cache_dir) if cache_dir else None
+        if self.cache_dir:
+            self.cache_dir.mkdir(parents=True, exist_ok=True)
+            self._load_disk_cache()
+
+    def _disk_cache_file(self):
+        return self.cache_dir / 'catalogs_cache.json' if self.cache_dir else None
+
+    def _load_disk_cache(self):
+        f = self._disk_cache_file()
+        if f and f.exists():
+            try:
+                data = json.loads(f.read_text(encoding='utf-8'))
+                now_ts = time.time()
+                for url, item in data.items():
+                    if now_ts - item.get('saved_at', 0) < 86400:
+                        self.cache[url] = (time.monotonic() - (now_ts - item['saved_at']), item['results'])
+            except Exception:
+                pass
+
+    def _save_disk_cache(self):
+        f = self._disk_cache_file()
+        if not f:
+            return
+        try:
+            data = {}
+            now_ts = time.time()
+            now_mono = time.monotonic()
+            with self.lock:
+                for url, (mono_ts, results) in self.cache.items():
+                    elapsed = now_mono - mono_ts
+                    data[url] = {'saved_at': now_ts - elapsed, 'results': results}
+            f.write_text(json.dumps(data, ensure_ascii=False), encoding='utf-8')
+        except Exception:
+            pass
 
     def catalog(self, config, modality):
         url = config['pages'][modality]
@@ -109,6 +158,7 @@ class AmericanSearch:
             result['catalog_checked_at'] = checked
         with self.lock:
             self.cache[url] = (time.monotonic(), results)
+        self._save_disk_cache()
         return results
 
     def search(self, query, modality, institution='all'):
@@ -127,11 +177,29 @@ class AmericanSearch:
 
         with ThreadPoolExecutor(max_workers=4) as pool:
             for config, entries, error in pool.map(get, configs):
-                matches = []
-                for entry in entries:
-                    haystack = set(words(entry['title'] + ' ' + unquote(urlparse(entry['url']).path.rsplit('/', 1)[-1])))
-                    if all(group & haystack for group in groups):
-                        matches.append(entry)
+                if not groups:
+                    matches = list(entries)
+                else:
+                    exact_matches = []
+                    partial_matches = []
+                    for entry in entries:
+                        haystack = set(words(entry['title'] + ' ' + unquote(urlparse(entry['url']).path.rsplit('/', 1)[-1])))
+                        score = sum(1 for group in groups if group & haystack)
+                        if score == len(groups):
+                            exact_matches.append(entry)
+                        elif len(groups) > 1 and score >= max(1, len(groups) - 1):
+                            partial_matches.append((score, entry))
+                    if len(exact_matches) < 25 and partial_matches:
+                        partial_matches.sort(key=lambda x: -x[0])
+                        exact_urls = {e['url'] for e in exact_matches}
+                        combined = list(exact_matches)
+                        for _, entry in partial_matches:
+                            if entry['url'] not in exact_urls:
+                                combined.append(entry)
+                                exact_urls.add(entry['url'])
+                        matches = combined
+                    else:
+                        matches = exact_matches
                 results.extend(matches)
                 statuses.append({'name': config['name'], 'url': config['pages'][modality], 'ok': error is None,
                                  'indexed': len(entries), 'matches': len(matches), 'error': error})

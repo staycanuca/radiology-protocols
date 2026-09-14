@@ -1,53 +1,1027 @@
 <!doctype html>
 <html lang="ro">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Protocol Workbench</title>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Protocol Workbench — Documentare & Import Protocoale</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
-:root{font-family:Segoe UI,system-ui,sans-serif;color:#182b40;background:#f0f4f8}*{box-sizing:border-box}body{margin:0}header{background:#122c43;color:white;padding:22px 32px;display:flex;justify-content:space-between;align-items:center}h1{font-size:23px;margin:0}header p{color:#bdd4e6;font-size:13px;margin-bottom:0}main{max-width:1500px;margin:auto;padding:24px;display:grid;grid-template-columns:310px 1fr;gap:24px}section,aside{background:white;border:1px solid #dbe4ec;border-radius:12px;padding:20px;min-width:0}aside{align-self:start;position:sticky;top:16px}h2{font-size:18px;margin-top:0}h3{font-size:15px}label{display:block;font-size:13px;font-weight:600;margin:14px 0 6px}input,select,textarea{font:inherit;width:100%;padding:10px;border:1px solid #bfccd9;border-radius:6px;background:white;color:#182b40}textarea{resize:vertical;line-height:1.5}button,.link{font:inherit;font-size:13px;font-weight:600;border:0;border-radius:6px;padding:10px 14px;background:#087e8b;color:white;cursor:pointer;text-decoration:none;display:inline-block}button:hover{filter:brightness(.93)}button:disabled{opacity:.5;cursor:wait}.secondary{background:#eaf0f6;color:#1a405c}.danger{background:#f8e7e7;color:#a03232}.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.row>*{flex:1}.muted{font-size:13px;color:#5b6c7d;line-height:1.6}.stack{display:grid;gap:20px}.card{padding:14px;border:1px solid #dce5ee;border-radius:8px;margin-top:12px;overflow-wrap:anywhere}.card p{font-size:13px;line-height:1.6}a{color:#087482}#drafts button{display:block;width:100%;text-align:left;margin:8px 0;background:#eaf0f6;color:#183e59}#document{font-family:Consolas,monospace;font-size:13px;min-height:480px}#status{position:sticky;top:0;z-index:3;padding:12px 25px;background:#e4f4f0;border-bottom:1px solid #b5dcd2;white-space:pre-wrap;display:none}#status.error{background:#fff0ec;color:#9c2f1a}.badge{font-size:12px;border:1px solid #68889f;border-radius:20px;padding:5px 10px}#imageResults,#attachments{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}img{max-width:100%;height:155px;object-fit:contain;background:#f0f3f6}details{margin-top:14px}summary{cursor:pointer;font-size:14px;font-weight:600}pre{white-space:pre-wrap;max-height:320px;overflow:auto;font-size:12px}input[type=checkbox]{width:auto;margin-right:9px}.check{font-weight:400;line-height:1.5}.number{color:#087e8b;font-size:12px;font-weight:700;letter-spacing:1px;margin-bottom:8px}.hidden{display:none!important}#workspace>section{scroll-margin-top:80px}#report{white-space:pre-wrap;font-size:14px;line-height:1.7}small{color:#5b6c7d}footer{font-size:12px;color:#607387;margin-top:20px;overflow-wrap:anywhere}@media(max-width:850px){main{grid-template-columns:1fr;padding:12px}aside{position:static}header{padding:20px}header .badge{display:none}}
-</style></head>
-<body><header><div><h1>Protocol Workbench</h1><p>Caută surse · Pregătește protocolul · Revizuiește · Adaugă în bibliotecă</p></div><span class="badge">Standalone / local · CT · RX · IRM · US · FLUORO</span></header>
+:root {
+  --font-main: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --bg-page: #f4f8f6;
+  --bg-card: #ffffff;
+  --bg-sidebar: #ffffff;
+  --header-bg: linear-gradient(135deg, #1e4236 0%, #295547 100%);
+  --header-text: #ffffff;
+  --header-sub: #c8e4da;
+  --primary: #387b67;
+  --primary-hover: #2f6857;
+  --primary-subtle: #e8f4ef;
+  --accent-blue: #4d88b5;
+  --accent-blue-subtle: #edf4fa;
+  --border: #dbe7e1;
+  --border-focus: #387b67;
+  --text-main: #223442;
+  --text-muted: #5e7282;
+  --danger: #b33939;
+  --danger-bg: #fdf1f0;
+  --danger-border: #f4d0ce;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-pill: 20px;
+  --shadow-sm: 0 2px 8px rgba(30, 66, 54, 0.05);
+  --shadow-md: 0 4px 16px rgba(30, 66, 54, 0.08);
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  color: var(--text-main);
+  background: var(--bg-page);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+header {
+  background: var(--header-bg);
+  color: var(--header-text);
+  padding: 20px 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 4px;
+  letter-spacing: -0.3px;
+}
+header p {
+  color: var(--header-sub);
+  font-size: 13px;
+  margin: 0;
+}
+.header-badge {
+  font-size: 12px;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: var(--radius-pill);
+  padding: 6px 14px;
+  color: #ffffff;
+  letter-spacing: 0.3px;
+}
+main {
+  max-width: 1540px;
+  margin: 0 auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 24px;
+}
+section, aside {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 22px;
+  box-shadow: var(--shadow-sm);
+  min-width: 0;
+}
+aside {
+  position: sticky;
+  top: 16px;
+  align-self: start;
+}
+h2 {
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0 0 6px;
+  color: var(--text-main);
+}
+h3 {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 12px 0 6px;
+}
+label {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 600;
+  margin: 12px 0 5px;
+  color: #334857;
+}
+input, select, textarea {
+  font-family: inherit;
+  font-size: 13.5px;
+  width: 100%;
+  padding: 9px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: #ffffff;
+  color: var(--text-main);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 3px rgba(56, 123, 103, 0.15);
+}
+textarea {
+  resize: vertical;
+  line-height: 1.5;
+}
+button, .link {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  border: 0;
+  border-radius: var(--radius-sm);
+  padding: 9px 14px;
+  background: var(--primary);
+  color: #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: filter 0.15s, background-color 0.15s, transform 0.05s;
+}
+button:hover { filter: brightness(0.94); }
+button:active { transform: scale(0.98); }
+button:disabled { opacity: 0.55; cursor: wait; }
+.secondary {
+  background: var(--accent-blue-subtle);
+  color: var(--accent-blue);
+  border: 1px solid #c9e0f0;
+}
+.secondary:hover { background: #e0eef7; }
+.danger {
+  background: var(--danger-bg);
+  color: var(--danger);
+  border: 1px solid var(--danger-border);
+}
+.danger:hover { background: #fbe5e4; }
+.subtle-btn {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+}
+.subtle-btn:hover { background: #f0f5f2; color: var(--text-main); }
+.row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.row > * { flex: 1; }
+.muted {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.55;
+  margin-top: 4px;
+}
+.stack { display: grid; gap: 20px; }
+.card {
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  margin-top: 10px;
+  background: #ffffff;
+  overflow-wrap: anywhere;
+  transition: border-color 0.2s;
+}
+.card:hover { border-color: #bad3c8; }
+.card p {
+  font-size: 12.5px;
+  line-height: 1.55;
+  margin: 6px 0;
+}
+a { color: var(--primary); text-decoration: none; font-weight: 500; }
+a:hover { text-decoration: underline; }
+
+/* Drafts Sidebar List */
+.draft-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 8px 0;
+}
+.draft-item button.draft-btn {
+  flex: 1;
+  text-align: left;
+  background: var(--primary-subtle);
+  color: #1e4537;
+  border: 1px solid #d4eae0;
+  font-weight: 500;
+  padding: 8px 11px;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.draft-item.active button.draft-btn {
+  background: #d3ede0;
+  border-color: #92cdb2;
+  font-weight: 600;
+}
+.draft-item button.draft-del-btn {
+  flex: none;
+  background: transparent;
+  color: #a04040;
+  border: 1px solid transparent;
+  padding: 7px 9px;
+  font-size: 12px;
+  border-radius: var(--radius-sm);
+}
+.draft-item button.draft-del-btn:hover {
+  background: var(--danger-bg);
+  border-color: var(--danger-border);
+}
+
+/* Editor & Live Preview */
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.editor-tabs {
+  display: flex;
+  gap: 6px;
+}
+.tab-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  border-radius: 6px;
+  background: #edf3f0;
+  color: #2b5647;
+  border: 1px solid #cfe0d8;
+  cursor: pointer;
+}
+.tab-btn.active {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+}
+.autosave-pill {
+  font-size: 12px;
+  color: var(--text-muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.autosave-pill.saved { color: #2e7a5c; font-weight: 500; }
+.autosave-pill.unsaved { color: #b07020; }
+#document {
+  font-family: 'Consolas', 'Menlo', monospace;
+  font-size: 13px;
+  min-height: 480px;
+  line-height: 1.5;
+  tab-size: 2;
+}
+#previewArea {
+  min-height: 480px;
+  padding: 16px 20px;
+  background: #fdfdfd;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  overflow: auto;
+}
+.preview-fm-box {
+  background: #f4f9f7;
+  border: 1px solid #d4eae0;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 18px;
+  font-size: 13px;
+}
+.preview-fm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 8px 14px;
+  margin-top: 8px;
+}
+.preview-fm-grid span { color: var(--text-muted); font-size: 11.5px; display: block; }
+.preview-fm-grid strong { color: var(--text-main); font-size: 13px; }
+
+#status {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 11px 24px;
+  background: #e4f4ee;
+  color: #1a4f3b;
+  border-bottom: 1px solid #b8dfce;
+  font-size: 13.5px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: none;
+}
+#status.error {
+  background: var(--danger-bg);
+  color: var(--danger);
+  border-bottom-color: var(--danger-border);
+}
+.number {
+  display: inline-block;
+  color: var(--primary);
+  background: var(--primary-subtle);
+  border: 1px solid #cee7dc;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  margin-bottom: 8px;
+}
+#imageResults, #attachments {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+img {
+  max-width: 100%;
+  height: 155px;
+  object-fit: contain;
+  background: #f7faf8;
+  border-radius: 6px;
+  border: 1px solid #e2ebe6;
+}
+details {
+  margin-top: 12px;
+  background: #fbfdfc;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+}
+summary {
+  cursor: pointer;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #2b4f42;
+}
+pre {
+  white-space: pre-wrap;
+  max-height: 320px;
+  overflow: auto;
+  font-size: 12px;
+  background: #f4f7f5;
+  padding: 10px;
+  border-radius: 6px;
+}
+input[type=checkbox] {
+  width: auto;
+  margin-right: 8px;
+  accent-color: var(--primary);
+}
+.check {
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 13px;
+  display: flex;
+  align-items: flex-start;
+  margin: 8px 0;
+  cursor: pointer;
+}
+.hidden { display: none !important; }
+#workspace > section { scroll-margin-top: 80px; }
+#report {
+  white-space: pre-wrap;
+  font-size: 13px;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+footer {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  margin-top: 20px;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 920px) {
+  main {
+    grid-template-columns: 1fr;
+    padding: 14px;
+  }
+  aside { position: static; }
+  header { padding: 16px 20px; }
+  .header-badge { display: none; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Protocol Workbench</h1>
+    <p>Caută surse · Pregătește protocolul · Revizuiește · Importă în bibliotecă</p>
+  </div>
+  <span class="header-badge">Standalone local · CT · RX · IRM · US · FLUORO</span>
+</header>
 <div id="status" role="status" aria-live="polite"></div>
-<main><aside><h2>Dosare de lucru</h2><p class="muted">Ciornele rămân separate de aplicație până la importul confirmat.</p>
-<label for="modality">Modalitate</label><select id="modality"><option value="ct">CT</option><option value="rx">RX</option><option value="irm">IRM</option><option value="eco">US / Ecografie</option><option value="fluoro">Fluoroscopie</option></select>
-<label for="title">Titlu protocol nou</label><input id="title" placeholder="Ex.: CT sinusuri — protocol local"><p><button id="create">Creează dosar</button></p><div id="drafts"></div>
-<details><summary>Integrare cu aplicația</summary><p class="muted">Importul scrie un protocol Markdown și imaginile în docs/, apoi regenerează indicii aplicației. Site-ul publicat se actualizează după construirea/deploy-ul obișnuit.</p><button id="reindex" class="secondary">Regenerează indicii</button></details><footer>{{ repo }}</footer></aside>
-<div class="stack"><section><div class="number">01 / DOCUMENTARE</div><h2>Caută protocoale și referințe</h2><p class="muted">Sursele SUA caută documente în cataloagele instituțiilor. Europe PMC caută publicații internaționale. Folosește termeni scurți în engleză, precum knee, chest sau thyroid; sunt recunoscuți și câțiva termeni anatomici în română. Poți atașa în continuare orice sursă prin URL.</p>
-<div class="row"><div><label for="provider">Surse</label><select id="provider"><option value="us">SUA — protocoale și ghiduri</option><option value="europepmc">Europe PMC — publicații internaționale</option></select></div><div id="institutionGroup"><label for="institution">Instituție americană</label><select id="institution"><option value="all">Toate instituțiile compatibile cu modalitatea</option><option value="utsw">UT Southwestern — CT, IRM, US, diagnostic/fluoro</option><option value="ohsu">OHSU — IRM</option><option value="aapm">AAPM — CT</option><option value="aium">AIUM — US</option></select></div></div>
-<label for="query">Regiune, investigație sau indicație</label><div class="row"><input id="query" placeholder="Ex.: knee / genunchi"><button id="search">Caută surse</button><button id="localSearch" class="secondary">Caută în aplicație</button></div><div id="catalogStatus"></div><div id="results"></div></section>
-<div id="empty" class="muted">Creează sau deschide un dosar pentru a adăuga surse, conținut și imagini.</div>
-<div id="workspace" class="stack hidden"><section><div class="number">02 / SURSE</div><h2>Sursele dosarului</h2><p class="muted">Verificăm accesibilitatea și extragem textul pentru revizuire. Un link accesibil nu confirmă autoritatea sursei. Nu copia integral publicații în protocol.</p>
-<label for="sourceTitle">Denumire / instituție / ediție</label><input id="sourceTitle"><label for="sourceUrl">URL sursă (HTML sau PDF cu text)</label><div class="row"><input id="sourceUrl" type="url" placeholder="https://..."><button id="addSource">Verifică și atașează</button></div><div id="sources"></div></section>
-<section><div class="number">03 / PROTOCOL</div><h2>Conținutul pentru import</h2><p class="muted">Editează metadatele YAML și documentul Markdown. Completează parametrii din sursele revizuite și adaptează-i echipamentului local. Câmpurile goale nu sunt completate automat cu recomandări clinice.</p><details><summary>Categorii și format</summary><p class="muted">CT: abdomen, cardiac, chest, msk, neuro, trauma, vascular.<br>RX: torace, abdomen, coloana, craniu-saf, membru-superior, membru-inferior, pediatrie.<br>IRM: neuro, msk, abdomen-pelvis, cardiac, san.<br>US (eco): abdomen-pelvis, parti-moi-endocrin, vascular-doppler, msk, san, pediatrie.<br>Fluoro: digestiv, urinar, c-arm, pediatrie.<br>Listele YAML se completează cu „- valoare”, pe linii separate. Păstrează images: []; imaginile sunt gestionate mai jos. Schimbă slug-ul când adaptezi un protocol existent.</p></details>
-<label for="document">YAML + Markdown</label><textarea id="document" spellcheck="false"></textarea><p class="row"><button id="save">Salvează ciorna</button><button id="validate" class="secondary">Verifică pentru import</button></p><div id="report" role="status"></div></section>
-<section><div class="number">04 / IMAGINI</div><h2>Imagini reprezentative</h2><p class="muted">Alege imagini reale potrivite modalității, anatomiei și scopului protocolului. Autorul și licența sunt preluate când există; verifică pagina originală. Metadatele EXIF sunt eliminate la atașare, însă identificatorii vizibili în imagine necesită verificare.</p>
-<label for="imageQuery">Caută în Wikimedia Commons</label><div class="row"><input id="imageQuery" placeholder="Ex.: normal chest radiograph PA"><button id="imageSearch">Caută imagini</button></div><div id="imageResults"></div>
-<details><summary>Atașează o imagine proprie sau prin URL</summary><label for="imageFile">Fișier PNG/JPEG/WebP (maximum 16 MB)</label><input id="imageFile" type="file" accept="image/png,image/jpeg,image/webp"><label for="imageUrl">Sau URL direct imagine</label><input id="imageUrl" type="url"><label for="caption">Legendă: ce demonstrează imaginea</label><input id="caption"><label for="imageAuthor">Autor</label><input id="imageAuthor"><label for="imageLicense">Licență / permisiune documentată</label><input id="imageLicense" placeholder="Ex.: CC BY 4.0 / permisiune instituțională"><label for="imageSource">Pagina sursă / evidența permisiunii (HTTPS)</label><input id="imageSource" type="url"><p><button id="attach">Atașează imaginea</button></p></details><div id="attachments"></div></section>
-<section><div class="number">05 / REVIZUIRE ȘI IMPORT</div><h2>Aprobă versiunea curentă</h2><label for="reviewer">Numele recenzorului</label><input id="reviewer" placeholder="Nume și rol"><label class="check"><input id="clinical" type="checkbox">Am verificat sursele, parametrii, contraindicațiile și adaptarea clinică locală.</label><label class="check"><input id="imageReview" type="checkbox">Imaginile sunt reprezentative și nu conțin identificatori de pacient.</label><label class="check"><input id="rights" type="checkbox">Am verificat drepturile de utilizare și atribuirea textului și imaginilor.</label><p><button id="import">Importă protocolul revizuit</button></p><p class="muted">Se creează un protocol nou. Protocoalele existente nu sunt suprascrise. Numele recenzorului este o declarație locală, fără autentificare sau semnătură digitală.</p></section></div></div></main>
+<main>
+  <aside>
+    <h2>Dosare de lucru</h2>
+    <p class="muted">Ciornele sunt gestionate local până la aprobare și import.</p>
+    
+    <label for="modality">Modalitate imagistică</label>
+    <select id="modality">
+      <option value="ct">CT — Tomografie computerizată</option>
+      <option value="rx">RX — Radiografie convențională</option>
+      <option value="irm">IRM — Rezonanță magnetică</option>
+      <option value="eco">US — Ecografie / Ultrasonografie</option>
+      <option value="fluoro">Fluoroscopie</option>
+    </select>
+    
+    <label for="title">Titlu protocol nou</label>
+    <input id="title" placeholder="Ex.: CT sinusuri paranazale nativ">
+    <p style="margin: 10px 0;"><button id="create" style="width: 100%;">+ Creează dosar</button></p>
+    
+    <label style="margin-top: 16px;">Dosare active</label>
+    <div id="drafts"></div>
+    
+    <details>
+      <summary>Sincronizare cu aplicația</summary>
+      <p class="muted">Importul scrie fișierul Markdown și imaginile în `docs/`, apoi regenerează automat indicii aplicației.</p>
+      <button id="reindex" class="secondary" style="width: 100%; margin-top: 6px;">Regenerează indicii</button>
+    </details>
+    <footer>{{ repo }}</footer>
+  </aside>
+
+  <div class="stack">
+    <!-- Secțiunea 1: Căutare surse -->
+    <section>
+      <div class="number">01 / DOCUMENTARE</div>
+      <h2>Caută protocoale și referințe</h2>
+      <p class="muted">Explorează cataloagele instituțiilor americane (UTSW, OHSU, AAPM, AIUM) sau publicații din Europe PMC. Sunt recunoscute și sinonime anatomice în limba română (genunchi, torace, pancreas, aorta, etc.).</p>
+      <div class="row">
+        <div>
+          <label for="provider">Furnizor surse</label>
+          <select id="provider">
+            <option value="us">SUA — protocoale și ghiduri instituționale</option>
+            <option value="europepmc">Europe PMC — publicații internaționale</option>
+          </select>
+        </div>
+        <div id="institutionGroup">
+          <label for="institution">Instituție americană</label>
+          <select id="institution">
+            <option value="all">Toate instituțiile compatibile</option>
+            <option value="utsw">UT Southwestern (CT, IRM, US, diagnostic)</option>
+            <option value="ohsu">OHSU (IRM)</option>
+            <option value="aapm">AAPM (CT)</option>
+            <option value="aium">AIUM (US / Ecografie)</option>
+          </select>
+        </div>
+      </div>
+      <label for="query">Regiune, investigație sau patologie</label>
+      <div class="row">
+        <input id="query" placeholder="Ex.: knee / genunchi, pancreas, aorta">
+        <button id="search">Caută surse</button>
+        <button id="localSearch" class="secondary">Caută în bibliotecă</button>
+      </div>
+      <div id="catalogStatus"></div>
+      <div id="results"></div>
+    </section>
+
+    <div id="empty" class="card" style="text-align: center; padding: 36px 20px; color: var(--text-muted);">
+      <p style="font-size: 15px; font-weight: 500; margin: 0 0 6px;">Niciun dosar selectat</p>
+      <p class="muted" style="margin: 0;">Alege un dosar din panoul lateral sau creează unul nou pentru a începe editarea.</p>
+    </div>
+
+    <div id="workspace" class="stack hidden">
+      <!-- Secțiunea 2: Surse atașate -->
+      <section>
+        <div class="number">02 / SURSE</div>
+        <h2>Sursele dosarului</h2>
+        <p class="muted">Sunt verificate adresele HTTPS, extrase textele și calculate amprentele SHA-256 pentru trasabilitate.</p>
+        <label for="sourceTitle">Denumire / instituție / ediție</label>
+        <input id="sourceTitle" placeholder="Ex.: AAPM CT Protocols v1.1">
+        <label for="sourceUrl">URL sursă (HTML sau PDF)</label>
+        <div class="row">
+          <input id="sourceUrl" type="url" placeholder="https://...">
+          <button id="addSource">Verifică și atașează</button>
+        </div>
+        <details>
+          <summary>Opțiuni suplimentare (PDF scanat / extras manual)</summary>
+          <label for="sourceManualExcerpt">Extras manual (necesar dacă PDF-ul este scanat fără text selectabil)</label>
+          <textarea id="sourceManualExcerpt" rows="3" placeholder="Introdu un rezumat sau extras din document (minim 50 caractere) dacă extragerea automată nu reușește..."></textarea>
+        </details>
+        <div id="sources"></div>
+      </section>
+
+      <!-- Secțiunea 3: Editor Protocol & Previzualizare Live -->
+      <section>
+        <div class="number">03 / PROTOCOL</div>
+        <div class="editor-header">
+          <h2>Conținutul pentru import</h2>
+          <div style="display: flex; align-items: center; gap: 12px;">
+            <div id="autoSaveStatus" class="autosave-pill"></div>
+            <div class="editor-tabs">
+              <button id="tabEdit" class="tab-btn active" type="button">✏️ Editor YAML + MD</button>
+              <button id="tabPreview" class="tab-btn" type="button">👁️ Previzualizare Live</button>
+            </div>
+          </div>
+        </div>
+        <p class="muted">Editează metadatele YAML și corpul Markdown. Schimbările se salvează automat în fundal.</p>
+        
+        <div id="editPane">
+          <textarea id="document" spellcheck="false"></textarea>
+        </div>
+        <div id="previewPane" class="hidden">
+          <div id="previewArea"></div>
+        </div>
+
+        <p class="row" style="margin-top: 14px;">
+          <button id="save">Salvează ciorna</button>
+          <button id="validate" class="secondary">Verifică pentru import</button>
+        </p>
+        <div id="report" role="status"></div>
+      </section>
+
+      <!-- Secțiunea 4: Imagini -->
+      <section>
+        <div class="number">04 / IMAGINI</div>
+        <h2>Imagini reprezentative</h2>
+        <p class="muted">Alege imagini cu atribuire clară. Metadatele EXIF sunt eliminate automat la atașare.</p>
+        <label for="imageQuery">Caută în Wikimedia Commons</label>
+        <div class="row">
+          <input id="imageQuery" placeholder="Ex.: normal chest radiograph PA">
+          <button id="imageSearch">Caută imagini</button>
+        </div>
+        <div id="imageResults"></div>
+        <details>
+          <summary>Atașează imagine locală sau prin URL extern</summary>
+          <label for="imageFile">Fișier imagine (PNG/JPEG/WebP, max 16 MB)</label>
+          <input id="imageFile" type="file" accept="image/png,image/jpeg,image/webp">
+          <label for="imageUrl">Sau URL direct către imagine</label>
+          <input id="imageUrl" type="url">
+          <label for="caption">Legendă</label>
+          <input id="caption" placeholder="Ex.: Aspect normal CT torace...">
+          <label for="imageAuthor">Autor</label>
+          <input id="imageAuthor">
+          <label for="imageLicense">Licență / permisiune</label>
+          <input id="imageLicense" placeholder="Ex.: CC BY-SA 4.0">
+          <label for="imageSource">Pagina sursă / dovadă drepturi (HTTPS)</label>
+          <input id="imageSource" type="url">
+          <p style="margin-top: 10px;"><button id="attach">Atașează imaginea</button></p>
+        </details>
+        <div id="attachments"></div>
+      </section>
+
+      <!-- Secțiunea 5: Revizuire & Import -->
+      <section>
+        <div class="number">05 / REVIZUIRE ȘI IMPORT</div>
+        <h2>Aprobă versiunea curentă</h2>
+        <label for="reviewer">Numele recenzorului medical</label>
+        <input id="reviewer" placeholder="Ex.: Dr. Popescu Ion (medic primar radiolog)">
+        <label class="check">
+          <input id="clinical" type="checkbox">
+          Am verificat sursele, parametrii tehnici, indicațiile și adaptarea clinică locală.
+        </label>
+        <label class="check">
+          <input id="imageReview" type="checkbox">
+          Imaginile sunt reprezentative și nu conțin identificatori vizibili de pacient.
+        </label>
+        <label class="check">
+          <input id="rights" type="checkbox">
+          Am verificat drepturile de utilizare și atribuirea surselor și imaginilor.
+        </label>
+        <p style="margin-top: 14px;">
+          <button id="import" style="padding: 11px 18px; font-size: 14px;">Importă protocolul revizuit</button>
+        </p>
+        <p class="muted">Se va crea un fișier Markdown oficial în `docs/<modalitate>/<categorie>/<slug>.md`, iar indicii aplicației vor fi actualizați.</p>
+      </section>
+    </div>
+  </div>
+</main>
+
 <script>
-const TOKEN={{ token|tojson }};let active=null,dirty=false;const $=id=>document.getElementById(id);
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const safe=u=>{try{return new URL(u).protocol==='https:'?u:'#'}catch{return '#'}};
-function message(text,error=false){$('status').textContent=text;$('status').classList.toggle('error',error);$('status').style.display='block'}
-async function api(path,method='GET',data){let options={method,headers:{'X-Workbench-Token':TOKEN}};if(data instanceof FormData)options.body=data;else if(data!==undefined){options.headers['Content-Type']='application/json';options.body=JSON.stringify(data)}const r=await fetch(path,options);const result=await r.json();if(!r.ok)throw Error(result.error+(result.errors?'\n'+result.errors.join('\n'):''));return result}
-function resetReview(){for(const id of ['clinical','imageReview','rights'])$(id).checked=false;$('report').textContent=''}
-function setActive(d){active=d;dirty=false;resetReview();$('document').value=d.document;$('workspace').classList.remove('hidden');$('empty').classList.add('hidden');$('import').disabled=d.status==='imported';renderAttachments();message(d.status==='imported'?'Dosar importat: '+d.imported_path:'Dosar deschis. Completează și salvează conținutul înainte de revizuire.')}
-async function refresh(){const drafts=await api('/api/drafts');$('drafts').replaceChildren();for(const d of drafts){const b=document.createElement('button');b.textContent=(d.status==='imported'?'✓ ':'○ ')+(d.document.match(/title:\s*(.+)/)?.[1]||d.id);b.onclick=()=>{if(dirty&&!confirm('Ai modificări nesalvate. Deschizi alt dosar fără să le salvezi?'))return;setActive(d)};$('drafts').append(b)}}
-async function persist(){if(!active)throw Error('Deschide un dosar mai întâi.');if(active.status==='imported')throw Error('Dosar deja importat.');if(dirty){active=await api('/api/drafts/'+active.id,'PUT',{document:$('document').value});dirty=false;await refresh()}}
-async function changeAttachment(path,method,data){await persist();active=await api('/api/drafts/'+active.id+path,method,data);resetReview();renderAttachments();await refresh()}
-function renderAttachments(){ $('sources').innerHTML='';for(const s of active.sources){const e=document.createElement('div');e.className='card';e.innerHTML='<a target="_blank" rel="noopener noreferrer" href="'+esc(safe(s.url))+'">'+esc(s.title)+'</a><p class="muted">Accesat: '+esc(s.checked_at)+' · Amprentă SHA-256 înregistrată</p><details><summary>Text extras pentru revizuire</summary><pre>'+esc(s.excerpt)+'</pre></details>';const b=document.createElement('button');b.className='danger';b.textContent='Elimină sursa';b.onclick=()=>run(b,()=>changeAttachment('/sources/'+s.id,'DELETE'));e.append(b);$('sources').append(e)}
- $('attachments').innerHTML='';for(const i of active.images){const e=document.createElement('div');e.className='card';e.innerHTML='<img alt="'+esc(i.caption)+'" src="/images/'+i.file+'"><p>'+esc(i.caption)+'</p><p class="muted">'+esc(i.author)+' · '+esc(i.license)+'</p>';const b=document.createElement('button');b.className='danger';b.textContent='Elimină';b.onclick=()=>run(b,()=>changeAttachment('/images/'+i.file,'DELETE'));e.append(b);$('attachments').append(e)}}
-async function run(button,fn){button.disabled=true;message('Se procesează…');try{await fn()}catch(e){message(e.message,true)}finally{button.disabled=button.id==='import'&&active?.status==='imported'}}
-function on(id,fn){$(id).onclick=()=>run($(id),fn)}
-$('document').oninput=()=>{dirty=true;resetReview()};window.onbeforeunload=e=>{if(dirty){e.preventDefault();e.returnValue=''}};
-on('create',async()=>{if(dirty&&!confirm('Creezi un dosar nou fără să salvezi modificările curente?'))return;setActive(await api('/api/drafts','POST',{title:$('title').value,modality:$('modality').value}));await refresh()});
-on('save',async()=>{await persist();message('Ciorna a fost salvată.')});
-on('validate',async()=>{await persist();const r=await api('/api/drafts/'+active.id+'/validate','POST',{});$('report').textContent=(r.valid?'✓ Verificări tehnice trecute. Revizuirea clinică rămâne necesară.':'De completat:\n'+r.errors.map(x=>'• '+x).join('\n'))+'\n\n'+r.warnings.join('\n');message(r.valid?'Verificare încheiată.':'Verificarea a identificat câmpuri de completat.',!r.valid)});
-$('provider').onchange=()=>{$('institutionGroup').classList.toggle('hidden',$('provider').value!=='us')};
-on('search',async()=>{$('results').innerHTML='';$('catalogStatus').innerHTML='';const r=await api('/api/search?q='+encodeURIComponent($('query').value)+'&modality='+$('modality').value+'&provider='+$('provider').value+'&institution='+$('institution').value);for(const c of r.catalogs||[]){const p=document.createElement('p');p.className='muted';p.textContent=c.name+': '+(c.ok?c.matches+' potriviri / '+c.indexed+' documente în catalog':'Catalog indisponibil: '+c.error);$('catalogStatus').append(p)}for(const portal of r.portals||[]){const p=document.createElement('p');p.className='muted';p.innerHTML='<a target="_blank" rel="noopener noreferrer" href="'+esc(safe(portal.url))+'">'+esc(portal.name)+' ↗</a> — '+esc(portal.description);$('catalogStatus').append(p)}if(r.catalogs&&r.catalogs.length===0){const p=document.createElement('p');p.textContent='Instituția selectată nu are un catalog configurat pentru această modalitate.';$('catalogStatus').append(p)}for(const item of r.results){const e=document.createElement('div');e.className='card';e.innerHTML='<a target="_blank" rel="noopener noreferrer" href="'+esc(safe(item.url))+'">'+esc(item.title)+'</a><p class="muted">'+esc([item.provider||item.authors,item.kind,item.year].filter(Boolean).join(' · '))+'</p><details><summary>Despre sursă</summary><p>'+esc(item.summary)+'</p>'+(item.catalog_checked_at?'<p>Catalog accesat: '+esc(item.catalog_checked_at)+'</p>':'')+'</details>';const b=document.createElement('button');b.textContent='Verifică și adaugă sursa';b.onclick=()=>run(b,async()=>{await changeAttachment('/sources','POST',item);message('Sursa a fost verificată și atașată.')});e.append(b);$('results').append(e)}message(r.results.length+' rezultate afișate'+(r.total>r.results.length?' din '+r.total+'; restrânge căutarea':'')+'. '+r.note,(r.catalogs||[]).some(c=>!c.ok))});
-on('localSearch',async()=>{const r=await api('/api/library?q='+encodeURIComponent($('query').value)+'&modality='+$('modality').value);$('results').innerHTML='';for(const p of r){const e=document.createElement('div');e.className='card';e.innerHTML='<strong>'+esc(p.fm.title)+'</strong><p class="muted">'+esc(p.path)+'</p><details><summary>Conținut existent</summary><pre>'+esc(JSON.stringify(p.fm,null,2)+'\n\n'+p.body)+'</pre></details>';$('results').append(e)}message(r.length+' protocoale existente găsite.')});
-on('addSource',async()=>{await changeAttachment('/sources','POST',{url:$('sourceUrl').value,title:$('sourceTitle').value});message('Sursa a fost atașată; textul extras este disponibil pentru revizuire.')});
-on('imageSearch',async()=>{const r=await api('/api/images/search?q='+encodeURIComponent($('imageQuery').value));$('imageResults').innerHTML='';for(const i of r){const e=document.createElement('div');e.className='card';e.innerHTML='<img loading="lazy" referrerpolicy="no-referrer" src="'+esc(safe(i.thumbnail))+'" alt="'+esc(i.caption)+'"><p>'+esc(i.caption)+'</p><p class="muted">'+esc(i.author)+' · '+esc(i.license)+'</p><a target="_blank" rel="noopener noreferrer" href="'+esc(safe(i.source_url))+'">Verifică originalul</a><p></p>';const b=document.createElement('button');b.textContent='Atașează';b.onclick=()=>run(b,async()=>{const caption=prompt('Legendă: ce demonstrează imaginea în acest protocol?',i.caption);if(!caption)return;await changeAttachment('/images','POST',{...i,caption});message('Imagine descărcată și atașată cu atribuire.')});e.append(b);$('imageResults').append(e)}message(r.length+' imagini candidate. Verifică relevanța și licența înainte de import.')});
-on('attach',async()=>{const data={url:$('imageUrl').value,caption:$('caption').value,author:$('imageAuthor').value,license:$('imageLicense').value,source_url:$('imageSource').value};let payload=data;if($('imageFile').files.length){payload=new FormData();for(const [k,v] of Object.entries(data))payload.append(k,v);payload.append('file',$('imageFile').files[0])}await changeAttachment('/images','POST',payload);message('Imagine atașată.')});
-on('import',async()=>{await persist();const r=await api('/api/drafts/'+active.id+'/import','POST',{reviewer:$('reviewer').value,clinical_review:$('clinical').checked,image_review:$('imageReview').checked,rights_review:$('rights').checked});active.status='imported';await refresh();message('Protocol adăugat: '+r.path+(r.indexed?'\nIndicii aplicației au fost actualizați.':'\nImportul a reușit, dar unii indici nu au fost actualizați. Folosește „Regenerează indicii”.'),!r.indexed);$('report').textContent=r.logs.map(x=>x.script+': '+(x.ok?'OK':x.output)).join('\n')});
-on('reindex',async()=>{const r=await api('/api/reindex','POST',{});message(r.logs.map(x=>x.script+': '+(x.ok?'OK':x.output)).join('\n'),r.logs.some(x=>!x.ok))});
-refresh().catch(e=>message(e.message,true));
-</script></body></html>
+const TOKEN={{ token|tojson }};
+let active = null, dirty = false, autoSaveTimer = null;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safe = u => { try { return new URL(u).protocol === 'https:' ? u : '#' } catch { return '#' } };
+
+function message(text, error = false) {
+  const el = $('status');
+  el.textContent = text;
+  el.classList.toggle('error', error);
+  el.style.display = text ? 'block' : 'none';
+  if (!error && text) {
+    setTimeout(() => { if (el.textContent === text) el.style.display = 'none'; }, 6000);
+  }
+}
+
+function updateAutoSaveStatus(state) {
+  const el = $('autoSaveStatus');
+  if (!el) return;
+  if (state === 'saving') {
+    el.className = 'autosave-pill';
+    el.textContent = 'Se salvează...';
+  } else if (state === 'saved') {
+    const timeStr = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit', second:'2-digit'});
+    el.className = 'autosave-pill saved';
+    el.textContent = '✓ Salvat automat la ' + timeStr;
+  } else if (state === 'unsaved') {
+    el.className = 'autosave-pill unsaved';
+    el.textContent = '● Modificări nesalvate';
+  } else {
+    el.textContent = '';
+  }
+}
+
+async function api(path, method = 'GET', data) {
+  let options = { method, headers: { 'X-Workbench-Token': TOKEN } };
+  if (data instanceof FormData) {
+    options.body = data;
+  } else if (data !== undefined) {
+    options.headers['Content-Type'] = 'application/json';
+    options.body = JSON.stringify(data);
+  }
+  const r = await fetch(path, options);
+  const result = await r.json();
+  if (!r.ok) throw Error(result.error + (result.errors ? '\n' + result.errors.join('\n') : ''));
+  return result;
+}
+
+function resetReview() {
+  for (const id of ['clinical', 'imageReview', 'rights']) $(id).checked = false;
+  $('report').textContent = '';
+}
+
+function setActive(d) {
+  active = d;
+  dirty = false;
+  resetReview();
+  $('document').value = d.document;
+  $('workspace').classList.remove('hidden');
+  $('empty').classList.add('hidden');
+  $('import').disabled = d.status === 'imported';
+  renderAttachments();
+  updateAutoSaveStatus('');
+  renderPreview();
+  message(d.status === 'imported' ? 'Dosar importat: ' + d.imported_path : 'Dosar deschis: ' + (d.document.match(/title:\s*(.+)/)?.[1] || d.id));
+}
+
+async function refresh() {
+  const drafts = await api('/api/drafts');
+  const container = $('drafts');
+  container.replaceChildren();
+  for (const d of drafts) {
+    const item = document.createElement('div');
+    item.className = 'draft-item' + (active && active.id === d.id ? ' active' : '');
+    
+    const titleMatch = d.document.match(/title:\s*(.+)/)?.[1]?.replace(/['"]/g, '') || d.id;
+    const btn = document.createElement('button');
+    btn.className = 'draft-btn';
+    btn.textContent = (d.status === 'imported' ? '✓ ' : '○ ') + titleMatch;
+    btn.onclick = () => {
+      if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
+      setActive(d);
+      refresh();
+    };
+    
+    const delBtn = document.createElement('button');
+    delBtn.className = 'draft-del-btn';
+    delBtn.title = 'Șterge dosarul';
+    delBtn.textContent = '✕';
+    delBtn.onclick = async (e) => {
+      e.stopPropagation();
+      if (!confirm('Sigur dorești să ștergi dosarul „' + titleMatch + '”?')) return;
+      try {
+        await api('/api/drafts/' + d.id, 'DELETE');
+        if (active && active.id === d.id) {
+          active = null;
+          dirty = false;
+          $('workspace').classList.add('hidden');
+          $('empty').classList.remove('hidden');
+        }
+        await refresh();
+        message('Dosarul a fost șters.');
+      } catch (err) {
+        message(err.message, true);
+      }
+    };
+    
+    item.append(btn, delBtn);
+    container.append(item);
+  }
+}
+
+async function persist(silent = false) {
+  if (!active) return;
+  if (active.status === 'imported') return;
+  if (dirty) {
+    if (silent) updateAutoSaveStatus('saving');
+    active = await api('/api/drafts/' + active.id, 'PUT', { document: $('document').value });
+    dirty = false;
+    if (silent) {
+      updateAutoSaveStatus('saved');
+    } else {
+      updateAutoSaveStatus('saved');
+    }
+  }
+}
+
+async function changeAttachment(path, method, data) {
+  await persist();
+  active = await api('/api/drafts/' + active.id + path, method, data);
+  resetReview();
+  renderAttachments();
+  await refresh();
+}
+
+function renderAttachments() {
+  $('sources').innerHTML = '';
+  for (const s of active.sources) {
+    const e = document.createElement('div');
+    e.className = 'card';
+    e.innerHTML = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(s.url)) + '">' + esc(s.title) + '</a>' +
+      '<p class="muted">Accesat: ' + esc(s.checked_at) + ' · Amprentă SHA-256 înregistrată</p>' +
+      '<details><summary>Text extras pentru revizuire</summary><pre>' + esc(s.excerpt) + '</pre></details>';
+    const b = document.createElement('button');
+    b.className = 'danger';
+    b.textContent = 'Elimină sursa';
+    b.onclick = () => run(b, () => changeAttachment('/sources/' + s.id, 'DELETE'));
+    e.append(b);
+    $('sources').append(e);
+  }
+
+  $('attachments').innerHTML = '';
+  for (const i of active.images) {
+    const e = document.createElement('div');
+    e.className = 'card';
+    e.innerHTML = '<img alt="' + esc(i.caption) + '" src="/images/' + esc(i.file) + '">' +
+      '<p><strong>' + esc(i.caption) + '</strong></p>' +
+      '<p class="muted">' + esc(i.author) + ' · ' + esc(i.license) + '</p>';
+    const b = document.createElement('button');
+    b.className = 'danger';
+    b.textContent = 'Elimină';
+    b.onclick = () => run(b, () => changeAttachment('/images/' + i.file, 'DELETE'));
+    e.append(b);
+    $('attachments').append(e);
+  }
+}
+
+function renderPreview() {
+  const container = $('previewArea');
+  if (!container) return;
+  const doc = $('document').value || '';
+  const match = doc.match(/\A---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|\Z)([\s\S]*)\Z/);
+  
+  if (!match) {
+    container.innerHTML = '<p class="muted">Documentul nu conține antet YAML valid delimitat prin <code>---</code>.</p>';
+    return;
+  }
+  
+  const yamlText = match[1];
+  const mdBody = match[2].trim();
+  
+  // Parse simple YAML fields for preview box
+  const getField = key => {
+    const m = yamlText.match(new RegExp('^' + key + ':\\s*(.+)$', 'm'));
+    return m ? m[1].replace(/^['"]|['"]$/g, '').trim() : '';
+  };
+  
+  const title = getField('title') || 'Fără titlu';
+  const modality = getField('modality') || 'N/A';
+  const category = getField('category') || 'N/A';
+  const author = getField('author') || 'Nedesemnat';
+  const updated = getField('last_updated') || '';
+  
+  let boxHtml = '<div class="preview-fm-box"><strong>' + esc(title) + '</strong>' +
+    '<div class="preview-fm-grid">' +
+    '<div><span>Modalitate</span><strong>' + esc(modality.toUpperCase()) + '</strong></div>' +
+    '<div><span>Categorie</span><strong>' + esc(category) + '</strong></div>' +
+    '<div><span>Autor</span><strong>' + esc(author) + '</strong></div>' +
+    '<div><span>Data</span><strong>' + esc(updated) + '</strong></div>' +
+    '</div></div>';
+    
+  let bodyHtml = '';
+  if (typeof marked !== 'undefined' && marked.parse) {
+    bodyHtml = marked.parse(mdBody);
+  } else {
+    bodyHtml = '<pre>' + esc(mdBody) + '</pre>';
+  }
+  
+  container.innerHTML = boxHtml + '<div style="line-height:1.7;">' + bodyHtml + '</div>';
+}
+
+async function run(button, fn) {
+  button.disabled = true;
+  message('Se procesează…');
+  try {
+    await fn();
+  } catch (e) {
+    message(e.message, true);
+  } finally {
+    button.disabled = button.id === 'import' && active?.status === 'imported';
+  }
+}
+
+function on(id, fn) {
+  const el = $(id);
+  if (el) el.onclick = () => run(el, fn);
+}
+
+// Input change and auto-save
+$('document').oninput = () => {
+  dirty = true;
+  resetReview();
+  updateAutoSaveStatus('unsaved');
+  if (autoSaveTimer) clearTimeout(autoSaveTimer);
+  autoSaveTimer = setTimeout(() => {
+    persist(true).catch(() => {});
+  }, 2500);
+  if (!$('previewPane').classList.contains('hidden')) {
+    renderPreview();
+  }
+};
+
+window.onbeforeunload = e => {
+  if (dirty) {
+    e.preventDefault();
+    e.returnValue = '';
+  }
+};
+
+// Tabs: Editor vs Live Preview
+$('tabEdit').onclick = () => {
+  $('tabEdit').classList.add('active');
+  $('tabPreview').classList.remove('active');
+  $('editPane').classList.remove('hidden');
+  $('previewPane').classList.add('hidden');
+};
+
+$('tabPreview').onclick = () => {
+  renderPreview();
+  $('tabPreview').classList.add('active');
+  $('tabEdit').classList.remove('active');
+  $('previewPane').classList.remove('hidden');
+  $('editPane').classList.add('hidden');
+};
+
+on('create', async () => {
+  if (dirty && !confirm('Creezi un dosar nou fără să salvezi modificările curente?')) return;
+  const draft = await api('/api/drafts', 'POST', { title: $('title').value, modality: $('modality').value });
+  $('title').value = '';
+  setActive(draft);
+  await refresh();
+});
+
+on('save', async () => {
+  await persist();
+  message('Ciorna a fost salvată.');
+});
+
+on('validate', async () => {
+  await persist();
+  const r = await api('/api/drafts/' + active.id + '/validate', 'POST', {});
+  $('report').textContent = (r.valid ? '✓ Verificări tehnice trecute. Revizuirea clinică rămâne necesară.' : 'De completat:\n' + r.errors.map(x => '• ' + x).join('\n')) +
+    '\n\n' + r.warnings.join('\n');
+  message(r.valid ? 'Verificare încheiată cu succes.' : 'Verificarea a identificat cerințe nerezolvate.', !r.valid);
+});
+
+$('provider').onchange = () => {
+  $('institutionGroup').classList.toggle('hidden', $('provider').value !== 'us');
+};
+
+on('search', async () => {
+  $('results').innerHTML = '';
+  $('catalogStatus').innerHTML = '';
+  const r = await api('/api/search?q=' + encodeURIComponent($('query').value) +
+    '&modality=' + $('modality').value +
+    '&provider=' + $('provider').value +
+    '&institution=' + $('institution').value);
+    
+  for (const c of r.catalogs || []) {
+    const p = document.createElement('p');
+    p.className = 'muted';
+    p.textContent = c.name + ': ' + (c.ok ? c.matches + ' potriviri / ' + c.indexed + ' documente în catalog' : 'Catalog indisponibil: ' + c.error);
+    $('catalogStatus').append(p);
+  }
+  for (const portal of r.portals || []) {
+    const p = document.createElement('p');
+    p.className = 'muted';
+    p.innerHTML = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(portal.url)) + '">' + esc(portal.name) + ' ↗</a> — ' + esc(portal.description);
+    $('catalogStatus').append(p);
+  }
+  if (r.catalogs && r.catalogs.length === 0) {
+    const p = document.createElement('p');
+    p.textContent = 'Instituția selectată nu are un catalog configurat pentru această modalitate.';
+    $('catalogStatus').append(p);
+  }
+  for (const item of r.results) {
+    const e = document.createElement('div');
+    e.className = 'card';
+    e.innerHTML = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(item.url)) + '">' + esc(item.title) + '</a>' +
+      '<p class="muted">' + esc([item.provider || item.authors, item.kind, item.year].filter(Boolean).join(' · ')) + '</p>' +
+      '<details><summary>Despre sursă</summary><p>' + esc(item.summary) + '</p>' +
+      (item.catalog_checked_at ? '<p>Catalog accesat: ' + esc(item.catalog_checked_at) + '</p>' : '') + '</details>';
+    const b = document.createElement('button');
+    b.textContent = 'Verifică și adaugă sursa';
+    b.onclick = () => run(b, async () => {
+      await changeAttachment('/sources', 'POST', item);
+      message('Sursa a fost verificată și atașată.');
+    });
+    e.append(b);
+    $('results').append(e);
+  }
+  message(r.results.length + ' rezultate afișate' + (r.total > r.results.length ? ' din ' + r.total + '; restrânge căutarea' : '') + '. ' + r.note, (r.catalogs || []).some(c => !c.ok));
+});
+
+on('localSearch', async () => {
+  const r = await api('/api/library?q=' + encodeURIComponent($('query').value) + '&modality=' + $('modality').value);
+  $('results').innerHTML = '';
+  for (const p of r) {
+    const e = document.createElement('div');
+    e.className = 'card';
+    e.innerHTML = '<strong>' + esc(p.fm.title) + '</strong>' +
+      '<p class="muted">' + esc(p.path) + '</p>' +
+      '<details><summary>Conținut existent</summary><pre>' + esc(JSON.stringify(p.fm, null, 2) + '\n\n' + p.body) + '</pre></details>';
+    $('results').append(e);
+  }
+  message(r.length + ' protocoale existente găsite.');
+});
+
+on('addSource', async () => {
+  await changeAttachment('/sources', 'POST', {
+    url: $('sourceUrl').value,
+    title: $('sourceTitle').value,
+    manual_excerpt: $('sourceManualExcerpt') ? $('sourceManualExcerpt').value : ''
+  });
+  if ($('sourceManualExcerpt')) $('sourceManualExcerpt').value = '';
+  message('Sursa a fost atașată; textul extras este disponibil pentru revizuire.');
+});
+
+on('imageSearch', async () => {
+  const r = await api('/api/images/search?q=' + encodeURIComponent($('imageQuery').value));
+  $('imageResults').innerHTML = '';
+  for (const i of r) {
+    const e = document.createElement('div');
+    e.className = 'card';
+    e.innerHTML = '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(safe(i.thumbnail)) + '" alt="' + esc(i.caption) + '">' +
+      '<p><strong>' + esc(i.caption) + '</strong></p>' +
+      '<p class="muted">' + esc(i.author) + ' · ' + esc(i.license) + '</p>' +
+      '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(i.source_url)) + '">Verifică originalul ↗</a><p></p>';
+    const b = document.createElement('button');
+    b.textContent = 'Atașează';
+    b.onclick = () => run(b, async () => {
+      const caption = prompt('Legendă: ce demonstrează imaginea în acest protocol?', i.caption);
+      if (!caption) return;
+      await changeAttachment('/images', 'POST', { ...i, caption });
+      message('Imagine descărcată și atașată cu atribuire.');
+    });
+    e.append(b);
+    $('imageResults').append(e);
+  }
+  message(r.length + ' imagini candidate găsite.');
+});
+
+on('attach', async () => {
+  const data = {
+    url: $('imageUrl').value,
+    caption: $('caption').value,
+    author: $('imageAuthor').value,
+    license: $('imageLicense').value,
+    source_url: $('imageSource').value
+  };
+  let payload = data;
+  if ($('imageFile').files.length) {
+    payload = new FormData();
+    for (const [k, v] of Object.entries(data)) payload.append(k, v);
+    payload.append('file', $('imageFile').files[0]);
+  }
+  await changeAttachment('/images', 'POST', payload);
+  message('Imagine atașată cu succes.');
+});
+
+on('import', async () => {
+  await persist();
+  const r = await api('/api/drafts/' + active.id + '/import', 'POST', {
+    reviewer: $('reviewer').value,
+    clinical_review: $('clinical').checked,
+    image_review: $('imageReview').checked,
+    rights_review: $('rights').checked
+  });
+  active.status = 'imported';
+  await refresh();
+  message('Protocol adăugat cu succes: ' + r.path + (r.indexed ? '\nIndicii aplicației au fost actualizați.' : '\nImportul a reușit, dar unii indici nu au fost actualizați. Folosește „Regenerează indicii”.'), !r.indexed);
+  $('report').textContent = r.logs.map(x => x.script + ': ' + (x.ok ? 'OK' : x.output)).join('\n');
+});
+
+on('reindex', async () => {
+  const r = await api('/api/reindex', 'POST', {});
+  message(r.logs.map(x => x.script + ': ' + (x.ok ? 'OK' : x.output)).join('\n'), r.logs.some(x => !x.ok));
+});
+
+refresh().catch(e => message(e.message, true));
+</script>
+</body>
+</html>

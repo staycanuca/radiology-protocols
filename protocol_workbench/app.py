@@ -137,10 +137,36 @@ def frontmatter(text):
     return fm, match[2].strip()
 
 
+_LIBRARY_CACHE = {}
+_LIBRARY_LOCK = threading.Lock()
+
+
 def library(repo):
+    repo = Path(repo).resolve()
+    docs = repo / 'docs'
+    if not docs.exists():
+        return []
+    mtimes = []
+    for modality in CATEGORIES:
+        md = docs / modality
+        if md.exists():
+            try:
+                mtimes.append(md.stat().st_mtime_ns)
+            except OSError:
+                pass
+    cache_key = str(repo)
+    mtime_sig = tuple(mtimes)
+    with _LIBRARY_LOCK:
+        cached = _LIBRARY_CACHE.get(cache_key)
+        if cached and cached[0] == mtime_sig:
+            return cached[1]
+
     result = []
     for modality in CATEGORIES:
-        for path in sorted((repo / 'docs' / modality).rglob('*.md')):
+        mod_dir = docs / modality
+        if not mod_dir.exists():
+            continue
+        for path in sorted(mod_dir.rglob('*.md')):
             if path.name in ('index.md', 'compare.md'):
                 continue
             try:
@@ -149,7 +175,17 @@ def library(repo):
                     result.append({'path': path.relative_to(repo).as_posix(), 'fm': fm, 'body': body})
             except (ValueError, yaml.YAMLError):
                 continue
+    with _LIBRARY_LOCK:
+        _LIBRARY_CACHE[cache_key] = (mtime_sig, result)
     return result
+
+
+def invalidate_library_cache(repo=None):
+    with _LIBRARY_LOCK:
+        if repo:
+            _LIBRARY_CACHE.pop(str(Path(repo).resolve()), None)
+        else:
+            _LIBRARY_CACHE.clear()
 
 
 def seed(modality, title):
@@ -173,9 +209,10 @@ def create_app(repo=None, state=None):
     state = Path(state or repo / '.protocol-workbench').resolve()
     state.mkdir(parents=True, exist_ok=True)
     (state / 'images').mkdir(exist_ok=True)
+    (state / 'cache').mkdir(exist_ok=True)
     token = secrets.token_urlsafe(32)
     lock = threading.RLock()
-    american_search = AmericanSearch(lambda url: fetch(url))
+    american_search = AmericanSearch(lambda url: fetch(url), cache_dir=state / 'cache')
     app.config.update(MAX_CONTENT_LENGTH=LIMIT, REPO=repo, STATE=state)
 
     def draft_path(identifier):
@@ -250,6 +287,26 @@ def create_app(repo=None, state=None):
             save(draft)
         return jsonify(draft)
 
+    @app.delete('/api/drafts/<identifier>')
+    def delete_draft(identifier):
+        with lock:
+            path = draft_path(identifier)
+            if not path.exists():
+                raise FileNotFoundError('Dosarul nu există.')
+            try:
+                draft = json.loads(path.read_text(encoding='utf-8'))
+                for img in draft.get('images', []):
+                    img_file = state / 'images' / img.get('file', '')
+                    if img_file.exists():
+                        try:
+                            img_file.unlink()
+                        except OSError:
+                            pass
+            except Exception:
+                pass
+            path.unlink()
+        return jsonify(ok=True, id=identifier)
+
     @app.get('/api/search')
     def search():
         query = request.args.get('q', '').strip()
@@ -279,16 +336,22 @@ def create_app(repo=None, state=None):
         if 'pdf' in mime or raw.startswith(b'%PDF'):
             try:
                 from pypdf import PdfReader
+                reader = PdfReader(io.BytesIO(raw))
+                text = '\n'.join(page.extract_text() or '' for page in reader.pages[:100])
             except ImportError:
                 raise ValueError('Pentru PDF instalează dependențele din protocol_workbench/requirements.txt.')
-            reader = PdfReader(io.BytesIO(raw))
-            text = '\n'.join(page.extract_text() or '' for page in reader.pages[:100])
+            except Exception:
+                text = ''
         elif 'html' in mime or mime.startswith('text/'):
             text = plain(raw.decode('utf-8', errors='replace'))
         else:
             raise ValueError('Sursa trebuie să fie o pagină HTML, text sau PDF.')
+        manual = str(data.get('manual_excerpt') or data.get('excerpt') or '').strip()
         if len(text.strip()) < 100:
-            raise ValueError('Nu s-a putut extrage suficient text. PDF-ul poate necesita OCR.')
+            if len(manual) >= 50:
+                text = f"[Extras manual / PDF scanat]\n{manual}"
+            else:
+                raise ValueError('Nu s-a putut extrage suficient text. PDF-ul poate necesita OCR.')
         source = {'id': uuid.uuid4().hex, 'title': str(data.get('title') or url), 'url': url, 'resolved_url': final_url,
                   'checked_at': now(), 'sha256': hashlib.sha256(raw).hexdigest(), 'excerpt': text[:20000]}
         source.update(provenance(final_url))
@@ -498,6 +561,7 @@ def create_app(repo=None, state=None):
             # Exclusive creation protects existing protocols, including concurrent imports.
             with target.open('x', encoding='utf-8') as handle:
                 handle.write(document)
+            invalidate_library_cache(repo)
             draft.update(status='imported', imported_path=target.relative_to(repo).as_posix(), review=fm['workbench_review'])
             save(draft)
             logs = reindex()
