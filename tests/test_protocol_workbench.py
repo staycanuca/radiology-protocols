@@ -234,3 +234,34 @@ def test_delete_draft_and_manual_excerpt_fallback(workbench, monkeypatch):
     # Deleting nonexistent draft should 404
     assert client.delete(f'/api/drafts/{draft_id}', headers=headers).status_code == 404
 
+
+def test_load_protocol_from_library_and_bulk_import(workbench):
+    client, headers, repo, _ = workbench
+    # Create an existing protocol in the repo
+    proto_dir = repo / 'docs' / 'rx' / 'torace'
+    proto_dir.mkdir(parents=True, exist_ok=True)
+    proto_file = proto_dir / 'radiografie-pulmonara-pa.md'
+    proto_content = wb.seed('rx', 'Radiografie Pulmonară PA')
+    proto_file.write_text(proto_content, encoding='utf-8')
+
+    # Test single import in revision mode
+    rel_path = 'docs/rx/torace/radiografie-pulmonara-pa.md'
+    res = client.post('/api/drafts/from-library', json={'path': rel_path, 'mode': 'revision'}, headers=headers)
+    assert res.status_code == 200
+    draft_rev = res.json
+    assert draft_rev['is_revision'] is True
+    assert draft_rev['origin_path'] == rel_path
+    assert 'Radiografie Pulmonară PA' in draft_rev['document']
+
+    # Test single import in clone mode
+    res_clone = client.post('/api/drafts/from-library', json={'path': rel_path, 'mode': 'clone'}, headers=headers)
+    assert res_clone.status_code == 200
+    draft_clone = res_clone.json
+    assert draft_clone['is_revision'] is False
+    assert draft_clone['origin_path'] is None
+    assert '-adaptat' in draft_clone['document']
+
+    # Test bulk import
+    bulk_res = client.post('/api/drafts/import-bulk', json={'modality': 'rx'}, headers=headers)
+    assert bulk_res.status_code == 200
+

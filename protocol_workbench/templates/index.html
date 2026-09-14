@@ -442,6 +442,20 @@ footer {
     <label for="title">Titlu protocol nou</label>
     <input id="title" placeholder="Ex.: CT sinusuri paranazale nativ">
     <p style="margin: 10px 0;"><button id="create" style="width: 100%;">+ Creează dosar</button></p>
+
+    <details id="importLibrarySection" style="margin-top: 10px;">
+      <summary>📥 Încarcă din bibliotecă</summary>
+      <p class="muted">Alege un protocol existent din cele 158 pentru a-l edita, adăuga surse sau adapta:</p>
+      <label for="libProtocolSelect">Protocol existent</label>
+      <select id="libProtocolSelect" style="font-size: 12.5px;"></select>
+      <div class="row" style="margin-top: 10px;">
+        <button id="btnLoadRev" type="button" style="font-size: 12px; padding: 7px 10px;">✏️ Revizuiește</button>
+        <button id="btnLoadClone" class="secondary" type="button" style="font-size: 12px; padding: 7px 10px;">📋 Clonează</button>
+      </div>
+      <p style="margin-top: 10px; margin-bottom: 2px;">
+        <button id="btnBulkImport" class="subtle-btn" style="width: 100%; font-size: 11.5px; padding: 6px;" type="button">📦 Încarcă toate din [modalitate]</button>
+      </p>
+    </details>
     
     <label style="margin-top: 16px;">Dosare active</label>
     <div id="drafts"></div>
@@ -666,7 +680,11 @@ function setActive(d) {
   renderAttachments();
   updateAutoSaveStatus('');
   renderPreview();
-  message(d.status === 'imported' ? 'Dosar importat: ' + d.imported_path : 'Dosar deschis: ' + (d.document.match(/title:\s*(.+)/)?.[1] || d.id));
+  let infoMsg = d.status === 'imported' ? 'Dosar importat: ' + d.imported_path : 'Dosar deschis: ' + (d.document.match(/title:\s*(.+)/)?.[1] || d.id);
+  if (d.is_revision && d.origin_path) {
+    infoMsg += ' [Revizuire: ' + d.origin_path + ']';
+  }
+  message(infoMsg);
 }
 
 async function refresh() {
@@ -680,7 +698,7 @@ async function refresh() {
     const titleMatch = d.document.match(/title:\s*(.+)/)?.[1]?.replace(/['"]/g, '') || d.id;
     const btn = document.createElement('button');
     btn.className = 'draft-btn';
-    btn.textContent = (d.status === 'imported' ? '✓ ' : '○ ') + titleMatch;
+    btn.textContent = (d.status === 'imported' ? '✓ ' : (d.is_revision ? '🔄 ' : '○ ')) + titleMatch;
     btn.onclick = () => {
       if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
       setActive(d);
@@ -712,6 +730,7 @@ async function refresh() {
     item.append(btn, delBtn);
     container.append(item);
   }
+  populateLibrarySelect().catch(() => {});
 }
 
 async function persist(silent = false) {
@@ -891,6 +910,9 @@ on('validate', async () => {
 $('provider').onchange = () => {
   $('institutionGroup').classList.toggle('hidden', $('provider').value !== 'us');
 };
+$('modality').onchange = () => {
+  populateLibrarySelect().catch(() => {});
+};
 
 on('search', async () => {
   $('results').innerHTML = '';
@@ -977,18 +999,114 @@ on('search', async () => {
   message(r.results.length + ' rezultate afișate' + (r.total > r.results.length ? ' din ' + r.total + '; restrânge căutarea' : '') + '. ' + r.note, (r.catalogs || []).some(c => !c.ok));
 });
 
+let cachedLibrary = [];
+async function populateLibrarySelect() {
+  const sel = $('libProtocolSelect');
+  if (!sel) return;
+  try {
+    if (!cachedLibrary.length) {
+      cachedLibrary = await api('/api/library');
+    }
+    const currentMod = $('modality').value;
+    const filtered = cachedLibrary.filter(p => !currentMod || (p.fm.modality || p.path.split('/')[1]) === currentMod);
+    sel.replaceChildren();
+    if (!filtered.length) {
+      const opt = document.createElement('option');
+      opt.value = '';
+      opt.textContent = 'Niciun protocol găsit';
+      sel.append(opt);
+      return;
+    }
+    for (const p of filtered) {
+      const opt = document.createElement('option');
+      opt.value = p.path;
+      const title = p.fm.title || p.path;
+      const cat = p.fm.category || p.path.split('/')[2] || '';
+      opt.textContent = title + (cat ? ' [' + cat + ']' : '');
+      sel.append(opt);
+    }
+    if ($('btnBulkImport')) {
+      $('btnBulkImport').textContent = '📦 Încarcă toate din ' + currentMod.toUpperCase() + ' (' + filtered.length + ')';
+    }
+  } catch (err) {
+    console.error(err);
+  }
+}
+
 on('localSearch', async () => {
   const r = await api('/api/library?q=' + encodeURIComponent($('query').value) + '&modality=' + $('modality').value);
   $('results').innerHTML = '';
   for (const p of r) {
     const e = document.createElement('div');
     e.className = 'card';
-    e.innerHTML = '<strong>' + esc(p.fm.title) + '</strong>' +
-      '<p class="muted">' + esc(p.path) + '</p>' +
-      '<details><summary>Conținut existent</summary><pre>' + esc(JSON.stringify(p.fm, null, 2) + '\n\n' + p.body) + '</pre></details>';
+    const mod = (p.fm.modality || p.path.split('/')[1] || '').toUpperCase();
+    e.innerHTML = '<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:10px;">' +
+      '<div><strong>' + esc(p.fm.title) + '</strong>' +
+      '<p class="muted">' + esc(p.path) + '</p></div>' +
+      '<span class="number" style="margin:0;">' + esc(mod) + '</span>' +
+      '</div>' +
+      '<details><summary>Vizualizează conținut existent</summary><pre>' + esc(JSON.stringify(p.fm, null, 2) + '\n\n' + p.body) + '</pre></details>' +
+      '<div class="row" style="margin-top:10px; gap:8px;"></div>';
+
+    const actions = e.querySelector('.row');
+    const revBtn = document.createElement('button');
+    revBtn.className = 'secondary';
+    revBtn.style.fontSize = '12px';
+    revBtn.style.padding = '6px 12px';
+    revBtn.textContent = '✏️ Deschide pentru revizuire';
+    revBtn.onclick = () => run(revBtn, async () => {
+      if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
+      const draft = await api('/api/drafts/from-library', 'POST', { path: p.path, mode: 'revision' });
+      setActive(draft);
+      await refresh();
+      message('Protocol deschis pentru revizuire: ' + p.path);
+    });
+
+    const cloneBtn = document.createElement('button');
+    cloneBtn.className = 'subtle-btn';
+    cloneBtn.style.fontSize = '12px';
+    cloneBtn.style.padding = '6px 12px';
+    cloneBtn.textContent = '📋 Clonează ca nou';
+    cloneBtn.onclick = () => run(cloneBtn, async () => {
+      if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
+      const draft = await api('/api/drafts/from-library', 'POST', { path: p.path, mode: 'clone' });
+      setActive(draft);
+      await refresh();
+      message('Protocol clonat ca ciornă adaptată nouă.');
+    });
+
+    actions.append(revBtn, cloneBtn);
     $('results').append(e);
   }
-  message(r.length + ' protocoale existente găsite.');
+  message(r.length + ' protocoale existente găsite în bibliotecă.');
+});
+
+on('btnLoadRev', async () => {
+  const path = $('libProtocolSelect').value;
+  if (!path) return;
+  if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
+  const draft = await api('/api/drafts/from-library', 'POST', { path, mode: 'revision' });
+  setActive(draft);
+  await refresh();
+  message('Protocol încărcat pentru revizuire: ' + path);
+});
+
+on('btnLoadClone', async () => {
+  const path = $('libProtocolSelect').value;
+  if (!path) return;
+  if (dirty && !confirm('Ai modificări nesalvate. Deschizi alt dosar fără salvare?')) return;
+  const draft = await api('/api/drafts/from-library', 'POST', { path, mode: 'clone' });
+  setActive(draft);
+  await refresh();
+  message('Protocol clonat ca ciornă nouă adaptată.');
+});
+
+on('btnBulkImport', async () => {
+  const mod = $('modality').value;
+  if (!confirm('Dorești să încarci toate protocoalele existente din modalitatea ' + mod.toUpperCase() + ' ca dosare de lucru?')) return;
+  const res = await api('/api/drafts/import-bulk', 'POST', { modality: mod, mode: 'revision' });
+  await refresh();
+  message('Au fost create ' + res.count + ' dosare de lucru pentru modalitatea ' + mod.toUpperCase() + '.');
 });
 
 on('addSource', async () => {

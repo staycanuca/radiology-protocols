@@ -307,6 +307,148 @@ def create_app(repo=None, state=None):
             path.unlink()
         return jsonify(ok=True, id=identifier)
 
+    def load_protocol_to_draft(rel_path, mode='revision'):
+        rel_posix = Path(rel_path).as_posix()
+        target = (repo / rel_posix).resolve()
+        docs_root = (repo / 'docs').resolve()
+        if not target.is_relative_to(docs_root) or not target.exists() or not target.is_file():
+            raise ValueError(f'Protocolul nu a fost găsit în docs/: {rel_path}')
+        if target.name in ('index.md', 'compare.md'):
+            raise ValueError('Fișierele index nu pot fi importate ca protocoale.')
+
+        raw_content = target.read_text(encoding='utf-8')
+        fm, body = frontmatter(raw_content)
+
+        parts = Path(rel_posix).parts
+        inferred_modality = None
+        for i, p in enumerate(parts):
+            if p == 'docs' and i + 1 < len(parts):
+                inferred_modality = parts[i + 1]
+                break
+
+        if 'modality' not in fm or fm['modality'] not in CATEGORIES:
+            fm['modality'] = inferred_modality if inferred_modality in CATEGORIES else 'ct'
+
+        if 'category' not in fm or fm['category'] not in CATEGORIES.get(fm['modality'], []):
+            for cat in CATEGORIES.get(fm['modality'], []):
+                if f'/{cat}/' in rel_posix or f'\\{cat}\\' in rel_path:
+                    fm['category'] = cat
+                    break
+
+        body_cleaned = re.split(r'\n## (?:Imagini reprezentative|Surse și revizuire)', body)[0].strip()
+
+        draft_sources = []
+        for s in fm.pop('sources', []):
+            if isinstance(s, dict) and s.get('url'):
+                draft_sources.append({
+                    'id': s.get('id') or uuid.uuid4().hex,
+                    'title': s.get('title', s['url']),
+                    'url': s['url'],
+                    'resolved_url': s.get('resolved_url', s['url']),
+                    'checked_at': s.get('checked_at', now()),
+                    'sha256': s.get('sha256', hashlib.sha256(s['url'].encode()).hexdigest()),
+                    'excerpt': s.get('excerpt', f"Sursă extrasă din {rel_posix}."),
+                    'institution': s.get('institution', ''),
+                    'source_region': s.get('source_region', '')
+                })
+
+        draft_images = []
+        for img in fm.pop('images', []):
+            if isinstance(img, dict) and img.get('url'):
+                img_url = img['url']
+                candidate_paths = [
+                    (repo / 'docs' / img_url).resolve(),
+                    (repo / img_url).resolve(),
+                    (repo / 'docs' / 'assets' / 'images' / 'protocols' / 'workbench' / Path(img_url).name).resolve()
+                ]
+                found_path = next((p for p in candidate_paths if p.exists() and p.is_file()), None)
+                if found_path:
+                    img_bytes = found_path.read_bytes()
+                    img_sha = hashlib.sha256(img_bytes).hexdigest()
+                    img_file = img_sha + '.jpg'
+                    (state / 'images' / img_file).write_bytes(img_bytes)
+                    draft_images.append({
+                        'file': img_file,
+                        'sha256': img_sha,
+                        'caption': img.get('caption', found_path.stem),
+                        'author': img.get('author', 'Arhivă clinică'),
+                        'license': img.get('license', 'Uz instituțional'),
+                        'source_url': img.get('source_url', img_url),
+                        'license_url': img.get('license_url', '')
+                    })
+
+        fm['images'] = []
+        fm.pop('workbench_review', None)
+
+        if mode == 'clone':
+            fm['title'] = str(fm.get('title', '')) + ' (Adaptat)'
+            orig_slug = str(fm.get('slug', 'protocol'))
+            fm['slug'] = slugify(orig_slug + '-adaptat')[:100]
+            is_rev = False
+            orig_p = None
+        else:
+            is_rev = True
+            orig_p = rel_posix
+
+        new_doc = '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n' + body_cleaned + '\n'
+
+        draft = {
+            'id': uuid.uuid4().hex,
+            'document': new_doc,
+            'sources': draft_sources,
+            'images': draft_images,
+            'created_at': now(),
+            'status': 'draft',
+            'origin_path': orig_p,
+            'is_revision': is_rev,
+        }
+        return draft
+
+    @app.post('/api/drafts/from-library')
+    def draft_from_library():
+        data = request.get_json() or {}
+        path = str(data.get('path', '')).strip()
+        mode = data.get('mode', 'revision')
+        draft = load_protocol_to_draft(path, mode)
+        with lock:
+            save(draft)
+        return jsonify(draft)
+
+    @app.post('/api/drafts/import-bulk')
+    def import_bulk():
+        data = request.get_json() or {}
+        modality = data.get('modality')
+        mode = data.get('mode', 'revision')
+        all_protocols = library(repo)
+
+        existing_draft_origins = set()
+        for p in state.glob('*.json'):
+            try:
+                d = json.loads(p.read_text(encoding='utf-8'))
+                if d.get('origin_path'):
+                    existing_draft_origins.add(d['origin_path'])
+            except Exception:
+                pass
+
+        created = []
+        with lock:
+            for p in all_protocols:
+                p_path = p['path']
+                parts = Path(p_path).parts
+                p_mod = parts[1] if len(parts) > 1 else ''
+                if modality and modality != 'all' and p_mod != modality:
+                    continue
+                if p_path in existing_draft_origins:
+                    continue
+                try:
+                    d = load_protocol_to_draft(p_path, mode)
+                    save(d)
+                    existing_draft_origins.add(p_path)
+                    created.append({'id': d['id'], 'title': p['fm'].get('title'), 'path': p_path})
+                except Exception as exc:
+                    app.logger.warning(f"Could not import {p_path}: {exc}")
+        return jsonify(count=len(created), drafts=created)
+
     @app.get('/api/search')
     def search():
         query = request.args.get('q', '').strip()
@@ -485,9 +627,10 @@ def create_app(repo=None, state=None):
         if fm.get('images'):
             errors.append('Adaugă imaginile prin secțiunea dedicată; păstrează images: [] în editor.')
         for p in library(repo):
-            if p['fm'].get('slug') == fm.get('slug'):
+            is_self = draft.get('is_revision') and draft.get('origin_path') == p['path']
+            if p['fm'].get('slug') == fm.get('slug') and not is_self:
                 errors.append('Există deja un protocol cu acest slug: ' + p['path'])
-            elif normalize(p['fm'].get('title')) == normalize(fm.get('title')):
+            elif normalize(p['fm'].get('title')) == normalize(fm.get('title')) and not is_self:
                 warnings.append('Titlu identic în bibliotecă: ' + p['path'])
         if not draft['sources']:
             errors.append('Adaugă cel puțin o sursă verificată online.')
@@ -560,8 +703,9 @@ def create_app(repo=None, state=None):
             references = '\n\n## Surse și revizuire\n\n' + '\n'.join('- ' + html.escape(s['title']) + ' — <' + s['url'] + '>' for s in draft['sources'])
             references += '\n\nRevizuit de: ' + html.escape(reviewer) + ' · ' + str(date.today()) + '\n'
             document = '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n' + body + gallery + references
-            # Exclusive creation protects existing protocols, including concurrent imports.
-            with target.open('x', encoding='utf-8') as handle:
+            # Exclusive creation protects existing protocols, unless revising the exact origin file.
+            mode_flag = 'w' if (draft.get('is_revision') and draft.get('origin_path') == target.relative_to(repo).as_posix()) else 'x'
+            with target.open(mode_flag, encoding='utf-8') as handle:
                 handle.write(document)
             invalidate_library_cache(repo)
             draft.update(status='imported', imported_path=target.relative_to(repo).as_posix(), review=fm['workbench_review'])
