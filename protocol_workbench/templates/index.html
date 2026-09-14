@@ -836,7 +836,7 @@ function renderAttachments() {
     smartBtn.style.border = 'none';
     smartBtn.style.fontWeight = '600';
     smartBtn.textContent = '✨ Extrage parametri în protocol';
-    smartBtn.title = 'Analizează textul sursei și actualizează automat parametrii tehnici (kV, mAs, DFF, contrast, etc.) în protocol conform diferențelor găsite';
+    smartBtn.title = 'Analizează textul sursei și actualizează automat parametrii clinici și tehnici (indicații, pregătire, contrast, parametri generator, siguranță, calitate) în protocol';
     smartBtn.onclick = () => run(smartBtn, async () => {
       await persist();
       const res = await api('/api/drafts/' + active.id + '/sources/' + s.id + '/smart-extract', 'POST', {});
@@ -846,9 +846,13 @@ function renderAttachments() {
       renderPreview();
       updateAutoSaveStatus('saved');
       if (res.count > 0) {
-        const details = res.diffs.map(d => '• ' + d.label + ': ' + d.old_value + ' → ' + d.new_value).join('\n');
+        const details = res.diffs.map(d => {
+          let oldVal = Array.isArray(d.old_value) ? d.old_value.join('; ') : d.old_value;
+          let newVal = Array.isArray(d.new_value) ? d.new_value.join('; ') : d.new_value;
+          return '• ' + d.label + ': ' + oldVal + ' → ' + newVal;
+        }).join('\n');
         alert('✨ Au fost actualizați automat ' + res.count + ' parametri conform sursei «' + res.source_title + '»:\n\n' + details);
-        message('Au fost actualizați ' + res.count + ' parametri tehnici din sursă.');
+        message('Au fost actualizați ' + res.count + ' parametri clinici și tehnici din sursă.');
       } else {
         message('Nu au fost găsite diferențe noi față de parametrii existenți în protocol.');
       }
