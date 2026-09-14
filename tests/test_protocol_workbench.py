@@ -352,3 +352,85 @@ def test_import_with_local_source_archives_file(workbench):
     assert 'assets/protocols/sources/' in doc_text
 
 
+def test_local_sources_catalog_and_reuse(workbench):
+    client, headers, repo, state = workbench
+    d1 = draft(workbench, 'ct')
+    prefix1 = '/api/drafts/' + d1['id']
+
+    # 1. Initially catalog is empty (or has existing repo docs)
+    cat_res = client.get('/api/sources/local-library', headers=headers)
+    assert cat_res.status_code == 200
+    initial_count = len(cat_res.json)
+
+    # 2. Upload a file to draft 1
+    file_bytes = b"Procedura tehnica de radioprotectie si justificare clinica 2026."
+    res_upload = client.post(
+        prefix1 + '/sources/upload',
+        data={
+            'file': (io.BytesIO(file_bytes), 'norme_radioprotectie.txt'),
+            'title': 'Norme Radioprotectie Spital',
+            'institution': 'Laborator Radiologie',
+            'manual_excerpt': 'Rezumat radioprotectie',
+        },
+        headers=headers
+    )
+    assert res_upload.status_code == 200
+    s1 = res_upload.json['sources'][0]
+    saved_ref = s1['local_file_ref']
+
+    # 3. Check catalog endpoint contains the uploaded item
+    cat_res2 = client.get('/api/sources/local-library', headers=headers)
+    assert cat_res2.status_code == 200
+    items = cat_res2.json
+    assert len(items) == initial_count + 1
+    matched = next((i for i in items if i['local_file_ref'] == saved_ref), None)
+    assert matched is not None
+    assert matched['title'] == 'Norme Radioprotectie Spital'
+    assert matched['institution'] == 'Laborator Radiologie'
+    assert matched['size_bytes'] == len(file_bytes)
+    assert matched['sha256'] == s1['sha256']
+
+    # 4. Create a completely separate draft 2
+    d2 = draft(workbench, 'mri')
+    prefix2 = '/api/drafts/' + d2['id']
+
+    # 5. Attach the existing local document to draft 2 from catalog
+    attach_res = client.post(
+        prefix2 + '/sources/attach-local',
+        json={'local_file_ref': saved_ref},
+        headers=headers
+    )
+    assert attach_res.status_code == 200
+    d2_sources = attach_res.json['sources']
+    assert len(d2_sources) == 1
+    s2 = d2_sources[0]
+    assert s2['local_file_ref'] == saved_ref
+    assert s2['title'] == 'Norme Radioprotectie Spital'
+    assert s2['sha256'] == s1['sha256']
+    assert s2['id'] != s1['id']  # Unique source ID per attachment
+
+    # 6. Verify draft 2 can serve the file
+    d2_file_res = client.get(f"{prefix2}/sources/{s2['id']}/file", headers=headers)
+    assert d2_file_res.status_code == 200
+    assert d2_file_res.data == file_bytes
+
+    # 7. Re-attaching should update the source, not duplicate
+    attach_res_repeat = client.post(
+        prefix2 + '/sources/attach-local',
+        json={'local_file_ref': saved_ref},
+        headers=headers
+    )
+    assert attach_res_repeat.status_code == 200
+    assert len(attach_res_repeat.json['sources']) == 1
+
+    # 8. Error handling: invalid local_file_ref
+    err_res = client.post(
+        prefix2 + '/sources/attach-local',
+        json={'local_file_ref': 'fisier_inexistent.pdf'},
+        headers=headers
+    )
+    assert err_res.status_code == 400
+    assert 'nu a fost găsit' in err_res.json['error']
+
+
+

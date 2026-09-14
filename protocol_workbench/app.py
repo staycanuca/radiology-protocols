@@ -283,6 +283,70 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         temporary.write_text(json.dumps(draft, ensure_ascii=False, indent=2), encoding='utf-8')
         temporary.replace(path)
 
+    def load_local_sources_catalog():
+        catalog_file = state / 'local_sources_catalog.json'
+        catalog = {}
+        if catalog_file.exists():
+            try:
+                catalog = json.loads(catalog_file.read_text(encoding='utf-8'))
+            except Exception:
+                catalog = {}
+
+        sources_dir = state / 'sources'
+        sources_dir.mkdir(parents=True, exist_ok=True)
+
+        # Scan existing drafts in state to populate catalog
+        for p in state.glob('*.json'):
+            if p.name == 'local_sources_catalog.json':
+                continue
+            try:
+                d = json.loads(p.read_text(encoding='utf-8'))
+                for s in d.get('sources', []):
+                    ref = s.get('local_file_ref')
+                    if ref and ref not in catalog:
+                        fpath = sources_dir / ref
+                        fsize = fpath.stat().st_size if fpath.exists() else 0
+                        catalog[ref] = {
+                            'title': s.get('title') or s.get('local_filename') or ref,
+                            'institution': s.get('institution', 'Document instituțional intern'),
+                            'kind': s.get('kind', 'Document local'),
+                            'local_filename': s.get('local_filename', ref),
+                            'local_file_ref': ref,
+                            'sha256': s.get('sha256', ''),
+                            'excerpt': s.get('excerpt', ''),
+                            'size_bytes': fsize,
+                            'uploaded_at': s.get('checked_at', now()),
+                        }
+            except Exception:
+                pass
+
+        # Scan docs/assets/protocols/sources
+        doc_sources_dir = repo / 'docs' / 'assets' / 'protocols' / 'sources'
+        if doc_sources_dir.exists():
+            for f in doc_sources_dir.glob('*'):
+                if f.is_file() and f.name not in catalog:
+                    if not (sources_dir / f.name).exists():
+                        (sources_dir / f.name).write_bytes(f.read_bytes())
+                    clean_title = re.sub(r'^[a-f0-9]{12}_', '', f.name)
+                    catalog[f.name] = {
+                        'title': clean_title,
+                        'institution': 'Arhivă protocoale bibliotecă',
+                        'kind': f'Document local ({f.suffix.lstrip(".").upper() or "fișier"})',
+                        'local_filename': clean_title,
+                        'local_file_ref': f.name,
+                        'sha256': hashlib.sha256(f.read_bytes()).hexdigest(),
+                        'excerpt': f"Document din biblioteca aplicației ({f.name}).",
+                        'size_bytes': f.stat().st_size,
+                        'uploaded_at': now(),
+                    }
+        return catalog
+
+    def save_local_sources_catalog(catalog):
+        catalog_file = state / 'local_sources_catalog.json'
+        temporary = catalog_file.with_suffix('.tmp')
+        temporary.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding='utf-8')
+        temporary.replace(catalog_file)
+
     @app.before_request
     def protect():
         if request.host.split(':')[0] not in ('127.0.0.1', 'localhost', '[::1]'):
@@ -638,11 +702,76 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             'excerpt': extracted_text[:20000]
         }
 
+        catalog = load_local_sources_catalog()
+        catalog[saved_name] = {
+            'title': title,
+            'institution': institution,
+            'kind': kind,
+            'local_filename': orig_name,
+            'local_file_ref': saved_name,
+            'sha256': sha256,
+            'excerpt': extracted_text[:20000],
+            'size_bytes': len(raw),
+            'uploaded_at': now(),
+        }
+        save_local_sources_catalog(catalog)
+
         with lock:
             draft = read(identifier)
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s.get('sha256') != sha256] + [source]
+            save(draft)
+        return jsonify(draft)
+
+    @app.get('/api/sources/local-library')
+    def get_local_sources_library():
+        catalog = load_local_sources_catalog()
+        items = sorted(catalog.values(), key=lambda x: x.get('uploaded_at', ''), reverse=True)
+        return jsonify(items)
+
+    @app.post('/api/drafts/<identifier>/sources/attach-local')
+    def attach_existing_local_source(identifier):
+        data = request.get_json() or {}
+        ref = str(data.get('local_file_ref') or '').strip()
+        if not ref:
+            raise ValueError('Selectează un document din biblioteca locală.')
+        catalog = load_local_sources_catalog()
+        item = catalog.get(ref)
+        if not item:
+            raise ValueError('Documentul selectat nu a fost găsit în catalogul local.')
+
+        sources_dir = state / 'sources'
+        fpath = sources_dir / ref
+        if not fpath.exists():
+            doc_fpath = repo / 'docs' / 'assets' / 'protocols' / 'sources' / ref
+            if doc_fpath.exists():
+                sources_dir.mkdir(parents=True, exist_ok=True)
+                fpath.write_bytes(doc_fpath.read_bytes())
+            else:
+                raise ValueError('Fișierul fizic nu a fost găsit pe disc.')
+
+        sec_name = secure_filename(item.get('local_filename', ref)) or ref
+        source = {
+            'id': uuid.uuid4().hex,
+            'title': item['title'],
+            'url': f'local://{sec_name}',
+            'resolved_url': f'local://{sec_name}',
+            'institution': item.get('institution', 'Document instituțional intern'),
+            'source_region': 'Local / Instituțional',
+            'kind': item.get('kind', 'Document local'),
+            'local_filename': item.get('local_filename', ref),
+            'local_file_ref': ref,
+            'checked_at': now(),
+            'sha256': item.get('sha256') or hashlib.sha256(fpath.read_bytes()).hexdigest(),
+            'excerpt': item.get('excerpt', '')
+        }
+
+        with lock:
+            draft = read(identifier)
+            if draft['status'] == 'imported':
+                raise ValueError('Dosar deja importat.')
+            draft['sources'] = [s for s in draft['sources'] if s.get('local_file_ref') != ref] + [source]
             save(draft)
         return jsonify(draft)
 
@@ -653,7 +782,13 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         if not source or not source.get('local_file_ref'):
             raise ValueError('Fișierul sursă local nu a fost găsit.')
         sources_dir = state / 'sources'
-        return send_from_directory(sources_dir, source['local_file_ref'], as_attachment=False)
+        ref = source['local_file_ref']
+        if (sources_dir / ref).exists():
+            return send_from_directory(sources_dir, ref, as_attachment=False)
+        doc_sources_dir = repo / 'docs' / 'assets' / 'protocols' / 'sources'
+        if (doc_sources_dir / ref).exists():
+            return send_from_directory(doc_sources_dir, ref, as_attachment=False)
+        raise ValueError('Fișierul sursă local nu a fost găsit pe disc.')
 
     @app.get('/api/images/search')
     def image_search():
