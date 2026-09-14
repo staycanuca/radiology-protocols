@@ -917,6 +917,47 @@ on('search', async () => {
     p.textContent = 'Instituția selectată nu are un catalog configurat pentru această modalitate.';
     $('catalogStatus').append(p);
   }
+  if (r.presets && r.presets.length > 0) {
+    const box = document.createElement('div');
+    box.className = 'card';
+    box.style.background = '#f2f8f5';
+    box.style.borderColor = '#c5e5d6';
+    box.style.marginBottom = '14px';
+    box.innerHTML = '<h3 style="margin: 0 0 6px; color: #1e5443; display: flex; align-items: center; gap: 6px;">' +
+      '<span>📋</span> Standarde oficiale de referință (Radiologie Clasică / RX)</h3>' +
+      '<p class="muted" style="color: #346353; margin-bottom: 12px;">Ghiduri internaționale validate pentru calitatea imaginii, parametri tehnici și radioprotecție:</p>';
+    
+    for (const p of r.presets) {
+      const item = document.createElement('div');
+      item.style.padding = '10px 12px';
+      item.style.background = '#ffffff';
+      item.style.border = '1px solid #d4eae0';
+      item.style.borderRadius = '8px';
+      item.style.marginBottom = '8px';
+      item.innerHTML = '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(p.url)) + '"><strong>' + esc(p.title) + ' ↗</strong></a>' +
+        '<p class="muted">' + esc([p.provider, p.kind, p.country].filter(Boolean).join(' · ')) + '</p>' +
+        '<p style="font-size: 12.5px; line-height: 1.5; margin: 4px 0 8px;">' + esc(p.summary) + '</p>';
+      
+      const addBtn = document.createElement('button');
+      addBtn.className = 'secondary';
+      addBtn.style.padding = '6px 12px';
+      addBtn.style.fontSize = '12px';
+      addBtn.textContent = '+ Preia ca sursă în dosar';
+      addBtn.onclick = () => run(addBtn, async () => {
+        if (!active) {
+          $('sourceTitle').value = p.title;
+          $('sourceUrl').value = p.url;
+          message('Titlul și URL-ul au fost preluate. Deschide sau creează un dosar pentru a le atașa.');
+          return;
+        }
+        await changeAttachment('/sources', 'POST', p);
+        message('Ghidul de referință a fost atașat ca sursă la dosar.');
+      });
+      item.append(addBtn);
+      box.append(item);
+    }
+    $('results').append(box);
+  }
   for (const item of r.results) {
     const e = document.createElement('div');
     e.className = 'card';

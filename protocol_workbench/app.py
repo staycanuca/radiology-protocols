@@ -311,13 +311,15 @@ def create_app(repo=None, state=None):
     def search():
         query = request.args.get('q', '').strip()
         modality = request.args.get('modality', 'ct')
-        if not query or modality not in TERMS:
-            raise ValueError('Introdu o căutare și o modalitate validă.')
+        if modality not in TERMS:
+            raise ValueError('Introdu o modalitate validă.')
         provider = request.args.get('provider', 'europepmc')
         if provider == 'us':
             return jsonify(american_search.search(query, modality, request.args.get('institution', 'all')))
         if provider != 'europepmc':
             raise ValueError('Furnizor necunoscut.')
+        if not query:
+            return jsonify(results=[], note='Introdu un termen de căutare.')
         terms = query + ' ' + TERMS[modality]
         data = remote_json('https://www.ebi.ac.uk/europepmc/webservices/rest/search',
                            {'query': terms + ' (protocol OR guideline OR consensus)', 'format': 'json', 'pageSize': 12, 'resultType': 'core'})

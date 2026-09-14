@@ -36,6 +36,57 @@ PORTALS = [
      'url': 'https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Practice-Parameters-and-Technical-Standards',
      'description': 'Parametri de practică și standarde tehnice. Consultare pe portalul ACR.'},
 ]
+RX_PORTALS = [
+    {'name': 'Comisia Europeană — Criterii de Calitate în Radiografie (EUR 16260)',
+     'url': 'https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925',
+     'description': 'Ghidul european oficial pentru calitatea imaginii, criterii anatomice și DRL în radiografia convențională (torace, craniu, coloană, bazin, extremități).'},
+    {'name': 'ACR-SPR — Practice Parameter for General Radiography',
+     'url': 'https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf',
+     'description': 'Standardul oficial ACR pentru radiografia digitală și convențională generală (indici de expunere, optimizare doză, criterii de achiziție).'},
+    {'name': 'Image Gently — Radiografie Digitală Pediatrică',
+     'url': 'https://www.imagegently.org/Procedures/Digital-Radiography',
+     'description': 'Protocoale pediatrice de adaptare a dozei de radiație la sugari și copii (fără grilă antidifuzoare, ajustare kV/mAs).'},
+    {'name': 'Radiopaedia — Ghid de Poziționare și Proiecții Radiografice',
+     'url': 'https://radiopaedia.org/articles/x-ray-positioning-and-projections-1',
+     'description': 'Bază clinică de proiecții radiografice detaliate: centraj, unghi tub, SID/DFF, colimare și criterii de evaluare.'},
+    {'name': 'IAEA — Radioprotecție în Radiografia Convențională',
+     'url': 'https://www.iaea.org/resources/rpop/health-professionals/radiology/radiography',
+     'description': 'Recomandări internaționale de protecție radiologică, optimizare doză la pacient și bune practici clinice.'},
+]
+RX_PRESETS = [
+    {
+        'title': 'Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic',
+        'url': 'https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925',
+        'provider': 'Comisia Europeană',
+        'kind': 'Ghid european oficial (EUR 16260)',
+        'country': 'UE',
+        'summary': 'Standardul european de aur pentru criteriile de evaluare a imaginii radiografice (torace, craniu, coloană, pelvis, extremități) și niveluri de referință DRL.'
+    },
+    {
+        'title': 'ACR-SPR Practice Parameter for General Radiography (Digital Radiography)',
+        'url': 'https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf',
+        'provider': 'ACR',
+        'kind': 'Standard de practică clinică',
+        'country': 'US',
+        'summary': 'Standarde profesionale ACR pentru indicatoarele de expunere (EI), colimare, protecție gonadică și controlul calității imaginilor radiografice.'
+    },
+    {
+        'title': 'Image Gently — Pediatric Digital Radiography Protocols',
+        'url': 'https://www.imagegently.org/Procedures/Digital-Radiography',
+        'provider': 'Image Gently',
+        'kind': 'Ghid pediatric de reducere a dozei',
+        'country': 'US',
+        'summary': 'Protocoale pediatrice de radioprotecție: adaptarea parametrilor kVp/mAs la grosimea copilului și evitarea grilei antidifuzoare la sugari.'
+    },
+    {
+        'title': 'Radiopaedia — X-ray Positioning and Projections Reference',
+        'url': 'https://radiopaedia.org/articles/x-ray-positioning-and-projections-1',
+        'provider': 'Radiopaedia',
+        'kind': 'Ghid tehnic de proiecții și poziționare',
+        'country': 'Internațional',
+        'summary': 'Ghid de referință cu peste 100 de proiecții radiografice standard: centraj focar, unghi tub, SID/DFF și criterii de evaluare radiologică.'
+    },
+]
 # Limited, explicit anatomy aliases; queries are not translated by a clinical model.
 ALIASES = {
     'genunchi': 'knee', 'torace': 'chest', 'craniu': 'head', 'creier': 'brain',
@@ -204,7 +255,12 @@ class AmericanSearch:
                 statuses.append({'name': config['name'], 'url': config['pages'][modality], 'ok': error is None,
                                  'indexed': len(entries), 'matches': len(matches), 'error': error})
         results.sort(key=lambda r: (r['provider'], r['title'].lower()))
-        return {'results': results[:100], 'total': len(results), 'catalogs': statuses, 'portals': PORTALS,
+        portals = list(PORTALS)
+        if modality == 'rx':
+            portals.extend(RX_PORTALS)
+        presets = RX_PRESETS if modality == 'rx' else []
+        return {'results': results[:100], 'total': len(results), 'catalogs': statuses,
+                'portals': portals, 'presets': presets,
                 'note': 'Căutare în titluri și nume de fișiere din cataloage SUA; nu în textul integral. '
                         'RX și fluoroscopia folosesc catalogul comun UT Southwestern. '
                         'Accesul public nu implică drept de republicare; revizuirea înainte de import rămâne obligatorie.'}
@@ -221,4 +277,14 @@ def provenance(url):
                 return {'institution': config['name'], 'source_region': 'US'}
     if host == 'acr.org' or host.endswith('.acr.org'):
         return {'institution': 'ACR', 'source_region': 'US'}
+    if host == 'europa.eu' or host.endswith('.europa.eu'):
+        return {'institution': 'Comisia Europeană (EUR)', 'source_region': 'UE'}
+    if host == 'imagegently.org' or host.endswith('.imagegently.org'):
+        return {'institution': 'Image Gently', 'source_region': 'US'}
+    if host == 'radiopaedia.org' or host.endswith('.radiopaedia.org'):
+        return {'institution': 'Radiopaedia', 'source_region': 'Internațional'}
+    if host == 'iaea.org' or host.endswith('.iaea.org'):
+        return {'institution': 'IAEA', 'source_region': 'Internațional'}
+    if host == 'who.int' or host.endswith('.who.int'):
+        return {'institution': 'WHO / OMS', 'source_region': 'Internațional'}
     return {}
