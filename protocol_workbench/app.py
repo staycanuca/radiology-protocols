@@ -254,6 +254,27 @@ def seed(modality, title):
     return '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n# ' + title + '\n\n## Pregătire\n\n## Achiziție\n\n## Criterii de calitate\n\n## Siguranță și contraindicații\n'
 
 
+def inject_source_into_document(document: str, source_title: str, text: str, institution: str = "") -> str:
+    cleaned = (text or "").strip()
+    if not cleaned:
+        return document
+
+    cleaned = re.sub(r'\r\n|\r', '\n', cleaned)
+    cleaned = re.sub(r'\n{3,}', '\n\n', cleaned)
+
+    stitle = str(source_title or 'Sursă').strip()
+    sinst = str(institution or '').strip()
+    header_info = f" ({sinst})" if sinst else ""
+
+    section_title = f"## Conținut preluat: {stitle}{header_info}"
+
+    if f"## Conținut preluat: {stitle}" in document:
+        return document
+
+    doc_trimmed = document.rstrip()
+    return f"{doc_trimmed}\n\n{section_title}\n\n{cleaned}\n"
+
+
 def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
     app = Flask(__name__)
     repo = Path(repo or Path(__file__).resolve().parents[1]).resolve()
@@ -650,6 +671,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s['url'] != url] + [source]
+            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 
@@ -721,6 +743,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s.get('sha256') != sha256] + [source]
+            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 
@@ -772,6 +795,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s.get('local_file_ref') != ref] + [source]
+            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 

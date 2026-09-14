@@ -318,6 +318,12 @@ def test_upload_local_text_and_docx_sources(workbench):
     sources2 = res_docx.json['sources']
     assert len(sources2) == 2
     assert any('Procedura operationala standardizata' in s['excerpt'] for s in sources2)
+    # Check that both sources were auto-injected into draft['document']
+    doc2 = res_docx.json['document']
+    assert '## Conținut preluat: Protocol Intern Spital Clinic' in doc2
+    assert '120 kV' in doc2
+    assert '## Conținut preluat: Procedura Abdomen DOCX' in doc2
+    assert 'Procedura operationala standardizata' in doc2
 
 
 def test_import_with_local_source_archives_file(workbench):
@@ -408,6 +414,8 @@ def test_local_sources_catalog_and_reuse(workbench):
     assert s2['title'] == 'Norme Radioprotectie Spital'
     assert s2['sha256'] == s1['sha256']
     assert s2['id'] != s1['id']  # Unique source ID per attachment
+    assert '## Conținut preluat: Norme Radioprotectie Spital' in attach_res.json['document']
+    assert 'Procedura tehnica de radioprotectie' in attach_res.json['document']
 
     # 6. Verify draft 2 can serve the file
     d2_file_res = client.get(f"{prefix2}/sources/{s2['id']}/file", headers=headers)

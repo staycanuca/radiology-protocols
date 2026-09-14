@@ -795,7 +795,9 @@ async function changeAttachment(path, method, data) {
   await persist();
   active = await api('/api/drafts/' + active.id + path, method, data);
   resetReview();
+  $('document').value = active.document;
   renderAttachments();
+  renderPreview();
   await refresh();
 }
 
@@ -819,11 +821,52 @@ function renderAttachments() {
       '<p class="muted" style="margin: 4px 0;">' + (isLocal ? 'Înregistrat: ' : 'Accesat: ') + esc(s.checked_at) + ' · SHA-256: ' + esc((s.sha256 || '').substring(0, 12)) + '...</p>' +
       (s.institution ? '<p class="muted" style="margin: 2px 0;">Instituție: ' + esc(s.institution) + '</p>' : '') +
       '<details style="margin-top: 6px;"><summary>Text extras pentru revizuire</summary><pre style="max-height: 250px; overflow-y: auto;">' + esc(s.excerpt) + '</pre></details>';
+
+    const actionsDiv = document.createElement('div');
+    actionsDiv.className = 'row';
+    actionsDiv.style.marginTop = '8px';
+    actionsDiv.style.gap = '8px';
+
+    const insertBtn = document.createElement('button');
+    insertBtn.className = 'secondary';
+    insertBtn.type = 'button';
+    insertBtn.style.fontSize = '12px';
+    insertBtn.style.padding = '5px 11px';
+    insertBtn.textContent = '📝 Inserează în editor';
+    insertBtn.title = 'Inserează conținutul extras din această sursă direct în document';
+    insertBtn.onclick = () => {
+      const docEl = $('document');
+      const excerptText = (s.excerpt || '').trim();
+      if (!excerptText) {
+        message('Această sursă nu are text extras disponibil.', true);
+        return;
+      }
+      const headerInfo = s.institution ? ' (' + s.institution + ')' : '';
+      const toInsert = '\n\n## Conținut preluat: ' + s.title + headerInfo + '\n\n' + excerptText + '\n';
+
+      const start = docEl.selectionStart;
+      const end = docEl.selectionEnd;
+      if (typeof start === 'number' && start >= 0 && document.activeElement === docEl) {
+        docEl.value = docEl.value.substring(0, start) + toInsert + docEl.value.substring(end);
+        docEl.selectionStart = docEl.selectionEnd = start + toInsert.length;
+      } else {
+        docEl.value = docEl.value.trimEnd() + toInsert;
+      }
+      dirty = true;
+      updateAutoSaveStatus('unsaved');
+      renderPreview();
+      message('Textul sursei «' + s.title + '» a fost inserat în editor.');
+    };
+
     const b = document.createElement('button');
     b.className = 'danger';
+    b.style.fontSize = '12px';
+    b.style.padding = '5px 11px';
     b.textContent = 'Elimină sursa';
     b.onclick = () => run(b, () => changeAttachment('/sources/' + s.id, 'DELETE'));
-    e.append(b);
+
+    actionsDiv.append(insertBtn, b);
+    e.append(actionsDiv);
     $('sources').append(e);
   }
 
@@ -1263,7 +1306,7 @@ on('addSource', async () => {
     manual_excerpt: $('sourceManualExcerpt') ? $('sourceManualExcerpt').value : ''
   });
   if ($('sourceManualExcerpt')) $('sourceManualExcerpt').value = '';
-  message('Sursa a fost atașată; textul extras este disponibil pentru revizuire.');
+  message('Sursa a fost atașată, iar textul extras a fost injectat în editor.');
 });
 
 on('btnUploadLocalSource', async () => {
@@ -1287,7 +1330,7 @@ on('btnUploadLocalSource', async () => {
     $('localSourceInstitution').value = '';
     $('localSourceManualExcerpt').value = '';
     await populateLocalCatalogSelect(true);
-    message('Documentul local a fost extras și atașat cu succes ca sursă!');
+    message('Documentul local a fost extras, atașat și injectat în editor!');
   });
 });
 
@@ -1302,7 +1345,7 @@ on('btnAttachFromCatalog', async () => {
   await run(b, async () => {
     await changeAttachment('/sources/attach-local', 'POST', { local_file_ref: ref });
     updateLocalCatalogInfo();
-    message('Documentul local selectat a fost atașat cu succes la dosar!');
+    message('Documentul local a fost atașat, iar textul a fost injectat în editor!');
   });
 });
 
