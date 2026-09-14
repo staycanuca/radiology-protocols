@@ -21,25 +21,15 @@ venv/
 .claude/
 .github/
 CLAUDE.md
+.worktrees/
+.claude/
+.github/
+CLAUDE.md
 TODO.md
 settings.json
 
 # MkDocs build output
 site/
-
-# Ignore legacy scripts but track the new data-layer scripts
-# Note: must use scripts/* (not scripts/) for negation to work
-scripts/*
-!scripts/extract_to_frontmatter.py
-!scripts/build_from_csv.py
-!scripts/generate_comparison_index.py
-!scripts/generate_sitemap.py
-!scripts/generate_forms_index.py
-!scripts/render_protocol.py
-!scripts/admin.py
-!scripts/install_hooks.py
-!scripts/hooks/
-!scripts/scripts_summary.md
 
 # Removed subsystems (prevent re-adding)
 backend/
