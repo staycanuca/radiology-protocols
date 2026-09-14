@@ -1,146 +1,159 @@
 ---
-title: Non-Volumetric HRCT 1 Respiratory Phase
-slug: non-volumetric-hrct-1-respiratory-phase
+author: null
 category: chest
-protocol_type: chest/pulmonary
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- HRCT follow-up
-- Known ILD monitoring
-- Bronchiectasis assessment
-position: Supine with arms raised
-npo: N/A
-premedication: ''
+- Evaluare inițială pneumopatie interstițială difuză (PID)
+- Suspiciune fibroză pulmonară idiopatică (FPI)
+- Afectare pulmonară în boli de colagen / vasculite
 contrast:
   agent: N/A
-  type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Reduced (100-150 reference)
-  rotation_time: Sequentials
-  pitch: N/A
-series:
-- name: HRCT Inspiration
-  start: Lung apices
-  end: Costophrenic angles
-  delay: Full inspiration
-  thickness: 1 mm at 1-2cm intervals
-  notes: Sequential slices
-recons:
-- plane: Axial
-  acquisition: HRCT
-  fov: Chest
-  thickness_increment: 1 mm display
-  kernel: Lung
-  ir_strength: '3'
-  notes: HRCT images
-- plane: Coronal
-  acquisition: HRCT
-  fov: Chest
-  thickness_increment: 2 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Coronal overview
-- plane: Targeted
-  acquisition: HRCT
-  fov: Area of interest
-  thickness_increment: 1 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Focus on abnormality
+  duration: ''
+  flow_rate: ''
+  roi: ''
+  timing: ''
+  trigger: ''
+  volume: ''
+last_updated: '2026-01-01'
 notes:
-  tech: Single INSPIRATION phase. Non-volumetric (1-2cm intervals). Lower dose for
-    follow-up
-  nursing: No IV. Single inspiration breath hold
-  rad: Follow ILD changes. Bronchiectasis. Lower radiation than volumetric
-  tips: Non-volumetric reduces dose. Good for follow-up
-  additional_recons: Target slices through abnormality. Compare to prior
+  additional_recons: Filtru de rezoluție foarte înaltă
+  nursing: Nu este necesar abord venos.
+  rad: Căutați pattern UIP (fagure de miere, bronșiectazii de tracțiune, îngroșări
+    reticulare subpleurale).
+  tech: Scanare axială secvențială (axial step-and-shoot) la 10-20 mm distanță, în
+    apnee inspiratorie completă.
+  tips: Explicați clar pacientului să mențină inspirul profund fără să expire.
+npo: Nu este necesar
+position: Decubit dorsal cu brațele ridicate
+premedication: Nu este necesară
+protocol_type: chest/pulmonary
+recons:
+- acquisition: HRCT Inspir
+  fov: Torace
+  ir_strength: '3'
+  kernel: Înaltă rezoluție
+  notes: Fereastră pulmonară detaliu
+  plane: Axial
+  thickness_increment: 1.0 mm secvențial
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
+series:
+- delay: Inspir complet
+  end: Baze pulmonare
+  name: HRCT Secvențial Inspir
+  notes: Secțiuni la interval de 10-20 mm
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
+slug: non-volumetric-hrct-1-respiratory-phase
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Doză redusă (referință 100-150 mAs)
+  pitch: N/A
+  rotation_time: Sequentials
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 1.0 mm
+title: HRCT Non-Volumetric 1 Fază Respiratorie
 ---
 
-# Non-Volumetric HRCT 1 Respiratory Phase
+# HRCT Non-Volumetric 1 Fază Respiratorie
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | HRCT Inspiration | Non-Contrast (Full inspiration delay) | Lung apices to Costophrenic angles |
+        | HRCT Secvențial Inspir | Inspir complet | Vârfuri pulmonare → Baze pulmonare |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - HRCT follow-up
-        - Known ILD monitoring
-        - Bronchiectasis assessment
+        - Evaluare inițială pneumopatie interstițială difuză (PID)
+        - Suspiciune fibroză pulmonară idiopatică (FPI)
+        - Afectare pulmonară în boli de colagen / vasculite
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Single INSPIRATION phase. Non-volumetric (1-2cm intervals). Lower dose for follow-up
-        - Additional Recons: Target slices through abnormality. Compare to prior
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Single inspiration breath hold
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Doză redusă (referință 100-150 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | Sequential s |
+    | **Pitch (Factor Pas)** | N/A |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Follow ILD changes. Bronchiectasis. Lower radiation than volumetric
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Non-volumetric reduces dose. Good for follow-up
+        - Scanare axială secvențială (axial step-and-shoot) la 10-20 mm distanță, în apnee inspiratorie completă.
+
+    === "Note Asistent"
+
+        - Nu este necesar abord venos.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Căutați pattern UIP (fagure de miere, bronșiectazii de tracțiune, îngroșări reticulare subpleurale).
+
+    === "Sfaturi & Recomandări"
+
+        - Explicați clar pacientului să mențină inspirul profund fără să expire.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Lung apices | Costophrenic angles | N/A | N/A | AP |
-    | HRCT Inspiration | Lung apices | Costophrenic angles | Full inspiration | 1 mm at 1-2cm intervals | Sequential slices |
+    | HRCT Secvențial Inspir | Vârfuri pulmonare | Baze pulmonare | Inspir complet | 1.0 mm | Secțiuni la interval de 10-20 mm |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | HRCT | Chest | 1 mm display | Lung | 3 | HRCT images |
-    | Coronal | HRCT | Chest | 2 mm | Lung | 3 | Coronal overview |
-    | Targeted | HRCT | Area of interest | 1 mm | Lung | 3 | Focus on abnormality |
+    | Axial | HRCT Inspir | Torace | 1.0 mm secvențial | Înaltă rezoluție | 3 | Fereastră pulmonară detaliu |

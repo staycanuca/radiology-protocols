@@ -1,185 +1,207 @@
 ---
-title: Gated CTA Heart Left Atrial Mapping
-slug: gated-cta-heart-left-atrial-mapping
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-ablation planning
-- Atrial fibrillation
-- Pulmonary vein anatomy
-position: Supine feet-first
-npo: NPO 2-4 hours
-premedication: HR < 65 preferred. Premedication not required.
+- Planificare pre-intervențională pentru ablația de fibrilație atrială (izolare de
+  vene pulmonare)
+- Evaluarea morfologiei și anomaliilor de drenaj ale venelor pulmonare
+- Excluderea trombozei de urechiușă atrială stângă (LAA)
 contrast:
   agent: Isovue 370
-  volume: 1.1 mL/kg
-  flow_rate: 5 mL/s
   duration: 15 sec
-  timing: Bolus Tracking
-  roi: Left Atrium
+  flow_rate: 5 mL/s
+  roi: Atriul stâng
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
-tech_params:
-  kv: '100'
-  mas: Auto ECG modulation
-  rotation_time: 0.28s
-  pitch: 0.2-0.24
-series:
-- name: Gated CTA
-  start: Pulmonary veins
-  end: Below LA
-  delay: Bolus tracked
-  thickness: 0.5 mm
-  notes: Retrospective - thin slices critical
-- name: Delayed CTA
-  start: Pulmonary veins
-  end: Below LA
-  delay: 40s
-  thickness: 0.5 mm
-  notes: Retrospective - thin slices critical
-recons:
-- plane: Axial
-  acquisition: Gated CTA
-  fov: LA/PV
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Primary PV anatomy
-- plane: Coronal
-  acquisition: Gated CTA
-  fov: LA/PV
-  thickness_increment: 0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: PV ostia en face
-- plane: Sagittal
-  acquisition: Gated CTA
-  fov: LA/PV
-  thickness_increment: 0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Lateral PV views
-- plane: Axial
-  acquisition: Delayed CTA
-  fov: LA/PV
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Left Atrial Appendage Thrombus
+  volume: 1.1 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Retrospective gating. Focus on left atrium and pulmonary veins. Thin slices
-    critical. Extended coverage for all PV ostia
-  nursing: 20G IV
-  rad: Map pulmonary vein anatomy (number ostia diameters). Left atrial appendage
-    morphology. Esophageal position. LA size
-  tips: Thin slices essential. Complete PV coverage. Document variants
-  additional_recons: 3D LA reconstruction. PV ostia measurements (diameter area).
-    LAA morphology. Esophageal position
+  additional_recons: Randare tridimensională 3D a atriului stâng pentru integrare
+    în sistemul de electrofiziologie (Carto/EnSite). Măsurători ostiale (arii, diametre
+    maxime/minime). Morfologia LAA. Poziția esofagului.
+  nursing: Linie venoasă 20G.
+  rad: Cartografierea detaliată a anatomiei venelor pulmonare (număr, trunchiuri comune,
+    diametre ostiale, variante anatomice). Morfologia urechiușei atriului stâng. Raportul
+    anatomic cu esofagul.
+  tech: Sincronizare retrospectivă. Focus pe atriul stâng și confluența venelor pulmonare.
+    Secțiuni submilimetrice critice. Câmp extins pentru a include toate ostiile venoase
+    pulmonare.
+  tips: Secțiuni fine esențiale. Acoperire completă a tuturor venelor pulmonare. Descrieți
+    prezența trunchiului comun stâng sau a venelor accesorii drepte.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu picioarele înainte
+premedication: HR < 65 preferred. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Atriu stâng
+  kernel: Cardiac
+  notes: Anatomie primară a venelor pulmonare și AS
+  plane: Axial
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Atriu stâng
+  kernel: Cardiac
+  notes: Plan coronal 'en face' pe ostiile venelor pulmonare
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Atriu stâng
+  kernel: Cardiac
+  notes: Vederi sagitale laterale ale venelor pulmonare
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Tardiv
+  fov: Atriu stâng
+  kernel: Cardiac
+  notes: Evaluare tromb urechiușă atrială stângă pe seria tardivă
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Sub atriul stâng
+  name: Angio-CT Sincronizat ECG
+  notes: Sincronizare retrospectivă - secțiuni fine obligatorii
+  start: Vene pulmonare superioare
+  thickness: 0.625 mm
+- delay: 30 sec
+  end: Sub atriul stâng
+  name: Angio-CT Tardiv
+  notes: Fază tardivă pentru diferențiere stază vs. tromb în urechiușă
+  start: Vene pulmonare superioare
+  thickness: 0.625 mm
+slug: gated-cta-heart-left-atrial-mapping
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Auto (modulare sincronizată ECG)
+  pitch: 0.2-0.24
+  rotation_time: 0.28s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Cardiac Sincronizat ECG Cartografiere Atriu Stâng & Vene Pulmonare
 ---
 
-# Gated CTA Heart Left Atrial Mapping
+# Angio-CT Cardiac Sincronizat ECG Cartografiere Atriu Stâng & Vene Pulmonare
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Flash CTA | Arterial | Carina to Below Heart |
-        | Delayed | Delayed (30s)| Carina to Mid Heart |
+        | Angio-CT Sincronizat ECG | Urmărire bolus | Vene pulmonare superioare → Sub atriul stâng |
+        | Angio-CT Tardiv | 30 sec | Vene pulmonare superioare → Sub atriul stâng |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-ablation planning
-        - Atrial fibrillation
-        - Pulmonary vein anatomy
+        - Planificare pre-intervențională pentru ablația de fibrilație atrială (izolare de vene pulmonare)
+        - Evaluarea morfologiei și anomaliilor de drenaj ale venelor pulmonare
+        - Excluderea trombozei de urechiușă atrială stângă (LAA)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 preferred. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 5 mL/s |
-        | Duration | 15 sec |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Left Atrium |
-        | Trigger (HU) | 200 HU |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 5 mL/s |
+        | Durată | 15 sec |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Atriul stâng |
+        | Declanșator (HU) | 200 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Retrospective gating. Focus on left atrium and pulmonary veins. Thin slices critical. Extended coverage for all PV ostia
-        - Additional Recons: 3D LA reconstruction. PV ostia measurements (diameter area). LAA morphology. Esophageal position
+        - Sincronizare retrospectivă. Focus pe atriul stâng și confluența venelor pulmonare. Secțiuni submilimetrice critice. Câmp extins pentru a include toate ostiile venoase pulmonare.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV
+        - Linie venoasă 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Map pulmonary vein anatomy (number ostia diameters). Left atrial appendage morphology. Esophageal position. LA size
+        - Cartografierea detaliată a anatomiei venelor pulmonare (număr, trunchiuri comune, diametre ostiale, variante anatomice). Morfologia urechiușei atriului stâng. Raportul anatomic cu esofagul.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Thin slices essential. Complete PV coverage. Document variants
+        - Secțiuni fine esențiale. Acoperire completă a tuturor venelor pulmonare. Descrieți prezența trunchiului comun stâng sau a venelor accesorii drepte.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top of chest | Below heart | N/A | N/A | AP lateral |
-    | Gated CTA | Pulmonary veins | Below LA | Bolus tracked | 0.5 mm | Retrospective - thin slices critical |
-    | Delayed CTA | Pulmonary veins | Below LA | 40s | 0.5 mm | Retrospective - thin slices critical |
+    | Angio-CT Sincronizat ECG | Vene pulmonare superioare | Sub atriul stâng | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă - secțiuni fine obligatorii |
+    | Angio-CT Tardiv | Vene pulmonare superioare | Sub atriul stâng | 30 sec | 0.625 mm | Fază tardivă pentru diferențiere stază vs. tromb în urechiușă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated CTA | LA/PV | 0.5 mm/0.5 mm | Cardiac | 3 | Primary PV anatomy |
-    | Coronal | Gated CTA | LA/PV | 0.75 mm | Cardiac | 3 | PV ostia en face |
-    | Sagittal | Gated CTA | LA/PV | 0.75 mm | Cardiac | 3 | Lateral PV views |
-    | Axial | Delayed CTA | LA/PV | 0.5 mm/0.5 mm | Cardiac | 3 | Left Atrial Appendage Thrombus |
+    | Axial | Angio-CT Sincronizat ECG | Atriu stâng | 0.75 mm/0.75 mm | Cardiac |  | Anatomie primară a venelor pulmonare și AS |
+    | Coronal | Angio-CT Sincronizat ECG | Atriu stâng | 1 mm/1 mm | Cardiac |  | Plan coronal 'en face' pe ostiile venelor pulmonare |
+    | Sagital | Angio-CT Sincronizat ECG | Atriu stâng | 1 mm/1 mm | Cardiac |  | Vederi sagitale laterale ale venelor pulmonare |
+    | Axial | Angio-CT Tardiv | Atriu stâng | 1 mm/1 mm | Cardiac |  | Evaluare tromb urechiușă atrială stângă pe seria tardivă |

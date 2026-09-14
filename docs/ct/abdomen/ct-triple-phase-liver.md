@@ -1,201 +1,222 @@
 ---
-title: CT Triple Phase Liver
-slug: ct-triple-phase-liver
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Liver lesion characterization
-- HCC surveillance
-- Liver mass protocol
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: None typically. Oral contrast optional
+- Caracterizarea leziunilor focale hepatice
+- Supraveghere și diagnostic carcinom hepatocelular (HCC)
+- Stadializarea tumorilor hepatice primare sau secundare (metastaze hipervasculare)
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 25s
-  timing: 'Triple phase: NC + Arterial + Portal Venous + Delayed'
-  roi: Abdominal aorta
+  flow_rate: 4-5 mL/s
+  roi: Aorta abdominală
+  timing: 'Protocol trifazic: Nativ + Arterial Tardiv + Venoasă Portală + Tardivă'
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: 0.9-1.0
-series:
-- name: Non-Contrast
-  start: Diaphragm
-  end: Iliac crests
-  delay: N/A
-  thickness: 2.5 mm
-  notes: Liver FOV
-- name: Late Arterial
-  start: Diaphragm
-  end: Iliac crests
-  delay: 30-35 sec or bolus track
-  thickness: 1.25 mm
-  notes: Liver FOV - hypervascular lesions
-- name: Portal Venous
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Full AP FOV
-- name: Delayed Phase
-  start: Diaphragm
-  end: Iliac crests
-  delay: 300 sec
-  thickness: 2.5 mm
-  notes: Liver FOV - washout assessment
-recons:
-- plane: Axial
-  acquisition: All phases
-  fov: Liver
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Compare all phases
-- plane: Axial
-  acquisition: Portal venous
-  fov: Full AP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Full abdomen pelvis PV
-- plane: Coronal
-  acquisition: All phases
-  fov: Liver
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Coronal comparison
-- plane: Subtraction
-  acquisition: Arterial - NC
-  fov: Liver
-  thickness_increment: 2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Enhance lesion conspicuity
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'FOUR acquisitions: 1) NC abdomen 2) Late arterial (bolus track or 30-35s)
-    3) Portal venous 70s 4) Delayed 5 min. FOV: Abdomen for NC/Art/Delay. Full AP
-    for PV | Injection duration is fixed at 25 s'
-  nursing: 20-22G IV. High flow rate critical
-  rad: 'NC: characterize lesion. Arterial: hypervascular lesions HCC. Portal: most
-    liver lesions. Delayed: washout pattern'
-  tips: High flow rate. Extended 5 min delay. Breath hold coaching
-  additional_recons: ''
+  additional_recons: Reconstrucții coronale și sagitale. Reconstrucții MIP pentru
+    anatomia vasculară a trunchiului celiac și arterei hepatice.
+  nursing: Abord venos 18-20G. Debitul ridicat de injectare (4-5 mL/s) este esențial.
+  rad: 'Nativ: calcificări, hemoragii, grăsime. Arterial tardiv: hipervascularizație
+    (apoptoză arterială precoce specifică HCC). Portal: leziuni hipovasculare și raport
+    vascular. Tardiv: fenomen de spălare (washout) și capsulă peritumorală.'
+  tech: 'PATRU achiziții: 1) Fază nativă ficat 2) Fază arterială tardivă (bolus tracking
+    sau 30-35s) 3) Fază venoasă portală la 70s 4) Fază tardivă la 3-5 min. FOV: Ficat
+    pentru Nativ/Arterial/Tardiv; Abdomen complet pentru Venoasă Portală. Durata injectării
+    este fixă de 25 secunde.'
+  tips: Debit mare de injectare. Așteptare completă pentru faza tardivă. Antrenați
+    pacientul pentru apnee respiratorie reproductibilă.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: Fără contrast oral pozitiv. Apă oral opțională.
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Arterială Tardivă
+  fov: Ficat
+  kernel: Standard
+  notes: Comparație multifazică a leziunilor
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Examinare abdomen complet în fază portală
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Comparație în plan coronal
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
+- acquisition: Fază Arterială Tardivă
+  fov: Ficat
+  kernel: Standard
+  notes: Substracție pentru creșterea conspicuității leziunilor
+  plane: Subtraction
+  thickness_increment: 2.5 mm/2.5 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul de reacții alergice la contrast.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Polul inferior hepatic
+  name: Fază Nativă
+  notes: Evaluare densitate bazală hepatică
+  start: Cupola hepatică
+  thickness: 0.625 mm
+- delay: 30-35 sec
+  end: Polul inferior hepatic
+  name: Fază Arterială Tardivă
+  notes: Evidențierea leziunilor hepatice hipervasculare
+  start: Cupola hepatică
+  thickness: 0.625 mm
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală
+  notes: Evaluare completă parenchim hepatic și abdomen
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 180-300 sec (3-5 min)
+  end: Polul inferior hepatic
+  name: Fază Tardivă
+  notes: Aprecierea fenomenului de spălare (washout)
+  start: Cupola hepatică
+  thickness: 0.625 mm
+slug: ct-triple-phase-liver
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200-250 mAs)
+  pitch: 0.9-1.0
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)
 ---
 
-# CT Triple Phase Liver
+# CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast (optional) | Non-contrast | Diaphragm to Iliac crests |
-        | Late Arterial | Arterial (16 sec delay) | Diaphragm to Iliac crests |
-        | Portal Venous | Contrast (70 sec delay) | Diaphragm to Lesser trochanters |
-        | Delayed Phase | Contrast (300 sec delay) | Diaphragm to Iliac crests |
+        | Fază Nativă | 0 sec | Cupola hepatică → Polul inferior hepatic |
+        | Fază Arterială Tardivă | 30-35 sec | Cupola hepatică → Polul inferior hepatic |
+        | Fază Venoasă Portală | 70 sec | Diafragm → Simfiză pubiană |
+        | Fază Tardivă | 180-300 sec (3-5 min) | Cupola hepatică → Polul inferior hepatic |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Liver lesion characterization
-        - HCC surveillance
-        - Liver mass protocol
+        - Caracterizarea leziunilor focale hepatice
+        - Supraveghere și diagnostic carcinom hepatocelular (HCC)
+        - Stadializarea tumorilor hepatice primare sau secundare (metastaze hipervasculare)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
-        - None typically. Oral contrast optional
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Fără contrast oral pozitiv. Apă oral opțională.
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 25s |
-        | Timing Method | Triple phase: NC + Arterial + Portal Venous + Delayed |
-        | ROI Placement | Abdominal aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 25s |
+        | Metodă Temporizare | Protocol trifazic: Nativ + Arterial Tardiv + Venoasă Portală + Tardivă |
+        | Poziționare ROI | Aorta abdominală |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9-1.0 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - FOUR acquisitions: 1) NC abdomen 2) Late arterial (bolus track or 30-35s) 3) Portal venous 70s 4) Delayed 5 min. FOV: Abdomen for NC/Art/Delay. Full AP for PV
-        - Injection duration is fixed at 25 s
+        - PATRU achiziții: 1) Fază nativă ficat 2) Fază arterială tardivă (bolus tracking sau 30-35s) 3) Fază venoasă portală la 70s 4) Fază tardivă la 3-5 min. FOV: Ficat pentru Nativ/Arterial/Tardiv; Abdomen complet pentru Venoasă Portală. Durata injectării este fixă de 25 secunde.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20-22G IV. High flow rate critical
+        - Abord venos 18-20G. Debitul ridicat de injectare (4-5 mL/s) este esențial.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul de reacții alergice la contrast.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: characterize lesion. Arterial: hypervascular lesions HCC. Portal: most liver lesions. Delayed: washout pattern
+        - Nativ: calcificări, hemoragii, grăsime. Arterial tardiv: hipervascularizație (apoptoză arterială precoce specifică HCC). Portal: leziuni hipovasculare și raport vascular. Tardiv: fenomen de spălare (washout) și capsulă peritumorală.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - High flow rate. Extended 5 min delay. Breath hold coaching
+        - Debit mare de injectare. Așteptare completă pentru faza tardivă. Antrenați pacientul pentru apnee respiratorie reproductibilă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Iliac crests | N/A | N/A | AP |
-    | Non-Contrast | Diaphragm | Iliac crests | N/A | 2.5 mm | Liver FOV |
-    | Late Arterial | Diaphragm | Iliac crests | 30-35 sec or bolus track | 1.25 mm | Liver FOV - hypervascular lesions |
-    | Portal Venous | Diaphragm | Pubic symphysis | 70 sec | 2.5 mm | Full AP FOV |
-    | Delayed Phase | Diaphragm | Iliac crests | 300 sec | 2.5 mm | Liver FOV - washout assessment |
+    | Fază Nativă | Cupola hepatică | Polul inferior hepatic | 0 sec | 0.625 mm | Evaluare densitate bazală hepatică |
+    | Fază Arterială Tardivă | Cupola hepatică | Polul inferior hepatic | 30-35 sec | 0.625 mm | Evidențierea leziunilor hepatice hipervasculare |
+    | Fază Venoasă Portală | Diafragm | Simfiză pubiană | 70 sec | 0.625 mm | Evaluare completă parenchim hepatic și abdomen |
+    | Fază Tardivă | Cupola hepatică | Polul inferior hepatic | 180-300 sec (3-5 min) | 0.625 mm | Aprecierea fenomenului de spălare (washout) |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | All phases | Liver | 2.5 mm/2.5 mm | Standard | 3 | Compare all phases |
-    | Axial | Portal venous | Full AP | 2.5 mm/2.5 mm | Standard | 3 | Full abdomen pelvis PV |
-    | Coronal | All phases | Liver | 3 mm/3 mm | Standard | 3 | Coronal comparison |
-    | Subtraction | Arterial - NC | Liver | 2.5 mm | Standard | 3 | Enhance lesion conspicuity |
+    | Axial | Fază Arterială Tardivă | Ficat | 2.5 mm/2.5 mm | Standard |  | Comparație multifazică a leziunilor |
+    | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Examinare abdomen complet în fază portală |
+    | Coronal | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Comparație în plan coronal |
+    | Subtraction | Fază Arterială Tardivă | Ficat | 2.5 mm/2.5 mm | Standard |  | Substracție pentru creșterea conspicuității leziunilor |

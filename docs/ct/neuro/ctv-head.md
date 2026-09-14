@@ -1,184 +1,207 @@
 ---
-author: 
+author: null
 category: neuro
 clinical_indications:
-- Venous sinus thrombosis
-- Dural sinus thrombosis
-- Intracranial hypertension
-- Venous malformation
+- Tromboză de sinusuri venoase cerebrale (tromboflebită cerebrală)
+- Hipertensiune intracraniană idiopatică (pseudotumor cerebri)
+- Malformații arteriovenoase durale cu flux inversat
+- Bilanț tumoral cu invazie de sinus sagital superior sau lateral
 contrast:
   agent: Isovue 370
   duration: 15-20s
   flow_rate: 3-4 mL/s
   roi: ''
-  timing: Fixed Delay
+  timing: Timp fix de întârziere (45-50s delay)
   trigger: ''
   volume: 75-100 mL
 last_updated: '2026-01-01'
 notes:
-  additional_recons: 3D VR venogram. MIP maximum intensity projection. Document filling
-    defects
-  nursing: 18-20G IV
-  rad: 'NC: hemorrhage. CTV: filling defects in sinuses. Venous thrombosis. Cortical
-    vein thrombosis'
-  tech: NC Head then delayed venous CTV (60-90 sec). Skull base to vertex. Assess
-    venous sinuses
-  tips: Delayed timing 60-90 sec. Look for filling defects
-npo: NPO 2 hours
-position: Supine head-first
+  additional_recons: Randare tridimensională 3D VR flebografică a sinusurilor venoase.
+    Proiecții MIP coronale și sagitale.
+  nursing: Linie venoasă 18-20G.
+  rad: 'Nativ: căutați semnul coardei hiperdense în sinusul trombozat și hemoragii
+    venoase. CTV: decelarea defectelor de umplere endoluminale în sinusurile durale
+    (semnul delta gol / empty delta sign în sinusul sagital superior, sinusul transvers,
+    sigmoid, drept). Tromboze ale venelor corticale.'
+  tech: Scanare nativă de craniu inițial, urmată de Flebo-CT (CTV) în fază venoasă
+    pură la 45-50 secunde de la debutul injectării. De la baza craniului până la vertex.
+  tips: Temporizarea adecvată a fazei venoase este esențială pentru a evita confuzia
+    dintre asimetriile anatomice normale (hipoplazie de sinus transvers) și tromboză.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu capul înainte
 premedication: ''
 protocol_type: vascular
 recons:
-- acquisition: CTV
-  fov: Head
-  ir_strength: '3'
+- acquisition: Flebo-CT Cerebral
+  fov: Craniu
   kernel: Brain
-  notes: Venous sinuses
+  notes: Sinusuri venoase durale și vene corticale
   plane: Axial
   thickness_increment: 1 mm/1 mm
-- acquisition: CTV
-  fov: Sinuses
-  ir_strength: N/A
+- acquisition: Flebo-CT Cerebral
+  fov: Craniu
   kernel: Brain
-  notes: Venogram overview
+  notes: Privire de ansamblu MIP a flebografiei cerebrale
   plane: MIP
-  thickness_increment: Thick slab
-- acquisition: CTV
-  fov: Venous system
-  ir_strength: N/A
+  thickness_increment: 5 mm/2 mm
+- acquisition: Flebo-CT Cerebral
+  fov: Craniu
   kernel: Brain
-  notes: 3D venogram
+  notes: Randare tridimensională 3D a arborelui venos cerebral
   plane: 3D VR
-  thickness_increment: 1 mm source
-- acquisition: CTV
-  fov: Midline
-  ir_strength: '3'
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Flebo-CT Cerebral
+  fov: Craniu
   kernel: Brain
-  notes: Sagittal sinus
-  plane: Sagittal
-  thickness_increment: 1.5 mm
+  notes: Sinusul sagital superior, sinusul drept și vena Galen
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  allergy: Check allergy history
-  renal: Verify eGFR > 30
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
 series:
-- delay: N/A
-  end: Foramen magnum
-  name: NC Head
-  notes: Baseline
+- delay: 0 sec
+  end: Gaura occipitală
+  name: CT Nativ Craniu
+  notes: Referință nativă pentru trombi hiperdenși și hemoragie
   start: Vertex
-  thickness: 5 mm
-- delay: 60-90 sec delay
+  thickness: 2.5 mm
+- delay: 45-50 sec
   end: Vertex
-  name: CTV Head
-  notes: Venous phase
-  start: Skull base
-  thickness: 0.625-1 mm
+  name: Flebo-CT Cerebral
+  notes: Fază venoasă dedicată pentru sinusurile durale
+  start: Baza craniului
+  thickness: 0.625 mm
 slug: ctv-head
 synonyms: []
 tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
   kv: '120'
-  mas: Auto (reference 250)
+  mas: Auto (referință 250 mAs)
   pitch: Helical
   rotation_time: 0.5-0.6s
-title: CTV Head
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)
 ---
 
-# CTV Head
+# Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | NC Head | N/A | Vertex → Foramen magnum |
-        | CTV Head | 60-90 sec delay | Skull base → Vertex |
+        | CT Nativ Craniu | 0 sec | Vertex → Gaura occipitală |
+        | Flebo-CT Cerebral | 45-50 sec | Baza craniului → Vertex |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Venous sinus thrombosis
-        - Dural sinus thrombosis
-        - Intracranial hypertension
-        - Venous malformation
+        - Tromboză de sinusuri venoase cerebrale (tromboflebită cerebrală)
+        - Hipertensiune intracraniană idiopatică (pseudotumor cerebri)
+        - Malformații arteriovenoase durale cu flux inversat
+        - Bilanț tumoral cu invazie de sinus sagital superior sau lateral
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** NPO 2 hours
-    - **Pre-Medication:**
-        - None required
-
--   __3. IV Contrast & Injection__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    === "Injection Parameters"
 
-        | Parameter | Value |
+    - **Poziție:** Decubit dorsal cu capul înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 75-100 mL |
-        | Flow Rate | 3-4 mL/s |
-        | Duration | 15-20s |
-        | Timing Method | Fixed Delay |
-        | ROI Placement |  |
-        | Trigger (HU) |  |
+        | Volum | 75-100 mL |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată | 15-20s |
+        | Metodă Temporizare | Timp fix de întârziere (45-50s delay) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    === "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 0.5-0.6 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - NC Head then delayed venous CTV (60-90 sec). Skull base to vertex. Assess venous sinuses
+        - Scanare nativă de craniu inițial, urmată de Flebo-CT (CTV) în fază venoasă pură la 45-50 secunde de la debutul injectării. De la baza craniului până la vertex.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV
+        - Linie venoasă 18-20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: hemorrhage. CTV: filling defects in sinuses. Venous thrombosis. Cortical vein thrombosis
+        - Nativ: căutați semnul coardei hiperdense în sinusul trombozat și hemoragii venoase. CTV: decelarea defectelor de umplere endoluminale în sinusurile durale (semnul delta gol / empty delta sign în sinusul sagital superior, sinusul transvers, sigmoid, drept). Tromboze ale venelor corticale.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Delayed timing 60-90 sec. Look for filling defects
+        - Temporizarea adecvată a fazei venoase este esențială pentru a evita confuzia dintre asimetriile anatomice normale (hipoplazie de sinus transvers) și tromboză.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | NC Head | Vertex | Foramen magnum | N/A | 5 mm | Baseline |
-    | CTV Head | Skull base | Vertex | 60-90 sec delay | 0.625-1 mm | Venous phase |
+    | CT Nativ Craniu | Vertex | Gaura occipitală | 0 sec | 2.5 mm | Referință nativă pentru trombi hiperdenși și hemoragie |
+    | Flebo-CT Cerebral | Baza craniului | Vertex | 45-50 sec | 0.625 mm | Fază venoasă dedicată pentru sinusurile durale |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | CTV | Head | 1 mm/1 mm | Brain | 3 | Venous sinuses |
-    | MIP | CTV | Sinuses | Thick slab | Brain | N/A | Venogram overview |
-    | 3D VR | CTV | Venous system | 1 mm source | Brain | N/A | 3D venogram |
-    | Sagittal | CTV | Midline | 1.5 mm | Brain | 3 | Sagittal sinus |
+    | Axial | Flebo-CT Cerebral | Craniu | 1 mm/1 mm | Brain |  | Sinusuri venoase durale și vene corticale |
+    | MIP | Flebo-CT Cerebral | Craniu | 5 mm/2 mm | Brain |  | Privire de ansamblu MIP a flebografiei cerebrale |
+    | 3D VR | Flebo-CT Cerebral | Craniu | 0.75 mm/0.75 mm | Brain |  | Randare tridimensională 3D a arborelui venos cerebral |
+    | Sagital | Flebo-CT Cerebral | Craniu | 1.5 mm/1.5 mm | Brain |  | Sinusul sagital superior, sinusul drept și vena Galen |

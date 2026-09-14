@@ -15,6 +15,7 @@ venv/
 .DS_Store
 
 # Tool state
+.protocol-workbench/
 .superpowers/
 .worktrees/
 .claude/

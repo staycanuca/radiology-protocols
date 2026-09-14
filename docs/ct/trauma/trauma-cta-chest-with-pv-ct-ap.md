@@ -1,183 +1,204 @@
 ---
-title: Trauma CTA Chest with PV CT AP
-slug: trauma-cta-chest-with-pv-ct-ap
+author: null
 category: trauma
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Blunt thoracic trauma
-- Aortic injury
-- Great vessel injury
-- Multi-trauma
-position: Supine with arms raised
-npo: None - trauma
-premedication: ''
+- Traumatism toracic închis cu suspiciune de leziune aortică traumatică
+- Leziune traumatică a vaselor mari intratoracice
+- Politraumatism toraco-abdominal sever
 contrast:
   agent: Omnipaque 350
-  volume: 125 mL
   flow_rate: 4 mL/s
-  timing: 'Dual phase: CTA Chest arterial + Portal venous AP'
-  roi: Descending aorta
+  roi: Aorta descendentă
+  timing: 'Fază dublă: Angio-CT Torace arterial + Fază venoasă portală AP'
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: 1.0-1.2
-series:
-- name: CTA Chest
-  start: Lung apices
-  end: Diaphragm
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Arterial phase
-- name: Portal Venous AP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec from start
-  thickness: 0.625 mm
-  notes: Portal venous phase
-recons:
-- plane: Axial
-  acquisition: CTA chest
-  fov: Chest
-  thickness_increment: 1.25 mm/1.25 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Aorta and great vessels
-- plane: Axial
-  acquisition: PV AP
-  fov: Abdomen/Pelvis
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Solid organs
-- plane: Coronal
-  acquisition: CTA chest
-  fov: Chest
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Aorta overview
-- plane: Sagittal
-  acquisition: CTA chest
-  fov: Aorta
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Sagittal aorta
+  volume: 125 mL
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO acquisitions: 1) CTA CHEST arterial (bolus track) 2) Portal venous ABDOMEN/PELVIS
-    70s. Chest arterial for aorta/vessels'
-  nursing: Large bore IV 18-20G. Verify flow
-  rad: 'Chest arterial: aortic injury (intimal flap pseudoaneurysm). AP portal venous:
-    solid organ injury'
-  tips: Trauma indication. Fast scan. Good IV essential
-  additional_recons: 3D aorta and great vessels. Curved MPR aorta. Grade aortic injury
+  additional_recons: Reconstrucții 3D VR pentru aortă și ramurile arcului aortic.
+    Reconstrucții MPR curbate pe lumenul aortei. Clasificarea gradului leziunii aortice.
+  nursing: Linie venoasă de calibru mare 18-20G. Verificați debitul de injectare înainte
+    de pornire.
+  rad: 'Torace arterial: leziune traumatică de aortă (flap intimal, pseudoanevrism
+    traumatic, transecțiune). Abdomen-pelvis portal: traumatisme splenice, hepatice,
+    renale, mezenterice.'
+  tech: 'DOUĂ achiziții sincronizate: 1) Angio-CT Torace arterial (urmărire bolus)
+    2) Fază venoasă portală Abdomen/Pelvis la 70s. Achiziția toracică arterială este
+    esențială pentru aortă și ramurile sale.'
+  tips: Indicație de traumă majoră. Scanare rapidă. Acces venos periferic fiabil indispensabil.
+npo: Fără repaus alimentar - urgență traumatologică
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Torace
+  fov: Torace
+  kernel: Vascular
+  notes: Aorta toracică și vasele mari
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Venoasă Portală AP
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Organe parenchimatoase abdominale
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Torace
+  fov: Torace
+  kernel: Vascular
+  notes: Vedere de ansamblu a aortei toracice
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Torace
+  fov: Torace
+  kernel: Vascular
+  notes: Plan sagital oblic pe cârja și aorta descendentă
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: eGFR > 30 if known
-  allergy: Trauma indication
+  allergy: Indicație de urgență traumatologică
+  renal: eGFR > 30 mL/min/1.73m² dacă este cunoscută; urgență traumatologică
+series:
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Torace
+  notes: Fază arterială dedicată pentru aorta toracică
+  start: Vârfuri pulmonare
+  thickness: 0.625 mm
+- delay: 70 sec de la start
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală AP
+  notes: Fază venoasă portală pentru organele abdominale
+  start: Diafragm
+  thickness: 0.625 mm
+slug: trauma-cta-chest-with-pv-ct-ap
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D pentru politraumă)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 250 mAs)
+  pitch: 1.0-1.2
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Torace cu CT Abdomen și Pelvis în Fază Portală (Traumă)
 ---
 
-# Trauma CTA Chest with PV CT AP
+# Angio-CT Torace cu CT Abdomen și Pelvis în Fază Portală (Traumă)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Chest | Arterial (bolus tracked) | Lung apices to Diaphragm |
-        | Portal Venous AP | Contrast (70 sec from start delay) | Diaphragm to Pubic symphysis |
+        | Angio-CT Torace | Urmărire bolus | Vârfuri pulmonare → Diafragm |
+        | Fază Venoasă Portală AP | 70 sec de la start | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Blunt thoracic trauma
-        - Aortic injury
-        - Great vessel injury
-        - Multi-trauma
+        - Traumatism toracic închis cu suspiciune de leziune aortică traumatică
+        - Leziune traumatică a vaselor mari intratoracice
+        - Politraumatism toraco-abdominal sever
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** None - trauma
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar - urgență traumatologică
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 125 mL |
-        | Flow Rate | 4 mL/s |
-        | Timing Method | Dual phase: CTA Chest arterial + Portal venous AP |
-        | ROI Placement | Descending aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 125 mL |
+        | Rată de Flux | 4 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Fază dublă: Angio-CT Torace arterial + Fază venoasă portală AP |
+        | Poziționare ROI | Aorta descendentă |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D pentru politraumă) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO acquisitions: 1) CTA CHEST arterial (bolus track) 2) Portal venous ABDOMEN/PELVIS 70s. Chest arterial for aorta/vessels
-        - Additional Recons: 3D aorta and great vessels. Curved MPR aorta. Grade aortic injury
+        - DOUĂ achiziții sincronizate: 1) Angio-CT Torace arterial (urmărire bolus) 2) Fază venoasă portală Abdomen/Pelvis la 70s. Achiziția toracică arterială este esențială pentru aortă și ramurile sale.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Large bore IV 18-20G. Verify flow
+        - Linie venoasă de calibru mare 18-20G. Verificați debitul de injectare înainte de pornire.
 
-        !!! warning "Safety First"
-            - **Renal Function:** eGFR > 30 if known
-            - **Allergy:** Trauma indication
+        !!! warning "Siguranță"
+            - **Funcție Renală:** eGFR > 30 mL/min/1.73m² dacă este cunoscută; urgență traumatologică
+            - **Alergii:** Indicație de urgență traumatologică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Chest arterial: aortic injury (intimal flap pseudoaneurysm). AP portal venous: solid organ injury
+        - Torace arterial: leziune traumatică de aortă (flap intimal, pseudoanevrism traumatic, transecțiune). Abdomen-pelvis portal: traumatisme splenice, hepatice, renale, mezenterice.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Trauma indication. Fast scan. Good IV essential
+        - Indicație de traumă majoră. Scanare rapidă. Acces venos periferic fiabil indispensabil.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Lung apices | Pubic symphysis | N/A | N/A | AP full |
-    | CTA Chest | Lung apices | Diaphragm | Bolus tracked | 0.625 mm | Arterial phase |
-    | Portal Venous AP | Diaphragm | Pubic symphysis | 70 sec from start | 0.625 mm | Portal venous phase |
+    | Angio-CT Torace | Vârfuri pulmonare | Diafragm | Urmărire bolus | 0.625 mm | Fază arterială dedicată pentru aorta toracică |
+    | Fază Venoasă Portală AP | Diafragm | Simfiză pubiană | 70 sec de la start | 0.625 mm | Fază venoasă portală pentru organele abdominale |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | CTA chest | Chest | 1.25 mm/1.25 mm | Vascular | 3 | Aorta and great vessels |
-    | Axial | PV AP | Abdomen/Pelvis | 2.5 mm/2.5 mm | Standard | 3 | Solid organs |
-    | Coronal | CTA chest | Chest | 2 mm/2 mm | Vascular | 3 | Aorta overview |
-    | Sagittal | CTA chest | Aorta | 2 mm/2 mm | Vascular | 3 | Sagittal aorta |
+    | Axial | Angio-CT Torace | Torace | 1.25 mm/1.25 mm | Vascular |  | Aorta toracică și vasele mari |
+    | Axial | Fază Venoasă Portală AP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Organe parenchimatoase abdominale |
+    | Coronal | Angio-CT Torace | Torace | 2 mm/2 mm | Vascular |  | Vedere de ansamblu a aortei toracice |
+    | Sagital | Angio-CT Torace | Torace | 2 mm/2 mm | Vascular |  | Plan sagital oblic pe cârja și aorta descendentă |

@@ -1,178 +1,198 @@
 ---
-title: CTA Pelvis Prostate Artery Embolization
-slug: cta-pelvis-prostate-artery-embolization
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-procedural planning for prostate artery embolization
-- Benign prostatic hyperplasia
-position: Supine with arms raised
-npo: NPO 2-4 hours
-premedication: ''
+- Planificare pre-procedurală pentru embolizarea arterelor prostatice (PAE)
+- Hiperplazie benignă de prostată (HBP) simptomatică refractară
 contrast:
   agent: Isovue 370
-  volume: 1.2 mL/kg
-  flow_rate: 3-4 mL/s
   duration: 18-22s
-  timing: Bolus Tracking
-  roi: Common iliac artery
+  flow_rate: 3-4 mL/s
+  roi: Artera iliacă comună
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Arterial
-  start: Iliac crest
-  end: Lesser trochanters
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Focus on internal iliac branches
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Pelvis
-  thickness_increment: 1 mm/1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Identify prostate artery origins
-- plane: Coronal
-  acquisition: Arterial
-  fov: Pelvis
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP of iliac vessels
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Pelvis
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral view pelvic vessels
-- plane: 3D VR
-  acquisition: Arterial
-  fov: Pelvis
-  thickness_increment: 0.75 mm source
-  kernel: Vascular
-  ir_strength: '3'
-  notes: 3D roadmap for interventional radiologist
+  volume: 1.2 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Scan from L3 to proximal femur. Arterial phase essential. Focus on internal
-    iliac branches and prostate supply
-  nursing: 18-20G IV | Chcek BP for nitroglycerin administration, check for contraindications
-  rad: Identify prostate artery origins (usually anterior division of internal iliac).
-    Map anatomy for IR. Note variants and anastomoses
-  tips: Full bladder helpful for prostate visualization. Coordinate with IR before
-    scan
-  additional_recons: 3D VR with prostate vessels highlighted. Curved MPR of internal
-    iliac branches. Measure vessel diameters
+  additional_recons: Randare 3D VR evidențiind specific vascularizația prostatică.
+    Reconstrucții MPR curbate ale ramurilor iliace interne. Măsurători de calibru
+    și angulație ale ostiilor.
+  nursing: Linie venoasă 18-20G. Verificați tensiunea arterială dacă se administrează
+    nitroglicerină.
+  rad: Identificați cu precizie originea arterelor prostatice (trunchi vezico-prostatic,
+    arteră obturatorie, arteră rușinoasă internă etc.). Cartografiați anatomia pelvină
+    pentru radiologia intervențională. Identificați anastomozele periculoase (rectale,
+    vezicale, peniene).
+  tech: Scanare de la L3 până la femurul proximal. Faza arterială este obligatorie.
+    Focus pe ramurile diviziunii anterioare a arterei iliace interne și originea arterei
+    prostatice.
+  tips: Vezica urinară în semirepleție este utilă pentru delimitarea conturului prostatic.
+    Sincronizare atentă cu medicul radiolog intervenționist.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial
+  fov: Pelvis
+  kernel: Vascular
+  notes: Identificarea originii arterelor prostatice
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Arterial
+  fov: Pelvis
+  kernel: Vascular
+  notes: MIP al vaselor iliace pelvine
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Pelvis
+  kernel: Vascular
+  notes: Vedere sagitală a ramurilor pelvine
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Pelvis
+  kernel: Vascular
+  notes: Hartă tridimensională 3D pentru medicul radiolog intervenționist
+  plane: 3D VR
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Mici trohantere
+  name: Angio-CT Arterial
+  notes: Focus pe ramurile arterei iliace interne
+  start: Creste iliace
+  thickness: 0.625 mm
+slug: cta-pelvis-prostate-artery-embolization
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Pelvis Planificare Embolizare de Arteră Prostatică (PAE)
 ---
 
-# CTA Pelvis Prostate Artery Embolization
+# Angio-CT Pelvis Planificare Embolizare de Arteră Prostatică (PAE)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Arterial | Arterial (bolus tracked) | Iliac crest to Lesser trochanters |
+        | Angio-CT Arterial | Urmărire bolus | Creste iliace → Mici trohantere |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-procedural planning for prostate artery embolization
-        - Benign prostatic hyperplasia
+        - Planificare pre-procedurală pentru embolizarea arterelor prostatice (PAE)
+        - Hiperplazie benignă de prostată (HBP) simptomatică refractară
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-medication:** 
-        - Nitroglycerin 0.8 mg SL if systolic BP > 110
-        - Nitroglycerin 0.4 mg SL if systolic BP > 100
-    
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.2 mL/kg |
-        | Flow Rate | 3-4 mL/s |
-        | Duration | 18-22s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Common iliac artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.2 mL/kg |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată | 18-22s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Artera iliacă comună |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan from L3 to proximal femur. Arterial phase essential. Focus on internal iliac branches and prostate supply
-        - Additional Recons: 3D VR with prostate vessels highlighted. Curved MPR of internal iliac branches. Measure vessel diameters
+        - Scanare de la L3 până la femurul proximal. Faza arterială este obligatorie. Focus pe ramurile diviziunii anterioare a arterei iliace interne și originea arterei prostatice.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV
-        - Chcek BP for nitroglycerin administration, check for contraindications
+        - Linie venoasă 18-20G. Verificați tensiunea arterială dacă se administrează nitroglicerină.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Identify prostate artery origins (usually anterior division of internal iliac). Map anatomy for IR. Note variants and anastomoses
+        - Identificați cu precizie originea arterelor prostatice (trunchi vezico-prostatic, arteră obturatorie, arteră rușinoasă internă etc.). Cartografiați anatomia pelvină pentru radiologia intervențională. Identificați anastomozele periculoase (rectale, vezicale, peniene).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Full bladder helpful for prostate visualization. Coordinate with IR before scan
+        - Vezica urinară în semirepleție este utilă pentru delimitarea conturului prostatic. Sincronizare atentă cu medicul radiolog intervenționist.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Iliac crest | Lesser trochanters | N/A | N/A | AP pelvis |
-    | CTA Arterial | Iliac crest | Lesser trochanters | Bolus tracked | 0.625 mm | Focus on internal iliac branches |
+    | Angio-CT Arterial | Creste iliace | Mici trohantere | Urmărire bolus | 0.625 mm | Focus pe ramurile arterei iliace interne |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Pelvis | 1 mm/1 mm | Vascular | 3 | Identify prostate artery origins |
-    | Coronal | Arterial | Pelvis | 1.5 mm/1.5 mm | Vascular | 3 | MIP of iliac vessels |
-    | Sagittal | Arterial | Pelvis | 1.5 mm/1.5 mm | Vascular | 3 | Lateral view pelvic vessels |
-    | 3D VR | Arterial | Pelvis | 0.75 mm source | Vascular | 3 | 3D roadmap for interventional radiologist |
+    | Axial | Angio-CT Arterial | Pelvis | 1 mm/1 mm | Vascular |  | Identificarea originii arterelor prostatice |
+    | Coronal | Angio-CT Arterial | Pelvis | 1.5 mm/1.5 mm | Vascular |  | MIP al vaselor iliace pelvine |
+    | Sagital | Angio-CT Arterial | Pelvis | 1.5 mm/1.5 mm | Vascular |  | Vedere sagitală a ramurilor pelvine |
+    | 3D VR | Angio-CT Arterial | Pelvis | 0.75 mm/0.75 mm | Vascular |  | Hartă tridimensională 3D pentru medicul radiolog intervenționist |

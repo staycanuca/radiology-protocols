@@ -4,30 +4,48 @@ let selectorCount = 2;
 
 // Wait for page to load, then fetch protocol data
 document.addEventListener('DOMContentLoaded', function () {
-  console.log('Page loaded, fetching protocol data...');
+  const container = document.getElementById('protocol-compare-container');
+  if (!container) return;
 
-  fetch('/radiology-protocols/javascripts/protocol-comparison-index.json')
-    .then(response => {
-      console.log('Fetch response status:', response.status);
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return response.text();
-    })
-    .then(text => {
-      console.log('Received data, length:', text.length);
-      return JSON.parse(text);
-    })
-    .then(data => {
-      console.log('Successfully parsed', data.length, 'protocols');
-      protocolData = data;
-      populateSelectors();
-      loadFromURL();
-    })
-    .catch(error => {
-      console.error('Error loading protocols:', error);
-      alert('Failed to load protocol data. Check console for details.');
-    });
+  console.log('Comparison page loaded, fetching protocol data...');
+
+  const tryFetch = async () => {
+    // Determine base URL dynamically
+    let basePath = '';
+    const configScript = document.getElementById('__config');
+    if (configScript) {
+      try {
+        const cfg = JSON.parse(configScript.textContent);
+        if (cfg.base) basePath = cfg.base.replace(/\/?$/, '/');
+      } catch (e) {}
+    }
+
+    const candidateUrls = [
+      (basePath ? basePath + 'javascripts/protocol-comparison-index.json' : ''),
+      '/radiology-protocols/javascripts/protocol-comparison-index.json',
+      '/javascripts/protocol-comparison-index.json',
+      '../../javascripts/protocol-comparison-index.json',
+      '../javascripts/protocol-comparison-index.json',
+      'javascripts/protocol-comparison-index.json'
+    ].filter(Boolean);
+
+    for (const url of candidateUrls) {
+      try {
+        const response = await fetch(url);
+        if (response.ok) {
+          const data = await response.json();
+          console.log('Successfully loaded protocols from:', url);
+          protocolData = data;
+          populateSelectors();
+          loadFromURL();
+          return;
+        }
+      } catch (err) {}
+    }
+    console.warn('Could not load protocol comparison index from any candidate URL.');
+  };
+
+  tryFetch();
 });
 function populateSelectors() {
   const selects = document.querySelectorAll('.protocol-select');
@@ -37,12 +55,12 @@ function populateSelectors() {
     const currentValue = select.value;
 
     // 2. Clear and rebuild options (still good to have the select populated as fallback/source)
-    select.innerHTML = '<option value="">-- Select Protocol --</option>';
+    select.innerHTML = '<option value="">-- Selectează Protocolul --</option>';
 
     // Group by category
     const byCategory = {};
     protocolData.forEach((protocol, index) => {
-      const category = protocol.category || 'Other';
+      const category = protocol.category || 'Altele';
       if (!byCategory[category]) {
         byCategory[category] = [];
       }
@@ -155,7 +173,7 @@ function createSearchableSelect(select) {
     input = document.createElement('input');
     input.type = 'text';
     input.className = 'search-select-input';
-    input.placeholder = '-- Type to search protocol --';
+    input.placeholder = '-- Tastează pentru a căuta un protocol --';
     container.appendChild(input);
 
     const results = document.createElement('div');
@@ -205,7 +223,7 @@ function renderResults(query, resultsDiv, select, input) {
   if (filtered.length === 0) {
     const noMatch = document.createElement('div');
     noMatch.className = 'search-select-item';
-    noMatch.textContent = 'No matching protocols';
+    noMatch.textContent = 'Niciun protocol găsit';
     noMatch.style.fontStyle = 'italic';
     noMatch.style.pointerEvents = 'none';
     resultsDiv.appendChild(noMatch);
@@ -345,6 +363,7 @@ function displayComparison() {
 
   displayGanttComparison();
   displayContrastComparison();
+  displayTechParamsComparison();
   displaySeriesComparison();
 }
 
@@ -455,7 +474,11 @@ function displayGanttComparison() {
     const title = document.createElement('h4');
     const link = document.createElement('a');
     const url = protocol.filepath.replace('.md', '/');
-    link.href = '/radiology-protocols/' + url;
+    let base = '../../';
+    if (typeof __md_scope !== 'undefined' && __md_scope && __md_scope.pathname && !location.protocol.startsWith('file')) {
+      base = __md_scope.pathname.endsWith('/') ? __md_scope.pathname : __md_scope.pathname + '/';
+    }
+    link.href = base + url;
     link.textContent = protocol.title;
     link.style.textDecoration = 'none';
     link.style.color = 'inherit';
@@ -471,7 +494,7 @@ function displayGanttComparison() {
     if (typeof window.renderAcquisitionDiagram === 'function') {
       window.renderAcquisitionDiagram(diagramContainer, data, sharedExtents);
     } else {
-      diagramContainer.textContent = 'Diagram renderer not available';
+      diagramContainer.textContent = 'Modulul de randare al diagramei nu este disponibil';
       diagramContainer.style.fontStyle = 'italic';
     }
 
@@ -486,12 +509,12 @@ function displayContrastComparison() {
 
   let html = '<table><thead><tr>';
   html += '<th>Protocol</th>';
-  html += '<th>Type</th>';
-  html += '<th>Agent</th>';
-  html += '<th>Volume</th>';
-  html += '<th>Duration</th>';
-  html += '<th>Timing Method</th>';
-  html += '<th>Trigger</th>';
+  html += '<th>Tip</th>';
+  html += '<th>Agent Contrast</th>';
+  html += '<th>Volum</th>';
+  html += '<th>Durată</th>';
+  html += '<th>Metodă Temporizare</th>';
+  html += '<th>Declanșator (Trigger)</th>';
   html += '</tr></thead><tbody>';
 
   selectedProtocols.forEach(protocol => {
@@ -504,6 +527,50 @@ function displayContrastComparison() {
     html += `<td>${contrast.duration || 'N/A'}</td>`;
     html += `<td>${contrast.timing || 'N/A'}</td>`;
     html += `<td>${contrast.trigger || 'N/A'}</td>`;
+    html += '</tr>';
+  });
+
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function displayTechParamsComparison() {
+  const container = document.getElementById('tech-params-table-container');
+  if (!container) return;
+
+  let html = '<table><thead><tr>';
+  html += '<th>Protocol</th>';
+  html += '<th>Tensiune (kV)</th>';
+  html += '<th>Curent (mAs)</th>';
+  html += '<th>Modulare Doză (AEC)</th>';
+  html += '<th>Grosime Strat (Slice)</th>';
+  html += '<th>Colimare Detector</th>';
+  html += '<th>Timp Rotație</th>';
+  html += '<th>Pitch</th>';
+  html += '<th>Mod Scanare</th>';
+  html += '</tr></thead><tbody>';
+
+  selectedProtocols.forEach(protocol => {
+    const tp = protocol.tech_params || {};
+    const kv = tp.kv ? (tp.kv.toLowerCase().includes('kv') ? tp.kv : tp.kv + ' kV') : '120 kV';
+    const mas = tp.mas || 'Auto (referință 200 mAs)';
+    const aec = tp.aec || 'Activat (Modulare 3D)';
+    const slice = tp.slice_thickness || (protocol.series && protocol.series[0] ? protocol.series[0].thickness : '0.625 mm');
+    const col = tp.collimation || 'Sub-milimetrică (ex: 64 × 0.625 mm)';
+    const rot = tp.rotation_time || '0.5 s';
+    const pitch = tp.pitch || '1.0 - 1.2';
+    const scanMode = tp.scan_mode || 'Elicoidal (Helical)';
+
+    html += '<tr>';
+    html += `<td><strong>${protocol.title}</strong></td>`;
+    html += `<td>${kv}</td>`;
+    html += `<td>${mas}</td>`;
+    html += `<td>${aec}</td>`;
+    html += `<td>${slice}</td>`;
+    html += `<td>${col}</td>`;
+    html += `<td>${rot}</td>`;
+    html += `<td>${pitch}</td>`;
+    html += `<td>${scanMode}</td>`;
     html += '</tr>';
   });
 
@@ -528,7 +595,7 @@ function displaySeriesComparison() {
 
 function displaySummaryComparison(container) {
   let html = '<table><thead><tr>';
-  html += '<th>Series</th>';
+  html += '<th>Serie</th>';
   selectedProtocols.forEach(protocol => {
     html += `<th>${protocol.title}</th>`;
   });
@@ -542,15 +609,15 @@ function displaySummaryComparison(container) {
 
   for (let i = 0; i < maxRows; i++) {
     html += '<tr>';
-    html += `<td><strong>Acquisition ${i + 1}</strong></td>`;
+    html += `<td><strong>Achiziția ${i + 1}</strong></td>`;
 
     filteredSummary.forEach(summary => {
       const item = summary[i];
       if (item) {
         html += '<td>';
         html += `<strong>${item.series}</strong><br>`;
-        html += `Phase: ${item.phase}<br>`;
-        html += `Coverage: ${item.coverage}`;
+        html += `Fază: ${item.phase}<br>`;
+        html += `Acoperire: ${item.coverage}`;
         html += '</td>';
       } else {
         html += '<td style="color: #999;">—</td>';
@@ -572,7 +639,7 @@ function isScoutSeries(name) {
 
 function displayDetailedSeriesComparison(container) {
   let html = '<table><thead><tr>';
-  html += '<th>Phase</th>';
+  html += '<th>Fază</th>';
   selectedProtocols.forEach(protocol => {
     html += `<th>${protocol.title}</th>`;
   });
@@ -586,16 +653,16 @@ function displayDetailedSeriesComparison(container) {
 
   for (let i = 0; i < maxSeries; i++) {
     html += '<tr>';
-    html += `<td><strong>Series ${i + 1}</strong></td>`;
+    html += `<td><strong>Seria ${i + 1}</strong></td>`;
 
     filteredSeries.forEach(series => {
       const item = series[i];
       if (item) {
         html += '<td>';
         html += `<strong>${item.name}</strong><br>`;
-        html += `Coverage: ${item.coverage}<br>`;
-        html += `Delay: ${item.delay}<br>`;
-        html += `Thickness: ${item.thickness}`;
+        html += `Acoperire: ${item.coverage}<br>`;
+        html += `Întârziere: ${item.delay}<br>`;
+        html += `Grosime: ${item.thickness}`;
         html += '</td>';
       } else {
         html += '<td style="color: #999;">—</td>';

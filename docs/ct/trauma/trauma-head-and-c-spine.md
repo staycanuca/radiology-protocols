@@ -1,165 +1,187 @@
 ---
-title: Trauma Head and C-Spine
-slug: trauma-head-and-c-spine
+author: null
 category: trauma
-protocol_type: trauma
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Trauma head injury
-- C-spine clearance
-- Multi-trauma assessment
-position: Supine head-first. Cervical collar in place
-npo: None - trauma
-premedication: ''
+- Traumatism cranio-cerebral (TCC)
+- Degajarea / evaluarea leziunilor de coloană cervicală
+- Bilanț inițial în politraumatism
 contrast:
   agent: N/A
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (300 head / 250 spine)
-  rotation_time: 1.0 head / 0.5 spines
-  pitch: '0.5'
-series:
-- name: NC Head
-  start: Vertex
-  end: Foramen magnum
-  delay: N/A
-  thickness: 5 mm
-  notes: Parallel to hard palate
-- name: NC C-spine
-  start: Skull base
-  end: T1
-  delay: N/A
-  thickness: 0.625 mm
-  notes: Helical submillimeter
-recons:
-- plane: Axial
-  acquisition: Head
-  fov: Brain
-  thickness_increment: 5 mm/5 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Brain and bone windows
-- plane: Sagittal
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Midline and parasagittal
-- plane: Coronal
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Coronal alignment
-- plane: Axial
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Axial bone windows
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO acquisitions: 1) Head vertex to C1 2) C-spine skull base to T1. Head:
-    5mm axial. C-spine: 0.625mm with reformats. Minimize movement'
-  nursing: Maintain cervical precautions. C-collar remains on. Document GCS
-  rad: 'Head: acute hemorrhage skull fractures. C-spine: fractures alignment ligamentous
-    injury'
-  tips: Keep C-collar on. Minimize patient movement
-  additional_recons: 'C-spine: Sagittal and coronal bone reformats. 3D if complex
-    fracture'
+  additional_recons: 'Coloană cervicală: reconstrucții sagitale și coronale osoase
+    submilimetrice. Randare 3D în caz de fracturi complexe cu deplasare.'
+  nursing: Mențineți precauțiile de imobilizare a coloanei cervicale. Gulerul cervical
+    rămâne montat. Consemnați scorul Glasgow (GCS).
+  rad: 'Craniu: hemoragie acută (epidurală, subdurală, subarahnoidiană, contuzii hemoragice),
+    fracturi craniene. Coloană: fracturi vertebrale, aliniament, disjuncții, suspiciune
+    de leziune ligamentară.'
+  tech: 'DOUĂ achiziții: 1) Craniu de la vertex la C1 2) Coloană cervicală de la baza
+    craniului la T1. Craniu: 5 mm axial (și reconstrucții submilimetrice). Coloană
+    cervicală: 0.625 mm elicoidal cu reconstrucții multiplanare fine. Imobilizare
+    riguroasă.'
+  tips: Mențineți gulerul cervical montat. Asigurați poziția neutră a capului.
+npo: Fără repaus alimentar - urgență traumatologică
+position: Decubit dorsal cu capul înainte. Guler cervical imobilizator fixat
+premedication: ''
+protocol_type: trauma
+recons:
+- acquisition: CT Nativ Craniu
+  fov: Craniu
+  kernel: Brain
+  notes: Fereastră de parenchim cerebral și fereastră osoasă
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: CT Nativ Coloană Cervicală
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Plan mediosagital și parasagital coloană cervicală
+  plane: Sagital
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Nativ Coloană Cervicală
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Aliniament coronal și apofiza odontoidă
+  plane: Coronal
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Nativ Coloană Cervicală
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Fereastră osoasă axială coloană cervicală
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică (examinare fără contrast)
+series:
+- delay: 0 sec
+  end: Gaura occipitală (foramen magnum)
+  name: CT Nativ Craniu
+  notes: Paralel cu linia orbitomeatală / palatul dur
+  start: Vertex
+  thickness: 1.25 mm
+- delay: 0 sec
+  end: T1
+  name: CT Nativ Coloană Cervicală
+  notes: Elicoidal submilimetric pentru coloana cervicală
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: trauma-head-and-c-spine
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D pentru politraumă)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: '120'
+  mas: Auto (300 mAs craniu / 250 mAs coloană)
+  pitch: '0.5'
+  rotation_time: 1.0 head / 0.5 spines
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Craniu și Coloană Cervicală în Politraumatism
 ---
 
-# Trauma Head and C-Spine
+# CT Craniu și Coloană Cervicală în Politraumatism
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | NC Head | Non-contrast | Vertex to Foramen magnum |
-        | NC C-spine | Non-contrast | Skull base to T1 |
+        | CT Nativ Craniu | 0 sec | Vertex → Gaura occipitală (foramen magnum) |
+        | CT Nativ Coloană Cervicală | 0 sec | Baza craniului → T1 |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Trauma head injury
-        - C-spine clearance
-        - Multi-trauma assessment
+        - Traumatism cranio-cerebral (TCC)
+        - Degajarea / evaluarea leziunilor de coloană cervicală
+        - Bilanț inițial în politraumatism
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
 
-    - **Position:** Supine head-first. Cervical collar in place
-    - **NPO Status:** None - trauma
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu capul înainte. Guler cervical imobilizator fixat
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar - urgență traumatologică
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - TWO acquisitions: 1) Head vertex to C1 2) C-spine skull base to T1. Head: 5mm axial. C-spine: 0.625mm with reformats. Minimize movement
-        - Additional Recons: C-spine: Sagittal and coronal bone reformats. 3D if complex fracture
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - Maintain cervical precautions. C-collar remains on. Document GCS
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (300 mAs craniu / 250 mAs coloană) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D pentru politraumă) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 1.0 head / 0.5 spine s |
+    | **Pitch (Factor Pas)** | 0.5 |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Head: acute hemorrhage skull fractures. C-spine: fractures alignment ligamentous injury
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Keep C-collar on. Minimize patient movement
+        - DOUĂ achiziții: 1) Craniu de la vertex la C1 2) Coloană cervicală de la baza craniului la T1. Craniu: 5 mm axial (și reconstrucții submilimetrice). Coloană cervicală: 0.625 mm elicoidal cu reconstrucții multiplanare fine. Imobilizare riguroasă.
+
+    === "Note Asistent"
+
+        - Mențineți precauțiile de imobilizare a coloanei cervicale. Gulerul cervical rămâne montat. Consemnați scorul Glasgow (GCS).
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică (examinare fără contrast)
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Craniu: hemoragie acută (epidurală, subdurală, subarahnoidiană, contuzii hemoragice), fracturi craniene. Coloană: fracturi vertebrale, aliniament, disjuncții, suspiciune de leziune ligamentară.
+
+    === "Sfaturi & Recomandări"
+
+        - Mențineți gulerul cervical montat. Asigurați poziția neutră a capului.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout Head | Vertex | C1 | N/A | N/A | Lateral |
-    | NC Head | Vertex | Foramen magnum | N/A | 5 mm | Parallel to hard palate |
-    | Scout C-spine | Skull base | T1 | N/A | N/A | AP and lateral |
-    | NC C-spine | Skull base | T1 | N/A | 0.625 mm | Helical submillimeter |
+    | CT Nativ Craniu | Vertex | Gaura occipitală (foramen magnum) | 0 sec | 1.25 mm | Paralel cu linia orbitomeatală / palatul dur |
+    | CT Nativ Coloană Cervicală | Baza craniului | T1 | 0 sec | 0.625 mm | Elicoidal submilimetric pentru coloana cervicală |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Head | Brain | 5 mm/5 mm | Brain | 3 | Brain and bone windows |
-    | Sagittal | C-spine | C-spine | 2 mm/2 mm | Bone | 3 | Midline and parasagittal |
-    | Coronal | C-spine | C-spine | 2 mm/2 mm | Bone | 3 | Coronal alignment |
-    | Axial | C-spine | C-spine | 2 mm/2 mm | Bone | 3 | Axial bone windows |
+    | Axial | CT Nativ Craniu | Craniu | 2.5 mm/2.5 mm | Brain |  | Fereastră de parenchim cerebral și fereastră osoasă |
+    | Sagital | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Plan mediosagital și parasagital coloană cervicală |
+    | Coronal | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Aliniament coronal și apofiza odontoidă |
+    | Axial | CT Nativ Coloană Cervicală | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă axială coloană cervicală |

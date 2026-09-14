@@ -2,9 +2,9 @@
 author: None
 category: chest
 clinical_indications:
-- Tracheobronchomalacia
-- Expiratory central airway collapse
-- EDAC
+- Traheobronhomalacie
+- Colaps expirator al căilor aeriene centrale
+- EDAC (Colaps dinamic excesiv al căilor aeriene)
 contrast:
   agent: N/A
   duration: ''
@@ -15,154 +15,180 @@ contrast:
   volume: ''
 last_updated: '2026-01-01'
 notes:
-  additional_recons: Measure tracheal AP diameter inspiration vs expiration. Calculate
-    collapse percentage. 3D airway
-  nursing: No IV. Coach dynamic breathing. May need forced expiration
-  rad: Measure tracheal collapse percentage. >50% collapse suggests tracheomalacia.
-    Assess bronchi
-  tech: 'TWO acquisitions: 1) INSPIRATION carina to carina+10cm 2) MID-EXPIRATION
-    same level. Airway reconstructions required'
-  tips: Coach forced expiration. Exact same level both phases
-npo: N/A
-position: Supine with arms raised
-premedication: ''
+  additional_recons: Măsurare diametru AP traheal inspir vs expir. Calcul procent
+    de colaps. Reconstrucție 3D de căi aeriene.
+  nursing: Fără abord venos. Instruiți pacientul privind manevrele respiratorii dinamice.
+    Poate fi necesar expir forțat.
+  rad: Măsurați procentul de colaps traheal. Colapsul >50% sugerează traheomalacie.
+    Evaluați bronșiile principale.
+  tech: 'DOUĂ achiziții: 1) INSPIR de la carenă la carenă+10cm; 2) EXPIR FORȚAT la
+    același nivel. Necesită reconstrucții specifice de căi aeriene.'
+  tips: Antrenați pacientul pentru expir forțat. Păstrați exact același nivel în ambele
+    faze.
+npo: Nu este necesar
+position: Decubit dorsal cu brațele ridicate
+premedication: Nu este necesară
 protocol_type: non-contrast
 recons:
-- acquisition: Both phases
-  fov: Airway
+- acquisition: Ambele faze
+  fov: Căi aeriene
   ir_strength: '3'
-  kernel: Lung
-  notes: Axial airway
+  kernel: Plămân
+  notes: Axial căi aeriene
   plane: Axial
   thickness_increment: 1-2 mm/1 mm
-- acquisition: Both phases
-  fov: Airway
+- acquisition: Ambele faze
+  fov: Căi aeriene
   ir_strength: '3'
-  kernel: Lung
-  notes: Coronal airway
+  kernel: Plămân
+  notes: Coronal căi aeriene
   plane: Coronal
   thickness_increment: 1.5 mm
-- acquisition: Both phases
-  fov: Airway
+- acquisition: Ambele faze
+  fov: Căi aeriene
   ir_strength: '3'
-  kernel: Lung
-  notes: Sagittal airway
-  plane: Sagittal
+  kernel: Plămân
+  notes: Sagital căi aeriene
+  plane: Sagital
   thickness_increment: 1.5 mm
-- acquisition: Both phases
-  fov: Airway
+- acquisition: Ambele faze
+  fov: Căi aeriene
   ir_strength: N/A
-  kernel: Lung
-  notes: 3D airway reconstruction
+  kernel: Plămân
+  notes: Reconstrucție 3D de căi aeriene
   plane: 3D VR
-  thickness_increment: 0.625-1 mm source
+  thickness_increment: 0.625-1 mm sursă
 safety:
-  allergy: N/A
-  renal: N/A
+  allergy: Nu este cazul (fără contrast)
+  renal: Nu este cazul (fără contrast)
 series:
-- delay: Full inspiration
-  end: Carina+10cm
-  name: Inspiration
-  notes: Thin for 3D
-  start: Thoracic inlet
+- delay: Inspir complet
+  end: Carenă + 10 cm
+  name: Achiziție în Inspir
+  notes: Secțiuni fine pentru 3D
+  start: Apertură toracică superioară
   thickness: 0.625-1 mm
-- delay: Forced mid-expiration
-  end: Carina+10cm
-  name: Mid-Expiration
-  notes: Same level as inspiration
-  start: Thoracic inlet
+- delay: Expir mediu forțat
+  end: Carenă + 10 cm
+  name: Achiziție în Expir Mediu
+  notes: Același nivel ca în inspir
+  start: Apertură toracică superioară
   thickness: 0.625-1 mm
 slug: dynamic-airway-ct
 synonyms: []
 tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
   kv: '120'
-  mas: Auto (reference 200)
+  mas: Auto (referință 200 mAs)
   pitch: Helical
   rotation_time: 0.5s
-title: Dynamic Airway CT
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625-1 mm
+title: CT Dinamic de Căi Aeriene
 ---
 
-# Dynamic Airway CT
+# CT Dinamic de Căi Aeriene
 
-**Last Updated:** 2026-01-01
-**Author:** None
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Inspiration | Full inspiration | Thoracic inlet → Carina+10cm |
-        | Mid-Expiration | Forced mid-expiration | Thoracic inlet → Carina+10cm |
+        | Achiziție în Inspir | Inspir complet | Apertură toracică superioară → Carenă + 10 cm |
+        | Achiziție în Expir Mediu | Expir mediu forțat | Apertură toracică superioară → Carenă + 10 cm |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Tracheobronchomalacia
-        - Expiratory central airway collapse
-        - EDAC
+        - Traheobronhomalacie
+        - Colaps expirator al căilor aeriene centrale
+        - EDAC (Colaps dinamic excesiv al căilor aeriene)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    - **Pre-Medication:**
-        - None required
-
--   __3. IV Contrast & Injection__
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - TWO acquisitions: 1) INSPIRATION carina to carina+10cm 2) MID-EXPIRATION same level. Airway reconstructions required
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Coach dynamic breathing. May need forced expiration
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625-1 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Measure tracheal collapse percentage. >50% collapse suggests tracheomalacia. Assess bronchi
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Coach forced expiration. Exact same level both phases
+        - DOUĂ achiziții: 1) INSPIR de la carenă la carenă+10cm; 2) EXPIR FORȚAT la același nivel. Necesită reconstrucții specifice de căi aeriene.
+
+    === "Note Asistent"
+
+        - Fără abord venos. Instruiți pacientul privind manevrele respiratorii dinamice. Poate fi necesar expir forțat.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul (fără contrast)
+            - **Alergii:** Nu este cazul (fără contrast)
+
+    === "Note Radiolog"
+
+        - Măsurați procentul de colaps traheal. Colapsul >50% sugerează traheomalacie. Evaluați bronșiile principale.
+
+    === "Sfaturi & Recomandări"
+
+        - Antrenați pacientul pentru expir forțat. Păstrați exact același nivel în ambele faze.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Inspiration | Thoracic inlet | Carina+10cm | Full inspiration | 0.625-1 mm | Thin for 3D |
-    | Mid-Expiration | Thoracic inlet | Carina+10cm | Forced mid-expiration | 0.625-1 mm | Same level as inspiration |
+    | Achiziție în Inspir | Apertură toracică superioară | Carenă + 10 cm | Inspir complet | 0.625-1 mm | Secțiuni fine pentru 3D |
+    | Achiziție în Expir Mediu | Apertură toracică superioară | Carenă + 10 cm | Expir mediu forțat | 0.625-1 mm | Același nivel ca în inspir |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Both phases | Airway | 1-2 mm/1 mm | Lung | 3 | Axial airway |
-    | Coronal | Both phases | Airway | 1.5 mm | Lung | 3 | Coronal airway |
-    | Sagittal | Both phases | Airway | 1.5 mm | Lung | 3 | Sagittal airway |
-    | 3D VR | Both phases | Airway | 0.625-1 mm source | Lung | N/A | 3D airway reconstruction |
+    | Axial | Ambele faze | Căi aeriene | 1-2 mm/1 mm | Plămân | 3 | Axial căi aeriene |
+    | Coronal | Ambele faze | Căi aeriene | 1.5 mm | Plămân | 3 | Coronal căi aeriene |
+    | Sagital | Ambele faze | Căi aeriene | 1.5 mm | Plămân | 3 | Sagital căi aeriene |
+    | 3D VR | Ambele faze | Căi aeriene | 0.625-1 mm sursă | Plămân | N/A | Reconstrucție 3D de căi aeriene |

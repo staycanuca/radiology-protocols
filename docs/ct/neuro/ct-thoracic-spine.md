@@ -1,162 +1,186 @@
 ---
-title: CT Thoracic Spine
-slug: ct-thoracic-spine
+author: null
 category: neuro
-protocol_type: spine
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Thoracic spine trauma
-- Compression fracture
-- Back pain
-- Tumor
-- Infection
-position: Supine
-npo: N/A
-premedication: ''
+- Traumatism de coloană toracală
+- Fractură prin tasare osteoporotică sau traumatică
+- Dorsalgie severă persistentă
+- Suspiciune de proces expansiv tumoral sau infecțios
 contrast:
-  agent: None typically. Contrast if infection/tumor
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Contrast dacă este suspectată infecție sau tumoră
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: T-spine Helical
-  start: C7
-  end: L1
-  delay: N/A or 60s if contrast
-  thickness: 0.625-1 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: T-spine
-  fov: T-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Bone and soft tissue
-- plane: Sagittal
-  acquisition: T-spine
-  fov: T-spine
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Midline and parasagittal
-- plane: Coronal
-  acquisition: T-spine
-  fov: T-spine
-  thickness_increment: 2.5 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Coronal overview
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: C7 to L1. Submillimeter helical. Sagittal and coronal reformats. Arms up if
-    possible
-  nursing: No IV unless contrast indicated. Arms up to reduce artifact
-  rad: Alignment. Compression fractures. Pedicles. Spinal canal. Disc spaces. Paraspinal
-    soft tissues
-  tips: Arms up reduces artifact. Bone algorithm
-  additional_recons: ''
+  additional_recons: Reconstrucții osoase sagitale și coronale fine.
+  nursing: Fără linie venoasă de rutină.
+  rad: Aliniament toracal și cifoză. Tasări sau fracturi cominutive ale corpilor vertebrali.
+    Reculul peretelui posterior vertebral în canal. Spațiile discale și articulațiile
+    costo-vertebrale. Părțile moi paratoracale.
+  tech: De la nivelul C7 până la L1. Achiziție elicoidală submilimetrică. Reformatări
+    sagitale și coronale de calitate. Brațele ridicate pentru a reduce atenuarea fasciculului
+    prin umeri.
+  tips: Brațele ridicate reduc semnificativ zgomotul de imagine.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu brațele ridicate deasupra capului dacă starea permite
+premedication: ''
+protocol_type: spine
+recons:
+- acquisition: CT Coloană Toracală Elicoidal
+  fov: Coloană toracală
+  kernel: Bone
+  notes: Fereastră osoasă și de părți moi
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Toracală Elicoidal
+  fov: Coloană toracală
+  kernel: Bone
+  notes: Plan mediosagital și parasagital
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Toracală Elicoidal
+  fov: Coloană toracală
+  kernel: Bone
+  notes: Plan coronal de ansamblu
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A or verify eGFR
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: L1
+  name: CT Coloană Toracală Elicoidal
+  notes: Achiziție elicoidală submilimetrică
+  start: C7
+  thickness: 0.625 mm
+slug: ct-thoracic-spine
+synonyms: []
+tech_params:
+  aec: Activat (Modulare 3D adaptată coloanei vertebrale)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Coloană Toracală
 ---
 
-# CT Thoracic Spine
+# CT Coloană Toracală
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | T-spine Helical | Contrast (N/A or 60s if contrast delay) | C7 to L1 |
+        | CT Coloană Toracală Elicoidal | 0 sec | C7 → L1 |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Thoracic spine trauma
-        - Compression fracture
-        - Back pain
-        - Tumor
-        - Infection
+        - Traumatism de coloană toracală
+        - Fractură prin tasare osteoporotică sau traumatică
+        - Dorsalgie severă persistentă
+        - Suspiciune de proces expansiv tumoral sau infecțios
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate deasupra capului dacă starea permite
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/tumor |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă este suspectată infecție sau tumoră |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare 3D adaptată coloanei vertebrale) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - C7 to L1. Submillimeter helical. Sagittal and coronal reformats. Arms up if possible
+        - De la nivelul C7 până la L1. Achiziție elicoidală submilimetrică. Reformatări sagitale și coronale de calitate. Brațele ridicate pentru a reduce atenuarea fasciculului prin umeri.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast indicated. Arms up to reduce artifact
+        - Fără linie venoasă de rutină.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Alignment. Compression fractures. Pedicles. Spinal canal. Disc spaces. Paraspinal soft tissues
+        - Aliniament toracal și cifoză. Tasări sau fracturi cominutive ale corpilor vertebrali. Reculul peretelui posterior vertebral în canal. Spațiile discale și articulațiile costo-vertebrale. Părțile moi paratoracale.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms up reduces artifact. Bone algorithm
+        - Brațele ridicate reduc semnificativ zgomotul de imagine.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | C7 | L1 | N/A | N/A | AP and lateral |
-    | T-spine Helical | C7 | L1 | N/A or 60s if contrast | 0.625-1 mm | Submillimeter |
+    | CT Coloană Toracală Elicoidal | C7 | L1 | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | T-spine | T-spine | 2 mm/2 mm | Bone | 3 | Bone and soft tissue |
-    | Sagittal | T-spine | T-spine | 2 mm/1.5 mm | Bone | 3 | Midline and parasagittal |
-    | Coronal | T-spine | T-spine | 2.5 mm/2 mm | Bone | 3 | Coronal overview |
+    | Axial | CT Coloană Toracală Elicoidal | Coloană toracală | 1.5 mm/1.5 mm | Bone |  | Fereastră osoasă și de părți moi |
+    | Sagital | CT Coloană Toracală Elicoidal | Coloană toracală | 1.5 mm/1.5 mm | Bone |  | Plan mediosagital și parasagital |
+    | Coronal | CT Coloană Toracală Elicoidal | Coloană toracală | 1.5 mm/1.5 mm | Bone |  | Plan coronal de ansamblu |

@@ -1,177 +1,200 @@
 ---
-title: CTA Upper Extremity
-slug: cta-upper-extremity
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Upper extremity arterial insufficiency
-- Trauma
-- Dialysis access planning
-- Thoracic outlet syndrome
-position: Supine with affected arm raised above head or at side depending on indication
-npo: NPO 2 hours
-premedication: ''
+- Insuficiență arterială a membrului superior / ischemie acută sau cronică
+- Traumatism vascular penetrant sau închis al brațului
+- Planificare acces vascular pentru hemodializă (fistulă arteriovenoasă)
+- Sindrom de apertură toracică superioară (Thoracic Outlet Syndrome - TOS)
 contrast:
   agent: Isovue 370
-  volume: 100 mL
   flow_rate: 4 mL/s
-  timing: Bolus Tracking
-  roi: Subclavian artery
+  roi: Artera subclavie
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Arterial
-  start: Aortic arch
-  end: Fingertips
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Include arch through hand
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Full arm
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Primary diagnostic
-- plane: Coronal
-  acquisition: Arterial
-  fov: Full arm
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP full vessel course
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Full arm
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral MIP
-- plane: 3D VR
-  acquisition: Arterial
-  fov: Full arm
-  thickness_increment: 1 mm source
-  kernel: Vascular
-  ir_strength: '3'
-  notes: 3D reconstruction
+  volume: 100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: Scan from aortic arch to fingertips. May need bilateral for comparison. Position
-    arm to demonstrate pathology | Inject into contralateral arm
-  nursing: 20G IV in contralateral arm
-  rad: Assess subclavian axillary brachial radial ulnar arteries. Look for stenosis
-    occlusion or injury
-  tips: Position arm to avoid overlap with torso. May need special positioning for
-    TOS
-  additional_recons: MIP and 3D VR. Subtract bones for vessel visualization
+  additional_recons: MIP și randare 3D VR. Tehnici de substracție osoasă pentru claritatea
+    axului vascular.
+  nursing: Linie venoasă 20G plasată în brațul CONTROLATERAL.
+  rad: Evaluați arterele subclavie, axilară, brahială, radială, ulnară și arcadele
+    palmare. Căutați stenoze, tromboze, anevrisme sau compresiuni extrinseci la nivelul
+    defileului costoclavicular.
+  tech: Scanare de la nivelul arcului aortic până la vârful degetelor. Se poate efectua
+    examinare bilaterală dacă este necesară comparația. Poziționați brațul pentru
+    a evidenția patologia. Injectarea se realizează OBLIGATORIU în brațul contralateral.
+  tips: Poziționarea atentă a brațului pentru a evita artefactele pe torace. În suspiciunea
+    de sindrom de defileu (TOS), pot fi necesare manevre dinamice (braț în adducție
+    vs. abducție-rotație externă).
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațul afectat ridicat deasupra capului sau de-a lungul
+  corpului
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial
+  fov: Membru superior
+  kernel: Vascular
+  notes: Serie diagnostică primară
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Arterial
+  fov: Membru superior
+  kernel: Vascular
+  notes: MIP pe întregul traiect al vaselor membrului superior
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Membru superior
+  kernel: Vascular
+  notes: MIP sagital pe traiectul brahial și antebraț
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Membru superior
+  kernel: Vascular
+  notes: Randare tridimensională 3D a axului arterial
+  plane: 3D VR
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. IV in opposite arm
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Vârful degetelor
+  name: Angio-CT Arterial
+  notes: Acoperire de la arcul aortic până la mâna afectată
+  start: Arc aortic
+  thickness: 0.625 mm
+slug: cta-upper-extremity
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Membru Superior
 ---
 
-# CTA Upper Extremity
+# Angio-CT Membru Superior
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Arterial | Arterial (bolus tracked) | Aortic arch to Fingertips |
+        | Angio-CT Arterial | Urmărire bolus | Arc aortic → Vârful degetelor |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Upper extremity arterial insufficiency
-        - Trauma
-        - Dialysis access planning
-        - Thoracic outlet syndrome
+        - Insuficiență arterială a membrului superior / ischemie acută sau cronică
+        - Traumatism vascular penetrant sau închis al brațului
+        - Planificare acces vascular pentru hemodializă (fistulă arteriovenoasă)
+        - Sindrom de apertură toracică superioară (Thoracic Outlet Syndrome - TOS)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with affected arm raised above head or at side depending on indication
-    - **NPO Status:** NPO 2 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațul afectat ridicat deasupra capului sau de-a lungul corpului
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 100 mL |
-        | Flow Rate | 4 mL/s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Subclavian artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | 100 mL |
+        | Rată de Flux | 4 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Artera subclavie |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan from aortic arch to fingertips. May need bilateral for comparison. Position arm to demonstrate pathology
-        - Inject into contralateral arm
-        - Additional Recons: MIP and 3D VR. Subtract bones for vessel visualization
+        - Scanare de la nivelul arcului aortic până la vârful degetelor. Se poate efectua examinare bilaterală dacă este necesară comparația. Poziționați brațul pentru a evidenția patologia. Injectarea se realizează OBLIGATORIU în brațul contralateral.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV in contralateral arm
+        - Linie venoasă 20G plasată în brațul CONTROLATERAL.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. IV in opposite arm
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess subclavian axillary brachial radial ulnar arteries. Look for stenosis occlusion or injury
+        - Evaluați arterele subclavie, axilară, brahială, radială, ulnară și arcadele palmare. Căutați stenoze, tromboze, anevrisme sau compresiuni extrinseci la nivelul defileului costoclavicular.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Position arm to avoid overlap with torso. May need special positioning for TOS
+        - Poziționarea atentă a brațului pentru a evita artefactele pe torace. În suspiciunea de sindrom de defileu (TOS), pot fi necesare manevre dinamice (braț în adducție vs. abducție-rotație externă).
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Aortic arch | Fingertips | N/A | N/A | AP of arm |
-    | CTA Arterial | Aortic arch | Fingertips | Bolus tracked | 0.625 mm | Include arch through hand |
+    | Angio-CT Arterial | Arc aortic | Vârful degetelor | Urmărire bolus | 0.625 mm | Acoperire de la arcul aortic până la mâna afectată |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Full arm | 1.5 mm/1.5 mm | Vascular | 3 | Primary diagnostic |
-    | Coronal | Arterial | Full arm | 2 mm/2 mm | Vascular | 3 | MIP full vessel course |
-    | Sagittal | Arterial | Full arm | 2 mm/2 mm | Vascular | 3 | Lateral MIP |
-    | 3D VR | Arterial | Full arm | 1 mm source | Vascular | 3 | 3D reconstruction |
+    | Axial | Angio-CT Arterial | Membru superior | 1 mm/1 mm | Vascular |  | Serie diagnostică primară |
+    | Coronal | Angio-CT Arterial | Membru superior | 1.5 mm/1.5 mm | Vascular |  | MIP pe întregul traiect al vaselor membrului superior |
+    | Sagital | Angio-CT Arterial | Membru superior | 1.5 mm/1.5 mm | Vascular |  | MIP sagital pe traiectul brahial și antebraț |
+    | 3D VR | Angio-CT Arterial | Membru superior | 0.75 mm/0.75 mm | Vascular |  | Randare tridimensională 3D a axului arterial |

@@ -1,185 +1,208 @@
 ---
-title: CTA Head and Neck (Arch to Vertex)
-slug: cta-head-and-neck-arch-to-vertex
+author: null
 category: neuro
-protocol_type: vascular
-last_updated: '2026-01-04'
-author: 
-synonyms: []
 clinical_indications:
-- Stroke workup
-- Carotid stenosis
-- Vertebral artery dissection
-- Aneurysm screening
-position: Supine head-first with arms at sides
-npo: NPO 2 hours
-premedication: None typically. Consider anxiolytic if severe claustrophobia
+- Bilanț complet AVC ischemic / accident ischemic tranzitor (AIT)
+- Stenoză carotidiană extracraniană sau intracraniană
+- Disecție de arteră carotidă sau vertebrală
+- Screening anevrisme cerebrale și malformații arteriovenoase (MAV)
 contrast:
   agent: Isovue 370
-  volume: 80-100 mL
   flow_rate: 4-5 mL/s
-  timing: Bolus Tracking
-  roi: Aortic arch
+  roi: Crosa aortei
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Neck
-  start: Aortic arch
-  end: Skull base
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Arterial phase - caudocranial
-- name: CTA Head
-  start: Skull base
-  end: Vertex
-  delay: Immediate
-  thickness: 0.625 mm
-  notes: Same bolus as neck - single acquisition
-recons:
-- plane: Axial
-  acquisition: CTA
-  fov: Neck
-  thickness_increment: 1 mm/1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Submillimeter for carotid assessment
-- plane: Axial
-  acquisition: CTA
-  fov: Head
-  thickness_increment: 1 mm/1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Submillimeter for circle of Willis
-- plane: Coronal
-  acquisition: CTA
-  fov: Neck
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP for carotid overview
-- plane: Sagittal
-  acquisition: CTA
-  fov: Full
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP for vertebral arteries
+  volume: 80-100 mL
+last_updated: '2026-01-04'
 notes:
-  tech: Scan from aortic arch through vertex. Use bolus tracking in arch. Minimize
-    dental artifact with gantry angulation
-  nursing: Good antecubital IV access required - 20G minimum. Verify injection site
-    for extravasation risk
-  rad: Evaluate complete circle of Willis. Assess carotid bifurcations. Look for dissection.
-    Check aneurysms
-  tips: Remove dentures. Minimize swallowing during neck acquisition
-  additional_recons: MIP and 3D VR reconstructions of vessels. Curved MPR of carotids
+  additional_recons: Reconstrucții MIP și 3D VR ale axelor vasculare cervico-cerebrale.
+    Reconstrucții MPR curbate pentru ambele carotide interne.
+  nursing: Acces venos excelent în plica cotului - linie 20G minimum (ideal 18G).
+    Verificați refluxul sanguin înainte de pornire.
+  rad: Originea vaselor din crosa aortei. Bifurcațiile carotidiene (gradarea stenozei
+    conform criteriilor NASCET). Arterele vertebrale pe tot traiectul. Poligonul Willis
+    complet (segmentele A1, A2, M1, M2, P1, P2, arterele comunicante). Căutați stenoze,
+    tromboze, disecții sau anevrisme saculare.
+  tech: Scanare continuă de la crosa aortei până la vertex. Urmărire bolus în crosa
+    aortei. Înclinarea gantry-ului dacă este necesar pentru reducerea artefactelor
+    produse de amalgamul dentar.
+  tips: Îndepărtați protezele dentare. Instruiți pacientul să evite înghițitul în
+    timpul achiziției pe gât.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu capul înainte și brațele de-a lungul corpului
+premedication: None typically. Consider anxiolytic if severe claustrophobia
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Gât
+  fov: Gât
+  kernel: Vascular
+  notes: Secțiuni submilimetrice pentru evaluarea carotidelor
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Cerebral
+  fov: Craniu
+  kernel: Vascular
+  notes: Secțiuni submilimetrice pentru poligonul Willis
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: Angio-CT Gât
+  fov: Gât-Craniu
+  kernel: Vascular
+  notes: MIP coronal pentru ansamblul bifurcațiilor carotidiene
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Gât
+  fov: Gât-Craniu
+  kernel: Vascular
+  notes: MIP sagital pentru traiectul arterelor vertebrale
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history and renal function
+  allergy: Verificați istoricul alergic la contrast
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Baza craniului
+  name: Angio-CT Gât
+  notes: Fază arterială caudo-cranială
+  start: Arc aortic
+  thickness: 0.625 mm
+- delay: Continuare
+  end: Vertex
+  name: Angio-CT Cerebral
+  notes: Același bolus - achiziție unică neîntreruptă
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: cta-head-and-neck-arch-to-vertex
+synonyms: []
+tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: 100-120
+  mas: Auto (referință 250 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Vase Gât și Poligon Willis (Arc Aortic - Vertex)
 ---
 
-# CTA Head and Neck (Arch to Vertex)
+# Angio-CT Vase Gât și Poligon Willis (Arc Aortic - Vertex)
 
-**Last Updated:** 2026-01-04  
-**Author:** 
+**Ultima actualizare:** 2026-01-04
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Neck | Arterial (bolus tracked) | Aortic arch to Skull base |
-        | CTA Head | Contrast (Immediate delay) | Skull base to Vertex |
+        | Angio-CT Gât | Urmărire bolus | Arc aortic → Baza craniului |
+        | Angio-CT Cerebral | Continuare | Baza craniului → Vertex |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Stroke workup
-        - Carotid stenosis
-        - Vertebral artery dissection
-        - Aneurysm screening
+        - Bilanț complet AVC ischemic / accident ischemic tranzitor (AIT)
+        - Stenoză carotidiană extracraniană sau intracraniană
+        - Disecție de arteră carotidă sau vertebrală
+        - Screening anevrisme cerebrale și malformații arteriovenoase (MAV)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine head-first with arms at sides
-    - **NPO Status:** NPO 2 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu capul înainte și brațele de-a lungul corpului
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - None typically. Consider anxiolytic if severe claustrophobia
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 80-100 mL |
-        | Flow Rate | 4-5 mL/s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Aortic arch |
-        | Trigger (HU) | 150 HU |
+        | Volum | 80-100 mL |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Crosa aortei |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan from aortic arch through vertex. Use bolus tracking in arch. Minimize dental artifact with gantry angulation
-        - Additional Recons: MIP and 3D VR reconstructions of vessels. Curved MPR of carotids
+        - Scanare continuă de la crosa aortei până la vertex. Urmărire bolus în crosa aortei. Înclinarea gantry-ului dacă este necesar pentru reducerea artefactelor produse de amalgamul dentar.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Good antecubital IV access required - 20G minimum. Verify injection site for extravasation risk
+        - Acces venos excelent în plica cotului - linie 20G minimum (ideal 18G). Verificați refluxul sanguin înainte de pornire.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history and renal function
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic la contrast
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Evaluate complete circle of Willis. Assess carotid bifurcations. Look for dissection. Check aneurysms
+        - Originea vaselor din crosa aortei. Bifurcațiile carotidiene (gradarea stenozei conform criteriilor NASCET). Arterele vertebrale pe tot traiectul. Poligonul Willis complet (segmentele A1, A2, M1, M2, P1, P2, arterele comunicante). Căutați stenoze, tromboze, disecții sau anevrisme saculare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Remove dentures. Minimize swallowing during neck acquisition
+        - Îndepărtați protezele dentare. Instruiți pacientul să evite înghițitul în timpul achiziției pe gât.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Aortic arch | Vertex | N/A | N/A | AP and lateral |
-    | CTA Neck | Aortic arch | Skull base | Bolus tracked | 0.625 mm | Arterial phase - caudocranial |
-    | CTA Head | Skull base | Vertex | Immediate | 0.625 mm | Same bolus as neck - single acquisition |
+    | Angio-CT Gât | Arc aortic | Baza craniului | Urmărire bolus | 0.625 mm | Fază arterială caudo-cranială |
+    | Angio-CT Cerebral | Baza craniului | Vertex | Continuare | 0.625 mm | Același bolus - achiziție unică neîntreruptă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | CTA | Neck | 1 mm/1 mm | Vascular | 3 | Submillimeter for carotid assessment |
-    | Axial | CTA | Head | 1 mm/1 mm | Vascular | 3 | Submillimeter for circle of Willis |
-    | Coronal | CTA | Neck | 2 mm/2 mm | Vascular | 3 | MIP for carotid overview |
-    | Sagittal | CTA | Full | 2 mm/2 mm | Vascular | 3 | MIP for vertebral arteries |
+    | Axial | Angio-CT Gât | Gât | 1 mm/1 mm | Vascular |  | Secțiuni submilimetrice pentru evaluarea carotidelor |
+    | Axial | Angio-CT Cerebral | Craniu | 0.625 mm/0.625 mm | Vascular |  | Secțiuni submilimetrice pentru poligonul Willis |
+    | Coronal | Angio-CT Gât | Gât-Craniu | 2 mm/2 mm | Vascular |  | MIP coronal pentru ansamblul bifurcațiilor carotidiene |
+    | Sagital | Angio-CT Gât | Gât-Craniu | 2 mm/2 mm | Vascular |  | MIP sagital pentru traiectul arterelor vertebrale |

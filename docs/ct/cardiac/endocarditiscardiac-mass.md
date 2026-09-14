@@ -1,191 +1,214 @@
 ---
-title: Endocarditis/Cardiac Mass
-slug: endocarditiscardiac-mass
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-02-02'
-author: 
-synonyms: []
 clinical_indications:
-- Endocarditis
-- Cardiac mass
-- Valve vegetation
-- Intracardiac thrombus
-position: Supine feet-first
-npo: NPO 2-4 hours
-premedication: HR < 65 preferred. No premedication typically given.
+- Suspiciune de endocardită infecțioasă pe valvă nativă sau proteză
+- Formațiune tumorală cardiacă (mixom, fibrom, sarcom, metastaze)
+- Vegetații valvulare sau abces perivalvular/miocardic
+- Tromb intracardiac (urechiușă atrială stângă, apex VS)
 contrast:
   agent: Isovue 370
-  volume: 1.6 mL/kg
-  flow_rate: 3-4 mL/s
   duration: 35 sec
-tech_params:
-  kv: 100-120
-  mas: Auto ECG modulation
-  rotation_time: 0.28s
-  pitch: 0.2-0.24
-series:
-- name: Non-contrast
-  start: Top of heart
-  end: Below heart
-  delay: N/A
-  thickness: 3 mm
-  notes: Flash Non-contrast
-- name: Gated CTA
-  start: Top of heart
-  end: Below heart
-  delay: 30 sec
-  thickness: 0.5-0.625 mm
-  notes: Retrospective ECG gating
-- name: Delayed phase
-  start: Lung Apices
-  end: Diaphragm
-  delay: 70 sec
-  thickness: 1 mm
-  notes: To detect for abscess, vegetation, masses
-recons:
-- plane: Axial
-  acquisition: Non-contrast
-  fov: Heart
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: For dense material or calcifications
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: 0.75 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Reformatted at best cardiac phase
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: 1 mm/1 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Functional series for valve assessment
-- plane: Axial
-  acquisition: Delayed
-  fov: Chest
-  thickness_increment: 1 mm/1 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Mass, vegetations
+  flow_rate: 3-4 mL/s
+  timing: Timp empiric sincronizat (30s delay)
+  volume: 1.6 mL/kg
+last_updated: '2026-02-02'
 notes:
-  tech: Non-valsalva breathing technique, cardiac breathing instruction. | Injection
-    duration is fixed 35 sec fixed 30 sec scan delay. Retrospective gating trigger
-    at 30-70% (End sys - end dia).  Reconstruct  at 5% intervals.
-  nursing: 18-20G IV. HR control helpful but not critical
-  rad: Assess all valves for vegetations. Evaluate myocardium for abscess. Look for
-    intracardiac masses. Check for complications
-  tips: Multiple cardiac phases helpful for valve motion. Thin slices for vegetations
-  additional_recons: Multi-phase reconstructions. 4-chamber 2-chamber views. Valve-specific
-    reformats
+  additional_recons: Reconstrucții multifazice dinamice (cine-CT). Planuri 4-camere,
+    2-camere și axe scurte. Vederi specifice în planul valvelor.
+  nursing: Linie venoasă 18-20G. Controlul frecvenței cardiace este util, dar nu critic
+    dacă ritmul este stabil.
+  rad: Evaluați toate aparatele valvulare pentru vegetații mobile. Analizați miocardul
+    pentru abcese, pseudoanevrisme sau fistule. Evaluați prizele de contrast ale maselor
+    tumorale.
+  tech: Instrucțiuni respiratorii fără Valsalva. Durată fixă de injectare 35 secunde
+    cu întârziere de 30 secunde. Sincronizare retrospectivă între 30-70% din intervalul
+    R-R. Reconstrucții la intervale de 5% pentru evaluarea mișcării cuspelor.
+  tips: Faze cardiace multiple pentru evaluarea mobilității vegetațiilor și deschiderii
+    valvulare. Secțiuni fine obligatorii.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu picioarele înainte
+premedication: Controlul ritmului dacă este indicat
+protocol_type: cardiac gated
+recons:
+- acquisition: Fază Nativă Cord
+  fov: Cord
+  kernel: Standard
+  notes: Material dens sau calcificări valvulare
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Reconstruit la cea mai bună fază cardiacă diastolică
+  plane: Axial
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Standard
+  notes: Serie funcțională pentru dinamica valvulară
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Fază Tardivă
+  fov: Torace
+  kernel: Standard
+  notes: Analiza maselor și prizelor tardive de contrast
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Sub cord
+  name: Fază Nativă Cord
+  notes: Achiziție nativă rapidă Flash
+  start: Marginea superioară a cordului
+  thickness: 2.5 mm
+- delay: 30 sec
+  end: Sub cord
+  name: Angio-CT Sincronizat ECG
+  notes: Sincronizare ECG retrospectivă multifazică
+  start: Marginea superioară a cordului
+  thickness: 0.625 mm
+- delay: 90 sec
+  end: Diafragm
+  name: Fază Tardivă
+  notes: Detecția abceselor, vegetațiilor și încărcării tardive a maselor
+  start: Vârfuri pulmonare
+  thickness: 1.25 mm
+slug: endocarditiscardiac-mass
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: 100-120
+  mas: Auto (modulare sincronizată ECG)
+  pitch: 0.2-0.24
+  rotation_time: 0.28s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: CT Sincronizat ECG pentru Endocardită / Masă Intracardiacă
 ---
 
-# Endocarditis/Cardiac Mass
+# CT Sincronizat ECG pentru Endocardită / Masă Intracardiacă
 
-**Last Updated:** 2026-02-02  
-**Author:** 
+**Ultima actualizare:** 2026-02-02
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Top of heart to Below heart |
-        | Gated CTA | Contrast (30 sec delay) | Top of heart to Below heart |
-        | Delayed phase | Contrast (70 sec delay) | Lung Apices to Diaphragm |
+        | Fază Nativă Cord | 0 sec | Marginea superioară a cordului → Sub cord |
+        | Angio-CT Sincronizat ECG | 30 sec | Marginea superioară a cordului → Sub cord |
+        | Fază Tardivă | 90 sec | Vârfuri pulmonare → Diafragm |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Endocarditis
-        - Cardiac mass
-        - Valve vegetation
-        - Intracardiac thrombus
+        - Suspiciune de endocardită infecțioasă pe valvă nativă sau proteză
+        - Formațiune tumorală cardiacă (mixom, fibrom, sarcom, metastaze)
+        - Vegetații valvulare sau abces perivalvular/miocardic
+        - Tromb intracardiac (urechiușă atrială stângă, apex VS)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
-        - HR < 65 preferred. No premedication typically given.
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Controlul ritmului dacă este indicat
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.6 mL/kg |
-        | Flow Rate | 3-4 mL/s |
-        | Duration | 35 sec |
+        | Volum | 1.6 mL/kg |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată | 35 sec |
+        | Metodă Temporizare | Timp empiric sincronizat (30s delay) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Non-valsalva breathing technique, cardiac breathing instruction.
-        - Injection duration is fixed 35 sec fixed 30 sec scan delay. Retrospective gating trigger at 30-70% (End sys - end dia).  Reconstruct  at 5% intervals.
-        - Additional Recons: Multi-phase reconstructions. 4-chamber 2-chamber views. Valve-specific reformats
+        - Instrucțiuni respiratorii fără Valsalva. Durată fixă de injectare 35 secunde cu întârziere de 30 secunde. Sincronizare retrospectivă între 30-70% din intervalul R-R. Reconstrucții la intervale de 5% pentru evaluarea mișcării cuspelor.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. HR control helpful but not critical
+        - Linie venoasă 18-20G. Controlul frecvenței cardiace este util, dar nu critic dacă ritmul este stabil.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess all valves for vegetations. Evaluate myocardium for abscess. Look for intracardiac masses. Check for complications
+        - Evaluați toate aparatele valvulare pentru vegetații mobile. Analizați miocardul pentru abcese, pseudoanevrisme sau fistule. Evaluați prizele de contrast ale maselor tumorale.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Multiple cardiac phases helpful for valve motion. Thin slices for vegetations
+        - Faze cardiace multiple pentru evaluarea mobilității vegetațiilor și deschiderii valvulare. Secțiuni fine obligatorii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top of chest | Diaphragm | N/A | N/A | AP lateral |
-    | Non-contrast | Top of heart | Below heart | N/A | 3 mm | Flash Non-contrast |
-    | Gated CTA | Top of heart | Below heart | 30 sec | 0.5-0.625 mm | Retrospective ECG gating |
-    | Delayed phase | Lung Apices | Diaphragm | 70 sec | 1 mm | To detect for abscess, vegetation, masses |
+    | Fază Nativă Cord | Marginea superioară a cordului | Sub cord | 0 sec | 2.5 mm | Achiziție nativă rapidă Flash |
+    | Angio-CT Sincronizat ECG | Marginea superioară a cordului | Sub cord | 30 sec | 0.625 mm | Sincronizare ECG retrospectivă multifazică |
+    | Fază Tardivă | Vârfuri pulmonare | Diafragm | 90 sec | 1.25 mm | Detecția abceselor, vegetațiilor și încărcării tardive a maselor |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-contrast | Heart | 3 mm/3 mm | Standard | 3 | For dense material or calcifications |
-    | Axial | Gated CTA | Heart | 0.75 mm/0.5 mm | Cardiac | 3 | Reformatted at best cardiac phase |
-    | Axial | Gated CTA | Heart | 1 mm/1 mm | Standard | 3 | Functional series for valve assessment |
-    | Axial | Delayed | Chest | 1 mm/1 mm | Standard | 3 | Mass, vegetations |
+    | Axial | Fază Nativă Cord | Cord | 2.5 mm/2.5 mm | Standard |  | Material dens sau calcificări valvulare |
+    | Axial | Angio-CT Sincronizat ECG | Cord | 0.75 mm/0.75 mm | Cardiac |  | Reconstruit la cea mai bună fază cardiacă diastolică |
+    | Axial | Angio-CT Sincronizat ECG | Cord | 1.5 mm/1.5 mm | Standard |  | Serie funcțională pentru dinamica valvulară |
+    | Axial | Fază Tardivă | Torace | 2 mm/2 mm | Standard |  | Analiza maselor și prizelor tardive de contrast |

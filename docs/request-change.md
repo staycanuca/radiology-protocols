@@ -1,14 +1,14 @@
 ---
-title: Request a New Protocol
+title: Solicitare Protocol Nou / Modificare
 hide:
   - navigation
   
 ---
 
-# Request a New Protocol
+# Solicitare Protocol Nou sau Modificare
 
-Use this form to propose a new protocol. Alternatively, request protocol changes using the button on each protocol page. Your request will be sent to the protocol lead for review.
+Folosește acest formular pentru a propune un protocol nou. Alternativ, poți solicita modificări ale unui protocol existent folosind butonul din pagina fiecărui protocol. Solicitarea ta va fi trimisă responsabilului de protocoale pentru revizuire.
 
 <div id="rc-app">
-  <p>Loading…</p>
+  <p>Se încarcă…</p>
 </div>

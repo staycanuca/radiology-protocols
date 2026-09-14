@@ -1,160 +1,195 @@
 ---
-title: CT Facial Bones
-slug: ct-facial-bones
+author: null
 category: neuro
-protocol_type: non-contrast
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Facial trauma
-- Orbital fractures
-- Zygoma fractures
-- Nasal fractures
-- Mandible fractures
-position: Supine head-first
-npo: N/A
-premedication: ''
+- Traumatism maxilo-facial / agresiune fizică
+- Fracturi ale orbitelor (blow-out) și arcurilor zigomatice
+- Fracturi de piramidă nazală și sept nazal
+- Fracturi de mandibulă și ale complexului nazo-orbito-etmoidal (NOE)
 contrast:
-  agent: N/A
+  agent: Fără substanță de contrast
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: Facial Bones
-  start: Frontal sinus
-  end: Mandible
-  delay: N/A
-  thickness: 0.625 mm
-  notes: Submillimeter for 3D
-recons:
-- plane: Axial
-  acquisition: Face
-  fov: Face
-  thickness_increment: 1.25 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone windows
-- plane: Coronal
-  acquisition: Face
-  fov: Face
-  thickness_increment: 1.25 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal face
-- plane: Sagittal
-  acquisition: Face
-  fov: Midface
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal midline
-- plane: 3D
-  acquisition: Face
-  fov: Facial bones
-  thickness_increment: 0.625 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D surface rendering
+last_updated: '2026-01-01'
 notes:
-  tech: Frontal sinus to mandible. Submillimeter for 3D. Axial acquisition with multiplanar
-    reformats. Remove dentures
-  nursing: Remove all facial metal. Dentures out
-  rad: Le Fort classification. Orbital floor. Zygoma. Nasal bones. Mandible. NOE complex.
-    3D for surgical planning
-  tips: Remove dentures and facial metal
-  additional_recons: 3D surface rendering. Document Le Fort if present. Orbital floor
-    assessment
+  additional_recons: Randare tridimensională 3D VR a scheletului facial. Documentarea
+    detaliată a fracturilor cominutive pentru chirurgul BMF.
+  nursing: Îndepărtați cerceii, piercingurile faciale și protezele dentare mobile.
+  rad: Clasificare Le Fort (I, II, III). Fracturi ale planșeului și peretelui medial
+    orbitar (hernierea grăsimii/mușchiului drept inferior). Complexul zigomatico-maxilar
+    (ZMC) și nazo-orbito-etmoidal (NOE). Fracturi mandibulare (condil, unghi, corp,
+    simfiză).
+  tech: De la nivelul sinusurilor frontale până sub marginea inferioară a mandibulei.
+    Achiziție elicoidală submilimetrică esențială pentru randare 3D. Îndepărtați protezele
+    dentare.
+  tips: Îndepărtați toate obiectele metalice faciale pentru a elimina artefactele
+    de dungă.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu capul imobilizat în suportul dedicat
+premedication: ''
+protocol_type: non-contrast
+recons:
+- acquisition: CT Masiv Facial
+  fov: Față
+  kernel: Bone
+  notes: Fereastră osoasă de înaltă rezoluție
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Masiv Facial
+  fov: Față
+  kernel: Bone
+  notes: Plan coronal pentru orbite și sinusuri
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Masiv Facial
+  fov: Față
+  kernel: Bone
+  notes: Plan mediosagital pentru oasele proprii nazale
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Masiv Facial
+  fov: Față
+  kernel: Bone
+  notes: Randare tridimensională 3D de suprafață a masivului facial
+  plane: 3D
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Mandibulă
+  name: CT Masiv Facial
+  notes: Submilimetric pentru randare 3D a feței
+  start: Sinusuri frontale
+  thickness: 0.625 mm
+slug: ct-facial-bones
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Masiv Facial și Schelet Nazal
 ---
 
-# CT Facial Bones
+# CT Masiv Facial și Schelet Nazal
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Facial Bones | Non-contrast | Frontal sinus to Mandible |
+        | CT Masiv Facial | 0 sec | Sinusuri frontale → Mandibulă |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Facial trauma
-        - Orbital fractures
-        - Zygoma fractures
-        - Nasal fractures
-        - Mandible fractures
+        - Traumatism maxilo-facial / agresiune fizică
+        - Fracturi ale orbitelor (blow-out) și arcurilor zigomatice
+        - Fracturi de piramidă nazală și sept nazal
+        - Fracturi de mandibulă și ale complexului nazo-orbito-etmoidal (NOE)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu capul imobilizat în suportul dedicat
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Frontal sinus to mandible. Submillimeter for 3D. Axial acquisition with multiplanar reformats. Remove dentures
-        - Additional Recons: 3D surface rendering. Document Le Fort if present. Orbital floor assessment
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    === "Parametri de Injectare"
 
-        - Remove all facial metal. Dentures out
+        | Parametru | Valoare |
+        |-----------|-------|
+        | Agent | Fără substanță de contrast |
+        | Volum |  |
+        | Rată de Flux |  |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-    === "Radiologist Notes"
+-   __4. Parametri Tehnici Achiziție__
 
-        - Le Fort classification. Orbital floor. Zygoma. Nasal bones. Mandible. NOE complex. 3D for surgical planning
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Tips & Tricks"
+-   __5. Note Speciale__
 
-        - Remove dentures and facial metal
+    ---
+
+    === "Note Tehnician"
+
+        - De la nivelul sinusurilor frontale până sub marginea inferioară a mandibulei. Achiziție elicoidală submilimetrică esențială pentru randare 3D. Îndepărtați protezele dentare.
+
+    === "Note Asistent"
+
+        - Îndepărtați cerceii, piercingurile faciale și protezele dentare mobile.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Clasificare Le Fort (I, II, III). Fracturi ale planșeului și peretelui medial orbitar (hernierea grăsimii/mușchiului drept inferior). Complexul zigomatico-maxilar (ZMC) și nazo-orbito-etmoidal (NOE). Fracturi mandibulare (condil, unghi, corp, simfiză).
+
+    === "Sfaturi & Recomandări"
+
+        - Îndepărtați toate obiectele metalice faciale pentru a elimina artefactele de dungă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Frontal sinus | Mandible | N/A | N/A | Lateral |
-    | Facial Bones | Frontal sinus | Mandible | N/A | 0.625 mm | Submillimeter for 3D |
+    | CT Masiv Facial | Sinusuri frontale | Mandibulă | 0 sec | 0.625 mm | Submilimetric pentru randare 3D a feței |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Face | Face | 1.25 mm/1 mm | Bone | N/A | Axial bone windows |
-    | Coronal | Face | Face | 1.25 mm/1 mm | Bone | N/A | Coronal face |
-    | Sagittal | Face | Midface | 2 mm/1.5 mm | Bone | N/A | Sagittal midline |
-    | 3D | Face | Facial bones | 0.625 mm source | Bone | N/A | 3D surface rendering |
+    | Axial | CT Masiv Facial | Față | 1 mm/1 mm | Bone |  | Fereastră osoasă de înaltă rezoluție |
+    | Coronal | CT Masiv Facial | Față | 1 mm/1 mm | Bone |  | Plan coronal pentru orbite și sinusuri |
+    | Sagital | CT Masiv Facial | Față | 1 mm/1 mm | Bone |  | Plan mediosagital pentru oasele proprii nazale |
+    | 3D | CT Masiv Facial | Față | 0.75 mm/0.75 mm | Bone |  | Randare tridimensională 3D de suprafață a masivului facial |

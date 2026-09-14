@@ -1,174 +1,198 @@
 ---
-title: CTV Abdomen Pelvis
-slug: ctv-abdomen-pelvis
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Deep vein thrombosis
-- May-Thurner syndrome
-- IVC filter placement planning
-- Venous malformation
-position: Supine with arms raised
-npo: NPO 2-4 hours
-premedication: Oral contrast optional
+- Tromboză venoasă profundă ilio-femurală sau cavă inferioară (TVP)
+- Sindrom May-Thurner (compresiunea venei iliace comune stângi de către artera iliacă
+  comună dreaptă)
+- Planificare montare sau extragere filtru de venă cavă inferioară (filtru VCI)
+- Malformații venoase pelvine / sindrom de congestie pelvină
 contrast:
   agent: Isovue 370
-  volume: 2.0 mL/kg
-  flow_rate: 3 mL/s
   duration: 40s
-  timing: Fixed Delay (110s)
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: 1.0-1.375
-series:
-- name: CTV Venous Phase
-  start: Diaphragm
-  end: Proximal femur
-  delay: 180 sec
-  thickness: 0.625 mm
-  notes: Extended delay for venous opacification
-recons:
-- plane: Axial
-  acquisition: Venous
-  fov: Full AP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Assess for filling defects
-- plane: Coronal
-  acquisition: Venous
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: MIP of venous system
-- plane: Sagittal
-  acquisition: Venous
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: IVC and iliac veins
-- plane: 3D VR
-  acquisition: Venous
-  fov: Full AP
-  thickness_increment: 2 mm source
-  kernel: Standard
-  ir_strength: '3'
-  notes: 3D venous anatomy
+  flow_rate: 3 mL/s
+  timing: Timp fix de întârziere (110s)
+  volume: 2.0 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Scan at 180 seconds for venous phase. Slower injection rate OK for venous
-    imaging. Scan from diaphragm to femoral veins
-  nursing: 18-20G IV
-  rad: Assess IVC iliac femoral veins for thrombosis. Look for compression (May-Thurner).
-    Measure vessel caliber for filter sizing
-  tips: Arms raised. May add leg veins if DVT suspected
-  additional_recons: MIP venograms. 3D VR of venous system
+  additional_recons: Flebograme MIP multiplanare. Reconstrucții 3D VR ale arborelui
+    venos ilio-cav.
+  nursing: Linie venoasă 18-20G.
+  rad: Evaluați vena cavă inferioară, venele renale, iliace și femurale pentru defecte
+    de umplere endoluminale (trombi). Căutați compresiunea vasculară extrinsică (May-Thurner).
+    Măsurați diametrul VCI pentru dimensionarea corectă a filtrului cav.
+  tech: Scanare la 110-120 secunde pentru faza venoasă omogenă. Rata mai lentă de
+    injectare (3 mL/s) este adecvată pentru opacifierea venoasă. Scanare de la diafragm
+    până la nivelul venelor femurale.
+  tips: Brațele complet ridicate. Se pot include și venele gambei dacă se suspectează
+    TVP extinsă.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: Oral contrast optional
+protocol_type: vascular
+recons:
+- acquisition: Fază Venoasă CTV
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Evaluarea defectelor de umplere intraluminale
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Venoasă CTV
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: MIP al sistemului venos cavo-iliac
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Venoasă CTV
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: VCI și pensa iliacă (May-Thurner)
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Venoasă CTV
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Randare tridimensională 3D a anatomiei venoase
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 110 sec
+  end: Femur proximal
+  name: Fază Venoasă CTV
+  notes: Timp prelungit de întârziere pentru opacifierea venoasă uniformă
+  start: Diafragm
+  thickness: 0.625 mm
+slug: ctv-abdomen-pelvis
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: 1.0-1.375
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Flebo-CT (CTV) Abdomen și Pelvis (Sistem Venos Ilio-Cav)
 ---
 
-# CTV Abdomen Pelvis
+# Flebo-CT (CTV) Abdomen și Pelvis (Sistem Venos Ilio-Cav)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTV Venous Phase | Contrast (110 sec delay) | Diaphragm to Proximal femur |
+        | Fază Venoasă CTV | 110 sec | Diafragm → Femur proximal |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Deep vein thrombosis
-        - May-Thurner syndrome
-        - IVC filter placement planning
-        - Venous malformation
+        - Tromboză venoasă profundă ilio-femurală sau cavă inferioară (TVP)
+        - Sindrom May-Thurner (compresiunea venei iliace comune stângi de către artera iliacă comună dreaptă)
+        - Planificare montare sau extragere filtru de venă cavă inferioară (filtru VCI)
+        - Malformații venoase pelvine / sindrom de congestie pelvină
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - Oral contrast optional
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 2.0 mL/kg |
-        | Flow Rate | 3 mL/s |
-        | Duration | 40s |
-        | Timing Method | Fixed Delay (110s) |
+        | Volum | 2.0 mL/kg |
+        | Rată de Flux | 3 mL/s |
+        | Durată | 40s |
+        | Metodă Temporizare | Timp fix de întârziere (110s) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan at 180 seconds for venous phase. Slower injection rate OK for venous imaging. Scan from diaphragm to femoral veins
-        - Additional Recons: MIP venograms. 3D VR of venous system
+        - Scanare la 110-120 secunde pentru faza venoasă omogenă. Rata mai lentă de injectare (3 mL/s) este adecvată pentru opacifierea venoasă. Scanare de la diafragm până la nivelul venelor femurale.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV
+        - Linie venoasă 18-20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess IVC iliac femoral veins for thrombosis. Look for compression (May-Thurner). Measure vessel caliber for filter sizing
+        - Evaluați vena cavă inferioară, venele renale, iliace și femurale pentru defecte de umplere endoluminale (trombi). Căutați compresiunea vasculară extrinsică (May-Thurner). Măsurați diametrul VCI pentru dimensionarea corectă a filtrului cav.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms raised. May add leg veins if DVT suspected
+        - Brațele complet ridicate. Se pot include și venele gambei dacă se suspectează TVP extinsă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Diaphragm | Proximal femur | N/A | N/A | AP |
-    | CTV Venous Phase | Diaphragm | Proximal femur | 180 sec | 0.625 mm | Extended delay for venous opacification |
+    | Fază Venoasă CTV | Diafragm | Femur proximal | 110 sec | 0.625 mm | Timp prelungit de întârziere pentru opacifierea venoasă uniformă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Venous | Full AP | 2.5 mm/2.5 mm | Standard | 3 | Assess for filling defects |
-    | Coronal | Venous | Full AP | 3 mm/3 mm | Standard | 3 | MIP of venous system |
-    | Sagittal | Venous | Full AP | 3 mm/3 mm | Standard | 3 | IVC and iliac veins |
-    | 3D VR | Venous | Full AP | 2 mm source | Standard | 3 | 3D venous anatomy |
+    | Axial | Fază Venoasă CTV | Abdomen-Pelvis | 2 mm/2 mm | Standard |  | Evaluarea defectelor de umplere intraluminale |
+    | Coronal | Fază Venoasă CTV | Abdomen-Pelvis | 2 mm/2 mm | Standard |  | MIP al sistemului venos cavo-iliac |
+    | Sagital | Fază Venoasă CTV | Abdomen-Pelvis | 2 mm/2 mm | Standard |  | VCI și pensa iliacă (May-Thurner) |
+    | 3D VR | Fază Venoasă CTV | Abdomen-Pelvis | 1 mm/1 mm | Standard |  | Randare tridimensională 3D a anatomiei venoase |

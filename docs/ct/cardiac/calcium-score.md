@@ -1,148 +1,182 @@
 ---
-title: Calcium Score
-slug: calcium-score
+author: null
 category: cardiac
-protocol_type: non-contrast
-last_updated: '2026-02-02'
-author: 
-synonyms: []
 clinical_indications:
-- Cardiovascular risk assessment
-- Chest pain low-intermediate risk
-- Asymptomatic screening
-- Elevated HLD
-- Significant cardiovascular risk factors
-position: Supine feet-first
-npo: No caffeine day of exam
-premedication: HR control not needed for calcium score
+- Stratificarea riscului cardiovascular la pacienți asimptomatici
+- Durere toracică la pacienți cu probabilitate pre-test scăzută spre intermediară
+- Screening asimptomatic la pacienți cu antecedente heredo-colaterale precoce
+- Hipercolesterolemie / dislipidemie moderat-severă
+- Factori multipli de risc cardiovascular asociați
 contrast:
-  agent: N/A
+  agent: Fără substanță de contrast
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (low dose)
-  rotation_time: 0.28-0.35s
-  pitch: 1.0-1.2
-series:
-- name: Calcium Score
-  start: Carina
-  end: Below heart
-  delay: N/A
-  thickness: 1.5 mm
-  notes: Sequential axial gated acquisition
-recons:
-- plane: Axial
-  acquisition: Calcium score
-  fov: Heart
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: For Agatston score calculation
-- plane: Axial
-  acquisition: Calcium score
-  fov: Chest
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Lung FOV for Extracardiac findings
+last_updated: '2026-02-02'
 notes:
-  tech: 'Prospective ECG gating. | Suspended Respiration breathing instructions. |
-    For single source CT: Target End Diastole if HR < 63BPM, else target End diastole
-    and end systole. For dual source CT: Target End diastole if HR <79, else target
-    end systole. Ensure ECG leads well connected, Goal: <= 60 BPM, regular (+/- 5).'
-  nursing: No IV needed.
-  rad: Check breathing motion on lung FOV. Calculate Agatston score. Report percentile
-    for age/sex. Document coronary calcification distribution
-  tips: Good ECG tracing essential. Patient breath hold coaching
-  additional_recons: Agatston score calculation. Percentile reporting
+  additional_recons: Calcul scor Agatston, volum de calciu și distribuție pe percentile.
+  nursing: Nu este necesară linie venoasă.
+  rad: Verificați eventualele artefacte de mișcare pe câmpul pulmonar extins. Calcularea
+    scorului Agatston total și pe fiecare trunchi coronarian. Raportați percentila
+    conform vârstei și sexului. Menționați descoperirile extracardiace.
+  tech: 'Sincronizare ECG prospectivă. Instrucțiuni de apnee inspiratorie fără Valsalva.
+    Pentru echipamente single-source: scanare în telediastolă dacă FC < 63 bpm, altfel
+    telediastolă și telesistolă. Pentru dual-source: telediastolă dacă FC < 79 bpm.
+    Asigurați contact optim al electrozilor ECG. Țintă: FC <= 60 bpm, ritm regulat.'
+  tips: Traseu ECG stabil fără paraziți. Antrenamentul apneei pacientului înainte
+    de scanare este esențial.
+npo: Fără repaus alimentar strict; fără cafea/fumat cu 4 ore înainte
+position: Decubit dorsal cu picioarele înainte
+premedication: Fără premedicație de rutină
+protocol_type: non-contrast
+recons:
+- acquisition: Scor de Calciu
+  fov: Cord
+  kernel: Standard
+  notes: Pentru calcularea scorului Agatston
+  plane: Axial
+  thickness_increment: 3 mm/3 mm
+- acquisition: Scor de Calciu
+  fov: Torace
+  kernel: Lung
+  notes: Câmp pulmonar pentru decelarea anomaliilor extracardiace
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică (fără contrast)
+series:
+- delay: 0 sec
+  end: Sub vârful cordului
+  name: Scor de Calciu
+  notes: Achiziție secvențială axială sincronizată ECG prospectiv
+  start: Carenă
+  thickness: 3 mm
+slug: calcium-score
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '120'
+  mas: Auto (doză redusă)
+  pitch: 1.0-1.2
+  rotation_time: 0.28-0.35s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 3 mm
+title: CT Scor de Calciu Coronarian (Scor Agatston)
 ---
 
-# Calcium Score
+# CT Scor de Calciu Coronarian (Scor Agatston)
 
-**Last Updated:** 2026-02-02  
-**Author:** 
+**Ultima actualizare:** 2026-02-02
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Calcium Score | Non-contrast | Carina to Below heart |
+        | Scor de Calciu | 0 sec | Carenă → Sub vârful cordului |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Cardiovascular risk assessment
-        - Chest pain low-intermediate risk
-        - Asymptomatic screening
-        - Elevated HLD
-        - Significant cardiovascular risk factors
+        - Stratificarea riscului cardiovascular la pacienți asimptomatici
+        - Durere toracică la pacienți cu probabilitate pre-test scăzută spre intermediară
+        - Screening asimptomatic la pacienți cu antecedente heredo-colaterale precoce
+        - Hipercolesterolemie / dislipidemie moderat-severă
+        - Factori multipli de risc cardiovascular asociați
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** No caffeine day of exam
-    - **Pre-Medication:**
-        - HR control not needed for calcium score
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar strict; fără cafea/fumat cu 4 ore înainte
+    - **Premedicație / Pregătire:**
+        - Fără premedicație de rutină
 
-        - Prospective ECG gating.
-        - Suspended Respiration breathing instructions.
-        - For single source CT: Target End Diastole if HR < 63BPM, else target End diastole and end systole. For dual source CT: Target End diastole if HR <79, else target end systole. Ensure ECG leads well connected, Goal: <= 60 BPM, regular (+/- 5).
-        - Additional Recons: Agatston score calculation. Percentile reporting
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    === "Parametri de Injectare"
 
-        - No IV needed.
+        | Parametru | Valoare |
+        |-----------|-------|
+        | Agent | Fără substanță de contrast |
+        | Volum |  |
+        | Rată de Flux |  |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-    === "Radiologist Notes"
+-   __4. Parametri Tehnici Achiziție__
 
-        - Check breathing motion on lung FOV. Calculate Agatston score. Report percentile for age/sex. Document coronary calcification distribution
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (doză redusă) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 3 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28-0.35 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
 
-    === "Tips & Tricks"
+-   __5. Note Speciale__
 
-        - Good ECG tracing essential. Patient breath hold coaching
+    ---
+
+    === "Note Tehnician"
+
+        - Sincronizare ECG prospectivă. Instrucțiuni de apnee inspiratorie fără Valsalva. Pentru echipamente single-source: scanare în telediastolă dacă FC < 63 bpm, altfel telediastolă și telesistolă. Pentru dual-source: telediastolă dacă FC < 79 bpm. Asigurați contact optim al electrozilor ECG. Țintă: FC <= 60 bpm, ritm regulat.
+
+    === "Note Asistent"
+
+        - Nu este necesară linie venoasă.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică (fără contrast)
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Verificați eventualele artefacte de mișcare pe câmpul pulmonar extins. Calcularea scorului Agatston total și pe fiecare trunchi coronarian. Raportați percentila conform vârstei și sexului. Menționați descoperirile extracardiace.
+
+    === "Sfaturi & Recomandări"
+
+        - Traseu ECG stabil fără paraziți. Antrenamentul apneei pacientului înainte de scanare este esențial.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top of chest | Diaphragm | N/A | N/A | AP and lateral |
-    | Calcium Score | Carina | Below heart | N/A | 1.5 mm | Sequential axial gated acquisition |
+    | Scor de Calciu | Carenă | Sub vârful cordului | 0 sec | 3 mm | Achiziție secvențială axială sincronizată ECG prospectiv |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Calcium score | Heart | 3 mm/3 mm | Standard | 3 | For Agatston score calculation |
-    | Axial | Calcium score | Chest | 1.5 mm/1.5 mm | Lung | 3 | Lung FOV for Extracardiac findings |
+    | Axial | Scor de Calciu | Cord | 3 mm/3 mm | Standard |  | Pentru calcularea scorului Agatston |
+    | Axial | Scor de Calciu | Torace | 1.5 mm/1.5 mm | Lung |  | Câmp pulmonar pentru decelarea anomaliilor extracardiace |

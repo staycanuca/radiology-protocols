@@ -1,171 +1,195 @@
 ---
-title: CT Ankle
-slug: ct-ankle
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Ankle fracture
-- Ligament injury
-- Pilon fracture
-- Pre-operative planning
-- Hardware assessment
-position: Supine feet first
-npo: N/A
-premedication: ''
+- Fracturi de gleznă (maleolă internă, externă, posterioară)
+- Fractură de pilon tibial
+- Leziuni ale sindesmozei tibio-fibulare și ligamentare
+- Planificare chirurgicală pre-operatorie / evaluare osteosinteză
 contrast:
-  agent: None typically. Contrast if infection/mass
-  volume: 'If contrast: 75 mL'
+  agent: Nativ de regulă. Substanță de contrast doar în suspiciune de infecție/tumoră
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Ankle
-  start: Distal tib/fib
-  end: Hindfoot
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Ankle
-  fov: Ankle
-  thickness_increment: 1 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Bone algorithm
-- plane: Coronal
-  acquisition: Ankle
-  fov: Ankle
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal ankle
-- plane: Sagittal
-  acquisition: Ankle
-  fov: Ankle
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal ankle
-- plane: 3D surface
-  acquisition: Ankle
-  fov: Bones
-  thickness_increment: 0.625 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D for complex fractures
+  volume: 'Dacă se administrează contrast: 75 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Include distal tibia/fibula through hindfoot. Submillimeter for 3D. Bilateral
-    scout for positioning. May scan bilateral for comparison
-  nursing: No IV unless contrast needed
-  rad: Malleolar fractures. Tibial plafond. Talus. Calcaneus. Syndesmosis. Ligaments
-    on contrast
-  tips: Bilateral scout for symmetry. Submillimeter for 3D
-  additional_recons: 3D reconstruction for surgical planning. Document fracture fragments
+  additional_recons: Randare tridimensională 3D VR a gleznei pentru planificarea osteosintezei
+    chirurgicale. Maparea fragmentelor cominutive.
+  nursing: Fără linie venoasă decât dacă este indicată substanță de contrast.
+  rad: Fracturi maleolare (clasificare Weber). Pilon tibial. Fracturi de talus și
+    calcaneu. Lărgirea spațiului sindesmozei tibio-fibulare. Fragmente osteocondrale
+    intraarticulare.
+  tech: Câmp de scanare de la nivelul tibiei/fibulei distale până la nivelul retropiciorului
+    (inclusiv calcaneu). Achiziție submilimetrică dedicată pentru reconstrucții 3D.
+    Scout bilateral pentru simetrie.
+  tips: Scout bilateral pentru aprecierea rotației. Secțiuni fine submilimetrice obligatorii.
+npo: Nu este necesar repaus alimentar (dacă nu se administrează contrast)
+position: Decubit dorsal cu picioarele înainte; glezna în poziție neutră la 90 de
+  grade
+premedication: ''
+protocol_type: musculoskeletal
+recons:
+- acquisition: CT Gleznă
+  fov: Gleznă
+  kernel: Bone
+  notes: Filtru osos de înaltă rezoluție
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Gleznă
+  fov: Gleznă
+  kernel: Bone
+  notes: Plan coronal articulat pe pensa tibiotalară
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Gleznă
+  fov: Gleznă
+  kernel: Bone
+  notes: Plan sagital pentru pilonul tibial și articulația subtalară
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Gleznă
+  fov: Gleznă
+  kernel: Bone
+  notes: Randare 3D de suprafață pentru fracturi complexe
+  plane: 3D surface
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică pentru scanarea nativă
+  renal: Nu se aplică pentru scanarea nativă
+series:
+- delay: 0 sec
+  end: Retropicior (calcaneu)
+  name: CT Gleznă
+  notes: Achiziție elicoidală submilimetrică
+  start: Tibia/fibula distală
+  thickness: 0.625 mm
+slug: ct-ankle
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Gleznă
 ---
 
-# CT Ankle
+# CT Gleznă
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Ankle | Contrast (N/A or 60s if contrast delay) | Distal tib/fib to Hindfoot |
+        | CT Gleznă | 0 sec | Tibia/fibula distală → Retropicior (calcaneu) |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Ankle fracture
-        - Ligament injury
-        - Pilon fracture
-        - Pre-operative planning
-        - Hardware assessment
+        - Fracturi de gleznă (maleolă internă, externă, posterioară)
+        - Fractură de pilon tibial
+        - Leziuni ale sindesmozei tibio-fibulare și ligamentare
+        - Planificare chirurgicală pre-operatorie / evaluare osteosinteză
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine feet first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu picioarele înainte; glezna în poziție neutră la 90 de grade
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar (dacă nu se administrează contrast)
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/mass |
-        | Volume | If contrast: 75 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Substanță de contrast doar în suspiciune de infecție/tumoră |
+        | Volum | Dacă se administrează contrast: 75 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Include distal tibia/fibula through hindfoot. Submillimeter for 3D. Bilateral scout for positioning. May scan bilateral for comparison
-        - Additional Recons: 3D reconstruction for surgical planning. Document fracture fragments
+        - Câmp de scanare de la nivelul tibiei/fibulei distale până la nivelul retropiciorului (inclusiv calcaneu). Achiziție submilimetrică dedicată pentru reconstrucții 3D. Scout bilateral pentru simetrie.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed
+        - Fără linie venoasă decât dacă este indicată substanță de contrast.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică pentru scanarea nativă
+            - **Alergii:** Nu se aplică pentru scanarea nativă
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Malleolar fractures. Tibial plafond. Talus. Calcaneus. Syndesmosis. Ligaments on contrast
+        - Fracturi maleolare (clasificare Weber). Pilon tibial. Fracturi de talus și calcaneu. Lărgirea spațiului sindesmozei tibio-fibulare. Fragmente osteocondrale intraarticulare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Bilateral scout for symmetry. Submillimeter for 3D
+        - Scout bilateral pentru aprecierea rotației. Secțiuni fine submilimetrice obligatorii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout Bilateral | Bilateral ankles | Feet | N/A | N/A | AP for positioning |
-    | CT Ankle | Distal tib/fib | Hindfoot | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Gleznă | Tibia/fibula distală | Retropicior (calcaneu) | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Ankle | Ankle | 1 mm/1 mm | Bone | N/A | Bone algorithm |
-    | Coronal | Ankle | Ankle | 1.5 mm/1 mm | Bone | N/A | Coronal ankle |
-    | Sagittal | Ankle | Ankle | 1.5 mm/1 mm | Bone | N/A | Sagittal ankle |
-    | 3D surface | Ankle | Bones | 0.625 mm source | Bone | N/A | 3D for complex fractures |
+    | Axial | CT Gleznă | Gleznă | 1 mm/1 mm | Bone |  | Filtru osos de înaltă rezoluție |
+    | Coronal | CT Gleznă | Gleznă | 1 mm/1 mm | Bone |  | Plan coronal articulat pe pensa tibiotalară |
+    | Sagital | CT Gleznă | Gleznă | 1 mm/1 mm | Bone |  | Plan sagital pentru pilonul tibial și articulația subtalară |
+    | 3D surface | CT Gleznă | Gleznă | 0.75 mm/0.75 mm | Bone |  | Randare 3D de suprafață pentru fracturi complexe |

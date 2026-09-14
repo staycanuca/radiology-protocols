@@ -1,171 +1,200 @@
 ---
-title: CT Lumbar Spine
-slug: ct-lumbar-spine
+author: null
 category: neuro
-protocol_type: spine
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Lumbar spine trauma
-- Degenerative disease
-- Back pain
-- Radiculopathy
-- Sciatica
-position: Supine
-npo: N/A
-premedication: ''
+- Traumatism de coloană vertebrală lombară
+- Boală degenerativă discală / hernie de disc lombară
+- Lombosciatică / radiculopatie L4, L5, S1
+- Stenoză de canal vertebral lombar sau foramen
+- Spondiloliză și spondilolistezis
 contrast:
-  agent: None typically. Contrast if infection/tumor/post-op
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Substanță de contrast dacă este bilanț post-operator (recidivă
+    vs. fibroză) sau suspiciune de spondilodiscită
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: L-spine Helical
-  start: T12
-  end: Sacrum
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: L-spine
-  fov: L-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Bone and soft tissue
-- plane: Sagittal
-  acquisition: L-spine
-  fov: L-spine
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Midline and parasagittal
-- plane: Coronal
-  acquisition: L-spine
-  fov: L-spine
-  thickness_increment: 2.5 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Coronal overview
-- plane: Oblique sagittal
-  acquisition: L-spine
-  fov: Neural foramina
-  thickness_increment: 2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Foraminal assessment
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: T12 to sacrum. Submillimeter helical. Sagittal and coronal reformats. Oblique
-    for foramina
-  nursing: No IV unless contrast needed
-  rad: Alignment. Fractures. Disc spaces. Spinal canal stenosis. Neural foramina.
-    Facet joints. Spondylolisthesis
-  tips: Bone algorithm. Sagittal and coronal reconstructions
-  additional_recons: Oblique sagittal for foramina. Measure spinal canal. Grade stenosis
+  additional_recons: Reformatări oblice sagitale pe găurile de conjugare. Măsurători
+    de calibru ale canalului rahidian. Gradarea stenozei.
+  nursing: Fără linie venoasă decât dacă este necesar contrast.
+  rad: Aliniament (spondilolistezis, unghi Meyerding). Fracturi cominutive sau tasări
+    vertebrale. Hernii discale (protruzie, extruzie, migrare). Calibrul canalului
+    rahidian și recesurilor laterale. Hipertrofia fațetelor articulare și a ligamentelor
+    galbene.
+  tech: De la nivelul T12 până la sacru. Achiziție elicoidală submilimetrică. Reformatări
+    sagitale și coronale fine. Reconstrucții oblice paralele cu spațiile intervertebrale
+    L3-L4, L4-L5, L5-S1.
+  tips: Flectarea ușoară a genunchilor ameliorează confortul pacientului și reduce
+    lordoza lombară accentuată.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu genunchii ușor flectați pe un suport pentru atenuarea
+  lordozei
+premedication: ''
+protocol_type: spine
+recons:
+- acquisition: CT Coloană Lombară Elicoidal
+  fov: Coloană lombară
+  kernel: Bone
+  notes: Fereastră osoasă și de părți moi
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Lombară Elicoidal
+  fov: Coloană lombară
+  kernel: Bone
+  notes: Plan mediosagital și parasagital pe recesuri
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Lombară Elicoidal
+  fov: Coloană lombară
+  kernel: Bone
+  notes: Plan coronal de ansamblu
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Lombară Elicoidal
+  fov: Coloană lombară
+  kernel: Bone
+  notes: Plan oblic orientat pe găurile de conjugare L4-L5 și L5-S1
+  plane: Oblique sagittal
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A or verify eGFR
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Sacru
+  name: CT Coloană Lombară Elicoidal
+  notes: Achiziție elicoidală submilimetrică
+  start: T12
+  thickness: 0.625 mm
+slug: ct-lumbar-spine
+synonyms: []
+tech_params:
+  aec: Activat (Modulare 3D adaptată coloanei vertebrale)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Coloană Lombară
 ---
 
-# CT Lumbar Spine
+# CT Coloană Lombară
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | L-spine Helical | Contrast (N/A or 60s if contrast delay) | T12 to Sacrum |
+        | CT Coloană Lombară Elicoidal | 0 sec | T12 → Sacru |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Lumbar spine trauma
-        - Degenerative disease
-        - Back pain
-        - Radiculopathy
-        - Sciatica
+        - Traumatism de coloană vertebrală lombară
+        - Boală degenerativă discală / hernie de disc lombară
+        - Lombosciatică / radiculopatie L4, L5, S1
+        - Stenoză de canal vertebral lombar sau foramen
+        - Spondiloliză și spondilolistezis
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu genunchii ușor flectați pe un suport pentru atenuarea lordozei
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/tumor/post-op |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 3 mL/s |
+        | Agent | Nativ de regulă. Substanță de contrast dacă este bilanț post-operator (recidivă vs. fibroză) sau suspiciune de spondilodiscită |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare 3D adaptată coloanei vertebrale) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - T12 to sacrum. Submillimeter helical. Sagittal and coronal reformats. Oblique for foramina
-        - Additional Recons: Oblique sagittal for foramina. Measure spinal canal. Grade stenosis
+        - De la nivelul T12 până la sacru. Achiziție elicoidală submilimetrică. Reformatări sagitale și coronale fine. Reconstrucții oblice paralele cu spațiile intervertebrale L3-L4, L4-L5, L5-S1.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed
+        - Fără linie venoasă decât dacă este necesar contrast.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Alignment. Fractures. Disc spaces. Spinal canal stenosis. Neural foramina. Facet joints. Spondylolisthesis
+        - Aliniament (spondilolistezis, unghi Meyerding). Fracturi cominutive sau tasări vertebrale. Hernii discale (protruzie, extruzie, migrare). Calibrul canalului rahidian și recesurilor laterale. Hipertrofia fațetelor articulare și a ligamentelor galbene.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Bone algorithm. Sagittal and coronal reconstructions
+        - Flectarea ușoară a genunchilor ameliorează confortul pacientului și reduce lordoza lombară accentuată.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | T12 | Sacrum | N/A | N/A | AP and lateral |
-    | L-spine Helical | T12 | Sacrum | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Coloană Lombară Elicoidal | T12 | Sacru | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | L-spine | L-spine | 2 mm/2 mm | Bone | 3 | Bone and soft tissue |
-    | Sagittal | L-spine | L-spine | 2 mm/1.5 mm | Bone | 3 | Midline and parasagittal |
-    | Coronal | L-spine | L-spine | 2.5 mm/2 mm | Bone | 3 | Coronal overview |
-    | Oblique sagittal | L-spine | Neural foramina | 2 mm | Bone | 3 | Foraminal assessment |
+    | Axial | CT Coloană Lombară Elicoidal | Coloană lombară | 1.5 mm/1.5 mm | Bone |  | Fereastră osoasă și de părți moi |
+    | Sagital | CT Coloană Lombară Elicoidal | Coloană lombară | 1.5 mm/1.5 mm | Bone |  | Plan mediosagital și parasagital pe recesuri |
+    | Coronal | CT Coloană Lombară Elicoidal | Coloană lombară | 1.5 mm/1.5 mm | Bone |  | Plan coronal de ansamblu |
+    | Oblique sagittal | CT Coloană Lombară Elicoidal | Coloană lombară | 1.5 mm/1.5 mm | Bone |  | Plan oblic orientat pe găurile de conjugare L4-L5 și L5-S1 |

@@ -1,185 +1,209 @@
 ---
-title: CT Enterography
-slug: ct-enterography
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Crohn disease
-- Small bowel obstruction
-- Obscure GI bleeding
-- Small bowel mass
-position: Supine with arms raised
-npo: NPO 4 hours solids
-premedication: 'Neutral oral contrast (VoLumen): 1st bottle (450mL) at 90 min. 2nd
-  bottle (450mL) at 60 min. Half bottle (225mL) at 30 min. Other half (225mL) at 5
-  min before scan'
+- Boala Crohn (activitate, stenoze, traiecte fistuloase)
+- Ocluzie / subocluzie de intestin subțire de cauză neclară
+- Hemoragie digestivă obscură
+- Formațiuni tumorale ale intestinului subțire (tumori carcinoide, GIST, limfoame)
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 25s
-  timing: Empiric Delay (45s)
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: 1.0-1.375
-series:
-- name: Enteric Phase
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 45 sec
-  thickness: 0.625 mm
-  notes: Optimal small bowel enhancement
-- name: Renal Delay
-  start: 1-2cm above kidneys
-  end: 1-2cm below kidneys
-  delay: 300 sec
-  thickness: 0.625 mm
-  notes: Renal Delay series
-recons:
-- plane: Axial
-  acquisition: Enteric
-  fov: Full AP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Primary diagnostic
-- plane: Coronal
-  acquisition: Enteric
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Bowel loop assessment
-- plane: Sagittal
-  acquisition: Enteric
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Mesenteric evaluation
-- plane: MIP
-  acquisition: Enteric
-  fov: Mesenteric vessels
-  thickness_increment: 5 mm slab
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Vascular assessment
+  flow_rate: 4-5 mL/s
+  timing: Timp empiric de întârziere (45s)
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Enterographic phase (45 sec). High volume neutral oral for bowel distension.
-    25 second injection. Scan 45 sec from start
-  nursing: 18-20G IV. Ensure adequate oral contrast intake (total ~1350mL). May need
-    anti-peristaltic agent
-  rad: Assess bowel wall enhancement and thickness. Look for strictures fistulas abscesses.
-    Mesenteric vascularity
-  tips: Adequate oral contrast distension critical. High injection rate
-  additional_recons: Curved MPR of bowel segments. Mesenteric vascular assessment
+  additional_recons: Reconstrucții MPR curbate de-a lungul segmentelor afectate. Evaluare
+    vasculară mezenterică.
+  nursing: Abord venos 18-20G. Asigurați consumul conform protocolului orar al volumului
+    de contrast neutru (~1350 mL în total). Se poate administra spasmolitic/antiperistaltic
+    (ex. Buscopan/Glucagon).
+  rad: Evaluați priza de contrast a peretelui intestinal și grosimea acestuia. Căutați
+    stenoze, traiecte fistuloase, abcese și hipervascularizație mezenterică (semnul
+    pieptenelui).
+  tech: Fază enterică (45 sec). Volum mare de contrast oral neutru pentru distensia
+    anselor. Injectare rapidă în 25 secunde. Scanare la 45 secunde de la debut.
+  tips: Distensia optimă a anselor prin contrast oral este critică. Rata de injectare
+    a contrastului IV trebuie să fie ridicată.
+npo: Repaus alimentar 4 ore pentru alimente solide
+position: Decubit dorsal cu brațele ridicate
+premedication: 'Contrast oral neutru (VoLumen sau soluție de manitol/apă): primul
+  flacon (450 mL) la 90 min; al doilea (450 mL) la 60 min; jumătate flacon (225 mL)
+  la 30 min; restul de 225 mL cu 5 min înainte de scanare'
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Enterică
+  fov: Abdomen
+  kernel: Standard
+  notes: Serie diagnostică primară pentru anse
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Enterică
+  fov: Abdomen
+  kernel: Standard
+  notes: Evaluarea dispoziției anselor intestinale
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Enterică
+  fov: Abdomen
+  kernel: Standard
+  notes: Evaluare mezenterică și pelvină
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Enterică
+  fov: Abdomen
+  kernel: Vascular
+  notes: Evaluarea vascularizației mezenterice
+  plane: MIP
+  thickness_increment: 5 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Coordinate oral contrast timing
+  allergy: Verificați istoricul alergic. Sincronizați cu atenție orarul administrării
+    contrastului oral.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 45 sec
+  end: Simfiză pubiană
+  name: Fază Enterică
+  notes: Fază enterică optimă pentru peretele intestinal
+  start: Cupola hepatică
+  thickness: 0.625 mm
+- delay: 70-90 sec
+  end: Simfiză pubiană
+  name: Tardiv Renal
+  notes: Fază tardivă / venoasă complementară
+  start: Diafragm
+  thickness: 0.625 mm
+slug: ct-enterography
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: 1.0-1.375
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Entero-CT (Enterografie CT cu Contrast Neutru)
 ---
 
-# CT Enterography
+# Entero-CT (Enterografie CT cu Contrast Neutru)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Delayed Arterial | Contrast (45 sec delay) | Diaphragm to Pubic symphysis |
-        | Renal Delay | 300 sec | 1-2cm above and below kidneys |
+        | Fază Enterică | 45 sec | Cupola hepatică → Simfiză pubiană |
+        | Tardiv Renal | 70-90 sec | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Crohn disease
-        - Small bowel obstruction
-        - Obscure GI bleeding
-        - Small bowel mass
+        - Boala Crohn (activitate, stenoze, traiecte fistuloase)
+        - Ocluzie / subocluzie de intestin subțire de cauză neclară
+        - Hemoragie digestivă obscură
+        - Formațiuni tumorale ale intestinului subțire (tumori carcinoide, GIST, limfoame)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours solids
-    - **Pre-Medication:**
-        - Neutral oral contrast (VoLumen): 1st bottle (450mL) at 90 min. 2nd bottle (450mL) at 60 min. Half bottle (225mL) at 30 min. Other half (225mL) at 5 min before scan
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore pentru alimente solide
+    - **Premedicație / Pregătire:**
+        - Contrast oral neutru (VoLumen sau soluție de manitol/apă): primul flacon (450 mL) la 90 min; al doilea (450 mL) la 60 min; jumătate flacon (225 mL) la 30 min; restul de 225 mL cu 5 min înainte de scanare
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 25s |
-        | Timing Method | Empiric Delay (45s) |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 25s |
+        | Metodă Temporizare | Timp empiric de întârziere (45s) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Enterographic phase (45 sec). High volume neutral oral for bowel distension. 25 second injection. Scan 45 sec from start
-        - Additional Recons: Curved MPR of bowel segments. Mesenteric vascular assessment
+        - Fază enterică (45 sec). Volum mare de contrast oral neutru pentru distensia anselor. Injectare rapidă în 25 secunde. Scanare la 45 secunde de la debut.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. Ensure adequate oral contrast intake (total ~1350mL). May need anti-peristaltic agent
+        - Abord venos 18-20G. Asigurați consumul conform protocolului orar al volumului de contrast neutru (~1350 mL în total). Se poate administra spasmolitic/antiperistaltic (ex. Buscopan/Glucagon).
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Coordinate oral contrast timing
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic. Sincronizați cu atenție orarul administrării contrastului oral.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess bowel wall enhancement and thickness. Look for strictures fistulas abscesses. Mesenteric vascularity
+        - Evaluați priza de contrast a peretelui intestinal și grosimea acestuia. Căutați stenoze, traiecte fistuloase, abcese și hipervascularizație mezenterică (semnul pieptenelui).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Adequate oral contrast distension critical. High injection rate
+        - Distensia optimă a anselor prin contrast oral este critică. Rata de injectare a contrastului IV trebuie să fie ridicată.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Pubic symphysis | N/A | N/A | AP |
-    | Enteric Phase | Diaphragm | Pubic symphysis | 45 sec | 0.625 mm | Optimal small bowel enhancement |
-    | Renal Delay | 1-2cm above kidneys | 1-2cm below kidneys | 300 sec | 0.625 mm | Renal Delay series |
+    | Fază Enterică | Cupola hepatică | Simfiză pubiană | 45 sec | 0.625 mm | Fază enterică optimă pentru peretele intestinal |
+    | Tardiv Renal | Diafragm | Simfiză pubiană | 70-90 sec | 0.625 mm | Fază tardivă / venoasă complementară |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Enteric | Full AP | 2.5 mm/2.5 mm | Standard | 3 | Primary diagnostic |
-    | Coronal | Enteric | Full AP | 3 mm/3 mm | Standard | 3 | Bowel loop assessment |
-    | Sagittal | Enteric | Full AP | 3 mm/3 mm | Standard | 3 | Mesenteric evaluation |
-    | MIP | Enteric | Mesenteric vessels | 5 mm slab | Vascular | 3 | Vascular assessment |
+    | Axial | Fază Enterică | Abdomen | 2 mm/2 mm | Standard |  | Serie diagnostică primară pentru anse |
+    | Coronal | Fază Enterică | Abdomen | 2 mm/2 mm | Standard |  | Evaluarea dispoziției anselor intestinale |
+    | Sagital | Fază Enterică | Abdomen | 2 mm/2 mm | Standard |  | Evaluare mezenterică și pelvină |
+    | MIP | Fază Enterică | Abdomen | 5 mm/2 mm | Vascular |  | Evaluarea vascularizației mezenterice |

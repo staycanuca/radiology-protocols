@@ -1,201 +1,220 @@
 ---
-title: Gated CTA TMVR
-slug: gated-cta-tmvr
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-TMVR planning
-- Mitral valve replacement planning
-- Mitral regurgitation
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: HR < 65 target. Premedication not required.
+- Planificare pre-procedurală TMVR (implantare mitrală transcateter sau valve-in-valve)
+- Insuficiență mitrală severă sau disfuncție de proteză mitrală
+- Evaluarea riscului de obstrucție a tractului de ejecție ventricular stâng (LVOT)
 contrast:
-  agent: IsoVue 370
-  volume: 1.1 mL/kg
-  flow_rate: 5 mL/s
+  agent: Isovue 370
   duration: 15s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
-tech_params:
-  kv: '100'
-  mas: NO ECG MODULATION chest / Auto AP
-  rotation_time: 0.28 / 0.5s
-  pitch: 0.2-0.24 / 1.2-1.5
-series:
-- name: Calcium Score
-  start: Carina
-  end: Base of heart
-  delay: N/A
-  thickness: 2.5 mm
-  notes: Calcium scoring
-- name: Gated CTA Chest
-  start: Carina
-  end: Base of heart
-  delay: Bolus tracked
-  thickness: 0.5 mm
-  notes: NO DOSE PULSING - retrospective all phases
-- name: Delayed CAP
-  start: Diaphragm
-  end: Femoral heads
-  delay: 80 sec
-  thickness: 0.625 mm
-  notes: Access planning and coronaries
-recons:
-- plane: Axial
-  acquisition: Calcium Score
-  fov: Apex of heart to Base of heart
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Calcium scoring
-- plane: Axial
-  acquisition: Gated chest
-  fov: Heart
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Mitral valve measurements
-- plane: Axial
-  acquisition: Delayed CAP
-  fov: AP
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Access vessels
-- plane: Double oblique
-  acquisition: Gated chest
-  fov: Mitral valve
-  thickness_increment: 0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: En face mitral annulus
-- plane: 3D VR
-  acquisition: Delayed CAP
-  fov: Iliofemoral
-  thickness_increment: 1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Access planning
+  volume: 1.1 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Gated CHEST with NO DOSE PULSING (full dose all phases) + delayed 80 sec CAP.
-    TMVR post-processing required
-  nursing: 20G IV
-  rad: Measure mitral annulus. LA size. LVOT assessment. Coronary proximity. Access
-    vessels. TMVR-specific measurements
-  tips: NO dose modulation for gated chest. Full radiation all phases for valve assessment
-  additional_recons: 'TMVR measurements: annulus dimensions. LVOT area. Coronary heights.
-    LA volume. Access vessels'
+  additional_recons: 'Măsurători specifice TMVR: geometrie inel mitral, arie neo-LVOT,
+    înălțimea ostiilor coronare, volumul AS, evaluarea căilor de abord transseptal.'
+  nursing: Linie venoasă 20G.
+  rad: Măsurarea inelului mitral (dimensiuni septo-laterale, inter-comisurale, arie,
+    perimetru). Calculul ariei estimate neo-LVOT. Proximitatea arterei circumflexe.
+    Dimensiunile atriului stâng.
+  tech: Angio-CT Torace sincronizat FĂRĂ MODULARE DE DOZĂ (doză completă pe tot ciclul
+    cardiac pentru reconstrucții multifazice) + scanare tardivă la 80s Abdomen/Pelvis
+    pentru acces vascular.
+  tips: Fără modulare de doză pe torace pentru a avea calitate de imagine excelentă
+    pe toate fazele diastolice și sistolice.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: HR < 65 target. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Scor de Calciu
+  fov: Cord
+  kernel: Cardiac
+  notes: Evaluarea calcificării inelului mitral
+  plane: Axial
+  thickness_increment: 3 mm/3 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
+  kernel: Cardiac
+  notes: Măsurători inel mitral și evaluare cuspe
+  plane: Axial
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Fază Tardivă CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Evaluare vase de acces vascular periferic
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
+  kernel: Cardiac
+  notes: Plan dublu oblic 'en face' pe inelul mitral
+  plane: Double oblique
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Fază Tardivă CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Randare 3D pentru planificarea abordului
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Baza cordului
+  name: Scor de Calciu
+  notes: Scor de calciu al inelului și foițelor mitrale
+  start: Carenă
+  thickness: 3 mm
+- delay: Urmărire bolus
+  end: Baza cordului
+  name: Angio-CT Torace Sincronizat
+  notes: FĂRĂ MODULARE DE DOZĂ - retrospectiv toate fazele
+  start: Carenă
+  thickness: 0.625 mm
+- delay: 80 sec
+  end: Capete femurale
+  name: Fază Tardivă CAP
+  notes: Planificare căi de abord și anatomie venoasă
+  start: Diafragm
+  thickness: 1.25 mm
+slug: gated-cta-tmvr
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Fără modulare ECG torace / Auto AP
+  pitch: 0.2-0.24 / 1.2-1.5
+  rotation_time: 0.28 / 0.5s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sincronizat ECG Planificare TMVR (Implantare Valvulară Mitrală Transcateter)
 ---
 
-# Gated CTA TMVR
+# Angio-CT Sincronizat ECG Planificare TMVR (Implantare Valvulară Mitrală Transcateter)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Calcium Score | Non-Contrast | Carina to Base of heart |
-        | Gated CTA Chest | Arterial (bolus tracked) |  Carina to Base of heart |
-        | Delayed CAP | Contrast (80 sec delay from CTA) | Diaphragm to Femoral heads |
+        | Scor de Calciu | 0 sec | Carenă → Baza cordului |
+        | Angio-CT Torace Sincronizat | Urmărire bolus | Carenă → Baza cordului |
+        | Fază Tardivă CAP | 80 sec | Diafragm → Capete femurale |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-TMVR planning
-        - Mitral valve replacement planning
-        - Mitral regurgitation
+        - Planificare pre-procedurală TMVR (implantare mitrală transcateter sau valve-in-valve)
+        - Insuficiență mitrală severă sau disfuncție de proteză mitrală
+        - Evaluarea riscului de obstrucție a tractului de ejecție ventricular stâng (LVOT)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 target. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | IsoVue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 5 mL/s |
-        | Duration | 15s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 180 HU |
+        | Agent | Isovue 370 |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 5 mL/s |
+        | Durată | 15s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 180 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Fără modulare ECG torace / Auto AP |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 / 0.5 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 / 1.2-1.5 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Gated CHEST with NO DOSE PULSING (full dose all phases) + delayed 80 sec CAP. TMVR post-processing required
-        - Additional Recons: TMVR measurements: annulus dimensions. LVOT area. Coronary heights. LA volume. Access vessels
+        - Angio-CT Torace sincronizat FĂRĂ MODULARE DE DOZĂ (doză completă pe tot ciclul cardiac pentru reconstrucții multifazice) + scanare tardivă la 80s Abdomen/Pelvis pentru acces vascular.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV
+        - Linie venoasă 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Measure mitral annulus. LA size. LVOT assessment. Coronary proximity. Access vessels. TMVR-specific measurements
+        - Măsurarea inelului mitral (dimensiuni septo-laterale, inter-comisurale, arie, perimetru). Calculul ariei estimate neo-LVOT. Proximitatea arterei circumflexe. Dimensiunile atriului stâng.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - NO dose modulation for gated chest. Full radiation all phases for valve assessment
+        - Fără modulare de doză pe torace pentru a avea calitate de imagine excelentă pe toate fazele diastolice și sistolice.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Thoracic inlet | Femoral heads | N/A | N/A | AP lateral |
-    | Calcium Score | Carina | Base of heart | N/A | 2.5 mm | Calcium scoring |
-    | Gated CTA Chest | Carina| Base of heart | Bolus tracked | 0.5 mm | NO DOSE PULSING - retrospective all phases |
-    | Delayed CAP | Diaphragm | Femoral heads | 80 sec | 0.625 mm | Access planning and coronaries |
+    | Scor de Calciu | Carenă | Baza cordului | 0 sec | 3 mm | Scor de calciu al inelului și foițelor mitrale |
+    | Angio-CT Torace Sincronizat | Carenă | Baza cordului | Urmărire bolus | 0.625 mm | FĂRĂ MODULARE DE DOZĂ - retrospectiv toate fazele |
+    | Fază Tardivă CAP | Diafragm | Capete femurale | 80 sec | 1.25 mm | Planificare căi de abord și anatomie venoasă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Calcium Score | Apex of heart to Base of heart | 2.5 mm/2.5 mm | Cardiac | 3 | Calcium scoring |
-    | Axial | Gated chest | Heart | 0.5 mm/0.5 mm | Cardiac | 3 | Mitral valve measurements |
-    | Axial | Delayed CAP | AP | 2 mm/2 mm | Vascular | 3 | Access vessels |
-    | Double oblique | Gated chest | Mitral valve | 0.5 mm | Cardiac | 3 | En face mitral annulus |
-    | 3D VR | Delayed CAP | Iliofemoral | 1.5 mm | Vascular | 3 | Access planning |
+    | Axial | Scor de Calciu | Cord | 3 mm/3 mm | Cardiac |  | Evaluarea calcificării inelului mitral |
+    | Axial | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Măsurători inel mitral și evaluare cuspe |
+    | Axial | Fază Tardivă CAP | Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Evaluare vase de acces vascular periferic |
+    | Double oblique | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Plan dublu oblic 'en face' pe inelul mitral |
+    | 3D VR | Fază Tardivă CAP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D pentru planificarea abordului |

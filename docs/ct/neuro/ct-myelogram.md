@@ -1,171 +1,197 @@
 ---
-title: CT Myelogram
-slug: ct-myelogram
+author: null
 category: neuro
-protocol_type: spine
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Post-myelogram CT
-- Intrathecal contrast follow-up
-- Spinal stenosis
-- Nerve root compression
-position: Supine. Post-lumbar puncture
-npo: N/A
-premedication: Intrathecal contrast already given
+- Evaluare post-mielografie cu contrast intratecal
+- Stenoză severă de canal rahidian la pacienți cu contraindicație absolută de RMN
+  (pacemaker, implanturi)
+- Compresiune radiculară / avulsie de rădăcini nervoase
+- Fistulă de lichid cefalorahidian (LCR) / hipotensiune intracraniană spontană
 contrast:
-  agent: Omnipaque 240 intrathecal
-  volume: 10-15 mL IT
-  flow_rate: N/A
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Myelogram
-  start: Region of interest
-  end: Extended coverage
-  delay: N/A
-  thickness: 0.625 mm
-  notes: Submillimeter for detail
-recons:
-- plane: Axial
-  acquisition: Myelogram
-  fov: Spine
-  thickness_increment: 1 mm/1 mm
-  kernel: Bone and Standard
-  ir_strength: '3'
-  notes: Nerve roots and thecal sac
-- plane: Sagittal
-  acquisition: Myelogram
-  fov: Spine
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Thecal sac and compression
-- plane: Coronal
-  acquisition: Myelogram
-  fov: Spine
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Coronal nerve roots
-- plane: Oblique sagittal
-  acquisition: Myelogram
-  fov: Neural foramina
-  thickness_increment: 1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Foraminal nerve roots
+  agent: Omnipaque 240 non-ionic aprobat intratecal
+  flow_rate: Administrare manuală lentă fluoroghidată
+  volume: 10-15 mL intratecal
+last_updated: '2026-01-01'
 notes:
-  tech: Post-LP CT. Usually lumbar region. Thin slices. Axial and sagittal reformats.
-    Assess nerve root sleeves and thecal sac
-  nursing: Patient already had LP with IT contrast. Position comfortably
-  rad: Nerve root sleeves. Thecal sac compression. Spinal stenosis. Disc herniations.
-    Surgical planning detail
-  tips: Post-LP headache precautions. Thin slices for nerve detail
-  additional_recons: Oblique reformats for nerve roots. Document stenosis level and
-    severity
+  additional_recons: Reconstrucții oblice pe emergențele radiculare. Documentarea
+    nivelului și severității compresiunii sacului dural.
+  nursing: Pacientul a efectuat deja puncția lombară cu contrast IT. Mențineți capul
+    ridicat la 30 de grade pentru a preveni cefaleea post-puncție.
+  rad: Opacifierea tecii durale și a rădăcinilor cozii de cal. Amprentarea sacului
+    dural de către hernii discale sau osteofite. Umplerea tecilor radiculare (lipsa
+    opacifierii indică avulsie sau compresiune).
+  tech: Scanare CT imediat după injectarea intratecală a contrastului sub fluoroscopie.
+    Secțiuni fine submilimetrice. Reformatări multiplanare axiale și sagitale de înaltă
+    rezoluție.
+  tips: Precauții riguroase pentru cefaleea post-puncție lombară. Secțiuni submilimetrice
+    indispensabile.
+npo: Repaus alimentar 4 ore înainte de puncția lombară
+position: Decubit dorsal sau ventral conform protocolului post-puncție lombară
+premedication: Intrathecal contrast already given
+protocol_type: spine
+recons:
+- acquisition: Mielo-CT
+  fov: Coloană
+  kernel: Bone and Standard
+  notes: Rădăcini nervoase și sacul dural opacifiat
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Mielo-CT
+  fov: Coloană
+  kernel: Standard
+  notes: Plan mediosagital pentru compresiunea sacului dural
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Mielo-CT
+  fov: Coloană
+  kernel: Standard
+  notes: Plan coronal pentru simetria emergențelor radiculare
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Mielo-CT
+  fov: Coloană
+  kernel: Standard
+  notes: Reformatări oblice pe găurile de conjugare
+  plane: Oblique sagittal
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Verificați riscul de alergie la contrast iodat
+  renal: Nu se excretă direct vascular - toleranță bună
+series:
+- delay: Imediat post-mielografie
+  end: Acoperire extinsă
+  name: Mielo-CT
+  notes: Submilimetric pentru rezoluția rădăcinilor nervoase
+  start: Regiunea de interes
+  thickness: 0.625 mm
+slug: ct-myelogram
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Mielo-CT (Mielografie CT)
 ---
 
-# CT Myelogram
+# Mielo-CT (Mielografie CT)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Myelogram | Non-contrast | Region of interest to Extended coverage |
+        | Mielo-CT | Imediat post-mielografie | Regiunea de interes → Acoperire extinsă |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Post-myelogram CT
-        - Intrathecal contrast follow-up
-        - Spinal stenosis
-        - Nerve root compression
+        - Evaluare post-mielografie cu contrast intratecal
+        - Stenoză severă de canal rahidian la pacienți cu contraindicație absolută de RMN (pacemaker, implanturi)
+        - Compresiune radiculară / avulsie de rădăcini nervoase
+        - Fistulă de lichid cefalorahidian (LCR) / hipotensiune intracraniană spontană
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine. Post-lumbar puncture
-    - **NPO Status:** N/A
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal sau ventral conform protocolului post-puncție lombară
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore înainte de puncția lombară
+    - **Premedicație / Pregătire:**
         - Intrathecal contrast already given
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | Omnipaque 240 intrathecal |
-        | Volume | 10-15 mL IT |
-        | Flow Rate | N/A |
+        | Agent | Omnipaque 240 non-ionic aprobat intratecal |
+        | Volum | 10-15 mL intratecal |
+        | Rată de Flux | Administrare manuală lentă fluoroghidată |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Post-LP CT. Usually lumbar region. Thin slices. Axial and sagittal reformats. Assess nerve root sleeves and thecal sac
-        - Additional Recons: Oblique reformats for nerve roots. Document stenosis level and severity
+        - Scanare CT imediat după injectarea intratecală a contrastului sub fluoroscopie. Secțiuni fine submilimetrice. Reformatări multiplanare axiale și sagitale de înaltă rezoluție.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Patient already had LP with IT contrast. Position comfortably
+        - Pacientul a efectuat deja puncția lombară cu contrast IT. Mențineți capul ridicat la 30 de grade pentru a preveni cefaleea post-puncție.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se excretă direct vascular - toleranță bună
+            - **Alergii:** Verificați riscul de alergie la contrast iodat
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Nerve root sleeves. Thecal sac compression. Spinal stenosis. Disc herniations. Surgical planning detail
+        - Opacifierea tecii durale și a rădăcinilor cozii de cal. Amprentarea sacului dural de către hernii discale sau osteofite. Umplerea tecilor radiculare (lipsa opacifierii indică avulsie sau compresiune).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Post-LP headache precautions. Thin slices for nerve detail
+        - Precauții riguroase pentru cefaleea post-puncție lombară. Secțiuni submilimetrice indispensabile.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Coverage area | Based on region | N/A | N/A | AP and lateral |
-    | CT Myelogram | Region of interest | Extended coverage | N/A | 0.625 mm | Submillimeter for detail |
+    | Mielo-CT | Regiunea de interes | Acoperire extinsă | Imediat post-mielografie | 0.625 mm | Submilimetric pentru rezoluția rădăcinilor nervoase |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Myelogram | Spine | 1 mm/1 mm | Bone and Standard | 3 | Nerve roots and thecal sac |
-    | Sagittal | Myelogram | Spine | 1.5 mm/1 mm | Standard | 3 | Thecal sac and compression |
-    | Coronal | Myelogram | Spine | 2 mm/1.5 mm | Standard | 3 | Coronal nerve roots |
-    | Oblique sagittal | Myelogram | Neural foramina | 1.5 mm | Standard | 3 | Foraminal nerve roots |
+    | Axial | Mielo-CT | Coloană | 1 mm/1 mm | Bone and Standard |  | Rădăcini nervoase și sacul dural opacifiat |
+    | Sagital | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Plan mediosagital pentru compresiunea sacului dural |
+    | Coronal | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Plan coronal pentru simetria emergențelor radiculare |
+    | Oblique sagittal | Mielo-CT | Coloană | 1.5 mm/1.5 mm | Standard |  | Reformatări oblice pe găurile de conjugare |

@@ -1,169 +1,193 @@
 ---
-title: CT Lower Extremity
-slug: ct-lower-extremity
+author: null
 category: msk
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Lower extremity fracture
-- Tibia/fibula
-- Femur
-- Post-operative hardware assessment
-position: Supine
-npo: N/A
-premedication: ''
+- Fracturi diafizare sau metafizo-epifizare complexe ale membrului inferior
+- Fracturi de femur, tibie sau fibulă
+- Evaluarea calusului osos, a pseudartrozei sau a materialelor de osteosinteză
+- Suspiciune de osteomielită sau colecție a părților moi
 contrast:
-  agent: None typically. Contrast if infection
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Contrast dacă se suspectează abces / infecție
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Lower Extremity
-  start: Proximal to injury
-  end: Distal to injury
-  delay: N/A or 60s if contrast
-  thickness: 0.625-1 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Lower extremity
-  fov: Region
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Bone windows
-- plane: Coronal
-  acquisition: Lower extremity
-  fov: Region
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal
-- plane: Sagittal
-  acquisition: Lower extremity
-  fov: Region
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal
-- plane: 3D surface
-  acquisition: Lower extremity
-  fov: Bones
-  thickness_increment: 0.625 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D reconstruction
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: 'FOV based on region: hip to ankle. Submillimeter for fracture. Extended coverage
-    for alignment'
-  nursing: No IV unless contrast needed
-  rad: Fractures. Alignment. Comminution. Intra-articular extension. Hardware position.
-    Infection on contrast
-  tips: Extended coverage for alignment measurements
-  additional_recons: Alignment measurements. Hardware position. 3D for surgical planning
+  additional_recons: Măsurători ale axului și rotației. Evaluarea poziției materialului
+    de osteosinteză. Randare 3D VR.
+  nursing: Linie venoasă necesară doar pentru cazurile cu contrast.
+  rad: Tipul fracturii, deplasarea, angulația, scurtarea, cominuția și interesarea
+    articulară. Poziția și stabilitatea șuruburilor/plăcilor/tijelor centromedulare.
+  tech: Câmpul de scanare se adaptează strict la segmentul interesat. Achiziție submilimetrică
+    pentru detaliul traiectului de fractură. Acoperire suficientă pentru determinarea
+    rotației și axului mecanic.
+  tips: Acoperire suficientă pentru măsurarea rotației segmentului.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu membrul inferior aliniat drept
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: CT Membru Inferior
+  fov: Segment osos
+  kernel: Bone
+  notes: Fereastră osoasă axială
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Membru Inferior
+  fov: Segment osos
+  kernel: Bone
+  notes: Plan coronal pe axul osului
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Membru Inferior
+  fov: Segment osos
+  kernel: Bone
+  notes: Plan sagital
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Membru Inferior
+  fov: Segment osos
+  kernel: Bone
+  notes: Randare tridimensională 3D pentru planificare ortopedică
+  plane: 3D surface
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Distal de sediul leziunii
+  name: CT Membru Inferior
+  notes: Achiziție elicoidală submilimetrică
+  start: Proximal de sediul leziunii
+  thickness: 0.625 mm
+slug: ct-lower-extremity
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200-250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Membru Inferior (Segmentar)
 ---
 
-# CT Lower Extremity
+# CT Membru Inferior (Segmentar)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Lower Extremity | Contrast (N/A or 60s if contrast delay) | Proximal to injury to Distal to injury |
+        | CT Membru Inferior | 0 sec | Proximal de sediul leziunii → Distal de sediul leziunii |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Lower extremity fracture
-        - Tibia/fibula
-        - Femur
-        - Post-operative hardware assessment
+        - Fracturi diafizare sau metafizo-epifizare complexe ale membrului inferior
+        - Fracturi de femur, tibie sau fibulă
+        - Evaluarea calusului osos, a pseudartrozei sau a materialelor de osteosinteză
+        - Suspiciune de osteomielită sau colecție a părților moi
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu membrul inferior aliniat drept
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă se suspectează abces / infecție |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - FOV based on region: hip to ankle. Submillimeter for fracture. Extended coverage for alignment
-        - Additional Recons: Alignment measurements. Hardware position. 3D for surgical planning
+        - Câmpul de scanare se adaptează strict la segmentul interesat. Achiziție submilimetrică pentru detaliul traiectului de fractură. Acoperire suficientă pentru determinarea rotației și axului mecanic.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed
+        - Linie venoasă necesară doar pentru cazurile cu contrast.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Fractures. Alignment. Comminution. Intra-articular extension. Hardware position. Infection on contrast
+        - Tipul fracturii, deplasarea, angulația, scurtarea, cominuția și interesarea articulară. Poziția și stabilitatea șuruburilor/plăcilor/tijelor centromedulare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Extended coverage for alignment measurements
+        - Acoperire suficientă pentru măsurarea rotației segmentului.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Region specific | Extended | N/A | N/A | AP and lateral |
-    | CT Lower Extremity | Proximal to injury | Distal to injury | N/A or 60s if contrast | 0.625-1 mm | Submillimeter |
+    | CT Membru Inferior | Proximal de sediul leziunii | Distal de sediul leziunii | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Lower extremity | Region | 2 mm/2 mm | Bone | N/A | Bone windows |
-    | Coronal | Lower extremity | Region | 2 mm/2 mm | Bone | N/A | Coronal |
-    | Sagittal | Lower extremity | Region | 2 mm/2 mm | Bone | N/A | Sagittal |
-    | 3D surface | Lower extremity | Bones | 0.625 mm source | Bone | N/A | 3D reconstruction |
+    | Axial | CT Membru Inferior | Segment osos | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă axială |
+    | Coronal | CT Membru Inferior | Segment osos | 1.5 mm/1.5 mm | Bone |  | Plan coronal pe axul osului |
+    | Sagital | CT Membru Inferior | Segment osos | 1.5 mm/1.5 mm | Bone |  | Plan sagital |
+    | 3D surface | CT Membru Inferior | Segment osos | 1 mm/1 mm | Bone |  | Randare tridimensională 3D pentru planificare ortopedică |

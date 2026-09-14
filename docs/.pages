@@ -1,4 +1,10 @@
 nav:
-  - CT Protocols: ct
-  - compare.md
-  - request-change.md
+  - Acasa: index.md
+  - CT: ct
+  - IRM: irm
+  - RX: rx
+  - US: eco
+  - FLOURO: fluoro
+  - IRIS: iris.md
+  - AI: ai.md
+  - Propunere Modificare: request-change.md

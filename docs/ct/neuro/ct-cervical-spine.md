@@ -1,171 +1,196 @@
 ---
-title: CT Cervical Spine
-slug: ct-cervical-spine
+author: null
 category: neuro
-protocol_type: spine
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Cervical spine trauma
-- Degenerative disease
-- Neck pain
-- Radiculopathy
-- Myelopathy
-position: Supine head-first
-npo: N/A
-premedication: ''
+- Traumatism de coloană cervicală / accident rutier / cădere
+- Cervicalgie acută sau cronică severă
+- Radiculopatie cervico-brahială
+- Mielopatie cervicală spondilotică
 contrast:
-  agent: None typically. Contrast if infection/tumor
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Substanță de contrast dacă se suspectează infecție (spondilodiscită)
+    sau tumoră
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: C-spine Helical
-  start: Skull base
-  end: T1
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter acquisition
-recons:
-- plane: Axial
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Bone and soft tissue
-- plane: Sagittal
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Midline and parasagittal
-- plane: Coronal
-  acquisition: C-spine
-  fov: C-spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Coronal alignment
-- plane: Oblique sagittal
-  acquisition: C-spine
-  fov: Neural foramina
-  thickness_increment: 2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Foraminal narrowing
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Skull base to T1. Submillimeter helical. Sagittal and coronal reformats required.
-    Bone algorithm
-  nursing: No IV unless contrast needed. Cervical precautions if trauma
-  rad: Alignment. Fractures. Disc spaces. Neural foramina. Spinal canal. Facet joints.
-    Degenerative changes
-  tips: Minimize motion. C-collar if trauma
-  additional_recons: Sagittal and coronal bone reconstructions. Oblique for foramina
+  additional_recons: Reconstrucții osoase sagitale și coronale submilimetrice. Reformatări
+    oblice paralele cu găurile de conjugare.
+  nursing: Fără linie venoasă de rutină. Mențineți gulerul cervical dacă este caz
+    de traumatism.
+  rad: Aliniamentul corpilor vertebrali și linia spinolaminară. Fracturi (odontoidă,
+    masive articulare, pediculi, apofize spinoase). Lățimea canalului rahidian. Găurile
+    de conjugare (foramene). Articulații interapofizare.
+  tech: De la baza craniului până la nivelul T1. Achiziție elicoidală submilimetrică.
+    Reformatări sagitale și coronale fine obligatorii. Filtru de os de înaltă rezoluție.
+  tips: Coborârea la maxim a umerilor pacientului pentru a evita artefactele la joncțiunea
+    C7-T1.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu capul înainte; umerii coborâți la maxim
+premedication: ''
+protocol_type: spine
+recons:
+- acquisition: CT Coloană Cervicală Elicoidal
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Fereastră osoasă și de părți moi
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Coloană Cervicală Elicoidal
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Plan mediosagital și parasagital
+  plane: Sagital
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Coloană Cervicală Elicoidal
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Aliniament coronal și odontoidă
+  plane: Coronal
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Coloană Cervicală Elicoidal
+  fov: Coloană cervicală
+  kernel: Bone
+  notes: Plan oblic pentru stenozele de foramen neural
+  plane: Oblique sagittal
+  thickness_increment: 1.25 mm/1.25 mm
 safety:
-  renal: N/A or verify eGFR
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: T1
+  name: CT Coloană Cervicală Elicoidal
+  notes: Achiziție elicoidală submilimetrică
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: ct-cervical-spine
+synonyms: []
+tech_params:
+  aec: Activat (Modulare 3D adaptată coloanei vertebrale)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Coloană Cervicală
 ---
 
-# CT Cervical Spine
+# CT Coloană Cervicală
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | C-spine Helical | Contrast (N/A or 60s if contrast delay) | Skull base to T1 |
+        | CT Coloană Cervicală Elicoidal | 0 sec | Baza craniului → T1 |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Cervical spine trauma
-        - Degenerative disease
-        - Neck pain
-        - Radiculopathy
-        - Myelopathy
+        - Traumatism de coloană cervicală / accident rutier / cădere
+        - Cervicalgie acută sau cronică severă
+        - Radiculopatie cervico-brahială
+        - Mielopatie cervicală spondilotică
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul înainte; umerii coborâți la maxim
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/tumor |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 3 mL/s |
+        | Agent | Nativ de regulă. Substanță de contrast dacă se suspectează infecție (spondilodiscită) sau tumoră |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare 3D adaptată coloanei vertebrale) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Skull base to T1. Submillimeter helical. Sagittal and coronal reformats required. Bone algorithm
-        - Additional Recons: Sagittal and coronal bone reconstructions. Oblique for foramina
+        - De la baza craniului până la nivelul T1. Achiziție elicoidală submilimetrică. Reformatări sagitale și coronale fine obligatorii. Filtru de os de înaltă rezoluție.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed. Cervical precautions if trauma
+        - Fără linie venoasă de rutină. Mențineți gulerul cervical dacă este caz de traumatism.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Alignment. Fractures. Disc spaces. Neural foramina. Spinal canal. Facet joints. Degenerative changes
+        - Aliniamentul corpilor vertebrali și linia spinolaminară. Fracturi (odontoidă, masive articulare, pediculi, apofize spinoase). Lățimea canalului rahidian. Găurile de conjugare (foramene). Articulații interapofizare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Minimize motion. C-collar if trauma
+        - Coborârea la maxim a umerilor pacientului pentru a evita artefactele la joncțiunea C7-T1.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Skull base | T1 | N/A | N/A | AP and lateral |
-    | C-spine Helical | Skull base | T1 | N/A or 60s if contrast | 0.625 mm | Submillimeter acquisition |
+    | CT Coloană Cervicală Elicoidal | Baza craniului | T1 | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | C-spine | C-spine | 2 mm/2 mm | Bone | 3 | Bone and soft tissue |
-    | Sagittal | C-spine | C-spine | 2 mm/1.5 mm | Bone | 3 | Midline and parasagittal |
-    | Coronal | C-spine | C-spine | 2 mm/2 mm | Bone | 3 | Coronal alignment |
-    | Oblique sagittal | C-spine | Neural foramina | 2 mm | Bone | 3 | Foraminal narrowing |
+    | Axial | CT Coloană Cervicală Elicoidal | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă și de părți moi |
+    | Sagital | CT Coloană Cervicală Elicoidal | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Plan mediosagital și parasagital |
+    | Coronal | CT Coloană Cervicală Elicoidal | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Aliniament coronal și odontoidă |
+    | Oblique sagittal | CT Coloană Cervicală Elicoidal | Coloană cervicală | 1.25 mm/1.25 mm | Bone |  | Plan oblic pentru stenozele de foramen neural |

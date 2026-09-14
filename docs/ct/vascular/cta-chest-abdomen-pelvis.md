@@ -1,192 +1,214 @@
 ---
-title: CTA Chest Abdomen Pelvis
-slug: cta-chest-abdomen-pelvis
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Aortic aneurysm
-- Vasculitis
-- Trauma pan-scan
-position: Supine with arms raised above head
-npo: NPO 2-4 hours
-premedication: ''
+- Anevrism toraco-abdominal de aortă (TAAA)
+- Disecție extinsă de aortă
+- Vasculite ale vaselor mari (Takayasu, celule gigante)
+- Pan-scan vascular în traumă majoră
 contrast:
   agent: Isovue 370
-  volume: 1.1 mL/kg
-  flow_rate: 4 mL/s
   duration: 20s
-  timing: Bolus Tracking
-  roi: Descending thoracic aorta
+  flow_rate: 4 mL/s
+  roi: Aorta toracică descendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: 1.0-1.2
-series:
-- name: CTA Arterial
-  start: Thoracic inlet
-  end: Pubic symphysis
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Caudocranial from feet to head
-- name: Stent Delay (optional)
-  start: Top of Stent
-  end: Bottom of Stent
-  delay: 40 sec
-  thickness: 0.625 mm
-  notes: Stent coverage
-- name: Vasculitis Delayed (optional)
-  start: Thoracic inlet
-  end: Pubic symphysis
-  delay: 90 sec
-  thickness: 0.625 mm
-  notes: Wall enhancement/thickening
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Chest
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Thoracic aorta evaluation
-- plane: Axial
-  acquisition: Arterial
-  fov: Abdomen/Pelvis
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Abdominal aorta and branches
-- plane: Coronal
-  acquisition: Arterial
-  fov: Full CAP
-  thickness_increment: 3 mm/3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP full aorta overview
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Full CAP
-  thickness_increment: 3 mm/3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Sagittal MIP and curved MPR of aorta
+  volume: 1.1 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Single acquisition from thoracic inlet to pubic symphysis. Caudocranial direction.
-    Bolus track in descending aorta
-  nursing: 20G IV minimum. Antecubital or proximal forearm preferred
-  rad: Assess entire aorta for dissection/aneurysm. Measure aortic dimensions. Check
-    branch vessels
-  tips: Arms completely raised. ECG monitoring if known dissection
-  additional_recons: 3D VR and curved MPR of entire aorta
+  additional_recons: Randare 3D VR și MPR curbat pe întregul ax aortic. Comparație
+    pe secțiuni fine în fază tardivă pentru vasculită.
+  nursing: Linie venoasă minim 20G (ideal 18G în plica cotului).
+  rad: Evaluați întreaga lungime a aortei pentru semne de disecție, hematom intramural,
+    anevrism sau ulcerație aterosclerotică penetrantă. Măsurați diametrele aortei.
+    Evaluați permeabilitatea ramurilor viscerale și iliace.
+  tech: Achiziție unică de la apertura toracică superioară până la simfiza pubiană.
+    Direcție caudo-cranială. Urmărire bolus în aorta toracică descendentă.
+  tips: Brațele complet ridicate deasupra capului pentru a preveni artefactele pe
+    torace și abdomen superior.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial
+  fov: Torace
+  kernel: Vascular
+  notes: Evaluarea aortei toracice
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Arterial
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Aorta abdominală și ramurile viscerale
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Torace-Abdomen-Pelvis
+  kernel: Vascular
+  notes: MIP coronal de ansamblu pe toată aorta
+  plane: Coronal
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Torace-Abdomen-Pelvis
+  kernel: Vascular
+  notes: MIP sagital și MPR curbat pe crosa și aorta descendentă
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul de alergie
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Simfiză pubiană
+  name: Angio-CT Arterial
+  notes: Achiziție caudo-cranială pentru opacifiere uniformă
+  start: Apertura toracică superioară
+  thickness: 0.625 mm
+- delay: 40 sec
+  end: Margine inferioară stent
+  name: Tardiv Stent (opțional)
+  notes: Acoperire zonă stent
+  start: Margine superioară stent
+  thickness: 1 mm
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Tardiv Vasculită (opțional)
+  notes: Încărcare parietală și îngroșare concentrică în vasculite
+  start: Apertura toracică superioară
+  thickness: 1 mm
+slug: cta-chest-abdomen-pelvis
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 250 mAs)
+  pitch: 1.0-1.2
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Torace, Abdomen și Pelvis
 ---
 
-# CTA Chest Abdomen Pelvis
+# Angio-CT Torace, Abdomen și Pelvis
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Thoracic inlet to Pubic symphysis |
-        | CTA Arterial | Arterial (bolus tracked) | Thoracic inlet to Pubic symphysis |
-        | Stent Delay (optional) | Delayed (40 sec delay) | 1cm above and below stent  |
-        | Vasculitis Delayed (optional) | Delayed (90 sec delay) | Thoracic inlet to Pubic symphysis |
+        | Angio-CT Arterial | Urmărire bolus | Apertura toracică superioară → Simfiză pubiană |
+        | Tardiv Stent (opțional) | 40 sec | Margine superioară stent → Margine inferioară stent |
+        | Tardiv Vasculită (opțional) | 70 sec | Apertura toracică superioară → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Aortic aneurysm
-        - Vasculitis
-        - Trauma pan-scan
+        - Anevrism toraco-abdominal de aortă (TAAA)
+        - Disecție extinsă de aortă
+        - Vasculite ale vaselor mari (Takayasu, celule gigante)
+        - Pan-scan vascular în traumă majoră
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with arms raised above head
-    - **NPO Status:** NPO 2-4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 20s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Descending thoracic aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 20s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta toracică descendentă |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Single acquisition from thoracic inlet to pubic symphysis. Caudocranial direction. Bolus track in descending aorta
-        - Additional Recons: 3D VR and curved MPR of entire aorta
+        - Achiziție unică de la apertura toracică superioară până la simfiza pubiană. Direcție caudo-cranială. Urmărire bolus în aorta toracică descendentă.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. Antecubital or proximal forearm preferred
+        - Linie venoasă minim 20G (ideal 18G în plica cotului).
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul de alergie
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess entire aorta for dissection/aneurysm. Measure aortic dimensions. Check branch vessels
+        - Evaluați întreaga lungime a aortei pentru semne de disecție, hematom intramural, anevrism sau ulcerație aterosclerotică penetrantă. Măsurați diametrele aortei. Evaluați permeabilitatea ramurilor viscerale și iliace.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms completely raised. ECG monitoring if known dissection
+        - Brațele complet ridicate deasupra capului pentru a preveni artefactele pe torace și abdomen superior.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Thoracic inlet | Pubic symphysis | N/A | N/A | AP and lateral |
-    | CTA Arterial | Thoracic inlet | Pubic symphysis | Bolus tracked | 0.625 mm | Caudocranial from feet to head |
-    | Stent Delay (optional) | Top of Stent | Bottom of Stent | 40 sec | 0.625 mm | Stent coverage |
-    | Vasculitis Delayed (optional) | Thoracic inlet | Pubic symphysis | 90 sec | 0.625 mm | Wall enhancement/thickening |
+    | Angio-CT Arterial | Apertura toracică superioară | Simfiză pubiană | Urmărire bolus | 0.625 mm | Achiziție caudo-cranială pentru opacifiere uniformă |
+    | Tardiv Stent (opțional) | Margine superioară stent | Margine inferioară stent | 40 sec | 1 mm | Acoperire zonă stent |
+    | Tardiv Vasculită (opțional) | Apertura toracică superioară | Simfiză pubiană | 70 sec | 1 mm | Încărcare parietală și îngroșare concentrică în vasculite |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Chest | 2 mm/2 mm | Vascular | 3 | Thoracic aorta evaluation |
-    | Axial | Arterial | Abdomen/Pelvis | 2.5 mm/2.5 mm | Vascular | 3 | Abdominal aorta and branches |
-    | Coronal | Arterial | Full CAP | 3 mm/3 mm | Vascular | 3 | MIP full aorta overview |
-    | Sagittal | Arterial | Full CAP | 3 mm/3 mm | Vascular | 3 | Sagittal MIP and curved MPR of aorta |
+    | Axial | Angio-CT Arterial | Torace | 1.25 mm/1.25 mm | Vascular |  | Evaluarea aortei toracice |
+    | Axial | Angio-CT Arterial | Abdomen-Pelvis | 1.5 mm/1.5 mm | Vascular |  | Aorta abdominală și ramurile viscerale |
+    | Coronal | Angio-CT Arterial | Torace-Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular |  | MIP coronal de ansamblu pe toată aorta |
+    | Sagital | Angio-CT Arterial | Torace-Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | MIP sagital și MPR curbat pe crosa și aorta descendentă |

@@ -1,0 +1,130 @@
+---
+author: Departamentul de Radiologie
+breathing: Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului
+  expunerea se face la sfârșitul inspirului profund)
+category: pediatrie
+centering: Nivel medio-sternal (mamelonar)
+clinical_indications:
+- Infecție respiratorie joasă febrilă (pneumonie, bronșiolită severă)
+- Stridor acut sau suspiciune de corp străin inhalat
+- Tuse cronică sau wheezing neexplicat
+- Evaluare cardiomegalie congenitală
+iris_reference:
+  chapter: Pediatrie — Torace, pulmon, cord
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
+last_updated: '2026-09-13'
+modality: rx
+notes: Timusul normal la sugari poate mări considerabil mediastinul antero-superior;
+  nu trebuie confundat cu o tumoră mediastinală sau cardiomegalie!
+position: 'La sugari/copii mici: decubit dorsal pe detector (sau imobilizare cu dispozitiv
+  Pigg-O-Stat în ortostatism dacă este disponibil); la copii mari: ortostatism la
+  Bucky'
+protection:
+- Protecție gonade cu fustă de plumb
+- Însoțitorul (părintele) echipat obligatoriu cu șorț și guler de plumb pe durata
+  imobilizării
+- 'Principiul ALARA strict respectat: zero repetări nejustificate'
+quality_criteria:
+- Simetrie a hemitoracelor (absența rotației)
+- Inspir corect (minim 8-9 arcuri costale posterioare)
+- Absența artefactelor de mișcare
+- Recunoașterea umbrei timusului la sugar (semnul pânzei de barcă / velar — aspect
+  fiziologic normal)
+sid_dff: 100 - 150 cm
+slug: rx-torace-pediatric
+tech_params:
+  aec_chambers: Manual sau AEC pediatric calibrat
+  collimation: Strictă pe cutia toracică (fără abdomen)
+  filtration: Suplimentară 1 mm Al + 0.1-0.2 mm Cu (filtrare suplimentară pediatrică)
+  focal_spot: Focar Mic (0.6 mm)
+  grid: FĂRĂ GRILĂ (reducere substanțială a dozei de iradiere la copii < 20 kg)
+  kv: 60 - 70 (tehnică pediatrică adaptată)
+  mas: 1.0 - 2.0 (timp de expunere ultra-scurt < 5-10 ms pentru evitarea neclarității
+    cinetice)
+title: Rx Torace Pediatric (Sugar & Copil)
+---
+# Rx Torace Pediatric (Sugar & Copil)
+
+<div class="rx-meta-bar">
+  <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
+  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Autor:</strong> Departamentul de Radiologie</span>
+</div>
+
+---
+
+<div class="grid cards" markdown>
+
+-   __1. Rezumat Clinic & Indicații__
+
+    ---
+
+    === "Indicații Clinice"
+
+        - Infecție respiratorie joasă febrilă (pneumonie, bronșiolită severă)
+        - Stridor acut sau suspiciune de corp străin inhalat
+        - Tuse cronică sau wheezing neexplicat
+        - Evaluare cardiomegalie congenitală
+
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            - **Capitol Ghid IRIS:** *Pediatrie — Torace, pulmon, cord*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Poziționare & Centrare Fascicul__
+
+    ---
+
+    - **Poziție Pacient:** La sugari/copii mici: decubit dorsal pe detector (sau imobilizare cu dispozitiv Pigg-O-Stat în ortostatism dacă este disponibil); la copii mari: ortostatism la Bucky
+    - **Punct de Centrare Fascicul:** Nivel medio-sternal (mamelonar)
+    - **Distanță Focar-Film (DFF / SID):** 100 - 150 cm
+    - **Comandă Respiratorie:** Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului expunerea se face la sfârșitul inspirului profund)
+
+-   __3. Parametri Tehnici Expunere__
+
+    ---
+
+    | Parametru Tehnic | Valoare Configurare Generator / Tub |
+    |:-----------------|:-------------------------------------|
+    | **Tensiune Tub (kV)** | 60 - 70 (tehnică pediatrică adaptată) kV |
+    | **Sarcină / Produs Curent-Timp (mAs)** | 1.0 - 2.0 (timp de expunere ultra-scurt < 5-10 ms pentru evitarea neclarității cinetice) mAs |
+    | **Distanță Focar-Film (DFF / SID)** | 100 - 150 cm |
+    | **Grilă Antidifuzoare (Bucky)** | FĂRĂ GRILĂ (reducere substanțială a dozei de iradiere la copii < 20 kg) |
+    | **Dimensiune Focar** | Focar Mic (0.6 mm) |
+    | **Camere de Ionizare AEC** | Manual sau AEC pediatric calibrat |
+    | **Colimare Fascicul** | Strictă pe cutia toracică (fără abdomen) |
+    | **Filtrare Tub** | Suplimentară 1 mm Al + 0.1-0.2 mm Cu (filtrare suplimentară pediatrică) |
+
+-   __4. Criterii de Calitate & Reușită Imagine__
+
+    ---
+
+    - Simetrie a hemitoracelor (absența rotației)
+    - Inspir corect (minim 8-9 arcuri costale posterioare)
+    - Absența artefactelor de mișcare
+    - Recunoașterea umbrei timusului la sugar (semnul pânzei de barcă / velar — aspect fiziologic normal)
+
+-   __5. Protecție Radiologică (ALARA)__
+
+    ---
+
+    - Protecție gonade cu fustă de plumb
+    - Însoțitorul (părintele) echipat obligatoriu cu șorț și guler de plumb pe durata imobilizării
+    - Principiul ALARA strict respectat: zero repetări nejustificate
+
+</div>
+
+!!! note "Observații Clinice & Tehnice"
+    Timusul normal la sugari poate mări considerabil mediastinul antero-superior; nu trebuie confundat cu o tumoră mediastinală sau cardiomegalie!
+
+=== "Ghid Rapid de Execuție"
+
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 150 cm).
+    4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
+    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.

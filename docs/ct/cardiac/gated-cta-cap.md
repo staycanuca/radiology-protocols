@@ -1,200 +1,221 @@
 ---
-title: Gated CTA CAP
-slug: gated-cta-cap
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Aortic dissection
-- Aortic aneurysm with cardiac involvement
-- Combined cardiac and aortic pathology
-position: Supine with arms raised
-npo: NPO 2-4 hours
-premedication: HR < 65 target. Premedication not required.
+- Disecție acută de aortă toraco-abdominală (tip Stanford A sau B)
+- Anevrism extins de aortă cu interesarea rădăcinii aortice sau a valvelor
+- Patologie combinată valvulară/coronariană și aortică
 contrast:
   agent: Isovue 370
-  volume: 1.6 mL/kg
-  flow_rate: 4 mL/s
   duration: 20-24s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 4 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
-tech_params:
-  kv: '100'
-  mas: Auto ECG chest / High mAs AP
-  rotation_time: 0.28 chest / 0.5 APs
-  pitch: 0.2-0.24 chest / 1.2-1.5 AP
-series:
-- name: Flash Non-contrast
-  start: Thoracic inlet
-  end: Pubic symphysis
-  delay: N/A
-  thickness: 0.625 mm
-  notes: Non-contrast
-- name: Gated CTA Chest
-  start: Thoracic inlet
-  end: Diaphragm
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Retrospective gating chest
-- name: Flash CTA AP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: Immediate after chest
-  thickness: 0.625 mm
-  notes: High pitch helical - no gating
-- name: Stent Delay (optional)
-  start: Top of Stent
-  end: Bottom of Stent
-  delay: 40 sec
-  thickness: 0.625 mm
-  notes: Stent coverage
-recons:
-- plane: Axial
-  acquisition: Gated chest
-  fov: Chest
-  thickness_increment: 0.75 mm/0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Aortic root and valve
-- plane: Axial
-  acquisition: Flash AP
-  fov: Abdomen/Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Abdominal aorta and branches
-- plane: Coronal
-  acquisition: Both
-  fov: Full CAP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP full aorta
-- plane: Sagittal
-  acquisition: Both
-  fov: Full CAP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Curved MPR entire aorta
+  volume: 1.6 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO acquisitions: 1) Gated retrospective CHEST 2) Flash helical ABDOMEN/PELVIS.
-    Chest gated for aortic root. AP flash arterial'
-  nursing: 20G IV minimum
-  rad: 'Gated chest: assess aortic root valve coronaries. Flash AP: assess aorta and
-    branches. Combined cardiac and vascular'
-  tips: Arms up. Careful timing between gated and flash acquisitions
-  additional_recons: Curved MPR full aorta. Aortic valve reformats. 3D VR
+  additional_recons: Reconstrucții MPR curbate pe toată lungimea aortei. Reformatări
+    în planul inelului aortic. Randare tridimensională 3D VR.
+  nursing: Linie venoasă minim 20G.
+  rad: 'Torace sincronizat: evaluați cu precizie rădăcina aortică, valva aortică,
+    originea coronarelor și poarta de intrare a disecției. Flash AP: ramurile viscerale
+    ale aortei abdominale, malperfuzia renală sau mezenterică.'
+  tech: 'DOUĂ componente sincronizate: 1) Torace sincronizat retrospectiv ECG (elimină
+    pulsațiile rădăcinii aortice) 2) Achiziție elicoidală rapidă de la diafragm la
+    simfiza pubiană.'
+  tips: Brațele ridicate. Sincronizarea riguroasă între cele două componente elimină
+    artefactele de mișcare ale rădăcinii.
+npo: Repaus alimentar 4 ore (sau urgență)
+position: Decubit dorsal cu brațele ridicate
+premedication: HR < 65 target. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Torace
+  kernel: Cardiac
+  notes: Rădăcină aortică și valvă aortică fără artefacte de pulsație
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Flash AP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Aorta abdominală și arterele viscerale
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Torace-Abdomen-Pelvis
+  kernel: Vascular
+  notes: Reconstrucție MIP completă a aortei
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Torace-Abdomen-Pelvis
+  kernel: Vascular
+  notes: Reconstrucție MPR curbată pe întreaga lungime aortică
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Documentați statutul de urgență vasculară
+  renal: Verificați funcția renală dacă situația clinică o permite
+series:
+- delay: 0 sec
+  end: Simfiză pubiană
+  name: Fază Nativă Flash
+  notes: Detecția hematoamelor intramurale native
+  start: Apertura toracică superioară
+  thickness: 2.5 mm
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Torace Sincronizat
+  notes: Sincronizare retrospectivă toracică dedicată aortei ascendente
+  start: Apertura toracică superioară
+  thickness: 0.625 mm
+- delay: Continuare
+  end: Simfiză pubiană
+  name: Angio-CT Flash AP
+  notes: Achiziție elicoidală rapidă pitch mare fără gating
+  start: Diafragm
+  thickness: 1 mm
+- delay: 40 sec
+  end: Margine inferioară stent
+  name: Tardiv Stent (opțional)
+  notes: Acoperire zonă endoproteză pentru evaluarea endoleak-urilor
+  start: Margine superioară stent
+  thickness: 1 mm
+slug: gated-cta-cap
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Auto modulare ECG torace / Curent crescut AP
+  pitch: 0.2-0.24 chest / 1.2-1.5 AP
+  rotation_time: 0.28 chest / 0.5 APs
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aortă & Cord)
 ---
 
-# Gated CTA CAP
+# Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aortă & Cord)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Flash Non-contrast | Non-contrast | Thoracic inlet to Pubic symphysis |
-        | Gated CTA Chest | Arterial (bolus tracked) | Thoracic inlet to Diaphragm |
-        | Flash CTA AP | Contrast (Immediate after chest delay) | Diaphragm to Pubic symphysis |
-        | Stent delay (optional) | Contrast (40 sec delay) | Stent coverage |
+        | Fază Nativă Flash | 0 sec | Apertura toracică superioară → Simfiză pubiană |
+        | Angio-CT Torace Sincronizat | Urmărire bolus | Apertura toracică superioară → Diafragm |
+        | Angio-CT Flash AP | Continuare | Diafragm → Simfiză pubiană |
+        | Tardiv Stent (opțional) | 40 sec | Margine superioară stent → Margine inferioară stent |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Aortic dissection
-        - Aortic aneurysm with cardiac involvement
-        - Combined cardiac and aortic pathology
+        - Disecție acută de aortă toraco-abdominală (tip Stanford A sau B)
+        - Anevrism extins de aortă cu interesarea rădăcinii aortice sau a valvelor
+        - Patologie combinată valvulară/coronariană și aortică
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore (sau urgență)
+    - **Premedicație / Pregătire:**
         - HR < 65 target. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.6 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 20-24s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 180 HU |
+        | Volum | 1.6 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 20-24s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 180 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto modulare ECG torace / Curent crescut AP |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 chest / 0.5 AP s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 chest / 1.2-1.5 AP |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO acquisitions: 1) Gated retrospective CHEST 2) Flash helical ABDOMEN/PELVIS. Chest gated for aortic root. AP flash arterial
-        - Additional Recons: Curved MPR full aorta. Aortic valve reformats. 3D VR
+        - DOUĂ componente sincronizate: 1) Torace sincronizat retrospectiv ECG (elimină pulsațiile rădăcinii aortice) 2) Achiziție elicoidală rapidă de la diafragm la simfiza pubiană.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum
+        - Linie venoasă minim 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați funcția renală dacă situația clinică o permite
+            - **Alergii:** Documentați statutul de urgență vasculară
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Gated chest: assess aortic root valve coronaries. Flash AP: assess aorta and branches. Combined cardiac and vascular
+        - Torace sincronizat: evaluați cu precizie rădăcina aortică, valva aortică, originea coronarelor și poarta de intrare a disecției. Flash AP: ramurile viscerale ale aortei abdominale, malperfuzia renală sau mezenterică.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms up. Careful timing between gated and flash acquisitions
+        - Brațele ridicate. Sincronizarea riguroasă între cele două componente elimină artefactele de mișcare ale rădăcinii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Thoracic inlet | Pubic symphysis | N/A | N/A | Full AP lateral |
-    | Flash Non-contrast | Thoracic inlet | Pubic symphysis | N/A | 0.625 mm | Non-contrast |
-    | Gated CTA Chest | Thoracic inlet | Diaphragm | Bolus tracked | 0.5-0.625 mm | Retrospective gating chest |
-    | Flash CTA AP | Diaphragm | Pubic symphysis | Immediate after chest | 0.625 mm | High pitch helical - no gating |
-    | Stent Delay (optional) | Top of Stent | Bottom of Stent | 40 sec | 0.625 mm | Stent coverage |
+    | Fază Nativă Flash | Apertura toracică superioară | Simfiză pubiană | 0 sec | 2.5 mm | Detecția hematoamelor intramurale native |
+    | Angio-CT Torace Sincronizat | Apertura toracică superioară | Diafragm | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă toracică dedicată aortei ascendente |
+    | Angio-CT Flash AP | Diafragm | Simfiză pubiană | Continuare | 1 mm | Achiziție elicoidală rapidă pitch mare fără gating |
+    | Tardiv Stent (opțional) | Margine superioară stent | Margine inferioară stent | 40 sec | 1 mm | Acoperire zonă endoproteză pentru evaluarea endoleak-urilor |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated chest | Chest | 0.75 mm/0.75 mm | Cardiac | 3 | Aortic root and valve |
-    | Axial | Flash AP | Abdomen/Pelvis | 2 mm/2 mm | Vascular | 3 | Abdominal aorta and branches |
-    | Coronal | Both | Full CAP | 2.5 mm/2.5 mm | Vascular | 3 | MIP full aorta |
-    | Sagittal | Both | Full CAP | 2.5 mm/2.5 mm | Vascular | 3 | Curved MPR entire aorta |
+    | Axial | Angio-CT Torace Sincronizat | Torace | 1.25 mm/1.25 mm | Cardiac |  | Rădăcină aortică și valvă aortică fără artefacte de pulsație |
+    | Axial | Angio-CT Flash AP | Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Aorta abdominală și arterele viscerale |
+    | Coronal | Angio-CT Torace Sincronizat | Torace-Abdomen-Pelvis | 3 mm/3 mm | Vascular |  | Reconstrucție MIP completă a aortei |
+    | Sagital | Angio-CT Torace Sincronizat | Torace-Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Reconstrucție MPR curbată pe întreaga lungime aortică |

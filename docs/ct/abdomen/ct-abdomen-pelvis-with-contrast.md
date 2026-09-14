@@ -1,184 +1,208 @@
 ---
-title: CT Abdomen Pelvis with Contrast
-slug: ct-abdomen-pelvis-with-contrast
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-02'
-author: 
-synonyms: []
 clinical_indications:
-- Abdominal pain
-- Oncology staging
-- Infection source
-- Post-operative complications
-position: Supine with arms raised
-npo: NPO 4 hours for solids
-premedication: 'Oral contrast: 900 mL Readi-Cat 2 over 90 minutes. Last cup 30 min
-  before scan'
+- Dureri abdominale de cauză neelucidată
+- Stadializare și reevaluare oncologică
+- Identificarea focarului de infecție intraabdominal
+- Complicații post-operatorii abdominale
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 3 mL/s
   duration: 40s
-  timing: Empiric Delay (70s)
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: 1.0-1.375
-series:
-- name: Portal Venous Phase
-  start: Diaphragm
-  end: Lesser trochanters
-  delay: 70 sec
-  thickness: 0.625 mm
-  notes: Standard portal venous timing
-- name: Renal Delay
-  start: 1-2cm above kidneys
-  end: 1-2cm below kidneys
-  delay: 300 sec
-  thickness: 0.625 mm
-  notes: Renal Delay series
-recons:
-- plane: Axial
-  acquisition: Portal venous
-  fov: Abdomen
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Primary diagnostic series
-- plane: Axial
-  acquisition: Renal Delay
-  fov: Abdomen
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Renal Delay series
-- plane: Coronal
-  acquisition: Portal venous
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Coronal reformats for overview
-- plane: Sagittal
-  acquisition: Portal venous
-  fov: Full AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Sagittal reformats for bowel loops
+  flow_rate: 3 mL/s
+  timing: Timp empiric de întârziere (70s)
+  volume: 1.5 mL/kg
+last_updated: '2026-01-02'
 notes:
-  tech: Ensure adequate oral contrast opacification. Scan from diaphragm through pubic
-    symphysis. 70 second delay typical
-  nursing: 20-22G IV required. Verify patent IV. Oral contrast 250-500mL water before
-    scan.
-  rad: Systematic review of all solid organs. Check for free fluid/air. Assess bowel
-    enhancement pattern
-  tips: Arms raised completely. Remove all metal objects from scan range
-  additional_recons: Thin slice 1mm for 3D if mass identified
+  additional_recons: Reconstrucții cu secțiuni fine de 1 mm pentru randare 3D dacă
+    este identificată o formațiune tumorală.
+  nursing: Abord venos periferic 20-22G necesar. Verificați permeabilitatea căii venoase.
+    Contrast oral 250-500 mL apă înainte de scanare.
+  rad: Examinare sistematică a tuturor organelor parenchimatoase. Căutați colecții
+    lichidiene sau aer liber intraperitoneal. Evaluați modelul de încărcare al pereților
+    digestivi.
+  tech: 'Asigurați opacifierea adecvată a tubului digestiv prin contrast oral. Scanare
+    de la nivelul diafragmului până la simfiza pubiană. Timp tipic de întârziere:
+    70 secunde.'
+  tips: Brațele complet ridicate. Îndepărtați toate obiectele metalice din câmpul
+    de scanare.
+npo: Repaus alimentar 4 ore pentru alimente solide
+position: Decubit dorsal cu brațele ridicate
+premedication: 'Contrast oral: 900 mL Readi-Cat 2 fracționat pe parcursul a 90 minute.
+  Ultimul pahar cu 30 min înainte de scanare'
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Serie diagnostică primară
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Tardiv Renal
+  fov: Abdomen
+  kernel: Standard
+  notes: Serie tardivă renală
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Reconstrucții coronale de ansamblu
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Reconstrucții sagitale pentru ansele intestinale
+  plane: Sagital
+  thickness_increment: 3 mm/3 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Pre-medicate if prior reaction
+  allergy: Verificați istoricul alergic. Premedicație dacă există reacție alergică
+    anterioară la contrast.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 70 sec
+  end: Mici trohantere
+  name: Fază Venoasă Portală
+  notes: Temporizare standard fază venoasă portală
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 300 sec
+  end: 1-2cm sub rinichi
+  name: Tardiv Renal
+  notes: Serie tardivă de evaluare renală
+  start: 1-2cm deasupra rinichilor
+  thickness: 0.625 mm
+slug: ct-abdomen-pelvis-with-contrast
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: 1.0-1.375
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Abdomen și Pelvis cu Substanță de Contrast
 ---
 
-# CT Abdomen Pelvis with Contrast
+# CT Abdomen și Pelvis cu Substanță de Contrast
 
-**Last Updated:** 2026-01-02  
-**Author:** 
+**Ultima actualizare:** 2026-01-02
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Portal Venous Phase | Contrast (70 sec delay) | Diaphragm to Pubic symphysis |
-        | Renal Delay | Contrast (300 sec delay) | 1-2cm above and below kidneys |
+        | Fază Venoasă Portală | 70 sec | Diafragm → Mici trohantere |
+        | Tardiv Renal | 300 sec | 1-2cm deasupra rinichilor → 1-2cm sub rinichi |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Abdominal pain
-        - Oncology staging
-        - Infection source
-        - Post-operative complications
+        - Dureri abdominale de cauză neelucidată
+        - Stadializare și reevaluare oncologică
+        - Identificarea focarului de infecție intraabdominal
+        - Complicații post-operatorii abdominale
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours for solids
-    - **Pre-Medication:**
-        - Oral contrast: 900 mL Readi-Cat 2 over 90 minutes. Last cup 30 min before scan
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore pentru alimente solide
+    - **Premedicație / Pregătire:**
+        - Contrast oral: 900 mL Readi-Cat 2 fracționat pe parcursul a 90 minute. Ultimul pahar cu 30 min înainte de scanare
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 3 mL/s |
-        | Duration | 40s |
-        | Timing Method | Empiric Delay (70s) |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 3 mL/s |
+        | Durată | 40s |
+        | Metodă Temporizare | Timp empiric de întârziere (70s) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Ensure adequate oral contrast opacification. Scan from diaphragm through pubic symphysis. 70 second delay typical
-        - Additional Recons: Thin slice 1mm for 3D if mass identified
+        - Asigurați opacifierea adecvată a tubului digestiv prin contrast oral. Scanare de la nivelul diafragmului până la simfiza pubiană. Timp tipic de întârziere: 70 secunde.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20-22G IV required. Verify patent IV. Oral contrast 250-500mL water before scan.
+        - Abord venos periferic 20-22G necesar. Verificați permeabilitatea căii venoase. Contrast oral 250-500 mL apă înainte de scanare.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Pre-medicate if prior reaction
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic. Premedicație dacă există reacție alergică anterioară la contrast.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Systematic review of all solid organs. Check for free fluid/air. Assess bowel enhancement pattern
+        - Examinare sistematică a tuturor organelor parenchimatoase. Căutați colecții lichidiene sau aer liber intraperitoneal. Evaluați modelul de încărcare al pereților digestivi.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms raised completely. Remove all metal objects from scan range
+        - Brațele complet ridicate. Îndepărtați toate obiectele metalice din câmpul de scanare.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Diaphragm | Pubic symphysis | N/A | N/A | AP and lateral |
-    | Portal Venous Phase | Diaphragm | Lesser trochanters | 70 sec | 0.625 mm | Standard portal venous timing |
-    | Renal Delay | 1-2cm above kidneys | 1-2cm below kidneys | 300 sec | 0.625 mm | Renal Delay series |
+    | Fază Venoasă Portală | Diafragm | Mici trohantere | 70 sec | 0.625 mm | Temporizare standard fază venoasă portală |
+    | Tardiv Renal | 1-2cm deasupra rinichilor | 1-2cm sub rinichi | 300 sec | 0.625 mm | Serie tardivă de evaluare renală |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Portal venous | Abdomen | 3 mm/3 mm | Standard | 3 | Primary diagnostic series |
-    | Axial | Renal Delay | Abdomen | 3 mm/3 mm | Standard | 3 | Renal Delay series |
-    | Coronal | Portal venous | Full AP | 3 mm/3 mm | Standard | 3 | Coronal reformats for overview |
-    | Sagittal | Portal venous | Full AP | 3 mm/3 mm | Standard | 3 | Sagittal reformats for bowel loops |
+    | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Serie diagnostică primară |
+    | Axial | Tardiv Renal | Abdomen | 2.5 mm/2.5 mm | Standard |  | Serie tardivă renală |
+    | Coronal | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Reconstrucții coronale de ansamblu |
+    | Sagital | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Reconstrucții sagitale pentru ansele intestinale |

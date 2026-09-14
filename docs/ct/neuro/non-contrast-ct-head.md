@@ -1,157 +1,199 @@
 ---
-title: Non-Contrast CT Head
-slug: non-contrast-ct-head
+author: null
 category: neuro
-protocol_type: neuroradiology
-last_updated: '2026-01-03'
-author: 
-synonyms: []
 clinical_indications:
-- Acute stroke protocol
-- Head trauma
-- Headache - worst of life
-- Altered mental status
-position: Supine head-first
-npo: N/A
-premedication: ''
+- Protocol de primă intenție în suspiciunea de AVC acut
+- Traumatism cranio-cerebral (TCC)
+- Cefalee acută brutală severă ('cea mai intensă durere de cap din viață')
+- Alterarea stării de conștiență / comă / confuzie inexplicabilă
+- Suspiciune de hemoragie intracraniană sau hidrocefalie acută
 contrast:
-  agent: N/A
+  agent: Fără substanță de contrast
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (reference 300)
-  rotation_time: 1s
-  pitch: '0.5'
-series:
-- name: Non-Contrast Head
-  start: Vertex
-  end: Foramen magnum
-  delay: N/A
-  thickness: 5 mm
-  notes: Angle parallel to hard palate
-recons:
-- plane: Axial
-  acquisition: Non-contrast
-  fov: Brain
-  thickness_increment: 5 mm/5 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Primary diagnostic - brain window
-- plane: Axial
-  acquisition: Non-contrast
-  fov: Brain
-  thickness_increment: 5 mm/5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Bone window for fractures
-- plane: Coronal
-  acquisition: Non-contrast
-  fov: Brain
-  thickness_increment: 3 mm/3 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Optional - for skull base evaluation
-- plane: Sagittal
-  acquisition: Non-contrast
-  fov: Brain
-  thickness_increment: 3 mm/3 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Optional - for midline structures
+last_updated: '2026-01-03'
 notes:
-  tech: Minimize patient motion. Gantry angle parallel to skull base to reduce orbital
-    dose. Ensure head straight
-  nursing: No IV required. Explain importance of staying still
-  rad: Look for hyperdense MCA sign. Assess grey-white differentiation. Check for
-    hemorrhage and mass effect
-  tips: Remove dentures and hearing aids. Secure head in holder
-  additional_recons: Thin slice 1.25mm if subtle fracture suspected
+  additional_recons: Secțiuni fine submilimetrice sau de 1.25 mm în fereastră osoasă
+    dacă se suspectează fracturi craniene fine.
+  nursing: Nu este necesară linie venoasă. Explicați pacientului importanța imobilizării
+    capului.
+  rad: Căutați semnul arterei cerebrale medii hiperdense. Evaluați diferențierea substanță
+    albă-cenușie (ștergerea conturului nucleilor bazali sau al panglicii insulare).
+    Identificați hemoragia (epidurală, subdurală, subarahnoidiană, intraparenchimatoasă,
+    intraventriculară). Evaluați efectul de masă, devierea liniei mediene și angajările
+    cerebrale.
+  tech: Minimizați mișcarea pacientului. Înclinați gantry-ul paralel cu linia orbitomeatală
+    (OM) / baza craniului pentru a reduce doza de iradiere pe cristalin. Asigurați
+    poziția perfect dreaptă a capului.
+  tips: Îndepărtați protezele dentare și aparatele auditive. Asigurați capul cu benzi
+    de fixare.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu capul fixat simetric în suportul dedicat
+premedication: ''
+protocol_type: neuroradiology
+recons:
+- acquisition: CT Cerebral Nativ
+  fov: Craniu
+  kernel: Brain
+  notes: Serie diagnostică primară în fereastră de creier
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: CT Cerebral Nativ
+  fov: Craniu
+  kernel: Bone
+  notes: Fereastră osoasă pentru decelarea fracturilor calotei și bazei
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Cerebral Nativ
+  fov: Craniu
+  kernel: Brain
+  notes: Plan coronal pentru baza craniului și vertex
+  plane: Coronal
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: CT Cerebral Nativ
+  fov: Craniu
+  kernel: Brain
+  notes: Plan sagital pentru structurile liniei mediene și ventriculul IV
+  plane: Sagital
+  thickness_increment: 2.5 mm/2.5 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Gaura occipitală
+  name: CT Cerebral Nativ
+  notes: Unghi paralel cu linia orbitomeatală / baza craniului
+  start: Vertex
+  thickness: 2.5 mm
+slug: non-contrast-ct-head
+synonyms: []
+tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: '120'
+  mas: Auto (referință 300 mAs)
+  pitch: '0.5'
+  rotation_time: 1s
+  scan_mode: Secvențial (Axial) sau Elicoidal fin
+  slice_thickness: 2.5 mm
+title: CT Cerebral Nativ
 ---
 
-# Non-Contrast CT Head
+# CT Cerebral Nativ
 
-**Last Updated:** 2026-01-03  
-**Author:** 
+**Ultima actualizare:** 2026-01-03
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast Head | Non-contrast | Vertex to Foramen magnum |
+        | CT Cerebral Nativ | 0 sec | Vertex → Gaura occipitală |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Acute stroke protocol
-        - Head trauma
-        - Headache - worst of life
-        - Altered mental status
+        - Protocol de primă intenție în suspiciunea de AVC acut
+        - Traumatism cranio-cerebral (TCC)
+        - Cefalee acută brutală severă ('cea mai intensă durere de cap din viață')
+        - Alterarea stării de conștiență / comă / confuzie inexplicabilă
+        - Suspiciune de hemoragie intracraniană sau hidrocefalie acută
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu capul fixat simetric în suportul dedicat
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Minimize patient motion. Gantry angle parallel to skull base to reduce orbital dose. Ensure head straight
-        - Additional Recons: Thin slice 1.25mm if subtle fracture suspected
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    === "Parametri de Injectare"
 
-        - No IV required. Explain importance of staying still
+        | Parametru | Valoare |
+        |-----------|-------|
+        | Agent | Fără substanță de contrast |
+        | Volum |  |
+        | Rată de Flux |  |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-    === "Radiologist Notes"
+-   __4. Parametri Tehnici Achiziție__
 
-        - Look for hyperdense MCA sign. Assess grey-white differentiation. Check for hemorrhage and mass effect
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 300 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 2.5 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 1 s |
+    | **Pitch (Factor Pas)** | 0.5 |
+    | **Mod Scanare** | Secvențial (Axial) sau Elicoidal fin |
 
-    === "Tips & Tricks"
+-   __5. Note Speciale__
 
-        - Remove dentures and hearing aids. Secure head in holder
+    ---
+
+    === "Note Tehnician"
+
+        - Minimizați mișcarea pacientului. Înclinați gantry-ul paralel cu linia orbitomeatală (OM) / baza craniului pentru a reduce doza de iradiere pe cristalin. Asigurați poziția perfect dreaptă a capului.
+
+    === "Note Asistent"
+
+        - Nu este necesară linie venoasă. Explicați pacientului importanța imobilizării capului.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Căutați semnul arterei cerebrale medii hiperdense. Evaluați diferențierea substanță albă-cenușie (ștergerea conturului nucleilor bazali sau al panglicii insulare). Identificați hemoragia (epidurală, subdurală, subarahnoidiană, intraparenchimatoasă, intraventriculară). Evaluați efectul de masă, devierea liniei mediene și angajările cerebrale.
+
+    === "Sfaturi & Recomandări"
+
+        - Îndepărtați protezele dentare și aparatele auditive. Asigurați capul cu benzi de fixare.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Vertex | C1 | N/A | N/A | Lateral scout |
-    | Non-Contrast Head | Vertex | Foramen magnum | N/A | 5 mm | Angle parallel to hard palate |
+    | CT Cerebral Nativ | Vertex | Gaura occipitală | 0 sec | 2.5 mm | Unghi paralel cu linia orbitomeatală / baza craniului |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-contrast | Brain | 5 mm/5 mm | Brain | 3 | Primary diagnostic - brain window |
-    | Axial | Non-contrast | Brain | 5 mm/5 mm | Bone | N/A | Bone window for fractures |
-    | Coronal | Non-contrast | Brain | 3 mm/3 mm | Brain | 3 | Optional - for skull base evaluation |
-    | Sagittal | Non-contrast | Brain | 3 mm/3 mm | Brain | 3 | Optional - for midline structures |
+    | Axial | CT Cerebral Nativ | Craniu | 2.5 mm/2.5 mm | Brain |  | Serie diagnostică primară în fereastră de creier |
+    | Axial | CT Cerebral Nativ | Craniu | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă pentru decelarea fracturilor calotei și bazei |
+    | Coronal | CT Cerebral Nativ | Craniu | 2.5 mm/2.5 mm | Brain |  | Plan coronal pentru baza craniului și vertex |
+    | Sagital | CT Cerebral Nativ | Craniu | 2.5 mm/2.5 mm | Brain |  | Plan sagital pentru structurile liniei mediene și ventriculul IV |

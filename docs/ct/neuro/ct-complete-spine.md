@@ -1,161 +1,188 @@
 ---
-title: CT Complete Spine
-slug: ct-complete-spine
+author: null
 category: neuro
-protocol_type: spine
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Spine trauma pan-scan
-- Multi-level disease
-- Metastatic survey
-- Infection
-position: Supine
-npo: None - usually trauma
-premedication: ''
+- Pan-scan în politraumatism sever cu leziuni vertebrale multiple suspectate
+- Bilanț lezional multietajat
+- Bilanț metastaze osoase vertebrale (diseminare secundară)
+- Spondilodiscită multifocală
 contrast:
-  agent: None typically. Contrast if infection/mets
-  volume: 'If contrast: 125 mL'
+  agent: Nativ de regulă. Contrast dacă se evaluează metastaze sau infecție
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: Complete Spine
-  start: Skull base
-  end: Sacrum
-  delay: N/A or 60s if contrast
-  thickness: 0.625-1 mm
-  notes: Submillimeter entire spine
-recons:
-- plane: Axial
-  acquisition: Spine
-  fov: Full spine
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Axial entire spine
-- plane: Sagittal
-  acquisition: Spine
-  fov: Full spine
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Sagittal full spine
-- plane: Coronal
-  acquisition: Spine
-  fov: Full spine
-  thickness_increment: 2.5 mm/2 mm
-  kernel: Bone
-  ir_strength: '3'
-  notes: Coronal full spine
+  volume: 'Dacă este indicat: 125 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Skull base to sacrum. LONG COVERAGE. Submillimeter. Sagittal and coronal entire
-    spine. May do in segments
-  nursing: No IV unless contrast needed. Complete spine coverage
-  rad: Entire spine alignment. Fractures all levels. Spinal canal. Paraspinal masses.
-    Metastatic disease
-  tips: Long coverage. May need multiple acquisitions
-  additional_recons: Sagittal and coronal bone reconstructions. Oblique for foramina
+  additional_recons: Reconstrucții sagitale și coronale pe întreg axul spinal. Reformatări
+    fine pe segmentele cu fracturi identificate.
+  nursing: Linie venoasă dacă se administrează contrast. Imobilizare completă pe targă
+    rigidă.
+  rad: Aliniamentul întregului ax rahidian. Fracturi la multiple niveluri. Reculul
+    fragmentelor în canalul spinal. Hematom epidural sau compresie medulară. Mase
+    tumorale paravertebrale sau osteolitice.
+  tech: De la baza craniului până la sacru/coccis. CÂMP FOARTE EXTINS. Achiziție submilimetrică
+    continuă sau în segmente contigue. Reformatări sagitale și coronale continue pe
+    toată coloana.
+  tips: Examinare pe distanță lungă; asigurați poziționarea fără mișcare a pacientului.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu brațele de-a lungul corpului sau ridicate adaptat
+premedication: ''
+protocol_type: spine
+recons:
+- acquisition: CT Coloană Completă
+  fov: Coloană
+  kernel: Bone
+  notes: Secțiuni fine axiale etajate
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Coloană Completă
+  fov: Coloană completă
+  kernel: Bone
+  notes: Plan sagital panoramic complet al coloanei vertebrale
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
+- acquisition: CT Coloană Completă
+  fov: Coloană completă
+  kernel: Bone
+  notes: Plan coronal de ansamblu
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: N/A or verify eGFR
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Sacru
+  name: CT Coloană Completă
+  notes: Achiziție submilimetrică pe toată coloana
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: ct-complete-spine
+synonyms: []
+tech_params:
+  aec: Activat (Modulare 3D adaptată coloanei vertebrale)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
 ---
 
-# CT Complete Spine
+# CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Complete Spine | Contrast (N/A or 60s if contrast delay) | Skull base to Sacrum |
+        | CT Coloană Completă | 0 sec | Baza craniului → Sacru |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Spine trauma pan-scan
-        - Multi-level disease
-        - Metastatic survey
-        - Infection
+        - Pan-scan în politraumatism sever cu leziuni vertebrale multiple suspectate
+        - Bilanț lezional multietajat
+        - Bilanț metastaze osoase vertebrale (diseminare secundară)
+        - Spondilodiscită multifocală
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine
-    - **NPO Status:** None - usually trauma
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele de-a lungul corpului sau ridicate adaptat
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/mets |
-        | Volume | If contrast: 125 mL |
-        | Flow Rate | 3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă se evaluează metastaze sau infecție |
+        | Volum | Dacă este indicat: 125 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare 3D adaptată coloanei vertebrale) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Skull base to sacrum. LONG COVERAGE. Submillimeter. Sagittal and coronal entire spine. May do in segments
-        - Additional Recons: Sagittal and coronal bone reconstructions. Oblique for foramina
+        - De la baza craniului până la sacru/coccis. CÂMP FOARTE EXTINS. Achiziție submilimetrică continuă sau în segmente contigue. Reformatări sagitale și coronale continue pe toată coloana.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed. Complete spine coverage
+        - Linie venoasă dacă se administrează contrast. Imobilizare completă pe targă rigidă.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Entire spine alignment. Fractures all levels. Spinal canal. Paraspinal masses. Metastatic disease
+        - Aliniamentul întregului ax rahidian. Fracturi la multiple niveluri. Reculul fragmentelor în canalul spinal. Hematom epidural sau compresie medulară. Mase tumorale paravertebrale sau osteolitice.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Long coverage. May need multiple acquisitions
+        - Examinare pe distanță lungă; asigurați poziționarea fără mișcare a pacientului.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Skull base | Sacrum | N/A | N/A | Full AP and lateral |
-    | Complete Spine | Skull base | Sacrum | N/A or 60s if contrast | 0.625-1 mm | Submillimeter entire spine |
+    | CT Coloană Completă | Baza craniului | Sacru | 0 sec | 0.625 mm | Achiziție submilimetrică pe toată coloana |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Spine | Full spine | 2 mm/2 mm | Bone | 3 | Axial entire spine |
-    | Sagittal | Spine | Full spine | 2 mm/1.5 mm | Bone | 3 | Sagittal full spine |
-    | Coronal | Spine | Full spine | 2.5 mm/2 mm | Bone | 3 | Coronal full spine |
+    | Axial | CT Coloană Completă | Coloană | 1.5 mm/1.5 mm | Bone |  | Secțiuni fine axiale etajate |
+    | Sagital | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan sagital panoramic complet al coloanei vertebrale |
+    | Coronal | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan coronal de ansamblu |

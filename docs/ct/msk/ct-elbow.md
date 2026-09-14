@@ -1,172 +1,195 @@
 ---
-title: CT Elbow
-slug: ct-elbow
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Elbow fracture
-- Radial head fracture
-- Olecranon fracture
-- Coronoid
-- Terrible triad
-position: Supine with elbow extended if possible or positioned for comfort
-npo: N/A
-premedication: ''
+- Fracturi ale cotului (paletă humerală, capitul, trohlee)
+- Fractură de cap sau col radial
+- Fractură de olecranon sau apofiză coronoidă
+- Luxație de cot / Triadă teribilă (luxație + fractură coronoidă + cap radial)
 contrast:
-  agent: None typically. Contrast if infection
-  volume: 'If contrast: 75 mL'
+  agent: Nativ de regulă. Contrast doar în suspiciune de infecție/flegmon
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Elbow
-  start: Distal humerus
-  end: Proximal radius/ulna
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Elbow
-  fov: Elbow
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone
-- plane: Coronal
-  acquisition: Elbow
-  fov: Elbow
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal elbow
-- plane: Sagittal
-  acquisition: Elbow
-  fov: Elbow
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal elbow
-- plane: 3D surface
-  acquisition: Elbow
-  fov: Bones
-  thickness_increment: 0.625 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D for complex fractures
+  volume: 'Dacă este indicat: 75 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Distal humerus through proximal radius/ulna. Submillimeter. Position extended
-    if possible. Bilateral for comparison
-  nursing: No IV unless contrast needed
-  rad: Distal humerus fractures. Radial head. Olecranon. Coronoid. Elbow dislocation.
-    Terrible triad
-  tips: Position extended if possible. Submillimeter for detail
-  additional_recons: Document terrible triad if present. Radial head-capitellum alignment.
-    3D reconstruction
+  additional_recons: Documentați leziunile din 'triada teribilă' a cotului. Aliniamentul
+    liniei radio-capitelare. Reconstrucție 3D VR.
+  nursing: Fără linie venoasă decât dacă este necesar contrast.
+  rad: Fracturi de humerus distal, cap radial, olecranon, coronoidă. Evaluați congruența
+    articulației humero-ulnare și humero-radiale. Căutați fragmente intraarticulare
+    libere.
+  tech: De la humerusul distal până la nivelul radiusului și ulnei proximale. Achiziție
+    submilimetrică. Poziționare cu cotul în extensie dacă este tolerată de pacient.
+  tips: Poziționare în extensie dacă durerea permite. Achiziție submilimetrică pentru
+    decelarea fragmentelor mici.
+npo: Nu este necesar repaus alimentar
+position: Decubit ventral cu brațul întins deasupra capului ('poziție Superman') sau
+  decubit dorsal cu cotul poziționat confortabil pe abdomen
+premedication: ''
+protocol_type: musculoskeletal
+recons:
+- acquisition: CT Cot
+  fov: Cot
+  kernel: Bone
+  notes: Fereastră osoasă axială
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Cot
+  fov: Cot
+  kernel: Bone
+  notes: Plan coronal al cotului
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Cot
+  fov: Cot
+  kernel: Bone
+  notes: Plan sagital pentru trohlee și olecranon
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Cot
+  fov: Cot
+  kernel: Bone
+  notes: Randare 3D pentru fracturi articulare complexe
+  plane: 3D surface
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Radius/ulnă proximală
+  name: CT Cot
+  notes: Achiziție elicoidală fină submilimetrică
+  start: Humerus distal
+  thickness: 0.625 mm
+slug: ct-elbow
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Cot
 ---
 
-# CT Elbow
+# CT Cot
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Elbow | Contrast (N/A or 60s if contrast delay) | Distal humerus to Proximal radius/ulna |
+        | CT Cot | 0 sec | Humerus distal → Radius/ulnă proximală |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Elbow fracture
-        - Radial head fracture
-        - Olecranon fracture
-        - Coronoid
-        - Terrible triad
+        - Fracturi ale cotului (paletă humerală, capitul, trohlee)
+        - Fractură de cap sau col radial
+        - Fractură de olecranon sau apofiză coronoidă
+        - Luxație de cot / Triadă teribilă (luxație + fractură coronoidă + cap radial)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine with elbow extended if possible or positioned for comfort
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit ventral cu brațul întins deasupra capului ('poziție Superman') sau decubit dorsal cu cotul poziționat confortabil pe abdomen
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection |
-        | Volume | If contrast: 75 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Contrast doar în suspiciune de infecție/flegmon |
+        | Volum | Dacă este indicat: 75 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Distal humerus through proximal radius/ulna. Submillimeter. Position extended if possible. Bilateral for comparison
-        - Additional Recons: Document terrible triad if present. Radial head-capitellum alignment. 3D reconstruction
+        - De la humerusul distal până la nivelul radiusului și ulnei proximale. Achiziție submilimetrică. Poziționare cu cotul în extensie dacă este tolerată de pacient.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast needed
+        - Fără linie venoasă decât dacă este necesar contrast.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Distal humerus fractures. Radial head. Olecranon. Coronoid. Elbow dislocation. Terrible triad
+        - Fracturi de humerus distal, cap radial, olecranon, coronoidă. Evaluați congruența articulației humero-ulnare și humero-radiale. Căutați fragmente intraarticulare libere.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Position extended if possible. Submillimeter for detail
+        - Poziționare în extensie dacă durerea permite. Achiziție submilimetrică pentru decelarea fragmentelor mici.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Distal humerus | Proximal forearm | N/A | N/A | AP lateral |
-    | CT Elbow | Distal humerus | Proximal radius/ulna | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Cot | Humerus distal | Radius/ulnă proximală | 0 sec | 0.625 mm | Achiziție elicoidală fină submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Elbow | Elbow | 1.5 mm/1 mm | Bone | N/A | Axial bone |
-    | Coronal | Elbow | Elbow | 1.5 mm/1 mm | Bone | N/A | Coronal elbow |
-    | Sagittal | Elbow | Elbow | 1.5 mm/1 mm | Bone | N/A | Sagittal elbow |
-    | 3D surface | Elbow | Bones | 0.625 mm source | Bone | N/A | 3D for complex fractures |
+    | Axial | CT Cot | Cot | 1 mm/1 mm | Bone |  | Fereastră osoasă axială |
+    | Coronal | CT Cot | Cot | 1 mm/1 mm | Bone |  | Plan coronal al cotului |
+    | Sagital | CT Cot | Cot | 1 mm/1 mm | Bone |  | Plan sagital pentru trohlee și olecranon |
+    | 3D surface | CT Cot | Cot | 0.75 mm/0.75 mm | Bone |  | Randare 3D pentru fracturi articulare complexe |

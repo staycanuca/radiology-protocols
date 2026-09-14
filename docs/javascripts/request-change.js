@@ -3,9 +3,28 @@
 
   // ─── Helpers ────────────────────────────────────────────────────────────────
 
+  var MODALITY_LABELS = {
+    'ct': '⚡ CT - Tomografie Computerizată',
+    'irm': '🧲 IRM - Rezonanță Magnetică',
+    'rx': '📷 RX - Radiologie Clasică',
+    'eco': '📡 US - Ecografie (Ultrasonografie)',
+    'fluoro': '✨ FLOURO - Fluoroscopie & C-Arm'
+  };
+
+  var MODALITY_SHORT = {
+    'ct': 'CT',
+    'irm': 'IRM',
+    'rx': 'RX',
+    'eco': 'US',
+    'fluoro': 'FLOURO'
+  };
+
+  function getModalityName(mod) {
+    var m = (mod || 'ct').toLowerCase();
+    return MODALITY_LABELS[m] || m.toUpperCase();
+  }
+
   function getBasePath(pathname) {
-    // From any URL, derive the base_path by splitting on /request-change
-    // e.g. /radiology-protocols/request-change/ → /radiology-protocols
     var parts = pathname.split('/request-change');
     return parts[0] || '';
   }
@@ -28,7 +47,7 @@
   }
 
   function linesToArray(str) {
-    return str
+    return (str || '')
       .split('\n')
       .map(function (s) { return s.trim(); })
       .filter(function (s) { return s.length > 0; });
@@ -44,46 +63,48 @@
     if (el) el.value = value || '';
   }
 
-  // ─── Button injection on protocol pages ─────────────────────────────────────
+  // ─── Button injection on protocol pages across ALL modalities ───────────────
 
   function injectProtocolButton() {
-    // Only run if we are NOT on the request-change page
     if (document.getElementById('rc-app')) return;
 
     var path = window.location.pathname;
-    // Match /ct/<category>/<slug>/ (two segments after /ct/)
-    var match = path.match(/^(.*\/ct\/[^/]+\/)([^/]+)\/?$/);
+    // Matches /<modality>/<category>/<slug>/ where modality in (ct, rx, irm, eco, fluoro)
+    var match = path.match(/^(.*(?:\/ct|\/rx|\/irm|\/eco|\/fluoro)\/[^/]+\/)([^/]+)\/?$/);
     if (!match) return;
 
-    var beforeSlug = match[1]; // everything up to and including second segment
+    var beforeSlug = match[1];
     var slug = match[2];
+    if (slug === 'index' || slug === 'compare') return;
 
-    // Derive base: everything before /ct/
-    var ctIdx = beforeSlug.indexOf('/ct/');
-    var base = ctIdx >= 0 ? beforeSlug.substring(0, ctIdx) : '';
+    var modMatch = beforeSlug.match(/^(.*?)(?:\/ct|\/rx|\/irm|\/eco|\/fluoro)\//);
+    var base = modMatch ? modMatch[1] : '';
 
     var h1 = document.querySelector('article h1');
     if (!h1) return;
 
     var link = document.createElement('a');
     link.href = base + '/request-change/?protocol=' + encodeURIComponent(slug);
-    link.textContent = 'Request a Change';
+    link.textContent = 'Solicită o Modificare';
     link.className = 'rc-request-btn';
     link.style.cssText = [
       'display:inline-block',
       'flex-shrink:0',
       'margin-left:1rem',
-      'padding:0.25rem 0.75rem',
-      'border:1px solid',
-      'border-radius:4px',
+      'padding:0.3rem 0.85rem',
+      'border:1px solid #1565c0',
+      'color:#1565c0',
+      'background:#f0f7ff',
+      'border-radius:6px',
       'font-size:0.75rem',
-      'font-weight:normal',
+      'font-weight:600',
       'text-decoration:none',
       'white-space:nowrap',
       'align-self:center',
+      'box-shadow:0 1px 3px rgba(0,0,0,0.06)'
     ].join(';');
 
-    h1.style.cssText = 'display:flex;align-items:center;justify-content:space-between;';
+    h1.style.cssText = 'display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;';
     h1.appendChild(link);
   }
 
@@ -96,57 +117,34 @@
     row.style.cssText = 'display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr 2fr auto;gap:0.4rem;margin-bottom:0.4rem;align-items:center;';
 
     var fields = [
-      { name: 'name', placeholder: 'Series name', value: s.name || '' },
-      { name: 'start', placeholder: 'Start', value: s.start || '' },
-      { name: 'end', placeholder: 'End', value: s.end || '' },
-      { name: 'delay', placeholder: 'Delay', value: s.delay || '' },
-      { name: 'thickness', placeholder: 'Thickness', value: s.thickness || '' },
-      { name: 'notes', placeholder: 'Notes', value: s.notes || '' },
+      { name: 'name', placeholder: 'Nume serie / Secvență / Incidență', value: s.name || '' },
+      { name: 'start', placeholder: 'Început / Plan', value: s.start || '' },
+      { name: 'end', placeholder: 'Sfârșit / Parametri', value: s.end || '' },
+      { name: 'delay', placeholder: 'Întârziere / Fază', value: s.delay || '' },
+      { name: 'thickness', placeholder: 'Grosime / Gap', value: s.thickness || '' },
+      { name: 'notes', placeholder: 'Note serie', value: s.notes || '' }
     ];
 
     fields.forEach(function (f) {
       var input = document.createElement('input');
       input.type = 'text';
+      input.className = 'rc-series-field';
+      input.dataset.field = f.name;
       input.placeholder = f.placeholder;
       input.value = f.value;
-      input.dataset.field = f.name;
-      input.className = 'rc-series-field';
-      input.style.cssText = 'width:100%;padding:0.3rem;font-size:0.85rem;border:1px solid #ccc;border-radius:3px;';
+      input.style.cssText = 'padding:0.35rem 0.5rem;border:1px solid #ccc;border-radius:4px;font-size:0.85rem;width:100%;box-sizing:border-box;';
       row.appendChild(input);
     });
 
-    var btnGroup = document.createElement('div');
-    btnGroup.style.cssText = 'display:flex;flex-direction:column;gap:0.2rem;';
-
-    var upBtn = document.createElement('button');
-    upBtn.type = 'button';
-    upBtn.textContent = '▲';
-    upBtn.title = 'Move up';
-    upBtn.style.cssText = 'padding:0.15rem 0.4rem;cursor:pointer;background:#e0e0e0;color:#333;border:none;border-radius:3px;font-size:0.7rem;line-height:1;';
-    upBtn.addEventListener('click', function () {
-      if (row.previousElementSibling) { row.parentNode.insertBefore(row, row.previousElementSibling); }
+    var delBtn = document.createElement('button');
+    delBtn.type = 'button';
+    delBtn.textContent = '✕';
+    delBtn.title = 'Șterge seria';
+    delBtn.style.cssText = 'padding:0.3rem 0.6rem;background:#fee2e2;color:#b91c1c;border:1px solid #fca5a5;border-radius:4px;cursor:pointer;font-size:0.85rem;font-weight:bold;';
+    delBtn.addEventListener('click', function () {
+      row.remove();
     });
-
-    var downBtn = document.createElement('button');
-    downBtn.type = 'button';
-    downBtn.textContent = '▼';
-    downBtn.title = 'Move down';
-    downBtn.style.cssText = 'padding:0.15rem 0.4rem;cursor:pointer;background:#e0e0e0;color:#333;border:none;border-radius:3px;font-size:0.7rem;line-height:1;';
-    downBtn.addEventListener('click', function () {
-      if (row.nextElementSibling) { row.parentNode.insertBefore(row.nextElementSibling, row); }
-    });
-
-    var removeBtn = document.createElement('button');
-    removeBtn.type = 'button';
-    removeBtn.textContent = '✕';
-    removeBtn.title = 'Remove row';
-    removeBtn.style.cssText = 'padding:0.25rem 0.5rem;cursor:pointer;background:#e57373;color:#fff;border:none;border-radius:3px;';
-    removeBtn.addEventListener('click', function () { row.parentNode.removeChild(row); });
-
-    btnGroup.appendChild(upBtn);
-    btnGroup.appendChild(downBtn);
-    btnGroup.appendChild(removeBtn);
-    row.appendChild(btnGroup);
+    row.appendChild(delBtn);
 
     return row;
   }
@@ -173,9 +171,42 @@
     });
   }
 
-  // ─── Form population ─────────────────────────────────────────────────────────
+  // ─── Form population & clear ─────────────────────────────────────────────────
+
+  function clearForm() {
+    setVal('rc-title', '');
+    setVal('rc-slug', '');
+    setVal('rc-category', '');
+    setVal('rc-position', '');
+    setVal('rc-npo', '');
+    setVal('rc-indications', '');
+    setVal('rc-premedication', '');
+
+    setVal('rc-agent', '');
+    setVal('rc-volume', '');
+    setVal('rc-flow-rate', '');
+    setVal('rc-duration', '');
+    setVal('rc-timing', '');
+    setVal('rc-roi', '');
+    setVal('rc-trigger', '');
+
+    populateSeries([]);
+
+    setVal('rc-tech', '');
+    setVal('rc-nursing', '');
+    setVal('rc-rad', '');
+    setVal('rc-tips', '');
+
+    setVal('rc-renal', '');
+    setVal('rc-allergy', '');
+    setVal('rc-free-text', '');
+  }
 
   function populateForm(protocol) {
+    if (!protocol) {
+      clearForm();
+      return;
+    }
     setVal('rc-title', protocol.title || '');
     setVal('rc-slug', protocol.slug || '');
     setVal('rc-category', protocol.category || '');
@@ -251,15 +282,15 @@
     'Series': 'series_json',
     'Tech Notes': 'notes_tech', 'Nursing Notes': 'notes_nursing',
     'Radiologist Notes': 'notes_rad', 'Tips': 'notes_tips',
-    'Renal': 'safety_renal', 'Allergy': 'safety_allergy'
+    'Renal / Protecție': 'safety_renal', 'Allergy': 'safety_allergy'
   };
 
   function diffValues(original, current) {
     var changes = [];
 
     function addChange(label, origVal, newVal) {
-      var o = (origVal === undefined || origVal === null) ? '' : String(origVal);
-      var n = (newVal === undefined || newVal === null) ? '' : String(newVal);
+      var o = (origVal === undefined || origVal === null) ? '' : String(origVal).trim();
+      var n = (newVal === undefined || newVal === null) ? '' : String(newVal).trim();
       if (o !== n) {
         changes.push({ label: label, key: FIELD_KEYS[label] || label, original: o, proposed: n });
       }
@@ -297,121 +328,123 @@
     addChange('Tips', on.tips, current.notes.tips);
 
     var os = original.safety || {};
-    addChange('Renal', os.renal, current.safety.renal);
+    addChange('Renal / Protecție', os.renal, current.safety.renal);
     addChange('Allergy', os.allergy, current.safety.allergy);
 
     return changes;
   }
 
-  // ─── Body formatting ─────────────────────────────────────────────────────────
+  // ─── Formatting ─────────────────────────────────────────────────────────────
 
   function formatChangeBody(protocol, changes, freeText) {
     var lines = [
       '**Protocol:** ' + protocol.title,
+      '**Modalitate:** ' + getModalityName(protocol.modality),
       '**Slug:** ' + protocol.slug,
+      '**Categorie:** ' + (protocol.category || ''),
       '',
     ];
 
     if (freeText && changes.length === 0) {
-      lines.push('## Note from Requestor', '', '> ' + freeText.replace(/\n/g, '\n> '), '');
+      lines.push('## Note de la Solicitant', '', '> ' + freeText.replace(/\n/g, '\n> '), '');
     }
 
-    lines.push('## Requested Changes', '');
+    lines.push('## Modificări Solicitate', '');
 
     if (changes.length === 0) {
-      lines.push('_(No specific field changes — see note above)_', '');
+      lines.push('_(Nicio modificare de câmp specificată — consultați notele de mai sus)_', '');
     }
 
     changes.forEach(function (c) {
       lines.push('**' + c.label + '**');
-      lines.push('- Current: ' + (c.original || '(empty)'));
-      lines.push('- Proposed: ' + (c.proposed || '(empty)'));
+      lines.push('- Valoare Actuală: ' + (c.original || '(necompletat)'));
+      lines.push('- Valoare Propusă: ' + (c.proposed || '(necompletat)'));
       lines.push('');
     });
 
     if (freeText && changes.length > 0) {
-      lines.push('## Additional Notes', '', freeText);
+      lines.push('## Note / Motivație Suplimentară', '', freeText);
     }
 
     return lines.join('\n');
   }
 
-  function formatNewProtocolBody(baseProtocol, current) {
+  function formatNewProtocolBody(baseProtocol, current, modality) {
     var lines = [
-      '**New Protocol Request**',
-      '**Based on:** ' + (baseProtocol ? baseProtocol.title : '(none)'),
+      '**Solicitare Protocol Nou**',
+      '**Modalitate:** ' + getModalityName(modality),
+      '**Protocol de Bază (referință):** ' + (baseProtocol ? baseProtocol.title : '(niciunul - de la zero)'),
       '',
-      '## Protocol Details',
+      '## Detalii Protocol',
       '',
-      '**Title:** ' + current.title,
+      '**Titlu:** ' + current.title,
       '**Slug:** ' + current.slug,
-      '**Category:** ' + current.category,
-      '**Clinical Indications:** ' + (current.clinical_indications || []).join(', '),
-      '**Position:** ' + current.position,
-      '**NPO:** ' + current.npo,
-      '**Premedication:** ' + current.premedication,
+      '**Categorie:** ' + current.category,
+      '**Indicații Clinice:** ' + (current.clinical_indications || []).join(', '),
+      '**Poziție Pacient:** ' + current.position,
+      '**Instrucțiuni NPO:** ' + current.npo,
+      '**Pregătire / Premedicație:** ' + current.premedication,
       '',
-      '## Contrast',
+      '## Substanță de Contrast / Tehnologie',
       '**Agent:** ' + current.contrast.agent,
-      '**Volume:** ' + current.contrast.volume,
-      '**Flow Rate:** ' + current.contrast.flow_rate,
-      '**Duration:** ' + current.contrast.duration,
-      '**Timing:** ' + current.contrast.timing,
+      '**Volum:** ' + current.contrast.volume,
+      '**Rată de Flux:** ' + current.contrast.flow_rate,
+      '**Durată:** ' + current.contrast.duration,
+      '**Temporizare:** ' + current.contrast.timing,
       '**ROI:** ' + current.contrast.roi,
-      '**Trigger:** ' + current.contrast.trigger,
+      '**Declanșator:** ' + current.contrast.trigger,
       '',
-      '## Series',
+      '## Serii / Secvențe / Incidențe de Achiziție',
       JSON.stringify(current.series, null, 2),
       '',
-      '## Notes',
-      '**Tech:** ' + current.notes.tech,
-      '**Nursing:** ' + current.notes.nursing,
-      '**Radiologist:** ' + current.notes.rad,
-      '**Tips:** ' + current.notes.tips,
+      '## Note Clinice',
+      '**Tehnician:** ' + current.notes.tech,
+      '**Asistent:** ' + current.notes.nursing,
+      '**Radiolog:** ' + current.notes.rad,
+      '**Sfaturi & Recomandări:** ' + current.notes.tips,
       '',
-      '## Safety',
-      '**Renal:** ' + current.safety.renal,
-      '**Allergy:** ' + current.safety.allergy,
+      '## Siguranță & Radioprotecție',
+      '**Ghidaj Renal / Protecție:** ' + current.safety.renal,
+      '**Ghidaj Alergii:** ' + current.safety.allergy,
     ];
 
     if (current.free_text) {
-      lines.push('', '## Additional Notes', '', current.free_text);
+      lines.push('', '## Note Suplimentare / Context', '', current.free_text);
     }
 
     return lines.join('\n');
   }
 
-  // ─── Submission ──────────────────────────────────────────────────────────────
+  // ─── Submission ─────────────────────────────────────────────────────────────
 
   function submitViaGoogleForm(formUrl, entryTitle, entryBody, subject, body) {
     var submitBtn = document.querySelector('.rc-submit-btn');
-    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Submitting…'; }
+    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Se trimite…'; }
 
     var payload = entryTitle + '=' + encodeURIComponent(subject) +
                   '&' + entryBody + '=' + encodeURIComponent(body);
 
-    // Google Forms does not support CORS — use no-cors (fire-and-forget).
-    // The response is always opaque; we show optimistic confirmation.
     fetch(formUrl, {
       method: 'POST',
       mode: 'no-cors',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: payload,
     }).then(function () {
-      showMessage('Request submitted successfully.', 'info');
-      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Submit Request'; }
+      showMessage('Solicitarea a fost trimisă cu succes!', 'info');
+      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Trimite Solicitarea'; }
     }).catch(function () {
-      showMessage('Submission failed. Please try again or contact your protocol lead.', 'error');
-      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Submit Request'; }
+      showMessage('Trimiterea a eșuat. Vă rugăm să încercați din nou sau să contactați direct responsabilul de protocoale.', 'error');
+      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Trimite Solicitarea'; }
     });
   }
 
-  function submitRequest(config, title, slug, body) {
+  function submitRequest(config, title, slug, body, modality) {
     var feedbackUrl  = config.feedback_url || '';
     var formUrl      = config.google_form_url || '';
     var entryTitle   = config.google_form_entry_title || '';
     var entryBody    = config.google_form_entry_body || '';
-    var subject = 'Protocol Change Request: ' + title + ' (' + slug + ')';
+    var modTag = MODALITY_SHORT[modality] || (modality ? modality.toUpperCase() : 'RADIO');
+    var subject = '[' + modTag + '] Solicitare Modificare Protocol: ' + title + ' (' + slug + ')';
 
     if (formUrl && entryTitle && entryBody) {
       submitViaGoogleForm(formUrl, entryTitle, entryBody, subject, body);
@@ -419,7 +452,7 @@
     }
 
     if (!feedbackUrl) {
-      showMessage('Contact your protocol lead directly.', 'info');
+      showMessage('Contactați direct responsabilul de protocoale.', 'info');
       return;
     }
 
@@ -439,7 +472,7 @@
       return;
     }
 
-    showMessage('Contact your protocol lead directly.', 'info');
+    showMessage('Contactați direct responsabilul de protocoale.', 'info');
   }
 
   function showMessage(msg, type) {
@@ -450,32 +483,39 @@
     el.className = 'rc-message rc-message--' + (type || 'info');
   }
 
-  // ─── Form builder ────────────────────────────────────────────────────────────
+  // ─── Form Builder with 2 Dynamic Selectors ───────────────────────────────────
 
-  function buildForm(protocols, config, isNewMode, preselectedProtocol) {
+  function buildApp(protocols, config, initialProtocol) {
     var app = document.getElementById('rc-app');
     app.innerHTML = '';
 
+    var activeProtocol = initialProtocol || null;
+    var activeModality = initialProtocol ? (initialProtocol.modality || 'ct').toLowerCase() : '';
+
     var style = document.createElement('style');
     style.textContent = [
-      '.rc-form { max-width: 860px; }',
-      '.rc-fieldset { border: 1px solid var(--md-default-fg-color--lightest, #ddd); border-radius: 6px; padding: 1rem 1.25rem; margin-bottom: 1.25rem; }',
-      '.rc-fieldset legend { font-weight: 600; padding: 0 0.5rem; }',
-      '.rc-field-group { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 0.5rem; }',
+      '.rc-form { max-width: 920px; }',
+      '.rc-fieldset { border: 1px solid var(--md-default-fg-color--lightest, #ddd); border-radius: 8px; padding: 1.2rem 1.4rem; margin-bottom: 1.5rem; background: var(--md-default-bg-color, #ffffff); box-shadow: 0 1px 3px rgba(0,0,0,0.04); }',
+      '.rc-fieldset legend { font-weight: 700; padding: 0 0.6rem; color: var(--md-primary-fg-color, #1a237e); font-size: 1rem; }',
+      '.rc-field-group { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 0.75rem; }',
       '.rc-field-group.single { grid-template-columns: 1fr; }',
-      '.rc-field { display: flex; flex-direction: column; gap: 0.25rem; }',
-      '.rc-field label { font-size: 0.8rem; font-weight: 500; }',
-      '.rc-field input, .rc-field textarea, .rc-field select { padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.9rem; width: 100%; box-sizing: border-box; background: var(--md-default-bg-color, #fff); color: var(--md-default-fg-color, #000); }',
+      '.rc-field { display: flex; flex-direction: column; gap: 0.35rem; }',
+      '.rc-field label { font-size: 0.85rem; font-weight: 600; color: var(--md-default-fg-color, #212529); }',
+      '.rc-field input, .rc-field textarea, .rc-field select { padding: 0.5rem 0.75rem; border: 1px solid var(--md-default-fg-color--lightest, #ccc); border-radius: 6px; font-size: 0.92rem; width: 100%; box-sizing: border-box; background: var(--md-default-bg-color, #fff); color: var(--md-default-fg-color, #000); transition: border-color 0.2s; }',
+      '.rc-field input:focus, .rc-field textarea:focus, .rc-field select:focus { border-color: var(--md-accent-fg-color, #1565c0); outline: none; }',
       '.rc-field textarea { resize: vertical; min-height: 80px; }',
-      '.rc-series-header { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr 2fr auto; gap: 0.4rem; margin-bottom: 0.3rem; }',
-      '.rc-series-header span { font-size: 0.75rem; font-weight: 600; color: var(--md-default-fg-color--light, #555); }',
-      '.rc-add-series-btn { margin-top: 0.5rem; padding: 0.3rem 0.75rem; background: var(--md-primary-fg-color, #3f51b5); color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 0.85rem; }',
-      '.rc-submit-btn { padding: 0.5rem 1.5rem; background: var(--md-primary-fg-color, #3f51b5); color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 1rem; }',
-      '.rc-submit-btn:hover { opacity: 0.9; }',
-      '.rc-message { display: none; padding: 0.75rem 1rem; border-radius: 4px; margin-top: 1rem; }',
+      '.rc-series-header { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr 2fr auto; gap: 0.4rem; margin-bottom: 0.4rem; }',
+      '.rc-series-header span { font-size: 0.75rem; font-weight: 700; color: var(--md-default-fg-color--light, #555); }',
+      '.rc-add-series-btn { margin-top: 0.75rem; padding: 0.4rem 1rem; background: #e8eaf6; color: #1a237e; border: 1px solid #c5cae9; border-radius: 6px; cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all 0.2s; }',
+      '.rc-add-series-btn:hover { background: #c5cae9; }',
+      '.rc-submit-btn { padding: 0.7rem 2rem; background: var(--md-primary-fg-color, #1a237e); color: #fff; border: none; border-radius: 6px; cursor: pointer; font-size: 1rem; font-weight: 600; transition: opacity 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }',
+      '.rc-submit-btn:hover { opacity: 0.92; }',
+      '.rc-message { display: none; padding: 0.85rem 1.2rem; border-radius: 6px; margin-top: 1.2rem; font-size: 0.95rem; }',
       '.rc-message--info { background: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; }',
       '.rc-message--error { background: #ffebee; color: #b71c1c; border: 1px solid #ef9a9a; }',
-      '.rc-protocol-info { background: var(--md-default-bg-color, #f5f5f5); border: 1px solid #ddd; border-radius: 4px; padding: 0.5rem 0.75rem; margin-bottom: 1rem; font-size: 0.9rem; }',
+      '.rc-protocol-badge { background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 0.75rem 1rem; margin-top: 0.75rem; font-size: 0.92rem; color: #166534; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }',
+      '.rc-badge-pill { background: #dcfce7; border: 1px solid #bbf7d0; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: 700; font-size: 0.8rem; }',
+      '@media (max-width: 600px) { .rc-field-group { grid-template-columns: 1fr; } .rc-series-header { display: none; } .rc-series-row { grid-template-columns: 1fr !important; } }'
     ].join('\n');
     app.appendChild(style);
 
@@ -483,33 +523,101 @@
     form.className = 'rc-form';
     form.id = 'rc-form';
 
-    // ── Mode B: protocol selector ────────────────────────────────────────────
-    if (isNewMode) {
-      var selectFS = document.createElement('fieldset');
-      selectFS.className = 'rc-fieldset';
-      var selectLeg = document.createElement('legend');
-      selectLeg.textContent = 'Base Protocol (optional)';
-      selectFS.appendChild(selectLeg);
+    // ── 1. Selector Fieldset with TWO Selectors ──────────────────────────────
+    var selectorFS = document.createElement('fieldset');
+    selectorFS.className = 'rc-fieldset';
+    var selectorLeg = document.createElement('legend');
+    selectorLeg.textContent = '1. Selectare Modalitate & Protocol';
+    selectorFS.appendChild(selectorLeg);
 
-      var selectField = document.createElement('div');
-      selectField.className = 'rc-field';
-      var selectLabel = document.createElement('label');
-      selectLabel.textContent = 'Select a protocol to pre-fill fields';
-      selectLabel.htmlFor = 'rc-base-select';
-      var select = document.createElement('select');
-      select.id = 'rc-base-select';
+    var selGroup = document.createElement('div');
+    selGroup.className = 'rc-field-group';
+
+    // Selector 1: Modalitate
+    var modField = document.createElement('div');
+    modField.className = 'rc-field';
+    var modLabel = document.createElement('label');
+    modLabel.textContent = 'Selector 1: Modalitate Imagistică';
+    modLabel.htmlFor = 'rc-modality-select';
+
+    var modSelect = document.createElement('select');
+    modSelect.id = 'rc-modality-select';
+
+    var allModOpt = document.createElement('option');
+    allModOpt.value = '';
+    allModOpt.textContent = '-- Toate Modalitățile --';
+    modSelect.appendChild(allModOpt);
+
+    [
+      { value: 'ct', label: '⚡ CT (Tomografie Computerizată)' },
+      { value: 'irm', label: '🧲 IRM (Rezonanță Magnetică)' },
+      { value: 'rx', label: '📷 RX (Radiologie Clasică)' },
+      { value: 'eco', label: '📡 US (Ecografie & Ultrasonografie)' },
+      { value: 'fluoro', label: '✨ FLOURO (Fluoroscopie & C-Arm)' }
+    ].forEach(function (m) {
+      var opt = document.createElement('option');
+      opt.value = m.value;
+      opt.textContent = m.label;
+      modSelect.appendChild(opt);
+    });
+
+    modField.appendChild(modLabel);
+    modField.appendChild(modSelect);
+    selGroup.appendChild(modField);
+
+    // Selector 2: Protocol
+    var protField = document.createElement('div');
+    protField.className = 'rc-field';
+    var protLabel = document.createElement('label');
+    protLabel.textContent = 'Selector 2: Protocol spre Modificare';
+    protLabel.htmlFor = 'rc-protocol-select';
+
+    var protSelect = document.createElement('select');
+    protSelect.id = 'rc-protocol-select';
+
+    protField.appendChild(protLabel);
+    protField.appendChild(protSelect);
+    selGroup.appendChild(protField);
+
+    selectorFS.appendChild(selGroup);
+
+    // Protocol status badge
+    var badge = document.createElement('div');
+    badge.id = 'rc-selected-protocol-badge';
+    badge.className = 'rc-protocol-badge';
+    badge.style.display = 'none';
+    selectorFS.appendChild(badge);
+
+    form.appendChild(selectorFS);
+
+    // Helper to populate Selector 2 options based on selected modality
+    function refreshProtocolSelector(filterModality, preserveSlug) {
+      protSelect.innerHTML = '';
 
       var defaultOpt = document.createElement('option');
       defaultOpt.value = '';
-      defaultOpt.textContent = '-- None (start blank) --';
-      select.appendChild(defaultOpt);
+      defaultOpt.textContent = '-- Alege un Protocol spre Modificare --';
+      protSelect.appendChild(defaultOpt);
 
-      // Group by category
+      var newOpt = document.createElement('option');
+      newOpt.value = '__new__';
+      newOpt.textContent = '➕ Protocol Nou (începe de la zero)';
+      protSelect.appendChild(newOpt);
+
+      var filtered = protocols.filter(function (p) {
+        if (!filterModality) return true;
+        return (p.modality || '').toLowerCase() === filterModality.toLowerCase();
+      });
+
+      // Group filtered protocols by category
       var byCategory = {};
-      protocols.forEach(function (p) {
-        var cat = p.category || 'Other';
-        if (!byCategory[cat]) byCategory[cat] = [];
-        byCategory[cat].push(p);
+      filtered.forEach(function (p) {
+        var catKey = (p.category || 'Altele');
+        if (!filterModality) {
+          catKey = (MODALITY_SHORT[p.modality] || p.modality || 'CT').toUpperCase() + ' - ' + catKey;
+        }
+        if (!byCategory[catKey]) byCategory[catKey] = [];
+        byCategory[catKey].push(p);
       });
 
       Object.keys(byCategory).sort().forEach(function (cat) {
@@ -518,68 +626,156 @@
         byCategory[cat].forEach(function (p) {
           var opt = document.createElement('option');
           opt.value = p.slug;
-          opt.textContent = p.title;
+          opt.textContent = p.title + (filterModality ? '' : ' [' + (MODALITY_SHORT[p.modality] || p.modality).toUpperCase() + ']');
           optgroup.appendChild(opt);
         });
-        select.appendChild(optgroup);
+        protSelect.appendChild(optgroup);
       });
 
-      select.addEventListener('change', function () {
-        if (!this.value) return;
-        var found = protocols.find(function (p) { return p.slug === select.value; });
-        if (found) populateForm(found);
-        // Auto-clear title and slug so user must provide new ones
-        setVal('rc-title', '');
-        setVal('rc-slug', '');
-      });
-
-      selectField.appendChild(selectLabel);
-      selectField.appendChild(select);
-      selectFS.appendChild(selectField);
-      form.appendChild(selectFS);
-    } else {
-      // Mode A: show protocol info bar
-      if (preselectedProtocol) {
-        var infoDiv = document.createElement('div');
-        infoDiv.className = 'rc-protocol-info';
-        infoDiv.innerHTML = 'Requesting change for: <strong>' + preselectedProtocol.title + '</strong>';
-        form.appendChild(infoDiv);
+      if (preserveSlug) {
+        protSelect.value = preserveSlug;
       }
     }
 
-    // ── Clinical fieldset ────────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Clinical', [
-      makeField('rc-indications', 'Clinical Indications (one per line)', 'textarea'),
-      makeField('rc-position', 'Patient Position'),
-      makeField('rc-npo', 'NPO Instructions'),
+    function updateBadge(protocol, isNew) {
+      if (isNew) {
+        badge.style.display = 'flex';
+        badge.style.background = '#eff6ff';
+        badge.style.borderColor = '#93c5fd';
+        badge.style.color = '#1e40af';
+        badge.innerHTML = '<span>➕ <strong>Mod: Creare Protocol Nou</strong> (completați formularul de mai jos)</span><span class="rc-badge-pill" style="background:#dbeafe;border-color:#bfdbfe;color:#1e40af;">Nou</span>';
+      } else if (protocol) {
+        badge.style.display = 'flex';
+        badge.style.background = '#f0fdf4';
+        badge.style.borderColor = '#86efac';
+        badge.style.color = '#166534';
+        badge.innerHTML = '<span>✏️ <strong>Protocol selectat:</strong> ' + protocol.title + '</span>' +
+          '<span class="rc-badge-pill">' + getModalityName(protocol.modality) + ' &bull; ' + (protocol.category || '') + '</span>';
+      } else {
+        badge.style.display = 'none';
+      }
+    }
+
+    // Event listener: Selector 1 (Modalitate)
+    modSelect.addEventListener('change', function () {
+      var chosenMod = this.value;
+      var curSlug = protSelect.value;
+      // If current protocol belongs to chosen modality, keep it, otherwise reset
+      var keepSlug = '';
+      if (curSlug && curSlug !== '__new__') {
+        var found = protocols.find(function (p) { return p.slug === curSlug; });
+        if (found && (!chosenMod || (found.modality || '').toLowerCase() === chosenMod.toLowerCase())) {
+          keepSlug = curSlug;
+        }
+      }
+      refreshProtocolSelector(chosenMod, keepSlug);
+
+      if (keepSlug) {
+        // Keep active protocol
+      } else if (protSelect.value === '__new__') {
+        updateBadge(null, true);
+      } else {
+        activeProtocol = null;
+        clearForm();
+        updateBadge(null, false);
+      }
+    });
+
+    // Event listener: Selector 2 (Protocol)
+    protSelect.addEventListener('change', function () {
+      var selectedVal = this.value;
+      if (!selectedVal) {
+        activeProtocol = null;
+        clearForm();
+        updateBadge(null, false);
+        return;
+      }
+
+      if (selectedVal === '__new__') {
+        activeProtocol = null;
+        clearForm();
+        updateBadge(null, true);
+        return;
+      }
+
+      var found = protocols.find(function (p) { return p.slug === selectedVal; });
+      if (found) {
+        activeProtocol = found;
+        // Sync Selector 1 if currently "All"
+        if (!modSelect.value && found.modality) {
+          modSelect.value = found.modality.toLowerCase();
+          refreshProtocolSelector(found.modality, found.slug);
+        }
+        populateForm(found);
+        updateBadge(found, false);
+      }
+    });
+
+    // Initialize selectors with initial values
+    if (activeModality) {
+      modSelect.value = activeModality;
+    }
+    refreshProtocolSelector(activeModality, activeProtocol ? activeProtocol.slug : '');
+
+    // ── 2. Identification Fieldset ───────────────────────────────────────────
+    form.appendChild(makeFieldset('2. Identificare Protocol', [
+      makeField('rc-title', 'Titlu Protocol (obligatoriu)'),
+      makeField('rc-slug', 'Slug (identificator unic URL)'),
+      makeField('rc-category', 'Regiune Anatomică / Categorie'),
     ]));
 
-    // ── Preparation fieldset ─────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Preparation', [
-      makeField('rc-premedication', 'Premedication / Oral Contrast', 'textarea', true),
+    // Auto-generate slug from title for new protocols
+    var titleInput = form.querySelector('#rc-title');
+    if (titleInput) {
+      titleInput.addEventListener('input', function () {
+        if (!activeProtocol) {
+          var slugInput = form.querySelector('#rc-slug');
+          if (slugInput && !slugInput.dataset.userEdited) {
+            slugInput.value = slugify(this.value);
+          }
+        }
+      });
+      var slugInput = form.querySelector('#rc-slug');
+      if (slugInput) {
+        slugInput.addEventListener('input', function () {
+          this.dataset.userEdited = 'true';
+        });
+      }
+    }
+
+    // ── 3. Clinical Fieldset ─────────────────────────────────────────────────
+    form.appendChild(makeFieldset('3. Indicații Clinice & Poziționare', [
+      makeField('rc-indications', 'Indicații Clinice (câte una pe linie)', 'textarea'),
+      makeField('rc-position', 'Poziție Pacient / Centrare'),
+      makeField('rc-npo', 'Instrucțiuni NPO (repaus alimentar / hidratare)'),
     ]));
 
-    // ── Contrast fieldset ────────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Contrast', [
-      makeField('rc-agent', 'Agent'),
-      makeField('rc-volume', 'Volume'),
-      makeField('rc-flow-rate', 'Flow Rate'),
-      makeField('rc-duration', 'Duration'),
-      makeField('rc-timing', 'Timing'),
-      makeField('rc-roi', 'ROI'),
-      makeField('rc-trigger', 'Trigger'),
+    // ── 4. Preparation Fieldset ──────────────────────────────────────────────
+    form.appendChild(makeFieldset('4. Pregătire Pacient & Premedicație', [
+      makeField('rc-premedication', 'Premedicație, Pregătire Specifică sau Contrast Oral', 'textarea', true),
     ]));
 
-    // ── Series fieldset ──────────────────────────────────────────────────────
+    // ── 5. Contrast & Acquisition Parameters ─────────────────────────────────
+    form.appendChild(makeFieldset('5. Substanță de Contrast & Parametri Tehnici', [
+      makeField('rc-agent', 'Substanță de Contrast / Agent / Sonda'),
+      makeField('rc-volume', 'Volum / Doză / Kilovoltaj (kV)'),
+      makeField('rc-flow-rate', 'Debit (Flow Rate) / mAs / Frecvență'),
+      makeField('rc-duration', 'Durată Injectare / Timp Rotație'),
+      makeField('rc-timing', 'Temporizare (Delay) / Fază / Declanșare'),
+      makeField('rc-roi', 'Regiune de Interes (ROI) / Câmp'),
+      makeField('rc-trigger', 'Prag Declanșare (Trigger) / Index'),
+    ]));
+
+    // ── 6. Series / Sequences / Projections ───────────────────────────────────
     var seriesFS = document.createElement('fieldset');
     seriesFS.className = 'rc-fieldset';
     var seriesLeg = document.createElement('legend');
-    seriesLeg.textContent = 'Series';
+    seriesLeg.textContent = '6. Serii / Secvențe / Incidențe de Achiziție';
     seriesFS.appendChild(seriesLeg);
 
     var headerDiv = document.createElement('div');
     headerDiv.className = 'rc-series-header';
-    ['Name', 'Start', 'End', 'Delay', 'Thickness', 'Notes', ''].forEach(function (h) {
+    ['Nume Achiziție / Incidență', 'Început / Plan', 'Sfârșit / Parametri', 'Întârziere / Fază', 'Grosime / Gap', 'Note Achiziție', ''].forEach(function (h) {
       var span = document.createElement('span');
       span.textContent = h;
       headerDiv.appendChild(span);
@@ -593,91 +789,114 @@
     var addBtn = document.createElement('button');
     addBtn.type = 'button';
     addBtn.className = 'rc-add-series-btn';
-    addBtn.textContent = '+ Add Series';
+    addBtn.textContent = '+ Adaugă Serie / Incidență';
     addBtn.addEventListener('click', function () {
       container.appendChild(makeSeriesRow({}));
     });
     seriesFS.appendChild(addBtn);
     form.appendChild(seriesFS);
 
-    // ── Notes fieldset ───────────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Notes', [
-      makeField('rc-tech', 'Technologist Notes', 'textarea'),
-      makeField('rc-nursing', 'Nursing Notes', 'textarea'),
-      makeField('rc-rad', 'Radiologist Notes', 'textarea'),
-      makeField('rc-tips', 'Tips', 'textarea'),
+    // ── 7. Notes Fieldset ────────────────────────────────────────────────────
+    form.appendChild(makeFieldset('7. Note Speciale & Recomandări', [
+      makeField('rc-tech', 'Note Tehnician / Operator', 'textarea'),
+      makeField('rc-nursing', 'Note Asistent Medical', 'textarea'),
+      makeField('rc-rad', 'Note Medic Radiolog', 'textarea'),
+      makeField('rc-tips', 'Sfaturi Tehnice & Bune Practici', 'textarea'),
     ]));
 
-    // ── Safety fieldset ──────────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Safety', [
-      makeField('rc-renal', 'Renal Guidance'),
-      makeField('rc-allergy', 'Allergy Guidance'),
+    // ── 8. Safety & Radioprotection ──────────────────────────────────────────
+    form.appendChild(makeFieldset('8. Siguranță & Radioprotecție', [
+      makeField('rc-renal', 'Ghidaj Renal / Protecție Gonadică / Sarcină / ALARA'),
+      makeField('rc-allergy', 'Ghidaj Alergii / Contraindicații RMN / Siguranță'),
     ]));
 
-    // ── Metadata (title/slug/category) ───────────────────────────────────────
-    var metaFS = makeFieldset('Protocol Identity', [
-      makeField('rc-title', 'Protocol Title' + (isNewMode ? ' (required)' : '')),
-      makeField('rc-slug', 'Slug' + (isNewMode ? ' (auto-generated, editable)' : '')),
-      makeField('rc-category', 'Category'),
-    ]);
-    // Insert at top of form (after selector or info bar)
-    form.insertBefore(metaFS, form.children[isNewMode ? 1 : (preselectedProtocol ? 1 : 0)]);
-
-    // ── Free text ────────────────────────────────────────────────────────────
-    form.appendChild(makeFieldset('Additional Notes / Reason for Change', [
-      makeField('rc-free-text', 'Optional notes or context for reviewers', 'textarea', true),
+    // ── 9. Free Text / Context ───────────────────────────────────────────────
+    form.appendChild(makeFieldset('9. Note Suplimentare / Motivul Solicitării', [
+      makeField('rc-free-text', 'Explicați succint contextul clinic sau motivele pentru care propuneți modificarea', 'textarea', true),
     ]));
 
-    // ── Title auto-slug (Mode B only) ────────────────────────────────────────
-    if (isNewMode) {
-      var titleInput = document.getElementById('rc-title');
-      if (titleInput) {
-        titleInput.addEventListener('input', function () {
-          var slugInput = document.getElementById('rc-slug');
-          if (slugInput && !slugInput.dataset.userEdited) {
-            slugInput.value = slugify(this.value);
-          }
-        });
-        var slugInput = document.getElementById('rc-slug');
-        if (slugInput) {
-          slugInput.addEventListener('input', function () {
-            this.dataset.userEdited = 'true';
-          });
-        }
-      }
-    }
-
-    // ── Message area ─────────────────────────────────────────────────────────
+    // ── Message Box ──────────────────────────────────────────────────────────
     var msg = document.createElement('div');
     msg.id = 'rc-message';
     msg.className = 'rc-message';
     form.appendChild(msg);
 
-    // ── Submit button or no-feedback message ─────────────────────────────────
-    var feedbackUrl = config.feedback_url || '';
-    if (!feedbackUrl) {
-      var noFeedback = document.createElement('p');
-      noFeedback.style.cssText = 'color:var(--md-default-fg-color--light,#555);font-style:italic;';
-      noFeedback.textContent = 'Contact your protocol lead directly.';
-      form.appendChild(noFeedback);
-    } else {
-      var submitBtn = document.createElement('button');
-      submitBtn.type = 'submit';
-      submitBtn.className = 'rc-submit-btn';
-      submitBtn.textContent = 'Submit Request';
-      form.appendChild(submitBtn);
-    }
+    // ── Submit Section ───────────────────────────────────────────────────────
+    var submitWrap = document.createElement('div');
+    submitWrap.style.cssText = 'margin-top:1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;';
 
+    var submitBtn = document.createElement('button');
+    submitBtn.type = 'submit';
+    submitBtn.className = 'rc-submit-btn';
+    submitBtn.textContent = 'Trimite Solicitarea spre Revizuire';
+    submitWrap.appendChild(submitBtn);
+
+    var resetBtn = document.createElement('button');
+    resetBtn.type = 'button';
+    resetBtn.textContent = 'Resetează Formularul';
+    resetBtn.style.cssText = 'padding:0.7rem 1.2rem;background:#f1f5f9;color:#475569;border:1px solid #cbd5e1;border-radius:6px;cursor:pointer;font-size:0.95rem;font-weight:600;';
+    resetBtn.addEventListener('click', function () {
+      if (activeProtocol) {
+        populateForm(activeProtocol);
+      } else {
+        clearForm();
+      }
+      showMessage('Formularul a fost resetat la valorile inițiale.', 'info');
+    });
+    submitWrap.appendChild(resetBtn);
+
+    form.appendChild(submitWrap);
+
+    // ── Submit Handler ───────────────────────────────────────────────────────
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-      handleSubmit(protocols, config, isNewMode, preselectedProtocol);
+      var current = readFormValues();
+      var chosenMod = modSelect.value || (activeProtocol ? activeProtocol.modality : 'ct');
+
+      if (!activeProtocol || protSelect.value === '__new__') {
+        // Mode: New protocol
+        if (!current.title) {
+          showMessage('Vă rugăm să introduceți un titlu pentru protocol.', 'error');
+          return;
+        }
+        var baseProt = activeProtocol || null;
+        var body = formatNewProtocolBody(baseProt, current, chosenMod);
+        var title = 'Solicitare Protocol Nou: ' + current.title;
+        var slug = current.slug || slugify(current.title);
+        submitRequest(config, title, slug, body, chosenMod);
+      } else {
+        // Mode: Change request
+        var original = activeProtocol;
+        var changes = diffValues(original, current);
+        var freeText = current.free_text;
+
+        if (changes.length === 0 && !freeText) {
+          showMessage('Nu au fost detectate modificări. Editați cel puțin un câmp sau adăugați o notă explicativă înainte de trimitere.', 'error');
+          return;
+        }
+
+        var body = formatChangeBody(original, changes, freeText);
+        var slug = original.slug || '';
+        if (changes.length > 0) {
+          var changesMap = {};
+          changes.forEach(function (c) { if (c.key) { changesMap[c.key] = c.proposed; } });
+          if (freeText) { changesMap['_notes'] = freeText; }
+          var encoded = btoa(JSON.stringify(changesMap))
+            .replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, '');
+          body += '\n---\nDeschide în Panoul de Administrare: http://localhost:5173/edit/' + slug + '?apply=' + encoded;
+        } else {
+          body += '\n---\nDeschide în Panoul de Administrare: http://localhost:5173/edit/' + slug;
+        }
+
+        submitRequest(config, original.title || 'Protocol', slug, body, original.modality || chosenMod);
+      }
     });
 
     app.appendChild(form);
 
-    // ── Pre-fill if Mode A ───────────────────────────────────────────────────
-    if (!isNewMode && preselectedProtocol) {
-      populateForm(preselectedProtocol);
+    if (activeProtocol) {
+      populateForm(activeProtocol);
+      updateBadge(activeProtocol, false);
     }
   }
 
@@ -718,54 +937,6 @@
     return wrapper;
   }
 
-  // ─── Submit handler ──────────────────────────────────────────────────────────
-
-  function handleSubmit(protocols, config, isNewMode, preselectedProtocol) {
-    var current = readFormValues();
-
-    if (isNewMode) {
-      // Mode B: new protocol
-      if (!current.title) {
-        showMessage('Please provide a protocol title.', 'error');
-        return;
-      }
-      var baseProt = null;
-      var baseSelect = document.getElementById('rc-base-select');
-      if (baseSelect && baseSelect.value) {
-        baseProt = protocols.find(function (p) { return p.slug === baseSelect.value; }) || null;
-      }
-      var body = formatNewProtocolBody(baseProt, current);
-      var title = 'New Protocol Request: ' + current.title;
-      var slug = current.slug || slugify(current.title);
-      submitRequest(config, title, slug, body);
-    } else {
-      // Mode A: change request
-      var original = preselectedProtocol || {};
-      var changes = diffValues(original, current);
-      var freeText = current.free_text;
-
-      if (changes.length === 0 && !freeText) {
-        showMessage('No changes detected. Edit at least one field before submitting.', 'info');
-        return;
-      }
-
-      var body = formatChangeBody(original, changes, freeText);
-      var slug = original.slug || '';
-      if (changes.length > 0) {
-        var changesMap = {};
-        changes.forEach(function (c) { if (c.key) { changesMap[c.key] = c.proposed; } });
-        if (freeText) { changesMap['_notes'] = freeText; }
-        // URL-safe base64: no +/= so no encodeURIComponent needed, no double-encoding risk
-        var encoded = btoa(JSON.stringify(changesMap))
-          .replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, '');
-        body += '\n---\nApply in Admin App: http://localhost:5173/edit/' + slug + '?apply=' + encoded;
-      } else {
-        body += '\n---\nOpen in Admin App: http://localhost:5173/edit/' + slug;
-      }
-      submitRequest(config, original.title || 'Unknown', slug, body);
-    }
-  }
-
   // ─── Main form initializer ───────────────────────────────────────────────────
 
   function initForm() {
@@ -782,26 +953,19 @@
       fetch(formsUrl).then(function (r) { return r.json(); }),
       fetch(configUrl).then(function (r) { return r.json(); }),
     ]).then(function (results) {
-      var protocols = results[0];
-      var config = results[1];
+      var protocols = results[0] || [];
+      var config = results[1] || {};
 
       var protocolSlug = getParam('protocol');
-      var modeParam = getParam('mode');
-      var isNewMode = (modeParam === 'new') || (!protocolSlug && !modeParam);
-
       var preselectedProtocol = null;
       if (protocolSlug) {
         preselectedProtocol = protocols.find(function (p) { return p.slug === protocolSlug; }) || null;
-        if (!preselectedProtocol) {
-          app.innerHTML = '<p>Protocol "' + protocolSlug + '" not found. <a href="' + base + '/request-change/?mode=new">Request a new protocol</a>.</p>';
-          return;
-        }
       }
 
-      buildForm(protocols, config, isNewMode, preselectedProtocol);
+      buildApp(protocols, config, preselectedProtocol);
     }).catch(function (err) {
       console.error('rc: failed to load data', err);
-      app.innerHTML = '<p>Failed to load form data. Please try again later.</p>';
+      app.innerHTML = '<p style="color:#b91c1c;">Nu s-au putut încărca datele formularului. Vă rugăm să reîncărcați pagina sau să contactați administratorul.</p>';
     });
   }
 

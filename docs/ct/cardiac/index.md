@@ -1,59 +1,98 @@
 ---
-title: Cardiac CT Protocols
+title: Protocoale CT Cord
 ---
 
-# ❤️ Cardiac CT Protocols
+# Protocoale CT Cord
 
-Protocols for coronary CTA, calcium scoring, and functional cardiac imaging.
-
----
-
-## Quick Reference
-
-
-| Protocol | Primary Goal | Contrast Timing | Coverage | Special Notes |
-|:---|:---|:---|:---|:---|
-| **[Coronary CTA](coronary-cta.md)** | Native coronary arteries | Arterial (Bolus Tracked) | Heart (Carina to Apex) | HR < 60 bpm. Nitro + Beta blockers critical. |
-| **[Post-CABG](coronary-cta-post-cabg.md)** | Graft patency (LIMA/RIMA/SVG) | Arterial | **Full Chest** (Lung apices to Apex) | Extended coverage for grafts. |
-| **[Gated Chest](gated-cta-chest.md)** | Routine coronary / Structure | Arterial | Heart | Standard cardiac or root anatomy protocol. Optional stent delay post TEVAR. |
-| **[TAVR](gated-cta-tavr.md)** | Aortic valve + Access | Split: Gated Chest + **Flash** AP | Chest + Abdo/Pelvis (Femoral heads) | Valve sizing and access planning. |
-| **[TMVR](gated-cta-tmvr.md)** | Mitral valve + Access | Arterial Chest + **90s Delay** CAP | Chest + Abdo/Pelvis | **No dose modulation** on chest. |
-| **[TTVR](gated-cta-ttvr.md)** | Tricuspid valve + Access | Arterial Chest + **90s Delay** CAP | Chest + Abdo/Pelvis | **No dose modulation** on chest. |
-| **[Post-Sternotomy](gated-cta-cap-sternotomy-revision.md)** | Re-entry planning | Arterial + Flash AP + **60s Venous** | Chest + Abdo/Pelvis | **Venous phase** critical for retrosternal adherence. |
-| **[LA Mapping](gated-cta-heart-left-atrial-mapping.md)** | PV isolation planning | Arterial + **40s Delay** | Pulmonary Veins (Limited) | Focus on PV ostia and LA appendage. |
-
+**Ultima actualizare:** 
+**Autor:** 
 
 ---
+
 <div class="grid cards" markdown>
 
--   **Cardiac Gating Tips**
-    
-    ---
-    
-    **Target HR: <60 bpm for coronary CTA**
-    If HR > 75 bpm despite beta blockers, scan targeting end systole. 
+-   __1. Rezumat Clinic__
 
     ---
 
--   **Cardiac Medications**
+    === "Rezumat Achiziție"
+
+        | Serie | Fază | Acoperire |
+        |:-------|:------|:---------|
+
+    === "Indicații Clinice"
+
+        - Niciuna
+
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Ghidul Național IRIS*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    **Metoprolol 5 mg IV PRN (max 15 mg)**
-    Contraindications: Severe asthma/COPD, Heart block (2nd/3rd degree), SBP <100 mmHg
+    - **Poziție:** 
+    - **Repaus Alimentar (NPO):** 
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
+
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0 - 1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    **Nitroglycerin 0.4 mg SL**
-    Timing: 3-5 min before scan
-    Contraindications: Recent PDE5 inhibitor (< 48hrs), severe aortic stenosis, SBP <100
+    === "Note Tehnician"
+
+        - 
+
+    === "Note Asistent"
+
+        - 
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** 
+            - **Alergii:** 
+
+    === "Note Radiolog"
+
+        - 
+
+    === "Sfaturi & Recomandări"
+
+        - 
 
 </div>
 
----
+<div class="acquisition-diagram"></div>
 
-!!! important "Contrast Timing"
-    \(\text{Scan Delay} = \text{Scan Time} - 5 \text{ seconds}\)
+=== "Achiziție Serii"
 
-!!! warning "Low Contrast Dose Calculation"
-    **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
+    |:------------|:---------------|:-------------|:------|:----------------|:------|
+
+=== "Post-procesare & Reconstrucții"
+
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
+    |:------|:------------|:----|:--------------------|:-------|:------------|:------|

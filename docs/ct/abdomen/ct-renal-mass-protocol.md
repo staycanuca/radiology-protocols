@@ -1,187 +1,212 @@
 ---
-title: CT Renal Mass Protocol
-slug: ct-renal-mass-protocol
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Renal mass characterization
-- Renal cell carcinoma staging
-- Complex cyst evaluation
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: ''
+- Caracterizarea maselor și formațiunilor renale solide
+- Stadializarea carcinomului cu celule renale (RCC)
+- Evaluarea și clasificarea Bosniak a chisturilor renale complexe
 contrast:
   agent: Isovue 370
-  volume: 'Split bolus: 1st injection 1.1 mL/kg + 2nd injection 0.4 mL/kg'
-  flow_rate: 3-4 mL/s
   duration: 18-22s + 20-30s
-  timing: Split bolus technique
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Non-Contrast
-  start: Top kidneys
-  end: Iliac crests
-  delay: N/A
-  thickness: 2.5 mm
-  notes: Baseline - detect fat/calcium
-- name: Corticomedullary
-  start: Top kidneys
-  end: Iliac crests
-  delay: 20 sec
-  thickness: 1.25 mm
-  notes: Arterial/nephrographic
-- name: Nephrographic/IVP
-  start: Top kidneys
-  end: Pubic symphysis
-  delay: 90-120 sec from 2nd injection
-  thickness: 1.25 mm
-  notes: Delayed enhancement + collecting system
-recons:
-- plane: Axial
-  acquisition: Non-contrast
-  fov: Kidneys
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Characterize mass
-- plane: Axial
-  acquisition: Corticomedullary
-  fov: Kidneys
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Vascular and cortical enhancement
-- plane: Axial
-  acquisition: Nephrographic
-  fov: Kidneys to pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Mass enhancement + urinary opacification
-- plane: Coronal
-  acquisition: All phases
-  fov: Kidneys
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Compare enhancement phases
+  flow_rate: 3-4 mL/s
+  timing: Tehnică Split-Bolus dedicată renală
+  volume: 'Tehnică Split Bolus: prima injectare 1.1 mL/kg + a doua injectare 0.4 mL/kg'
+last_updated: '2026-01-01'
 notes:
-  tech: 'COMPLEX protocol: 1) NC 2) 1st contrast injection 3) Arterial 20s after 1st
-    4) WAIT 5-7 min 5) 2nd injection + saline 6) IVP/nephrographic 90-120s after 2nd'
-  nursing: 18-20G IV. Explain split bolus technique and delay
-  rad: 'NC: fat/calcification. Arterial: vascular anatomy and hypervascular masses.
-    Nephrographic/IVP: delayed enhancement and collecting system'
-  tips: Split bolus timing critical. 5-7 min wait between injections
-  additional_recons: Compare NC vs arterial vs nephrographic. Measure HU in mass.
-    MIP urogram
+  additional_recons: Comparați nativ vs. corticomedular vs. nefrografic. Măsurare
+    precisă HU în leziune. MIP urografic.
+  nursing: Abord venos 18-20G. Explicați pacientului etapele injectării și pauzele
+    dintre serii.
+  rad: 'Nativ: detecția grăsimii microscopice/macroscopice (angiomiolipom) și calcificărilor.
+    Corticomedulară: vascularizație tumorală și variante arteriale. Nefrografică:
+    cea mai sensibilă pentru decelarea tumorilor hipovasculare și invazia venei renale/VCI.'
+  tech: 'Protocol MULTIFAZIC: 1) Nativ 2) Fază corticomedulară (arterială) la 25-30s
+    3) Fază nefrografică la 90-100s 4) Fază excretorie la 5-7 min.'
+  tips: Temporizarea fazei nefrografice este cea mai importantă pentru detectarea
+    și caracterizarea masei. Măsurători ROI atente pe nativ și faza de încărcare maximă
+    (>15-20 HU creștere = încărcare semnificativă).
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: Fără contrast oral pozitiv.
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Nativă
+  fov: Rinichi
+  kernel: Standard
+  notes: Caracterizare densitometrică nativă
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Corticomedulară
+  fov: Rinichi
+  kernel: Standard
+  notes: Încărcare corticală și vascularizație
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Nefrografică
+  fov: Rinichi
+  kernel: Standard
+  notes: Omogenitate parenchimatoasă și extensie tumorală
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Nefrografică
+  fov: Abdomen
+  kernel: Standard
+  notes: Comparație faze în plan coronal
+  plane: Coronal
+  thickness_increment: 2.5 mm/2.5 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: 1-2cm sub rinichi
+  name: Fază Nativă
+  notes: Determinarea densității bazale a masei renale
+  start: 1-2cm deasupra rinichilor
+  thickness: 0.625 mm
+- delay: 25-30 sec
+  end: Creste iliace
+  name: Fază Corticomedulară
+  notes: Anatomie arterială și tumori hipervasculare
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 90-100 sec
+  end: Creste iliace
+  name: Fază Nefrografică
+  notes: Încărcare omogenă a parenchimului renal
+  start: Diafragm
+  thickness: 0.625 mm
+slug: ct-renal-mass-protocol
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 200 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Protocol Masă Renală (Multifazic)
 ---
 
-# CT Renal Mass Protocol
+# CT Protocol Masă Renală (Multifazic)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast | Non-contrast | Top kidneys to Iliac crests |
-        | Corticomedullary | Contrast (20 sec delay) | Top kidneys to Iliac crests |
-        | Nephrographic/IVP | Contrast (90-120 sec from 2nd injection delay) | Top kidneys to Pubic symphysis |
+        | Fază Nativă | 0 sec | 1-2cm deasupra rinichilor → 1-2cm sub rinichi |
+        | Fază Corticomedulară | 25-30 sec | Diafragm → Creste iliace |
+        | Fază Nefrografică | 90-100 sec | Diafragm → Creste iliace |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Renal mass characterization
-        - Renal cell carcinoma staging
-        - Complex cyst evaluation
+        - Caracterizarea maselor și formațiunilor renale solide
+        - Stadializarea carcinomului cu celule renale (RCC)
+        - Evaluarea și clasificarea Bosniak a chisturilor renale complexe
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Fără contrast oral pozitiv.
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | Split bolus: 1st injection 1.1 mL/kg + 2nd injection 0.4 mL/kg |
-        | Flow Rate | 3-4 mL/s |
-        | Duration | 18-22s + 20-30s |
-        | Timing | Split bolus technique |
+        | Volum | Tehnică Split Bolus: prima injectare 1.1 mL/kg + a doua injectare 0.4 mL/kg |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată | 18-22s + 20-30s |
+        | Metodă Temporizare | Tehnică Split-Bolus dedicată renală |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-        Full dose if eGFR > 30. Split bolus technique
+-   __4. Parametri Tehnici Achiziție__
 
--   __4. Special Notes__
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - COMPLEX protocol: 1) NC 2) 1st contrast injection 3) Arterial 20s after 1st 4) WAIT 5-7 min 5) 2nd injection + saline 6) IVP/nephrographic 90-120s after 2nd
-        - Additional Recons: Compare NC vs arterial vs nephrographic. Measure HU in mass. MIP urogram
+        - Protocol MULTIFAZIC: 1) Nativ 2) Fază corticomedulară (arterială) la 25-30s 3) Fază nefrografică la 90-100s 4) Fază excretorie la 5-7 min.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. Explain split bolus technique and delay
+        - Abord venos 18-20G. Explicați pacientului etapele injectării și pauzele dintre serii.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: fat/calcification. Arterial: vascular anatomy and hypervascular masses. Nephrographic/IVP: delayed enhancement and collecting system
+        - Nativ: detecția grăsimii microscopice/macroscopice (angiomiolipom) și calcificărilor. Corticomedulară: vascularizație tumorală și variante arteriale. Nefrografică: cea mai sensibilă pentru decelarea tumorilor hipovasculare și invazia venei renale/VCI.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Split bolus timing critical. 5-7 min wait between injections
+        - Temporizarea fazei nefrografice este cea mai importantă pentru detectarea și caracterizarea masei. Măsurători ROI atente pe nativ și faza de încărcare maximă (>15-20 HU creștere = încărcare semnificativă).
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Iliac crests | N/A | N/A | AP |
-    | Non-Contrast | Top kidneys | Iliac crests | N/A | 2.5 mm | Baseline - detect fat/calcium |
-    | Corticomedullary | Top kidneys | Iliac crests | 20 sec | 1.25 mm | Arterial/nephrographic |
-    | Nephrographic/IVP | Top kidneys | Pubic symphysis | 90-120 sec from 2nd injection | 1.25 mm | Delayed enhancement + collecting system |
+    | Fază Nativă | 1-2cm deasupra rinichilor | 1-2cm sub rinichi | 0 sec | 0.625 mm | Determinarea densității bazale a masei renale |
+    | Fază Corticomedulară | Diafragm | Creste iliace | 25-30 sec | 0.625 mm | Anatomie arterială și tumori hipervasculare |
+    | Fază Nefrografică | Diafragm | Creste iliace | 90-100 sec | 0.625 mm | Încărcare omogenă a parenchimului renal |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-contrast | Kidneys | 2.5 mm/2.5 mm | Standard | 3 | Characterize mass |
-    | Axial | Corticomedullary | Kidneys | 1.5 mm/1.5 mm | Standard | 3 | Vascular and cortical enhancement |
-    | Axial | Nephrographic | Kidneys to pelvis | 2 mm/2 mm | Standard | 3 | Mass enhancement + urinary opacification |
-    | Coronal | All phases | Kidneys | 2.5 mm/2.5 mm | Standard | 3 | Compare enhancement phases |
+    | Axial | Fază Nativă | Rinichi | 2 mm/2 mm | Standard |  | Caracterizare densitometrică nativă |
+    | Axial | Fază Corticomedulară | Rinichi | 2 mm/2 mm | Standard |  | Încărcare corticală și vascularizație |
+    | Axial | Fază Nefrografică | Rinichi | 2 mm/2 mm | Standard |  | Omogenitate parenchimatoasă și extensie tumorală |
+    | Coronal | Fază Nefrografică | Abdomen | 2.5 mm/2.5 mm | Standard |  | Comparație faze în plan coronal |

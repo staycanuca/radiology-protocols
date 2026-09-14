@@ -1,186 +1,212 @@
 ---
-title: CT Cystogram
-slug: ct-cystogram
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Bladder rupture
-- Bladder injury
-- Post-operative bladder assessment
-position: Supine
-npo: NPO 2-4 hours
-premedication: 'Bladder contrast: 350-400 mL dilute contrast (30 mL contrast in 350
-  mL saline)'
+- Suspiciune de ruptură vezicală (intraperitoneală vs. extraperitoneală)
+- Traumatism pelvin cu leziune vezicală
+- Evaluare post-operatorie a integrității vezicii urinare
 contrast:
   agent: Isovue 370
-  volume: 100 mL
   flow_rate: 3-4 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Non-Contrast
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Standard IV contrast
-- name: Bladder Filling
-  start: N/A
-  end: N/A
-  delay: 90 sec
-  thickness: N/A
-  notes: Fill via Foley - not scanned
-- name: Cystogram
-  start: Iliac crests
-  end: Below bladder
-  delay: 100 sec
-  thickness: 2 mm
-  notes: Scan distended bladder
-recons:
-- plane: Axial
-  acquisition: Non-Contrast
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Pre-contrast
-- plane: Axial
-  acquisition: Cystogram
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Distended bladder assessment
-- plane: Coronal
-  acquisition: Cystogram
-  fov: Pelvis
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Bladder overview
-- plane: Sagittal
-  acquisition: Cystogram
-  fov: Pelvis
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Bladder dome and base
+  volume: 100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO components: 1) Non-contrast CT 2) Bladder filling via Foley with dilute
-    contrast 3) Scan distended bladder. Coordinate with nursing'
-  nursing: Foley catheter required. Dilute contrast preparation (30mL in 350mL saline).
-    Gravity fill bladder. Patient signals fullness
-  rad: 'Cystogram: bladder integrity extravasation'
-  tips: Adequate bladder distension critical. Gravity fill slowly. Clamp Foley during
-    scan
-  additional_recons: Compare distended vs non-contrast. Document extravasation location.
-    3D reformation if complex injury
+  additional_recons: Comparați achiziția în distensie cu cea nativă. Documentați cu
+    precizie sediul extravazării. Reconstrucții 3D în leziuni complexe.
+  nursing: Cateterism vezical (sondă Foley) necesar. Prepararea soluției diluate de
+    contrast (30 mL în 350 mL ser fiziologic). Umplere gravitațională lentă. Pacientul
+    semnalează senzația de plenitudine vezicală.
+  rad: 'Cistografie: aprecierea integrității pereților vezicali și decelarea extravazării
+    (extraperitoneală vs intraperitoneală).'
+  tech: 'DOUĂ componente: 1) Scanare CT nativă a pelvisului 2) Umplerea vezicii prin
+    sondă Foley cu substanță de contrast diluată prin gravitație 3) Scanare CT cu
+    vezica în distensie maximă. Coordonați cu asistenta.'
+  tips: Distensia adecvată a vezicii este critică. Umplere lentă prin cădere gravitațională
+    (nu injectare forțată). Clampați sonda Foley în timpul scanării.
+npo: Repaus alimentar 2-4 ore
+position: Decubit dorsal
+premedication: 'Contrast intravezical: 350-400 mL soluție de contrast diluată (30
+  mL contrast iodat în 350 mL ser fiziologic)'
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Nativă
+  fov: Pelvis
+  kernel: Standard
+  notes: Evaluare pre-contrast
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Cistografie
+  fov: Pelvis
+  kernel: Standard
+  notes: Evaluare vezică urinară în distensie
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Cistografie
+  fov: Pelvis
+  kernel: Standard
+  notes: Privire de ansamblu vezicală și pelvină
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
+- acquisition: Cistografie
+  fov: Pelvis
+  kernel: Standard
+  notes: Evaluare dom vezical și bază vezicală
+  plane: Sagital
+  thickness_increment: 3 mm/3 mm
 safety:
-  renal: eGFR doesn't matter, contrast not excreted
-  allergy: Foley placement. Prepare dilute contrast
+  allergy: Plasare sondă Foley în condiții sterile. Preparare soluție diluată de contrast.
+  renal: eGFR nu este limitativ (contrastul este administrat intravezical, nu se excretă
+    renal)
+series:
+- delay: 0 sec
+  end: Simfiză pubiană
+  name: Fază Nativă
+  notes: Pelvis nativ pre-contrast
+  start: Creste iliace
+  thickness: 0.625 mm
+- delay: Manual
+  end: Simfiză pubiană
+  name: Umplere Vezicală
+  notes: Monitorizare umplere retrogradă
+  start: Creste iliace
+  thickness: 0.625 mm
+- delay: Post-umplere
+  end: Simfiză pubiană
+  name: Cistografie
+  notes: Achiziție cu vezica urinară în distensie maximă
+  start: Creste iliace
+  thickness: 0.625 mm
+slug: ct-cystogram
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Cisto-CT (Cistografie CT Retrogradă)
 ---
 
-# CT Cystogram
+# Cisto-CT (Cistografie CT Retrogradă)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast | Non-Contrast | Diaphragm to Pubic symphysis |
-        | Cystogram | Contrast (100 sec delay) | Diaphragm to Pubic symphysis |
+        | Fază Nativă | 0 sec | Creste iliace → Simfiză pubiană |
+        | Umplere Vezicală | Manual | Creste iliace → Simfiză pubiană |
+        | Cistografie | Post-umplere | Creste iliace → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Bladder rupture
-        - Bladder injury
-        - Post-operative bladder assessment
+        - Suspiciune de ruptură vezicală (intraperitoneală vs. extraperitoneală)
+        - Traumatism pelvin cu leziune vezicală
+        - Evaluare post-operatorie a integrității vezicii urinare
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
-        - Bladder contrast: 350-400 mL dilute contrast (30 mL contrast in 350 mL saline)
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal
+    - **Repaus Alimentar (NPO):** Repaus alimentar 2-4 ore
+    - **Premedicație / Pregătire:**
+        - Contrast intravezical: 350-400 mL soluție de contrast diluată (30 mL contrast iodat în 350 mL ser fiziologic)
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 100 mL |
-        | Flow Rate | 3-4 mL/s |
+        | Volum | 100 mL |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO components: 1) Non-contrast CT 2) Bladder filling via Foley with dilute contrast 3) Scan distended bladder. Coordinate with nursing
-        - Additional Recons: Compare distended vs non-contrast. Document extravasation location. 3D reformation if complex injury
+        - DOUĂ componente: 1) Scanare CT nativă a pelvisului 2) Umplerea vezicii prin sondă Foley cu substanță de contrast diluată prin gravitație 3) Scanare CT cu vezica în distensie maximă. Coordonați cu asistenta.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Foley catheter required. Dilute contrast preparation (30mL in 350mL saline). Gravity fill bladder. Patient signals fullness
+        - Cateterism vezical (sondă Foley) necesar. Prepararea soluției diluate de contrast (30 mL în 350 mL ser fiziologic). Umplere gravitațională lentă. Pacientul semnalează senzația de plenitudine vezicală.
 
-        !!! warning "Safety First"
-            - **Renal Function:** eGFR doesn't matter, contrast not excreted
-            - **Allergy:** Foley placement. Prepare dilute contrast
+        !!! warning "Siguranță"
+            - **Funcție Renală:** eGFR nu este limitativ (contrastul este administrat intravezical, nu se excretă renal)
+            - **Alergii:** Plasare sondă Foley în condiții sterile. Preparare soluție diluată de contrast.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Cystogram: bladder integrity extravasation
+        - Cistografie: aprecierea integrității pereților vezicali și decelarea extravazării (extraperitoneală vs intraperitoneală).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Adequate bladder distension critical. Gravity fill slowly. Clamp Foley during scan
+        - Distensia adecvată a vezicii este critică. Umplere lentă prin cădere gravitațională (nu injectare forțată). Clampați sonda Foley în timpul scanării.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Pubic symphysis | N/A | N/A | AP |
-    | Non-Contrast | Diaphragm | Pubic symphysis | 70 sec | 2.5 mm | Standard IV contrast |
-    | Bladder Filling | N/A | N/A | 90 sec | N/A | Fill via Foley - not scanned |
-    | Cystogram | Iliac crests | Below bladder | 100 sec | 2 mm | Scan distended bladder |
+    | Fază Nativă | Creste iliace | Simfiză pubiană | 0 sec | 0.625 mm | Pelvis nativ pre-contrast |
+    | Umplere Vezicală | Creste iliace | Simfiză pubiană | Manual | 0.625 mm | Monitorizare umplere retrogradă |
+    | Cistografie | Creste iliace | Simfiză pubiană | Post-umplere | 0.625 mm | Achiziție cu vezica urinară în distensie maximă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-Contrast | Pelvis | 2 mm/2 mm | Standard | 3 | Pre-contrast |
-    | Axial | Cystogram | Pelvis | 2 mm/2 mm | Standard | 3 | Distended bladder assessment |
-    | Coronal | Cystogram | Pelvis | 2.5 mm/2.5 mm | Standard | 3 | Bladder overview |
-    | Sagittal | Cystogram | Pelvis | 2.5 mm/2.5 mm | Standard | 3 | Bladder dome and base |
+    | Axial | Fază Nativă | Pelvis | 2.5 mm/2.5 mm | Standard |  | Evaluare pre-contrast |
+    | Axial | Cistografie | Pelvis | 2.5 mm/2.5 mm | Standard |  | Evaluare vezică urinară în distensie |
+    | Coronal | Cistografie | Pelvis | 3 mm/3 mm | Standard |  | Privire de ansamblu vezicală și pelvină |
+    | Sagital | Cistografie | Pelvis | 3 mm/3 mm | Standard |  | Evaluare dom vezical și bază vezicală |

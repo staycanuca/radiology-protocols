@@ -105,7 +105,7 @@ def test_frontmatter_roundtrips_through_yaml(base_fm):
 def test_contrast_section_rendered_when_present(base_fm):
     """When contrast agent is present, Injection Parameters table must appear."""
     doc = render_document(base_fm)
-    assert 'Injection Parameters' in doc
+    assert 'Parametri de Injectare' in doc
     assert 'Isovue 370' in doc
     assert '5 mL/s' in doc
 
@@ -115,8 +115,8 @@ def test_no_contrast_message_when_agent_is_na(base_fm):
     fm = copy.deepcopy(base_fm)
     fm['contrast']['agent'] = 'N/A'
     doc = render_document(fm)
-    assert 'No Intravenous Contrast' in doc
-    assert 'Injection Parameters' not in doc
+    assert 'Fără Contrast Intravenos' in doc
+    assert 'Parametri de Injectare' not in doc
 
 
 def test_series_table_row_present(base_fm):
@@ -168,8 +168,128 @@ def test_premedication_pipe_separated_renders_as_bullets(base_fm):
 
 
 def test_empty_premedication_renders_none_required(base_fm):
-    """Empty premedication field must render as 'None required'."""
+    """Empty premedication field must render as 'Nu este necesară'."""
     fm = copy.deepcopy(base_fm)
     fm['premedication'] = ''
     doc = render_document(fm)
-    assert 'None required' in doc
+    assert 'Nu este necesară' in doc
+
+
+def test_tech_params_section_rendered(base_fm):
+    """Technical parameters card must be rendered with all key technical fields."""
+    doc = render_document(base_fm)
+    assert '4. Parametri Tehnici Achiziție' in doc
+    assert 'Tensiune Tub (kV)' in doc
+    assert 'Curent Tub (mAs)' in doc
+    assert 'Control Automat al Expunerii (AEC)' in doc
+    assert 'Grosime Secțiune Achiziție (Slice)' in doc
+    assert 'Timp de Rotație' in doc
+    assert 'Pitch (Factor Pas)' in doc
+    assert 'Mod Scanare' in doc
+
+
+def test_tech_params_custom_values(base_fm):
+    """Custom technical parameters in front matter must appear in the rendered table."""
+    fm = copy.deepcopy(base_fm)
+    fm['tech_params'] = {
+        'kv': '100',
+        'mas': 'Auto (ref 180)',
+        'aec': 'Care Dose 4D activat',
+        'slice_thickness': '0.6 mm',
+        'collimation': '128 x 0.6 mm',
+        'rotation_time': '0.33s',
+        'pitch': '0.8',
+        'scan_mode': 'Elicoidal rapid',
+    }
+    doc = render_document(fm)
+    assert '100 kV' in doc
+    assert 'Auto (ref 180)' in doc
+    assert 'Care Dose 4D activat' in doc
+    assert '0.6 mm' in doc
+    assert '128 x 0.6 mm' in doc
+    assert '0.33 s' in doc
+    assert '0.8' in doc
+    assert 'Elicoidal rapid' in doc
+
+
+def test_iris_guide_tab_rendered(base_fm):
+    """IRIS National Guide reference tab must appear in Card 1."""
+    doc = render_document(base_fm)
+    assert 'Ghid Național IRIS' in doc
+    assert 'Ordinul MS 1342/2012' in doc
+    assert 'Torace & Pulmon' in doc
+    assert '../../iris.md' in doc
+
+
+def test_images_section_not_rendered_when_empty(base_fm):
+    """When images list is missing or empty, images section must NOT appear in the rendered document."""
+    fm = copy.deepcopy(base_fm)
+    assert "images" not in fm
+    doc = render_document(fm)
+    assert "### 🖼️ Imagini" not in doc
+    assert "protocol-gallery" not in doc
+    assert "protocol-image-card" not in doc
+
+    fm["images"] = []
+    doc_empty = render_document(fm)
+    assert "### 🖼️ Imagini" not in doc_empty
+    assert "protocol-gallery" not in doc_empty
+    assert "protocol-image-card" not in doc_empty
+
+
+def test_images_section_rendered_when_present(base_fm):
+    """When images are present, images section must render gallery and cards with proper URLs."""
+    fm = copy.deepcopy(base_fm)
+    fm["images"] = [
+        {
+            "url": "assets/images/protocols/pe_angio.png",
+            "caption": "Angio-CT Trunchi Pulmonar",
+            "description": "Opacifiere optimă a arterelor pulmonare fără artefacte de mișcare",
+        },
+        {
+            "url": "https://example.com/external_scan.jpg",
+            "caption": "Reconstrucție Coronală",
+            "description": "",
+        },
+    ]
+    doc = render_document(fm)
+    assert "### 🖼️ Imagini" in doc
+    assert '<div class="protocol-gallery" markdown>' in doc
+    assert '<figure class="protocol-image-card" markdown>' in doc
+    assert "![Angio-CT Trunchi Pulmonar](../../assets/images/protocols/pe_angio.png)" in doc
+    assert "![Reconstrucție Coronală](https://example.com/external_scan.jpg)" in doc
+    assert "<strong>Angio-CT Trunchi Pulmonar</strong> — <span>Opacifiere optimă a arterelor pulmonare fără artefacte de mișcare</span>" in doc
+    assert "<strong>Reconstrucție Coronală</strong>" in doc
+
+
+def test_images_section_across_all_modalities():
+    """All 5 modalities (CT, RX, Fluoro, IRM, Eco) support the conditional images section."""
+    from render_rx_protocol import render_rx_document
+    from render_fluoro_protocol import render_fluoro_document
+    from render_irm_protocol import render_irm_document
+    from render_eco_protocol import render_eco_document
+
+    img_data = [{"url": "assets/images/protocols/sample.png", "caption": "Imagine Mostră", "description": "Aspect"}]
+
+    rx_fm = {"title": "Rx Test", "slug": "rx-test", "category": "torace", "modality": "rx"}
+    assert "protocol-gallery" not in render_rx_document(rx_fm)
+    rx_fm["images"] = img_data
+    assert "protocol-gallery" in render_rx_document(rx_fm)
+    assert "![Imagine Mostră](../../assets/images/protocols/sample.png)" in render_rx_document(rx_fm)
+
+    fl_fm = {"title": "Fluoro Test", "slug": "fl-test", "category": "digestiv", "modality": "fluoro"}
+    assert "protocol-gallery" not in render_fluoro_document(fl_fm)
+    fl_fm["images"] = img_data
+    assert "protocol-gallery" in render_fluoro_document(fl_fm)
+
+    irm_fm = {"title": "IRM Test", "slug": "irm-test", "category": "neuro", "modality": "irm"}
+    assert "protocol-gallery" not in render_irm_document(irm_fm)
+    irm_fm["images"] = img_data
+    assert "protocol-gallery" in render_irm_document(irm_fm)
+
+    eco_fm = {"title": "Eco Test", "slug": "eco-test", "category": "abdomen-pelvis", "modality": "eco"}
+    assert "protocol-gallery" not in render_eco_document(eco_fm)
+    eco_fm["images"] = img_data
+    assert "protocol-gallery" in render_eco_document(eco_fm)
+
+

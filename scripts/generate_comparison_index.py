@@ -51,13 +51,16 @@ def is_nc_phase(series_name):
     import re
     name_lower = str(series_name).lower()
     nc_keywords = ['non-contrast', 'non contrast', ' nc ', 'nc ', ' nc', 'without contrast',
-                   'unenhanced', 'without', 'pre-contrast', 'pre contrast']
+                   'unenhanced', 'without', 'pre-contrast', 'pre contrast',
+                   'nativ', 'fara contrast', 'fără contrast', 'fara', 'fără']
     for kw in nc_keywords:
         if kw in name_lower:
             return True
     if re.search(r'\bpre\b', name_lower):
         return True
     if re.search(r'\bnc\b', name_lower):
+        return True
+    if re.search(r'\bnativ\b', name_lower):
         return True
     return False
 
@@ -67,11 +70,11 @@ def infer_phase_type(series_name):
     name_lower = str(series_name).lower()
     if is_nc_phase(series_name):
         return 'non-contrast'
-    if 'arterial' in name_lower:
+    if 'arterial' in name_lower or 'arteri' in name_lower:
         return 'arterial'
-    if any(kw in name_lower for kw in ['portal', 'venous', 'pv']):
+    if any(kw in name_lower for kw in ['portal', 'venous', 'pv', 'venos', 'venoasa', 'venoasă']):
         return 'portal'
-    if any(kw in name_lower for kw in ['delayed', 'delay', 'nephrographic', 'excretory', 'equilibrium']):
+    if any(kw in name_lower for kw in ['delayed', 'delay', 'nephrographic', 'excretory', 'equilibrium', 'tardiv', 'tardiva', 'tardivă', 'nefrogr', 'excret', 'echilibru']):
         return 'delayed'
     return 'other'
 
@@ -92,11 +95,11 @@ def compute_delay_seconds(delay_str, series_name, contrast_duration_secs, saline
 
     delay_lower = str(delay_str).lower()
 
-    if re.search(r'bolus[\s-]*track', delay_lower):
+    if re.search(r'(bolus[\s-]*track|urmarire[\s-]*bolus|urmărire[\s-]*bolus)', delay_lower):
         inj_dur = contrast_duration_secs or 30
         return inj_dur + saline_seconds
 
-    if 'immediate' in delay_lower:
+    if 'immediate' in delay_lower or 'imediat' in delay_lower:
         return last_phase_end
 
     m = re.search(r'(\d+)', delay_str)
@@ -172,6 +175,7 @@ def build_protocol_entry(fm, filepath):
         'category': fm.get('category', '').title(),
         'slug': fm.get('slug', ''),
         'contrast': contrast_entry,
+        'tech_params': fm.get('tech_params', {}),
         'series': series_entries,
         'summary': summary,
         'gantt': None,  # Gantt diagrams removed from site
@@ -187,7 +191,7 @@ def generate_comparison_index():
     protocols = []
 
     for md_file in sorted(docs_dir.rglob('*.md')):
-        if md_file.name == 'index.md':
+        if md_file.name in ('index.md', 'compare.md'):
             continue
 
         content = md_file.read_text(encoding='utf-8')

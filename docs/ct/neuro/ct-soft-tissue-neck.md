@@ -1,164 +1,192 @@
 ---
-title: CT Soft Tissue Neck
-slug: ct-soft-tissue-neck
+author: null
 category: neuro
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Neck mass
-- Deep neck infection
-- Abscess
-- Airway assessment
-- Lymphadenopathy
-position: Supine head-first
-npo: NPO 2 hours
-premedication: ''
+- Formațiune tumorală cervicală / suspiciune neoplazie căi aero-digestive superioare
+- Infecție profundă a spațiilor gâtului (flegmon periamigdalian, abces retrofaringian,
+  abces parafaringian)
+- Adenopatii cervicale de etiologie necunoscută
+- Evaluarea căilor respiratorii superioare (laringe, trahee cervicală)
 contrast:
   agent: Omnipaque 350
-  volume: 100 mL
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Contrast Neck
-  start: Skull base
-  end: Thoracic inlet
-  delay: 60-70 sec
-  thickness: 1-2 mm
-  notes: Venous phase
-recons:
-- plane: Axial
-  acquisition: Neck
-  fov: Neck
-  thickness_increment: 2.5 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Soft tissue neck
-- plane: Coronal
-  acquisition: Neck
-  fov: Neck
-  thickness_increment: 3 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Coronal neck spaces
-- plane: Sagittal
-  acquisition: Neck
-  fov: Midline
-  thickness_increment: 3 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Airway and retropharyngeal
+  timing: Timp empiric (60-70s delay)
+  volume: 100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: Skull base to thoracic inlet. 60-70 sec delay for venous phase. Arms down.
-    Minimize swallowing. May need NC if calcium assessment
-  nursing: 18-20G IV. Coach no swallowing during scan
-  rad: Assess neck spaces. Retropharyngeal. Parapharyngeal. Masticator. Parotid. Submandibular.
-    Thyroid. Lymph nodes. Abscess vs phlegmon
-  tips: Arms down. Minimize swallowing. Quiet breathing
-  additional_recons: Assess all neck spaces. Measure lymph nodes. Airway diameter
-    if concern
+  additional_recons: Evaluarea compartimentată a tuturor spațiilor cervicale. Măsurarea
+    ganglionilor limfatici. Diametrul căilor aeriene laringo-traheale.
+  nursing: Linie venoasă 18-20G. Antrenați pacientul să respire liniștit și să evite
+    complet deglutiția în timpul scanării.
+  rad: 'Spațiile profunde ale gâtului: retrofaringian, parafaringian, masticator,
+    parotidian, submandibular, visceral. Loja tiroidiană. Stadializarea ganglionară
+    cervicală (nivelurile I-VII). Diferențierea flegmon vs. abces colectat cu perete
+    captant.'
+  tech: De la baza craniului până la apertura toracică superioară. Întârziere de 60-70
+    secunde pentru faza venoasă cervicală optimă. Brațele coborâte la maxim. Instruiți
+    pacientul să NU înghită în timpul achiziției.
+  tips: Coborâți umerii la maxim. Interzicerea deglutiției elimină artefactele de
+    mișcare pe laringe și hipofaringe.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele coborâte de-a lungul corpului
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: CT Cervical cu Contrast
+  fov: Gât
+  kernel: Standard
+  notes: Fereastră de părți moi cervicale
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: CT Cervical cu Contrast
+  fov: Gât
+  kernel: Standard
+  notes: Plan coronal pentru spațiile parafaringiene și tiroidă
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: CT Cervical cu Contrast
+  fov: Gât
+  kernel: Standard
+  notes: Plan sagital pentru calea aeriană și spațiul retrofaringian
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic la contrast iodat
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 65 sec
+  end: Apertura toracică superioară
+  name: CT Cervical cu Contrast
+  notes: Fază venoasă pentru opacifierea spațiilor profunde
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: ct-soft-tissue-neck
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200-250 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Părți Moi Gât / Regiune Cervicală cu Substanță de Contrast
 ---
 
-# CT Soft Tissue Neck
+# CT Părți Moi Gât / Regiune Cervicală cu Substanță de Contrast
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Contrast Neck | Contrast (60-70 sec delay) | Skull base to Thoracic inlet |
+        | CT Cervical cu Contrast | 65 sec | Baza craniului → Apertura toracică superioară |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Neck mass
-        - Deep neck infection
-        - Abscess
-        - Airway assessment
-        - Lymphadenopathy
+        - Formațiune tumorală cervicală / suspiciune neoplazie căi aero-digestive superioare
+        - Infecție profundă a spațiilor gâtului (flegmon periamigdalian, abces retrofaringian, abces parafaringian)
+        - Adenopatii cervicale de etiologie necunoscută
+        - Evaluarea căilor respiratorii superioare (laringe, trahee cervicală)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** NPO 2 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele coborâte de-a lungul corpului
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 100 mL |
-        | Flow Rate | 3 mL/s |
+        | Volum | 100 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Timp empiric (60-70s delay) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Skull base to thoracic inlet. 60-70 sec delay for venous phase. Arms down. Minimize swallowing. May need NC if calcium assessment
-        - Additional Recons: Assess all neck spaces. Measure lymph nodes. Airway diameter if concern
+        - De la baza craniului până la apertura toracică superioară. Întârziere de 60-70 secunde pentru faza venoasă cervicală optimă. Brațele coborâte la maxim. Instruiți pacientul să NU înghită în timpul achiziției.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. Coach no swallowing during scan
+        - Linie venoasă 18-20G. Antrenați pacientul să respire liniștit și să evite complet deglutiția în timpul scanării.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic la contrast iodat
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess neck spaces. Retropharyngeal. Parapharyngeal. Masticator. Parotid. Submandibular. Thyroid. Lymph nodes. Abscess vs phlegmon
+        - Spațiile profunde ale gâtului: retrofaringian, parafaringian, masticator, parotidian, submandibular, visceral. Loja tiroidiană. Stadializarea ganglionară cervicală (nivelurile I-VII). Diferențierea flegmon vs. abces colectat cu perete captant.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms down. Minimize swallowing. Quiet breathing
+        - Coborâți umerii la maxim. Interzicerea deglutiției elimină artefactele de mișcare pe laringe și hipofaringe.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Skull base | Thoracic inlet | N/A | N/A | Lateral |
-    | Contrast Neck | Skull base | Thoracic inlet | 60-70 sec | 1-2 mm | Venous phase |
+    | CT Cervical cu Contrast | Baza craniului | Apertura toracică superioară | 65 sec | 0.625 mm | Fază venoasă pentru opacifierea spațiilor profunde |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Neck | Neck | 2.5 mm/2 mm | Standard | 3 | Soft tissue neck |
-    | Coronal | Neck | Neck | 3 mm/2.5 mm | Standard | 3 | Coronal neck spaces |
-    | Sagittal | Neck | Midline | 3 mm/2.5 mm | Standard | 3 | Airway and retropharyngeal |
+    | Axial | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Fereastră de părți moi cervicale |
+    | Coronal | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Plan coronal pentru spațiile parafaringiene și tiroidă |
+    | Sagital | CT Cervical cu Contrast | Gât | 2 mm/2 mm | Standard |  | Plan sagital pentru calea aeriană și spațiul retrofaringian |

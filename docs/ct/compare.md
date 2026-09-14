@@ -1,12 +1,12 @@
 ---
-title: CT Comparison Tool
+title: Instrument de Comparare Protocoale CT
 hide:
   - navigation
   - toc
 ---
-# CT Comparison Tool
+# Instrument de Comparare Protocoale CT
 
-Compare multiple CT protocols side-by-side to understand differences in contrast strategies, timing, and acquisition parameters.
+Compară mai multe protocoale CT în paralel pentru a analiza diferențele în strategiile de contrast, temporizare și parametrii de achiziție.
 
 <style>
 .protocoller-search-container {
@@ -236,42 +236,48 @@ Compare multiple CT protocols side-by-side to understand differences in contrast
 </div> -->
 
 <details id="protocol-suggestions-wrapper" class="protocol-suggestions-container" style="display: none;">
-  <summary>Protocol Suggestions</summary>
+  <summary>Sugestii de Protocoale</summary>
   <div id="protocoller-results" class="protocoller-results"></div>
 </details>
 <div id="protocol-compare-container">
   <div class="protocol-selector">
-    <h3>Select Protocols to Compare</h3>
+    <h3>Selectează Protocoalele pentru Comparare</h3>
     <div id="protocol-selectors">
       <select id="protocol-select-1" class="protocol-select">
-        <option value="">-- Select Protocol 1 --</option>
+        <option value="">-- Selectează Protocolul 1 --</option>
       </select>
       <select id="protocol-select-2" class="protocol-select">
-        <option value="">-- Select Protocol 2 --</option>
+        <option value="">-- Selectează Protocolul 2 --</option>
       </select>
     </div>
-    <button id="add-protocol-btn" class="md-button">+ Add Protocol</button>
-    <button id="compare-btn" class="md-button md-button--primary">Compare</button>
-    <button id="clear-btn" class="md-button">Clear</button>
-    <button id="copy-link-btn" class="md-button" style="display:none;">🔗 Copy Link</button>
+    <button id="add-protocol-btn" class="md-button">+ Adaugă Protocol</button>
+    <button id="compare-btn" class="md-button md-button--primary">Compară</button>
+    <button id="clear-btn" class="md-button">Resetează</button>
+    <button id="copy-link-btn" class="md-button" style="display:none;">🔗 Copiază Link</button>
   </div>
 
   <div id="comparison-results" style="display: none;">
     <!-- Gantt Diagrams -->
     <div id="gantt-comparison" class="gantt-grid">
-      <h3>Timeline Comparison</h3>
+      <h3>Comparare Cronologie Achiziție</h3>
       <div id="gantt-container" class="gantt-container"></div>
     </div>
 
     <!-- Contrast Comparison -->
     <div id="contrast-comparison">
-      <h3>Contrast Strategy Comparison</h3>
+      <h3>Comparare Strategie de Contrast</h3>
       <div id="contrast-table-container"></div>
+    </div>
+
+    <!-- Technical Parameters Comparison -->
+    <div id="tech-params-comparison">
+      <h3>Comparare Parametri Tehnici de Achiziție</h3>
+      <div id="tech-params-table-container"></div>
     </div>
 
     <!-- Series Comparison -->
     <div id="series-comparison">
-      <h3>Acquisition Series Comparison</h3>
+      <h3>Comparare Serii de Achiziție</h3>
       <div id="series-table-container"></div>
     </div>
   </div>

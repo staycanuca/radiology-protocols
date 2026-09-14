@@ -1,183 +1,206 @@
 ---
-title: CTA Head
-slug: cta-head
+author: null
 category: neuro
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Aneurysm screening
-- Subarachnoid hemorrhage
-- Vascular malformation
-- Intracranial stenosis
-position: Supine head-first
-npo: NPO 2 hours
-premedication: ''
+- Screening și diagnostic anevrisme intracraniene
+- Hemoragie subarahnoidiană (HSA) non-traumatică
+- Malformații vasculare intracraniene (MAV, fistule durale)
+- Stenoze arteriale intracraniene
 contrast:
   agent: Omnipaque 350
-  volume: 75-100 mL
   flow_rate: 4-5 mL/s
-  timing: Bolus Tracking
-  roi: Aortic arch or carotid
+  roi: Crosa aortei sau artera carotidă comună
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 250)
-  rotation_time: 0.5-0.6s
-  pitch: Helical
-series:
-- name: NC Head (optional)
-  start: Vertex
-  end: Foramen magnum
-  delay: N/A
-  thickness: 5 mm
-  notes: Baseline if SAH
-- name: CTA Head
-  start: Skull base
-  end: Vertex
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Submillimeter for 3D
-recons:
-- plane: Axial
-  acquisition: CTA
-  fov: Head
-  thickness_increment: 0.75 mm/0.75 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Source images
-- plane: MIP
-  acquisition: CTA
-  fov: Circle of Willis
-  thickness_increment: Thick slab
-  kernel: Brain
-  ir_strength: N/A
-  notes: Vessel overview
-- plane: 3D VR
-  acquisition: CTA
-  fov: Intracranial vessels
-  thickness_increment: 0.5 mm source
-  kernel: Brain
-  ir_strength: N/A
-  notes: 3D angiogram
-- plane: Curved MPR
-  acquisition: CTA
-  fov: Individual vessels
-  thickness_increment: 0.75 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Vessel-specific views
+  volume: 75-100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: NC Head optional then CTA skull base to vertex. Bolus tracking. Submillimeter
-    for 3D reconstruction
-  nursing: 20G IV minimum. Good bolus essential
-  rad: Assess circle of Willis. Aneurysms. Stenosis. Vascular malformations. Anatomic
-    variants
-  tips: Minimize motion. Thin slices for small aneurysms
-  additional_recons: 3D VR and MIP. Measure aneurysm if present. Assess A1 A2 dominance
+  additional_recons: Randare 3D VR interactivă și proiecții MIP multiangulare. Măsurarea
+    anevrismelor în planuri tridimensionale ortogonale.
+  nursing: Linie venoasă minim 20G. Bolus compact de contrast esențial.
+  rad: 'Poligonul Willis complet: ACI intracraniană (porțiune pietroasă, cavernosă,
+    supraclinoidiană), ACA (A1, A2), ACoA, ACM (M1, M2, M3), ACP (P1, P2), ACoP, trunchiul
+    bazilar și arterele cerebeloase. Măsurați diametrele și coletul oricărui anevrism
+    decelat.'
+  tech: Scanare de la baza craniului până la vertex. Urmărire bolus. Achiziție submilimetrică
+    dedicată reconstrucțiilor tridimensionale 3D VR.
+  tips: Imobilizare fermă a capului. Secțiuni fine pentru a nu omite microanevrismele
+    < 3 mm.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu capul înainte
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Imagini axiale native sursă
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: Angio-CT Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Vedere de ansamblu MIP pe axele vasculare
+  plane: MIP
+  thickness_increment: 5 mm/2 mm
+- acquisition: Angio-CT Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Angiogramă tridimensională 3D VR
+  plane: 3D VR
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: Angio-CT Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Reconstrucții curbate pe segmente vasculare specifice
+  plane: Curved MPR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Gaura occipitală
+  name: CT Nativ Craniu (opțional)
+  notes: Referință nativă de hemoragie dacă este suspectată HSA
+  start: Vertex
+  thickness: 2.5 mm
+- delay: Urmărire bolus
+  end: Vertex
+  name: Angio-CT Cerebral
+  notes: Achiziție submilimetrică pentru randare 3D vasculară
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: cta-head
+synonyms: []
+tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: 100-120
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5-0.6s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Cerebral (Poligonul Willis)
 ---
 
-# CTA Head
+# Angio-CT Cerebral (Poligonul Willis)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | NC Head (optional) | Non-contrast | Vertex to Foramen magnum |
-        | CTA Head | Arterial (bolus tracked) | Skull base to Vertex |
+        | CT Nativ Craniu (opțional) | 0 sec | Vertex → Gaura occipitală |
+        | Angio-CT Cerebral | Urmărire bolus | Baza craniului → Vertex |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Aneurysm screening
-        - Subarachnoid hemorrhage
-        - Vascular malformation
-        - Intracranial stenosis
+        - Screening și diagnostic anevrisme intracraniene
+        - Hemoragie subarahnoidiană (HSA) non-traumatică
+        - Malformații vasculare intracraniene (MAV, fistule durale)
+        - Stenoze arteriale intracraniene
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** NPO 2 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 75-100 mL |
-        | Flow Rate | 4-5 mL/s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Aortic arch or carotid |
-        | Trigger (HU) | 150 HU |
+        | Volum | 75-100 mL |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Crosa aortei sau artera carotidă comună |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 0.5-0.6 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - NC Head optional then CTA skull base to vertex. Bolus tracking. Submillimeter for 3D reconstruction
-        - Additional Recons: 3D VR and MIP. Measure aneurysm if present. Assess A1 A2 dominance
+        - Scanare de la baza craniului până la vertex. Urmărire bolus. Achiziție submilimetrică dedicată reconstrucțiilor tridimensionale 3D VR.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. Good bolus essential
+        - Linie venoasă minim 20G. Bolus compact de contrast esențial.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess circle of Willis. Aneurysms. Stenosis. Vascular malformations. Anatomic variants
+        - Poligonul Willis complet: ACI intracraniană (porțiune pietroasă, cavernosă, supraclinoidiană), ACA (A1, A2), ACoA, ACM (M1, M2, M3), ACP (P1, P2), ACoP, trunchiul bazilar și arterele cerebeloase. Măsurați diametrele și coletul oricărui anevrism decelat.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Minimize motion. Thin slices for small aneurysms
+        - Imobilizare fermă a capului. Secțiuni fine pentru a nu omite microanevrismele < 3 mm.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Vertex | C1 | N/A | N/A | Lateral |
-    | NC Head (optional) | Vertex | Foramen magnum | N/A | 5 mm | Baseline if SAH |
-    | CTA Head | Skull base | Vertex | Bolus tracked | 0.5-0.625 mm | Submillimeter for 3D |
+    | CT Nativ Craniu (opțional) | Vertex | Gaura occipitală | 0 sec | 2.5 mm | Referință nativă de hemoragie dacă este suspectată HSA |
+    | Angio-CT Cerebral | Baza craniului | Vertex | Urmărire bolus | 0.625 mm | Achiziție submilimetrică pentru randare 3D vasculară |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | CTA | Head | 0.75 mm/0.75 mm | Brain | 3 | Source images |
-    | MIP | CTA | Circle of Willis | Thick slab | Brain | N/A | Vessel overview |
-    | 3D VR | CTA | Intracranial vessels | 0.5 mm source | Brain | N/A | 3D angiogram |
-    | Curved MPR | CTA | Individual vessels | 0.75 mm | Brain | 3 | Vessel-specific views |
+    | Axial | Angio-CT Cerebral | Craniu | 0.625 mm/0.625 mm | Brain |  | Imagini axiale native sursă |
+    | MIP | Angio-CT Cerebral | Craniu | 5 mm/2 mm | Brain |  | Vedere de ansamblu MIP pe axele vasculare |
+    | 3D VR | Angio-CT Cerebral | Craniu | 0.625 mm/0.625 mm | Brain |  | Angiogramă tridimensională 3D VR |
+    | Curved MPR | Angio-CT Cerebral | Craniu | 1 mm/1 mm | Brain |  | Reconstrucții curbate pe segmente vasculare specifice |

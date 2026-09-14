@@ -67,7 +67,7 @@ def generate_sitemap():
     entries = []
 
     for md_file in sorted(docs_dir.rglob('*.md')):
-        if md_file.name == 'index.md':
+        if md_file.name in ('index.md', 'compare.md'):
             continue
 
         content = md_file.read_text(encoding='utf-8')

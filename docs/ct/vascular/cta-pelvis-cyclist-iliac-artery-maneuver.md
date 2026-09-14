@@ -1,183 +1,203 @@
 ---
-title: CTA Pelvis Cyclist Iliac Artery Maneuver
-slug: cta-pelvis-cyclist-iliac-artery-maneuver
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- External iliac artery endofibrosis
-- Cyclist with exercise-induced leg symptoms
-position: Supine initially then with hip flexion
-npo: NPO 2-4 hours
-premedication: ''
+- Endofibroza arterei iliace externe la cicliști de performanță
+- Claudicație atipică / durere la efort maximal la nivelul coapsei la atleți
 contrast:
   agent: Isovue 370
-  volume: 'Split bolus: 1st injection 1.1 mL/kg + 2nd injection 1.1 mL/kg'
+  duration: 18s + 18s
   flow_rate: 4 mL/s
-  duration: 1st injection 18s + 2nd injection 18s
-  timing: 'Dual position: Resting + Hip flexion cycling position'
-  roi: External iliac artery
+  roi: Artera iliacă externă
+  timing: 'Poziționare dublă: Repaus + Poziție flexie șold (pedalare)'
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Resting Position
-  start: L3
-  end: Mid femur
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Supine resting position
-- name: CTA Hip Flexion
-  start: L3
-  end: Mid femur
-  delay: Immediately after
-  thickness: 0.625 mm
-  notes: Hips flexed 90 degrees - cycling position
-recons:
-- plane: Axial
-  acquisition: Resting
-  fov: Pelvis
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Baseline iliac artery anatomy
-- plane: Axial
-  acquisition: Flexion
-  fov: Pelvis
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Assess for kinking with flexion
-- plane: Coronal
-  acquisition: Both phases
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP comparison rest vs flexion
-- plane: Sagittal
-  acquisition: Both phases
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral view iliac course
+  volume: 'Injectare fracționată (split bolus): prima injectare 1.1 mL/kg + a doua
+    injectare 1.1 mL/kg'
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO acquisitions: 1) Resting supine 2) Hip flexion simulating cycling position.
-    Bilateral imaging for comparison'
-  nursing: 18-20G IV
-  rad: Compare resting vs flexed position. Look for iliac artery kinking stenosis
-    or occlusion with hip flexion. Common in competitive cyclists
-  tips: Position patient with knees bent and hips flexed to simulate cycling. May
-    need positioning aids
-  additional_recons: Side-by-side MIP of rest vs flexion. Measure degree of stenosis.
-    3D VR
+  additional_recons: Afișare MIP paralelă repaus vs. flexie. Măsurarea procentului
+    de stenoză dinamică. Randare 3D VR.
+  nursing: Linie venoasă 18-20G.
+  rad: Comparați achiziția de repaus cu cea în flexie. Căutați pliuri vasculare (kinking),
+    stenoze dinamice, traiect alungit tortuos sau ocluzia arterei iliace externe în
+    poziția flectată.
+  tech: 'DOUĂ achiziții arteriale: 1) În decubit dorsal de repaus 2) Cu flexia șoldurilor
+    la 90 grade simulând poziția pe bicicletă. Scanare bilaterală pentru comparație.'
+  tips: Poziționați pacientul cu genunchii și șoldurile flectate utilizând suporturi
+    de poziționare pentru a menține unghiul stabil în timpul celei de-a doua scanări.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal inițial, apoi în poziție simulantă pedalării
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Poziție Repaus
+  fov: Pelvis
+  kernel: Vascular
+  notes: Anatomia de bază a arterelor iliace
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Flexie Șold
+  fov: Pelvis
+  kernel: Vascular
+  notes: Aprecierea compresiunii sau plierii în flexie
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Flexie Șold
+  fov: Pelvis
+  kernel: Vascular
+  notes: MIP comparativ repaus vs. manevră
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Flexie Șold
+  fov: Pelvis
+  kernel: Vascular
+  notes: Vedere laterală a curburii vaselor iliace
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Explain hip flexion positioning
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Mijlocul femurului
+  name: Angio-CT Poziție Repaus
+  notes: Decubit dorsal relaxat - referință bazală
+  start: L3
+  thickness: 0.625 mm
+- delay: Urmărire bolus
+  end: Mijlocul femurului
+  name: Angio-CT Flexie Șold
+  notes: Șolduri flectate la 90 de grade - poziție de pedalare
+  start: L3
+  thickness: 0.625 mm
+slug: cta-pelvis-cyclist-iliac-artery-maneuver
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Pelvis Manevră Flexie Șold pentru Bicicliști (Endofibroză Iliacă)
 ---
 
-# CTA Pelvis Cyclist Iliac Artery Maneuver
+# Angio-CT Pelvis Manevră Flexie Șold pentru Bicicliști (Endofibroză Iliacă)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Resting Position | Arterial (bolus tracked) | Mid-liver to 3cm below greater trochanter |
-        | CTA Hip Flexion | Contrast (Immediately after delay) | Mid-liver to 3cm below greater trochanter |
+        | Angio-CT Poziție Repaus | Urmărire bolus | L3 → Mijlocul femurului |
+        | Angio-CT Flexie Șold | Urmărire bolus | L3 → Mijlocul femurului |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - External iliac artery endofibrosis
-        - Cyclist with exercise-induced leg symptoms
+        - Endofibroza arterei iliace externe la cicliști de performanță
+        - Claudicație atipică / durere la efort maximal la nivelul coapsei la atleți
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine initially then with hip flexion
-    - **NPO Status:** NPO 2-4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal inițial, apoi în poziție simulantă pedalării
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | Split bolus: 1st injection 1.1 mL/kg + 2nd injection 1.1 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 1st injection 18s + 2nd injection 18s |
-        | Timing Method | Dual position: Resting + Hip flexion cycling position |
-        | ROI Placement | External iliac artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | Injectare fracționată (split bolus): prima injectare 1.1 mL/kg + a doua injectare 1.1 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 18s + 18s |
+        | Metodă Temporizare | Poziționare dublă: Repaus + Poziție flexie șold (pedalare) |
+        | Poziționare ROI | Artera iliacă externă |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO acquisitions: 1) Resting supine 2) Hip flexion simulating cycling position. Bilateral imaging for comparison
-        - Additional Recons: Side-by-side MIP of rest vs flexion. Measure degree of stenosis. 3D VR
+        - DOUĂ achiziții arteriale: 1) În decubit dorsal de repaus 2) Cu flexia șoldurilor la 90 grade simulând poziția pe bicicletă. Scanare bilaterală pentru comparație.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV
+        - Linie venoasă 18-20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Explain hip flexion positioning
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Compare resting vs flexed position. Look for iliac artery kinking stenosis or occlusion with hip flexion. Common in competitive cyclists
+        - Comparați achiziția de repaus cu cea în flexie. Căutați pliuri vasculare (kinking), stenoze dinamice, traiect alungit tortuos sau ocluzia arterei iliace externe în poziția flectată.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Position patient with knees bent and hips flexed to simulate cycling. May need positioning aids
+        - Poziționați pacientul cu genunchii și șoldurile flectate utilizând suporturi de poziționare pentru a menține unghiul stabil în timpul celei de-a doua scanări.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | L3 | Proximal femur | N/A | N/A | AP pelvis |
-    | CTA Resting Position | L3 | Mid femur | Bolus tracked | 0.625 mm | Supine resting position |
-    | CTA Hip Flexion | L3 | Mid femur | Immediately after | 0.625 mm | Hips flexed 90 degrees - cycling position |
+    | Angio-CT Poziție Repaus | L3 | Mijlocul femurului | Urmărire bolus | 0.625 mm | Decubit dorsal relaxat - referință bazală |
+    | Angio-CT Flexie Șold | L3 | Mijlocul femurului | Urmărire bolus | 0.625 mm | Șolduri flectate la 90 de grade - poziție de pedalare |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Resting | Pelvis | 1.5 mm/1.5 mm | Vascular | 3 | Baseline iliac artery anatomy |
-    | Axial | Flexion | Pelvis | 1.5 mm/1.5 mm | Vascular | 3 | Assess for kinking with flexion |
-    | Coronal | Both phases | Pelvis | 2 mm/2 mm | Vascular | 3 | MIP comparison rest vs flexion |
-    | Sagittal | Both phases | Pelvis | 2 mm/2 mm | Vascular | 3 | Lateral view iliac course |
+    | Axial | Angio-CT Poziție Repaus | Pelvis | 1.25 mm/1.25 mm | Vascular |  | Anatomia de bază a arterelor iliace |
+    | Axial | Angio-CT Flexie Șold | Pelvis | 1.25 mm/1.25 mm | Vascular |  | Aprecierea compresiunii sau plierii în flexie |
+    | Coronal | Angio-CT Flexie Șold | Pelvis | 2 mm/2 mm | Vascular |  | MIP comparativ repaus vs. manevră |
+    | Sagital | Angio-CT Flexie Șold | Pelvis | 2 mm/2 mm | Vascular |  | Vedere laterală a curburii vaselor iliace |

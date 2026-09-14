@@ -1,9 +1,12 @@
+title: CT
 nav:
-  - Abdomen: abdomen
-  - Cardiac: cardiac
-  - Vascular: vascular
-  - Chest: chest
-  - MSK: msk
-  - Neuro: neuro
-  - Trauma: trauma
+  - Prezentare Generală: index.md
+  - Compară Protocoale CT: compare.md
+  - Abdomen & Pelvis: abdomen
+  - Torace: chest
+  - Cardiac & Coronar: cardiac
+  - Neurologie: neuro
+  - Musculoscheletic: msk
+  - Angio-CT & Vascular: vascular
+  - Traumă: trauma
 collapse_single_pages: true

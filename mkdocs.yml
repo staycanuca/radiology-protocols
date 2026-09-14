@@ -1,8 +1,12 @@
-site_name: Radiology Protocol Manager
+site_name: Ghidul Protocoalelor de Radiologie
 site_url: https://dfergs93.github.io/radiology-protocols/
 
 theme:
   name: material
+  language: ro
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
     - navigation.tabs
     # - navigation.expand
@@ -13,25 +17,28 @@ theme:
     - content.tabs.link
     - toc.integrate
   palette:
-    # Dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-    # Light mode
+    # Mod luminos (Implicit - sinonim cu panoul de administrare)
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+        icon: material/weather-night
+        name: Comută la modul întunecat
+
+    # Mod întunecat (Opțional)
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Comută la modul luminos
     
 plugins:
   - search
   - awesome-pages
+
+hooks:
+  - scripts/search_enhancer.py
 
 extra_css:
   - custom_css/extra.css
@@ -41,8 +48,10 @@ extra_javascript:
   - javascripts/acquisition-diagram-init.js
   - https://cdn.jsdelivr.net/npm/marked/marked.min.js
   - javascripts/protocol-compare.js
-  - javascripts/protocol-comparison-index.json  # Pre-generated JSON data for comparison index
   - javascripts/request-change.js
+  - javascripts/iris-data.js
+  - javascripts/iris-browser.js
+  - javascripts/ai-assistant.js
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 

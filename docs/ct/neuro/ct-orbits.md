@@ -1,172 +1,199 @@
 ---
-title: CT Orbits
-slug: ct-orbits
+author: null
 category: neuro
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Orbital mass
-- Thyroid eye disease
-- Orbital cellulitis
-- Optic nerve assessment
-- Trauma
-position: Supine head-first
-npo: NPO 2 hours if contrast
-premedication: ''
+- Formațiune tumorală intraorbitară sau a glandei lacrimale
+- Oftalmopatie tiroidiană / boală Basedow-Graves (exoftalmie)
+- Celulită orbitară (preseptală vs. postseptală) / abces subperiostal
+- Traumatism orbitar (fractură de planșeu / fractură blow-out, corp străin intraocular)
+- Neuropatie optică / evaluarea canalului optic
 contrast:
-  agent: Omnipaque 350 if contrast
-  volume: 75-100 mL if contrast
+  agent: Omnipaque 350 dacă se administrează contrast
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: Axial Orbits
-  start: Superior orbital rim
-  end: Maxillary sinus
-  delay: N/A or 60s if contrast
-  thickness: 1-1.5 mm
-  notes: Parallel to optic nerves
-recons:
-- plane: Axial
-  acquisition: Orbits
-  fov: Orbits
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone and Standard
-  ir_strength: '3'
-  notes: Bone for fractures soft tissue for pathology
-- plane: Coronal
-  acquisition: Orbits
-  fov: Orbits
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone and Standard
-  ir_strength: '3'
-  notes: Coronal orbits
-- plane: Sagittal
-  acquisition: Orbits
-  fov: Optic nerve
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Optic nerve canal
-- plane: 3D if trauma
-  acquisition: Orbits
-  fov: Orbital bones
-  thickness_increment: 1 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D if complex fracture
+  volume: 75-100 mL dacă se administrează contrast
+last_updated: '2026-01-01'
 notes:
-  tech: 'Orbits: superior orbital rim to maxillary sinus. Axial 1-2mm. Coronal reformats.
-    NC for trauma. Contrast for masses/inflammation'
-  nursing: Contrast for mass or inflammation. NC for trauma and metallic foreign body
-  rad: Extraocular muscles. Optic nerve. Globe integrity. Orbital fat. Preseptal vs
-    postseptal. Masses. Foreign body
-  tips: Angle axial parallel to optic nerves. Thin slices
-  additional_recons: Assess optic nerve canal. Measure EOMs if thyroid eye disease.
-    Document foreign body
+  additional_recons: Evaluarea canalului optic în plan oblic. Măsurarea calibrului
+    mușchilor oculomotori. Randare 3D în fracturi complexe.
+  nursing: Linie venoasă pentru studiile cu contrast. Instruiți pacientul să mențină
+    privirea fixă înainte fără mișcări oculare.
+  rad: Glob ocular și cameră anterioară/posterioară. Mușchii extraoculari (măsurarea
+    grosimii corpului muscular vs. tendoanelor în oftalmopatia Basedow). Nervul optic
+    și teaca sa. Grăsimea retrobulbară. Integritatea pereților osoși (planșeu, perete
+    medial).
+  tech: De la marginea orbitară superioară până sub podeaua sinusului maxilar. Achiziție
+    axială fină orientată paralel cu nervii optici. Reformatări coronale perpendiculare
+    pe nervul optic. Nativ pentru corpi străini și traumă; cu contrast pentru inflamație
+    și tumori.
+  tips: Angulați planul axial paralel cu traiectul nervilor optici. Secțiuni submilimetrice.
+npo: Repaus alimentar 4 ore dacă se administrează contrast
+position: Decubit dorsal cu capul fixat în suport dedicat; privirea imobilizată înainte
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: CT Axial Orbite
+  fov: Orbite
+  kernel: Bone and Standard
+  notes: Fereastră osoasă pentru fracturi și de părți moi pentru glob/mușchi
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Axial Orbite
+  fov: Orbite
+  kernel: Bone and Standard
+  notes: Plan coronal pentru planșeul orbitar și mușchii extraoculari
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Axial Orbite
+  fov: Orbite
+  kernel: Standard
+  notes: Plan sagital oblic pe axul nervului optic
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Axial Orbite
+  fov: Orbite
+  kernel: Bone
+  notes: Randare tridimensională 3D în fracturi complexe de cadru orbitar
+  plane: 3D if trauma
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A or verify eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m² dacă se administrează contrast
+series:
+- delay: 0 sec
+  end: Sinus maxilar
+  name: CT Axial Orbite
+  notes: Paralel cu traiectul nervilor optici
+  start: Margine orbitară superioară
+  thickness: 0.625 mm
+slug: ct-orbits
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200-250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Orbite
 ---
 
-# CT Orbits
+# CT Orbite
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Axial Orbits | Contrast (N/A or 60s if contrast delay) | Superior orbital rim to Maxillary sinus |
+        | CT Axial Orbite | 0 sec | Margine orbitară superioară → Sinus maxilar |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Orbital mass
-        - Thyroid eye disease
-        - Orbital cellulitis
-        - Optic nerve assessment
-        - Trauma
+        - Formațiune tumorală intraorbitară sau a glandei lacrimale
+        - Oftalmopatie tiroidiană / boală Basedow-Graves (exoftalmie)
+        - Celulită orbitară (preseptală vs. postseptală) / abces subperiostal
+        - Traumatism orbitar (fractură de planșeu / fractură blow-out, corp străin intraocular)
+        - Neuropatie optică / evaluarea canalului optic
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** NPO 2 hours if contrast
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul fixat în suport dedicat; privirea imobilizată înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore dacă se administrează contrast
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | Omnipaque 350 if contrast |
-        | Volume | 75-100 mL if contrast |
-        | Flow Rate | 3 mL/s |
+        | Agent | Omnipaque 350 dacă se administrează contrast |
+        | Volum | 75-100 mL dacă se administrează contrast |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Orbits: superior orbital rim to maxillary sinus. Axial 1-2mm. Coronal reformats. NC for trauma. Contrast for masses/inflammation
-        - Additional Recons: Assess optic nerve canal. Measure EOMs if thyroid eye disease. Document foreign body
+        - De la marginea orbitară superioară până sub podeaua sinusului maxilar. Achiziție axială fină orientată paralel cu nervii optici. Reformatări coronale perpendiculare pe nervul optic. Nativ pentru corpi străini și traumă; cu contrast pentru inflamație și tumori.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Contrast for mass or inflammation. NC for trauma and metallic foreign body
+        - Linie venoasă pentru studiile cu contrast. Instruiți pacientul să mențină privirea fixă înainte fără mișcări oculare.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m² dacă se administrează contrast
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Extraocular muscles. Optic nerve. Globe integrity. Orbital fat. Preseptal vs postseptal. Masses. Foreign body
+        - Glob ocular și cameră anterioară/posterioară. Mușchii extraoculari (măsurarea grosimii corpului muscular vs. tendoanelor în oftalmopatia Basedow). Nervul optic și teaca sa. Grăsimea retrobulbară. Integritatea pereților osoși (planșeu, perete medial).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Angle axial parallel to optic nerves. Thin slices
+        - Angulați planul axial paralel cu traiectul nervilor optici. Secțiuni submilimetrice.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Superior orbital rim | Maxillary sinus | N/A | N/A | Lateral |
-    | Axial Orbits | Superior orbital rim | Maxillary sinus | N/A or 60s if contrast | 1-1.5 mm | Parallel to optic nerves |
+    | CT Axial Orbite | Margine orbitară superioară | Sinus maxilar | 0 sec | 0.625 mm | Paralel cu traiectul nervilor optici |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Orbits | Orbits | 1.5 mm/1 mm | Bone and Standard | 3 | Bone for fractures soft tissue for pathology |
-    | Coronal | Orbits | Orbits | 1.5 mm/1 mm | Bone and Standard | 3 | Coronal orbits |
-    | Sagittal | Orbits | Optic nerve | 2 mm/1.5 mm | Standard | 3 | Optic nerve canal |
-    | 3D if trauma | Orbits | Orbital bones | 1 mm source | Bone | N/A | 3D if complex fracture |
+    | Axial | CT Axial Orbite | Orbite | 1 mm/1 mm | Bone and Standard |  | Fereastră osoasă pentru fracturi și de părți moi pentru glob/mușchi |
+    | Coronal | CT Axial Orbite | Orbite | 1 mm/1 mm | Bone and Standard |  | Plan coronal pentru planșeul orbitar și mușchii extraoculari |
+    | Sagital | CT Axial Orbite | Orbite | 1 mm/1 mm | Standard |  | Plan sagital oblic pe axul nervului optic |
+    | 3D if trauma | CT Axial Orbite | Orbite | 0.75 mm/0.75 mm | Bone |  | Randare tridimensională 3D în fracturi complexe de cadru orbitar |

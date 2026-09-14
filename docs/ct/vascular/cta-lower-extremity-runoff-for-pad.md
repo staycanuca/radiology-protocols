@@ -1,187 +1,209 @@
 ---
-title: CTA Lower Extremity Runoff for PAD
-slug: cta-lower-extremity-runoff-for-pad
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Peripheral arterial disease
-- Claudication
-- Critical limb ischemia
-- Pre-operative bypass planning
-position: Supine with arms raised. Legs straight
-npo: NPO 2-4 hours
-premedication: ''
+- Boală arterială periferică (arteriopatie obliterantă a membrelor inferioare - AOMI)
+- Claudicație intermitentă la distanțe mici
+- Ischemie critică de membru (dureri de repaus, leziuni trofice, gangrenă)
+- Planificare pre-operatorie by-pass vascular sau angioplastie/stentare
 contrast:
   agent: Isovue 370
-  volume: 1.9 mL/kg
+  duration: 35s (5s rapid la 5-6 mL/s urmat de 30s la 3-4 mL/s)
   flow_rate: 3-4 mL/s
-  duration: 35s (5s fast 5-6mL/s then 30 s slow 3-4mL/s)
-  timing: Bolus Tracking
-  roi: Abdominal aorta
+  roi: Aorta abdominală
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: 1.2-1.5
-series:
-- name: CTA Arterial
-  start: Renal arteries
-  end: Ankle
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: May need slower table speed if severe PAD
-- name: CTA Runoff
-  start: Mid Thigh
-  end: Foot
-  delay: Immediately after CTA
-  thickness: 0.625 mm
-  notes: Runoff phase to evaluate distal vessels
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Pelvis/Legs
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Assess all vessel segments
-- plane: Coronal
-  acquisition: Arterial
-  fov: Full legs
-  thickness_increment: 3 mm/3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP full arterial tree
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Full legs
-  thickness_increment: 3 mm/3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral views of vessels
-- plane: 3D VR
-  acquisition: Arterial
-  fov: Full legs
-  thickness_increment: 1.5 mm source
-  kernel: Vascular
-  ir_strength: '3'
-  notes: 3D for surgical planning
+  volume: 1.9 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Scan from diaphragm to toes. Tape feet together. Use automatic bolus tracking.
-    Extend delay if known severe PAD. Cover tibial vessels to ankle
-  nursing: 18-20G IV antecubital, flow rate up to 6 mL/s
-  rad: Assess aortoiliac femoral popliteal and tibial vessels. Grade stenoses. Identify
-    occlusions. Assess runoff vessels
-  tips: Ensure legs are straight and not rotated. Remove shoes and metal
-  additional_recons: MIP and 3D VR. Curved MPR of each arterial segment. Bone subtraction
-    for vessels.
+  additional_recons: Reconstrucții MIP și 3D VR. MPR curbat pentru fiecare segment
+    arterial. Tehnici de substracție osoasă pentru vizualizarea vaselor mici calcificate.
+  nursing: Linie venoasă 18-20G în plica cotului, suportând debite de până la 5-6
+    mL/s.
+  rad: Evaluați etajele aorto-iliac, femuro-popliteu și infra-popliteu/tibial. Stadializați
+    stenozele (ușoare, moderate, strânse). Identificați ocluziile și lungimea acestora.
+    Evaluați patul vascular distal de revascularizare (runoff vascular).
+  tech: Scanare de la diafragm până la degetele picioarelor. Fixați picioarele cu
+    bandă adezivă pentru imobilizare. Urmărire automată a bolusului. Extindeți timpul
+    de întârziere dacă este cunoscută o AOMI severă cu flux extrem de lent. Acoperire
+    obligatorie a vaselor gambei și pedioase.
+  tips: Membrele perfect drepte, fără rotație. Îndepărtați încălțămintea și orice
+    obiecte metalice.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu picioarele imobilizate ușor orientate median
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: Evaluarea tuturor segmentelor vasculare
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: MIP complet al arborelui arterial
+  plane: Coronal
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: Vederi sagitale ale traiectului vascular
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: Randare 3D pentru planificare chirurgicală și angioplastie
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m² (risc crescut la vasculopați diabetici)
+series:
+- delay: Urmărire bolus
+  end: Glezne
+  name: Angio-CT Arterial
+  notes: Viteză a mesei adaptată fluxului distal
+  start: Artere renale
+  thickness: 0.625 mm
+- delay: Post-arterial
+  end: Picior / Degete
+  name: Angio-CT Runoff Distal
+  notes: Fază de umplere tardivă a axului tibial și arcadelor plantare
+  start: Mijlocul coapsei
+  thickness: 0.625 mm
+slug: cta-lower-extremity-runoff-for-pad
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 250 mAs)
+  pitch: 1.2-1.5
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Membre Inferioare (Runoff pentru Boală Arterială Periferică)
 ---
 
-# CTA Lower Extremity Runoff for PAD
+# Angio-CT Membre Inferioare (Runoff pentru Boală Arterială Periferică)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Diaphragm to Toes |
-        | CTA Arterial | Arterial (bolus tracked) | Above the diaphragm to Toes |
-        | CTA Runoff | Immediately after CTA | Knees to Toes |
+        | Angio-CT Arterial | Urmărire bolus | Artere renale → Glezne |
+        | Angio-CT Runoff Distal | Post-arterial | Mijlocul coapsei → Picior / Degete |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Peripheral arterial disease
-        - Claudication
-        - Critical limb ischemia
-        - Pre-operative bypass planning
+        - Boală arterială periferică (arteriopatie obliterantă a membrelor inferioare - AOMI)
+        - Claudicație intermitentă la distanțe mici
+        - Ischemie critică de membru (dureri de repaus, leziuni trofice, gangrenă)
+        - Planificare pre-operatorie by-pass vascular sau angioplastie/stentare
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with arms raised. Legs straight
-    - **NPO Status:** NPO 2-4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu picioarele imobilizate ușor orientate median
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.9 mL/kg |
-        | Flow Rate | 3-4 mL/s |
-        | Duration | 35s (5s fast 5-6mL/s then 30 s slow 3-4mL/s) |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Abdominal aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.9 mL/kg |
+        | Rată de Flux | 3-4 mL/s |
+        | Durată | 35s (5s rapid la 5-6 mL/s urmat de 30s la 3-4 mL/s) |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta abdominală |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.2-1.5 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan from diaphragm to toes. Tape feet together. Use automatic bolus tracking. Extend delay if known severe PAD. Cover tibial vessels to ankle
-        - Additional Recons: MIP and 3D VR. Curved MPR of each arterial segment. Bone subtraction for vessels.
+        - Scanare de la diafragm până la degetele picioarelor. Fixați picioarele cu bandă adezivă pentru imobilizare. Urmărire automată a bolusului. Extindeți timpul de întârziere dacă este cunoscută o AOMI severă cu flux extrem de lent. Acoperire obligatorie a vaselor gambei și pedioase.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV antecubital, flow rate up to 6 mL/s
+        - Linie venoasă 18-20G în plica cotului, suportând debite de până la 5-6 mL/s.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m² (risc crescut la vasculopați diabetici)
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess aortoiliac femoral popliteal and tibial vessels. Grade stenoses. Identify occlusions. Assess runoff vessels
+        - Evaluați etajele aorto-iliac, femuro-popliteu și infra-popliteu/tibial. Stadializați stenozele (ușoare, moderate, strânse). Identificați ocluziile și lungimea acestora. Evaluați patul vascular distal de revascularizare (runoff vascular).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Ensure legs are straight and not rotated. Remove shoes and metal
+        - Membrele perfect drepte, fără rotație. Îndepărtați încălțămintea și orice obiecte metalice.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Renal arteries | Feet | N/A | N/A | AP full legs |
-    | CTA Arterial | Renal arteries | Ankle | Bolus tracked | 0.625 mm | May need slower table speed if severe PAD |
-    | CTA Runoff | Mid Thigh | Foot | Immediately after CTA | 0.625 mm | Runoff phase to evaluate distal vessels |
+    | Angio-CT Arterial | Artere renale | Glezne | Urmărire bolus | 0.625 mm | Viteză a mesei adaptată fluxului distal |
+    | Angio-CT Runoff Distal | Mijlocul coapsei | Picior / Degete | Post-arterial | 0.625 mm | Fază de umplere tardivă a axului tibial și arcadelor plantare |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Pelvis/Legs | 2 mm/2 mm | Vascular | 3 | Assess all vessel segments |
-    | Coronal | Arterial | Full legs | 3 mm/3 mm | Vascular | 3 | MIP full arterial tree |
-    | Sagittal | Arterial | Full legs | 3 mm/3 mm | Vascular | 3 | Lateral views of vessels |
-    | 3D VR | Arterial | Full legs | 1.5 mm source | Vascular | 3 | 3D for surgical planning |
+    | Axial | Angio-CT Arterial | Membre inferioare | 1.25 mm/1.25 mm | Vascular |  | Evaluarea tuturor segmentelor vasculare |
+    | Coronal | Angio-CT Arterial | Membre inferioare | 2.5 mm/2.5 mm | Vascular |  | MIP complet al arborelui arterial |
+    | Sagital | Angio-CT Arterial | Membre inferioare | 2 mm/2 mm | Vascular |  | Vederi sagitale ale traiectului vascular |
+    | 3D VR | Angio-CT Arterial | Membre inferioare | 1 mm/1 mm | Vascular |  | Randare 3D pentru planificare chirurgicală și angioplastie |

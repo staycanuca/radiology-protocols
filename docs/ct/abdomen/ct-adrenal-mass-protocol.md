@@ -1,180 +1,211 @@
 ---
-title: CT Adrenal Mass Protocol
-slug: ct-adrenal-mass-protocol
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Adrenal mass characterization
-- Adenoma vs metastasis
-- Incidentaloma workup
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: ''
+- Caracterizarea formațiunilor suprarenaliene
+- Diferențiere adenom vs. metastază
+- Bilanț diagnostic incidentalom suprarenalian
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 3 mL/s
   duration: 40s
-  timing: Empiric Delay (70s)
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Non-Contrast
-  start: Diaphragm
-  end: Kidneys
-  delay: N/A
-  thickness: 2.5 mm
-  notes: Measure absolute HU in mass
-- name: Portal Venous
-  start: Diaphragm
-  end: Kidneys
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Enhanced HU measurement
-- name: 15 Minute Delay
-  start: Diaphragm
-  end: Kidneys
-  delay: 900 sec
-  thickness: 2.5 mm
-  notes: Delayed HU for washout calculation
-recons:
-- plane: Axial
-  acquisition: All phases
-  fov: Adrenals
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: ROI measurements in mass
-- plane: Axial
-  acquisition: All phases
-  fov: Adrenals
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Compare enhancement
-- plane: Coronal
-  acquisition: Portal venous
-  fov: Adrenals
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Anatomic overview
+  flow_rate: 3 mL/s
+  timing: Timp empiric de întârziere (70s)
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'THREE phases: 1) Non-contrast for absolute HU 2) Portal venous 70s 3) 15
-    MINUTE delayed for washout. All phases cover adrenals'
-  nursing: 20-22G IV. Patient must wait 15 min for delayed phase
-  rad: 'NC: lipid-rich adenoma < 10 HU. Portal venous: enhancement. 15 min delay:
-    calculate washout (adenoma shows washout)'
-  tips: Patient wait time 15 min. Measure HU carefully with ROI in same location
-  additional_recons: 'Calculate absolute washout: (Enhanced HU - Delayed HU)/(Enhanced
-    HU - NC HU) x 100. >60% suggests adenoma. Measure HU in all phases'
+  additional_recons: 'Calcul washout absolut: (HU fază încărcată - HU tardiv) / (HU
+    fază încărcată - HU nativ) x 100. >60% sugerează adenom suprarenalian.'
+  nursing: Abord venos periferic 20-22G. Pacientul trebuie informat că va aștepta
+    15 minute pentru seria tardivă.
+  rad: 'Nativ: adenom bogat în lipide < 10 HU. Venoasă portală: încărcare cu contrast.
+    Fază tardivă 15 min: calculare washout (adenomul prezintă spălare rapidă).'
+  tech: 'TREI faze: 1) Fază nativă pentru densitatea absolută în HU 2) Fază venoasă
+    portală la 70s 3) Fază tardivă la 15 MINUTE pentru washout. Toate fazele trebuie
+    să acopere glandele suprarenale.'
+  tips: Timp de așteptare al pacientului 15 min. Măsurați valorile HU cu atenție,
+    poziționând ROI identic pe toate cele trei faze.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Nativă
+  fov: Abdomen
+  kernel: Standard
+  notes: Măsurători ROI în masa suprarenaliană
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Evaluarea încărcării vasculare
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Tardivă la 15 Minute
+  fov: Abdomen
+  kernel: Standard
+  notes: Măsurare densitate HU pentru spălare (washout)
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Vedere anatomică de ansamblu
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Explain 15 min delay
+  allergy: Verificați istoricul alergic. Explicați faza tardivă la 15 minute.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Sub polul inferior renal
+  name: Fază Nativă
+  notes: Achiziție nativă de referință pentru densitate în HU
+  start: Deasupra glandelor suprarenale
+  thickness: 0.625 mm
+- delay: 70 sec
+  end: Creste iliace
+  name: Fază Venoasă Portală
+  notes: Fază venoasă portală pentru evaluarea încărcării
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 900 sec (15 min)
+  end: Sub glandele suprarenale
+  name: Fază Tardivă la 15 Minute
+  notes: Fază tardivă de spălare (washout)
+  start: Deasupra glandelor suprarenale
+  thickness: 0.625 mm
+slug: ct-adrenal-mass-protocol
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Protocol Masă Suprarenaliană (Washout)
 ---
 
-# CT Adrenal Mass Protocol
+# CT Protocol Masă Suprarenaliană (Washout)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast | Non-contrast | Diaphragm to Kidneys |
-        | Portal Venous | Contrast (70 sec delay) | Diaphragm to Kidneys |
-        | 15 Minute Delay | Contrast (900 sec delay) | Diaphragm to Kidneys |
+        | Fază Nativă | 0 sec | Deasupra glandelor suprarenale → Sub polul inferior renal |
+        | Fază Venoasă Portală | 70 sec | Diafragm → Creste iliace |
+        | Fază Tardivă la 15 Minute | 900 sec (15 min) | Deasupra glandelor suprarenale → Sub glandele suprarenale |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Adrenal mass characterization
-        - Adenoma vs metastasis
-        - Incidentaloma workup
+        - Caracterizarea formațiunilor suprarenaliene
+        - Diferențiere adenom vs. metastază
+        - Bilanț diagnostic incidentalom suprarenalian
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 3 mL/s |
-        | Duration | 40s |
-        | Timing Method | Empiric Delay (70s) |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 3 mL/s |
+        | Durată | 40s |
+        | Metodă Temporizare | Timp empiric de întârziere (70s) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - THREE phases: 1) Non-contrast for absolute HU 2) Portal venous 70s 3) 15 MINUTE delayed for washout. All phases cover adrenals
-        - Additional Recons: Calculate absolute washout: (Enhanced HU - Delayed HU)/(Enhanced HU - NC HU) x 100. >60% suggests adenoma. Measure HU in all phases
+        - TREI faze: 1) Fază nativă pentru densitatea absolută în HU 2) Fază venoasă portală la 70s 3) Fază tardivă la 15 MINUTE pentru washout. Toate fazele trebuie să acopere glandele suprarenale.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20-22G IV. Patient must wait 15 min for delayed phase
+        - Abord venos periferic 20-22G. Pacientul trebuie informat că va aștepta 15 minute pentru seria tardivă.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Explain 15 min delay
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic. Explicați faza tardivă la 15 minute.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: lipid-rich adenoma < 10 HU. Portal venous: enhancement. 15 min delay: calculate washout (adenoma shows washout)
+        - Nativ: adenom bogat în lipide < 10 HU. Venoasă portală: încărcare cu contrast. Fază tardivă 15 min: calculare washout (adenomul prezintă spălare rapidă).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Patient wait time 15 min. Measure HU carefully with ROI in same location
+        - Timp de așteptare al pacientului 15 min. Măsurați valorile HU cu atenție, poziționând ROI identic pe toate cele trei faze.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Kidneys | N/A | N/A | AP |
-    | Non-Contrast | Diaphragm | Kidneys | N/A | 2.5 mm | Measure absolute HU in mass |
-    | Portal Venous | Diaphragm | Kidneys | 70 sec | 2.5 mm | Enhanced HU measurement |
-    | 15 Minute Delay | Diaphragm | Kidneys | 900 sec | 2.5 mm | Delayed HU for washout calculation |
+    | Fază Nativă | Deasupra glandelor suprarenale | Sub polul inferior renal | 0 sec | 0.625 mm | Achiziție nativă de referință pentru densitate în HU |
+    | Fază Venoasă Portală | Diafragm | Creste iliace | 70 sec | 0.625 mm | Fază venoasă portală pentru evaluarea încărcării |
+    | Fază Tardivă la 15 Minute | Deasupra glandelor suprarenale | Sub glandele suprarenale | 900 sec (15 min) | 0.625 mm | Fază tardivă de spălare (washout) |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | All phases | Adrenals | 2.5 mm/2.5 mm | Standard | 3 | ROI measurements in mass |
-    | Axial | All phases | Adrenals | 2.5 mm/2.5 mm | Standard | 3 | Compare enhancement |
-    | Coronal | Portal venous | Adrenals | 3 mm/3 mm | Standard | 3 | Anatomic overview |
+    | Axial | Fază Nativă | Abdomen | 2.5 mm/2.5 mm | Standard |  | Măsurători ROI în masa suprarenaliană |
+    | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Evaluarea încărcării vasculare |
+    | Axial | Fază Tardivă la 15 Minute | Abdomen | 2.5 mm/2.5 mm | Standard |  | Măsurare densitate HU pentru spălare (washout) |
+    | Coronal | Fază Venoasă Portală | Abdomen | 3 mm/3 mm | Standard |  | Vedere anatomică de ansamblu |

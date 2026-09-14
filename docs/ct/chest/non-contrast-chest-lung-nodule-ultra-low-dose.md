@@ -1,143 +1,185 @@
 ---
-title: Non-Contrast Chest Lung Nodule Ultra Low Dose
-slug: non-contrast-chest-lung-nodule-ultra-low-dose
+author: null
 category: chest
-protocol_type: chest/pulmonary
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pulmonary nodule follow-up
-- Known nodule surveillance
-position: Supine with arms raised
-npo: N/A
-premedication: ''
+- Urmărire nodul pulmonar solid/subsolid cunoscut
+- Screening cancer pulmonar la pacienți eligibili
+- Pacienți tineri care necesită scanări repetate de control
 contrast:
   agent: N/A
-  type: non-contrast
-tech_params:
-  kv: '100'
-  mas: Ultra low (20-30 reference)
-  rotation_time: 0.5s
-  pitch: 1.0-1.2
-series:
-- name: Ultra Low Dose Chest
-  start: Lung apices
-  end: Costophrenic angles
-  delay: N/A
-  thickness: 1-1.25 mm
-  notes: Ultra low dose helical
-recons:
-- plane: Axial
-  acquisition: Chest
-  fov: Chest
-  thickness_increment: 1.25 mm/1.25 mm
-  kernel: Lung
-  ir_strength: Maximum IR 5
-  notes: Nodule follow-up
-- plane: Axial
-  acquisition: Chest
-  fov: Chest
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: High IR
-  notes: Mediastinal
-- plane: Coronal
-  acquisition: Chest
-  fov: Chest
-  thickness_increment: 2 mm/2 mm
-  kernel: Lung
-  ir_strength: Maximum IR
-  notes: Coronal
+  duration: ''
+  flow_rate: ''
+  roi: ''
+  timing: ''
+  trigger: ''
+  volume: ''
+last_updated: '2026-01-01'
 notes:
-  tech: ULTRA LOW DOSE 10-20% standard dose. For follow-up of KNOWN nodules only.
-    Not for initial detection. Maximum IR
-  nursing: No IV. Known nodule follow-up only
-  rad: Follow known nodules. Compare to prior. Measure size. Not for initial detection
-  tips: Ultra low dose. Maximum IR. Prior comparison essential
-  additional_recons: ''
+  additional_recons: Reconstrucții MIP și volumetrie automată dacă este disponibil
+    software dedicat
+  nursing: Fără linie venoasă necesară.
+  rad: Comparați dimensiunile și volumetria nodulului cu examinarea anterioară conform
+    ghidurilor Fleischner.
+  tech: Scanare în apnee inspiratorie completă. Utilizați protocoale specifice de
+    doză ultra-redusă (ULD) cu reconstrucție iterativă avansată.
+  tips: Asigurați-vă că pacientul menține apneea corect pentru a evita artefactele
+    de mișcare care pot mima creșterea nodulilor.
+npo: Nu este necesar
+position: Decubit dorsal cu picioarele înainte și brațele ridicate
+premedication: Nu este necesară
+protocol_type: chest/pulmonary
+recons:
+- acquisition: Nativ ULD
+  fov: Torace
+  ir_strength: '5'
+  kernel: Plămân
+  notes: Fereastră pulmonară
+  plane: Axial
+  thickness_increment: 1.0 mm/0.8 mm
+- acquisition: Nativ ULD
+  fov: Torace
+  ir_strength: '5'
+  kernel: Standard
+  notes: Fereastră mediastinală
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Nativ ULD
+  fov: Torace
+  ir_strength: '5'
+  kernel: Plămân
+  notes: Fereastră pulmonară
+  plane: Coronal
+  thickness_increment: 2.0 mm/2.0 mm
+- acquisition: Nativ ULD
+  fov: Torace
+  ir_strength: '5'
+  kernel: Plămân
+  notes: Fereastră pulmonară
+  plane: Sagital
+  thickness_increment: 2.0 mm/2.0 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
+series:
+- delay: Imediat
+  end: Sinusuri costodiafragmatice
+  name: Torace Nativ Doză Ultra-Redusă
+  notes: Protocol ultra-low dose
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
+slug: non-contrast-chest-lung-nodule-ultra-low-dose
+synonyms: []
+tech_params:
+  aec: Activat (Protocol doză redusă / Ultra low-dose)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Doză ultra-redusă (referință 20-30 mAs)
+  pitch: 1.0-1.2
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 1.0 mm
+title: CT Torace Nativ Doză Ultra-Redusă (Nodul Pulmonar)
 ---
 
-# Non-Contrast Chest Lung Nodule Ultra Low Dose
+# CT Torace Nativ Doză Ultra-Redusă (Nodul Pulmonar)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Ultra Low Dose Chest | Non-contrast | Lung apices to Costophrenic angles |
+        | Torace Nativ Doză Ultra-Redusă | Imediat | Vârfuri pulmonare → Sinusuri costodiafragmatice |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pulmonary nodule follow-up
-        - Known nodule surveillance
+        - Urmărire nodul pulmonar solid/subsolid cunoscut
+        - Screening cancer pulmonar la pacienți eligibili
+        - Pacienți tineri care necesită scanări repetate de control
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu picioarele înainte și brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - ULTRA LOW DOSE 10-20% standard dose. For follow-up of KNOWN nodules only. Not for initial detection. Maximum IR
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Known nodule follow-up only
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Doză ultra-redusă (referință 20-30 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Protocol doză redusă / Ultra low-dose) |
+    | **Grosime Secțiune Achiziție (Slice)** | 1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Follow known nodules. Compare to prior. Measure size. Not for initial detection
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Ultra low dose. Maximum IR. Prior comparison essential
+        - Scanare în apnee inspiratorie completă. Utilizați protocoale specifice de doză ultra-redusă (ULD) cu reconstrucție iterativă avansată.
+
+    === "Note Asistent"
+
+        - Fără linie venoasă necesară.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Comparați dimensiunile și volumetria nodulului cu examinarea anterioară conform ghidurilor Fleischner.
+
+    === "Sfaturi & Recomandări"
+
+        - Asigurați-vă că pacientul menține apneea corect pentru a evita artefactele de mișcare care pot mima creșterea nodulilor.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Lung apices | Costophrenic angles | N/A | N/A | Ultra low dose |
-    | Ultra Low Dose Chest | Lung apices | Costophrenic angles | N/A | 1-1.25 mm | Ultra low dose helical |
+    | Torace Nativ Doză Ultra-Redusă | Vârfuri pulmonare | Sinusuri costodiafragmatice | Imediat | 1.0 mm | Protocol ultra-low dose |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Chest | Chest | 1.25 mm/1.25 mm | Lung | Maximum IR 5 | Nodule follow-up |
-    | Axial | Chest | Chest | 2.5 mm/2.5 mm | Standard | High IR | Mediastinal |
-    | Coronal | Chest | Chest | 2 mm/2 mm | Lung | Maximum IR | Coronal |
+    | Axial | Nativ ULD | Torace | 1.0 mm/0.8 mm | Plămân | 5 | Fereastră pulmonară |
+    | Axial | Nativ ULD | Torace | 2.5 mm/2.5 mm | Standard | 5 | Fereastră mediastinală |
+    | Coronal | Nativ ULD | Torace | 2.0 mm/2.0 mm | Plămân | 5 | Fereastră pulmonară |
+    | Sagital | Nativ ULD | Torace | 2.0 mm/2.0 mm | Plămân | 5 | Fereastră pulmonară |

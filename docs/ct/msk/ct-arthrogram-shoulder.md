@@ -1,171 +1,197 @@
 ---
-title: CT Arthrogram Shoulder
-slug: ct-arthrogram-shoulder
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Labral tear
-- Rotator cuff tear
-- Capsular injury
-- Shoulder instability
-position: Supine with arm at side
-npo: N/A
-premedication: Intra-articular contrast injection by radiologist
+- Leziuni de burelet glenoidian (labrum) - leziuni SLAP, Bankart
+- Rupturi parțiale sau transfixiante ale coafei rotatorilor
+- Instabilitate glenohumerală recidivantă / luxație anterioară sau posterioară
+- Leziuni capsulo-ligamentare (ligamente glenohumerale)
 contrast:
-  agent: Omnipaque 240 or 300 diluted
-  volume: 12-15 mL intra-articular
-  flow_rate: N/A
-tech_params:
-  kv: '120'
-  mas: Auto (reference 150-200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Arthrogram
-  start: Acromion
-  end: Proximal humerus
-  delay: Immediate post-injection
-  thickness: 0.625 mm
-  notes: Submillimeter for labrum
-recons:
-- plane: Axial
-  acquisition: Arthrogram
-  fov: Shoulder
-  thickness_increment: 1 mm/0.75 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Thin for labral detail
-- plane: Coronal
-  acquisition: Arthrogram
-  fov: Shoulder
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Coronal oblique shoulder
-- plane: Sagittal
-  acquisition: Arthrogram
-  fov: Shoulder
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Sagittal oblique
-- plane: Abduction ABER
-  acquisition: Arthrogram
-  fov: Shoulder
-  thickness_increment: 1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: ABER position if done
+  agent: Omnipaque 240 sau 300 diluat cu ser fiziologic
+  flow_rate: Injectare manuală fluoroghidată / ecoghidată
+  volume: 12-15 mL administrat intra-articular
+last_updated: '2026-01-01'
 notes:
-  tech: Post-arthrogram CT. Inject glenohumeral joint. Immediate CT after injection.
-    Thin slices for labrum
-  nursing: Radiologist performs injection. Patient to CT immediately after
-  rad: Labral tears. Rotator cuff tears. Capsular tears. Glenohumeral ligaments. Paralabral
-    cysts
-  tips: Scan immediately after injection. Thin slices for labrum
-  additional_recons: Oblique coronal and sagittal. Assess labrum rotator cuff capsule.
-    Document contrast extravasation
+  additional_recons: Planuri oblice coronale (paralele cu tendonul supraspinos) și
+    oblice sagitale. Reformatări în poziție ABER (abducție și rotație externă) dacă
+    s-a efectuat manevra.
+  nursing: Puncția articulară este efectuată de medicul radiolog în condiții riguroase
+    de asepsie. Transferul imediat al pacientului la CT.
+  rad: Integritatea labrumului glenoidian anterior, posterior și superior (SLAP).
+    Rupturi ale tendoanelor coafei rotatorilor (supraspinos, infraspinos, subscapular).
+    Extravazarea contrastului, chisturi paralabrale, leziuni osoase Hill-Sachs și
+    Bankart osos.
+  tech: Scanare CT imediat după injectarea intra-articulară a substanței de contrast
+    iodate. Scurtați intervalul dintre puncție și scanare pentru a evita resorbția
+    contrastului. Secțiuni submilimetrice pentru detaliul labrumului.
+  tips: Scanare efectuată fără întârziere post-injectare. Secțiuni fine obligatorii.
+npo: Repaus alimentar 2 ore
+position: Decubit dorsal cu brațul în poziție neutră sau rotație ușoară externă
+premedication: Intra-articular contrast injection by radiologist
+protocol_type: musculoskeletal
+recons:
+- acquisition: Artro-CT Umăr
+  fov: Umăr
+  kernel: Standard
+  notes: Secțiuni fine pentru detaliul labrumului anterior și posterior
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Artro-CT Umăr
+  fov: Umăr
+  kernel: Standard
+  notes: Plan oblic coronal de-a lungul tendonului supraspinos
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Artro-CT Umăr
+  fov: Umăr
+  kernel: Standard
+  notes: Plan oblic sagital pe fosa glenoidă
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Artro-CT Umăr
+  fov: Umăr
+  kernel: Standard
+  notes: Poziție ABER (abducție și rotație externă) dacă a fost realizată
+  plane: Abduction ABER
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A
-  allergy: Contrast reaction history
+  allergy: Verificați riscul de alergie la contrast iodat
+  renal: Nu este limitat de funcția renală (administrare intra-articulară)
+series:
+- delay: Imediat post-injectare
+  end: Humerus proximal
+  name: Artro-CT Umăr
+  notes: Secțiuni submilimetrice pentru bureletul glenoidian
+  start: Acromion
+  thickness: 0.625 mm
+slug: ct-arthrogram-shoulder
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 150-200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Artro-CT Umăr
 ---
 
-# CT Arthrogram Shoulder
+# Artro-CT Umăr
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Arthrogram | Contrast (Immediate post-injection delay) | Acromion to Proximal humerus |
+        | Artro-CT Umăr | Imediat post-injectare | Acromion → Humerus proximal |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Labral tear
-        - Rotator cuff tear
-        - Capsular injury
-        - Shoulder instability
+        - Leziuni de burelet glenoidian (labrum) - leziuni SLAP, Bankart
+        - Rupturi parțiale sau transfixiante ale coafei rotatorilor
+        - Instabilitate glenohumerală recidivantă / luxație anterioară sau posterioară
+        - Leziuni capsulo-ligamentare (ligamente glenohumerale)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arm at side
-    - **NPO Status:** N/A
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațul în poziție neutră sau rotație ușoară externă
+    - **Repaus Alimentar (NPO):** Repaus alimentar 2 ore
+    - **Premedicație / Pregătire:**
         - Intra-articular contrast injection by radiologist
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | Omnipaque 240 or 300 diluted |
-        | Volume | 12-15 mL intra-articular |
-        | Flow Rate | N/A |
+        | Agent | Omnipaque 240 sau 300 diluat cu ser fiziologic |
+        | Volum | 12-15 mL administrat intra-articular |
+        | Rată de Flux | Injectare manuală fluoroghidată / ecoghidată |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 150-200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Post-arthrogram CT. Inject glenohumeral joint. Immediate CT after injection. Thin slices for labrum
-        - Additional Recons: Oblique coronal and sagittal. Assess labrum rotator cuff capsule. Document contrast extravasation
+        - Scanare CT imediat după injectarea intra-articulară a substanței de contrast iodate. Scurtați intervalul dintre puncție și scanare pentru a evita resorbția contrastului. Secțiuni submilimetrice pentru detaliul labrumului.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Radiologist performs injection. Patient to CT immediately after
+        - Puncția articulară este efectuată de medicul radiolog în condiții riguroase de asepsie. Transferul imediat al pacientului la CT.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** Contrast reaction history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este limitat de funcția renală (administrare intra-articulară)
+            - **Alergii:** Verificați riscul de alergie la contrast iodat
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Labral tears. Rotator cuff tears. Capsular tears. Glenohumeral ligaments. Paralabral cysts
+        - Integritatea labrumului glenoidian anterior, posterior și superior (SLAP). Rupturi ale tendoanelor coafei rotatorilor (supraspinos, infraspinos, subscapular). Extravazarea contrastului, chisturi paralabrale, leziuni osoase Hill-Sachs și Bankart osos.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Scan immediately after injection. Thin slices for labrum
+        - Scanare efectuată fără întârziere post-injectare. Secțiuni fine obligatorii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Shoulder region | Proximal humerus | N/A | N/A | AP |
-    | CT Arthrogram | Acromion | Proximal humerus | Immediate post-injection | 0.625 mm | Submillimeter for labrum |
+    | Artro-CT Umăr | Acromion | Humerus proximal | Imediat post-injectare | 0.625 mm | Secțiuni submilimetrice pentru bureletul glenoidian |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arthrogram | Shoulder | 1 mm/0.75 mm | Standard | 3 | Thin for labral detail |
-    | Coronal | Arthrogram | Shoulder | 1.5 mm/1 mm | Standard | 3 | Coronal oblique shoulder |
-    | Sagittal | Arthrogram | Shoulder | 1.5 mm/1 mm | Standard | 3 | Sagittal oblique |
-    | Abduction ABER | Arthrogram | Shoulder | 1.5 mm | Standard | 3 | ABER position if done |
+    | Axial | Artro-CT Umăr | Umăr | 1 mm/1 mm | Standard |  | Secțiuni fine pentru detaliul labrumului anterior și posterior |
+    | Coronal | Artro-CT Umăr | Umăr | 1.5 mm/1.5 mm | Standard |  | Plan oblic coronal de-a lungul tendonului supraspinos |
+    | Sagital | Artro-CT Umăr | Umăr | 1.5 mm/1.5 mm | Standard |  | Plan oblic sagital pe fosa glenoidă |
+    | Abduction ABER | Artro-CT Umăr | Umăr | 1.5 mm/1.5 mm | Standard |  | Poziție ABER (abducție și rotație externă) dacă a fost realizată |

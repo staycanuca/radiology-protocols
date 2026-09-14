@@ -2,8 +2,8 @@
 # Edit this file when forking for a new hospital deployment.
 
 institution:
-  name: "Radiology Department"
-  short_name: "Radiology"
+  name: "Departamentul de Radiologie"
+  short_name: "Radiologie"
   # Full URL where the site is deployed (no trailing slash)
   site_url: "https://dfergs93.github.io/radiology-protocols"
   # Path prefix if hosted in a subdirectory (e.g. "/radiology-protocols")

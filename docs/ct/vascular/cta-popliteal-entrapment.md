@@ -1,193 +1,213 @@
 ---
-title: CTA Popliteal Entrapment
-slug: cta-popliteal-entrapment
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Popliteal entrapment syndrome
-- Exercise-induced leg pain
-- Young patient with claudication
-position: Supine with legs extended in neutral position
-npo: NPO 2-4 hours
-premedication: ''
+- Sindrom de pensare / încarcerare a arterei poplitee
+- Durere la efort muscular la nivelul gambei la sportivi tineri fără factori de risc
+  cardiovascular
+- Claudicație la pacient tânăr
 contrast:
   agent: Isovue 370
-  volume: 'Dual injection: 1.2 mL/kg + 1.2 mL/kg'
-  flow_rate: 4 mL/s
   duration: 18-20s + 18-20s
-  timing: Bolus Tracking
-  roi: Popliteal artery
+  flow_rate: 4 mL/s
+  roi: Artera poplitee
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Neutral Position
-  start: Distal femur
-  end: Ankle
-  delay: Bolus tracked from 1st injection
-  thickness: 0.625 mm
-  notes: Both legs neutral resting position
-- name: CTA Delayed Neutral Position
-  start: Distal femur
-  end: Ankle
-  delay: 40 sec delay from 1st injection
-  thickness: 0.625 mm
-  notes: Both legs neutral resting position
-- name: CTA Plantarflexion
-  start: Distal femur
-  end: Ankle
-  delay: Bolus tracked from 2nd injection
-  thickness: 0.625 mm
-  notes: Patient actively plantarflexes both feet - point toes
-recons:
-- plane: Axial
-  acquisition: Neutral
-  fov: Both legs
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Baseline popliteal artery anatomy
-- plane: Axial
-  acquisition: Plantarflexion
-  fov: Both legs
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Assess for compression with maneuver
-- plane: Coronal
-  acquisition: Both phases
-  fov: Both legs
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP comparison neutral vs flexion
-- plane: Sagittal
-  acquisition: Both phases
-  fov: Both legs
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral view popliteal fossa
+  volume: 'Injectare fracționată (duală): 1.2 mL/kg + 1.2 mL/kg'
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO acquisitions required: 1) Neutral position 2) Active plantarflexion.
-    Both legs scanned for comparison. Coach patient on plantarflexion technique'
-  nursing: 18-20G IV antecubital
-  rad: Compare neutral vs plantarflexion images. Look for popliteal artery compression
-    deviation or occlusion with plantarflexion. Assess muscle anatomy
-  tips: Coach patient on maintaining plantarflexion during second acquisition. Use
-    foot straps if needed
-  additional_recons: Side-by-side comparison of neutral vs plantarflexion. 3D VR showing
-    muscle-vessel relationship
+  additional_recons: Comparație în paralel poziție neutră vs. flexie plantară. Randare
+    3D VR demonstrând raportul mușchi-arteră poplitee.
+  nursing: Linie venoasă 18-20G în plica cotului.
+  rad: Comparați imaginile din poziția neutră cu cele din flexie plantară. Căutați
+    compresiunea, devierea medială sau ocluzia arterei poplitee la flexia plantară.
+    Evaluați raporturile anatomice cu capul medial al mușchiului gastrocnemian.
+  tech: 'DOUĂ achiziții obligatorii: 1) În poziție neutră de repaus 2) Cu flexie plantară
+    activă contra unei rezistențe. Ambele gambe scanate pentru comparație.'
+  tips: Instruiți pacientul cum să mențină flexia plantară activă în timpul celei
+    de-a doua scanări.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu membrele inferioare extinse în poziție neutră inițial
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Poziție Neutră
+  fov: Genunchi-Gambă
+  kernel: Vascular
+  notes: Anatomie de bază a arterei poplitee și foselor poplitee
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Flexie Plantară
+  fov: Genunchi-Gambă
+  kernel: Vascular
+  notes: Aprecierea compresiunii arteriale în timpul flexiei plantare
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Flexie Plantară
+  fov: Genunchi-Gambă
+  kernel: Vascular
+  notes: MIP comparativ neutru vs. manevră activă
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Flexie Plantară
+  fov: Genunchi-Gambă
+  kernel: Vascular
+  notes: Vedere sagitală a fosei poplitee
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Explain plantarflexion maneuver to patient
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Gleznă
+  name: Angio-CT Poziție Neutră
+  notes: Ambele membre în repaus neutru
+  start: Femur distal
+  thickness: 0.625 mm
+- delay: 40 sec
+  end: Gleznă
+  name: Angio-CT Tardiv Poziție Neutră
+  notes: Fază venoasă poplitee
+  start: Femur distal
+  thickness: 1 mm
+- delay: Urmărire bolus
+  end: Gleznă
+  name: Angio-CT Flexie Plantară
+  notes: Pacientul menține flexia plantară activă a ambelor picioare
+  start: Femur distal
+  thickness: 0.625 mm
+slug: cta-popliteal-entrapment
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
 ---
 
-# CTA Popliteal Entrapment
+# Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Neutral Position | Arterial (bolus tracked from 1st injection) | 4cm above the knees to the toes |
-        | CTA Delayed Neutral Position | Delayed Arterial (40 sec delay from 1st injection) | 4cm above the knees to the toes |
-        | CTA Plantarflexion | Arterial (bolus tracked from 2nd injection) | 4cm above the knees to the toes |
+        | Angio-CT Poziție Neutră | Urmărire bolus | Femur distal → Gleznă |
+        | Angio-CT Tardiv Poziție Neutră | 40 sec | Femur distal → Gleznă |
+        | Angio-CT Flexie Plantară | Urmărire bolus | Femur distal → Gleznă |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Popliteal entrapment syndrome
-        - Exercise-induced leg pain
-        - Young patient with claudication
+        - Sindrom de pensare / încarcerare a arterei poplitee
+        - Durere la efort muscular la nivelul gambei la sportivi tineri fără factori de risc cardiovascular
+        - Claudicație la pacient tânăr
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with legs extended in neutral position
-    - **NPO Status:** NPO 2-4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu membrele inferioare extinse în poziție neutră inițial
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | Dual injection: 1.2 mL/kg + 1.2 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 18-20s + 18-20s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Popliteal artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | Injectare fracționată (duală): 1.2 mL/kg + 1.2 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 18-20s + 18-20s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Artera poplitee |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO acquisitions required: 1) Neutral position 2) Active plantarflexion. Both legs scanned for comparison. Coach patient on plantarflexion technique
-        - Additional Recons: Side-by-side comparison of neutral vs plantarflexion. 3D VR showing muscle-vessel relationship
+        - DOUĂ achiziții obligatorii: 1) În poziție neutră de repaus 2) Cu flexie plantară activă contra unei rezistențe. Ambele gambe scanate pentru comparație.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV antecubital
+        - Linie venoasă 18-20G în plica cotului.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Explain plantarflexion maneuver to patient
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Compare neutral vs plantarflexion images. Look for popliteal artery compression deviation or occlusion with plantarflexion. Assess muscle anatomy
+        - Comparați imaginile din poziția neutră cu cele din flexie plantară. Căutați compresiunea, devierea medială sau ocluzia arterei poplitee la flexia plantară. Evaluați raporturile anatomice cu capul medial al mușchiului gastrocnemian.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Coach patient on maintaining plantarflexion during second acquisition. Use foot straps if needed
+        - Instruiți pacientul cum să mențină flexia plantară activă în timpul celei de-a doua scanări.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Distal femur | Ankle | N/A | N/A | AP both legs |
-    | CTA Neutral Position | Distal femur | Ankle | Bolus tracked from 1st injection | 0.625 mm | Both legs neutral resting position |
-    | CTA Delayed Neutral Position | Distal femur | Ankle | 40 sec delay from 1st injection | 0.625 mm | Both legs neutral resting position |
-    | CTA Plantarflexion | Distal femur | Ankle | Bolus tracked from 2nd injection | 0.625 mm | Patient actively plantarflexes both feet - point toes |
+    | Angio-CT Poziție Neutră | Femur distal | Gleznă | Urmărire bolus | 0.625 mm | Ambele membre în repaus neutru |
+    | Angio-CT Tardiv Poziție Neutră | Femur distal | Gleznă | 40 sec | 1 mm | Fază venoasă poplitee |
+    | Angio-CT Flexie Plantară | Femur distal | Gleznă | Urmărire bolus | 0.625 mm | Pacientul menține flexia plantară activă a ambelor picioare |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Neutral | Both legs | 1.5 mm/1.5 mm | Vascular | 3 | Baseline popliteal artery anatomy |
-    | Axial | Plantarflexion | Both legs | 1.5 mm/1.5 mm | Vascular | 3 | Assess for compression with maneuver |
-    | Coronal | Both phases | Both legs | 2 mm/2 mm | Vascular | 3 | MIP comparison neutral vs flexion |
-    | Sagittal | Both phases | Both legs | 2 mm/2 mm | Vascular | 3 | Lateral view popliteal fossa |
+    | Axial | Angio-CT Poziție Neutră | Genunchi-Gambă | 1 mm/1 mm | Vascular |  | Anatomie de bază a arterei poplitee și foselor poplitee |
+    | Axial | Angio-CT Flexie Plantară | Genunchi-Gambă | 1 mm/1 mm | Vascular |  | Aprecierea compresiunii arteriale în timpul flexiei plantare |
+    | Coronal | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | MIP comparativ neutru vs. manevră activă |
+    | Sagital | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | Vedere sagitală a fosei poplitee |

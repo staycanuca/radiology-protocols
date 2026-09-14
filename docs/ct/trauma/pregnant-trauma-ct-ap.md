@@ -1,159 +1,189 @@
 ---
-title: Pregnant Trauma CT AP
-slug: pregnant-trauma-ct-ap
+author: null
 category: trauma
-protocol_type: trauma
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pregnant trauma patient
-- Multi-trauma pregnancy
-- Maternal injury assessment
-position: Supine with left lateral tilt if possible
-npo: None - trauma
-premedication: ''
+- Pacientă gravidă cu politraumatism
+- Traumatism abdominal / pelvin în sarcină
+- Evaluarea leziunilor organelor materne și fetale
 contrast:
   agent: Omnipaque 350
-  volume: 125 mL
   flow_rate: 3 mL/s
-tech_params:
-  kv: '100'
-  mas: Reduced mAs if possible
-  rotation_time: 0.5s
-  pitch: '1.375'
-series:
-- name: Portal Venous AP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Single phase minimize radiation
-recons:
-- plane: Axial
-  acquisition: Portal venous
-  fov: AP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Maternal organs
-- plane: Coronal
-  acquisition: Portal venous
-  fov: AP
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Overview
-- plane: Sagittal
-  acquisition: Portal venous
-  fov: Pelvis
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Uterus and placenta
+  timing: Timp empiric (70s)
+  volume: 125 mL
+last_updated: '2026-01-01'
 notes:
-  tech: Portal venous phase 70s. SINGLE PHASE to minimize fetal radiation. Shield
-    uterus if injury distant. Document weeks gestation
-  nursing: Pregnancy documented. Fetal heart tones if equipment available. Shield
-    if possible
-  rad: Assess maternal injuries. Minimize fetal radiation exposure. Document placental
-    injury if visible
-  tips: Document gestational age. Shield fetus if possible. Minimize radiation
-  additional_recons: ''
+  additional_recons: Reconstrucții sagitale pentru evaluarea uterului și a inserției
+    placentare.
+  nursing: Sarcină documentată. Monitorizarea bătăilor cordului fetal dacă echipamentul
+    este disponibil. Protecție plumbată dacă este fezabil clinic.
+  rad: Evaluați cu prioritate leziunile materne traumatice vitale. Minimizarea expunerii
+    fetale. Evaluați integritatea placentară (hematom retroplacentar, decolară de
+    placentă) și a peretelui uterin.
+  tech: Fază venoasă portală la 70 secunde. ACHIZIȚIE UNICĂ (monofazică) pentru a
+    minimiza expunerea fătului la radiații. Protejați fătul dacă leziunea suspectată
+    este la distanță. Consemnați săptămânile de gestație.
+  tips: Notați vârsta gestațională. Protejați fătul pe cât posibil. Reduceți parametrii
+    mAs adaptat greutății.
+npo: Fără repaus alimentar - urgență traumatologică
+position: Decubit dorsal cu înclinare laterală stângă (15 grade) dacă este posibil
+premedication: Fără premedicație
+protocol_type: trauma
+recons:
+- acquisition: Fază Venoasă Portală AP
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Organe parenchimatoase materne
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală AP
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Privire coronală de ansamblu
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
+- acquisition: Fază Venoasă Portală AP
+  fov: Pelvis
+  kernel: Standard
+  notes: Evaluare uter și placentă
+  plane: Sagital
+  thickness_increment: 3 mm/3 mm
 safety:
-  renal: Check if known
-  allergy: Trauma indication documented
+  allergy: Indicație de urgență traumatologică documentată
+  renal: Verificați dacă este cunoscută funcția renală; nu întârziați în caz de urgență
+    vitală
+series:
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală AP
+  notes: Achiziție monofazică pentru minimizarea iradierii fetale
+  start: Diafragm
+  thickness: 2.5 mm
+slug: pregnant-trauma-ct-ap
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D pentru politraumă)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Curent redus pe cât posibil
+  pitch: '1.375'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 2.5 mm
+title: CT Abdomen și Pelvis în Traumatism la Gravidă
 ---
 
-# Pregnant Trauma CT AP
+# CT Abdomen și Pelvis în Traumatism la Gravidă
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Portal Venous AP | Contrast (70 sec delay) | Diaphragm to Pubic symphysis |
+        | Fază Venoasă Portală AP | 70 sec | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pregnant trauma patient
-        - Multi-trauma pregnancy
-        - Maternal injury assessment
+        - Pacientă gravidă cu politraumatism
+        - Traumatism abdominal / pelvin în sarcină
+        - Evaluarea leziunilor organelor materne și fetale
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
 
-    - **Position:** Supine with left lateral tilt if possible
-    - **NPO Status:** None - trauma
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu înclinare laterală stângă (15 grade) dacă este posibil
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar - urgență traumatologică
+    - **Premedicație / Pregătire:**
+        - Fără premedicație
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 125 mL |
-        | Flow Rate | 3 mL/s |
+        | Volum | 125 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Timp empiric (70s) |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Curent redus pe cât posibil |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D pentru politraumă) |
+    | **Grosime Secțiune Achiziție (Slice)** | 2.5 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Portal venous phase 70s. SINGLE PHASE to minimize fetal radiation. Shield uterus if injury distant. Document weeks gestation
+        - Fază venoasă portală la 70 secunde. ACHIZIȚIE UNICĂ (monofazică) pentru a minimiza expunerea fătului la radiații. Protejați fătul dacă leziunea suspectată este la distanță. Consemnați săptămânile de gestație.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Pregnancy documented. Fetal heart tones if equipment available. Shield if possible
+        - Sarcină documentată. Monitorizarea bătăilor cordului fetal dacă echipamentul este disponibil. Protecție plumbată dacă este fezabil clinic.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Check if known
-            - **Allergy:** Trauma indication documented
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați dacă este cunoscută funcția renală; nu întârziați în caz de urgență vitală
+            - **Alergii:** Indicație de urgență traumatologică documentată
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess maternal injuries. Minimize fetal radiation exposure. Document placental injury if visible
+        - Evaluați cu prioritate leziunile materne traumatice vitale. Minimizarea expunerii fetale. Evaluați integritatea placentară (hematom retroplacentar, decolară de placentă) și a peretelui uterin.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Document gestational age. Shield fetus if possible. Minimize radiation
+        - Notați vârsta gestațională. Protejați fătul pe cât posibil. Reduceți parametrii mAs adaptat greutății.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Pubic symphysis | N/A | N/A | Low dose scout |
-    | Portal Venous AP | Diaphragm | Pubic symphysis | 70 sec | 2.5 mm | Single phase minimize radiation |
+    | Fază Venoasă Portală AP | Diafragm | Simfiză pubiană | 70 sec | 2.5 mm | Achiziție monofazică pentru minimizarea iradierii fetale |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Portal venous | AP | 2.5 mm/2.5 mm | Standard | 3 | Maternal organs |
-    | Coronal | Portal venous | AP | 3 mm/3 mm | Standard | 3 | Overview |
-    | Sagittal | Portal venous | Pelvis | 3 mm/3 mm | Standard | 3 | Uterus and placenta |
+    | Axial | Fază Venoasă Portală AP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Organe parenchimatoase materne |
+    | Coronal | Fază Venoasă Portală AP | Abdomen-Pelvis | 3 mm/3 mm | Standard |  | Privire coronală de ansamblu |
+    | Sagital | Fază Venoasă Portală AP | Pelvis | 3 mm/3 mm | Standard |  | Evaluare uter și placentă |

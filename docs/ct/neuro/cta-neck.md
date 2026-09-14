@@ -1,176 +1,197 @@
 ---
-title: CTA Neck
-slug: cta-neck
+author: null
 category: neuro
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Carotid stenosis
-- Vertebral artery dissection
-- Neck vessel assessment
-- Pre-CEA planning
-position: Supine head-first
-npo: NPO 2 hours
-premedication: ''
+- Stenoză carotidiană aterosclerotică
+- Disecție de arteră carotidă internă sau arteră vertebrală
+- Bilanț pre-endarterectomie carotidiană (CEA) sau stentare (CAS)
+- Suflu carotidian asimptomatic
 contrast:
   agent: Omnipaque 350
-  volume: 90-100 mL
   flow_rate: 4-5 mL/s
-  timing: Bolus Tracking
-  roi: Aortic arch
+  roi: Crosa aortei
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Neck
-  start: Aortic arch
-  end: Skull base
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Caudocranial
-recons:
-- plane: Axial
-  acquisition: CTA
-  fov: Neck
-  thickness_increment: 1 mm/1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Source images
-- plane: Coronal
-  acquisition: CTA
-  fov: Neck
-  thickness_increment: 1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Vessel overview
-- plane: Sagittal
-  acquisition: CTA
-  fov: Carotids
-  thickness_increment: 1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Vertebral arteries
-- plane: Curved MPR
-  acquisition: CTA
-  fov: Carotid bifurcations
-  thickness_increment: 1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Stenosis measurement
+  volume: 90-100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: Aortic arch to skull base. Bolus tracking in arch. Submillimeter. Minimize
-    swallowing during scan
-  nursing: 20G IV antecubital preferred
-  rad: Assess carotid bifurcations. Stenosis grading. Vertebral arteries. Dissection.
-    Plaque morphology
-  tips: Minimize swallowing. Submillimeter acquisition
-  additional_recons: Curved MPR both carotid bifurcations. Measure stenosis (NASCET).
-    3D VR. MIP
+  additional_recons: Reconstrucții MPR curbate pentru ambele bifurcații carotidiene.
+    Măsurarea precisă a stenozei NASCET. Randare 3D VR și proiecții MIP.
+  nursing: Linie venoasă minim 20G în plica cotului.
+  rad: Bifurcațiile carotidiene. Gradarea stenozei carotidiene conform criteriilor
+    NASCET. Morfologia plăcii aterosclerotice (placă vulnerabilă, ulcerată, hipodensă/lipidică
+    vs. calcificată). Arterele vertebrale pe cele 4 segmente (V1-V4). Căutați semne
+    de disecție (fals lumen, hematom intramural).
+  tech: De la crosa aortei până la baza craniului. Urmărire bolus în crosa aortei.
+    Achiziție submilimetrică. Fără deglutiție pe parcursul scanării.
+  tips: Pacientul nu trebuie să înghită în timpul scanării.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu capul înainte
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Gât
+  fov: Gât
+  kernel: Vascular
+  notes: Imagini sursă de înaltă rezoluție
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Gât
+  fov: Gât
+  kernel: Vascular
+  notes: Vedere coronală de ansamblu
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Gât
+  fov: Gât
+  kernel: Vascular
+  notes: Traiectul arterelor vertebrale
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Gât
+  fov: Carotidă
+  kernel: Vascular
+  notes: Reconstrucții curbate pentru măsurători de stenoză NASCET
+  plane: Curved MPR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Baza craniului
+  name: Angio-CT Gât
+  notes: Achiziție caudo-cranială
+  start: Arc aortic
+  thickness: 0.625 mm
+slug: cta-neck
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Artere Cervicale / Carotide și Vertebrale
 ---
 
-# CTA Neck
+# Angio-CT Artere Cervicale / Carotide și Vertebrale
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Neck | Arterial (bolus tracked) | Aortic arch to Skull base |
+        | Angio-CT Gât | Urmărire bolus | Arc aortic → Baza craniului |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Carotid stenosis
-        - Vertebral artery dissection
-        - Neck vessel assessment
-        - Pre-CEA planning
+        - Stenoză carotidiană aterosclerotică
+        - Disecție de arteră carotidă internă sau arteră vertebrală
+        - Bilanț pre-endarterectomie carotidiană (CEA) sau stentare (CAS)
+        - Suflu carotidian asimptomatic
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** NPO 2 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 90-100 mL |
-        | Flow Rate | 4-5 mL/s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Aortic arch |
-        | Trigger (HU) | 150 HU |
+        | Volum | 90-100 mL |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Crosa aortei |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Aortic arch to skull base. Bolus tracking in arch. Submillimeter. Minimize swallowing during scan
-        - Additional Recons: Curved MPR both carotid bifurcations. Measure stenosis (NASCET). 3D VR. MIP
+        - De la crosa aortei până la baza craniului. Urmărire bolus în crosa aortei. Achiziție submilimetrică. Fără deglutiție pe parcursul scanării.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV antecubital preferred
+        - Linie venoasă minim 20G în plica cotului.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess carotid bifurcations. Stenosis grading. Vertebral arteries. Dissection. Plaque morphology
+        - Bifurcațiile carotidiene. Gradarea stenozei carotidiene conform criteriilor NASCET. Morfologia plăcii aterosclerotice (placă vulnerabilă, ulcerată, hipodensă/lipidică vs. calcificată). Arterele vertebrale pe cele 4 segmente (V1-V4). Căutați semne de disecție (fals lumen, hematom intramural).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Minimize swallowing. Submillimeter acquisition
+        - Pacientul nu trebuie să înghită în timpul scanării.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Aortic arch | Skull base | N/A | N/A | AP lateral |
-    | CTA Neck | Aortic arch | Skull base | Bolus tracked | 0.625 mm | Caudocranial |
+    | Angio-CT Gât | Arc aortic | Baza craniului | Urmărire bolus | 0.625 mm | Achiziție caudo-cranială |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | CTA | Neck | 1 mm/1 mm | Vascular | 3 | Source images |
-    | Coronal | CTA | Neck | 1.5 mm | Vascular | 3 | Vessel overview |
-    | Sagittal | CTA | Carotids | 1.5 mm | Vascular | 3 | Vertebral arteries |
-    | Curved MPR | CTA | Carotid bifurcations | 1 mm | Vascular | 3 | Stenosis measurement |
+    | Axial | Angio-CT Gât | Gât | 1 mm/1 mm | Vascular |  | Imagini sursă de înaltă rezoluție |
+    | Coronal | Angio-CT Gât | Gât | 1.5 mm/1.5 mm | Vascular |  | Vedere coronală de ansamblu |
+    | Sagital | Angio-CT Gât | Gât | 1.5 mm/1.5 mm | Vascular |  | Traiectul arterelor vertebrale |
+    | Curved MPR | Angio-CT Gât | Carotidă | 1 mm/1 mm | Vascular |  | Reconstrucții curbate pentru măsurători de stenoză NASCET |

@@ -1,193 +1,211 @@
 ---
-title: Gated CTA Chest
-slug: gated-cta-chest
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Thoracic aortic dissection
-- Chest pain radiating to the back
-- Follow up thoracic aortic aneurysm
-position: Supine feet-first
-npo: NPO 2-4 hours
-premedication: HR < 60 target. Premedication not required.
+- Disecție acută de aortă toracică
+- Durere toracică anterioară severă cu iradiere posterioară
+- Urmărirea anevrismelor de aortă toracică sau a dilatațiilor rădăcinii aortice
 contrast:
   agent: Isovue 370
-  volume: 1.1 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 20s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 4-5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
-tech_params:
-  kv: '100'
-  mas: Auto ECG modulation
-  rotation_time: 0.28s
-  pitch: 0.2-0.24
-series:
-- name: Non-contrast
-  start: Lung apices
-  end: Diaphragm
-  delay: N/A
-  thickness: 3 mm
-  notes: Calcium score
-- name: Gated CTA
-  start: Lung apices
-  end: Diaphragm
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Retrospective ECG gating
-- name: Stent delay (optional)
-  start: Start of Stent
-  end: End of Stent
-  delay: 40 sec
-  thickness: 0.5-0.625 mm
-  notes: Optional for stent assessment
-recons:
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: 0.75 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Primary coronary assessment
-- plane: Curved MPR
-  acquisition: Gated CTA
-  fov: Each coronary
-  thickness_increment: 0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Vessel-specific reconstructions
-- plane: Axial
-  acquisition: Non-contrast
-  fov: Heart
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Calcium scoring
-- plane: Short/long axis
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: Multi-phase
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Functional assessment
+  volume: 1.1 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'Retrospective ECG gating. Cover heart. Bolus tracking in ascending aorta.
-    Optional stent protocol: add 40 sec delayed phase'
-  nursing: 20G IV minimum. HR control critical. Nitro administration. Monitor BP
-  rad: Assess coronaries for stenosis plaque. Evaluate anomalous anatomy. Stent patency
-    if applicable. Cardiac function from multi-phase
-  tips: HR control essential. Coach breathing. Gating quality check
-  additional_recons: Curved MPR all coronaries. Short/long axis. Multi-phase for function.
-    Calcium score
+  additional_recons: Reconstrucții MPR curbate pentru aorta toracică. Evaluare plan
+    valvular aortic.
+  nursing: Linie venoasă minim 20G. Controlul frecvenței cardiace optimizează calitatea.
+    Administrare nitroglicerină dacă tensiunea permite.
+  rad: Evaluați lumenul aortic, poarta de intrare, flapul intimal, lumenul adevărat
+    vs. fals, originea coronarelor din rădăcina aortică și extensia distală.
+  tech: 'Sincronizare retrospectivă ECG pe întreg toracele. Urmărire bolus în aorta
+    ascendentă. Opțional: protocol de stent/endoproteză cu serie tardivă la 40 secunde.'
+  tips: Controlul ritmului este important. Monitorizați stabilitatea semnalului ECG.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu picioarele înainte
+premedication: HR < 60 target. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Torace
+  kernel: Cardiac
+  notes: Evaluare primară a rădăcinii și aortei ascendente
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Torace
+  kernel: Cardiac
+  notes: Reconstrucții curbate de-a lungul aortei toracice
+  plane: Curved MPR
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Fază Nativă
+  fov: Torace
+  kernel: Standard
+  notes: Evaluare calciu și modificări parietale
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Planuri specifice valvulare și cardiace
+  plane: Short/long axis
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check metoprolol contraindications
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Diafragm
+  name: Fază Nativă
+  notes: Detecția calcificărilor și hematoamelor murale
+  start: Vârfuri pulmonare
+  thickness: 2.5 mm
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Sincronizat ECG
+  notes: Sincronizare retrospectivă ECG pe aorta toracică
+  start: Vârfuri pulmonare
+  thickness: 0.625 mm
+- delay: 40 sec
+  end: Margine inferioară stent
+  name: Tardiv Stent (opțional)
+  notes: Opțional pentru decelarea endoleak-urilor tardive
+  start: Margine superioară stent
+  thickness: 1 mm
+slug: gated-cta-chest
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Auto (modulare sincronizată ECG)
+  pitch: 0.2-0.24
+  rotation_time: 0.28s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Torace Sincronizat ECG (Aortă Toracică)
 ---
 
-# Gated CTA Chest
+# Angio-CT Torace Sincronizat ECG (Aortă Toracică)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Lung Apices to Diaphragm |
-        | Gated CTA | Arterial (bolus tracked) | Lung Apices to Diaphragm |
-        | Stent delay (optional) | Contrast (40 sec delay) | Stent coverage |
+        | Fază Nativă | 0 sec | Vârfuri pulmonare → Diafragm |
+        | Angio-CT Sincronizat ECG | Urmărire bolus | Vârfuri pulmonare → Diafragm |
+        | Tardiv Stent (opțional) | 40 sec | Margine superioară stent → Margine inferioară stent |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Thoracic aortic dissection
-        - Chest pain radiating to the back
-        - Follow up thoracic aortic aneurysm
+        - Disecție acută de aortă toracică
+        - Durere toracică anterioară severă cu iradiere posterioară
+        - Urmărirea anevrismelor de aortă toracică sau a dilatațiilor rădăcinii aortice
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 60 target. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 20s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 200 HU |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 20s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 200 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Retrospective ECG gating. Cover heart. Bolus tracking in ascending aorta. Optional stent protocol: add 40 sec delayed phase
-        - Additional Recons: Curved MPR all coronaries. Short/long axis. Multi-phase for function. Calcium score
+        - Sincronizare retrospectivă ECG pe întreg toracele. Urmărire bolus în aorta ascendentă. Opțional: protocol de stent/endoproteză cu serie tardivă la 40 secunde.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. HR control critical. Nitro administration. Monitor BP
+        - Linie venoasă minim 20G. Controlul frecvenței cardiace optimizează calitatea. Administrare nitroglicerină dacă tensiunea permite.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check metoprolol contraindications
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess coronaries for stenosis plaque. Evaluate anomalous anatomy. Stent patency if applicable. Cardiac function from multi-phase
+        - Evaluați lumenul aortic, poarta de intrare, flapul intimal, lumenul adevărat vs. fals, originea coronarelor din rădăcina aortică și extensia distală.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - HR control essential. Coach breathing. Gating quality check
+        - Controlul ritmului este important. Monitorizați stabilitatea semnalului ECG.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top of chest | Diaphragm | N/A | N/A | AP lateral |
-    | Non-contrast | Lung apices | Diaphragm | N/A | 3 mm | Calcium score |
-    | Gated CTA | Lung apices | Diaphragm | Bolus tracked | 0.5-0.625 mm | Retrospective ECG gating |
-    | Stent delay (optional) | Start of Stent | End of Stent | 40 sec | 0.5-0.625 mm | Optional for stent assessment |
+    | Fază Nativă | Vârfuri pulmonare | Diafragm | 0 sec | 2.5 mm | Detecția calcificărilor și hematoamelor murale |
+    | Angio-CT Sincronizat ECG | Vârfuri pulmonare | Diafragm | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă ECG pe aorta toracică |
+    | Tardiv Stent (opțional) | Margine superioară stent | Margine inferioară stent | 40 sec | 1 mm | Opțional pentru decelarea endoleak-urilor tardive |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated CTA | Heart | 0.75 mm/0.5 mm | Cardiac | 3 | Primary coronary assessment |
-    | Curved MPR | Gated CTA | Each coronary | 0.75 mm | Cardiac | 3 | Vessel-specific reconstructions |
-    | Axial | Non-contrast | Heart | 3 mm/3 mm | Standard | 3 | Calcium scoring |
-    | Short/long axis | Gated CTA | Heart | Multi-phase | Cardiac | 3 | Functional assessment |
+    | Axial | Angio-CT Sincronizat ECG | Torace | 1.25 mm/1.25 mm | Cardiac |  | Evaluare primară a rădăcinii și aortei ascendente |
+    | Curved MPR | Angio-CT Sincronizat ECG | Torace | 1.5 mm/1.5 mm | Cardiac |  | Reconstrucții curbate de-a lungul aortei toracice |
+    | Axial | Fază Nativă | Torace | 2.5 mm/2.5 mm | Standard |  | Evaluare calciu și modificări parietale |
+    | Short/long axis | Angio-CT Sincronizat ECG | Cord | 1.5 mm/1.5 mm | Cardiac |  | Planuri specifice valvulare și cardiace |

@@ -1,166 +1,203 @@
 ---
-title: CT Sinus
-slug: ct-sinus
+author: null
 category: neuro
-protocol_type: neuroradiology
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Sinusitis
-- Sinus disease
-- Pre-operative sinus surgery
-- Nasal obstruction
-position: Supine head-first
-npo: N/A
-premedication: ''
+- Sinuzită cronică sau recurentă
+- Polipoză nazală / rinosinusală
+- Obstrucție nazală / deviație de sept nazal
+- Bilanț anatomic pre-operator ORL
 contrast:
-  agent: N/A
+  agent: Fără substanță de contrast
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: Axial or coronals
-  pitch: N/A
-series:
-- name: Coronal Sinus
-  start: Frontal sinus
-  end: Maxillary sinus
-  delay: N/A
-  thickness: 0.625 mm
-  notes: Direct coronal if possible
-- name: Axial reformat
-  start: Frontal
-  end: Maxillary
-  delay: From coronal
-  thickness: 0.625 mm
-  notes: Reformatted from coronal
-recons:
-- plane: Coronal
-  acquisition: Sinus
-  fov: Sinuses
-  thickness_increment: 1.25 mm/0.75 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Bone window
-- plane: Coronal
-  acquisition: Sinus
-  fov: Sinuses
-  thickness_increment: 3 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Soft tissue
-- plane: Axial
-  acquisition: Sinus
-  fov: Sinuses
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone
-- plane: Sagittal
-  acquisition: Sinus
-  fov: Sinuses
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Midline and lateral
+last_updated: '2026-01-01'
 notes:
-  tech: Coronal acquisition skull base through maxillary sinuses. Submillimeter for
-    anatomy. Bone and soft tissue windows
-  nursing: No IV. Remove dentures and metal
-  rad: Assess all sinuses. Ostiomeatal complex. Anatomic variants. Mucosal thickening.
-    Polyps. Bony anatomy
-  tips: Direct coronal preferred. Submillimeter for anatomy
-  additional_recons: Document anatomic variants (Haller cells concha bullosa). OMC
-    assessment
+  additional_recons: Documentarea variantelor anatomice. Evaluarea detaliată a complexului
+    osteomeatal.
+  nursing: Fără linie venoasă. Îndepărtați cerceii și protezele dentare.
+  rad: Permeabilitatea sinusurilor maxilare, etmoidale, frontale și sfenoidale. Complexul
+    osteo-meatal anterior și posterior. Variante anatomice (concha bullosa, celule
+    Haller, celule agger nasi, sept deviat). Îngroșări mucosale, nivele hidro-aerice,
+    eroziuni osoase.
+  tech: De la marginea superioară a sinusurilor frontale până sub dinții maxilari.
+    Achiziție submilimetrică. Reconstrucții coronale și axiale de înaltă rezoluție
+    în fereastră osoasă și de părți moi.
+  tips: Planul coronal direct sau reformat este esențial pentru evaluarea căilor de
+    drenaj mucociliar.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu capul în poziție neutră
+premedication: ''
+protocol_type: neuroradiology
+recons:
+- acquisition: CT Sinusuri Paranazale
+  fov: Sinusuri
+  kernel: Bone
+  notes: Fereastră osoasă coronală - reper chirurgical de bază
+  plane: Coronal
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Sinusuri Paranazale
+  fov: Sinusuri
+  kernel: Standard
+  notes: Fereastră de părți moi pentru polipi și mucoasă
+  plane: Coronal
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Sinusuri Paranazale
+  fov: Sinusuri
+  kernel: Bone
+  notes: Fereastră osoasă axială
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Sinusuri Paranazale
+  fov: Sinusuri
+  kernel: Bone
+  notes: Plan mediosagital și parasagital
+  plane: Sagital
+  thickness_increment: 1.25 mm/1.25 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Sinusuri maxilare
+  name: CT Sinusuri Paranazale
+  notes: Achiziție elicoidală submilimetrică
+  start: Sinusuri frontale
+  thickness: 0.625 mm
+- delay: 0 sec
+  end: Maxilar
+  name: Reformatare Axială
+  notes: Reformatare axială din achiziția nativă
+  start: Frontal
+  thickness: 1.25 mm
+slug: ct-sinus
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: N/A
+  rotation_time: Axial or coronals
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Sinusuri Paranazale (Nativ)
 ---
 
-# CT Sinus
+# CT Sinusuri Paranazale (Nativ)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Coronal Sinus | Non-contrast | Frontal sinus to Maxillary sinus |
-        | Axial reformat | Contrast (From coronal delay) | Frontal to Maxillary |
+        | CT Sinusuri Paranazale | 0 sec | Sinusuri frontale → Sinusuri maxilare |
+        | Reformatare Axială | 0 sec | Frontal → Maxilar |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Sinusitis
-        - Sinus disease
-        - Pre-operative sinus surgery
-        - Nasal obstruction
+        - Sinuzită cronică sau recurentă
+        - Polipoză nazală / rinosinusală
+        - Obstrucție nazală / deviație de sept nazal
+        - Bilanț anatomic pre-operator ORL
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu capul în poziție neutră
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Coronal acquisition skull base through maxillary sinuses. Submillimeter for anatomy. Bone and soft tissue windows
-        - Additional Recons: Document anatomic variants (Haller cells concha bullosa). OMC assessment
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    === "Parametri de Injectare"
 
-        - No IV. Remove dentures and metal
+        | Parametru | Valoare |
+        |-----------|-------|
+        | Agent | Fără substanță de contrast |
+        | Volum |  |
+        | Rată de Flux |  |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-    === "Radiologist Notes"
+-   __4. Parametri Tehnici Achiziție__
 
-        - Assess all sinuses. Ostiomeatal complex. Anatomic variants. Mucosal thickening. Polyps. Bony anatomy
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | Axial or coronal s |
+    | **Pitch (Factor Pas)** | N/A |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Tips & Tricks"
+-   __5. Note Speciale__
 
-        - Direct coronal preferred. Submillimeter for anatomy
+    ---
+
+    === "Note Tehnician"
+
+        - De la marginea superioară a sinusurilor frontale până sub dinții maxilari. Achiziție submilimetrică. Reconstrucții coronale și axiale de înaltă rezoluție în fereastră osoasă și de părți moi.
+
+    === "Note Asistent"
+
+        - Fără linie venoasă. Îndepărtați cerceii și protezele dentare.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Permeabilitatea sinusurilor maxilare, etmoidale, frontale și sfenoidale. Complexul osteo-meatal anterior și posterior. Variante anatomice (concha bullosa, celule Haller, celule agger nasi, sept deviat). Îngroșări mucosale, nivele hidro-aerice, eroziuni osoase.
+
+    === "Sfaturi & Recomandări"
+
+        - Planul coronal direct sau reformat este esențial pentru evaluarea căilor de drenaj mucociliar.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Frontal sinus | Maxillary sinus | N/A | N/A | Lateral |
-    | Coronal Sinus | Frontal sinus | Maxillary sinus | N/A | 0.625 mm | Direct coronal if possible |
-    | Axial reformat | Frontal | Maxillary | From coronal | 0.625 mm | Reformatted from coronal |
+    | CT Sinusuri Paranazale | Sinusuri frontale | Sinusuri maxilare | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
+    | Reformatare Axială | Frontal | Maxilar | 0 sec | 1.25 mm | Reformatare axială din achiziția nativă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Coronal | Sinus | Sinuses | 1.25 mm/0.75 mm | Bone | N/A | Bone window |
-    | Coronal | Sinus | Sinuses | 3 mm/2 mm | Standard | 3 | Soft tissue |
-    | Axial | Sinus | Sinuses | 2 mm/2 mm | Bone | N/A | Axial bone |
-    | Sagittal | Sinus | Sinuses | 2 mm/2 mm | Bone | N/A | Midline and lateral |
+    | Coronal | CT Sinusuri Paranazale | Sinusuri | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă coronală - reper chirurgical de bază |
+    | Coronal | CT Sinusuri Paranazale | Sinusuri | 1.25 mm/1.25 mm | Standard |  | Fereastră de părți moi pentru polipi și mucoasă |
+    | Axial | CT Sinusuri Paranazale | Sinusuri | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă axială |
+    | Sagital | CT Sinusuri Paranazale | Sinusuri | 1.25 mm/1.25 mm | Bone |  | Plan mediosagital și parasagital |

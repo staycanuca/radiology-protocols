@@ -1,194 +1,214 @@
 ---
-author: 
+author: null
 category: cardiac
 clinical_indications:
-- Intermediate chest pain
-- Suspected infarct
-- Coronary artery dissection or aneurysm
-- Anomalous coronary artery
-- Stent patency
+- Durere toracică cu probabilitate pre-test intermediară de boală coronariană
+- Suspiciune de sindrom coronarian acut fără supradenivelare de segment ST (troponină
+  negativă)
+- Disecție coronariană spontană sau anevrisme de artere coronare (boală Kawasaki etc.)
+- Anomalii congenitale de origine și traiect coronarian
+- Evaluarea permeabilității stenturilor coronariene (>= 3 mm)
 contrast:
   agent: Isovue 370
   duration: 20s
   flow_rate: 4-5 mL/s
-  roi: Ascending aorta
-  timing: Bolus Tracking
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
   volume: 1.1 mL/kg
 last_updated: '2026-02-02'
 notes:
-  additional_recons: Curved MPR of all coronaries.
-  nursing: 20G IV minimum. Check for metoprolol or nitroglycerin contraindications.
-    Nitro is priority over metoprolol if BP is borderline.
-  rad: Calculate Agatston score. Give CAD-RADS score. Check function look for potential
-    focal wall motion abnormalities
-  tech: Non-valsalva breathing technique, cardiac breathing instruction. Put in study
-    notes if patient unable to follow breathing instructions. | If high HR variability,
-    can trigger by millisecond (200ms - 450 ms pulse range). Revolution CT is better
-    for Afib. | Target End diastole if HR < 65bpm. Target End systole if HR > 86bpm.
-    Target End diastole to End systole if HR 66 - 75 bpm
-  tips: Full chest coverage essential. Extended FOV. Low pitch for retrospective gating
-npo: NPO 2-4 hours
-position: Supine feet-first
-premedication: HR < 60 target. | Metoprolol 5mg IV increments up to 15mg. Metoprolol
-  contraindications include sBP < 100, 2nd/3rd degree heart block, and inhaler dependent
-  asthma. | Nitroglycerin 0.4mg SL 5 minutes before scan. Nitroglycerin contraindications
-  include sBP < 100, PDE5 inhibitors within 48 hrs, severe aortic stenosis.
+  additional_recons: Reconstrucții MPR curbate pentru toate trunchiurile (LM, LAD,
+    LCx, RCA). Reconstrucții de ax scurt și ax lung cardiac.
+  nursing: Linie venoasă minim 20G în plica cotului. Verificați contraindicațiile
+    pentru metoprolol (astm sever, BAV avansat) sau nitroglicerină (stenoze aortice
+    severe, medicație tip inhibitori PDE-5).
+  rad: Calculați scorul Agatston. Acordați categoria CAD-RADS (0-5, P, N, G, V). Evaluați
+    caracteristicile plăcii (stenoză, compoziție, remodelare pozitivă, atenuare redusă).
+    Analizați cinetica pereților pe seriile multifazice.
+  tech: 'Tehnică de respirație non-Valsalva. Notificați în observații dacă pacientul
+    nu poate respecta apneea. Țintă: telediastolă (70-75%) la FC < 65 bpm; telesistolă
+    (35-45%) la FC > 80 bpm; telediastolă și telesistolă la FC intermediară.'
+  tips: Pregătirea pacientului și controlul frecvenței cardiace sunt definitorii pentru
+    calitatea examinării.
+npo: Repaus alimentar 4 ore; fără cafeină cu 12 ore înainte
+position: Decubit dorsal cu picioarele înainte
+premedication: Controlul frecvenței cardiace cu beta-blocant (oral sau IV, de ex.
+  Metoprolol) țintind FC <= 60 bpm; Nitroglicerină sublingual (spray/comprimat 0.4-0.8
+  mg) cu 2-3 minute înainte de injectare
 protocol_type: vascular
 recons:
-- acquisition: Calcium score
-  fov: Heart
-  ir_strength: '3'
+- acquisition: Scor de Calciu
+  fov: Cord
   kernel: Standard
-  notes: For Agatston score calculation
+  notes: Pentru calcularea scorului Agatston
   plane: Axial
   thickness_increment: 3 mm/3 mm
-- acquisition: Calcium score
-  fov: Chest
-  ir_strength: '3'
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Torace
   kernel: Lung
-  notes: Lung FOV for Extracardiac findings
+  notes: Câmp pulmonar pentru leziuni extracardiace
   plane: Axial
   thickness_increment: 1.5 mm/1.5 mm
-- acquisition: Gated CTA
-  fov: Heart
-  ir_strength: '3'
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
   kernel: Cardiac
-  notes: Native coronary assessment
+  notes: Evaluarea nativă a lumenului coronarian
   plane: Axial
   thickness_increment: 0.625 mm/0.625 mm
-- acquisition: Gated CTA
-  fov: Heart
-  ir_strength: '3'
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
   kernel: Cardiac
-  notes: MPRs by 3D lab
+  notes: Randări 3D VR și MPR pe arborele coronarian
   plane: 3D VR
-  thickness_increment: 0.5 mm source
+  thickness_increment: 1 mm/1 mm
 safety:
-  allergy: Check allergy history
-  renal: Verify eGFR > 30
+  allergy: Verificați istoricul alergic la contrast iodat
+  renal: Verificați eGFR > 30 mL/min/1.73m²
 series:
-- delay: N/A
-  end: Below heart
-  name: Calcium Score
-  notes: Calcium score
-  start: Carina
+- delay: 0 sec
+  end: Sub cord
+  name: Scor de Calciu
+  notes: Scor de calciu coronarian de referință
+  start: Carenă
   thickness: 3 mm
-- delay: Bolus tracked
-  end: 2cm below heart apex
-  name: Gated CTA
-  notes: Retrospective gating
-  start: 2cm above LAD
-  thickness: 0.5-0.625 mm
+- delay: Urmărire bolus
+  end: 2 cm sub apexul cordului
+  name: Angio-CT Sincronizat ECG
+  notes: Angio-CT sincronizat ECG prospectiv sau retrospectiv
+  start: 2 cm deasupra ostiilor coronare
+  thickness: 0.625 mm
 slug: coronary-cta
 synonyms: []
 tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
   kv: 100-120
-  mas: Auto ECG modulation
+  mas: Auto (modulare sincronizată ECG)
   pitch: 0.2-0.24
   rotation_time: 0.28s
-title: Coronary CTA
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Coronarian (Coronarografie CT)
 ---
 
-# Coronary CTA
+# Angio-CT Coronarian (Coronarografie CT)
 
-**Last Updated:** 2026-02-02
-**Author:** 
+**Ultima actualizare:** 2026-02-02
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Calcium Score | N/A | Carina → Below heart |
-        | Gated CTA | Bolus tracked | 2cm above LAD → 2cm below heart apex |
+        | Scor de Calciu | 0 sec | Carenă → Sub cord |
+        | Angio-CT Sincronizat ECG | Urmărire bolus | 2 cm deasupra ostiilor coronare → 2 cm sub apexul cordului |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Intermediate chest pain
-        - Suspected infarct
-        - Coronary artery dissection or aneurysm
-        - Anomalous coronary artery
-        - Stent patency
+        - Durere toracică cu probabilitate pre-test intermediară de boală coronariană
+        - Suspiciune de sindrom coronarian acut fără supradenivelare de segment ST (troponină negativă)
+        - Disecție coronariană spontană sau anevrisme de artere coronare (boală Kawasaki etc.)
+        - Anomalii congenitale de origine și traiect coronarian
+        - Evaluarea permeabilității stenturilor coronariene (>= 3 mm)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
-        - HR < 60 target.
-        - Metoprolol 5mg IV increments up to 15mg. Metoprolol contraindications include sBP < 100, 2nd/3rd degree heart block, and inhaler dependent asthma.
-        - Nitroglycerin 0.4mg SL 5 minutes before scan. Nitroglycerin contraindications include sBP < 100, PDE5 inhibitors within 48 hrs, severe aortic stenosis.
-
--   __3. IV Contrast & Injection__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    === "Injection Parameters"
 
-        | Parameter | Value |
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore; fără cafeină cu 12 ore înainte
+    - **Premedicație / Pregătire:**
+        - Controlul frecvenței cardiace cu beta-blocant (oral sau IV, de ex. Metoprolol) țintind FC <= 60 bpm; Nitroglicerină sublingual (spray/comprimat 0.4-0.8 mg) cu 2-3 minute înainte de injectare
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 20s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 200 HU |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 20s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 200 HU |
 
-    === "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Non-valsalva breathing technique, cardiac breathing instruction. Put in study notes if patient unable to follow breathing instructions. | If high HR variability, can trigger by millisecond (200ms - 450 ms pulse range). Revolution CT is better for Afib. | Target End diastole if HR < 65bpm. Target End systole if HR > 86bpm. Target End diastole to End systole if HR 66 - 75 bpm
+        - Tehnică de respirație non-Valsalva. Notificați în observații dacă pacientul nu poate respecta apneea. Țintă: telediastolă (70-75%) la FC < 65 bpm; telesistolă (35-45%) la FC > 80 bpm; telediastolă și telesistolă la FC intermediară.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. Check for metoprolol or nitroglycerin contraindications. Nitro is priority over metoprolol if BP is borderline.
+        - Linie venoasă minim 20G în plica cotului. Verificați contraindicațiile pentru metoprolol (astm sever, BAV avansat) sau nitroglicerină (stenoze aortice severe, medicație tip inhibitori PDE-5).
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic la contrast iodat
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Calculate Agatston score. Give CAD-RADS score. Check function look for potential focal wall motion abnormalities
+        - Calculați scorul Agatston. Acordați categoria CAD-RADS (0-5, P, N, G, V). Evaluați caracteristicile plăcii (stenoză, compoziție, remodelare pozitivă, atenuare redusă). Analizați cinetica pereților pe seriile multifazice.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Full chest coverage essential. Extended FOV. Low pitch for retrospective gating
+        - Pregătirea pacientului și controlul frecvenței cardiace sunt definitorii pentru calitatea examinării.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Calcium Score | Carina | Below heart | N/A | 3 mm | Calcium score |
-    | Gated CTA | 2cm above LAD | 2cm below heart apex | Bolus tracked | 0.5-0.625 mm | Retrospective gating |
+    | Scor de Calciu | Carenă | Sub cord | 0 sec | 3 mm | Scor de calciu coronarian de referință |
+    | Angio-CT Sincronizat ECG | 2 cm deasupra ostiilor coronare | 2 cm sub apexul cordului | Urmărire bolus | 0.625 mm | Angio-CT sincronizat ECG prospectiv sau retrospectiv |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Calcium score | Heart | 3 mm/3 mm | Standard | 3 | For Agatston score calculation |
-    | Axial | Calcium score | Chest | 1.5 mm/1.5 mm | Lung | 3 | Lung FOV for Extracardiac findings |
-    | Axial | Gated CTA | Heart | 0.625 mm/0.625 mm | Cardiac | 3 | Native coronary assessment |
-    | 3D VR | Gated CTA | Heart | 0.5 mm source | Cardiac | 3 | MPRs by 3D lab |
+    | Axial | Scor de Calciu | Cord | 3 mm/3 mm | Standard |  | Pentru calcularea scorului Agatston |
+    | Axial | Angio-CT Sincronizat ECG | Torace | 1.5 mm/1.5 mm | Lung |  | Câmp pulmonar pentru leziuni extracardiace |
+    | Axial | Angio-CT Sincronizat ECG | Cord | 0.625 mm/0.625 mm | Cardiac |  | Evaluarea nativă a lumenului coronarian |
+    | 3D VR | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Randări 3D VR și MPR pe arborele coronarian |

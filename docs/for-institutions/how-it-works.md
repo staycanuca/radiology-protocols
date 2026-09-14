@@ -24,7 +24,7 @@ Front matter can be added to existing Markdown files using `scripts/extract_to_f
 
 ## Comparison Tool
 
-The comparison tool at `/compare/` loads two or more protocols side-by-side. It reads from `docs/javascripts/protocol-comparison-index.json`, a pre-generated JSON file that aggregates key fields from all protocol YAML front matter. This index is regenerated automatically by CI on every push to `main`.
+The comparison tool at `/ct/compare/` loads two or more protocols side-by-side. It reads from `docs/javascripts/protocol-comparison-index.json`, a pre-generated JSON file that aggregates key fields from all protocol YAML front matter. This index is regenerated automatically by CI on every push to `main`.
 
 Deep linking is supported: the URL query string encodes selected protocol file paths (e.g. `?p=ct/chest/ct-pulmonary-embolism&p=ct/chest/non-contrast-ct-chest-routine`), so comparison views can be bookmarked and shared.
 

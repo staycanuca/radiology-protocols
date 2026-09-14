@@ -1,185 +1,206 @@
 ---
-title: CT Biphasic Pancreas
-slug: ct-biphasic-pancreas
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pancreatic mass
-- Pancreatitis
-- Pancreatic cyst characterization
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: 'Water PO: 900 mL water orally 15-30 min before scan for gastric/duodenal
-  distension'
+- Formațiune tumorală pancreatică / suspiciune adenocarcinom
+- Complicații pancreatită acută sau cronică
+- Caracterizarea leziunilor chistice pancreatice
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 25s
-  timing: 'Dual phase: Pancreatic arterial + Portal venous'
-  roi: Abdominal aorta
+  flow_rate: 4-5 mL/s
+  roi: Aorta abdominală
+  timing: 'Fază dublă: arterială pancreatică parenchimatoasă + venoasă portală'
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: 0.9-1.0
-series:
-- name: Pancreatic Phase
-  start: Diaphragm
-  end: Iliac crests
-  delay: 40-45 sec or bolus track
-  thickness: 1-1.25 mm
-  notes: Thin slices for small lesions
-- name: Portal Venous
-  start: Diaphragm
-  end: Lesser Trochanter
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Standard PV phase
-recons:
-- plane: Axial
-  acquisition: Pancreatic
-  fov: Pancreas
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Thin slice pancreas
-- plane: Axial
-  acquisition: Portal venous
-  fov: Abdomen
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Liver and vessels
-- plane: Coronal
-  acquisition: Both phases
-  fov: Abdomen
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Pancreatic and peripancreatic
-- plane: Curved MPR
-  acquisition: Pancreatic
-  fov: Pancreatic duct
-  thickness_increment: 1.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Duct evaluation
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO phases: Pancreatic phase (40-45s or bolus track) + Portal venous (70s).
-    Water for negative contrast'
-  nursing: 18-20G IV. Ensure water intake for duodenal distension
-  rad: 'Pancreatic phase: optimal pancreatic enhancement and small lesions. Portal
-    venous: liver and venous structures'
-  tips: Water distension of duodenum helpful. Thin slices for pancreas
-  additional_recons: Curved MPR pancreatic duct. MIP pancreatic vasculature
+  additional_recons: Reconstrucții MPR curbate pe canalul pancreatic principal (Wirsung).
+    Reconstrucții MIP pentru axul vascular peripancreatic.
+  nursing: Abord venos 18-20G. Asigurați ingestia completă de apă pentru distensia
+    duodenală.
+  rad: 'Faza pancreatică: încărcare optimă a parenchimului și decelarea leziunilor
+    hipovasculare mici. Faza portală: detecția metastazelor hepatice și invazia venoasă
+    (VMS, trunchi portal).'
+  tech: 'DOUĂ faze: Fază pancreatică parenchimatoasă (40-45s sau urmărire bolus) +
+    Fază venoasă portală (70s). Apă pentru contrast negativ endoluminal.'
+  tips: Distensia duodenului cu apă este esențială pentru demarcarea capului pancreatic.
+    Secțiuni fine obligatorii.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: 'Apă per os: 900 mL apă oral cu 15-30 min înainte de scanare pentru
+  distensie gastrică și duodenală'
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Pancreatică
+  fov: Abdomen
+  kernel: Standard
+  notes: Secțiuni fine pentru parenchimul pancreatic
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen
+  kernel: Standard
+  notes: Evaluare ficat și structuri venoase
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Pancreatică
+  fov: Abdomen
+  kernel: Standard
+  notes: Plan coronal pentru regiunea pancreatică și peripancreatică
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Pancreatică
+  fov: Pancreas
+  kernel: Standard
+  notes: Evaluare canal Wirsung și cale biliară principală
+  plane: Curved MPR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Coordinate water intake
+  allergy: Verificați istoricul alergic. Coordonați temporizarea consumului de apă.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 40-45 sec
+  end: Sub bifurcația aortei
+  name: Fază Pancreatică
+  notes: Fază arterială pancreatică parenchimatoasă optimă
+  start: Cupola hepatică
+  thickness: 0.625 mm
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală
+  notes: Fază venoasă portală completă abdomen-pelvis
+  start: Diafragm
+  thickness: 0.625 mm
+slug: ct-biphasic-pancreas
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200-250 mAs)
+  pitch: 0.9-1.0
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Pancreas Bifazic (Protocol Masă Pancreatică)
 ---
 
-# CT Biphasic Pancreas
+# CT Pancreas Bifazic (Protocol Masă Pancreatică)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Pancreatic Phase | Delayed Arterial (bolus tracked+16s scan delay) | Diaphragm to Iliac crests |
-        | Portal Venous | Contrast (70 sec delay) | Diaphragm to Lesser trochanters |
+        | Fază Pancreatică | 40-45 sec | Cupola hepatică → Sub bifurcația aortei |
+        | Fază Venoasă Portală | 70 sec | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pancreatic mass
-        - Pancreatitis
-        - Pancreatic cyst characterization
+        - Formațiune tumorală pancreatică / suspiciune adenocarcinom
+        - Complicații pancreatită acută sau cronică
+        - Caracterizarea leziunilor chistice pancreatice
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
-        - Water PO: 900 mL water orally 15-30 min before scan for gastric/duodenal distension
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Apă per os: 900 mL apă oral cu 15-30 min înainte de scanare pentru distensie gastrică și duodenală
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 25s |
-        | Timing Method | Dual phase: Pancreatic arterial + Portal venous |
-        | ROI Placement | Abdominal aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 25s |
+        | Metodă Temporizare | Fază dublă: arterială pancreatică parenchimatoasă + venoasă portală |
+        | Poziționare ROI | Aorta abdominală |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9-1.0 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - TWO phases: Pancreatic phase (40-45s or bolus track) + Portal venous (70s). Water for negative contrast
-        - Additional Recons: Curved MPR pancreatic duct. MIP pancreatic vasculature
+        - DOUĂ faze: Fază pancreatică parenchimatoasă (40-45s sau urmărire bolus) + Fază venoasă portală (70s). Apă pentru contrast negativ endoluminal.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. Ensure water intake for duodenal distension
+        - Abord venos 18-20G. Asigurați ingestia completă de apă pentru distensia duodenală.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Coordinate water intake
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic. Coordonați temporizarea consumului de apă.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Pancreatic phase: optimal pancreatic enhancement and small lesions. Portal venous: liver and venous structures
+        - Faza pancreatică: încărcare optimă a parenchimului și decelarea leziunilor hipovasculare mici. Faza portală: detecția metastazelor hepatice și invazia venoasă (VMS, trunchi portal).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Water distension of duodenum helpful. Thin slices for pancreas
+        - Distensia duodenului cu apă este esențială pentru demarcarea capului pancreatic. Secțiuni fine obligatorii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Iliac crests | N/A | N/A | AP |
-    | Pancreatic Phase | Diaphragm | Iliac crests | 40-45 sec or bolus track | 1-1.25 mm | Thin slices for small lesions |
-    | Portal Venous | Diaphragm | Lesser Trochanter | 70 sec | 2.5 mm | Standard PV phase |
+    | Fază Pancreatică | Cupola hepatică | Sub bifurcația aortei | 40-45 sec | 0.625 mm | Fază arterială pancreatică parenchimatoasă optimă |
+    | Fază Venoasă Portală | Diafragm | Simfiză pubiană | 70 sec | 0.625 mm | Fază venoasă portală completă abdomen-pelvis |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Pancreatic | Pancreas | 1.5 mm/1.5 mm | Standard | 3 | Thin slice pancreas |
-    | Axial | Portal venous | Abdomen | 2.5 mm/2.5 mm | Standard | 3 | Liver and vessels |
-    | Coronal | Both phases | Abdomen | 2.5 mm/2.5 mm | Standard | 3 | Pancreatic and peripancreatic |
-    | Curved MPR | Pancreatic | Pancreatic duct | 1.5 mm | Standard | 3 | Duct evaluation |
+    | Axial | Fază Pancreatică | Abdomen | 1.25 mm/1.25 mm | Standard |  | Secțiuni fine pentru parenchimul pancreatic |
+    | Axial | Fază Venoasă Portală | Abdomen | 2.5 mm/2.5 mm | Standard |  | Evaluare ficat și structuri venoase |
+    | Coronal | Fază Pancreatică | Abdomen | 2 mm/2 mm | Standard |  | Plan coronal pentru regiunea pancreatică și peripancreatică |
+    | Curved MPR | Fază Pancreatică | Pancreas | 1 mm/1 mm | Standard |  | Evaluare canal Wirsung și cale biliară principală |

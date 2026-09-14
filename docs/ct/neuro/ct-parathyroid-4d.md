@@ -1,198 +1,221 @@
 ---
-title: CT Parathyroid 4D
-slug: ct-parathyroid-4d
+author: null
 category: neuro
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Hyperparathyroidism
-- Parathyroid adenoma localization
-- Pre-operative parathyroid planning
-position: Supine head-first with arms down
-npo: NPO 4 hours
-premedication: ''
+- Hiperparatiroidism primar sau secundar refractar
+- Localizarea pre-operatorie a adenomului paratiroidian (eutopic sau ectopic)
+- Chirurgie paratiroidiană minim invazivă orientată
 contrast:
   agent: Omnipaque 350
-  volume: 75-100 mL
   flow_rate: 4 mL/s
-  timing: 4D multi-phase
-  roi: Carotid artery
+  roi: Artera carotidă
+  timing: 'Protocol 4D multifazic: Nativ + Arterial + Venoasă + Tardiv'
   trigger: 150 HU
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Non-Contrast
-  start: Skull base
-  end: Carina
-  delay: N/A
-  thickness: 2.5 mm
-  notes: Baseline
-- name: Arterial Phase
-  start: Skull base
-  end: Carina
-  delay: 25 sec
-  thickness: 2 mm
-  notes: Parathyroid enhancement
-- name: Venous Phase
-  start: Skull base
-  end: Carina
-  delay: 55 sec
-  thickness: 2 mm
-  notes: Thyroid enhancement
-- name: Delayed Phase
-  start: Skull base
-  end: Carina
-  delay: 90 sec
-  thickness: 2.5 mm
-  notes: Washout phase
-recons:
-- plane: Axial
-  acquisition: All phases
-  fov: Neck
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Compare all four phases
-- plane: Axial
-  acquisition: Arterial
-  fov: Neck
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Peak parathyroid enhancement
-- plane: Subtraction
-  acquisition: Arterial - NC
-  fov: Neck
-  thickness_increment: 2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Enhance parathyroid conspicuity
-- plane: Coronal
-  acquisition: Arterial
-  fov: Neck
-  thickness_increment: 2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Ectopic adenoma search
+  volume: 75-100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: 'FOUR phases: 1) NC 2) Arterial 25s 3) Venous 55s 4) Delayed/washout 90s.
-    Skull base to mediastinum. Parathyroid enhances early washes out'
-  nursing: 18-20G IV. High flow rate for arterial
-  rad: 'NC: baseline. Arterial: parathyroid lights up. Venous: thyroid enhances. Delayed:
-    parathyroid washes out faster than thyroid'
-  tips: Four phase critical. Look for early enhancement and washout
-  additional_recons: Subtraction images. Compare all phases. Document location for
-    surgeon. Measure size
+  additional_recons: Imagini de substracție (arterial minus nativ). Comparație densitometrică
+    în 4 faze. Măsurarea dimensiunilor și a raporturilor topografice pentru chirurg.
+  nursing: Linie venoasă 18-20G cu debit mare (4 mL/s). Instruiți pacientul să nu
+    înghită în timpul scanării.
+  rad: 'Adenomul paratiroidian prezintă cinetică tipică: hipodens pe nativ, încărcare
+    intensă precoce în faza arterială (''lights up'') și spălare rapidă (washout)
+    în fazele venoasă și tardivă (spre deosebire de tiroidă și ganglioni).'
+  tech: 'PATRU faze sincronizate: 1) Nativ 2) Fază arterială la 25s 3) Fază venoasă
+    la 55-60s 4) Fază tardivă/washout la 90s. De la baza craniului până la nivelul
+    carenei/mediastinului anterior pentru adenoame ectopice.'
+  tips: Protocolul cu 4 faze oferă o sensibilitate superioară ecografiei și scintigrafiei
+    MIBI. Căutați adenoame ectopice mediastinale.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu capul în extensie ușoară și umerii coborâți
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Arterială
+  fov: Gât-Mediastin
+  kernel: Standard
+  notes: Comparație dinamică între toate cele 4 faze
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Arterială
+  fov: Gât
+  kernel: Standard
+  notes: Vârful încărcării adenomului paratiroidian
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Arterială
+  fov: Gât
+  kernel: Standard
+  notes: Substracție digitală pentru evidențierea adenomului
+  plane: Subtraction
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Arterială
+  fov: Gât-Mediastin
+  kernel: Standard
+  notes: Plan coronal pentru căutarea adenoamelor ectopice mediastinale
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Carenă
+  name: Fază Nativă
+  notes: Referință nativă
+  start: Baza craniului
+  thickness: 0.625 mm
+- delay: 25 sec
+  end: Carenă
+  name: Fază Arterială
+  notes: Încărcare arterială maximă a adenomului paratiroidian
+  start: Baza craniului
+  thickness: 0.625 mm
+- delay: 55 sec
+  end: Carenă
+  name: Fază Venoasă
+  notes: Încărcare tiroidiană maximă
+  start: Baza craniului
+  thickness: 0.625 mm
+- delay: 90 sec
+  end: Carenă
+  name: Fază Tardivă
+  notes: Fază de spălare (washout) a adenomului
+  start: Baza craniului
+  thickness: 0.625 mm
+slug: ct-parathyroid-4d
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT 4D Glande Paratiroide
 ---
 
-# CT Parathyroid 4D
+# CT 4D Glande Paratiroide
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast | Non-contrast | Skull base to Carina |
-        | Arterial Phase | Contrast (25 sec delay) | Skull base to Carina |
-        | Venous Phase | Contrast (55 sec delay) | Skull base to Carina |
-        | Delayed Phase | Contrast (90 sec delay) | Skull base to Carina |
+        | Fază Nativă | 0 sec | Baza craniului → Carenă |
+        | Fază Arterială | 25 sec | Baza craniului → Carenă |
+        | Fază Venoasă | 55 sec | Baza craniului → Carenă |
+        | Fază Tardivă | 90 sec | Baza craniului → Carenă |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Hyperparathyroidism
-        - Parathyroid adenoma localization
-        - Pre-operative parathyroid planning
+        - Hiperparatiroidism primar sau secundar refractar
+        - Localizarea pre-operatorie a adenomului paratiroidian (eutopic sau ectopic)
+        - Chirurgie paratiroidiană minim invazivă orientată
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first with arms down
-    - **NPO Status:** NPO 4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul în extensie ușoară și umerii coborâți
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 75-100 mL |
-        | Flow Rate | 4 mL/s |
-        | Timing Method | 4D multi-phase |
-        | ROI Placement | Carotid artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | 75-100 mL |
+        | Rată de Flux | 4 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Protocol 4D multifazic: Nativ + Arterial + Venoasă + Tardiv |
+        | Poziționare ROI | Artera carotidă |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - FOUR phases: 1) NC 2) Arterial 25s 3) Venous 55s 4) Delayed/washout 90s. Skull base to mediastinum. Parathyroid enhances early washes out
-        - Additional Recons: Subtraction images. Compare all phases. Document location for surgeon. Measure size
+        - PATRU faze sincronizate: 1) Nativ 2) Fază arterială la 25s 3) Fază venoasă la 55-60s 4) Fază tardivă/washout la 90s. De la baza craniului până la nivelul carenei/mediastinului anterior pentru adenoame ectopice.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. High flow rate for arterial
+        - Linie venoasă 18-20G cu debit mare (4 mL/s). Instruiți pacientul să nu înghită în timpul scanării.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: baseline. Arterial: parathyroid lights up. Venous: thyroid enhances. Delayed: parathyroid washes out faster than thyroid
+        - Adenomul paratiroidian prezintă cinetică tipică: hipodens pe nativ, încărcare intensă precoce în faza arterială ('lights up') și spălare rapidă (washout) în fazele venoasă și tardivă (spre deosebire de tiroidă și ganglioni).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Four phase critical. Look for early enhancement and washout
+        - Protocolul cu 4 faze oferă o sensibilitate superioară ecografiei și scintigrafiei MIBI. Căutați adenoame ectopice mediastinale.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Skull base | Carina | N/A | N/A | AP lateral |
-    | Non-Contrast | Skull base | Carina | N/A | 2.5 mm | Baseline |
-    | Arterial Phase | Skull base | Carina | 25 sec | 2 mm | Parathyroid enhancement |
-    | Venous Phase | Skull base | Carina | 55 sec | 2 mm | Thyroid enhancement |
-    | Delayed Phase | Skull base | Carina | 90 sec | 2.5 mm | Washout phase |
+    | Fază Nativă | Baza craniului | Carenă | 0 sec | 0.625 mm | Referință nativă |
+    | Fază Arterială | Baza craniului | Carenă | 25 sec | 0.625 mm | Încărcare arterială maximă a adenomului paratiroidian |
+    | Fază Venoasă | Baza craniului | Carenă | 55 sec | 0.625 mm | Încărcare tiroidiană maximă |
+    | Fază Tardivă | Baza craniului | Carenă | 90 sec | 0.625 mm | Fază de spălare (washout) a adenomului |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | All phases | Neck | 2 mm/2 mm | Standard | 3 | Compare all four phases |
-    | Axial | Arterial | Neck | 2 mm/2 mm | Standard | 3 | Peak parathyroid enhancement |
-    | Subtraction | Arterial - NC | Neck | 2 mm | Standard | 3 | Enhance parathyroid conspicuity |
-    | Coronal | Arterial | Neck | 2.5 mm | Standard | 3 | Ectopic adenoma search |
+    | Axial | Fază Arterială | Gât-Mediastin | 1.25 mm/1.25 mm | Standard |  | Comparație dinamică între toate cele 4 faze |
+    | Axial | Fază Arterială | Gât | 1.25 mm/1.25 mm | Standard |  | Vârful încărcării adenomului paratiroidian |
+    | Subtraction | Fază Arterială | Gât | 1.25 mm/1.25 mm | Standard |  | Substracție digitală pentru evidențierea adenomului |
+    | Coronal | Fază Arterială | Gât-Mediastin | 1.5 mm/1.5 mm | Standard |  | Plan coronal pentru căutarea adenoamelor ectopice mediastinale |

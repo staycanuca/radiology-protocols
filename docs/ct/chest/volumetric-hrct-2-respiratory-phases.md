@@ -2,9 +2,10 @@
 author: None
 category: chest
 clinical_indications:
-- Interstitial lung disease without prone imaging
-- ILD diagnosis
-- Diffuse lung disease
+- Boală a căilor aeriene mici (small airway disease)
+- Pneumonită de hipersensibilitate
+- Astm refractar și bronșiolită obliterantă
+- Evaluare combinată interstițiu + capcană aerică
 contrast:
   agent: N/A
   duration: ''
@@ -15,154 +16,171 @@ contrast:
   volume: ''
 last_updated: '2026-01-01'
 notes:
-  additional_recons: Thin slice for ILD detail. Compare inspiration vs expiration.
-    Quantitative analysis if available
-  nursing: No IV. Careful breath hold coaching. Inspiration and expiration
-  rad: ILD pattern recognition. Honeycombing. Ground glass. Reticular. Mosaic attenuation
-    on expiration
-  tech: 'TWO acquisitions: 1) Full INSPIRATION 2) EXPIRATION  Volumetric (contiguous
-    thin slice). Coach breathing'
-  tips: Volumetric contiguous slices. Coach breathing carefully
-npo: N/A
-position: Supine with arms raised
-premedication: ''
+  additional_recons: MinIP pentru evidențierea hipoatenuării în mozaic
+  nursing: Fără linie venoasă. Antrenați pacientul să expire complet și să mențină
+    apneea în expir.
+  rad: Comparați atenuarea pulmonară inspir vs expir. Capcana aerică persistentă în
+    expir indică boală obstructivă a căilor mici.
+  tech: 'DOUĂ achiziții volumetrice elicoidale: 1) Inspir profund complet; 2) Expir
+    complet la doză redusă.'
+  tips: Faza de expir se execută cu kV și mA reduse pentru radioprotecție.
+npo: Nu este necesar
+position: Decubit dorsal cu brațele ridicate
+premedication: Nu este necesară
 protocol_type: chest/pulmonary
 recons:
-- acquisition: Inspiration
-  fov: Chest
+- acquisition: Inspir
+  fov: Torace
   ir_strength: '3'
-  kernel: Lung
-  notes: Thin slice ILD assessment
+  kernel: Plămân
+  notes: Parenchim inspir
   plane: Axial
-  thickness_increment: 1 mm/1 mm
-- acquisition: Expiration
-  fov: Lower lungs
+  thickness_increment: 1.0 mm/0.8 mm
+- acquisition: Expir
+  fov: Torace
   ir_strength: '3'
-  kernel: Lung
-  notes: Air trapping assessment
+  kernel: Plămân
+  notes: Parenchim expir
   plane: Axial
-  thickness_increment: 1 mm/1 mm
-- acquisition: Inspiration
-  fov: Chest
+  thickness_increment: 1.0 mm/0.8 mm
+- acquisition: Inspir
+  fov: Torace
   ir_strength: '3'
-  kernel: Lung
-  notes: ILD distribution
+  kernel: Plămân
+  notes: Coronal inspir
   plane: Coronal
-  thickness_increment: 1.5 mm
-- acquisition: Inspiration
-  fov: Chest
-  ir_strength: '3'
-  kernel: Lung
-  notes: Craniocaudal distribution
-  plane: Sagittal
-  thickness_increment: 2 mm
+  thickness_increment: 2.0 mm/2.0 mm
 safety:
-  allergy: N/A
-  renal: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
 series:
-- delay: Full inspiration
-  end: Costophrenic angles
-  name: Volumetric Inspiration
-  notes: Contiguous 1mm slices
-  start: Lung apices
-  thickness: 1 mm
-- delay: Full expiration
-  end: Costophrenic angles
-  name: Expiration
-  notes: Limited coverage expiration
-  start: Lung apices
-  thickness: 1 mm
+- delay: Inspir
+  end: Sinusuri costodiafragmatice
+  name: Volum Inspir Complet
+  notes: Achiziție volumetrică continuă
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
+- delay: Expir complet
+  end: Sinusuri costodiafragmatice
+  name: Volum Expir Complet (Doză Redusă)
+  notes: Doză joasă pentru capcană aerică
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
 slug: volumetric-hrct-2-respiratory-phases
 synonyms: []
 tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
   kv: '120'
-  mas: Auto (reference 150-200)
+  mas: Auto (referință 150-200 mAs)
   pitch: '1'
   rotation_time: 0.5s
-title: Volumetric HRCT 2 Respiratory Phases
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 1.0 mm
+title: HRCT Volumetric 2 Faze Respiratorii (Inspir/Expir)
 ---
 
-# Volumetric HRCT 2 Respiratory Phases
+# HRCT Volumetric 2 Faze Respiratorii (Inspir/Expir)
 
-**Last Updated:** 2026-01-01
-**Author:** None
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Volumetric Inspiration | Full inspiration | Lung apices → Costophrenic angles |
-        | Expiration | Full expiration | Lung apices → Costophrenic angles |
+        | Volum Inspir Complet | Inspir | Vârfuri pulmonare → Sinusuri costodiafragmatice |
+        | Volum Expir Complet (Doză Redusă) | Expir complet | Vârfuri pulmonare → Sinusuri costodiafragmatice |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Interstitial lung disease without prone imaging
-        - ILD diagnosis
-        - Diffuse lung disease
+        - Boală a căilor aeriene mici (small airway disease)
+        - Pneumonită de hipersensibilitate
+        - Astm refractar și bronșiolită obliterantă
+        - Evaluare combinată interstițiu + capcană aerică
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    - **Pre-Medication:**
-        - None required
-
--   __3. IV Contrast & Injection__
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - TWO acquisitions: 1) Full INSPIRATION 2) EXPIRATION  Volumetric (contiguous thin slice). Coach breathing
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Careful breath hold coaching. Inspiration and expiration
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 150-200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - ILD pattern recognition. Honeycombing. Ground glass. Reticular. Mosaic attenuation on expiration
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Volumetric contiguous slices. Coach breathing carefully
+        - DOUĂ achiziții volumetrice elicoidale: 1) Inspir profund complet; 2) Expir complet la doză redusă.
+
+    === "Note Asistent"
+
+        - Fără linie venoasă. Antrenați pacientul să expire complet și să mențină apneea în expir.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Comparați atenuarea pulmonară inspir vs expir. Capcana aerică persistentă în expir indică boală obstructivă a căilor mici.
+
+    === "Sfaturi & Recomandări"
+
+        - Faza de expir se execută cu kV și mA reduse pentru radioprotecție.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Volumetric Inspiration | Lung apices | Costophrenic angles | Full inspiration | 1 mm | Contiguous 1mm slices |
-    | Expiration | Lung apices | Costophrenic angles | Full expiration | 1 mm | Limited coverage expiration |
+    | Volum Inspir Complet | Vârfuri pulmonare | Sinusuri costodiafragmatice | Inspir | 1.0 mm | Achiziție volumetrică continuă |
+    | Volum Expir Complet (Doză Redusă) | Vârfuri pulmonare | Sinusuri costodiafragmatice | Expir complet | 1.0 mm | Doză joasă pentru capcană aerică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Inspiration | Chest | 1 mm/1 mm | Lung | 3 | Thin slice ILD assessment |
-    | Axial | Expiration | Lower lungs | 1 mm/1 mm | Lung | 3 | Air trapping assessment |
-    | Coronal | Inspiration | Chest | 1.5 mm | Lung | 3 | ILD distribution |
-    | Sagittal | Inspiration | Chest | 2 mm | Lung | 3 | Craniocaudal distribution |
+    | Axial | Inspir | Torace | 1.0 mm/0.8 mm | Plămân | 3 | Parenchim inspir |
+    | Axial | Expir | Torace | 1.0 mm/0.8 mm | Plămân | 3 | Parenchim expir |
+    | Coronal | Inspir | Torace | 2.0 mm/2.0 mm | Plămân | 3 | Coronal inspir |

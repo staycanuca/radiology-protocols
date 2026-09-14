@@ -1,172 +1,196 @@
 ---
-title: CT Pelvis MSK
-slug: ct-pelvis-msk
+author: null
 category: msk
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pelvic fracture
-- Sacral fracture
-- SI joint
-- Pelvic ring injury
-- Pre-operative planning
-position: Supine
-npo: N/A
-premedication: ''
+- Fracturi ale inelului pelvin (clasificare Young-Burgess / Tile)
+- Fracturi sacrate (clasificare Denis)
+- Disjuncție a articulațiilor sacroiliace sau a simfizei pubiene
+- Planificare chirurgicală pre-operatorie pentru fixare internă
 contrast:
-  agent: None typically. Contrast if infection
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Substanță de contrast dacă se suspectează leziune vasculară
+    asociată sau hematom activ
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 250)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Pelvis
-  start: Iliac crests
-  end: Proximal femurs
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter for 3D
-recons:
-- plane: Axial
-  acquisition: Pelvis
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone
-- plane: Coronal
-  acquisition: Pelvis
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal pelvis
-- plane: Sagittal
-  acquisition: Pelvis
-  fov: Pelvis
-  thickness_increment: 2 mm/2 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal sacrum
-- plane: Inlet/Outlet
-  acquisition: Pelvis
-  fov: Pelvic ring
-  thickness_increment: 2-3 mm oblique
-  kernel: Bone
-  ir_strength: N/A
-  notes: Pelvic ring views
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Iliac crests to proximal femurs. Submillimeter for 3D. Assess pelvic ring
-    integrity. Inlet and outlet views
-  nursing: No IV unless contrast indicated
-  rad: Pelvic ring fractures (Young-Burgess). Sacral fractures (Denis). Acetabulum.
-    SI joints. Symphysis pubis
-  tips: Submillimeter for 3D pelvic reconstruction
-  additional_recons: 3D pelvis. Inlet and outlet views. Young-Burgess classification.
-    Measure displacement
+  additional_recons: Randare 3D VR a întregului inel pelvin. Incidențe specifice Inlet
+    (înclinație caudo-cranială) și Outlet (înclinație cranio-caudală). Măsurarea deplasării
+    fragmentelor.
+  nursing: Fără linie venoasă de rutină decât dacă este suspectat traumatism vascular.
+  rad: Integritatea inelului pelvin anterior și posterior. Fracturi sacrate și lărgirea
+    găurilor sacrate. Deplasarea articulațiilor sacro-iliace. Disjuncția simfizei
+    pubiene. Interesarea cotilului.
+  tech: De la crestele iliace până sub micul trohanter. Achiziție submilimetrică optimizată
+    pentru randare 3D a inelului pelvin. Incidențe reconstructive 'Inlet' și 'Outlet'.
+  tips: Secțiuni fine submilimetrice pentru reconstrucțiile 3D indispensabile chirurgului
+    ortoped.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu membrele inferioare aliniate simetric
+premedication: ''
+protocol_type: contrast-enhanced
+recons:
+- acquisition: CT Pelvis Osos
+  fov: Pelvis
+  kernel: Bone
+  notes: Fereastră osoasă axială
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: CT Pelvis Osos
+  fov: Pelvis
+  kernel: Bone
+  notes: Plan coronal al pelvisului
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Pelvis Osos
+  fov: Pelvis
+  kernel: Bone
+  notes: Plan sagital centrat pe sacru și coloana lombo-sacrată
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: CT Pelvis Osos
+  fov: Pelvis
+  kernel: Bone
+  notes: Incidențe specifice reconstructive Inlet și Outlet pe inelul pelvin
+  plane: Inlet/Outlet
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Mici trohanteri
+  name: CT Pelvis Osos
+  notes: Achiziție submilimetrică pentru randare 3D a bazinului
+  start: Creste iliace
+  thickness: 0.625 mm
+slug: ct-pelvis-msk
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 250 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Pelvis Osos / Bazin (MSK)
 ---
 
-# CT Pelvis MSK
+# CT Pelvis Osos / Bazin (MSK)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Pelvis | Contrast (N/A or 60s if contrast delay) | Iliac crests to Proximal femurs |
+        | CT Pelvis Osos | 0 sec | Creste iliace → Mici trohanteri |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pelvic fracture
-        - Sacral fracture
-        - SI joint
-        - Pelvic ring injury
-        - Pre-operative planning
+        - Fracturi ale inelului pelvin (clasificare Young-Burgess / Tile)
+        - Fracturi sacrate (clasificare Denis)
+        - Disjuncție a articulațiilor sacroiliace sau a simfizei pubiene
+        - Planificare chirurgicală pre-operatorie pentru fixare internă
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu membrele inferioare aliniate simetric
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Substanță de contrast dacă se suspectează leziune vasculară asociată sau hematom activ |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Iliac crests to proximal femurs. Submillimeter for 3D. Assess pelvic ring integrity. Inlet and outlet views
-        - Additional Recons: 3D pelvis. Inlet and outlet views. Young-Burgess classification. Measure displacement
+        - De la crestele iliace până sub micul trohanter. Achiziție submilimetrică optimizată pentru randare 3D a inelului pelvin. Incidențe reconstructive 'Inlet' și 'Outlet'.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast indicated
+        - Fără linie venoasă de rutină decât dacă este suspectat traumatism vascular.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Pelvic ring fractures (Young-Burgess). Sacral fractures (Denis). Acetabulum. SI joints. Symphysis pubis
+        - Integritatea inelului pelvin anterior și posterior. Fracturi sacrate și lărgirea găurilor sacrate. Deplasarea articulațiilor sacro-iliace. Disjuncția simfizei pubiene. Interesarea cotilului.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Submillimeter for 3D pelvic reconstruction
+        - Secțiuni fine submilimetrice pentru reconstrucțiile 3D indispensabile chirurgului ortoped.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Iliac crests | Proximal femurs | N/A | N/A | AP |
-    | CT Pelvis | Iliac crests | Proximal femurs | N/A or 60s if contrast | 0.625 mm | Submillimeter for 3D |
+    | CT Pelvis Osos | Creste iliace | Mici trohanteri | 0 sec | 0.625 mm | Achiziție submilimetrică pentru randare 3D a bazinului |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Pelvis | Pelvis | 2 mm/2 mm | Bone | N/A | Axial bone |
-    | Coronal | Pelvis | Pelvis | 2 mm/2 mm | Bone | N/A | Coronal pelvis |
-    | Sagittal | Pelvis | Pelvis | 2 mm/2 mm | Bone | N/A | Sagittal sacrum |
-    | Inlet/Outlet | Pelvis | Pelvic ring | 2-3 mm oblique | Bone | N/A | Pelvic ring views |
+    | Axial | CT Pelvis Osos | Pelvis | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă axială |
+    | Coronal | CT Pelvis Osos | Pelvis | 1.5 mm/1.5 mm | Bone |  | Plan coronal al pelvisului |
+    | Sagital | CT Pelvis Osos | Pelvis | 1.5 mm/1.5 mm | Bone |  | Plan sagital centrat pe sacru și coloana lombo-sacrată |
+    | Inlet/Outlet | CT Pelvis Osos | Pelvis | 1.5 mm/1.5 mm | Bone |  | Incidențe specifice reconstructive Inlet și Outlet pe inelul pelvin |

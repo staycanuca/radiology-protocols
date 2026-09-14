@@ -1,5 +1,7 @@
 # Radiology Protocol Manager
 
+**Unealtă standalone de documentare și import:** [Protocol Workbench](protocol_workbench/README.md) — căutare de surse și imagini, dosare locale, verificări și revizuire înainte de import pentru CT, RX, IRM, US și fluoroscopie. Pornește cu `python -m protocol_workbench.app`, apoi deschide `http://127.0.0.1:5180`.
+
 Protocol Manager is an open-source static site for managing and sharing CT protocol documentation within a radiology department. It is built with MkDocs (Material theme) and hosted on GitHub Pages or any internal web server.
 
 **Live site:** https://dfergs93.github.io/radiology-protocols/
@@ -79,10 +81,28 @@ protocol_manager/
 
 ---
 
-## Local Development
+## Rulare Locală (Local Development & Launcher)
 
+Aplicația include un launcher complet și unitar (`run.py`), precum și scurtături rapide pentru Windows (`start.bat` și `start.ps1`).
+
+### 1. Lansare rapidă interactivă (Recomandat)
+- **Windows (dublu-click sau consolă):**
+  ```cmd
+  start.bat
+  ```
+- **Sau prin Python:**
+  ```bash
+  python run.py
+  ```
+Aceasta va afișa un meniu interactiv cu opțiuni pentru lansare completă (Docs + Admin), doar documentație, doar panou de administrare, actualizare indici, rulare teste sau construire site static.
+
+### 2. Comenzi directe CLI
 ```bash
-pip install mkdocs-material pymdown-extensions mkdocs-awesome-pages-plugin pyyaml
-mkdocs serve
-# Site at http://127.0.0.1:8000/<base_path>/
+python run.py --all     # Pornește atât Ghidul Protocoalelor (port 8000) cât și Panoul de Administrare (port 5173)
+python run.py --docs    # Pornește doar site-ul de documentație (MkDocs la http://localhost:8000/radiology-protocols/)
+python run.py --admin   # Pornește doar panoul web de administrare (Flask la http://localhost:5173)
+python run.py --index   # Re-generează toți indecșii (comparison, sitemap, forms)
+python run.py --test    # Rulează suita de teste automate (pytest)
+python run.py --build   # Compilează site-ul static pentru producție în folderul site/
 ```
+

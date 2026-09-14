@@ -1,172 +1,197 @@
 ---
-title: CTA Lower Extremity Free Flap
-slug: cta-lower-extremity-free-flap
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-operative planning for free flap harvest (fibula ALT anterolateral thigh)
-position: Supine with legs extended
-npo: NPO 2-4 hours
-premedication: ''
+- Planificare pre-operatorie pentru recoltare de lambou liber (fibulă, lambou anterolateral
+  de coapsă - ALT)
+- Reconstrucție maxilofacială sau a membrelor după rezecții oncologice/traumă
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 25s
-  timing: Bolus Tracking
-  roi: Femoral artery
+  flow_rate: 4-5 mL/s
+  roi: Artera femurală
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: '0.9'
-series:
-- name: CTA Arterial
-  start: Mid-Thigh
-  end: Toes
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Bilateral for comparison and variants
-- name: CTA Delayed
-  start: Mid-Thigh
-  end: Toes
-  delay: 60s
-  thickness: 0.625 mm
-  notes: Bilateral for comparison and variants
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Thighs/Legs
-  thickness_increment: 1 mm/1 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Thin slice for perforator identification
-- plane: Coronal
-  acquisition: Arterial
-  fov: Full legs
-  thickness_increment: 1.5 mm/1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP to show perforator course
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Full legs
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral perforator views
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Scan from iliac crest to ankle. Focus on perforators in region of interest.
-    Arterial phase critical for mapping
-  nursing: 18-20G IV
-  rad: Map perforator vessels. Measure vessel caliber and length. Identify dominant
-    pedicle. Note anatomic variants
-  tips: Legs straight and not rotated. Mark skin over region of interest if possible
-  additional_recons: Curved MPR of main vessels. Measure perforator locations from
-    bony landmarks
+  additional_recons: Reconstrucții MPR curbate ale vaselor principale. Măsurarea distanțelor
+    perforatoarelor față de reperele osoase (trohanter mare, rotulă, capul fibulei).
+  nursing: Linie venoasă 18-20G.
+  rad: Cartografiați ramurile perforatoare septocutanate și musculocutanate. Măsurați
+    calibrul și lungimea pediculului vascular. Identificați pediculul dominant. Notați
+    variantele anatomice ale arterelor gambei (trifurcație, hipoplazii).
+  tech: Scanare de la nivelul crestei iliace până la gleznă. Focus pe perforatoarele
+    din regiunea de interes (coapsă sau gambă). Faza arterială este critică pentru
+    cartografiere.
+  tips: Membrele inferioare drepte, fără rotație internă/externă. Marcați tegumentul
+    la nivelul regiunii de interes dacă este posibil.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu membrele inferioare extinse
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: Secțiuni fine pentru identificarea perforatoarelor
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: MIP pentru evidențierea traiectului vascular complet
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial
+  fov: Membre inferioare
+  kernel: Vascular
+  notes: Vederi sagitale ale perforatoarelor
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Degete picioare
+  name: Angio-CT Arterial
+  notes: Bilateral pentru comparație și analiza variantelor
+  start: Mijlocul coapsei
+  thickness: 0.625 mm
+- delay: 60 sec
+  end: Degete picioare
+  name: Angio-CT Tardiv
+  notes: Fază venoasă pentru pediculul comitant
+  start: Mijlocul coapsei
+  thickness: 1 mm
+slug: cta-lower-extremity-free-flap
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: '0.9'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Planificare Lambou Liber Membru Inferior (Fibulă / ALT)
 ---
 
-# CTA Lower Extremity Free Flap
+# Angio-CT Planificare Lambou Liber Membru Inferior (Fibulă / ALT)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CTA Arterial | Arterial (bolus tracked) | Mid-thigh to Toes |
-        | Delay | Delayed (60s) | Mid-thigh to Toes |
+        | Angio-CT Arterial | Urmărire bolus | Mijlocul coapsei → Degete picioare |
+        | Angio-CT Tardiv | 60 sec | Mijlocul coapsei → Degete picioare |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-operative planning for free flap harvest (fibula ALT anterolateral thigh)
+        - Planificare pre-operatorie pentru recoltare de lambou liber (fibulă, lambou anterolateral de coapsă - ALT)
+        - Reconstrucție maxilofacială sau a membrelor după rezecții oncologice/traumă
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with legs extended
-    - **NPO Status:** NPO 2-4 hours
-    
+    - **Poziție:** Decubit dorsal cu membrele inferioare extinse
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 25s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Femoral artery |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 25s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Artera femurală |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Scan from iliac crest to ankle. Focus on perforators in region of interest. Arterial phase critical for mapping
-        - Additional Recons: Curved MPR of main vessels. Measure perforator locations from bony landmarks
+        - Scanare de la nivelul crestei iliace până la gleznă. Focus pe perforatoarele din regiunea de interes (coapsă sau gambă). Faza arterială este critică pentru cartografiere.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV
+        - Linie venoasă 18-20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Map perforator vessels. Measure vessel caliber and length. Identify dominant pedicle. Note anatomic variants
+        - Cartografiați ramurile perforatoare septocutanate și musculocutanate. Măsurați calibrul și lungimea pediculului vascular. Identificați pediculul dominant. Notați variantele anatomice ale arterelor gambei (trifurcație, hipoplazii).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Legs straight and not rotated. Mark skin over region of interest if possible
+        - Membrele inferioare drepte, fără rotație internă/externă. Marcați tegumentul la nivelul regiunii de interes dacă este posibil.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Mid-Thigh | Toes | N/A | N/A | AP both legs for comparison |
-    | CTA Arterial | Mid-Thigh | Toes | Bolus tracked | 0.625 mm | Bilateral for comparison and variants |
-    | CTA Delayed | Mid-Thigh | Toes | 60s | 0.625 mm | Bilateral for comparison and variants |
+    | Angio-CT Arterial | Mijlocul coapsei | Degete picioare | Urmărire bolus | 0.625 mm | Bilateral pentru comparație și analiza variantelor |
+    | Angio-CT Tardiv | Mijlocul coapsei | Degete picioare | 60 sec | 1 mm | Fază venoasă pentru pediculul comitant |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Thighs/Legs | 1 mm/1 mm | Vascular | 3 | Thin slice for perforator identification |
-    | Coronal | Arterial | Full legs | 1.5 mm/1.5 mm | Vascular | 3 | MIP to show perforator course |
-    | Sagittal | Arterial | Full legs | 2 mm/2 mm | Vascular | 3 | Lateral perforator views |
+    | Axial | Angio-CT Arterial | Membre inferioare | 0.625 mm/0.625 mm | Vascular |  | Secțiuni fine pentru identificarea perforatoarelor |
+    | Coronal | Angio-CT Arterial | Membre inferioare | 1.5 mm/1.5 mm | Vascular |  | MIP pentru evidențierea traiectului vascular complet |
+    | Sagital | Angio-CT Arterial | Membre inferioare | 1.5 mm/1.5 mm | Vascular |  | Vederi sagitale ale perforatoarelor |

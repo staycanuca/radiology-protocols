@@ -2,7 +2,9 @@
 author: None
 category: chest
 clinical_indications:
-- Non Contrast chest for patient's age < 60
+- Screening cancer bronhopulmonar (fumători / foști fumători)
+- Urmărire nodul pulmonar
+- Evaluare leziuni parenchimatoase la pacienți asimptomatici
 contrast:
   agent: N/A
   duration: ''
@@ -13,142 +15,160 @@ contrast:
   volume: ''
 last_updated: '2026-01-01'
 notes:
-  additional_recons: CAD nodule detection. Measure all nodules ≥3mm. Lung-RADS reporting
-  nursing: No IV. Explain screening purpose and low radiation
-  rad: Lung nodule detection. Measure nodules. Emphysema assessment
-  tech: LOW DOSE technique. Reduced mAs 30-50% of standard. Helical acquisition. High
-    IR strength
-  tips: Low dose protocol. High iterative reconstruction. Nodule measurement software
-npo: N/A
-position: Supine with arms raised
-premedication: ''
+  additional_recons: MIP axial 5 mm pentru detecția nodulilor
+  nursing: Fără abord venos.
+  rad: Clasificare noduli conform Lung-RADS.
+  tech: Scanare în inspir profund. Menținerea strictă a dozei joase (CTDIvol < 3 mGy).
+  tips: Centrare atentă a pacientului în izocentru pentru a optimiza modulația dozei
+    de radiație.
+npo: Nu este necesar
+position: Decubit dorsal cu picioarele înainte și brațele ridicate
+premedication: Nu este necesară
 protocol_type: non-contrast
 recons:
-- acquisition: Chest
-  fov: Chest
-  ir_strength: High IR 4-5
-  kernel: Lung
-  notes: Thin slice nodule detection
+- acquisition: Nativ Doză Redusă
+  fov: Torace
+  ir_strength: '4'
+  kernel: Plămân
+  notes: Parenchim pulmonar
   plane: Axial
-  thickness_increment: 1.25 mm/1.25 mm
-- acquisition: Chest
-  fov: Chest
-  ir_strength: '3'
+  thickness_increment: 1.25 mm/1.0 mm
+- acquisition: Nativ Doză Redusă
+  fov: Torace
+  ir_strength: '4'
   kernel: Standard
-  notes: Mediastinal window
+  notes: Mediastin
   plane: Axial
   thickness_increment: 2.5 mm/2.5 mm
-- acquisition: Chest
-  fov: Chest
-  ir_strength: High IR
-  kernel: Lung
-  notes: Coronal overview
+- acquisition: Nativ Doză Redusă
+  fov: Torace
+  ir_strength: '4'
+  kernel: Plămân
+  notes: Plămân coronal
   plane: Coronal
-  thickness_increment: 2 mm/2 mm
-- acquisition: Chest
-  fov: Lungs
-  ir_strength: N/A
-  kernel: Lung
-  notes: Nodule detection
-  plane: MIP
-  thickness_increment: 5 mm slab
+  thickness_increment: 2.0 mm/2.0 mm
 safety:
-  allergy: N/A
-  renal: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
 series:
-- delay: N/A
-  end: Costophrenic angles
-  name: Low Dose Chest
-  notes: Low dose helical
-  start: Lung apices
-  thickness: 1-1.25 mm
+- delay: Imediat
+  end: Sinusuri costodiafragmatice
+  name: Torace Nativ Doză Redusă
+  notes: CTDIvol redus
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
 slug: non-contrast-ct-chest-low-dose
 synonyms: []
 tech_params:
+  aec: Activat (Protocol doză redusă / Ultra low-dose)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
   kv: 100-120
-  mas: Low dose (40-60 reference)
+  mas: Doză redusă (referință 40-60 mAs)
   pitch: 1.0-1.2
   rotation_time: 0.5s
-title: Non-Contrast CT Chest Low Dose
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 1.0 mm
+title: CT Torace Nativ Doză Redusă
 ---
 
-# Non-Contrast CT Chest Low Dose
+# CT Torace Nativ Doză Redusă
 
-**Last Updated:** 2026-01-01
-**Author:** None
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Low Dose Chest | N/A | Lung apices → Costophrenic angles |
+        | Torace Nativ Doză Redusă | Imediat | Vârfuri pulmonare → Sinusuri costodiafragmatice |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Non Contrast chest for patient's age < 60
+        - Screening cancer bronhopulmonar (fumători / foști fumători)
+        - Urmărire nodul pulmonar
+        - Evaluare leziuni parenchimatoase la pacienți asimptomatici
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    - **Pre-Medication:**
-        - None required
-
--   __3. IV Contrast & Injection__
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu picioarele înainte și brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - LOW DOSE technique. Reduced mAs 30-50% of standard. Helical acquisition. High IR strength
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Explain screening purpose and low radiation
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Doză redusă (referință 40-60 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Protocol doză redusă / Ultra low-dose) |
+    | **Grosime Secțiune Achiziție (Slice)** | 1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Lung nodule detection. Measure nodules. Emphysema assessment
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Low dose protocol. High iterative reconstruction. Nodule measurement software
+        - Scanare în inspir profund. Menținerea strictă a dozei joase (CTDIvol < 3 mGy).
+
+    === "Note Asistent"
+
+        - Fără abord venos.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Clasificare noduli conform Lung-RADS.
+
+    === "Sfaturi & Recomandări"
+
+        - Centrare atentă a pacientului în izocentru pentru a optimiza modulația dozei de radiație.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Low Dose Chest | Lung apices | Costophrenic angles | N/A | 1-1.25 mm | Low dose helical |
+    | Torace Nativ Doză Redusă | Vârfuri pulmonare | Sinusuri costodiafragmatice | Imediat | 1.0 mm | CTDIvol redus |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Chest | Chest | 1.25 mm/1.25 mm | Lung | High IR 4-5 | Thin slice nodule detection |
-    | Axial | Chest | Chest | 2.5 mm/2.5 mm | Standard | 3 | Mediastinal window |
-    | Coronal | Chest | Chest | 2 mm/2 mm | Lung | High IR | Coronal overview |
-    | MIP | Chest | Lungs | 5 mm slab | Lung | N/A | Nodule detection |
+    | Axial | Nativ Doză Redusă | Torace | 1.25 mm/1.0 mm | Plămân | 4 | Parenchim pulmonar |
+    | Axial | Nativ Doză Redusă | Torace | 2.5 mm/2.5 mm | Standard | 4 | Mediastin |
+    | Coronal | Nativ Doză Redusă | Torace | 2.0 mm/2.0 mm | Plămân | 4 | Plămân coronal |

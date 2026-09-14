@@ -1,1103 +1,1096 @@
 [
   {
     "slug": "ct-abdomen-pelvis-with-contrast",
-    "title": "CT Abdomen Pelvis with Contrast",
+    "title": "CT Abdomen \u0219i Pelvis cu Substan\u021b\u0103 de Contrast",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-abdomen-pelvis-with-contrast/",
     "synonyms": [],
     "clinical_indications": [
-      "Abdominal pain",
-      "Oncology staging",
-      "Infection source",
-      "Post-operative complications"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-adrenal-mass-protocol",
-    "title": "CT Adrenal Mass Protocol",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-adrenal-mass-protocol/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Adrenal mass characterization",
-      "Adenoma vs metastasis",
-      "Incidentaloma workup"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-biphasic-pancreas",
-    "title": "CT Biphasic Pancreas",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-biphasic-pancreas/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pancreatic mass",
-      "Pancreatitis",
-      "Pancreatic cyst characterization"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-chest-abdomen-pelvis-with-contrast",
-    "title": "CT Chest Abdomen Pelvis with Contrast",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-chest-abdomen-pelvis-with-contrast/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Oncology staging",
-      "Infection source",
-      "Abdominal pain"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-cystogram",
-    "title": "CT Cystogram",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-cystogram/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Bladder rupture",
-      "Bladder injury",
-      "Post-operative bladder assessment"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-enterography",
-    "title": "CT Enterography",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-enterography/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Crohn disease",
-      "Small bowel obstruction",
-      "Obscure GI bleeding",
-      "Small bowel mass"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-ivp-intravenous-pyelogram",
-    "title": "CT IVP (Intravenous Pyelogram)",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-ivp-intravenous-pyelogram/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Hematuria",
-      "Urothelial carcinoma",
-      "Collecting system evaluation",
-      "Hydronephrosis"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-kub-non-contrast",
-    "title": "CT KUB Non-Contrast",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-kub-non-contrast/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Nephrolithiasis",
-      "Renal colic",
-      "Flank pain",
-      "Hematuria"
-    ],
-    "category": "abdomen"
-  },
-  {
-    "slug": "ct-renal-mass-protocol",
-    "title": "CT Renal Mass Protocol",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-renal-mass-protocol/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Renal mass characterization",
-      "Renal cell carcinoma staging",
-      "Complex cyst evaluation"
+      "Dureri abdominale de cauz\u0103 neelucidat\u0103",
+      "Stadializare \u0219i reevaluare oncologic\u0103",
+      "Identificarea focarului de infec\u021bie intraabdominal",
+      "Complica\u021bii post-operatorii abdominale"
     ],
     "category": "abdomen"
   },
   {
     "slug": "ct-triple-phase-liver",
-    "title": "CT Triple Phase Liver",
+    "title": "CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Mas\u0103 Hepatic\u0103)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-triple-phase-liver/",
     "synonyms": [],
     "clinical_indications": [
-      "Liver lesion characterization",
-      "HCC surveillance",
-      "Liver mass protocol"
+      "Caracterizarea leziunilor focale hepatice",
+      "Supraveghere \u0219i diagnostic carcinom hepatocelular (HCC)",
+      "Stadializarea tumorilor hepatice primare sau secundare (metastaze hipervasculare)"
     ],
     "category": "abdomen"
   },
   {
-    "slug": "calcium-score",
-    "title": "Calcium Score",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/calcium-score/",
+    "slug": "ct-biphasic-pancreas",
+    "title": "CT Pancreas Bifazic (Protocol Mas\u0103 Pancreatic\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-biphasic-pancreas/",
     "synonyms": [],
     "clinical_indications": [
-      "Cardiovascular risk assessment",
-      "Chest pain low-intermediate risk",
-      "Asymptomatic screening",
-      "Elevated HLD",
-      "Significant cardiovascular risk factors"
+      "Forma\u021biune tumoral\u0103 pancreatic\u0103 / suspiciune adenocarcinom",
+      "Complica\u021bii pancreatit\u0103 acut\u0103 sau cronic\u0103",
+      "Caracterizarea leziunilor chistice pancreatice"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-renal-mass-protocol",
+    "title": "CT Protocol Mas\u0103 Renal\u0103 (Multifazic)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-renal-mass-protocol/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Caracterizarea maselor \u0219i forma\u021biunilor renale solide",
+      "Stadializarea carcinomului cu celule renale (RCC)",
+      "Evaluarea \u0219i clasificarea Bosniak a chisturilor renale complexe"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-adrenal-mass-protocol",
+    "title": "CT Protocol Mas\u0103 Suprarenalian\u0103 (Washout)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-adrenal-mass-protocol/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Caracterizarea forma\u021biunilor suprarenaliene",
+      "Diferen\u021biere adenom vs. metastaz\u0103",
+      "Bilan\u021b diagnostic incidentalom suprarenalian"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-kub-non-contrast",
+    "title": "CT Renal-Uretero-Vezical Nativ (CT KUB Doz\u0103 Redus\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-kub-non-contrast/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Litiaza reno-vezical\u0103 (nefrolitiaz\u0103 / ureterolitiaz\u0103)",
+      "Colic\u0103 renal\u0103 acut\u0103",
+      "Durere acut\u0103 \u00een flanc",
+      "Hematurie macroscopic\u0103 recent\u0103"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-chest-abdomen-pelvis-with-contrast",
+    "title": "CT Torace, Abdomen \u0219i Pelvis cu Substan\u021b\u0103 de Contrast",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-chest-abdomen-pelvis-with-contrast/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Bilan\u021b \u0219i stadializare oncologic\u0103 (CAP)",
+      "C\u0103utarea focarului de infec\u021bie / sindrom febril prelungit",
+      "Durere abdominal\u0103 \u0219i toracic\u0103 nespecific\u0103"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-cystogram",
+    "title": "Cisto-CT (Cistografie CT Retrograd\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-cystogram/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Suspiciune de ruptur\u0103 vezical\u0103 (intraperitoneal\u0103 vs. extraperitoneal\u0103)",
+      "Traumatism pelvin cu leziune vezical\u0103",
+      "Evaluare post-operatorie a integrit\u0103\u021bii vezicii urinare"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-enterography",
+    "title": "Entero-CT (Enterografie CT cu Contrast Neutru)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-enterography/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Boala Crohn (activitate, stenoze, traiecte fistuloase)",
+      "Ocluzie / subocluzie de intestin sub\u021bire de cauz\u0103 neclar\u0103",
+      "Hemoragie digestiv\u0103 obscur\u0103",
+      "Forma\u021biuni tumorale ale intestinului sub\u021bire (tumori carcinoide, GIST, limfoame)"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "ct-ivp-intravenous-pyelogram",
+    "title": "Uro-CT (Urografie CT / Pielografie Intravenoas\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/abdomen/ct-ivp-intravenous-pyelogram/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Hematurie microscopic\u0103 sau macroscopic\u0103",
+      "Suspiciune de carcinom urotelial",
+      "Evaluarea sistemului pielocaliceal \u0219i ureteral",
+      "Hidronefroz\u0103 de etiologie neprecizat\u0103"
+    ],
+    "category": "abdomen"
+  },
+  {
+    "slug": "gated-cta-heart-left-atrial-mapping",
+    "title": "Angio-CT Cardiac Sincronizat ECG Cartografiere Atriu St\u00e2ng & Vene Pulmonare",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-heart-left-atrial-mapping/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare pre-interven\u021bional\u0103 pentru abla\u021bia de fibrila\u021bie atrial\u0103 (izolare de vene pulmonare)",
+      "Evaluarea morfologiei \u0219i anomaliilor de drenaj ale venelor pulmonare",
+      "Excluderea trombozei de urechiu\u0219\u0103 atrial\u0103 st\u00e2ng\u0103 (LAA)"
     ],
     "category": "cardiac"
   },
   {
     "slug": "coronary-cta",
-    "title": "Coronary CTA",
+    "title": "Angio-CT Coronarian (Coronarografie CT)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/coronary-cta/",
     "synonyms": [],
     "clinical_indications": [
-      "Intermediate chest pain",
-      "Suspected infarct",
-      "Coronary artery dissection or aneurysm",
-      "Anomalous coronary artery",
-      "Stent patency"
+      "Durere toracic\u0103 cu probabilitate pre-test intermediar\u0103 de boal\u0103 coronarian\u0103",
+      "Suspiciune de sindrom coronarian acut f\u0103r\u0103 supradenivelare de segment ST (troponin\u0103 negativ\u0103)",
+      "Disec\u021bie coronarian\u0103 spontan\u0103 sau anevrisme de artere coronare (boal\u0103 Kawasaki etc.)",
+      "Anomalii congenitale de origine \u0219i traiect coronarian",
+      "Evaluarea permeabilit\u0103\u021bii stenturilor coronariene (>= 3 mm)"
     ],
     "category": "cardiac"
   },
   {
     "slug": "coronary-cta-post-cabg",
-    "title": "Coronary CTA Post-CABG",
+    "title": "Angio-CT Coronarian Post-By-pass Aorto-Coronarian (Post-CABG)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/coronary-cta-post-cabg/",
     "synonyms": [],
     "clinical_indications": [
-      "Post-CABG graft patency assessment",
-      "Recurrent chest pain post-bypass"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "endocarditiscardiac-mass",
-    "title": "Endocarditis/Cardiac Mass",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/endocarditiscardiac-mass/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Endocarditis",
-      "Cardiac mass",
-      "Valve vegetation",
-      "Intracardiac thrombus"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "gated-cta-cap",
-    "title": "Gated CTA CAP",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-cap/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Aortic dissection",
-      "Aortic aneurysm with cardiac involvement",
-      "Combined cardiac and aortic pathology"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "gated-cta-cap-sternotomy-revision",
-    "title": "Gated CTA CAP Sternotomy Revision",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-cap-sternotomy-revision/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-operative planning for redo sternotomy",
-      "Retrosternal structures assessment"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "gated-cta-chest",
-    "title": "Gated CTA Chest",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-chest/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Thoracic aortic dissection",
-      "Chest pain radiating to the back",
-      "Follow up thoracic aortic aneurysm"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "gated-cta-chest-post-op-cardiac-valve",
-    "title": "Gated CTA Chest Post-op Cardiac Valve",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-chest-post-op-cardiac-valve/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Post-operative valve assessment",
-      "Prosthetic valve evaluation",
-      "Post-surgical complications"
-    ],
-    "category": "cardiac"
-  },
-  {
-    "slug": "gated-cta-heart-left-atrial-mapping",
-    "title": "Gated CTA Heart Left Atrial Mapping",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-heart-left-atrial-mapping/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-ablation planning",
-      "Atrial fibrillation",
-      "Pulmonary vein anatomy"
+      "Evaluarea permeabilit\u0103\u021bii grefoanelor de bypass aorto-coronarian (arteriale \u0219i venoase)",
+      "Recuren\u021ba durerilor toracice anginoase sau a echivalentelor post-bypass",
+      "Planificare chirurgical\u0103 iterativ\u0103 sau interven\u021bional\u0103"
     ],
     "category": "cardiac"
   },
   {
     "slug": "gated-cta-tavr",
-    "title": "Gated CTA TAVR",
+    "title": "Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvular\u0103 Aortic\u0103 Transcateter)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-tavr/",
     "synonyms": [
       "TAVR, Transcatheter aortic valve replacement"
     ],
     "clinical_indications": [
-      "Pre-TAVR planning",
-      "Aortic stenosis valve replacement planning"
+      "Planificare pre-procedural\u0103 TAVR (implantare transcateter a valvei aortice)",
+      "Stenoz\u0103 aortic\u0103 sever\u0103 simptomatic\u0103 la pacien\u021bi cu indica\u021bie de TAVR"
     ],
     "category": "cardiac"
   },
   {
     "slug": "gated-cta-tmvr",
-    "title": "Gated CTA TMVR",
+    "title": "Angio-CT Sincronizat ECG Planificare TMVR (Implantare Valvular\u0103 Mitral\u0103 Transcateter)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-tmvr/",
     "synonyms": [],
     "clinical_indications": [
-      "Pre-TMVR planning",
-      "Mitral valve replacement planning",
-      "Mitral regurgitation"
+      "Planificare pre-procedural\u0103 TMVR (implantare mitral\u0103 transcateter sau valve-in-valve)",
+      "Insuficien\u021b\u0103 mitral\u0103 sever\u0103 sau disfunc\u021bie de protez\u0103 mitral\u0103",
+      "Evaluarea riscului de obstruc\u021bie a tractului de ejec\u021bie ventricular st\u00e2ng (LVOT)"
     ],
     "category": "cardiac"
   },
   {
     "slug": "gated-cta-ttvr",
-    "title": "Gated CTA TTVR",
+    "title": "Angio-CT Sincronizat ECG Planificare TTVR (Implantare Valvular\u0103 Tricuspid\u0103 Transcateter)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-ttvr/",
     "synonyms": [],
     "clinical_indications": [
-      "Pre-TTVR planning",
-      "Tricuspid valve replacement planning",
-      "Tricuspid regurgitation"
+      "Planificare pre-procedural\u0103 TTVR (\u00eenlocuire sau reparare transcateter de valv\u0103 tricuspid\u0103)",
+      "Regurgitare tricuspidian\u0103 sever\u0103 / toren\u021bial\u0103",
+      "M\u0103sur\u0103tori inel tricuspidian, atriu drept \u0219i raport cu vena cav\u0103 inferioar\u0103"
     ],
     "category": "cardiac"
   },
   {
+    "slug": "gated-cta-cap",
+    "title": "Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Aort\u0103 & Cord)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-cap/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Disec\u021bie acut\u0103 de aort\u0103 toraco-abdominal\u0103 (tip Stanford A sau B)",
+      "Anevrism extins de aort\u0103 cu interesarea r\u0103d\u0103cinii aortice sau a valvelor",
+      "Patologie combinat\u0103 valvular\u0103/coronarian\u0103 \u0219i aortic\u0103"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "gated-cta-cap-sternotomy-revision",
+    "title": "Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilan\u021b Resternotomie)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-cap-sternotomy-revision/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare pre-operatorie pentru resternotomie (chirurgie cardiac\u0103 secundar\u0103/iterativ\u0103)",
+      "Evaluarea raporturilor structurilor mediastinale anterioare cu sternul",
+      "M\u0103surarea distan\u021bei dintre peretele posterior sternal \u0219i cord / by-pass-uri"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "gated-cta-chest",
+    "title": "Angio-CT Torace Sincronizat ECG (Aort\u0103 Toracic\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-chest/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Disec\u021bie acut\u0103 de aort\u0103 toracic\u0103",
+      "Durere toracic\u0103 anterioar\u0103 sever\u0103 cu iradiere posterioar\u0103",
+      "Urm\u0103rirea anevrismelor de aort\u0103 toracic\u0103 sau a dilata\u021biilor r\u0103d\u0103cinii aortice"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "gated-cta-chest-post-op-cardiac-valve",
+    "title": "Angio-CT Torace Sincronizat ECG Post-Protezare Valvular\u0103 Cardiac\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/gated-cta-chest-post-op-cardiac-valve/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Evaluarea func\u021bional\u0103 a protezelor valvulare (mecanice sau biologice)",
+      "Suspiciune de dehiscen\u021b\u0103 protetic\u0103 sau leak paravalvular",
+      "Complica\u021bii post-operatorii valvulare: tromboz\u0103 de protez\u0103, forma\u021biuni de tip pannus, endocardit\u0103"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "calcium-score",
+    "title": "CT Scor de Calciu Coronarian (Scor Agatston)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/calcium-score/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Stratificarea riscului cardiovascular la pacien\u021bi asimptomatici",
+      "Durere toracic\u0103 la pacien\u021bi cu probabilitate pre-test sc\u0103zut\u0103 spre intermediar\u0103",
+      "Screening asimptomatic la pacien\u021bi cu antecedente heredo-colaterale precoce",
+      "Hipercolesterolemie / dislipidemie moderat-sever\u0103",
+      "Factori multipli de risc cardiovascular asocia\u021bi"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "endocarditiscardiac-mass",
+    "title": "CT Sincronizat ECG pentru Endocardit\u0103 / Mas\u0103 Intracardiac\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/cardiac/endocarditiscardiac-mass/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Suspiciune de endocardit\u0103 infec\u021bioas\u0103 pe valv\u0103 nativ\u0103 sau protez\u0103",
+      "Forma\u021biune tumoral\u0103 cardiac\u0103 (mixom, fibrom, sarcom, metastaze)",
+      "Vegeta\u021bii valvulare sau abces perivalvular/miocardic",
+      "Tromb intracardiac (urechiu\u0219\u0103 atrial\u0103 st\u00e2ng\u0103, apex VS)"
+    ],
+    "category": "cardiac"
+  },
+  {
+    "slug": "quantitative-lung-density-ct",
+    "title": "CT Cuantificare Densitate Pulmonar\u0103 (Emfizem)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/quantitative-lung-density-ct/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Evaluare \u0219i cuantificare emfizem pulmonar \u00een BPOC",
+      "Planificare tratament interven\u021bional de reducere volum pulmonar (valve endobron\u0219ice / chirurgie)",
+      "Monitorizare deficit de alfa-1 antitripsin\u0103"
+    ],
+    "category": "chest"
+  },
+  {
     "slug": "dynamic-airway-ct",
-    "title": "Dynamic Airway CT",
+    "title": "CT Dinamic de C\u0103i Aeriene",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/dynamic-airway-ct/",
     "synonyms": [],
     "clinical_indications": [
-      "Tracheobronchomalacia",
-      "Expiratory central airway collapse",
-      "EDAC"
+      "Traheobronhomalacie",
+      "Colaps expirator al c\u0103ilor aeriene centrale",
+      "EDAC (Colaps dinamic excesiv al c\u0103ilor aeriene)"
     ],
     "category": "chest"
   },
   {
     "slug": "non-contrast-ct-chest-low-dose",
-    "title": "Non-Contrast CT Chest Low Dose",
+    "title": "CT Torace Nativ Doz\u0103 Redus\u0103",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-contrast-ct-chest-low-dose/",
     "synonyms": [],
     "clinical_indications": [
-      "Non Contrast chest for patient's age < 60"
-    ],
-    "category": "chest"
-  },
-  {
-    "slug": "non-contrast-ct-chest-routine",
-    "title": "Non-Contrast CT Chest Routine",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-contrast-ct-chest-routine/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Age > 60",
-      "Chest pain low risk"
+      "Screening cancer bronhopulmonar (fum\u0103tori / fo\u0219ti fum\u0103tori)",
+      "Urm\u0103rire nodul pulmonar",
+      "Evaluare leziuni parenchimatoase la pacien\u021bi asimptomatici"
     ],
     "category": "chest"
   },
   {
     "slug": "non-contrast-chest-lung-nodule-ultra-low-dose",
-    "title": "Non-Contrast Chest Lung Nodule Ultra Low Dose",
+    "title": "CT Torace Nativ Doz\u0103 Ultra-Redus\u0103 (Nodul Pulmonar)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-contrast-chest-lung-nodule-ultra-low-dose/",
     "synonyms": [],
     "clinical_indications": [
-      "Pulmonary nodule follow-up",
-      "Known nodule surveillance"
+      "Urm\u0103rire nodul pulmonar solid/subsolid cunoscut",
+      "Screening cancer pulmonar la pacien\u021bi eligibili",
+      "Pacien\u021bi tineri care necesit\u0103 scan\u0103ri repetate de control"
     ],
     "category": "chest"
   },
   {
-    "slug": "non-volumetric-hrct-1-phase-prone",
-    "title": "Non-Volumetric HRCT 1 Phase Prone",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-volumetric-hrct-1-phase-prone/",
+    "slug": "non-contrast-ct-chest-routine",
+    "title": "CT Torace Nativ de Rutin\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-contrast-ct-chest-routine/",
     "synonyms": [],
     "clinical_indications": [
-      "Dependent atelectasis vs fibrosis",
-      "Posterior lung assessment",
-      "ILD with gravity-dependent changes"
+      "Evaluare pneumonie / condensare alveolar\u0103 / infec\u021bie",
+      "Tuse cronic\u0103 sau hemoptizie u\u0219oar\u0103 f\u0103r\u0103 suspiciune TEP",
+      "Evaluare emfizem pulmonar \u0219i bron\u0219iectazii",
+      "Contraindica\u021bie la substan\u021b\u0103 de contrast iodat\u0103"
     ],
     "category": "chest"
   },
   {
     "slug": "non-volumetric-hrct-1-respiratory-phase",
-    "title": "Non-Volumetric HRCT 1 Respiratory Phase",
+    "title": "HRCT Non-Volumetric 1 Faz\u0103 Respiratorie",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-volumetric-hrct-1-respiratory-phase/",
     "synonyms": [],
     "clinical_indications": [
-      "HRCT follow-up",
-      "Known ILD monitoring",
-      "Bronchiectasis assessment"
+      "Evaluare ini\u021bial\u0103 pneumopatie intersti\u021bial\u0103 difuz\u0103 (PID)",
+      "Suspiciune fibroz\u0103 pulmonar\u0103 idiopatic\u0103 (FPI)",
+      "Afectare pulmonar\u0103 \u00een boli de colagen / vasculite"
+    ],
+    "category": "chest"
+  },
+  {
+    "slug": "non-volumetric-hrct-1-phase-prone",
+    "title": "HRCT Non-Volumetric 1 Faz\u0103 \u00een Decubit Ventral (Procubitus)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-volumetric-hrct-1-phase-prone/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Diferen\u021bierea atelectaziilor posterioare dependente de fibroza subpleural\u0103 precoce",
+      "Suspiciune de azbestoz\u0103 sau expunere profesional\u0103",
+      "Confirmare pattern UIP incipient"
     ],
     "category": "chest"
   },
   {
     "slug": "non-volumetric-hrct-3-respiratory-phases",
-    "title": "Non-Volumetric HRCT 3 Respiratory Phases",
+    "title": "HRCT Non-Volumetric 3 Faze Respiratorii",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/non-volumetric-hrct-3-respiratory-phases/",
     "synonyms": [],
     "clinical_indications": [
-      "Interstitial lung disease",
-      "Air trapping assessment",
-      "Constrictive bronchiolitis",
-      "Hypersensitivity pneumonitis"
-    ],
-    "category": "chest"
-  },
-  {
-    "slug": "quantitative-lung-density-ct",
-    "title": "Quantitative Lung Density CT",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/quantitative-lung-density-ct/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Bronchiolitis Obliterans Syndrome",
-      "Emphysema quantification",
-      "COPD assessment"
+      "Pneumonit\u0103 de hipersensibilitate (pattern capcan\u0103 de aer)",
+      "Bron\u0219iolit\u0103 constrictiv\u0103 / Boal\u0103 a c\u0103ilor aeriene mici",
+      "Diferen\u021bierea atenu\u0103rii \u00een mozaic (vascular vs obstructiv)"
     ],
     "category": "chest"
   },
   {
     "slug": "volumetric-hrct-2-respiratory-phases",
-    "title": "Volumetric HRCT 2 Respiratory Phases",
+    "title": "HRCT Volumetric 2 Faze Respiratorii (Inspir/Expir)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/chest/volumetric-hrct-2-respiratory-phases/",
     "synonyms": [],
     "clinical_indications": [
-      "Interstitial lung disease without prone imaging",
-      "ILD diagnosis",
-      "Diffuse lung disease"
+      "Boal\u0103 a c\u0103ilor aeriene mici (small airway disease)",
+      "Pneumonit\u0103 de hipersensibilitate",
+      "Astm refractar \u0219i bron\u0219iolit\u0103 obliterant\u0103",
+      "Evaluare combinat\u0103 intersti\u021biu + capcan\u0103 aeric\u0103"
     ],
     "category": "chest"
   },
   {
-    "slug": "ct-ankle",
-    "title": "CT Ankle",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-ankle/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Ankle fracture",
-      "Ligament injury",
-      "Pilon fracture",
-      "Pre-operative planning",
-      "Hardware assessment"
-    ],
-    "category": "msk"
-  },
-  {
     "slug": "ct-arthrogram-shoulder",
-    "title": "CT Arthrogram Shoulder",
+    "title": "Artro-CT Um\u0103r",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-arthrogram-shoulder/",
     "synonyms": [],
     "clinical_indications": [
-      "Labral tear",
-      "Rotator cuff tear",
-      "Capsular injury",
-      "Shoulder instability"
+      "Leziuni de burelet glenoidian (labrum) - leziuni SLAP, Bankart",
+      "Rupturi par\u021biale sau transfixiante ale coafei rotatorilor",
+      "Instabilitate glenohumeral\u0103 recidivant\u0103 / luxa\u021bie anterioar\u0103 sau posterioar\u0103",
+      "Leziuni capsulo-ligamentare (ligamente glenohumerale)"
     ],
     "category": "msk"
   },
   {
     "slug": "ct-elbow",
-    "title": "CT Elbow",
+    "title": "CT Cot",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-elbow/",
     "synonyms": [],
     "clinical_indications": [
-      "Elbow fracture",
-      "Radial head fracture",
-      "Olecranon fracture",
-      "Coronoid",
-      "Terrible triad"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-foot",
-    "title": "CT Foot",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-foot/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Foot fracture",
-      "Lisfranc injury",
-      "Tarsal fractures",
-      "Foreign body",
-      "Pre-operative planning"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-gout-protocol",
-    "title": "CT Gout Protocol",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-gout-protocol/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Gout",
-      "Tophi",
-      "Urate deposition",
-      "CPPD",
-      "Crystal arthropathy"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-hand",
-    "title": "CT Hand",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-hand/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Hand fracture",
-      "Scaphoid fracture",
-      "Metacarpal fracture",
-      "Foreign body",
-      "Pre-operative planning"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-hip",
-    "title": "CT Hip",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-hip/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Hip fracture",
-      "Acetabular fracture",
-      "Femoral neck",
-      "Pre-operative planning",
-      "FAI assessment"
+      "Fracturi ale cotului (palet\u0103 humeral\u0103, capitul, trohlee)",
+      "Fractur\u0103 de cap sau col radial",
+      "Fractur\u0103 de olecranon sau apofiz\u0103 coronoid\u0103",
+      "Luxa\u021bie de cot / Triad\u0103 teribil\u0103 (luxa\u021bie + fractur\u0103 coronoid\u0103 + cap radial)"
     ],
     "category": "msk"
   },
   {
     "slug": "ct-knee",
-    "title": "CT Knee",
+    "title": "CT Genunchi",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-knee/",
     "synonyms": [],
     "clinical_indications": [
-      "Knee fracture",
-      "Tibial plateau",
-      "Patellar fracture",
-      "Pre-operative planning",
-      "Hardware evaluation"
+      "Fracturi de platou tibial (clasificare Schatzker)",
+      "Fracturi ale condililor femurali",
+      "Fracturi de rotul\u0103",
+      "Planificare chirurgical\u0103 osteosintez\u0103 sau artroplastie",
+      "Evaluarea materialului de osteosintez\u0103 sau a protezei de genunchi"
+    ],
+    "category": "msk"
+  },
+  {
+    "slug": "ct-ankle",
+    "title": "CT Glezn\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-ankle/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Fracturi de glezn\u0103 (maleol\u0103 intern\u0103, extern\u0103, posterioar\u0103)",
+      "Fractur\u0103 de pilon tibial",
+      "Leziuni ale sindesmozei tibio-fibulare \u0219i ligamentare",
+      "Planificare chirurgical\u0103 pre-operatorie / evaluare osteosintez\u0103"
     ],
     "category": "msk"
   },
   {
     "slug": "ct-lower-extremity",
-    "title": "CT Lower Extremity",
+    "title": "CT Membru Inferior (Segmentar)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-lower-extremity/",
     "synonyms": [],
     "clinical_indications": [
-      "Lower extremity fracture",
-      "Tibia/fibula",
-      "Femur",
-      "Post-operative hardware assessment"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-pelvis-msk",
-    "title": "CT Pelvis MSK",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-pelvis-msk/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pelvic fracture",
-      "Sacral fracture",
-      "SI joint",
-      "Pelvic ring injury",
-      "Pre-operative planning"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-shoulder",
-    "title": "CT Shoulder",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-shoulder/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Shoulder fracture",
-      "Proximal humerus",
-      "Glenoid",
-      "Scapula",
-      "Rotator cuff calcification"
+      "Fracturi diafizare sau metafizo-epifizare complexe ale membrului inferior",
+      "Fracturi de femur, tibie sau fibul\u0103",
+      "Evaluarea calusului osos, a pseudartrozei sau a materialelor de osteosintez\u0103",
+      "Suspiciune de osteomielit\u0103 sau colec\u021bie a p\u0103r\u021bilor moi"
     ],
     "category": "msk"
   },
   {
     "slug": "ct-upper-extremity",
-    "title": "CT Upper Extremity",
+    "title": "CT Membru Superior (Segmentar)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-upper-extremity/",
     "synonyms": [],
     "clinical_indications": [
-      "Upper extremity fracture",
-      "Humerus",
-      "Radius/ulna",
-      "Forearm",
-      "Elbow injury"
-    ],
-    "category": "msk"
-  },
-  {
-    "slug": "ct-wrist",
-    "title": "CT Wrist",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-wrist/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Wrist fracture",
-      "Distal radius fracture",
-      "Carpal fracture",
-      "DRUJ",
-      "Scapholunate ligament"
+      "Fracturi ale membrului superior (humerus diafizar, radius, uln\u0103)",
+      "Fracturi complexe de antebra\u021b (Monteggia, Galeazzi)",
+      "Evaluarea alinierii, calusului osos sau a materialului de osteosintez\u0103"
     ],
     "category": "msk"
   },
   {
     "slug": "msk-protocol-general",
-    "title": "MSK Protocol General",
+    "title": "CT Musculoscheletic General (P\u0103r\u021bi Moi / Osos)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/msk-protocol-general/",
     "synonyms": [],
     "clinical_indications": [
-      "Pre-operative planning",
-      "Post-operative assessment",
-      "Infection",
-      "Mass",
-      "Soft tissue tumor",
-      "Abscess"
+      "Planificare pre-operatorie ortopedic\u0103 sau tumoral\u0103",
+      "Bilan\u021b post-operator al consolid\u0103rii sau complica\u021biilor",
+      "Suspiciune de proces infec\u021bios musculoscheletic (osteomielit\u0103, flegmon, abces de p\u0103r\u021bi moi)",
+      "Forma\u021biune tumoral\u0103 de p\u0103r\u021bi moi sau osoas\u0103 primar\u0103/secundar\u0103"
     ],
     "category": "msk"
   },
   {
-    "slug": "brain-stroke-protocol",
-    "title": "Brain Stroke Protocol",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/brain-stroke-protocol/",
+    "slug": "ct-hand",
+    "title": "CT M\u00e2n\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-hand/",
     "synonyms": [],
     "clinical_indications": [
-      "Acute stroke",
-      "CVA",
-      "Neurological deficit < 24 hours",
-      "Stroke code"
+      "Fracturi ale m\u00e2inii (metacarpiene, falange)",
+      "Fractur\u0103 de scafoid sau alte oase carpiene",
+      "Suspiciune de corp str\u0103in radioopac",
+      "Planificare chirurgical\u0103 a reducerii anatomice a fracturilor articulare"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-cervical-spine",
-    "title": "CT Cervical Spine",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-cervical-spine/",
+    "slug": "ct-pelvis-msk",
+    "title": "CT Pelvis Osos / Bazin (MSK)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-pelvis-msk/",
     "synonyms": [],
     "clinical_indications": [
-      "Cervical spine trauma",
-      "Degenerative disease",
-      "Neck pain",
-      "Radiculopathy",
-      "Myelopathy"
+      "Fracturi ale inelului pelvin (clasificare Young-Burgess / Tile)",
+      "Fracturi sacrate (clasificare Denis)",
+      "Disjunc\u021bie a articula\u021biilor sacroiliace sau a simfizei pubiene",
+      "Planificare chirurgical\u0103 pre-operatorie pentru fixare intern\u0103"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-complete-spine",
-    "title": "CT Complete Spine",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-complete-spine/",
+    "slug": "ct-foot",
+    "title": "CT Picior",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-foot/",
     "synonyms": [],
     "clinical_indications": [
-      "Spine trauma pan-scan",
-      "Multi-level disease",
-      "Metastatic survey",
-      "Infection"
+      "Fracturi de oase tarsiene (calcaneu, talus, navicular, cuboid, cuneiforme)",
+      "Leziune sau disjunc\u021bie a articula\u021biei Lisfranc sau Chopart",
+      "Fracturi de metatarsiene \u0219i falange",
+      "Corpi str\u0103ini radiopaci / planificare chirurgical\u0103 osteosintez\u0103"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-facial-bones",
-    "title": "CT Facial Bones",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-facial-bones/",
+    "slug": "ct-gout-protocol",
+    "title": "CT Protocol Gut\u0103 (DECT - Dual Energy)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-gout-protocol/",
     "synonyms": [],
     "clinical_indications": [
-      "Facial trauma",
-      "Orbital fractures",
-      "Zygoma fractures",
-      "Nasal fractures",
-      "Mandible fractures"
+      "Artrit\u0103 gutoas\u0103 / depuneri de cristale de urat monosodic",
+      "Tofi guto\u0219i intraarticulari sau periarticulari",
+      "Diferen\u021biere gut\u0103 vs. condrocalcinoz\u0103 (pseudogut\u0103 - CPPD)",
+      "Cuantificarea volumului total de depozite de urat \u0219i evaluarea r\u0103spunsului terapeutic"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-head-3d-stereotactic",
-    "title": "CT Head 3D Stereotactic",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-head-3d-stereotactic/",
+    "slug": "ct-wrist",
+    "title": "CT Pumn / Articula\u021bie Radio-Carpian\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-wrist/",
     "synonyms": [],
     "clinical_indications": [
-      "Stereotactic surgery planning",
-      "DBS planning",
-      "Biopsy planning",
-      "Surgical navigation",
-      "Gamma knife"
+      "Fracturi ale extremit\u0103\u021bii distale a radiusului (Pouteau-Colles, Goyrand-Smith, Barton)",
+      "Fracturi de oase carpiene (scafoid, semilunar, piramidal, pisiform, trapez etc.)",
+      "Instabilitate a articula\u021biei radio-ulnare distale (RUD)",
+      "Leziune sau disjunc\u021bie a ligamentului scapholunatar (SLAC wrist)"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-lumbar-spine",
-    "title": "CT Lumbar Spine",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-lumbar-spine/",
+    "slug": "ct-shoulder",
+    "title": "CT Um\u0103r",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-shoulder/",
     "synonyms": [],
     "clinical_indications": [
-      "Lumbar spine trauma",
-      "Degenerative disease",
-      "Back pain",
-      "Radiculopathy",
-      "Sciatica"
+      "Fracturi ale epifizei proximale humerale (clasificare Neer)",
+      "Fracturi ale cavit\u0103\u021bii glenoide (Bankart osos, fracturi de margini glenoide)",
+      "Fracturi ale scapulei (corp, spina, coracoid\u0103, acromion)",
+      "Calcific\u0103ri periarticulare (tendinopatie calcifiant\u0103 a coafei rotatorilor)"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-myelogram",
-    "title": "CT Myelogram",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-myelogram/",
+    "slug": "ct-hip",
+    "title": "CT \u0218old (Articula\u021bie Coxo-Femural\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/msk/ct-hip/",
     "synonyms": [],
     "clinical_indications": [
-      "Post-myelogram CT",
-      "Intrathecal contrast follow-up",
-      "Spinal stenosis",
-      "Nerve root compression"
+      "Fractur\u0103 de \u0219old (col femural, trohanterian\u0103, subtrohanterian\u0103)",
+      "Fractur\u0103 de cotil / acetabul (clasificare Letournel)",
+      "Luxa\u021bie traumatic\u0103 posterioar\u0103 sau anterioar\u0103 de \u0219old",
+      "Conflict femuro-acetabular (FAI - Cam/Pincer)",
+      "Necroz\u0103 avascular\u0103 de cap femural (NAVCF)"
     ],
-    "category": "neuro"
+    "category": "msk"
   },
   {
-    "slug": "ct-orbits",
-    "title": "CT Orbits",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-orbits/",
+    "slug": "cta-neck",
+    "title": "Angio-CT Artere Cervicale / Carotide \u0219i Vertebrale",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/cta-neck/",
     "synonyms": [],
     "clinical_indications": [
-      "Orbital mass",
-      "Thyroid eye disease",
-      "Orbital cellulitis",
-      "Optic nerve assessment",
-      "Trauma"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-parathyroid-4d",
-    "title": "CT Parathyroid 4D",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-parathyroid-4d/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Hyperparathyroidism",
-      "Parathyroid adenoma localization",
-      "Pre-operative parathyroid planning"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-sinus",
-    "title": "CT Sinus",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-sinus/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Sinusitis",
-      "Sinus disease",
-      "Pre-operative sinus surgery",
-      "Nasal obstruction"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-sinus-stereotactic",
-    "title": "CT Sinus Stereotactic",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-sinus-stereotactic/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-operative sinus surgery planning",
-      "Image-guided surgery",
-      "ENT surgical navigation"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-soft-tissue-neck",
-    "title": "CT Soft Tissue Neck",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-soft-tissue-neck/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Neck mass",
-      "Deep neck infection",
-      "Abscess",
-      "Airway assessment",
-      "Lymphadenopathy"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-temporal-bones",
-    "title": "CT Temporal Bones",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-temporal-bones/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Hearing loss",
-      "Chronic otitis",
-      "Cholesteatoma",
-      "Temporal bone fracture",
-      "Pre-operative cochlear implant"
-    ],
-    "category": "neuro"
-  },
-  {
-    "slug": "ct-thoracic-spine",
-    "title": "CT Thoracic Spine",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-thoracic-spine/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Thoracic spine trauma",
-      "Compression fracture",
-      "Back pain",
-      "Tumor",
-      "Infection"
+      "Stenoz\u0103 carotidian\u0103 aterosclerotic\u0103",
+      "Disec\u021bie de arter\u0103 carotid\u0103 intern\u0103 sau arter\u0103 vertebral\u0103",
+      "Bilan\u021b pre-endarterectomie carotidian\u0103 (CEA) sau stentare (CAS)",
+      "Suflu carotidian asimptomatic"
     ],
     "category": "neuro"
   },
   {
     "slug": "cta-head",
-    "title": "CTA Head",
+    "title": "Angio-CT Cerebral (Poligonul Willis)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/cta-head/",
     "synonyms": [],
     "clinical_indications": [
-      "Aneurysm screening",
-      "Subarachnoid hemorrhage",
-      "Vascular malformation",
-      "Intracranial stenosis"
+      "Screening \u0219i diagnostic anevrisme intracraniene",
+      "Hemoragie subarahnoidian\u0103 (HSA) non-traumatic\u0103",
+      "Malforma\u021bii vasculare intracraniene (MAV, fistule durale)",
+      "Stenoze arteriale intracraniene"
     ],
     "category": "neuro"
   },
   {
     "slug": "cta-head-and-neck-arch-to-vertex",
-    "title": "CTA Head and Neck (Arch to Vertex)",
+    "title": "Angio-CT Vase G\u00e2t \u0219i Poligon Willis (Arc Aortic - Vertex)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/cta-head-and-neck-arch-to-vertex/",
     "synonyms": [],
     "clinical_indications": [
-      "Stroke workup",
-      "Carotid stenosis",
-      "Vertebral artery dissection",
-      "Aneurysm screening"
+      "Bilan\u021b complet AVC ischemic / accident ischemic tranzitor (AIT)",
+      "Stenoz\u0103 carotidian\u0103 extracranian\u0103 sau intracranian\u0103",
+      "Disec\u021bie de arter\u0103 carotid\u0103 sau vertebral\u0103",
+      "Screening anevrisme cerebrale \u0219i malforma\u021bii arteriovenoase (MAV)"
     ],
     "category": "neuro"
   },
   {
-    "slug": "cta-neck",
-    "title": "CTA Neck",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/cta-neck/",
+    "slug": "ct-parathyroid-4d",
+    "title": "CT 4D Glande Paratiroide",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-parathyroid-4d/",
     "synonyms": [],
     "clinical_indications": [
-      "Carotid stenosis",
-      "Vertebral artery dissection",
-      "Neck vessel assessment",
-      "Pre-CEA planning"
+      "Hiperparatiroidism primar sau secundar refractar",
+      "Localizarea pre-operatorie a adenomului paratiroidian (eutopic sau ectopic)",
+      "Chirurgie paratiroidian\u0103 minim invaziv\u0103 orientat\u0103"
     ],
     "category": "neuro"
   },
   {
-    "slug": "ctv-head",
-    "title": "CTV Head",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ctv-head/",
+    "slug": "ct-head-3d-stereotactic",
+    "title": "CT Cerebral 3D Stereotaxic (Planificare Neurochirurgical\u0103 / Neuronaviga\u021bie)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-head-3d-stereotactic/",
     "synonyms": [],
     "clinical_indications": [
-      "Venous sinus thrombosis",
-      "Dural sinus thrombosis",
-      "Intracranial hypertension",
-      "Venous malformation"
+      "Planificare pre-operatorie stereotaxic\u0103 / neuronaviga\u021bie intraoperatorie",
+      "Stimulare cerebral\u0103 profund\u0103 (DBS - Deep Brain Stimulation)",
+      "Punc\u021bie-biopsie cerebral\u0103 stereotaxic\u0103",
+      "Planificare radiochirurgie stereotaxic\u0103 (Gamma Knife / CyberKnife)"
     ],
     "category": "neuro"
   },
   {
     "slug": "non-contrast-ct-head",
-    "title": "Non-Contrast CT Head",
+    "title": "CT Cerebral Nativ",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/non-contrast-ct-head/",
     "synonyms": [],
     "clinical_indications": [
-      "Acute stroke protocol",
-      "Head trauma",
-      "Headache - worst of life",
-      "Altered mental status"
+      "Protocol de prim\u0103 inten\u021bie \u00een suspiciunea de AVC acut",
+      "Traumatism cranio-cerebral (TCC)",
+      "Cefalee acut\u0103 brutal\u0103 sever\u0103 ('cea mai intens\u0103 durere de cap din via\u021b\u0103')",
+      "Alterarea st\u0103rii de con\u0219tien\u021b\u0103 / com\u0103 / confuzie inexplicabil\u0103",
+      "Suspiciune de hemoragie intracranian\u0103 sau hidrocefalie acut\u0103"
     ],
     "category": "neuro"
   },
   {
-    "slug": "pregnant-trauma-ct-ap",
-    "title": "Pregnant Trauma CT AP",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/pregnant-trauma-ct-ap/",
+    "slug": "ct-cervical-spine",
+    "title": "CT Coloan\u0103 Cervical\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-cervical-spine/",
     "synonyms": [],
     "clinical_indications": [
-      "Pregnant trauma patient",
-      "Multi-trauma pregnancy",
-      "Maternal injury assessment"
+      "Traumatism de coloan\u0103 cervical\u0103 / accident rutier / c\u0103dere",
+      "Cervicalgie acut\u0103 sau cronic\u0103 sever\u0103",
+      "Radiculopatie cervico-brahial\u0103",
+      "Mielopatie cervical\u0103 spondilotic\u0103"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-lumbar-spine",
+    "title": "CT Coloan\u0103 Lombar\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-lumbar-spine/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Traumatism de coloan\u0103 vertebral\u0103 lombar\u0103",
+      "Boal\u0103 degenerativ\u0103 discal\u0103 / hernie de disc lombar\u0103",
+      "Lombosciatic\u0103 / radiculopatie L4, L5, S1",
+      "Stenoz\u0103 de canal vertebral lombar sau foramen",
+      "Spondiloliz\u0103 \u0219i spondilolistezis"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-thoracic-spine",
+    "title": "CT Coloan\u0103 Toracal\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-thoracic-spine/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Traumatism de coloan\u0103 toracal\u0103",
+      "Fractur\u0103 prin tasare osteoporotic\u0103 sau traumatic\u0103",
+      "Dorsalgie sever\u0103 persistent\u0103",
+      "Suspiciune de proces expansiv tumoral sau infec\u021bios"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-complete-spine",
+    "title": "CT Coloan\u0103 Vertebral\u0103 Complet\u0103 (Cervico-Toraco-Lombar\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-complete-spine/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Pan-scan \u00een politraumatism sever cu leziuni vertebrale multiple suspectate",
+      "Bilan\u021b lezional multietajat",
+      "Bilan\u021b metastaze osoase vertebrale (diseminare secundar\u0103)",
+      "Spondilodiscit\u0103 multifocal\u0103"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-facial-bones",
+    "title": "CT Masiv Facial \u0219i Schelet Nazal",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-facial-bones/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Traumatism maxilo-facial / agresiune fizic\u0103",
+      "Fracturi ale orbitelor (blow-out) \u0219i arcurilor zigomatice",
+      "Fracturi de piramid\u0103 nazal\u0103 \u0219i sept nazal",
+      "Fracturi de mandibul\u0103 \u0219i ale complexului nazo-orbito-etmoidal (NOE)"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-orbits",
+    "title": "CT Orbite",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-orbits/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Forma\u021biune tumoral\u0103 intraorbitar\u0103 sau a glandei lacrimale",
+      "Oftalmopatie tiroidian\u0103 / boal\u0103 Basedow-Graves (exoftalmie)",
+      "Celulit\u0103 orbitar\u0103 (preseptal\u0103 vs. postseptal\u0103) / abces subperiostal",
+      "Traumatism orbitar (fractur\u0103 de plan\u0219eu / fractur\u0103 blow-out, corp str\u0103in intraocular)",
+      "Neuropatie optic\u0103 / evaluarea canalului optic"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-soft-tissue-neck",
+    "title": "CT P\u0103r\u021bi Moi G\u00e2t / Regiune Cervical\u0103 cu Substan\u021b\u0103 de Contrast",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-soft-tissue-neck/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Forma\u021biune tumoral\u0103 cervical\u0103 / suspiciune neoplazie c\u0103i aero-digestive superioare",
+      "Infec\u021bie profund\u0103 a spa\u021biilor g\u00e2tului (flegmon periamigdalian, abces retrofaringian, abces parafaringian)",
+      "Adenopatii cervicale de etiologie necunoscut\u0103",
+      "Evaluarea c\u0103ilor respiratorii superioare (laringe, trahee cervical\u0103)"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-sinus",
+    "title": "CT Sinusuri Paranazale (Nativ)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-sinus/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Sinuzit\u0103 cronic\u0103 sau recurent\u0103",
+      "Polipoz\u0103 nazal\u0103 / rinosinusal\u0103",
+      "Obstruc\u021bie nazal\u0103 / devia\u021bie de sept nazal",
+      "Bilan\u021b anatomic pre-operator ORL"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-sinus-stereotactic",
+    "title": "CT Sinusuri Paranazale Stereotaxic (Neuronaviga\u021bie ORL)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-sinus-stereotactic/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare chirurgical\u0103 endoscopic\u0103 rinosinusal\u0103 (FESS)",
+      "Chirurgie ghidat\u0103 prin imagine (IGS - Image-Guided Surgery)",
+      "Polipoz\u0103 rinosinusal\u0103 masiv\u0103 recidivat\u0103 / reinterven\u021bie ORL"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-temporal-bones",
+    "title": "CT St\u00e2nci Temporale / Ureche Medie \u0219i Intern\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-temporal-bones/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Hipoacuzie de transmisie, neurosenzorial\u0103 sau mixt\u0103",
+      "Otite medii cronice / otomastoidit\u0103",
+      "Suspiciune de colesteatom",
+      "Fractur\u0103 de st\u00e2nc\u0103 temporal\u0103 (longitudinal\u0103 / transversal\u0103)",
+      "Bilan\u021b pre-implant cohlear"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ctv-head",
+    "title": "Flebo-CT Cerebral (CTV Sinusuri Venoase Durale)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ctv-head/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Tromboz\u0103 de sinusuri venoase cerebrale (tromboflebit\u0103 cerebral\u0103)",
+      "Hipertensiune intracranian\u0103 idiopatic\u0103 (pseudotumor cerebri)",
+      "Malforma\u021bii arteriovenoase durale cu flux inversat",
+      "Bilan\u021b tumoral cu invazie de sinus sagital superior sau lateral"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "ct-myelogram",
+    "title": "Mielo-CT (Mielografie CT)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/ct-myelogram/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Evaluare post-mielografie cu contrast intratecal",
+      "Stenoz\u0103 sever\u0103 de canal rahidian la pacien\u021bi cu contraindica\u021bie absolut\u0103 de RMN (pacemaker, implanturi)",
+      "Compresiune radicular\u0103 / avulsie de r\u0103d\u0103cini nervoase",
+      "Fistul\u0103 de lichid cefalorahidian (LCR) / hipotensiune intracranian\u0103 spontan\u0103"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "brain-stroke-protocol",
+    "title": "Protocol CT AVC Acut (Cod AVC Cerebral)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/neuro/brain-stroke-protocol/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Accident vascular cerebral ischemic acut (Cod AVC)",
+      "Deficit neurologic focal cu debut brusc (< 24 ore)",
+      "Candidat pentru tromboliz\u0103 intravenoas\u0103 \u0219i/sau trombectomie mecanic\u0103"
+    ],
+    "category": "neuro"
+  },
+  {
+    "slug": "trauma-lower-extremity-runoff-cta",
+    "title": "Angio-CT Membre Inferioare \u00een Traumatism (Runoff Extremit\u0103\u021bi)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-lower-extremity-runoff-cta/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Leziune vascular\u0103 post-traumatic\u0103 la nivelul membrului inferior",
+      "Plag\u0103 penetrant\u0103 prin arm\u0103 alb\u0103 sau foc cu traiect vascular",
+      "Fractur\u0103 sau luxa\u021bie sever\u0103 asociat\u0103 cu absen\u021ba pulsului distal",
+      "Sindrom de ischemie acut\u0103 post-traumatic\u0103 sau suspiciune de compartiment"
     ],
     "category": "trauma"
   },
   {
     "slug": "trauma-cta-chest-with-pv-ct-ap",
-    "title": "Trauma CTA Chest with PV CT AP",
+    "title": "Angio-CT Torace cu CT Abdomen \u0219i Pelvis \u00een Faz\u0103 Portal\u0103 (Traum\u0103)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-cta-chest-with-pv-ct-ap/",
     "synonyms": [],
     "clinical_indications": [
-      "Blunt thoracic trauma",
-      "Aortic injury",
-      "Great vessel injury",
-      "Multi-trauma"
+      "Traumatism toracic \u00eenchis cu suspiciune de leziune aortic\u0103 traumatic\u0103",
+      "Leziune traumatic\u0103 a vaselor mari intratoracice",
+      "Politraumatism toraco-abdominal sever"
     ],
     "category": "trauma"
   },
   {
-    "slug": "trauma-chest-ct",
-    "title": "Trauma Chest CT",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-chest-ct/",
+    "slug": "pregnant-trauma-ct-ap",
+    "title": "CT Abdomen \u0219i Pelvis \u00een Traumatism la Gravid\u0103",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/pregnant-trauma-ct-ap/",
     "synonyms": [],
     "clinical_indications": [
-      "Blunt chest trauma",
-      "Rib fractures",
-      "Pneumothorax",
-      "Hemothorax"
-    ],
-    "category": "trauma"
-  },
-  {
-    "slug": "trauma-code-aaa",
-    "title": "Trauma Code AAA",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-code-aaa/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Ruptured AAA",
-      "Aortic emergency",
-      "Hemodynamic instability with abdominal pain"
-    ],
-    "category": "trauma"
-  },
-  {
-    "slug": "trauma-head-c-spine-and-facial-bones",
-    "title": "Trauma Head C-Spine and Facial Bones",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-head-c-spine-and-facial-bones/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Facial trauma",
-      "Maxillofacial fractures",
-      "Orbital fractures with head/spine injury"
+      "Pacient\u0103 gravid\u0103 cu politraumatism",
+      "Traumatism abdominal / pelvin \u00een sarcin\u0103",
+      "Evaluarea leziunilor organelor materne \u0219i fetale"
     ],
     "category": "trauma"
   },
   {
     "slug": "trauma-head-and-c-spine",
-    "title": "Trauma Head and C-Spine",
+    "title": "CT Craniu \u0219i Coloan\u0103 Cervical\u0103 \u00een Politraumatism",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-head-and-c-spine/",
     "synonyms": [],
     "clinical_indications": [
-      "Trauma head injury",
-      "C-spine clearance",
-      "Multi-trauma assessment"
+      "Traumatism cranio-cerebral (TCC)",
+      "Degajarea / evaluarea leziunilor de coloan\u0103 cervical\u0103",
+      "Bilan\u021b ini\u021bial \u00een politraumatism"
     ],
     "category": "trauma"
   },
   {
-    "slug": "trauma-lower-extremity-runoff-cta",
-    "title": "Trauma Lower Extremity Runoff CTA",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-lower-extremity-runoff-cta/",
+    "slug": "trauma-head-c-spine-and-facial-bones",
+    "title": "CT Craniu, Coloan\u0103 Cervical\u0103 \u0219i Masiv Facial \u00een Traumatism",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-head-c-spine-and-facial-bones/",
     "synonyms": [],
     "clinical_indications": [
-      "Extremity vascular injury",
-      "Penetrating trauma",
-      "Fracture with vascular concern",
-      "Pulseless extremity"
+      "Traumatism facial sever / agresiune fizic\u0103",
+      "Fracturi maxilo-faciale complexe (Le Fort, mandibul\u0103, oase proprii nazale)",
+      "Fracturi de orbit\u0103 asociate cu suspiciune de traumatism cranian \u0219i cervical"
     ],
     "category": "trauma"
   },
   {
-    "slug": "ct-pulmonary-embolism",
-    "title": "CT Pulmonary Embolism",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/ct-pulmonary-embolism/",
+    "slug": "trauma-chest-ct",
+    "title": "CT Torace \u00een Traumatism (Politraumatism)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-chest-ct/",
     "synonyms": [],
     "clinical_indications": [
-      "Suspected pulmonary embolism",
-      "Acute dyspnea",
-      "Chest pain with elevated D-dimer"
+      "Traumatism toracic \u00eenchis (blunt chest trauma)",
+      "Fracturi costale multiple / volet costal",
+      "Pneumotorax / hemotorax post-traumatic",
+      "Contuzie pulmonar\u0103 / suspiciune leziune mediastinal\u0103"
     ],
-    "category": "vascular"
+    "category": "trauma"
+  },
+  {
+    "slug": "trauma-code-aaa",
+    "title": "CT Urgen\u021b\u0103 / Cod Ruptur\u0103 Anevrism de Aort\u0103 Abdominal\u0103 (Cod AAA)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/trauma/trauma-code-aaa/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Suspiciune de anevrism de aort\u0103 abdominal\u0103 (AAA) rupt sau fisurat",
+      "Urgen\u021b\u0103 vascular\u0103 aortic\u0103",
+      "Instabilitate hemodinamic\u0103 cu durere abdominal\u0103 acut\u0103 \u0219i mas\u0103 pulsatil\u0103"
+    ],
+    "category": "trauma"
   },
   {
     "slug": "cta-abdomen-pelvis",
-    "title": "CTA Abdomen Pelvis",
+    "title": "Angio-CT Abdomen \u0219i Pelvis",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-abdomen-pelvis/",
     "synonyms": [],
     "clinical_indications": [
-      "Abdominal aortic aneurysm",
-      "Mesenteric ischemia",
-      "Renal artery stenosis",
-      "Pre-EVAR planning"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-chest",
-    "title": "CTA Chest",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-chest/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Thoracic aortic aneurysm (not involving the aortic root)",
-      "Great vessel evaluation"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-chest-abdomen-pelvis",
-    "title": "CTA Chest Abdomen Pelvis",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-chest-abdomen-pelvis/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Aortic aneurysm",
-      "Vasculitis",
-      "Trauma pan-scan"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-diep-flap-pre-operative",
-    "title": "CTA DIEP Flap Pre-operative",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-diep-flap-pre-operative/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-operative planning for DIEP flap breast reconstruction"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-lower-extremity-free-flap",
-    "title": "CTA Lower Extremity Free Flap",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-lower-extremity-free-flap/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-operative planning for free flap harvest (fibula ALT anterolateral thigh)"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-lower-extremity-runoff-for-pad",
-    "title": "CTA Lower Extremity Runoff for PAD",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-lower-extremity-runoff-for-pad/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Peripheral arterial disease",
-      "Claudication",
-      "Critical limb ischemia",
-      "Pre-operative bypass planning"
+      "Anevrism de aort\u0103 abdominal\u0103 (AAA)",
+      "Suspiciune de ischemie mezenteric\u0103",
+      "Stenoz\u0103 de arter\u0103 renal\u0103 (hipertensiune renovascular\u0103)",
+      "Planificare pre- \u0219i post-endoprotezare aortic\u0103 (EVAR)"
     ],
     "category": "vascular"
   },
   {
     "slug": "cta-mesenteric-ischemia",
-    "title": "CTA Mesenteric Ischemia",
+    "title": "Angio-CT Ischemie Mezenteric\u0103 (Acut\u0103 / Cronic\u0103)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-mesenteric-ischemia/",
     "synonyms": [],
     "clinical_indications": [
-      "Acute mesenteric ischemia",
-      "Chronic mesenteric ischemia",
-      "Bowel infarction"
+      "Ischemie mezenteric\u0103 acut\u0103 (durere abdominal\u0103 sever\u0103 necorelat\u0103 cu examenul clinic)",
+      "Ischemie mezenteric\u0103 cronic\u0103 (angin\u0103 abdominal\u0103 postprandial\u0103, sc\u0103dere ponderal\u0103)",
+      "Suspiciune de infarct intestinal / necroz\u0103 de ans\u0103"
     ],
     "category": "vascular"
   },
   {
-    "slug": "cta-pelvis-cyclist-iliac-artery-maneuver",
-    "title": "CTA Pelvis Cyclist Iliac Artery Maneuver",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-pelvis-cyclist-iliac-artery-maneuver/",
+    "slug": "cta-lower-extremity-runoff-for-pad",
+    "title": "Angio-CT Membre Inferioare (Runoff pentru Boal\u0103 Arterial\u0103 Periferic\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-lower-extremity-runoff-for-pad/",
     "synonyms": [],
     "clinical_indications": [
-      "External iliac artery endofibrosis",
-      "Cyclist with exercise-induced leg symptoms"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-pelvis-prostate-artery-embolization",
-    "title": "CTA Pelvis Prostate Artery Embolization",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-pelvis-prostate-artery-embolization/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Pre-procedural planning for prostate artery embolization",
-      "Benign prostatic hyperplasia"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-popliteal-entrapment",
-    "title": "CTA Popliteal Entrapment",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-popliteal-entrapment/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Popliteal entrapment syndrome",
-      "Exercise-induced leg pain",
-      "Young patient with claudication"
-    ],
-    "category": "vascular"
-  },
-  {
-    "slug": "cta-scadfmd-protocol",
-    "title": "CTA SCAD/FMD Protocol",
-    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-scadfmd-protocol/",
-    "synonyms": [],
-    "clinical_indications": [
-      "Spontaneous coronary artery dissection screening",
-      "Fibromuscular dysplasia screening",
-      "Multi-vessel arterial assessment"
+      "Boal\u0103 arterial\u0103 periferic\u0103 (arteriopatie obliterant\u0103 a membrelor inferioare - AOMI)",
+      "Claudica\u021bie intermitent\u0103 la distan\u021be mici",
+      "Ischemie critic\u0103 de membru (dureri de repaus, leziuni trofice, gangren\u0103)",
+      "Planificare pre-operatorie by-pass vascular sau angioplastie/stentare"
     ],
     "category": "vascular"
   },
   {
     "slug": "cta-upper-extremity",
-    "title": "CTA Upper Extremity",
+    "title": "Angio-CT Membru Superior",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-upper-extremity/",
     "synonyms": [],
     "clinical_indications": [
-      "Upper extremity arterial insufficiency",
-      "Trauma",
-      "Dialysis access planning",
-      "Thoracic outlet syndrome"
+      "Insuficien\u021b\u0103 arterial\u0103 a membrului superior / ischemie acut\u0103 sau cronic\u0103",
+      "Traumatism vascular penetrant sau \u00eenchis al bra\u021bului",
+      "Planificare acces vascular pentru hemodializ\u0103 (fistul\u0103 arteriovenoas\u0103)",
+      "Sindrom de apertur\u0103 toracic\u0103 superioar\u0103 (Thoracic Outlet Syndrome - TOS)"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-pelvis-cyclist-iliac-artery-maneuver",
+    "title": "Angio-CT Pelvis Manevr\u0103 Flexie \u0218old pentru Bicicli\u0219ti (Endofibroz\u0103 Iliac\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-pelvis-cyclist-iliac-artery-maneuver/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Endofibroza arterei iliace externe la cicli\u0219ti de performan\u021b\u0103",
+      "Claudica\u021bie atipic\u0103 / durere la efort maximal la nivelul coapsei la atle\u021bi"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-pelvis-prostate-artery-embolization",
+    "title": "Angio-CT Pelvis Planificare Embolizare de Arter\u0103 Prostatic\u0103 (PAE)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-pelvis-prostate-artery-embolization/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare pre-procedural\u0103 pentru embolizarea arterelor prostatice (PAE)",
+      "Hiperplazie benign\u0103 de prostat\u0103 (HBP) simptomatic\u0103 refractar\u0103"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-lower-extremity-free-flap",
+    "title": "Angio-CT Planificare Lambou Liber Membru Inferior (Fibul\u0103 / ALT)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-lower-extremity-free-flap/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare pre-operatorie pentru recoltare de lambou liber (fibul\u0103, lambou anterolateral de coaps\u0103 - ALT)",
+      "Reconstruc\u021bie maxilofacial\u0103 sau a membrelor dup\u0103 rezec\u021bii oncologice/traum\u0103"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-diep-flap-pre-operative",
+    "title": "Angio-CT Pre-operator Lambou DIEP (Reconstruc\u021bie Mamar\u0103)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-diep-flap-pre-operative/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Planificare pre-operatorie pentru reconstruc\u021bie mamar\u0103 cu lambou liber DIEP (Deep Inferior Epigastric Perforator)",
+      "Cartografierea perforatoarelor arterei epigastrice inferioare profunde"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-scadfmd-protocol",
+    "title": "Angio-CT Protocol Displazie Fibromuscular\u0103 (FMD) \u0219i Disec\u021bie Coronarian\u0103 (SCAD)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-scadfmd-protocol/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Screening vascular dup\u0103 disec\u021bie spontan\u0103 de arter\u0103 coronar\u0103 (SCAD)",
+      "Screening \u0219i bilan\u021b complet pentru displazie fibromuscular\u0103 (FMD)",
+      "Evaluarea afect\u0103rii arteriale multiteritoriale"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-popliteal-entrapment",
+    "title": "Angio-CT Sindrom de \u00cencarcerare a Arterei Poplitee (Popliteal Entrapment)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-popliteal-entrapment/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Sindrom de pensare / \u00eencarcerare a arterei poplitee",
+      "Durere la efort muscular la nivelul gambei la sportivi tineri f\u0103r\u0103 factori de risc cardiovascular",
+      "Claudica\u021bie la pacient t\u00e2n\u0103r"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-chest",
+    "title": "Angio-CT Torace (Aort\u0103 Toracic\u0103 \u0219i Vase Mari)",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-chest/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Anevrism de aort\u0103 toracic\u0103 (f\u0103r\u0103 interesarea r\u0103d\u0103cinii aortice)",
+      "Evaluarea anomaliilor \u0219i variantelor anatomice ale vaselor mari",
+      "Suspiciune de coarcta\u021bie de aort\u0103 sau pseudoanevrism aortic"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "cta-chest-abdomen-pelvis",
+    "title": "Angio-CT Torace, Abdomen \u0219i Pelvis",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-chest-abdomen-pelvis/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Anevrism toraco-abdominal de aort\u0103 (TAAA)",
+      "Disec\u021bie extins\u0103 de aort\u0103",
+      "Vasculite ale vaselor mari (Takayasu, celule gigante)",
+      "Pan-scan vascular \u00een traum\u0103 major\u0103"
+    ],
+    "category": "vascular"
+  },
+  {
+    "slug": "ct-pulmonary-embolism",
+    "title": "Angio-CT Trombembolism Pulmonar",
+    "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/ct-pulmonary-embolism/",
+    "synonyms": [],
+    "clinical_indications": [
+      "Suspiciune de trombembolism pulmonar (TEP)",
+      "Dispnee acut\u0103 de cauz\u0103 neclar\u0103",
+      "Durere toracic\u0103 cu D-dimeri crescu\u021bi"
     ],
     "category": "vascular"
   },
   {
     "slug": "cta-for-gi-bleed",
-    "title": "CTA for GI Bleed",
+    "title": "Angio-CT pentru Hemoragie Digestiv\u0103 Activ\u0103",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/cta-for-gi-bleed/",
     "synonyms": [],
     "clinical_indications": [
-      "Active GI bleeding",
-      "Hematemesis",
-      "Melena with hemodynamic instability",
-      "Hematochezia"
+      "Hemoragie digestiv\u0103 superioar\u0103 sau inferioar\u0103 activ\u0103",
+      "Hematemez\u0103 masiv\u0103",
+      "Melen\u0103 \u00eenso\u021bit\u0103 de instabilitate hemodinamic\u0103",
+      "Rectoragie masiv\u0103 / hematochezie"
     ],
     "category": "vascular"
   },
   {
     "slug": "ctv-abdomen-pelvis",
-    "title": "CTV Abdomen Pelvis",
+    "title": "Flebo-CT (CTV) Abdomen \u0219i Pelvis (Sistem Venos Ilio-Cav)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/ctv-abdomen-pelvis/",
     "synonyms": [],
     "clinical_indications": [
-      "Deep vein thrombosis",
-      "May-Thurner syndrome",
-      "IVC filter placement planning",
-      "Venous malformation"
+      "Tromboz\u0103 venoas\u0103 profund\u0103 ilio-femural\u0103 sau cav\u0103 inferioar\u0103 (TVP)",
+      "Sindrom May-Thurner (compresiunea venei iliace comune st\u00e2ngi de c\u0103tre artera iliac\u0103 comun\u0103 dreapt\u0103)",
+      "Planificare montare sau extragere filtru de ven\u0103 cav\u0103 inferioar\u0103 (filtru VCI)",
+      "Malforma\u021bii venoase pelvine / sindrom de congestie pelvin\u0103"
     ],
     "category": "vascular"
   },
   {
     "slug": "ctv-chest-abdomen-pelvis",
-    "title": "CTV Chest Abdomen Pelvis",
+    "title": "Flebo-CT (CTV) Torace-Abdomen-Pelvis (Sindrom Cav Superior / Inferior)",
     "url": "https://dfergs93.github.io/radiology-protocols/ct/vascular/ctv-chest-abdomen-pelvis/",
     "synonyms": [],
     "clinical_indications": [
-      "Superior vena cava syndrome",
-      "Central venous occlusion",
-      "Tumor staging with venous involvement"
+      "Sindrom de ven\u0103 cav\u0103 superioar\u0103 (SVCS)",
+      "Ocluzie sau tromboz\u0103 a axelor venoase centrale (catetere, port-a-cath, pacemaker)",
+      "Stadializare tumoral\u0103 cu suspiciune de invazie sau tromboz\u0103 venoas\u0103 tumoral\u0103 cav\u0103"
     ],
     "category": "vascular"
   }

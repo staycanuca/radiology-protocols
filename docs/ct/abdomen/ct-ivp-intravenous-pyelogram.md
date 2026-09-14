@@ -1,191 +1,214 @@
 ---
-title: CT IVP (Intravenous Pyelogram)
-slug: ct-ivp-intravenous-pyelogram
+author: null
 category: abdomen
-protocol_type: contrast-enhanced
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Hematuria
-- Urothelial carcinoma
-- Collecting system evaluation
-- Hydronephrosis
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: ''
+- Hematurie microscopică sau macroscopică
+- Suspiciune de carcinom urotelial
+- Evaluarea sistemului pielocaliceal și ureteral
+- Hidronefroză de etiologie neprecizată
 contrast:
   agent: Isovue 370
-  volume: 'Split bolus: 1st injection 1.1 mL/kg + 2nd injection 0.4 mL/kg'
-  flow_rate: 4 mL/s
   duration: 18-20s + 5-10s
-  timing: Split bolus technique
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: 1.0-1.375
-series:
-- name: Non-Contrast (optional)
-  start: Top kidneys
-  end: Pubic symphysis
-  delay: N/A
-  thickness: 2 mm
-  notes: Optional stone detection
-- name: Early Portal Venous
-  start: Top kidneys
-  end: Iliac crests
-  delay: 60 sec from 1st
-  thickness: 2.5 mm
-  notes: Nephrographic phase
-- name: Excretory Phase
-  start: Top kidneys
-  end: Pubic symphysis
-  delay: 90-120 sec from 2nd
-  thickness: 1.25 mm
-  notes: Collecting system opacification
-recons:
-- plane: Axial
-  acquisition: Non-contrast
-  fov: KUB
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Stone detection if done
-- plane: Axial
-  acquisition: Portal venous
-  fov: Kidneys
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Renal parenchyma
-- plane: Axial
-  acquisition: Excretory
-  fov: Full urinary tract
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Urothelial surfaces
-- plane: Coronal
-  acquisition: Excretory
-  fov: Full urinary tract
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: MIP urogram
+  flow_rate: 4 mL/s
+  timing: Tehnică Split-Bolus combinată
+  volume: 'Tehnică Split Bolus: prima injectare 1.1 mL/kg + a doua injectare 0.4 mL/kg'
+last_updated: '2026-01-01'
 notes:
-  tech: 'COMPLEX protocol: 1) NC (optional stone protocol) 2) 1st contrast injection
-    3) Early PV 60s after 1st 4) WAIT 5-7 min 5) 2nd injection + saline 6) Excretory/IVP
-    90-120s after 2nd'
-  nursing: 18-20G IV. Split bolus technique. May give Lasix 10-20mg IV for better
-    opacification
-  rad: 'NC optional: detect stones. Early PV: renal parenchyma. Excretory: collecting
-    system ureters bladder for urothelial lesions'
-  tips: Split bolus critical for opacification. Lasix may help. Prone imaging optional
-    for ureters
-  additional_recons: MIP urogram coronal and sagittal. Curved MPR of ureters. 3D urogram
+  additional_recons: Urografie MIP în plan coronal și sagital. Reconstrucții MPR curbate
+    de-a lungul traiectului ureteral. Urografie 3D VR.
+  nursing: Abord venos 18-20G. Tehnică split bolus. Se poate administra Furosemid
+    10-20 mg IV la indicația medicului pentru o mai bună opacifiere și distensie ureterală.
+  rad: 'Faza nativă: detectează litiaza. Faza venoasă timpurie: parenchimul renal.
+    Faza excretorie: arborele urotelial, uretere, vezică urinară pentru formațiuni
+    vegetative.'
+  tech: 'Protocol COMPLEX: 1) Fază nativă (evaluare litiază) 2) Prima injectare de
+    contrast 3) Fază venoasă timpurie la 60s 4) AȘTEPTARE 5-7 min 5) A doua injectare
+    + flush ser 6) Fază excretorie / Uro-CT la 90-120s după a 2-a injectare.'
+  tips: Sincronizarea split bolus este critică pentru opacifiere combinată parenchim-uroteliu.
+    Scanarea în procubitus poate fi utilă pentru ureterele distale.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: Bună hidratare anterioară. Fără contrast oral pozitiv.
+protocol_type: contrast-enhanced
+recons:
+- acquisition: Fază Nativă (opțională)
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Detecția calculilor pe nativ
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Venoasă Portală Timpurie
+  fov: Abdomen
+  kernel: Standard
+  notes: Parenchim renal și stadializare
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Excretorie
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Suprafețe uroteliale și pereți vezicali
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Excretorie
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Urogramă coronală MIP
+  plane: Coronal
+  thickness_increment: 3 mm/3 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic la substanța de contrast iodată.
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Simfiză pubiană
+  name: Fază Nativă (opțională)
+  notes: Detecția calculilor reno-uretero-vezicali
+  start: Polul superior renal
+  thickness: 0.625 mm
+- delay: 60-70 sec
+  end: Creste iliace
+  name: Fază Venoasă Portală Timpurie
+  notes: Evaluarea parenchimului renal și hepatic
+  start: Cupola hepatică
+  thickness: 0.625 mm
+- delay: 480-600 sec (8-10 min)
+  end: Simfiză pubiană
+  name: Fază Excretorie
+  notes: Opacifierea completă a arborelui urotelial
+  start: Polul superior renal
+  thickness: 0.625 mm
+slug: ct-ivp-intravenous-pyelogram
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 200 mAs)
+  pitch: 1.0-1.375
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Uro-CT (Urografie CT / Pielografie Intravenoasă)
 ---
 
-# CT IVP (Intravenous Pyelogram)
+# Uro-CT (Urografie CT / Pielografie Intravenoasă)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast (optional) | Non-contrast | Top kidneys to Pubic symphysis |
-        | Early Portal Venous | Contrast (60 sec from 1st injection) | Top kidneys to Iliac crests |
-        | Excretory Phase | Contrast (90-120 sec from 2nd injection) | Top kidneys to Pubic symphysis |
+        | Fază Nativă (opțională) | 0 sec | Polul superior renal → Simfiză pubiană |
+        | Fază Venoasă Portală Timpurie | 60-70 sec | Cupola hepatică → Creste iliace |
+        | Fază Excretorie | 480-600 sec (8-10 min) | Polul superior renal → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Hematuria
-        - Urothelial carcinoma
-        - Collecting system evaluation
-        - Hydronephrosis
+        - Hematurie microscopică sau macroscopică
+        - Suspiciune de carcinom urotelial
+        - Evaluarea sistemului pielocaliceal și ureteral
+        - Hidronefroză de etiologie neprecizată
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Bună hidratare anterioară. Fără contrast oral pozitiv.
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | Split bolus: 1st injection 1.1 mL/kg + 2nd injection 0.4 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 18-20s + 5-10s |
-        | Timing | Split bolus technique |
+        | Volum | Tehnică Split Bolus: prima injectare 1.1 mL/kg + a doua injectare 0.4 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 18-20s + 5-10s |
+        | Metodă Temporizare | Tehnică Split-Bolus combinată |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-        Full dose if eGFR > 30. Split bolus for combined nephrographic and excretory phases
+-   __4. Parametri Tehnici Achiziție__
 
--   __4. Special Notes__
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - COMPLEX protocol: 1) NC (optional stone protocol) 2) 1st contrast injection 3) Early PV 60s after 1st 4) WAIT 5-7 min 5) 2nd injection + saline 6) Excretory/IVP 90-120s after 2nd
-        - Additional Recons: MIP urogram coronal and sagittal. Curved MPR of ureters. 3D urogram
+        - Protocol COMPLEX: 1) Fază nativă (evaluare litiază) 2) Prima injectare de contrast 3) Fază venoasă timpurie la 60s 4) AȘTEPTARE 5-7 min 5) A doua injectare + flush ser 6) Fază excretorie / Uro-CT la 90-120s după a 2-a injectare.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV. Split bolus technique. May give Lasix 10-20mg IV for better opacification
+        - Abord venos 18-20G. Tehnică split bolus. Se poate administra Furosemid 10-20 mg IV la indicația medicului pentru o mai bună opacifiere și distensie ureterală.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic la substanța de contrast iodată.
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC optional: detect stones. Early PV: renal parenchyma. Excretory: collecting system ureters bladder for urothelial lesions
+        - Faza nativă: detectează litiaza. Faza venoasă timpurie: parenchimul renal. Faza excretorie: arborele urotelial, uretere, vezică urinară pentru formațiuni vegetative.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Split bolus critical for opacification. Lasix may help. Prone imaging optional for ureters
+        - Sincronizarea split bolus este critică pentru opacifiere combinată parenchim-uroteliu. Scanarea în procubitus poate fi utilă pentru ureterele distale.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top kidneys | Pubic symphysis | N/A | N/A | AP |
-    | Non-Contrast (optional) | Top kidneys | Pubic symphysis | N/A | 2 mm | Optional stone detection |
-    | Early Portal Venous | Top kidneys | Iliac crests | 60 sec from 1st | 2.5 mm | Nephrographic phase |
-    | Excretory Phase | Top kidneys | Pubic symphysis | 90-120 sec from 2nd | 1.25 mm | Collecting system opacification |
+    | Fază Nativă (opțională) | Polul superior renal | Simfiză pubiană | 0 sec | 0.625 mm | Detecția calculilor reno-uretero-vezicali |
+    | Fază Venoasă Portală Timpurie | Cupola hepatică | Creste iliace | 60-70 sec | 0.625 mm | Evaluarea parenchimului renal și hepatic |
+    | Fază Excretorie | Polul superior renal | Simfiză pubiană | 480-600 sec (8-10 min) | 0.625 mm | Opacifierea completă a arborelui urotelial |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-contrast | KUB | 2 mm/2 mm | Standard | 3 | Stone detection if done |
-    | Axial | Portal venous | Kidneys | 2.5 mm/2.5 mm | Standard | 3 | Renal parenchyma |
-    | Axial | Excretory | Full urinary tract | 2 mm/2 mm | Standard | 3 | Urothelial surfaces |
-    | Coronal | Excretory | Full urinary tract | 2.5 mm/2.5 mm | Standard | 3 | MIP urogram |
+    | Axial | Fază Nativă (opțională) | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Detecția calculilor pe nativ |
+    | Axial | Fază Venoasă Portală Timpurie | Abdomen | 2.5 mm/2.5 mm | Standard |  | Parenchim renal și stadializare |
+    | Axial | Fază Excretorie | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Suprafețe uroteliale și pereți vezicali |
+    | Coronal | Fază Excretorie | Abdomen-Pelvis | 3 mm/3 mm | Standard |  | Urogramă coronală MIP |

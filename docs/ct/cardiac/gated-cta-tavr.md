@@ -2,196 +2,219 @@
 author: None
 category: cardiac
 clinical_indications:
-- Pre-TAVR planning
-- Aortic stenosis valve replacement planning
+- Planificare pre-procedurală TAVR (implantare transcateter a valvei aortice)
+- Stenoză aortică severă simptomatică la pacienți cu indicație de TAVR
 contrast:
   agent: Isovue 370
   duration: 22s
   flow_rate: 4 mL/s
-  roi: Ascending aorta
-  timing: Bolus Tracking
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
   volume: 1.6 mL/kg
 last_updated: '2026-01-01'
 notes:
-  additional_recons: 'TAVR measurements: annulus area perimeter diameters. Coronary
-    heights. Sinus of Valsalva. STJ. Ascending aorta. Access vessels'
-  nursing: 20G IV antecubital
-  rad: Measure aortic annulus (3 diameters). Coronary heights. Access vessels (iliofemoral).
-    Valve calcium. Comprehensive TAVR measurements
-  tech: Gated CHEST retrospective + Flash AP. Gated for valve measurements. AP for
-    access planning. TAVR post-processing required
-  tips: TAVR-specific measurements protocol. Thin slices critical
-npo: NPO 4 hours
-position: Supine with arms raised
+  additional_recons: Reconstrucții dedicate pe inelul aortic (plan dublu oblic 'en
+    face'). Măsurători ale vaselor de abord iliofemurale. Raport complet TAVR.
+  nursing: Linie venoasă 20G în plica cotului.
+  rad: 'Măsurători TAVR complete: aria și perimetrul inelului aortic, diametre minim/maxim,
+    distanța de la inel la ostiile coronariene stâng și drept, diametrul sinusurilor
+    Valsalva și al joncțiunii sinotubulare, scorul de calciu al cuspelor, calibrul
+    și tortuozitatea arterelor ilio-femurale.'
+  tech: 'Protocol COMBINAT: Angio-CT Torace sincronizat retrospectiv ECG + Angio-CT
+    Flash rapid elicoidal Abdomen/Pelvis. Sincronizarea toracică servește măsurătorilor
+    valvei, iar achiziția abdomino-pelvină planifică accesul ilio-femural.'
+  tips: Protocol dedicat măsurătorilor TAVR. Secțiuni fine la nivelul rădăcinii aortice
+    obligatorii.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
 premedication: HR < 65 target. Premedication not required.
 protocol_type: cardiac gated
 recons:
-- acquisition: Non-contrast CAP
-  fov: CAP
-  ir_strength: '3'
+- acquisition: Fază Nativă CAP
+  fov: Torace-Abdomen-Pelvis
   kernel: Standard
-  notes: ''
+  notes: Serie nativă de ansamblu
   plane: Axial
-  thickness_increment: 1 mm/1 mm
-- acquisition: Gated chest
-  fov: Heart
-  ir_strength: '3'
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
   kernel: Cardiac
-  notes: Aortic valve and root measurements
+  notes: Măsurători valvulare și rădăcină aortică
   plane: Axial
-  thickness_increment: 0.5 mm/0.5 mm
-- acquisition: Flash AP
-  fov: AP
-  ir_strength: '3'
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Angio-CT Flash AP
+  fov: Abdomen-Pelvis
   kernel: Vascular
-  notes: Access vessel assessment
+  notes: Evaluarea calibrului vaselor de acces iliofemurale
   plane: Axial
-  thickness_increment: 2 mm/2 mm
-- acquisition: Gated chest
-  fov: Aortic valve
-  ir_strength: '3'
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
   kernel: Cardiac
-  notes: En face aortic annulus for sizing
+  notes: Plan dublu oblic 'en face' pe inelul aortic pentru dimensionare
   plane: Double oblique
-  thickness_increment: 0.5 mm
-- acquisition: Flash AP
-  fov: Iliofemoral
-  ir_strength: '3'
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Angio-CT Flash AP
+  fov: Abdomen-Pelvis
   kernel: Vascular
-  notes: 3D access planning
+  notes: Randare 3D a traiectului vascular de abord
   plane: 3D VR
-  thickness_increment: 1.5 mm source
+  thickness_increment: 1 mm/1 mm
 safety:
-  allergy: Check allergy history
-  renal: Verify eGFR > 30
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m² (frecvent pacienți vârstnici)
 series:
-- delay: Non-contrast
-  end: Femoral heads
-  name: Non-contrast CAP
-  notes: ''
-  start: Thoracic Inlet
-  thickness: 1 mm
-- delay: Bolus tracked
-  end: Diaphragm
-  name: Gated CTA Chest
-  notes: Retrospective gating for valve
-  start: Thoracic inlet
-  thickness: 0.5 mm
-- delay: Immediate
-  end: Femoral heads
-  name: Flash CTA AP
-  notes: Iliofemoral access planning
-  start: Diaphragm
+- delay: 0 sec
+  end: Capete femurale
+  name: Fază Nativă CAP
+  notes: Detecția calcificărilor parietale și a inelului
+  start: Apertura toracică superioară
+  thickness: 2.5 mm
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Torace Sincronizat
+  notes: Sincronizare retrospectivă pentru măsurătorile inelului și rădăcinii
+  start: Apertura toracică superioară
   thickness: 0.625 mm
+- delay: Continuare
+  end: Capete femurale
+  name: Angio-CT Flash AP
+  notes: Planificarea accesului vascular ilio-femural
+  start: Diafragm
+  thickness: 1 mm
 slug: gated-cta-tavr
 synonyms:
 - TAVR, Transcatheter aortic valve replacement
 tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
   kv: '100'
-  mas: Auto ECG chest / High mAs AP
+  mas: Auto modulare ECG torace / Curent crescut AP
   pitch: 0.2-0.24 / 1.2-1.5
   rotation_time: 0.28 / 0.5s
-title: Gated CTA TAVR
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvulară Aortică Transcateter)
 ---
 
-# Gated CTA TAVR
+# Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvulară Aortică Transcateter)
 
-**Last Updated:** 2026-01-01
-**Author:** None
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast CAP | Non-contrast | Thoracic Inlet → Femoral heads |
-        | Gated CTA Chest | Bolus tracked | Thoracic inlet → Diaphragm |
-        | Flash CTA AP | Immediate | Diaphragm → Femoral heads |
+        | Fază Nativă CAP | 0 sec | Apertura toracică superioară → Capete femurale |
+        | Angio-CT Torace Sincronizat | Urmărire bolus | Apertura toracică superioară → Diafragm |
+        | Angio-CT Flash AP | Continuare | Diafragm → Capete femurale |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-TAVR planning
-        - Aortic stenosis valve replacement planning
+        - Planificare pre-procedurală TAVR (implantare transcateter a valvei aortice)
+        - Stenoză aortică severă simptomatică la pacienți cu indicație de TAVR
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 target. Premedication not required.
 
--   __3. IV Contrast & Injection__
+-   __3. Contrast IV & Injectare__
 
     ---
-    === "Injection Parameters"
+    === "Parametri de Injectare"
 
-        | Parameter | Value |
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.6 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 22s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 180 HU |
+        | Volum | 1.6 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 22s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 180 HU |
 
-    === "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto modulare ECG torace / Curent crescut AP |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 / 0.5 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 / 1.2-1.5 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Gated CHEST retrospective + Flash AP. Gated for valve measurements. AP for access planning. TAVR post-processing required
+        - Protocol COMBINAT: Angio-CT Torace sincronizat retrospectiv ECG + Angio-CT Flash rapid elicoidal Abdomen/Pelvis. Sincronizarea toracică servește măsurătorilor valvei, iar achiziția abdomino-pelvină planifică accesul ilio-femural.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV antecubital
+        - Linie venoasă 20G în plica cotului.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m² (frecvent pacienți vârstnici)
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Measure aortic annulus (3 diameters). Coronary heights. Access vessels (iliofemoral). Valve calcium. Comprehensive TAVR measurements
+        - Măsurători TAVR complete: aria și perimetrul inelului aortic, diametre minim/maxim, distanța de la inel la ostiile coronariene stâng și drept, diametrul sinusurilor Valsalva și al joncțiunii sinotubulare, scorul de calciu al cuspelor, calibrul și tortuozitatea arterelor ilio-femurale.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - TAVR-specific measurements protocol. Thin slices critical
+        - Protocol dedicat măsurătorilor TAVR. Secțiuni fine la nivelul rădăcinii aortice obligatorii.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Non-contrast CAP | Thoracic Inlet | Femoral heads | Non-contrast | 1 mm |  |
-    | Gated CTA Chest | Thoracic inlet | Diaphragm | Bolus tracked | 0.5 mm | Retrospective gating for valve |
-    | Flash CTA AP | Diaphragm | Femoral heads | Immediate | 0.625 mm | Iliofemoral access planning |
+    | Fază Nativă CAP | Apertura toracică superioară | Capete femurale | 0 sec | 2.5 mm | Detecția calcificărilor parietale și a inelului |
+    | Angio-CT Torace Sincronizat | Apertura toracică superioară | Diafragm | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă pentru măsurătorile inelului și rădăcinii |
+    | Angio-CT Flash AP | Diafragm | Capete femurale | Continuare | 1 mm | Planificarea accesului vascular ilio-femural |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Non-contrast CAP | Thoracic Inlet | 1 mm/1 mm | Standard | 3 |  |
-    | Axial | Gated chest | Heart | 0.5 mm/0.5 mm | Cardiac | 3 | Aortic valve and root measurements |
-    | Axial | Flash AP | AP | 2 mm/2 mm | Vascular | 3 | Access vessel assessment |
-    | Double oblique | Gated chest | Aortic valve | 0.5 mm | Cardiac | 3 | En face aortic annulus for sizing |
-    | 3D VR | Flash AP | Iliofemoral | 1.5 mm source | Vascular | 3 | 3D access planning |
+    | Axial | Fază Nativă CAP | Torace-Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Serie nativă de ansamblu |
+    | Axial | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Măsurători valvulare și rădăcină aortică |
+    | Axial | Angio-CT Flash AP | Abdomen-Pelvis | 1.5 mm/1.5 mm | Vascular |  | Evaluarea calibrului vaselor de acces iliofemurale |
+    | Double oblique | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Plan dublu oblic 'en face' pe inelul aortic pentru dimensionare |
+    | 3D VR | Angio-CT Flash AP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D a traiectului vascular de abord |

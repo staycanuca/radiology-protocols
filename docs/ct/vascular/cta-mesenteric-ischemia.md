@@ -1,185 +1,206 @@
 ---
-title: CTA Mesenteric Ischemia
-slug: cta-mesenteric-ischemia
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Acute mesenteric ischemia
-- Chronic mesenteric ischemia
-- Bowel infarction
-position: Supine with arms raised
-npo: NPO (emergent - as patient presents)
-premedication: None - emergent study
+- Ischemie mezenterică acută (durere abdominală severă necorelată cu examenul clinic)
+- Ischemie mezenterică cronică (angină abdominală postprandială, scădere ponderală)
+- Suspiciune de infarct intestinal / necroză de ansă
 contrast:
   agent: Isovue 370
-  volume: 1.5 mL/kg
-  flow_rate: 5 mL/s
   duration: 20s
-  timing: 'Dual phase: Arterial + Portal Venous'
-  roi: Abdominal aorta at celiac
+  flow_rate: 5 mL/s
+  roi: Aorta abdominală la originea trunchiului celiac
+  timing: 'Fază dublă: Arterială + Venoasă Portală'
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 300)
-  rotation_time: 0.5s
-  pitch: '1.375'
-series:
-- name: Arterial Phase
-  start: Diaphragm
-  end: Iliac crests
-  delay: 25 sec
-  thickness: 0.625 mm
-  notes: Focus on celiac SMA IMA
-- name: Portal Venous
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec
-  thickness: 0.625 mm
-  notes: Assess bowel wall enhancement
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Abdomen
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Mesenteric vessel origins
-- plane: Axial
-  acquisition: Portal venous
-  fov: Full AP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Bowel wall assessment
-- plane: Coronal
-  acquisition: Arterial
-  fov: Abdomen
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP of mesenteric vessels
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Abdomen
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Curved MPR SMA from origin
+  volume: 1.5 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Arterial phase at 25 sec for vessel assessment. Portal venous at 70 sec for
-    bowel perfusion. High flow rate critical
-  nursing: 18-20G IV required for 5 mL/s flow. Must be patent
-  rad: 'Arterial: assess celiac SMA IMA origins. Portal: look for bowel wall enhancement.
-    Check for pneumatosis'
-  tips: Fast scan. High flow rate essential
-  additional_recons: MIP and 3D VR of celiac and SMA. Curved MPR of vessels
+  additional_recons: MIP și randare 3D VR a trunchiului celiac și AMS. Reconstrucții
+    MPR curbate pe întreg traiectul arterei mezenterice superioare din profil sagital.
+  nursing: Linie venoasă 18-20G obligatorie pentru debitul de 5 mL/s.
+  rad: 'Arterial: analizați ostiul și traiectul trunchiului celiac, arterei mezenterice
+    superioare (AMS) și inferioare (AMI) (tromboză, embolie, disecție). Portal: evaluați
+    grosimea peretelui anselor, prezența pneumatozei intestinale, a gazului în vena
+    portă sau a trombozei VMS.'
+  tech: Fază arterială la 25 secunde pentru evaluarea trunchiurilor vasculare. Fază
+    venoasă portală la 70 secunde pentru perfuzia peretelui intestinal și a venei
+    mezenterice superioare (VMS). Debit de injectare rapid (5 mL/s).
+  tips: Scanare rapidă. Viteza ridicată de injectare este determinantă pentru vizualizarea
+    ramurilor distale mezenterice.
+npo: Repaus alimentar 4 ore (sau fără repaus în urgență)
+position: Decubit dorsal cu brațele ridicate
+premedication: None - emergent study
+protocol_type: vascular
+recons:
+- acquisition: Fază Arterială
+  fov: Abdomen
+  kernel: Vascular
+  notes: Originea și calibrul vaselor mezenterice
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Venoasă Portală
+  fov: Abdomen-Pelvis
+  kernel: Standard
+  notes: Evaluarea prizelor de contrast ale pereților digestivi
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Arterială
+  fov: Abdomen
+  kernel: Vascular
+  notes: MIP coronal al vaselor mezenterice
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Arterială
+  fov: Abdomen
+  kernel: Vascular
+  notes: MPR curbat din profil sagital pe originile AMS și trunchiului celiac
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
 safety:
-  renal: eGFR > 30 preferred
-  allergy: Emergency study - document indication
+  allergy: Documentați situația clinică de urgență
+  renal: Verificați eGFR; în suspiciunea de ischemie acută nu se temporizează
+series:
+- delay: 25 sec
+  end: Creste iliace
+  name: Fază Arterială
+  notes: Focus pe trunchiul celiac, AMS și AMI
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală
+  notes: Evaluarea perfuziei peretelui intestinal și a venelor mezenterice
+  start: Diafragm
+  thickness: 0.625 mm
+slug: cta-mesenteric-ischemia
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 300 mAs)
+  pitch: '1.375'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Ischemie Mezenterică (Acută / Cronică)
 ---
 
-# CTA Mesenteric Ischemia
+# Angio-CT Ischemie Mezenterică (Acută / Cronică)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | N/A | Diaphragm to Lesser Trochanters |
-        | Arterial Phase | Contrast (25 sec delay) | Diaphragm to Lesser Trochanters |
-        | Portal Venous | Contrast (70 sec delay) | Diaphragm to Lesser Trochanters |
+        | Fază Arterială | 25 sec | Diafragm → Creste iliace |
+        | Fază Venoasă Portală | 70 sec | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Acute mesenteric ischemia
-        - Chronic mesenteric ischemia
-        - Bowel infarction
+        - Ischemie mezenterică acută (durere abdominală severă necorelată cu examenul clinic)
+        - Ischemie mezenterică cronică (angină abdominală postprandială, scădere ponderală)
+        - Suspiciune de infarct intestinal / necroză de ansă
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO (emergent - as patient presents)
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore (sau fără repaus în urgență)
+    - **Premedicație / Pregătire:**
         - None - emergent study
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.5 mL/kg |
-        | Flow Rate | 5 mL/s |
-        | Duration | 20s |
-        | Timing Method | Dual phase: Arterial + Portal Venous |
-        | ROI Placement | Abdominal aorta at celiac |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.5 mL/kg |
+        | Rată de Flux | 5 mL/s |
+        | Durată | 20s |
+        | Metodă Temporizare | Fază dublă: Arterială + Venoasă Portală |
+        | Poziționare ROI | Aorta abdominală la originea trunchiului celiac |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 300 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Arterial phase at 25 sec for vessel assessment. Portal venous at 70 sec for bowel perfusion. High flow rate critical
-        - Additional Recons: MIP and 3D VR of celiac and SMA. Curved MPR of vessels
+        - Fază arterială la 25 secunde pentru evaluarea trunchiurilor vasculare. Fază venoasă portală la 70 secunde pentru perfuzia peretelui intestinal și a venei mezenterice superioare (VMS). Debit de injectare rapid (5 mL/s).
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 18-20G IV required for 5 mL/s flow. Must be patent
+        - Linie venoasă 18-20G obligatorie pentru debitul de 5 mL/s.
 
-        !!! warning "Safety First"
-            - **Renal Function:** eGFR > 30 preferred
-            - **Allergy:** Emergency study - document indication
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR; în suspiciunea de ischemie acută nu se temporizează
+            - **Alergii:** Documentați situația clinică de urgență
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Arterial: assess celiac SMA IMA origins. Portal: look for bowel wall enhancement. Check for pneumatosis
+        - Arterial: analizați ostiul și traiectul trunchiului celiac, arterei mezenterice superioare (AMS) și inferioare (AMI) (tromboză, embolie, disecție). Portal: evaluați grosimea peretelui anselor, prezența pneumatozei intestinale, a gazului în vena portă sau a trombozei VMS.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Fast scan. High flow rate essential
+        - Scanare rapidă. Viteza ridicată de injectare este determinantă pentru vizualizarea ramurilor distale mezenterice.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Diaphragm | Pubic symphysis | N/A | N/A | AP |
-    | Arterial Phase | Diaphragm | Iliac crests | 25 sec | 0.625 mm | Focus on celiac SMA IMA |
-    | Portal Venous | Diaphragm | Pubic symphysis | 70 sec | 0.625 mm | Assess bowel wall enhancement |
+    | Fază Arterială | Diafragm | Creste iliace | 25 sec | 0.625 mm | Focus pe trunchiul celiac, AMS și AMI |
+    | Fază Venoasă Portală | Diafragm | Simfiză pubiană | 70 sec | 0.625 mm | Evaluarea perfuziei peretelui intestinal și a venelor mezenterice |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Abdomen | 2 mm/2 mm | Vascular | 3 | Mesenteric vessel origins |
-    | Axial | Portal venous | Full AP | 2.5 mm/2.5 mm | Standard | 3 | Bowel wall assessment |
-    | Coronal | Arterial | Abdomen | 2.5 mm/2.5 mm | Vascular | 3 | MIP of mesenteric vessels |
-    | Sagittal | Arterial | Abdomen | 2.5 mm/2.5 mm | Vascular | 3 | Curved MPR SMA from origin |
+    | Axial | Fază Arterială | Abdomen | 1.25 mm/1.25 mm | Vascular |  | Originea și calibrul vaselor mezenterice |
+    | Axial | Fază Venoasă Portală | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Evaluarea prizelor de contrast ale pereților digestivi |
+    | Coronal | Fază Arterială | Abdomen | 2 mm/2 mm | Vascular |  | MIP coronal al vaselor mezenterice |
+    | Sagital | Fază Arterială | Abdomen | 1.5 mm/1.5 mm | Vascular |  | MPR curbat din profil sagital pe originile AMS și trunchiului celiac |

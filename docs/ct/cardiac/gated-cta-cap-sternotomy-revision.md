@@ -1,191 +1,213 @@
 ---
-title: Gated CTA CAP Sternotomy Revision
-slug: gated-cta-cap-sternotomy-revision
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-operative planning for redo sternotomy
-- Retrosternal structures assessment
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: HR < 65 target. Premedication not required.
+- Planificare pre-operatorie pentru resternotomie (chirurgie cardiacă secundară/iterativă)
+- Evaluarea raporturilor structurilor mediastinale anterioare cu sternul
+- Măsurarea distanței dintre peretele posterior sternal și cord / by-pass-uri
 contrast:
   agent: Isovue 370
-  volume: 1.2 mL/kg
-  flow_rate: 5 mL/s
   duration: 15s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
-tech_params:
-  kv: '100'
-  mas: Auto ECG chest / High mAs other
-  rotation_time: 0.28 / 0.5s
-  pitch: 0.2-0.24 / 1.2-1.5
-series:
-- name: Gated CTA Chest
-  start: Thoracic inlet
-  end: Diaphragm
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Retrospective gating
-- name: Flash AP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: Immediate
-  thickness: 0.625 mm
-  notes: Arterial phase AP
-- name: Venogram Chest
-  start: Thoracic inlet
-  end: Diaphragm
-  delay: 60 sec
-  thickness: 1 mm
-  notes: Retrosternal venous structures
-recons:
-- plane: Axial
-  acquisition: Gated chest
-  fov: Chest
-  thickness_increment: 0.75 mm/0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Cardiac and coronary anatomy
-- plane: Axial
-  acquisition: Venogram
-  fov: Chest
-  thickness_increment: 1.25 mm/1.25 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Critical for retrosternal structures
-- plane: Coronal
-  acquisition: All phases
-  fov: Chest
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Anterior chest wall structures
-- plane: 3D VR
-  acquisition: Venogram
-  fov: Chest
-  thickness_increment: 1 mm source
-  kernel: Standard
-  ir_strength: '3'
-  notes: 3D map retrosternal vessels for surgery
+  volume: 1.2 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: 'THREE acquisitions: 1) Gated CHEST 2) Flash AP arterial 3) CHEST venogram
-    60 sec delay. Venous for retrosternal structures'
-  nursing: 20G IV
-  rad: 'Gated: cardiac anatomy. Arterial: systemic vessels. VENOUS: retrosternal veins
-    and adherent structures critical for surgical planning'
-  tips: Venous phase critical for surgical planning. Map all retrosternal structures
-  additional_recons: 3D VR venogram highlighting retrosternal veins. Distance measurements
-    sternum to heart
+  additional_recons: Randare 3D VR a rețelei venoase retrosternale. Măsurători precise
+    ale distanței stern-ventricul drept, stern-aortă ascendentă și stern-grefon LIMA/SVG.
+  nursing: Linie venoasă 20G.
+  rad: 'Sincronizat: anatomia cardiacă și a vaselor mari. Arterial: patul vascular
+    sistemic. Venoasă: venele retrosternale (trunchi brahiocefalic stâng, VMS) și
+    aderențele la peretele sternal, esențiale pentru incizia chirurgicală în siguranță.'
+  tech: 'TREI achiziții: 1) Angio-CT Torace sincronizat ECG retrospectiv 2) Flash
+    spiral toraco-abdomino-pelvin 3) Flebografie toracică la 60s întârziere pentru
+    structurile venoase retrosternale.'
+  tips: Faza venoasă este critică pentru chirurgul cardiovascular. Cartografiați toate
+    structurile retrosternale aderente.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: HR < 65 target. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
+  kernel: Cardiac
+  notes: Anatomie cardiacă și traiectul grefoanelor
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Venoasă Torace
+  fov: Torace
+  kernel: Standard
+  notes: Raportul structurilor retrosternale pe faza venoasă
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Fază Venoasă Torace
+  fov: Torace
+  kernel: Standard
+  notes: Structurile peretelui toracic anterior
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Fază Venoasă Torace
+  fov: Torace
+  kernel: Standard
+  notes: Hartă 3D a vaselor retrosternale pentru planificare chirurgicală
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Large contrast load - verify renal function
+  allergy: Verificați istoricul alergic la contrast
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Torace Sincronizat
+  notes: Sincronizare retrospectivă ECG pentru cord
+  start: Apertura toracică superioară
+  thickness: 0.625 mm
+- delay: Post-torace
+  end: Simfiză pubiană
+  name: Flash AP
+  notes: Fază arterială abdomen și pelvis
+  start: Diafragm
+  thickness: 1 mm
+- delay: 60 sec
+  end: Diafragm
+  name: Fază Venoasă Torace
+  notes: Structuri venoase retrosternale și mediastin anterior
+  start: Apertura toracică superioară
+  thickness: 0.625 mm
+slug: gated-cta-cap-sternotomy-revision
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Auto modulare ECG torace / Curent crescut alte serii
+  pitch: 0.2-0.24 / 1.2-1.5
+  rotation_time: 0.28 / 0.5s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilanț Resternotomie)
 ---
 
-# Gated CTA CAP Sternotomy Revision
+# Angio-CT Sincronizat ECG Torace-Abdomen-Pelvis (Bilanț Resternotomie)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Gated CTA Chest | Arterial (bolus tracked) | Thoracic inlet to Diaphragm |
-        | Flash AP | Contrast (Immediate delay) | Diaphragm to Pubic symphysis |
-        | Venogram Chest | Contrast (60 sec delay) | Thoracic inlet to Diaphragm |
+        | Angio-CT Torace Sincronizat | Urmărire bolus | Apertura toracică superioară → Diafragm |
+        | Flash AP | Post-torace | Diafragm → Simfiză pubiană |
+        | Fază Venoasă Torace | 60 sec | Apertura toracică superioară → Diafragm |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-operative planning for redo sternotomy
-        - Retrosternal structures assessment
+        - Planificare pre-operatorie pentru resternotomie (chirurgie cardiacă secundară/iterativă)
+        - Evaluarea raporturilor structurilor mediastinale anterioare cu sternul
+        - Măsurarea distanței dintre peretele posterior sternal și cord / by-pass-uri
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 target. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.2 mL/kg |
-        | Flow Rate | 5 mL/s |
-        | Duration | 15s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 180 HU |
+        | Volum | 1.2 mL/kg |
+        | Rată de Flux | 5 mL/s |
+        | Durată | 15s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 180 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto modulare ECG torace / Curent crescut alte serii |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 / 0.5 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 / 1.2-1.5 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - THREE acquisitions: 1) Gated CHEST 2) Flash AP arterial 3) CHEST venogram 60 sec delay. Venous for retrosternal structures
-        - Additional Recons: 3D VR venogram highlighting retrosternal veins. Distance measurements sternum to heart
+        - TREI achiziții: 1) Angio-CT Torace sincronizat ECG retrospectiv 2) Flash spiral toraco-abdomino-pelvin 3) Flebografie toracică la 60s întârziere pentru structurile venoase retrosternale.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV
+        - Linie venoasă 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Large contrast load - verify renal function
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic la contrast
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Gated: cardiac anatomy. Arterial: systemic vessels. VENOUS: retrosternal veins and adherent structures critical for surgical planning
+        - Sincronizat: anatomia cardiacă și a vaselor mari. Arterial: patul vascular sistemic. Venoasă: venele retrosternale (trunchi brahiocefalic stâng, VMS) și aderențele la peretele sternal, esențiale pentru incizia chirurgicală în siguranță.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Venous phase critical for surgical planning. Map all retrosternal structures
+        - Faza venoasă este critică pentru chirurgul cardiovascular. Cartografiați toate structurile retrosternale aderente.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Thoracic inlet | Pubic symphysis | N/A | N/A | AP lateral full |
-    | Gated CTA Chest | Thoracic inlet | Diaphragm | Bolus tracked | 0.5-0.625 mm | Retrospective gating |
-    | Flash AP | Diaphragm | Pubic symphysis | Immediate | 0.625 mm | Arterial phase AP |
-    | Venogram Chest | Thoracic inlet | Diaphragm | 60 sec | 1 mm | Retrosternal venous structures |
+    | Angio-CT Torace Sincronizat | Apertura toracică superioară | Diafragm | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă ECG pentru cord |
+    | Flash AP | Diafragm | Simfiză pubiană | Post-torace | 1 mm | Fază arterială abdomen și pelvis |
+    | Fază Venoasă Torace | Apertura toracică superioară | Diafragm | 60 sec | 0.625 mm | Structuri venoase retrosternale și mediastin anterior |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated chest | Chest | 0.75 mm/0.75 mm | Cardiac | 3 | Cardiac and coronary anatomy |
-    | Axial | Venogram | Chest | 1.25 mm/1.25 mm | Standard | 3 | Critical for retrosternal structures |
-    | Coronal | All phases | Chest | 2 mm/2 mm | Standard | 3 | Anterior chest wall structures |
-    | 3D VR | Venogram | Chest | 1 mm source | Standard | 3 | 3D map retrosternal vessels for surgery |
+    | Axial | Angio-CT Torace Sincronizat | Cord | 1.25 mm/1.25 mm | Cardiac |  | Anatomie cardiacă și traiectul grefoanelor |
+    | Axial | Fază Venoasă Torace | Torace | 1.25 mm/1.25 mm | Standard |  | Raportul structurilor retrosternale pe faza venoasă |
+    | Coronal | Fază Venoasă Torace | Torace | 2 mm/2 mm | Standard |  | Structurile peretelui toracic anterior |
+    | 3D VR | Fază Venoasă Torace | Torace | 1 mm/1 mm | Standard |  | Hartă 3D a vaselor retrosternale pentru planificare chirurgicală |

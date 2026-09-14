@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+PyYAML>=6,<7
+requests>=2.32,<3
+Pillow>=10,<13
+pypdf>=5,<7

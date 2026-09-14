@@ -1,164 +1,176 @@
 ---
-title: Quantitative Lung Density CT
-slug: quantitative-lung-density-ct
+author: null
 category: chest
-protocol_type: chest/pulmonary
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Bronchiolitis Obliterans Syndrome
-- Emphysema quantification
-- COPD assessment
-position: Supine with arms raised
-npo: N/A
-premedication: ''
+- Evaluare și cuantificare emfizem pulmonar în BPOC
+- Planificare tratament intervențional de reducere volum pulmonar (valve endobronșice
+  / chirurgie)
+- Monitorizare deficit de alfa-1 antitripsină
 contrast:
   agent: N/A
-  type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Auto (reference 150-200)
-  rotation_time: 0.5s
-  pitch: '1'
-series:
-- name: Volumetric Inspiration
-  start: Lung apices
-  end: Costophrenic angles
-  delay: Full inspiration (TLC)
-  thickness: 0.625-1 mm
-  notes: Contiguous for quantification
-- name: Volumetric Expiration
-  start: Lung apices
-  end: Costophrenic angles
-  delay: Full expiration (RV)
-  thickness: 0.625-1 mm
-  notes: Contiguous complete exhalation
-recons:
-- plane: Axial
-  acquisition: Inspiration
-  fov: Chest
-  thickness_increment: 1 mm/1 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Quantitative inspiration
-- plane: Axial
-  acquisition: Expiration
-  fov: Chest
-  thickness_increment: 1 mm/1 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Quantitative expiration
-- plane: Density map
-  acquisition: Inspiration
-  fov: Lungs
-  thickness_increment: Color coded
-  kernel: Lung
-  ir_strength: N/A
-  notes: Emphysema distribution map
-- plane: Density map
-  acquisition: Expiration
-  fov: Lungs
-  thickness_increment: Color coded
-  kernel: Lung
-  ir_strength: N/A
-  notes: Air trapping map
+  duration: ''
+  flow_rate: ''
+  roi: ''
+  timing: ''
+  trigger: ''
+  volume: ''
+last_updated: '2026-01-01'
 notes:
-  tech: 'TWO VOLUMETRIC acquisitions: 1) Full INSPIRATION 2) FULL EXPIRATION (complete
-    exhalation). Contiguous thin slices. Quantitative software'
-  nursing: No IV. Coach complete inspiration and complete expiration
-  rad: Quantify emphysema (% lung <-950 HU inspiration). Air trapping (% lung <-856
-    HU expiration). Emphysema distribution
-  tips: Complete exhalation critical for RV. Volumetric contiguous
-  additional_recons: Quantitative emphysema analysis. Report % lung <-950 HU. Air
-    trapping metrics. Upper/lower lobe distribution
+  additional_recons: Calcul procentual al scorului de emfizem pe lobi
+  nursing: Fără linie venoasă.
+  rad: Densitate < -950 HU pe secțiuni fine în inspir indică distrucție emfizematoasă.
+    Evaluați integritatea fisurilor pulmonare.
+  tech: Calibrarea scannerului CT este critică pentru densitometrie HU precisă. Volumetric
+    complet în inspir profund susținut.
+  tips: Pacientul nu trebuie să execute manevra Valsalva în timpul inspirului.
+npo: Nu este necesar
+position: Decubit dorsal cu picioarele înainte și brațele ridicate
+premedication: Nu este necesară
+protocol_type: chest/pulmonary
+recons:
+- acquisition: Densitometrie
+  fov: Torace
+  ir_strength: Standard
+  kernel: Standard
+  notes: Kernel standard pentru densitometrie cantitativă
+  plane: Axial
+  thickness_increment: 0.75 mm/0.5 mm
+- acquisition: Parenchim
+  fov: Torace
+  ir_strength: '3'
+  kernel: Plămân
+  notes: Evaluare vizuală a parenchimului
+  plane: Axial
+  thickness_increment: 1.0 mm/1.0 mm
+- acquisition: Parenchim
+  fov: Torace
+  ir_strength: '3'
+  kernel: Plămân
+  notes: Distribuție lobară cranio-caudală
+  plane: Coronal
+  thickness_increment: 2.0 mm/2.0 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
+series:
+- delay: Inspir profund
+  end: Sinusuri costodiafragmatice
+  name: Volumetric Nativ Densitometrie
+  notes: Secțiuni izotropice fine
+  start: Vârfuri pulmonare
+  thickness: 0.625-1.0 mm
+slug: quantitative-lung-density-ct
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 150-200 mAs)
+  pitch: '1'
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625-1.0 mm
+title: CT Cuantificare Densitate Pulmonară (Emfizem)
 ---
 
-# Quantitative Lung Density CT
+# CT Cuantificare Densitate Pulmonară (Emfizem)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Volumetric Inspiration | Contrast (Full inspiration (TLC) delay) | Lung apices to Costophrenic angles |
-        | Volumetric Expiration | Contrast (Full expiration (RV) delay) | Lung apices to Costophrenic angles |
+        | Volumetric Nativ Densitometrie | Inspir profund | Vârfuri pulmonare → Sinusuri costodiafragmatice |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Bronchiolitis Obliterans Syndrome
-        - Emphysema quantification
-        - COPD assessment
+        - Evaluare și cuantificare emfizem pulmonar în BPOC
+        - Planificare tratament intervențional de reducere volum pulmonar (valve endobronșice / chirurgie)
+        - Monitorizare deficit de alfa-1 antitripsină
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu picioarele înainte și brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - TWO VOLUMETRIC acquisitions: 1) Full INSPIRATION 2) FULL EXPIRATION (complete exhalation). Contiguous thin slices. Quantitative software
-        - Additional Recons: Quantitative emphysema analysis. Report % lung <-950 HU. Air trapping metrics. Upper/lower lobe distribution
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - No IV. Coach complete inspiration and complete expiration
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 150-200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625-1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1 |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Quantify emphysema (% lung <-950 HU inspiration). Air trapping (% lung <-856 HU expiration). Emphysema distribution
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Complete exhalation critical for RV. Volumetric contiguous
+        - Calibrarea scannerului CT este critică pentru densitometrie HU precisă. Volumetric complet în inspir profund susținut.
+
+    === "Note Asistent"
+
+        - Fără linie venoasă.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Densitate < -950 HU pe secțiuni fine în inspir indică distrucție emfizematoasă. Evaluați integritatea fisurilor pulmonare.
+
+    === "Sfaturi & Recomandări"
+
+        - Pacientul nu trebuie să execute manevra Valsalva în timpul inspirului.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Lung apices | Costophrenic angles | N/A | N/A | AP lateral |
-    | Volumetric Inspiration | Lung apices | Costophrenic angles | Full inspiration (TLC) | 0.625-1 mm | Contiguous for quantification |
-    | Volumetric Expiration | Lung apices | Costophrenic angles | Full expiration (RV) | 0.625-1 mm | Contiguous complete exhalation |
+    | Volumetric Nativ Densitometrie | Vârfuri pulmonare | Sinusuri costodiafragmatice | Inspir profund | 0.625-1.0 mm | Secțiuni izotropice fine |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Inspiration | Chest | 1 mm/1 mm | Lung | 3 | Quantitative inspiration |
-    | Axial | Expiration | Chest | 1 mm/1 mm | Lung | 3 | Quantitative expiration |
-    | Density map | Inspiration | Lungs | Color coded | Lung | N/A | Emphysema distribution map |
-    | Density map | Expiration | Lungs | Color coded | Lung | N/A | Air trapping map |
+    | Axial | Densitometrie | Torace | 0.75 mm/0.5 mm | Standard | Standard | Kernel standard pentru densitometrie cantitativă |
+    | Axial | Parenchim | Torace | 1.0 mm/1.0 mm | Plămân | 3 | Evaluare vizuală a parenchimului |
+    | Coronal | Parenchim | Torace | 2.0 mm/2.0 mm | Plămân | 3 | Distribuție lobară cranio-caudală |

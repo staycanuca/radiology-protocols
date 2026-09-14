@@ -1,171 +1,193 @@
 ---
-title: CT Foot
-slug: ct-foot
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Foot fracture
-- Lisfranc injury
-- Tarsal fractures
-- Foreign body
-- Pre-operative planning
-position: Supine feet first
-npo: N/A
-premedication: ''
+- Fracturi de oase tarsiene (calcaneu, talus, navicular, cuboid, cuneiforme)
+- Leziune sau disjuncție a articulației Lisfranc sau Chopart
+- Fracturi de metatarsiene și falange
+- Corpi străini radiopaci / planificare chirurgicală osteosinteză
 contrast:
-  agent: None typically. Contrast if infection
-  volume: 'If contrast: 75 mL'
+  agent: Nativ de regulă. Contrast dacă se suspectează flegmon / osteomielită
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Foot
-  start: Calcaneus
-  end: Toes
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Foot
-  fov: Foot
-  thickness_increment: 1 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone
-- plane: Coronal
-  acquisition: Foot
-  fov: Foot
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal foot
-- plane: Sagittal
-  acquisition: Foot
-  fov: Foot
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal foot
-- plane: Oblique
-  acquisition: Foot
-  fov: Lisfranc
-  thickness_increment: 1.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Lisfranc joint
+  volume: 'Dacă este indicat: 75 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Calcaneus through toes. Submillimeter. Weight-bearing position if able. Bilateral
-    for comparison
-  nursing: No IV unless infection suspected
-  rad: Calcaneus. Talus. Navicular. Cuneiforms. Metatarsals. Phalanges. Lisfranc ligament.
-    Plantar fascia
-  tips: Weight-bearing if possible. Bilateral comparison helpful
-  additional_recons: Document Lisfranc alignment. Calcaneal angles. 3D if complex
+  additional_recons: Reconstrucții oblice în axul lung al articulației Lisfranc. Măsurarea
+    unghiurilor calcaneene. Randare 3D VR.
+  nursing: Fără linie venoasă de rutină.
+  rad: Fracturi de calcaneu (măsurarea unghiului Böhler și Gissane, afectarea fațetei
+    posterioare subtalare). Aliniamentul liniei articulare Lisfranc (baza metatarsianului
+    II cu cuneiformul intermediar). Fragmente intraarticulare.
+  tech: De la tuberozitatea calcaneului până la vârful degetelor. Achiziție submilimetrică.
+    Examinare bilaterală utilă pentru comparația aliniamentului tarsian.
+  tips: Comparația bilaterală ajută la confirmarea subluxațiilor discrete Lisfranc.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu genunchii flectați și talpa sprijinită pe masa de examinare
+premedication: ''
+protocol_type: musculoskeletal
+recons:
+- acquisition: CT Picior
+  fov: Picior
+  kernel: Bone
+  notes: Fereastră osoasă în axul lung al piciorului
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Picior
+  fov: Picior
+  kernel: Bone
+  notes: Plan coronal perpendicular pe metatarsiene
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Picior
+  fov: Picior
+  kernel: Bone
+  notes: Plan sagital pentru bolta plantară și calcaneu
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Picior
+  fov: Picior
+  kernel: Bone
+  notes: Plan oblic dedicat articulației Lisfranc
+  plane: Oblique
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Degete picioare
+  name: CT Picior
+  notes: Achiziție elicoidală submilimetrică
+  start: Calcaneu
+  thickness: 0.625 mm
+slug: ct-foot
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Picior
 ---
 
-# CT Foot
+# CT Picior
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Foot | Contrast (N/A or 60s if contrast delay) | Calcaneus to Toes |
+        | CT Picior | 0 sec | Calcaneu → Degete picioare |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Foot fracture
-        - Lisfranc injury
-        - Tarsal fractures
-        - Foreign body
-        - Pre-operative planning
+        - Fracturi de oase tarsiene (calcaneu, talus, navicular, cuboid, cuneiforme)
+        - Leziune sau disjuncție a articulației Lisfranc sau Chopart
+        - Fracturi de metatarsiene și falange
+        - Corpi străini radiopaci / planificare chirurgicală osteosinteză
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine feet first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu genunchii flectați și talpa sprijinită pe masa de examinare
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection |
-        | Volume | If contrast: 75 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă se suspectează flegmon / osteomielită |
+        | Volum | Dacă este indicat: 75 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Calcaneus through toes. Submillimeter. Weight-bearing position if able. Bilateral for comparison
-        - Additional Recons: Document Lisfranc alignment. Calcaneal angles. 3D if complex
+        - De la tuberozitatea calcaneului până la vârful degetelor. Achiziție submilimetrică. Examinare bilaterală utilă pentru comparația aliniamentului tarsian.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless infection suspected
+        - Fără linie venoasă de rutină.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Calcaneus. Talus. Navicular. Cuneiforms. Metatarsals. Phalanges. Lisfranc ligament. Plantar fascia
+        - Fracturi de calcaneu (măsurarea unghiului Böhler și Gissane, afectarea fațetei posterioare subtalare). Aliniamentul liniei articulare Lisfranc (baza metatarsianului II cu cuneiformul intermediar). Fragmente intraarticulare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Weight-bearing if possible. Bilateral comparison helpful
+        - Comparația bilaterală ajută la confirmarea subluxațiilor discrete Lisfranc.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Calcaneus | Toes | N/A | N/A | Lateral and AP |
-    | CT Foot | Calcaneus | Toes | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Picior | Calcaneu | Degete picioare | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Foot | Foot | 1 mm/1 mm | Bone | N/A | Axial bone |
-    | Coronal | Foot | Foot | 1.5 mm/1 mm | Bone | N/A | Coronal foot |
-    | Sagittal | Foot | Foot | 1.5 mm/1 mm | Bone | N/A | Sagittal foot |
-    | Oblique | Foot | Lisfranc | 1.5 mm | Bone | N/A | Lisfranc joint |
+    | Axial | CT Picior | Picior | 1 mm/1 mm | Bone |  | Fereastră osoasă în axul lung al piciorului |
+    | Coronal | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan coronal perpendicular pe metatarsiene |
+    | Sagital | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan sagital pentru bolta plantară și calcaneu |
+    | Oblique | CT Picior | Picior | 1 mm/1 mm | Bone |  | Plan oblic dedicat articulației Lisfranc |

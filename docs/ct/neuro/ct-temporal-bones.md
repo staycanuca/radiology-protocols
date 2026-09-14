@@ -1,168 +1,203 @@
 ---
-title: CT Temporal Bones
-slug: ct-temporal-bones
+author: null
 category: neuro
-protocol_type: neuroradiology
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Hearing loss
-- Chronic otitis
-- Cholesteatoma
-- Temporal bone fracture
-- Pre-operative cochlear implant
-position: Supine head-first
-npo: N/A
-premedication: ''
+- Hipoacuzie de transmisie, neurosenzorială sau mixtă
+- Otite medii cronice / otomastoidită
+- Suspiciune de colesteatom
+- Fractură de stâncă temporală (longitudinală / transversală)
+- Bilanț pre-implant cohlear
 contrast:
-  agent: N/A
+  agent: Fără substanță de contrast
   type: non-contrast
-tech_params:
-  kv: '120'
-  mas: High mAs (300-400)
-  rotation_time: Axial/Coronals
-  pitch: Sequential or helical
-series:
-- name: Axial Temporal
-  start: EAC
-  end: Petrous apex
-  delay: N/A
-  thickness: 0.5-0.625 mm
-  notes: Parallel to lateral SCC
-- name: Coronal Temporal
-  start: EAC
-  end: IAC
-  delay: N/A
-  thickness: 0.5-0.625 mm
-  notes: Perpendicular to petrous ridge
-recons:
-- plane: Axial
-  acquisition: Temporal
-  fov: Bilateral
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Bone sharp
-  ir_strength: N/A
-  notes: Ultra HR bone
-- plane: Coronal
-  acquisition: Temporal
-  fov: Bilateral
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Bone sharp
-  ir_strength: N/A
-  notes: Coronal bone
-- plane: Oblique sagittal
-  acquisition: Temporal
-  fov: Ossicles
-  thickness_increment: 0.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Ossicular chain
-- plane: Pöschl/Stenvers
-  acquisition: Temporal
-  fov: IAC
-  thickness_increment: 0.75 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: IAC oriented views
+last_updated: '2026-01-01'
 notes:
-  tech: 'Temporal bones: external auditory canal to petrous apex. SUBMILLIMETER <0.625mm.
-    Direct axial and direct coronal if possible. Ultra high resolution'
-  nursing: No IV. Remove hearing aids and earrings
-  rad: Ossicles. Cochlea. Semicircular canals. Internal auditory canal. Mastoid air
-    cells. Cholesteatoma. Fracture. Tegmen
-  tips: Submillimeter critical. Sharp bone kernel. Remove all metal
-  additional_recons: Pöschl and Stenvers oblique reformats for IAC. Measure vestibular
-    aqueduct
+  additional_recons: Reformatări oblice Pöschl (paralel cu canalul semicircular superior)
+    și Stenvers (perpendicular pe stâncă). Măsurarea apeductului vestibular.
+  nursing: Fără linie venoasă. Îndepărtați aparatele auditive și cerceii.
+  rad: Lanțul osicular (ciocan, nicovală, scăriță). Melcul (cohleea), canalele semicirculare,
+    vestibulul. Conductul auditiv intern (CAI) și meatul acustic extern. Celulele
+    mastoidiene. Integritatea tegmen tympani și a canalului nervului facial.
+  tech: 'Stânci temporale: de la canalul auditiv extern până la vârful stâncii (apexul
+    petros). ACHIZIȚIE SUBMILIMETRICĂ < 0.625 mm. Reconstrucții directe axiale și
+    coronale ultra-fine cu filtru de os de rezoluție extremă.'
+  tips: Rezoluție extremă obligatorie. Kernel osos foarte dur (Bone sharp).
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu capul imobilizat în suport dedicat
+premedication: ''
+protocol_type: neuroradiology
+recons:
+- acquisition: CT Axial Stânci Temporale
+  fov: Stâncă temporală
+  kernel: Bone sharp
+  notes: Filtru osos de rezoluție ultra-înaltă
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: CT Coronal Stânci Temporale
+  fov: Stâncă temporală
+  kernel: Bone sharp
+  notes: Plan coronal osos pentru lanțul osicular și tegmen
+  plane: Coronal
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: CT Axial Stânci Temporale
+  fov: Ureche medie
+  kernel: Bone
+  notes: Plan oblic orientat pe lanțul de oscioare
+  plane: Oblique sagittal
+  thickness_increment: 0.5 mm/0.5 mm
+- acquisition: CT Axial Stânci Temporale
+  fov: Ureche internă
+  kernel: Bone
+  notes: Incidențe specifice Pöschl și Stenvers pentru CAI și canale semicirculare
+  plane: Pöschl/Stenvers
+  thickness_increment: 0.5 mm/0.5 mm
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Vârful stâncii temporale
+  name: CT Axial Stânci Temporale
+  notes: Paralel cu canalul semicircular lateral
+  start: Conduct auditiv extern
+  thickness: 0.625 mm
+- delay: 0 sec
+  end: Conduct auditiv intern
+  name: CT Coronal Stânci Temporale
+  notes: Perpendicular pe axul stâncii petroase
+  start: Conduct auditiv extern
+  thickness: 0.625 mm
+slug: ct-temporal-bones
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Curent crescut (referință 300-400 mAs)
+  pitch: Sequential or helical
+  rotation_time: Axial/Coronals
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Stânci Temporale / Ureche Medie și Internă
 ---
 
-# CT Temporal Bones
+# CT Stânci Temporale / Ureche Medie și Internă
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Axial Temporal | Non-contrast | EAC to Petrous apex |
-        | Coronal Temporal | Non-contrast | EAC to IAC |
+        | CT Axial Stânci Temporale | 0 sec | Conduct auditiv extern → Vârful stâncii temporale |
+        | CT Coronal Stânci Temporale | 0 sec | Conduct auditiv extern → Conduct auditiv intern |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Hearing loss
-        - Chronic otitis
-        - Cholesteatoma
-        - Temporal bone fracture
-        - Pre-operative cochlear implant
+        - Hipoacuzie de transmisie, neurosenzorială sau mixtă
+        - Otite medii cronice / otomastoidită
+        - Suspiciune de colesteatom
+        - Fractură de stâncă temporală (longitudinală / transversală)
+        - Bilanț pre-implant cohlear
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit dorsal cu capul imobilizat în suport dedicat
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Temporal bones: external auditory canal to petrous apex. SUBMILLIMETER <0.625mm. Direct axial and direct coronal if possible. Ultra high resolution
-        - Additional Recons: Pöschl and Stenvers oblique reformats for IAC. Measure vestibular aqueduct
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    === "Parametri de Injectare"
 
-        - No IV. Remove hearing aids and earrings
+        | Parametru | Valoare |
+        |-----------|-------|
+        | Agent | Fără substanță de contrast |
+        | Volum |  |
+        | Rată de Flux |  |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
-    === "Radiologist Notes"
+-   __4. Parametri Tehnici Achiziție__
 
-        - Ossicles. Cochlea. Semicircular canals. Internal auditory canal. Mastoid air cells. Cholesteatoma. Fracture. Tegmen
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Curent crescut (referință 300-400 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | Axial/Coronal s |
+    | **Pitch (Factor Pas)** | Sequential or helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
 
-    === "Tips & Tricks"
+-   __5. Note Speciale__
 
-        - Submillimeter critical. Sharp bone kernel. Remove all metal
+    ---
+
+    === "Note Tehnician"
+
+        - Stânci temporale: de la canalul auditiv extern până la vârful stâncii (apexul petros). ACHIZIȚIE SUBMILIMETRICĂ < 0.625 mm. Reconstrucții directe axiale și coronale ultra-fine cu filtru de os de rezoluție extremă.
+
+    === "Note Asistent"
+
+        - Fără linie venoasă. Îndepărtați aparatele auditive și cerceii.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
+
+    === "Note Radiolog"
+
+        - Lanțul osicular (ciocan, nicovală, scăriță). Melcul (cohleea), canalele semicirculare, vestibulul. Conductul auditiv intern (CAI) și meatul acustic extern. Celulele mastoidiene. Integritatea tegmen tympani și a canalului nervului facial.
+
+    === "Sfaturi & Recomandări"
+
+        - Rezoluție extremă obligatorie. Kernel osos foarte dur (Bone sharp).
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | EAC level | Petrous apex | N/A | N/A | Lateral |
-    | Axial Temporal | EAC | Petrous apex | N/A | 0.5-0.625 mm | Parallel to lateral SCC |
-    | Coronal Temporal | EAC | IAC | N/A | 0.5-0.625 mm | Perpendicular to petrous ridge |
+    | CT Axial Stânci Temporale | Conduct auditiv extern | Vârful stâncii temporale | 0 sec | 0.625 mm | Paralel cu canalul semicircular lateral |
+    | CT Coronal Stânci Temporale | Conduct auditiv extern | Conduct auditiv intern | 0 sec | 0.625 mm | Perpendicular pe axul stâncii petroase |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Temporal | Bilateral | 0.5 mm/0.5 mm | Bone sharp | N/A | Ultra HR bone |
-    | Coronal | Temporal | Bilateral | 0.5 mm/0.5 mm | Bone sharp | N/A | Coronal bone |
-    | Oblique sagittal | Temporal | Ossicles | 0.5 mm | Bone | N/A | Ossicular chain |
-    | Pöschl/Stenvers | Temporal | IAC | 0.75 mm | Bone | N/A | IAC oriented views |
+    | Axial | CT Axial Stânci Temporale | Stâncă temporală | 0.625 mm/0.625 mm | Bone sharp |  | Filtru osos de rezoluție ultra-înaltă |
+    | Coronal | CT Coronal Stânci Temporale | Stâncă temporală | 0.625 mm/0.625 mm | Bone sharp |  | Plan coronal osos pentru lanțul osicular și tegmen |
+    | Oblique sagittal | CT Axial Stânci Temporale | Ureche medie | 0.5 mm/0.5 mm | Bone |  | Plan oblic orientat pe lanțul de oscioare |
+    | Pöschl/Stenvers | CT Axial Stânci Temporale | Ureche internă | 0.5 mm/0.5 mm | Bone |  | Incidențe specifice Pöschl și Stenvers pentru CAI și canale semicirculare |

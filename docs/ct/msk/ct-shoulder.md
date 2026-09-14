@@ -1,172 +1,194 @@
 ---
-title: CT Shoulder
-slug: ct-shoulder
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Shoulder fracture
-- Proximal humerus
-- Glenoid
-- Scapula
-- Rotator cuff calcification
-position: Supine with arm at side
-npo: N/A
-premedication: ''
+- Fracturi ale epifizei proximale humerale (clasificare Neer)
+- Fracturi ale cavității glenoide (Bankart osos, fracturi de margini glenoide)
+- Fracturi ale scapulei (corp, spina, coracoidă, acromion)
+- Calcificări periarticulare (tendinopatie calcifiantă a coafei rotatorilor)
 contrast:
-  agent: None typically. Contrast if infection/mass
-  volume: 'If contrast: 75 mL'
+  agent: Nativ de regulă. Contrast dacă se suspectează formațiune tumorală/abces
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Shoulder
-  start: Entire scapula
-  end: Proximal humerus
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Shoulder
-  fov: Shoulder
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Axial bone
-- plane: Coronal
-  acquisition: Shoulder
-  fov: Shoulder
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal shoulder
-- plane: Sagittal
-  acquisition: Shoulder
-  fov: Shoulder
-  thickness_increment: 2 mm/1.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal shoulder
-- plane: Oblique
-  acquisition: Shoulder
-  fov: Glenoid
-  thickness_increment: 1.5 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Glenoid en face
+  volume: 'Dacă este indicat: 75 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Include entire scapula and proximal humerus. Submillimeter for glenoid detail.
-    Y-views for scapula
-  nursing: No IV unless contrast indicated
-  rad: Proximal humerus fractures (Neer). Glenoid fractures. Scapular fractures. AC
-    joint. Rotator cuff calcifications
-  tips: Include entire scapula. Submillimeter for glenoid
-  additional_recons: 3D reconstruction. Neer classification if proximal humerus. Glenoid
-    version measurements
+  additional_recons: Randare tridimensională 3D a articulației glenohumerale cu substracția
+    humerusului pentru măsurarea 'en face' a pierderii de os glenoidian (glenoid version
+    and bone loss).
+  nursing: Fără linie venoasă de rutină.
+  rad: Fracturi de humerus proximal (cap, mare/mic trohiter, col chirurgical - segmente
+    Neer). Pierderea de substanță osoasă glenoidiană (glenoid bone loss) în instabilitate.
+    Fracturi scapulare. Articulație acromio-claviculară.
+  tech: Include întreaga scapulă și treimea proximală a humerusului. Achiziție submilimetrică
+    pentru detaliul marginii glenoide. Incidențe Y pentru profilul scapulei.
+  tips: Includeți complet omoplatul în câmpul de scanare. Secțiuni submilimetrice.
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu brațul de-a lungul corpului
+premedication: ''
+protocol_type: musculoskeletal
+recons:
+- acquisition: CT Umăr
+  fov: Umăr
+  kernel: Bone
+  notes: Fereastră osoasă axială
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Umăr
+  fov: Umăr
+  kernel: Bone
+  notes: Plan oblic coronal în axul fosei glenoide
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Umăr
+  fov: Umăr
+  kernel: Bone
+  notes: Plan oblic sagital paralel cu suprafața glenoidiană
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Umăr
+  fov: Glenoidă
+  kernel: Bone
+  notes: Plan 'en face' pe suprafața articulară glenoidă
+  plane: Oblique
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Humerus proximal
+  name: CT Umăr
+  notes: Achiziție elicoidală submilimetrică
+  start: Marginea superioară a scapulei
+  thickness: 0.625 mm
+slug: ct-shoulder
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Umăr
 ---
 
-# CT Shoulder
+# CT Umăr
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Shoulder | Contrast (N/A or 60s if contrast delay) | Entire scapula to Proximal humerus |
+        | CT Umăr | 0 sec | Marginea superioară a scapulei → Humerus proximal |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Shoulder fracture
-        - Proximal humerus
-        - Glenoid
-        - Scapula
-        - Rotator cuff calcification
+        - Fracturi ale epifizei proximale humerale (clasificare Neer)
+        - Fracturi ale cavității glenoide (Bankart osos, fracturi de margini glenoide)
+        - Fracturi ale scapulei (corp, spina, coracoidă, acromion)
+        - Calcificări periarticulare (tendinopatie calcifiantă a coafei rotatorilor)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine with arm at side
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațul de-a lungul corpului
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/mass |
-        | Volume | If contrast: 75 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă se suspectează formațiune tumorală/abces |
+        | Volum | Dacă este indicat: 75 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Include entire scapula and proximal humerus. Submillimeter for glenoid detail. Y-views for scapula
-        - Additional Recons: 3D reconstruction. Neer classification if proximal humerus. Glenoid version measurements
+        - Include întreaga scapulă și treimea proximală a humerusului. Achiziție submilimetrică pentru detaliul marginii glenoide. Incidențe Y pentru profilul scapulei.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast indicated
+        - Fără linie venoasă de rutină.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Proximal humerus fractures (Neer). Glenoid fractures. Scapular fractures. AC joint. Rotator cuff calcifications
+        - Fracturi de humerus proximal (cap, mare/mic trohiter, col chirurgical - segmente Neer). Pierderea de substanță osoasă glenoidiană (glenoid bone loss) în instabilitate. Fracturi scapulare. Articulație acromio-claviculară.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Include entire scapula. Submillimeter for glenoid
+        - Includeți complet omoplatul în câmpul de scanare. Secțiuni submilimetrice.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Include scapula | Proximal humerus | N/A | N/A | AP and Y-view |
-    | CT Shoulder | Entire scapula | Proximal humerus | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Umăr | Marginea superioară a scapulei | Humerus proximal | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Shoulder | Shoulder | 1.5 mm/1 mm | Bone | N/A | Axial bone |
-    | Coronal | Shoulder | Shoulder | 2 mm/1.5 mm | Bone | N/A | Coronal shoulder |
-    | Sagittal | Shoulder | Shoulder | 2 mm/1.5 mm | Bone | N/A | Sagittal shoulder |
-    | Oblique | Shoulder | Glenoid | 1.5 mm | Bone | N/A | Glenoid en face |
+    | Axial | CT Umăr | Umăr | 1 mm/1 mm | Bone |  | Fereastră osoasă axială |
+    | Coronal | CT Umăr | Umăr | 1 mm/1 mm | Bone |  | Plan oblic coronal în axul fosei glenoide |
+    | Sagital | CT Umăr | Umăr | 1 mm/1 mm | Bone |  | Plan oblic sagital paralel cu suprafața glenoidiană |
+    | Oblique | CT Umăr | Glenoidă | 0.75 mm/0.75 mm | Bone |  | Plan 'en face' pe suprafața articulară glenoidă |

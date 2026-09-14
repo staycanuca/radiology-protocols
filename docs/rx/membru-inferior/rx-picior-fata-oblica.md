@@ -1,0 +1,124 @@
+---
+author: Departamentul de Radiologie
+breathing: Nemodificată
+category: membru-inferior
+centering: Baza celui de-al treilea metatarsian
+clinical_indications:
+- Traumatisme ale piciorului, fracturi de metatarsiene (inclusiv fractura de marș
+  / stres)
+- Fractură de bază metatarsian V (fractura Jones)
+- Suspiciune leziune a articulației Lisfranc sau Chopart
+- Deformații ale piciorului (hallux valgus, picior plat - evaluat în sprijin)
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
+last_updated: '2026-09-13'
+modality: rx
+notes: Pentru evaluarea piciorului plat sau scobit, radiografiile trebuie efectuate
+  obligatoriu în sarcină (sprijin bipodal).
+position: '1) AP (Dorso-plantar): talpa piciorului așezată plan pe casetă, tubul angulat
+  10° posterior către călcâi; 2) Oblică medială: piciorul rotit intern la 30-45° față
+  de suprafața mesei'
+protection:
+- Șorț pelvin de plumb
+- Colimare strictă
+quality_criteria:
+- Fantele metatarso-falangiene și tarso-metatarsiene clar vizibile
+- 'Pe oblică: articulațiile cuboidului cu metatarsienele IV-V și navicularul sunt
+  eliberate de suprapuneri'
+- Baza metatarsianului V clar decelabilă fără fractură
+sid_dff: 100 cm
+slug: rx-picior-fata-oblica
+tech_params:
+  aec_chambers: Manual
+  collimation: De la tuberozitatea calcaneului la vârfurile falangelor
+  filtration: Totală ≥ 2.5 mm Al
+  focal_spot: Focar Mic (0.6 mm)
+  grid: Fără grilă antidifuzoare
+  kv: 52 - 58
+  mas: 2.5 - 4
+title: Rx Picior (Față & Oblică)
+---
+# Rx Picior (Față & Oblică)
+
+<div class="rx-meta-bar">
+  <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
+  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Autor:</strong> Departamentul de Radiologie</span>
+</div>
+
+---
+
+<div class="grid cards" markdown>
+
+-   __1. Rezumat Clinic & Indicații__
+
+    ---
+
+    === "Indicații Clinice"
+
+        - Traumatisme ale piciorului, fracturi de metatarsiene (inclusiv fractura de marș / stres)
+        - Fractură de bază metatarsian V (fractura Jones)
+        - Suspiciune leziune a articulației Lisfranc sau Chopart
+        - Deformații ale piciorului (hallux valgus, picior plat - evaluat în sprijin)
+
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Poziționare & Centrare Fascicul__
+
+    ---
+
+    - **Poziție Pacient:** 1) AP (Dorso-plantar): talpa piciorului așezată plan pe casetă, tubul angulat 10° posterior către călcâi; 2) Oblică medială: piciorul rotit intern la 30-45° față de suprafața mesei
+    - **Punct de Centrare Fascicul:** Baza celui de-al treilea metatarsian
+    - **Distanță Focar-Film (DFF / SID):** 100 cm
+    - **Comandă Respiratorie:** Nemodificată
+
+-   __3. Parametri Tehnici Expunere__
+
+    ---
+
+    | Parametru Tehnic | Valoare Configurare Generator / Tub |
+    |:-----------------|:-------------------------------------|
+    | **Tensiune Tub (kV)** | 52 - 58 kV |
+    | **Sarcină / Produs Curent-Timp (mAs)** | 2.5 - 4 mAs |
+    | **Distanță Focar-Film (DFF / SID)** | 100 cm |
+    | **Grilă Antidifuzoare (Bucky)** | Fără grilă antidifuzoare |
+    | **Dimensiune Focar** | Focar Mic (0.6 mm) |
+    | **Camere de Ionizare AEC** | Manual |
+    | **Colimare Fascicul** | De la tuberozitatea calcaneului la vârfurile falangelor |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
+
+-   __4. Criterii de Calitate & Reușită Imagine__
+
+    ---
+
+    - Fantele metatarso-falangiene și tarso-metatarsiene clar vizibile
+    - Pe oblică: articulațiile cuboidului cu metatarsienele IV-V și navicularul sunt eliberate de suprapuneri
+    - Baza metatarsianului V clar decelabilă fără fractură
+
+-   __5. Protecție Radiologică (ALARA)__
+
+    ---
+
+    - Șorț pelvin de plumb
+    - Colimare strictă
+
+</div>
+
+!!! note "Observații Clinice & Tehnice"
+    Pentru evaluarea piciorului plat sau scobit, radiografiile trebuie efectuate obligatoriu în sarcină (sprijin bipodal).
+
+=== "Ghid Rapid de Execuție"
+
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
+    4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
+    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.

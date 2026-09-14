@@ -1,192 +1,216 @@
 ---
-title: Brain Stroke Protocol
-slug: brain-stroke-protocol
+author: null
 category: neuro
-protocol_type: neuroradiology
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Acute stroke
-- CVA
-- Neurological deficit < 24 hours
-- Stroke code
-position: Supine head-first
-npo: None - emergency
-premedication: ''
+- Accident vascular cerebral ischemic acut (Cod AVC)
+- Deficit neurologic focal cu debut brusc (< 24 ore)
+- Candidat pentru tromboliză intravenoasă și/sau trombectomie mecanică
 contrast:
-  agent: IsoVue 370 for CTA/CTP
-  volume: 100 mL
+  agent: IsoVue 370 pentru Angio-CT / Perfuzie CT
   flow_rate: 4-5 mL/s
-  timing: Multi-phase stroke protocol
-  roi: Multiple ROIs
-  trigger: Varies
-tech_params:
-  kv: '120'
-  mas: Auto (300 head)
-  rotation_time: 1.0 / 0.5s
-  pitch: '0.5'
-series:
-- name: NC Head
-  start: Skull base
-  end: Vertex
-  delay: N/A
-  thickness: 5 mm
-  notes: STAT no contrast
-- name: CTA Arch to Vertex
-  start: Aortic arch
-  end: Vertex
-  delay: Bolus tracked aorta
-  thickness: 0.625 mm
-  notes: Intracranial vessels
-- name: CTP (optional)
-  start: Skull base
-  end: Vertex
-  delay: Auto-triggered
-  thickness: 5 mm dynamic
-  notes: Perfusion if candidate
-recons:
-- plane: Axial
-  acquisition: NC head
-  fov: Brain
-  thickness_increment: 5 mm/5 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: STAT hemorrhage detection
-- plane: Axial
-  acquisition: CTA Arch to Vertex
-  fov: Head and Neck
-  thickness_increment: 1 mm/1 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: LVO detection
-- plane: MIP
-  acquisition: CTA
-  fov: Circle of Willis
-  thickness_increment: Thick slab
-  kernel: Brain
-  ir_strength: N/A
-  notes: Vessel overview
-- plane: CTP maps
-  acquisition: CTP
-  fov: Perfusion
-  thickness_increment: Color maps
-  kernel: N/A
-  ir_strength: N/A
-  notes: CBF CBV MTT Tmax maps
+  roi: Multiple ROI
+  timing: 'Protocol multifazic AVC: Nativ + Angio-CT + Perfuzie (CTP)'
+  trigger: Variabil
+  volume: 100 mL
+last_updated: '2026-01-01'
 notes:
-  tech: 'STAT protocol: 1) NC Head 2) CTA Head/Neck (aortic arch to vertex) 3) CTP
-    (optional). Minimize door-to-scan time'
-  nursing: No IV for NC. Large bore for CTA/CTP. STAT coordination
-  rad: 'NC: hemorrhage early ischemia hyperdense vessel. CTA: LVO large vessel occlusion.
-    CTP: penumbra core mismatch'
-  tips: STAT protocol. Minimize delays. LVO detection critical
-  additional_recons: CTA MIP and 3D. CTP perfusion maps if done. ASPECTS score. LVO
-    documentation
+  additional_recons: Reconstrucții MIP și 3D ale vaselor intracraniene. Hărți cantitative
+    de perfuzie (CBF, CBV, MTT, Tmax > 6s). Scorp ASPECTS raportat obligatoriu.
+  nursing: Fără linie pentru nativ. Linie venoasă 18-20G cu debit mare plasată imediat
+    pentru Angio-CT/CTP. Coordonare de urgență cu echipa de neurologie.
+  rad: 'Nativ: hemoragie intracraniană, calculare scor ASPECTS, semne precoce de ischemie
+    (ștergerea diferențierii substanță albă-cenușie, semnul arterei cerebrale medii
+    hiperdense). Angio-CT: ocluzie de vas mare (LVO - ACM M1/M2, ACI terminală, arteră
+    bazilară), colaterale piale. CTP: volum miez necrotic (core) vs. penumbră ischemică
+    salvabilă (mismatch).'
+  tech: 'Protocol STAT: 1) CT Craniu nativ (excludere hemoragie intracraniană) 2)
+    Angio-CT Vase mari gât și cap (arc aortic - vertex) 3) Perfuzie CT (CTP opțional/conform
+    protocolului). Minimizați timpul ușă-la-scanare (door-to-needle/groin).'
+  tips: Protocol STAT de urgență vitală. Fiecare minut contează ('Time is Brain').
+    Detecția ocluziilor mari de vas este prioritară.
+npo: Fără repaus alimentar - urgență medicală majoră
+position: Decubit dorsal cu capul înainte
+premedication: Fără premedicație
+protocol_type: neuroradiology
+recons:
+- acquisition: CT Nativ Craniu
+  fov: Craniu
+  kernel: Brain
+  notes: Detecția imediată a hemoragiei și calcul scor ASPECTS
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Angio-CT Arc Aortic la Vertex
+  fov: Craniu
+  kernel: Brain
+  notes: Detecția ocluziei de vas mare (LVO)
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Arc Aortic la Vertex
+  fov: Craniu
+  kernel: Brain
+  notes: MIP pentru rețeaua colaterală vasculară pială
+  plane: MIP
+  thickness_increment: 5 mm/2 mm
+- acquisition: Perfuzie CT (opțional)
+  fov: Craniu
+  kernel: N/A
+  notes: Hărți color de perfuzie cerebrală (CBF, CBV, MTT, Tmax)
+  plane: CTP maps
+  thickness_increment: 5 mm/5 mm
 safety:
-  renal: Emergency proceed
-  allergy: STAT protocol
+  allergy: Consemnați statutul de urgență dacă există antecedente alergice
+  renal: Urgență AVC acut - nu se temporizează examinarea sau tromboliza în așteptarea
+    creatininei
+series:
+- delay: 0 sec
+  end: Vertex
+  name: CT Nativ Craniu
+  notes: STAT fără contrast pentru excluderea hemoragiei
+  start: Baza craniului
+  thickness: 2.5 mm
+- delay: Urmărire bolus
+  end: Vertex
+  name: Angio-CT Arc Aortic la Vertex
+  notes: Detecția ocluziilor de vas mare (LVO)
+  start: Arc aortic
+  thickness: 0.625 mm
+- delay: Dinamic
+  end: Vertex
+  name: Perfuzie CT (opțional)
+  notes: Evaluarea penumbrei ischemice dacă pacientul este candidat la trombectomie
+  start: Baza craniului
+  thickness: 5 mm
+slug: brain-stroke-protocol
+synonyms: []
+tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: '120'
+  mas: Auto (referință 300 mAs craniu)
+  pitch: '0.5'
+  rotation_time: 1.0 / 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Protocol CT AVC Acut (Cod AVC Cerebral)
 ---
 
-# Brain Stroke Protocol
+# Protocol CT AVC Acut (Cod AVC Cerebral)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | NC Head | Non-contrast | Vertex to Foramen magnum |
-        | CTA Arch to Vertex | Arterial (bolus tracked) | Aortic arch to Vertex |
-        | CTP (optional) | Contrast (Auto-triggered delay) | Skull base to Vertex |
+        | CT Nativ Craniu | 0 sec | Baza craniului → Vertex |
+        | Angio-CT Arc Aortic la Vertex | Urmărire bolus | Arc aortic → Vertex |
+        | Perfuzie CT (opțional) | Dinamic | Baza craniului → Vertex |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Acute stroke
-        - CVA
-        - Neurological deficit < 24 hours
-        - Stroke code
+        - Accident vascular cerebral ischemic acut (Cod AVC)
+        - Deficit neurologic focal cu debut brusc (< 24 ore)
+        - Candidat pentru tromboliză intravenoasă și/sau trombectomie mecanică
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine head-first
-    - **NPO Status:** None - emergency
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul înainte
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar - urgență medicală majoră
+    - **Premedicație / Pregătire:**
+        - Fără premedicație
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | IsoVue 370 for CTA/CTP |
-        | Volume | 100 mL |
-        | Flow Rate | 4-5 mL/s |
-        | Timing Method | Multi-phase stroke protocol |
-        | ROI Placement | Multiple ROIs |
-        | Trigger (HU) | Varies |
+        | Agent | IsoVue 370 pentru Angio-CT / Perfuzie CT |
+        | Volum | 100 mL |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Protocol multifazic AVC: Nativ + Angio-CT + Perfuzie (CTP) |
+        | Poziționare ROI | Multiple ROI |
+        | Declanșator (HU) | Variabil |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 300 mAs craniu) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | 1.0 / 0.5 s |
+    | **Pitch (Factor Pas)** | 0.5 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - STAT protocol: 1) NC Head 2) CTA Head/Neck (aortic arch to vertex) 3) CTP (optional). Minimize door-to-scan time
-        - Additional Recons: CTA MIP and 3D. CTP perfusion maps if done. ASPECTS score. LVO documentation
+        - Protocol STAT: 1) CT Craniu nativ (excludere hemoragie intracraniană) 2) Angio-CT Vase mari gât și cap (arc aortic - vertex) 3) Perfuzie CT (CTP opțional/conform protocolului). Minimizați timpul ușă-la-scanare (door-to-needle/groin).
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV for NC. Large bore for CTA/CTP. STAT coordination
+        - Fără linie pentru nativ. Linie venoasă 18-20G cu debit mare plasată imediat pentru Angio-CT/CTP. Coordonare de urgență cu echipa de neurologie.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Emergency proceed
-            - **Allergy:** STAT protocol
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Urgență AVC acut - nu se temporizează examinarea sau tromboliza în așteptarea creatininei
+            - **Alergii:** Consemnați statutul de urgență dacă există antecedente alergice
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: hemorrhage early ischemia hyperdense vessel. CTA: LVO large vessel occlusion. CTP: penumbra core mismatch
+        - Nativ: hemoragie intracraniană, calculare scor ASPECTS, semne precoce de ischemie (ștergerea diferențierii substanță albă-cenușie, semnul arterei cerebrale medii hiperdense). Angio-CT: ocluzie de vas mare (LVO - ACM M1/M2, ACI terminală, arteră bazilară), colaterale piale. CTP: volum miez necrotic (core) vs. penumbră ischemică salvabilă (mismatch).
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - STAT protocol. Minimize delays. LVO detection critical
+        - Protocol STAT de urgență vitală. Fiecare minut contează ('Time is Brain'). Detecția ocluziilor mari de vas este prioritară.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Vertex | Aortic arch | N/A | N/A | STAT lateral |
-    | NC Head | Skull base | Vertex | N/A | 5 mm | STAT no contrast |
-    | CTA Arch to Vertex | Aortic arch | Vertex | Bolus tracked aorta | 0.625 mm | Intracranial vessels |
-    | CTP (optional) | Skull base | Vertex | Auto-triggered | 5 mm dynamic | Perfusion if candidate |
+    | CT Nativ Craniu | Baza craniului | Vertex | 0 sec | 2.5 mm | STAT fără contrast pentru excluderea hemoragiei |
+    | Angio-CT Arc Aortic la Vertex | Arc aortic | Vertex | Urmărire bolus | 0.625 mm | Detecția ocluziilor de vas mare (LVO) |
+    | Perfuzie CT (opțional) | Baza craniului | Vertex | Dinamic | 5 mm | Evaluarea penumbrei ischemice dacă pacientul este candidat la trombectomie |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | NC head | Brain | 5 mm/5 mm | Brain | 3 | STAT hemorrhage detection |
-    | Axial | CTA Arch to Vertex | Head and Neck | 1 mm/1 mm | Brain | 3 | LVO detection |
-    | MIP | CTA | Circle of Willis | Thick slab | Brain | N/A | Vessel overview |
-    | CTP maps | CTP | Perfusion | Color maps | N/A | N/A | CBF CBV MTT Tmax maps |
+    | Axial | CT Nativ Craniu | Craniu | 2.5 mm/2.5 mm | Brain |  | Detecția imediată a hemoragiei și calcul scor ASPECTS |
+    | Axial | Angio-CT Arc Aortic la Vertex | Craniu | 1 mm/1 mm | Brain |  | Detecția ocluziei de vas mare (LVO) |
+    | MIP | Angio-CT Arc Aortic la Vertex | Craniu | 5 mm/2 mm | Brain |  | MIP pentru rețeaua colaterală vasculară pială |
+    | CTP maps | Perfuzie CT (opțional) | Craniu | 5 mm/5 mm | N/A |  | Hărți color de perfuzie cerebrală (CBF, CBV, MTT, Tmax) |

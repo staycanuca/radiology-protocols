@@ -1,199 +1,222 @@
 ---
-title: CTA SCAD/FMD Protocol
-slug: cta-scadfmd-protocol
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Spontaneous coronary artery dissection screening
-- Fibromuscular dysplasia screening
-- Multi-vessel arterial assessment
-position: Supine with arms initially UP then DOWN
-npo: NPO 4 hours
-premedication: ''
+- Screening vascular după disecție spontană de arteră coronară (SCAD)
+- Screening și bilanț complet pentru displazie fibromusculară (FMD)
+- Evaluarea afectării arteriale multiteritoriale
 contrast:
   agent: Isovue 370
-  volume: 150 mL total
   flow_rate: 4 mL/s
-  timing: 'Multi-phase: NC Head + CTA Neck + CTA CAP arms up + Post-contrast Head
-    arms down'
-  roi: Multiple ROIs
+  roi: ROI multiple
+  timing: 'Protocol multiteritoriu: Nativ Craniu + Angio-CT Gât + Angio-CT CAP + Post-contrast
+    Craniu'
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: Auto (reference 200-250)
-  rotation_time: 0.5s
-  pitch: 0.9-1.2
-series:
-- name: Non-contrast Head
-  start: Vertex
-  end: Foramen magnum
-  delay: N/A
-  thickness: 5 mm
-  notes: Arms down - baseline
-- name: CTA Neck
-  start: Aortic arch
-  end: Vertex
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Arms down - carotid/vertebral
-- name: CTA CAP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 35 sec after neck
-  thickness: 0.625 mm
-  notes: Arms UP - renal and mesenteric
-- name: Post-contrast Head
-  start: Vertex
-  end: Foramen magnum
-  delay: After CAP
-  thickness: 1.25 mm
-  notes: Arms DOWN - intracranial vessels
-recons:
-- plane: Axial
-  acquisition: All phases
-  fov: Respective FOV
-  thickness_increment: Phase-specific
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Comprehensive arterial assessment
-- plane: Coronal
-  acquisition: CTA phases
-  fov: Full body
-  thickness_increment: 2-3 mm/2-3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP of all arterial territories
-- plane: Sagittal
-  acquisition: CTA phases
-  fov: Full body
-  thickness_increment: 2-3 mm/2-3 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Lateral views all vessels
-- plane: 3D VR
-  acquisition: CTA phases
-  fov: Full body
-  thickness_increment: 1 mm source
-  kernel: Vascular
-  ir_strength: '3'
-  notes: 3D reconstruction multi-territory
+  volume: 150 mL volum total
+last_updated: '2026-01-01'
 notes:
-  tech: 'FOUR acquisitions: 1) NC Head arms down 2) CTA Neck bolus track 3) CTA CAP
-    arms up 4) Post Head arms down. Patient repositions arms between scans'
-  nursing: 20G IV minimum. Verify good flow for multiple phases
-  rad: Screen all vascular beds for FMD. Look for beading stenosis aneurysm dissection.
-    Assess renal carotid vertebral intracranial arteries
-  tips: Coach patient on arm repositioning. Multiple phases require good IV. Plan
-    scan sequence carefully
-  additional_recons: Comprehensive MIP and 3D VR of all vascular beds. Measure vessel
-    diameters. Document FMD findings
+  additional_recons: Reconstrucții MIP și 3D VR ale tuturor teritoriilor arteriale
+    (carotidian, renal, mezenteric, cerebral). Măsurarea calibrului leziunilor.
+  nursing: Linie venoasă minim 20G cu flux excelent.
+  rad: 'Screening-ul tuturor paturilor vasculare afectate de FMD: artere renale, carotide
+    interne extracraniene, vertebrale, iliace și artere cerebrale. Căutați aspectul
+    clasic în ''șirag de mărgele'' (string-of-beads), anevrisme saculare, stenoze
+    focale sau disecții oculte.'
+  tech: 'PATRU etape de achiziție: 1) Craniu nativ cu brațele jos 2) Angio-CT Gât
+    cu brațele jos (carotide și vertebrale) 3) Angio-CT CAP cu brațele SUS (renale
+    și mezenterice) 4) Craniu post-contrast cu brațele jos. Pacientul își repoziționează
+    brațele între scanări conform indicațiilor.'
+  tips: Antrenați pacientul pentru repoziționarea rapidă a brațelor. Pregătire meticuloasă.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele inițial JOS, apoi SUS
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Gât
+  fov: Multiple
+  kernel: Vascular
+  notes: Evaluare arterială multiteritorială
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT CAP
+  fov: Multiple
+  kernel: Vascular
+  notes: MIP al teritoriilor renale și carotidiene
+  plane: Coronal
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Gât
+  fov: Multiple
+  kernel: Vascular
+  notes: Vederi sagitale ale traiectului carotidian și renal
+  plane: Sagital
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT CAP
+  fov: Multiple
+  kernel: Vascular
+  notes: Randare 3D tridimensională a tuturor axelor arteriale
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history. Explain arm repositioning
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m² (se administrează ~150 mL contrast)
+series:
+- delay: 0 sec
+  end: Gaura occipitală
+  name: CT Nativ Craniu
+  notes: Brațele jos - referință nativă
+  start: Vertex
+  thickness: 1.25 mm
+- delay: Urmărire bolus
+  end: Vertex
+  name: Angio-CT Gât
+  notes: Brațele jos - artere carotide și vertebrale
+  start: Arc aortic
+  thickness: 0.625 mm
+- delay: Continuare
+  end: Simfiză pubiană
+  name: Angio-CT CAP
+  notes: Brațele SUS - artere renale, mezenterice și iliace
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: Post-CAP
+  end: Gaura occipitală
+  name: CT Craniu Post-Contrast
+  notes: Brațele JOS - poligonul Willis și circulația intracraniană
+  start: Vertex
+  thickness: 0.625 mm
+slug: cta-scadfmd-protocol
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Auto (referință 200-250 mAs)
+  pitch: 0.9-1.2
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Protocol Displazie Fibromusculară (FMD) și Disecție Coronariană (SCAD)
 ---
 
-# CTA SCAD/FMD Protocol
+# Angio-CT Protocol Displazie Fibromusculară (FMD) și Disecție Coronariană (SCAD)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast Head | Non-contrast | Vertex to Foramen magnum |
-        | CTA Neck | Arterial (bolus tracked) | Aortic arch to Vertex |
-        | CTA CAP | Contrast (35 sec after neck delay) | Diaphragm to Pubic symphysis |
-        | Post-contrast Head | Contrast (After CAP delay) | Vertex to Foramen magnum |
+        | CT Nativ Craniu | 0 sec | Vertex → Gaura occipitală |
+        | Angio-CT Gât | Urmărire bolus | Arc aortic → Vertex |
+        | Angio-CT CAP | Continuare | Diafragm → Simfiză pubiană |
+        | CT Craniu Post-Contrast | Post-CAP | Vertex → Gaura occipitală |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Spontaneous coronary artery dissection screening
-        - Fibromuscular dysplasia screening
-        - Multi-vessel arterial assessment
+        - Screening vascular după disecție spontană de arteră coronară (SCAD)
+        - Screening și bilanț complet pentru displazie fibromusculară (FMD)
+        - Evaluarea afectării arteriale multiteritoriale
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with arms initially UP then DOWN
-    - **NPO Status:** NPO 4 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele inițial JOS, apoi SUS
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 150 mL total |
-        | Flow Rate | 4 mL/s |
-        | Timing Method | Multi-phase: NC Head + CTA Neck + CTA CAP arms up + Post-contrast Head arms down |
-        | ROI Placement | Multiple ROIs |
-        | Trigger (HU) | 150 HU |
+        | Volum | 150 mL volum total |
+        | Rată de Flux | 4 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Protocol multiteritoriu: Nativ Craniu + Angio-CT Gât + Angio-CT CAP + Post-contrast Craniu |
+        | Poziționare ROI | ROI multiple |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200-250 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 0.9-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - FOUR acquisitions: 1) NC Head arms down 2) CTA Neck bolus track 3) CTA CAP arms up 4) Post Head arms down. Patient repositions arms between scans
-        - Additional Recons: Comprehensive MIP and 3D VR of all vascular beds. Measure vessel diameters. Document FMD findings
+        - PATRU etape de achiziție: 1) Craniu nativ cu brațele jos 2) Angio-CT Gât cu brațele jos (carotide și vertebrale) 3) Angio-CT CAP cu brațele SUS (renale și mezenterice) 4) Craniu post-contrast cu brațele jos. Pacientul își repoziționează brațele între scanări conform indicațiilor.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. Verify good flow for multiple phases
+        - Linie venoasă minim 20G cu flux excelent.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history. Explain arm repositioning
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m² (se administrează ~150 mL contrast)
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Screen all vascular beds for FMD. Look for beading stenosis aneurysm dissection. Assess renal carotid vertebral intracranial arteries
+        - Screening-ul tuturor paturilor vasculare afectate de FMD: artere renale, carotide interne extracraniene, vertebrale, iliace și artere cerebrale. Căutați aspectul clasic în 'șirag de mărgele' (string-of-beads), anevrisme saculare, stenoze focale sau disecții oculte.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Coach patient on arm repositioning. Multiple phases require good IV. Plan scan sequence carefully
+        - Antrenați pacientul pentru repoziționarea rapidă a brațelor. Pregătire meticuloasă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Non-contrast Head | Vertex | Foramen magnum | N/A | 5 mm | Arms down - baseline |
-    | CTA Neck | Aortic arch | Vertex | Bolus tracked | 0.625 mm | Arms down - carotid/vertebral |
-    | CTA CAP | Diaphragm | Pubic symphysis | 35 sec after neck | 0.625 mm | Arms UP - renal and mesenteric |
-    | Post-contrast Head | Vertex | Foramen magnum | After CAP | 1.25 mm | Arms DOWN - intracranial vessels |
+    | CT Nativ Craniu | Vertex | Gaura occipitală | 0 sec | 1.25 mm | Brațele jos - referință nativă |
+    | Angio-CT Gât | Arc aortic | Vertex | Urmărire bolus | 0.625 mm | Brațele jos - artere carotide și vertebrale |
+    | Angio-CT CAP | Diafragm | Simfiză pubiană | Continuare | 0.625 mm | Brațele SUS - artere renale, mezenterice și iliace |
+    | CT Craniu Post-Contrast | Vertex | Gaura occipitală | Post-CAP | 0.625 mm | Brațele JOS - poligonul Willis și circulația intracraniană |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | All phases | Respective FOV | Phase-specific | Vascular | 3 | Comprehensive arterial assessment |
-    | Coronal | CTA phases | Full body | 2-3 mm/2-3 mm | Vascular | 3 | MIP of all arterial territories |
-    | Sagittal | CTA phases | Full body | 2-3 mm/2-3 mm | Vascular | 3 | Lateral views all vessels |
-    | 3D VR | CTA phases | Full body | 1 mm source | Vascular | 3 | 3D reconstruction multi-territory |
+    | Axial | Angio-CT Gât | Multiple | 1 mm/1 mm | Vascular |  | Evaluare arterială multiteritorială |
+    | Coronal | Angio-CT CAP | Multiple | 1.5 mm/1.5 mm | Vascular |  | MIP al teritoriilor renale și carotidiene |
+    | Sagital | Angio-CT Gât | Multiple | 1.5 mm/1.5 mm | Vascular |  | Vederi sagitale ale traiectului carotidian și renal |
+    | 3D VR | Angio-CT CAP | Multiple | 1 mm/1 mm | Vascular |  | Randare 3D tridimensională a tuturor axelor arteriale |

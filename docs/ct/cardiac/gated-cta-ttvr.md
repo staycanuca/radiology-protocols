@@ -1,186 +1,205 @@
 ---
-title: Gated CTA TTVR
-slug: gated-cta-ttvr
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Pre-TTVR planning
-- Tricuspid valve replacement planning
-- Tricuspid regurgitation
-position: Supine with arms raised
-npo: NPO 4 hours
-premedication: HR < 65 target. Premedication not required.
+- Planificare pre-procedurală TTVR (înlocuire sau reparare transcateter de valvă tricuspidă)
+- Regurgitare tricuspidiană severă / torențială
+- Măsurători inel tricuspidian, atriu drept și raport cu vena cavă inferioară
 contrast:
-  agent: IsoVue 370
-  volume: 2.0 mL/kg
-  flow_rate: 3.5 mL/s
+  agent: Isovue 370
   duration: 30-50s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 3.5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
-tech_params:
-  kv: '100'
-  mas: NO ECG MODULATION chest / Auto AP
-  rotation_time: 0.28 / 0.5s
-  pitch: 0.2-0.24 / 1.2-1.5
-series:
-- name: Gated CTA Chest
-  start: Carina
-  end: Base of heart
-  delay: Bolus tracked
-  thickness: 0.5 mm
-  notes: NO DOSE PULSING - all phases
-- name: Delayed CAP
-  start: Diaphragm
-  end: Femoral heads
-  delay: 90 sec
-  thickness: 0.625 mm
-  notes: Access planning
-recons:
-- plane: Axial
-  acquisition: Gated chest
-  fov: Heart
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Tricuspid valve measurements
-- plane: Axial
-  acquisition: Delayed CAP
-  fov: AP
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Access assessment
-- plane: Double oblique
-  acquisition: Gated chest
-  fov: Tricuspid valve
-  thickness_increment: 0.5 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: En face tricuspid annulus
-- plane: 3D VR
-  acquisition: Delayed CAP
-  fov: Iliofemoral
-  thickness_increment: 1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Access planning
+  volume: 2.0 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Gated CHEST with NO DOSE PULSING + delayed 90 sec CAP. TTVR post-processing
-    required
-  nursing: 20G IV
-  rad: Measure tricuspid annulus. RA size. RV function. Coronary proximity. Access
-    vessels. TTVR-specific measurements
-  tips: NO dose modulation. Full dose all cardiac phases
-  additional_recons: 'TTVR measurements: annulus dimensions area perimeter. RA volume.
-    RV function. Coronary proximity. Access vessels'
+  additional_recons: 'Măsurători TTVR complete: dimensiuni inel, volum AD, funcție
+    VD, traiect RCA, calibru VCI și vene femurale.'
+  nursing: Linie venoasă 20G.
+  rad: Măsurarea inelului tricuspidian (arie, perimetre, diametru antero-posterior
+    și medio-lateral). Volumul atriului drept și funcția ventriculului drept. Proximitatea
+    arterei coronare drepte (RCA). Unghiul de intrare al venei cave inferioare.
+  tech: Angio-CT Torace sincronizat FĂRĂ MODULARE DE DOZĂ + scanare tardivă la 90s
+    Abdomen/Pelvis pentru abordul venos cavo-femural. Post-procesare specifică TTVR.
+  tips: Fără modulare a dozei pentru a permite reconstrucții în orice fază a ciclului
+    cardiac.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: HR < 65 target. Premedication not required.
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
+  kernel: Cardiac
+  notes: Măsurători morfologice ale valvei tricuspide
+  plane: Axial
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Fază Tardivă CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Evaluarea calibrului căilor de acces venoase
+  plane: Axial
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Torace Sincronizat
+  fov: Cord
+  kernel: Cardiac
+  notes: Plan dublu oblic 'en face' pe inelul tricuspidian
+  plane: Double oblique
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Fază Tardivă CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Randare 3D a accesului prin VCI și atriul drept
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Baza cordului
+  name: Angio-CT Torace Sincronizat
+  notes: FĂRĂ MODULARE DE DOZĂ - retrospectiv pe toate fazele
+  start: Carenă
+  thickness: 0.625 mm
+- delay: 90 sec
+  end: Capete femurale
+  name: Fază Tardivă CAP
+  notes: Planificarea abordului venos cavo-femural
+  start: Diafragm
+  thickness: 1.25 mm
+slug: gated-cta-ttvr
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: '100'
+  mas: Fără modulare ECG torace / Auto AP
+  pitch: 0.2-0.24 / 1.2-1.5
+  rotation_time: 0.28 / 0.5s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Sincronizat ECG Planificare TTVR (Implantare Valvulară Tricuspidă
+  Transcateter)
 ---
 
-# Gated CTA TTVR
+# Angio-CT Sincronizat ECG Planificare TTVR (Implantare Valvulară Tricuspidă Transcateter)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Gated CTA Chest | Arterial (bolus tracked) | Carina to Base of heart |
-        | Delayed CAP | Contrast (90 sec delay from CTA) | Diaphragm to Femoral heads |
+        | Angio-CT Torace Sincronizat | Urmărire bolus | Carenă → Baza cordului |
+        | Fază Tardivă CAP | 90 sec | Diafragm → Capete femurale |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Pre-TTVR planning
-        - Tricuspid valve replacement planning
-        - Tricuspid regurgitation
+        - Planificare pre-procedurală TTVR (înlocuire sau reparare transcateter de valvă tricuspidă)
+        - Regurgitare tricuspidiană severă / torențială
+        - Măsurători inel tricuspidian, atriu drept și raport cu vena cavă inferioară
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 target. Premedication not required.
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | IsoVue 370 |
-        | Volume | 2.0 mL/kg |
-        | Flow Rate | 3.5 mL/s |
-        | Duration | 30-50s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 180 HU |
+        | Agent | Isovue 370 |
+        | Volum | 2.0 mL/kg |
+        | Rată de Flux | 3.5 mL/s |
+        | Durată | 30-50s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 180 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
-        There is a lower limit of 120 mL of contrast needed for the exam.
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Fără modulare ECG torace / Auto AP |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 / 0.5 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 / 1.2-1.5 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Gated CHEST with NO DOSE PULSING + delayed 90 sec CAP. TTVR post-processing required
-        - Additional Recons: TTVR measurements: annulus dimensions area perimeter. RA volume. RV function. Coronary proximity. Access vessels
+        - Angio-CT Torace sincronizat FĂRĂ MODULARE DE DOZĂ + scanare tardivă la 90s Abdomen/Pelvis pentru abordul venos cavo-femural. Post-procesare specifică TTVR.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV
+        - Linie venoasă 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Measure tricuspid annulus. RA size. RV function. Coronary proximity. Access vessels. TTVR-specific measurements
+        - Măsurarea inelului tricuspidian (arie, perimetre, diametru antero-posterior și medio-lateral). Volumul atriului drept și funcția ventriculului drept. Proximitatea arterei coronare drepte (RCA). Unghiul de intrare al venei cave inferioare.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - NO dose modulation. Full dose all cardiac phases
+        - Fără modulare a dozei pentru a permite reconstrucții în orice fază a ciclului cardiac.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Thoracic inlet | Femoral heads | N/A | N/A | AP lateral |
-    | Gated CTA Chest |  Carina | Base of heart | Bolus tracked | 0.5 mm | NO DOSE PULSING - all phases |
-    | Delayed CAP | Diaphragm | Femoral heads | 90 sec | 0.625 mm | Access planning |
+    | Angio-CT Torace Sincronizat | Carenă | Baza cordului | Urmărire bolus | 0.625 mm | FĂRĂ MODULARE DE DOZĂ - retrospectiv pe toate fazele |
+    | Fază Tardivă CAP | Diafragm | Capete femurale | 90 sec | 1.25 mm | Planificarea abordului venos cavo-femural |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated chest | Heart | 0.5 mm/0.5 mm | Cardiac | 3 | Tricuspid valve measurements |
-    | Axial | Delayed CAP | AP | 2 mm/2 mm | Vascular | 3 | Access assessment |
-    | Double oblique | Gated chest | Tricuspid valve | 0.5 mm | Cardiac | 3 | En face tricuspid annulus |
-    | 3D VR | Delayed CAP | Iliofemoral | 1.5 mm | Vascular | 3 | Access planning |
+    | Axial | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Măsurători morfologice ale valvei tricuspide |
+    | Axial | Fază Tardivă CAP | Abdomen-Pelvis | 2 mm/2 mm | Vascular |  | Evaluarea calibrului căilor de acces venoase |
+    | Double oblique | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Plan dublu oblic 'en face' pe inelul tricuspidian |
+    | 3D VR | Fază Tardivă CAP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D a accesului prin VCI și atriul drept |

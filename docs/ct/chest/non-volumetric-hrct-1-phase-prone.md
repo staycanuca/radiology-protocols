@@ -1,147 +1,159 @@
 ---
-title: Non-Volumetric HRCT 1 Phase Prone
-slug: non-volumetric-hrct-1-phase-prone
+author: null
 category: chest
-protocol_type: chest/pulmonary
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Dependent atelectasis vs fibrosis
-- Posterior lung assessment
-- ILD with gravity-dependent changes
-position: Prone with arms extended forward
-npo: N/A
-premedication: ''
+- Diferențierea atelectaziilor posterioare dependente de fibroza subpleurală precoce
+- Suspiciune de azbestoză sau expunere profesională
+- Confirmare pattern UIP incipient
 contrast:
   agent: N/A
-  type: non-contrast
-tech_params:
-  kv: '120'
-  mas: Reduced (100-150 reference)
-  rotation_time: Sequentials
-  pitch: N/A
-series:
-- name: HRCT Prone
-  start: Lung apices
-  end: Costophrenic angles
-  delay: Full inspiration
-  thickness: 1 mm at 1-2cm intervals
-  notes: Sequential prone
-recons:
-- plane: Axial
-  acquisition: HRCT prone
-  fov: Chest
-  thickness_increment: 1 mm display
-  kernel: Lung
-  ir_strength: '3'
-  notes: Prone images
-- plane: Coronal
-  acquisition: HRCT prone
-  fov: Chest
-  thickness_increment: 2 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Coronal prone
-- plane: Compare
-  acquisition: Supine vs prone
-  fov: Posterior lungs
-  thickness_increment: 1 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Dependent changes
+  duration: ''
+  flow_rate: ''
+  roi: ''
+  timing: ''
+  trigger: ''
+  volume: ''
+last_updated: '2026-01-01'
 notes:
-  tech: Single INSPIRATION. PRONE position. Non-volumetric (1-2cm intervals). Distinguish
-    atelectasis from fibrosis
-  nursing: Position patient prone safely. Cushion support. Breath hold coaching
-  rad: Differentiate dependent atelectasis from true fibrosis. Posterior lung better
-    aerated prone
-  tips: Safe prone positioning. Compare to supine if available
-  additional_recons: Compare prone to supine to differentiate atelectasis from fibrosis
+  additional_recons: Filtru osos de înaltă rezoluție
+  nursing: Asigurați confortul pacientului în decubit ventral; atenție la respirație.
+  rad: Dacă opacitățile subpleurale posterioare dispar în procubitus, ele reprezintă
+    atelectazii dependente, nu fibroză.
+  tech: Pacient poziționat pe burtă (procubitus). Secțiuni axiale secvențiale (non-volumetrice)
+    la intervale de 10-20 mm.
+  tips: Sprijiniți capul și umerii pentru stabilitate optimă.
+npo: Nu este necesar
+position: Decubit ventral (procubitus) cu brațele ridicate
+premedication: Nu este necesară
+protocol_type: chest/pulmonary
+recons:
+- acquisition: HRCT Procubitus
+  fov: Torace
+  ir_strength: '3'
+  kernel: Înaltă rezoluție
+  notes: Fereastră pulmonară de înaltă rezoluție
+  plane: Axial
+  thickness_increment: 1.0 mm secvențial
 safety:
-  renal: N/A
-  allergy: N/A
+  allergy: Nu este cazul
+  renal: Nu este cazul
+series:
+- delay: Imediat
+  end: Baze pulmonare
+  name: HRCT Secvențial Procubitus
+  notes: Scanare secvențială intermitentă
+  start: Vârfuri pulmonare
+  thickness: 1.0 mm
+slug: non-volumetric-hrct-1-phase-prone
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Doză redusă (referință 100-150 mAs)
+  pitch: N/A
+  rotation_time: Sequentials
+  scan_mode: Secvențial în procubitus (Axial 1 mm)
+  slice_thickness: 1.0 mm
+title: HRCT Non-Volumetric 1 Fază în Decubit Ventral (Procubitus)
 ---
 
-# Non-Volumetric HRCT 1 Phase Prone
+# HRCT Non-Volumetric 1 Fază în Decubit Ventral (Procubitus)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | HRCT Prone | Contrast (Full inspiration delay) | Lung apices to Costophrenic angles |
+        | HRCT Secvențial Procubitus | Imediat | Vârfuri pulmonare → Baze pulmonare |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Dependent atelectasis vs fibrosis
-        - Posterior lung assessment
-        - ILD with gravity-dependent changes
+        - Diferențierea atelectaziilor posterioare dependente de fibroza subpleurală precoce
+        - Suspiciune de azbestoză sau expunere profesională
+        - Confirmare pattern UIP incipient
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
 
-    - **Position:** Prone with arms extended forward
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
-
-    ---
-    !!! info "No Intravenous Contrast"
-    This protocol does not require IV contrast administration.
-
--   __4. Special Notes__
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    === "Technologist Notes"
+    - **Poziție:** Decubit ventral (procubitus) cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Nu este necesar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
 
-        - Single INSPIRATION. PRONE position. Non-volumetric (1-2cm intervals). Distinguish atelectasis from fibrosis
-        - Additional Recons: Compare prone to supine to differentiate atelectasis from fibrosis
+-   __3. Contrast IV & Injectare__
 
-    === "Nursing Notes"
+    ---
+    !!! info "Fără Contrast Intravenos"
+    Acest protocol nu necesită administrare de contrast intravenos.
 
-        - Position patient prone safely. Cushion support. Breath hold coaching
+-   __4. Parametri Tehnici Achiziție__
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A
-            - **Allergy:** N/A
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Doză redusă (referință 100-150 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 1.0 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | Sequential s |
+    | **Pitch (Factor Pas)** | N/A |
+    | **Mod Scanare** | Secvențial în procubitus (Axial 1 mm) |
 
-    === "Radiologist Notes"
+-   __5. Note Speciale__
 
-        - Differentiate dependent atelectasis from true fibrosis. Posterior lung better aerated prone
+    ---
 
-    === "Tips & Tricks"
+    === "Note Tehnician"
 
-        - Safe prone positioning. Compare to supine if available
+        - Pacient poziționat pe burtă (procubitus). Secțiuni axiale secvențiale (non-volumetrice) la intervale de 10-20 mm.
+
+    === "Note Asistent"
+
+        - Asigurați confortul pacientului în decubit ventral; atenție la respirație.
+
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu este cazul
+            - **Alergii:** Nu este cazul
+
+    === "Note Radiolog"
+
+        - Dacă opacitățile subpleurale posterioare dispar în procubitus, ele reprezintă atelectazii dependente, nu fibroză.
+
+    === "Sfaturi & Recomandări"
+
+        - Sprijiniți capul și umerii pentru stabilitate optimă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout Prone | Lung apices | Costophrenic angles | N/A | N/A | Lateral |
-    | HRCT Prone | Lung apices | Costophrenic angles | Full inspiration | 1 mm at 1-2cm intervals | Sequential prone |
+    | HRCT Secvențial Procubitus | Vârfuri pulmonare | Baze pulmonare | Imediat | 1.0 mm | Scanare secvențială intermitentă |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | HRCT prone | Chest | 1 mm display | Lung | 3 | Prone images |
-    | Coronal | HRCT prone | Chest | 2 mm | Lung | 3 | Coronal prone |
-    | Compare | Supine vs prone | Posterior lungs | 1 mm | Lung | 3 | Dependent changes |
+    | Axial | HRCT Procubitus | Torace | 1.0 mm secvențial | Înaltă rezoluție | 3 | Fereastră pulmonară de înaltă rezoluție |

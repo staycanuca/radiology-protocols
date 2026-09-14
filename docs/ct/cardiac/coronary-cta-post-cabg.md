@@ -1,193 +1,209 @@
 ---
-title: Coronary CTA Post-CABG
-slug: coronary-cta-post-cabg
+author: null
 category: cardiac
-protocol_type: vascular
-last_updated: '2026-02-02'
-author: 
-synonyms: []
 clinical_indications:
-- Post-CABG graft patency assessment
-- Recurrent chest pain post-bypass
-position: Supine feet-first
-npo: NPO 2-4 hours
-premedication: HR < 60 target. | Metoprolol 5mg IV increments up to 15mg. Metoprolol
-  contraindications include sBP < 100, 2nd/3rd degree heart block, and inhaler dependent
-  asthma. | Nitroglycerin 0.4mg SL 5 minutes before scan. Nitroglycerin contraindications
-  include sBP < 100, PDE5 inhibitors within 48 hrs, severe aortic stenosis.
+- Evaluarea permeabilității grefoanelor de bypass aorto-coronarian (arteriale și venoase)
+- Recurența durerilor toracice anginoase sau a echivalentelor post-bypass
+- Planificare chirurgicală iterativă sau intervențională
 contrast:
   agent: Isovue 370
-  volume: 1.1 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 18s
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 4-5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
-tech_params:
-  kv: 100-120
-  mas: Auto ECG modulation
-  rotation_time: 0.28s
-  pitch: 0.2-0.24
-series:
-- name: Calcium Score
-  start: Lung apices
-  end: Diaphragm
-  delay: N/A
-  thickness: 1.5 mm
-  notes: Calcium score
-- name: Gated CTA
-  start: Lung apices
-  end: Diaphragm
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Retrospective gating - full chest FOV
-recons:
-- plane: Axial
-  acquisition: Calcium score
-  fov: Chest
-  thickness_increment: 3 mm/3 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: For Agatston score calculation
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Full chest
-  thickness_increment: 0.6 mm/0.6 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Thin slice for grafts and native vessels
-- plane: Sagittal
-  acquisition: Gated CTA
-  fov: Chest
-  thickness_increment: 2 mm/2 mm
-  kernel: Standard
-  ir_strength: '3'
-  notes: Extracardiac assessment
-- plane: 3D VR
-  acquisition: Gated CTA
-  fov: Heart/grafts
-  thickness_increment: 0.5 mm source
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: MPRs by 3D lab
+  volume: 1.1 mL/kg
+last_updated: '2026-02-02'
 notes:
-  tech: Non-valsalva breathing technique, cardiac breathing instruction. Put in study
-    notes if patient unable to follow breathing instructions. | If high HR variability,
-    can trigger by millisecond (200ms - 450 ms pulse range). Revolution CT is better
-    for Afib. | Target End diastole if HR < 65bpm. Target End systole if HR > 86bpm.
-    Target End diastole to End systole if HR 66 - 75 bpm
-  nursing: 20G IV minimum. Check for metoprolol or nitroglycerin contraindications.
-    Nitro is priority over metoprolol if BP is borderline.
-  rad: 'Assess all grafts: LIMA RIMA SVG. Check anastomoses. Native vessel disease.
-    Graft patency vs occlusion. Check functional series for WMA.'
-  tips: Full chest coverage essential. Extended FOV. Low pitch for retrospective gating
-  additional_recons: Curved MPR of all grafts. Label LIMA RIMA SVG.
+  additional_recons: Reconstrucții MPR curbate dedicate pentru fiecare grefon. Etichetare
+    explicită a grefonului (LIMA, RIMA, SVG-DA, SVG-OM, SVG-CD).
+  nursing: Linie venoasă minim 20G (recomandat 18G). Verificați contraindicațiile
+    pentru metoprolol sau nitroglicerină. Nitroglicerina are prioritate dacă tensiunea
+    arterială este la limită.
+  rad: 'Evaluați toate grefoanele: LIMA, RIMA, SVG (grefoane venoase safene). Analizați
+    amănunțit anastomozele proximale și distale. Evaluați severitatea bolii vaselor
+    native.'
+  tech: Tehnică respiratorie non-Valsalva, instruire cardiacă riguroasă. Dacă există
+    variabilitate a ritmului cardiac, pulsare milisecundă (200-450 ms). Țintă telediastolă
+    dacă FC < 65 bpm; telesistolă dacă FC > 86 bpm; telediastolă spre telesistolă
+    la FC 66-75 bpm.
+  tips: Acoperire toracică extinsă obligatorie de la nivel supraclavicular până la
+    diafragm pentru originea LIMA/RIMA. Pitch redus pentru sincronizare retrospectivă.
+npo: Repaus alimentar 4 ore; fără cafeină/fumat
+position: Decubit dorsal cu picioarele înainte
+premedication: Beta-blocant (metoprolol) per os/IV conform protocolului cardiac; nitroglicerină
+  sublingual cu 2-3 min înainte de scanare dacă nu există contraindicații
+protocol_type: vascular
+recons:
+- acquisition: Scor de Calciu
+  fov: Cord
+  kernel: Standard
+  notes: Calcul scor Agatston
+  plane: Axial
+  thickness_increment: 3 mm/3 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Torace
+  kernel: Cardiac
+  notes: Secțiuni fine pentru grefoane și vase native
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Torace
+  kernel: Standard
+  notes: Evaluare extracardiacă și mediastinală
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Reconstrucții MPR 3D și VR ale grefoanelor
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul de alergie la contrast iodat
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: 0 sec
+  end: Diafragm
+  name: Scor de Calciu
+  notes: Scor de calciu pe câmp extins
+  start: Vârfuri pulmonare
+  thickness: 3 mm
+- delay: Urmărire bolus
+  end: Diafragm
+  name: Angio-CT Sincronizat ECG
+  notes: Sincronizare retrospectivă ECG - câmp toracic complet
+  start: Vârfuri pulmonare
+  thickness: 0.625 mm
+slug: coronary-cta-post-cabg
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: 100-120
+  mas: Auto (modulare sincronizată ECG)
+  pitch: 0.2-0.24
+  rotation_time: 0.28s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Coronarian Post-By-pass Aorto-Coronarian (Post-CABG)
 ---
 
-# Coronary CTA Post-CABG
+# Angio-CT Coronarian Post-By-pass Aorto-Coronarian (Post-CABG)
 
-**Last Updated:** 2026-02-02  
-**Author:** 
+**Ultima actualizare:** 2026-02-02
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Calcium Score | Non-contrast | Lung apices to Diaphragm |
-        | Gated CTA | Arterial (bolus tracked) | Lung apices to Diaphragm |
+        | Scor de Calciu | 0 sec | Vârfuri pulmonare → Diafragm |
+        | Angio-CT Sincronizat ECG | Urmărire bolus | Vârfuri pulmonare → Diafragm |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Post-CABG graft patency assessment
-        - Recurrent chest pain post-bypass
+        - Evaluarea permeabilității grefoanelor de bypass aorto-coronarian (arteriale și venoase)
+        - Recurența durerilor toracice anginoase sau a echivalentelor post-bypass
+        - Planificare chirurgicală iterativă sau intervențională
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
-        - HR < 60 target.
-        - **Metoprolol** 5mg IV increments up to 15mg. Metoprolol contraindications include sBP < 100, 2nd/3rd degree heart block, and inhaler dependent asthma.
-        - **Nitroglycerin** 0.4mg SL 5 minutes before scan. Nitroglycerin contraindications include sBP < 100, PDE5 inhibitors within 48 hrs, severe aortic stenosis.
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore; fără cafeină/fumat
+    - **Premedicație / Pregătire:**
+        - Beta-blocant (metoprolol) per os/IV conform protocolului cardiac; nitroglicerină sublingual cu 2-3 min înainte de scanare dacă nu există contraindicații
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.1 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 18s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 200 HU |
+        | Volum | 1.1 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 18s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 200 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Non-valsalva breathing technique, cardiac breathing instruction. Put in study notes if patient unable to follow breathing instructions.
-        - If high HR variability, can trigger by millisecond (200ms - 450 ms pulse range). Revolution CT is better for Afib.
-        - Target End diastole if HR < 65bpm. Target End systole if HR > 86bpm. Target End diastole to End systole if HR 66 - 75 bpm
-        - Additional Recons: Curved MPR of all grafts. Label LIMA RIMA SVG.
+        - Tehnică respiratorie non-Valsalva, instruire cardiacă riguroasă. Dacă există variabilitate a ritmului cardiac, pulsare milisecundă (200-450 ms). Țintă telediastolă dacă FC < 65 bpm; telesistolă dacă FC > 86 bpm; telediastolă spre telesistolă la FC 66-75 bpm.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum. Check for metoprolol or nitroglycerin contraindications. Nitro is priority over metoprolol if BP is borderline.
+        - Linie venoasă minim 20G (recomandat 18G). Verificați contraindicațiile pentru metoprolol sau nitroglicerină. Nitroglicerina are prioritate dacă tensiunea arterială este la limită.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul de alergie la contrast iodat
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess all grafts: LIMA RIMA SVG. Check anastomoses. Native vessel disease. Graft patency vs occlusion. Check functional series for WMA.
+        - Evaluați toate grefoanele: LIMA, RIMA, SVG (grefoane venoase safene). Analizați amănunțit anastomozele proximale și distale. Evaluați severitatea bolii vaselor native.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Full chest coverage essential. Extended FOV. Low pitch for retrospective gating
+        - Acoperire toracică extinsă obligatorie de la nivel supraclavicular până la diafragm pentru originea LIMA/RIMA. Pitch redus pentru sincronizare retrospectivă.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Thoracic inlet | Below heart | N/A | N/A | AP lateral |
-    | Calcium Score | Lung apices | Diaphragm | N/A | 1.5 mm | Calcium score |
-    | Gated CTA | Lung apices | Diaphragm | Bolus tracked | 0.5-0.625 mm | Retrospective gating - full chest FOV |
+    | Scor de Calciu | Vârfuri pulmonare | Diafragm | 0 sec | 3 mm | Scor de calciu pe câmp extins |
+    | Angio-CT Sincronizat ECG | Vârfuri pulmonare | Diafragm | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă ECG - câmp toracic complet |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Calcium score | Chest | 3 mm/3 mm | Standard | 3 | For Agatston score calculation |
-    | Axial | Gated CTA | Full chest | 0.6 mm/0.6 mm | Cardiac | 3 | Thin slice for grafts and native vessels |
-    | Sagittal | Gated CTA | Chest | 2 mm/2 mm | Standard | 3 | Extracardiac assessment |
-    | 3D VR | Gated CTA | Heart/grafts | 0.5 mm source | Cardiac | 3 | MPRs by 3D lab |
+    | Axial | Scor de Calciu | Cord | 3 mm/3 mm | Standard |  | Calcul scor Agatston |
+    | Axial | Angio-CT Sincronizat ECG | Torace | 0.625 mm/0.625 mm | Cardiac |  | Secțiuni fine pentru grefoane și vase native |
+    | Sagital | Angio-CT Sincronizat ECG | Torace | 2 mm/2 mm | Standard |  | Evaluare extracardiacă și mediastinală |
+    | 3D VR | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Reconstrucții MPR 3D și VR ale grefoanelor |

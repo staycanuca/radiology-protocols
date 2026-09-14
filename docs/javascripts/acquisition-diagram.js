@@ -24,7 +24,7 @@
     const s = delayStr.trim();
 
     // Bolus track: scan starts after injection + saline flush completes
-    if (/bolus[\s-]*track(ed)?/i.test(s)) {
+    if (/bolus[\s-]*track(ed)?|urmarire[\s-]*bolus|urmărire[\s-]*bolus/i.test(s)) {
       const injDur = injectionDurationSeconds && injectionDurationSeconds > 0
         ? injectionDurationSeconds
         : 30;
@@ -35,7 +35,7 @@
     }
 
     // Immediate
-    if (/immediate/i.test(s)) {
+    if (/immediate|imediat/i.test(s)) {
       return 0;
     }
 
@@ -86,13 +86,18 @@
       /unenhanced/i.test(s) ||
       /calcium score/i.test(s) ||
       /\bnc\b/i.test(s) ||
-      /\bpre\b/i.test(s)
+      /\bpre\b/i.test(s) ||
+      /\bnativ\b/i.test(s) ||
+      /fara[\s-]contrast/i.test(s) ||
+      /fără[\s-]contrast/i.test(s) ||
+      /scor[\s-]calciu/i.test(s)
     ) {
       return 'non-contrast';
     }
 
     if (
       /arterial/i.test(s) ||
+      /arteri/i.test(s) ||
       /CTA */i.test(s) ||
       /pancreatic/i.test(s) ||
       /enteric/i.test(s) ||
@@ -101,11 +106,11 @@
       return 'arterial';
     }
 
-    if (/portal|venous|\bpv\b/i.test(s)) {
+    if (/portal|venous|\bpv\b|venos|venoasa|venoasă/i.test(s)) {
       return 'portal';
     }
 
-    if (/delayed|delay|nephrographic|excretory|equilibrium|venogram/i.test(s)) {
+    if (/delayed|delay|nephrographic|excretory|equilibrium|venogram|tardiv|tardiva|tardivă|nefrogr|excret/i.test(s)) {
       return 'delayed';
     }
 
@@ -538,7 +543,7 @@
 
     if (!phases || phases.length === 0) {
       const msg = document.createElement('p');
-      msg.textContent = 'No acquisition data available';
+      msg.textContent = 'Nu sunt disponibile date de achiziție';
       msg.style.color = 'var(--md-default-fg-color--light, #888)';
       msg.style.fontStyle = 'italic';
       container.appendChild(msg);
@@ -611,7 +616,7 @@
       viewBox: `0 0 ${SVG_TOTAL_WIDTH} ${totalHeight}`,
       width: '100%',
       preserveAspectRatio: 'xMinYMin meet',
-      'aria-label': 'Protocol acquisition diagram',
+      'aria-label': 'Diagramă achiziție protocol',
       role: 'img',
     });
 
@@ -658,6 +663,7 @@
         let displayLabel = labelText;
         if (inside && width < 50) {
           if (labelText.toLowerCase() === 'contrast') displayLabel = 'Con';
+          else if (labelText.toLowerCase() === 'ser') displayLabel = 'S';
           else if (labelText.toLowerCase() === 'saline') displayLabel = 'S';
           else displayLabel = labelText.substring(0, 3) + '\u2026';
         } else {
@@ -698,7 +704,7 @@
     let currentRow = 0;
 
     if (hasInjection) {
-      renderRowLabel(svg, currentRow, 'Injection');
+      renderRowLabel(svg, currentRow, 'Injectare');
 
       const rowY = TOP_PAD + currentRow * ROW_HEIGHT + BAR_Y_OFFSET;
       const splitContrasts = (contrast._contrasts && contrast._contrasts.length > 1) ? contrast._contrasts : null;
@@ -715,7 +721,7 @@
       if (saline && saline.durationSeconds > 0) {
         const salineStart = xAtTime(c1Dur);
         const salineWidth = saline.durationSeconds * pixelsPerSecond;
-        renderBar(svg, salineStart, rowY, salineWidth, BAR_HEIGHT, '#4ed5ff', 'Saline', '#333', true);
+        renderBar(svg, salineStart, rowY, salineWidth, BAR_HEIGHT, '#4ed5ff', 'Ser', '#333', true);
       }
 
       // Second injection bar (only when phases explicitly reference injection 2)
@@ -729,7 +735,7 @@
         if (saline && saline.durationSeconds > 0) {
           const saline2Start = xAtTime(inj2Start + c2Dur);
           const salineWidth = saline.durationSeconds * pixelsPerSecond;
-          renderBar(svg, saline2Start, rowY, salineWidth, BAR_HEIGHT, '#4ed5ff', 'Saline', '#333', true);
+          renderBar(svg, saline2Start, rowY, salineWidth, BAR_HEIGHT, '#4ed5ff', 'Ser', '#333', true);
         }
       }
 
@@ -815,8 +821,8 @@
 
     // Axis label
     const axisLabelText = ncOnly
-      ? 'Time (seconds from scan start)'
-      : 'Time (seconds from injection start)';
+      ? 'Timp (secunde de la startul scanării)'
+      : 'Timp (secunde de la startul injectării)';
 
     const axisLabel = createSVGEl('text', {
       x: LEFT_PAD + LABEL_WIDTH + svgContentWidth / 2,

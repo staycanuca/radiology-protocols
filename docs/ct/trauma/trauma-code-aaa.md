@@ -1,190 +1,214 @@
 ---
-title: Trauma Code AAA
-slug: trauma-code-aaa
+author: null
 category: trauma
-protocol_type: trauma
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Ruptured AAA
-- Aortic emergency
-- Hemodynamic instability with abdominal pain
-position: Supine with arms raised
-npo: None - emergency
-premedication: ''
+- Suspiciune de anevrism de aortă abdominală (AAA) rupt sau fisurat
+- Urgență vasculară aortică
+- Instabilitate hemodinamică cu durere abdominală acută și masă pulsatilă
 contrast:
   agent: Omnipaque 350
-  volume: 125 mL
   flow_rate: 4-5 mL/s
-  timing: 'Triple phase: NC + Arterial + Portal venous'
-  roi: Abdominal aorta
+  roi: Aorta abdominală
+  timing: 'Protocol trifazic rapid: Nativ + Arterial + Venoasă Portală'
   trigger: 150 HU
-tech_params:
-  kv: 100-120
-  mas: High mAs (300 reference)
-  rotation_time: 0.5s
-  pitch: 1.0-1.375
-series:
-- name: Non-Contrast CAP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: N/A
-  thickness: 2.5 mm
-  notes: RAPID - hematoma
-- name: Arterial CAP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 25-30 sec
-  thickness: 0.625 mm
-  notes: Active bleeding + aneurysm
-- name: Portal Venous CAP
-  start: Diaphragm
-  end: Pubic symphysis
-  delay: 70 sec
-  thickness: 2.5 mm
-  notes: Organs and venous
-recons:
-- plane: Axial
-  acquisition: All phases
-  fov: CAP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular/Standard
-  ir_strength: '3'
-  notes: Compare phases
-- plane: Coronal
-  acquisition: Arterial
-  fov: CAP
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Aorta and bleeding
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Aorta
-  thickness_increment: 2 mm/2 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Aorta extent
-- plane: 3D VR
-  acquisition: Arterial
-  fov: Aorta
-  thickness_increment: 1.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: STAT 3D for EVAR planning
+  volume: 125 mL
+last_updated: '2026-01-01'
 notes:
-  tech: 'RAPID triple phase: 1) NC CAP (hematoma) 2) Arterial CAP (active bleed bolus
-    track 25-30s) 3) Portal venous CAP (70s). STAT protocol'
-  nursing: Large bore IV 18G minimum. Blood products ready
-  rad: 'NC: retroperitoneal hematoma. Arterial: active extravasation aneurysm morphology.
-    Portal: solid organs'
-  tips: STAT protocol. Minimize delays. Notify vascular surgery
-  additional_recons: Measure aneurysm. Identify bleeding site. EVAR measurements if
-    stable
+  additional_recons: Măsurători detaliate de anevrism (diametru maxim, lungime col,
+    unghiuri). Identificați sediul sângerării active. Măsurători pentru endoprotezare
+    aortică (EVAR).
+  nursing: Linie venoasă de calibru mare 18G minimum (ideal 2 linii). Produse sanguine
+    pregătite la dispoziție.
+  rad: 'Nativ: hematom retroperitoneal hiperdens, sânge liber intraperitoneal. Arterial:
+    extravazare activă de contrast (jet/blush), diametre anevrism, anatomia coletului
+    pentru EVAR. Portal: evaluarea ischemiei viscerale/organelor parenchimatoase.'
+  tech: 'Protocol RAPID trifazic STAT: 1) Nativ toraco-abdomino-pelvin (hematom proaspăt
+    retroperitoneal) 2) Arterial CAP (extravazare activă de contrast, urmărire bolus
+    25-30s) 3) Fază venoasă portală CAP la 70s. Alertare imediată a chirurgiei vasculare.'
+  tips: Protocol de urgență maximă (STAT). Minimizați orice întârziere. Notificați
+    imediat echipa de chirurgie vasculară / radiologie intervențională.
+npo: Fără repaus alimentar - urgență vitală
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: trauma
+recons:
+- acquisition: Fază Arterială CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular/Standard
+  notes: Comparație între fazele native și cu contrast
+  plane: Axial
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Arterială CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Morfologie aortică și sediul extravazării
+  plane: Coronal
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Arterială CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Extensie longitudinală a anevrismului
+  plane: Sagital
+  thickness_increment: 2.5 mm/2.5 mm
+- acquisition: Fază Arterială CAP
+  fov: Abdomen-Pelvis
+  kernel: Vascular
+  notes: Randare 3D VR de urgență pentru planificare EVAR
+  plane: 3D VR
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Emergent - proceed
-  allergy: Document emergency
+  allergy: Se consemnează situația de urgență majoră
+  renal: Urgență vitală - se efectuează indiferent de funcția renală
+series:
+- delay: 0 sec
+  end: Simfiză pubiană
+  name: Fază Nativă CAP
+  notes: RAPID - detecția hematoamelor și calcificărilor
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 25-30 sec
+  end: Simfiză pubiană
+  name: Fază Arterială CAP
+  notes: Sângerare activă și morfologia anevrismului
+  start: Diafragm
+  thickness: 0.625 mm
+- delay: 70 sec
+  end: Simfiză pubiană
+  name: Fază Venoasă Portală CAP
+  notes: Organe parenchimatoase și sistem venos
+  start: Diafragm
+  thickness: 0.625 mm
+slug: trauma-code-aaa
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D pentru politraumă)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: 100-120
+  mas: Curent crescut (referință 300 mAs)
+  pitch: 1.0-1.375
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Urgență / Cod Ruptură Anevrism de Aortă Abdominală (Cod AAA)
 ---
 
-# Trauma Code AAA
+# CT Urgență / Cod Ruptură Anevrism de Aortă Abdominală (Cod AAA)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-Contrast CAP | Non-contrast | Diaphragm to Pubic symphysis |
-        | Arterial CAP | Contrast (25-30 sec delay) | Diaphragm to Pubic symphysis |
-        | Portal Venous CAP | Contrast (70 sec delay) | Diaphragm to Pubic symphysis |
+        | Fază Nativă CAP | 0 sec | Diafragm → Simfiză pubiană |
+        | Fază Arterială CAP | 25-30 sec | Diafragm → Simfiză pubiană |
+        | Fază Venoasă Portală CAP | 70 sec | Diafragm → Simfiză pubiană |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Ruptured AAA
-        - Aortic emergency
-        - Hemodynamic instability with abdominal pain
+        - Suspiciune de anevrism de aortă abdominală (AAA) rupt sau fisurat
+        - Urgență vasculară aortică
+        - Instabilitate hemodinamică cu durere abdominală acută și masă pulsatilă
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** None - emergency
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Fără repaus alimentar - urgență vitală
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Omnipaque 350 |
-        | Volume | 125 mL |
-        | Flow Rate | 4-5 mL/s |
-        | Timing Method | Triple phase: NC + Arterial + Portal venous |
-        | ROI Placement | Abdominal aorta |
-        | Trigger (HU) | 150 HU |
+        | Volum | 125 mL |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată |  |
+        | Metodă Temporizare | Protocol trifazic rapid: Nativ + Arterial + Venoasă Portală |
+        | Poziționare ROI | Aorta abdominală |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100-120 kV |
+    | **Curent Tub (mAs)** | Curent crescut (referință 300 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D pentru politraumă) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.375 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - RAPID triple phase: 1) NC CAP (hematoma) 2) Arterial CAP (active bleed bolus track 25-30s) 3) Portal venous CAP (70s). STAT protocol
-        - Additional Recons: Measure aneurysm. Identify bleeding site. EVAR measurements if stable
+        - Protocol RAPID trifazic STAT: 1) Nativ toraco-abdomino-pelvin (hematom proaspăt retroperitoneal) 2) Arterial CAP (extravazare activă de contrast, urmărire bolus 25-30s) 3) Fază venoasă portală CAP la 70s. Alertare imediată a chirurgiei vasculare.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Large bore IV 18G minimum. Blood products ready
+        - Linie venoasă de calibru mare 18G minimum (ideal 2 linii). Produse sanguine pregătite la dispoziție.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Emergent - proceed
-            - **Allergy:** Document emergency
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Urgență vitală - se efectuează indiferent de funcția renală
+            - **Alergii:** Se consemnează situația de urgență majoră
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - NC: retroperitoneal hematoma. Arterial: active extravasation aneurysm morphology. Portal: solid organs
+        - Nativ: hematom retroperitoneal hiperdens, sânge liber intraperitoneal. Arterial: extravazare activă de contrast (jet/blush), diametre anevrism, anatomia coletului pentru EVAR. Portal: evaluarea ischemiei viscerale/organelor parenchimatoase.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - STAT protocol. Minimize delays. Notify vascular surgery
+        - Protocol de urgență maximă (STAT). Minimizați orice întârziere. Notificați imediat echipa de chirurgie vasculară / radiologie intervențională.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Diaphragm | Pubic symphysis | N/A | N/A | STAT |
-    | Non-Contrast CAP | Diaphragm | Pubic symphysis | N/A | 2.5 mm | RAPID - hematoma |
-    | Arterial CAP | Diaphragm | Pubic symphysis | 25-30 sec | 0.625 mm | Active bleeding + aneurysm |
-    | Portal Venous CAP | Diaphragm | Pubic symphysis | 70 sec | 2.5 mm | Organs and venous |
+    | Fază Nativă CAP | Diafragm | Simfiză pubiană | 0 sec | 0.625 mm | RAPID - detecția hematoamelor și calcificărilor |
+    | Fază Arterială CAP | Diafragm | Simfiză pubiană | 25-30 sec | 0.625 mm | Sângerare activă și morfologia anevrismului |
+    | Fază Venoasă Portală CAP | Diafragm | Simfiză pubiană | 70 sec | 0.625 mm | Organe parenchimatoase și sistem venos |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | All phases | CAP | 2.5 mm/2.5 mm | Vascular/Standard | 3 | Compare phases |
-    | Coronal | Arterial | CAP | 2.5 mm/2.5 mm | Vascular | 3 | Aorta and bleeding |
-    | Sagittal | Arterial | Aorta | 2 mm/2 mm | Vascular | 3 | Aorta extent |
-    | 3D VR | Arterial | Aorta | 1.5 mm | Vascular | 3 | STAT 3D for EVAR planning |
+    | Axial | Fază Arterială CAP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular/Standard |  | Comparație între fazele native și cu contrast |
+    | Coronal | Fază Arterială CAP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular |  | Morfologie aortică și sediul extravazării |
+    | Sagital | Fază Arterială CAP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular |  | Extensie longitudinală a anevrismului |
+    | 3D VR | Fază Arterială CAP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D VR de urgență pentru planificare EVAR |

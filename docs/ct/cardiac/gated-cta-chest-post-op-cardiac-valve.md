@@ -1,181 +1,198 @@
 ---
-title: Gated CTA Chest Post-op Cardiac Valve
-slug: gated-cta-chest-post-op-cardiac-valve
+author: null
 category: cardiac
-protocol_type: cardiac gated
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Post-operative valve assessment
-- Prosthetic valve evaluation
-- Post-surgical complications
-position: Supine feet-first
-npo: NPO 2-4 hours
-premedication: HR < 65 preferred. Metoprolol if needed
+- Evaluarea funcțională a protezelor valvulare (mecanice sau biologice)
+- Suspiciune de dehiscență protetică sau leak paravalvular
+- 'Complicații post-operatorii valvulare: tromboză de proteză, formațiuni de tip pannus,
+  endocardită'
 contrast:
   agent: Isovue 370
-  volume: 1.3 mL/kg
-  flow_rate: 4-5 mL/s
   duration: 15 sec
-  timing: Bolus Tracking
-  roi: Ascending aorta
+  flow_rate: 4-5 mL/s
+  roi: Aorta ascendentă
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
-tech_params:
-  kv: 130-140
-  mas: Auto ECG modulation
-  rotation_time: 0.28s
-  pitch: 0.2-0.24
-series:
-- name: Gated CTA
-  start: Top of heart
-  end: Below heart
-  delay: Bolus tracked
-  thickness: 0.5-0.625 mm
-  notes: Retrospective gating HIGH kV
-recons:
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: 0.75 mm/0.75 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Prosthetic valve assessment
-- plane: Axial
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: Multi-phase
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Multiple cardiac phases for motion
-- plane: Short axis
-  acquisition: Gated CTA
-  fov: Valve level
-  thickness_increment: 1 mm
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: En face valve views
-- plane: Long axis
-  acquisition: Gated CTA
-  fov: Heart
-  thickness_increment: Multi-phase
-  kernel: Cardiac
-  ir_strength: '3'
-  notes: Valve motion assessment
+  volume: 1.3 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Retrospective gating. INCREASED kV to 130-140 for metal artifact reduction.
-    Increased contrast 1.3 mL/kg. Extended reconstruction phases
-  nursing: 20G IV minimum
-  rad: Assess prosthetic valve function. Look for paravalvular leak. Evaluate perivalvular
-    complications. Metal artifact reduction critical | Increased kVP and increased
-    contrast volume with thinner cuts help with seeing through metallic artifact to
-    evaluate for thrombus.
-  tips: High kV (130-140) critical for metal artifact. Increased contrast volume
-  additional_recons: Multi-phase reconstructions. Valve-specific views. Paravalvular
-    assessment
+  additional_recons: Reconstrucții multifazice dinamice (cine-CT). Planuri specifice
+    'en face' pe inelul valvular. Evaluare circumferențială paravalvulară.
+  nursing: Linie venoasă minim 20G.
+  rad: Evaluați mobilitatea discurilor/cuspelor protezei. Căutați defecte paravalvulare
+    sau extravazare perivalvulară. Reducerea artefactelor metalice prin kV crescut
+    și secțiuni fine permite vizualizarea trombilor hipodenși sau a pannusului.
+  tech: Sincronizare retrospectivă. CREȘTEREA tensiunii kV la 130-140 kV pentru reducerea
+    artefactelor metalice. Volum crescut de contrast (1.3 mL/kg). Reconstrucții extinse
+    pe toate fazele ciclului cardiac.
+  tips: kV ridicat (130-140) critic pentru străpungerea artefactelor metalice de la
+    inelul protezei.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu picioarele înainte
+premedication: HR < 65 preferred. Metoprolol if needed
+protocol_type: cardiac gated
+recons:
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Evaluarea morfologiei protezei valvulare
+  plane: Axial
+  thickness_increment: 0.75 mm/0.75 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Faze cardiace multiple pentru aprecierea mobilității
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Plan de ax scurt 'en face' pe orificiul valvular
+  plane: Short axis
+  thickness_increment: 1 mm/1 mm
+- acquisition: Angio-CT Sincronizat ECG
+  fov: Cord
+  kernel: Cardiac
+  notes: Plan de ax lung pentru deschiderea cuspelor/discurilor
+  plane: Long axis
+  thickness_increment: 1 mm/1 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Sub cord
+  name: Angio-CT Sincronizat ECG
+  notes: Sincronizare retrospectivă cu kV RIDICAT (130-140 kV)
+  start: Polul superior al cordului
+  thickness: 0.625 mm
+slug: gated-cta-chest-post-op-cardiac-valve
+synonyms: []
+tech_params:
+  aec: Modulare ECG activată (pulsare conform ritmului cardiac)
+  collimation: 64 × 0.625 mm sau 128 × 0.6 mm
+  kv: 130-140
+  mas: Auto (modulare sincronizată ECG)
+  pitch: 0.2-0.24
+  rotation_time: 0.28s
+  scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
+  slice_thickness: 0.625 mm
+title: Angio-CT Torace Sincronizat ECG Post-Protezare Valvulară Cardiacă
 ---
 
-# Gated CTA Chest Post-op Cardiac Valve
+# Angio-CT Torace Sincronizat ECG Post-Protezare Valvulară Cardiacă
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Lung Apices to Diaphragm |
-        | Gated CTA | Arterial (bolus tracked) | Top of heart to Below heart |
+        | Angio-CT Sincronizat ECG | Urmărire bolus | Polul superior al cordului → Sub cord |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Post-operative valve assessment
-        - Prosthetic valve evaluation
-        - Post-surgical complications
+        - Evaluarea funcțională a protezelor valvulare (mecanice sau biologice)
+        - Suspiciune de dehiscență protetică sau leak paravalvular
+        - Complicații post-operatorii valvulare: tromboză de proteză, formațiuni de tip pannus, endocardită
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
 
-    - **Position:** Supine feet-first
-    - **NPO Status:** NPO 2-4 hours
-    - **Pre-Medication:**
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
         - HR < 65 preferred. Metoprolol if needed
 
--   __3. IV Contrast & Injection__    
+-   __3. Contrast IV & Injectare__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.3 mL/kg |
-        | Flow Rate | 4-5 mL/s |
-        | Duration | 15 sec |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta |
-        | Trigger (HU) | 200 HU |
+        | Volum | 1.3 mL/kg |
+        | Rată de Flux | 4-5 mL/s |
+        | Durată | 15 sec |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă |
+        | Declanșator (HU) | 200 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 130-140 kV |
+    | **Curent Tub (mAs)** | Auto (modulare sincronizată ECG) |
+    | **Control Automat al Expunerii (AEC)** | Modulare ECG activată (pulsare conform ritmului cardiac) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 128 × 0.6 mm |
+    | **Timp de Rotație** | 0.28 s |
+    | **Pitch (Factor Pas)** | 0.2-0.24 |
+    | **Mod Scanare** | Elicoidal sincronizat ECG (sau Secvențial prospectiv) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Retrospective gating. INCREASED kV to 130-140 for metal artifact reduction. Increased contrast 1.3 mL/kg. Extended reconstruction phases
-        - Additional Recons: Multi-phase reconstructions. Valve-specific views. Paravalvular assessment
+        - Sincronizare retrospectivă. CREȘTEREA tensiunii kV la 130-140 kV pentru reducerea artefactelor metalice. Volum crescut de contrast (1.3 mL/kg). Reconstrucții extinse pe toate fazele ciclului cardiac.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum
+        - Linie venoasă minim 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess prosthetic valve function. Look for paravalvular leak. Evaluate perivalvular complications. Metal artifact reduction critical
-        - Increased kVP and increased contrast volume with thinner cuts help with seeing through metallic artifact to evaluate for thrombus.
+        - Evaluați mobilitatea discurilor/cuspelor protezei. Căutați defecte paravalvulare sau extravazare perivalvulară. Reducerea artefactelor metalice prin kV crescut și secțiuni fine permite vizualizarea trombilor hipodenși sau a pannusului.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - High kV (130-140) critical for metal artifact. Increased contrast volume
+        - kV ridicat (130-140) critic pentru străpungerea artefactelor metalice de la inelul protezei.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Top of chest | Diaphragm | N/A | N/A | AP lateral |
-    | Gated CTA | Top of heart | Below heart | Bolus tracked | 0.5-0.625 mm | Retrospective gating HIGH kV |
+    | Angio-CT Sincronizat ECG | Polul superior al cordului | Sub cord | Urmărire bolus | 0.625 mm | Sincronizare retrospectivă cu kV RIDICAT (130-140 kV) |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Gated CTA | Heart | 0.75 mm/0.75 mm | Cardiac | 3 | Prosthetic valve assessment |
-    | Axial | Gated CTA | Heart | Multi-phase | Cardiac | 3 | Multiple cardiac phases for motion |
-    | Short axis | Gated CTA | Valve level | 1 mm | Cardiac | 3 | En face valve views |
-    | Long axis | Gated CTA | Heart | Multi-phase | Cardiac | 3 | Valve motion assessment |
+    | Axial | Angio-CT Sincronizat ECG | Cord | 0.75 mm/0.75 mm | Cardiac |  | Evaluarea morfologiei protezei valvulare |
+    | Axial | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Faze cardiace multiple pentru aprecierea mobilității |
+    | Short axis | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Plan de ax scurt 'en face' pe orificiul valvular |
+    | Long axis | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Plan de ax lung pentru deschiderea cuspelor/discurilor |

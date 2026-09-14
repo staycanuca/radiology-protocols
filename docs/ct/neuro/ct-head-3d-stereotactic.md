@@ -1,172 +1,197 @@
 ---
-title: CT Head 3D Stereotactic
-slug: ct-head-3d-stereotactic
+author: null
 category: neuro
-protocol_type: neuroradiology
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Stereotactic surgery planning
-- DBS planning
-- Biopsy planning
-- Surgical navigation
-- Gamma knife
-position: Supine in surgical position. Head in frame if required
-npo: N/A
-premedication: ''
+- Planificare pre-operatorie stereotaxică / neuronavigație intraoperatorie
+- Stimulare cerebrală profundă (DBS - Deep Brain Stimulation)
+- Puncție-biopsie cerebrală stereotaxică
+- Planificare radiochirurgie stereotaxică (Gamma Knife / CyberKnife)
 contrast:
-  agent: None typically. Contrast optional
-  volume: 'If contrast: 100 mL'
+  agent: Nativ de regulă. Substanță de contrast opțională în caz de mase tumorale
   flow_rate: 3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 300)
-  rotation_time: Helicals
-  pitch: Pitch for isotropic
-series:
-- name: Stereotactic Head
-  start: Vertex
-  end: Skull base
-  delay: N/A (or 60-90s if contrast)
-  thickness: 0.5-0.625 mm
-  notes: Isotropic submillimeter
-recons:
-- plane: Axial
-  acquisition: Stereo
-  fov: Brain
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Brain (Bone if needed)
-  ir_strength: '3'
-  notes: Isotropic axial
-- plane: Coronal
-  acquisition: Stereo
-  fov: Brain
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Isotropic coronal
-- plane: Sagittal
-  acquisition: Stereo
-  fov: Brain
-  thickness_increment: 0.5 mm/0.5 mm
-  kernel: Brain
-  ir_strength: '3'
-  notes: Isotropic sagittal midline
-- plane: 3D surface
-  acquisition: Stereo
-  fov: Brain
-  thickness_increment: 0.5 mm source
-  kernel: Brain
-  ir_strength: '3'
-  notes: Surface for navigation
+  volume: 'Dacă este indicat: 100 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Submillimeter ISOTROPIC acquisition. Vertex to skull base. DICOM for surgical
-    planning. Frame or fiducials if required
-  nursing: Position exactly as for surgery. Frame placement if required
-  rad: Isotropic high-resolution for surgical targeting. Anatomic landmarks. Tumor
-    if contrast
-  tips: Isotropic voxels critical. Export DICOM to surgical planning
-  additional_recons: Export to surgical navigation. Isotropic 0.5mm. Coordinates for
-    targeting
+  additional_recons: Export direct DICOM către stația de neuronavigație / radiochirurgie.
+    Reconstrucție 3D a calotei și reperelor.
+  nursing: Poziționare strictă conform reperelor cerute de medicul neurochirurg. Protejarea
+    cadrului stereotaxic sau markerilor fiduciali.
+  rad: Localizarea reperelor anatomice (comisura anterioară - CA, comisura posterioară
+    - CP, linia CA-CP). Coordonate stereotaxice (x, y, z) pentru ținta chirurgicală.
+    Relația cu structurile vasculare și parenchimatoase critice.
+  tech: Achiziție izotropă submilimetrică (< 0.6 mm) fără înclinarea gantry-ului (gantry
+    tilt = 0 grade). Exportul volumului de date DICOM cu grosime și increment identice
+    pentru sistemul de planificare neurochirurgicală.
+  tips: Voxelii izotropi și lipsa unghiului gantry sunt obligatorii pentru acuratețea
+    submilimetrică a navigației.
+npo: Repaus alimentar 4 ore dacă se administrează contrast
+position: Decubit dorsal cu capul fixat în cadru stereotaxic sau cu markeri fiduciali
+  cutanați atașați
+premedication: ''
+protocol_type: neuroradiology
+recons:
+- acquisition: CT Stereotaxic Cerebral
+  fov: Craniu
+  kernel: Brain (Bone if needed)
+  notes: Plan axial izotrop de referință
+  plane: Axial
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: CT Stereotaxic Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Plan coronal izotrop
+  plane: Coronal
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: CT Stereotaxic Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Plan mediosagital pe linia comisurală CA-CP
+  plane: Sagital
+  thickness_increment: 0.625 mm/0.625 mm
+- acquisition: CT Stereotaxic Cerebral
+  fov: Craniu
+  kernel: Brain
+  notes: Suprafață 3D pentru corelarea optică a neuronavigației
+  plane: 3D surface
+  thickness_increment: 0.625 mm/0.625 mm
 safety:
-  renal: N/A or verify eGFR
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică pentru scanarea nativă
+series:
+- delay: 0 sec
+  end: Baza craniului
+  name: CT Stereotaxic Cerebral
+  notes: Achiziție izotropă submilimetrică cu gantry 0 grade
+  start: Vertex
+  thickness: 0.625 mm
+slug: ct-head-3d-stereotactic
+synonyms: []
+tech_params:
+  aec: Activat (Modulare angulară adaptivă / mAs fix fosa posterioară)
+  collimation: 64 × 0.625 mm sau 16 × 0.75 mm
+  kv: '120'
+  mas: Auto (referință 300 mAs)
+  pitch: Pitch for isotropic
+  rotation_time: Helicals
+  scan_mode: Secvențial (Axial) sau Elicoidal fin
+  slice_thickness: 0.625 mm
+title: CT Cerebral 3D Stereotaxic (Planificare Neurochirurgicală / Neuronavigație)
 ---
 
-# CT Head 3D Stereotactic
+# CT Cerebral 3D Stereotaxic (Planificare Neurochirurgicală / Neuronavigație)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Stereotactic Head | Contrast (N/A (or 60-90s if contrast) delay) | Vertex to Skull base |
+        | CT Stereotaxic Cerebral | 0 sec | Vertex → Baza craniului |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Stereotactic surgery planning
-        - DBS planning
-        - Biopsy planning
-        - Surgical navigation
-        - Gamma knife
+        - Planificare pre-operatorie stereotaxică / neuronavigație intraoperatorie
+        - Stimulare cerebrală profundă (DBS - Deep Brain Stimulation)
+        - Puncție-biopsie cerebrală stereotaxică
+        - Planificare radiochirurgie stereotaxică (Gamma Knife / CyberKnife)
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
 
-    - **Position:** Supine in surgical position. Head in frame if required
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu capul fixat în cadru stereotaxic sau cu markeri fiduciali cutanați atașați
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore dacă se administrează contrast
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast optional |
-        | Volume | If contrast: 100 mL |
-        | Flow Rate | 3 mL/s |
+        | Agent | Nativ de regulă. Substanță de contrast opțională în caz de mase tumorale |
+        | Volum | Dacă este indicat: 100 mL |
+        | Rată de Flux | 3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 300 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare angulară adaptivă / mAs fix fosa posterioară) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | 64 × 0.625 mm sau 16 × 0.75 mm |
+    | **Timp de Rotație** | Helical s |
+    | **Pitch (Factor Pas)** | Pitch for isotropic |
+    | **Mod Scanare** | Secvențial (Axial) sau Elicoidal fin |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Submillimeter ISOTROPIC acquisition. Vertex to skull base. DICOM for surgical planning. Frame or fiducials if required
-        - Additional Recons: Export to surgical navigation. Isotropic 0.5mm. Coordinates for targeting
+        - Achiziție izotropă submilimetrică (< 0.6 mm) fără înclinarea gantry-ului (gantry tilt = 0 grade). Exportul volumului de date DICOM cu grosime și increment identice pentru sistemul de planificare neurochirurgicală.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - Position exactly as for surgery. Frame placement if required
+        - Poziționare strictă conform reperelor cerute de medicul neurochirurg. Protejarea cadrului stereotaxic sau markerilor fiduciali.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or verify eGFR
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică pentru scanarea nativă
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Isotropic high-resolution for surgical targeting. Anatomic landmarks. Tumor if contrast
+        - Localizarea reperelor anatomice (comisura anterioară - CA, comisura posterioară - CP, linia CA-CP). Coordonate stereotaxice (x, y, z) pentru ținta chirurgicală. Relația cu structurile vasculare și parenchimatoase critice.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Isotropic voxels critical. Export DICOM to surgical planning
+        - Voxelii izotropi și lipsa unghiului gantry sunt obligatorii pentru acuratețea submilimetrică a navigației.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout | Vertex | Skull base | N/A | N/A | Lateral |
-    | Stereotactic Head | Vertex | Skull base | N/A (or 60-90s if contrast) | 0.5-0.625 mm | Isotropic submillimeter |
+    | CT Stereotaxic Cerebral | Vertex | Baza craniului | 0 sec | 0.625 mm | Achiziție izotropă submilimetrică cu gantry 0 grade |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Stereo | Brain | 0.5 mm/0.5 mm | Brain (Bone if needed) | 3 | Isotropic axial |
-    | Coronal | Stereo | Brain | 0.5 mm/0.5 mm | Brain | 3 | Isotropic coronal |
-    | Sagittal | Stereo | Brain | 0.5 mm/0.5 mm | Brain | 3 | Isotropic sagittal midline |
-    | 3D surface | Stereo | Brain | 0.5 mm source | Brain | 3 | Surface for navigation |
+    | Axial | CT Stereotaxic Cerebral | Craniu | 0.625 mm/0.625 mm | Brain (Bone if needed) |  | Plan axial izotrop de referință |
+    | Coronal | CT Stereotaxic Cerebral | Craniu | 0.625 mm/0.625 mm | Brain |  | Plan coronal izotrop |
+    | Sagital | CT Stereotaxic Cerebral | Craniu | 0.625 mm/0.625 mm | Brain |  | Plan mediosagital pe linia comisurală CA-CP |
+    | 3D surface | CT Stereotaxic Cerebral | Craniu | 0.625 mm/0.625 mm | Brain |  | Suprafață 3D pentru corelarea optică a neuronavigației |

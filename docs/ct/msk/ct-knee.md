@@ -1,172 +1,196 @@
 ---
-title: CT Knee
-slug: ct-knee
+author: null
 category: msk
-protocol_type: musculoskeletal
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Knee fracture
-- Tibial plateau
-- Patellar fracture
-- Pre-operative planning
-- Hardware evaluation
-position: Supine feet first
-npo: N/A
-premedication: ''
+- Fracturi de platou tibial (clasificare Schatzker)
+- Fracturi ale condililor femurali
+- Fracturi de rotulă
+- Planificare chirurgicală osteosinteză sau artroplastie
+- Evaluarea materialului de osteosinteză sau a protezei de genunchi
 contrast:
-  agent: None typically. Contrast if infection/mass
-  volume: 'If contrast: 75 mL'
+  agent: Nativ de regulă. Contrast dacă se suspectează artrită septică/flegmon
   flow_rate: 2-3 mL/s
-tech_params:
-  kv: '120'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: Helical
-series:
-- name: CT Knee
-  start: Distal femur
-  end: Proximal tib/fib
-  delay: N/A or 60s if contrast
-  thickness: 0.625 mm
-  notes: Submillimeter
-recons:
-- plane: Axial
-  acquisition: Knee
-  fov: Knee
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Bone algorithm
-- plane: Coronal
-  acquisition: Knee
-  fov: Knee
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Coronal knee
-- plane: Sagittal
-  acquisition: Knee
-  fov: Knee
-  thickness_increment: 1.5 mm/1 mm
-  kernel: Bone
-  ir_strength: N/A
-  notes: Sagittal knee
-- plane: 3D surface
-  acquisition: Knee
-  fov: Bones
-  thickness_increment: 0.625 mm source
-  kernel: Bone
-  ir_strength: N/A
-  notes: 3D for surgical planning
+  volume: 'Dacă este indicat: 75 mL'
+last_updated: '2026-01-01'
 notes:
-  tech: Distal femur through proximal tibia/fibula. Submillimeter. Extended FOV for
-    alignment. Bilateral scout
-  nursing: No IV unless contrast indicated
-  rad: Tibial plateau fractures (Schatzker). Femoral condyles. Patella. Fibula. Cruciate
-    ligaments on contrast. Menisci
-  tips: Bilateral scout for alignment assessment
-  additional_recons: Schatzker classification if tibial plateau. Measure alignment.
-    3D reconstruction
+  additional_recons: Clasificare Schatzker. Măsurarea gradului de înfundare a suprafeței
+    articulare tibiale. Randare 3D VR.
+  nursing: Fără linie venoasă de rutină.
+  rad: 'Fracturi de platou tibial: înfundare articulară (măsurată în mm), dehiscență,
+    separare corticală. Condili femurali, rotulă, capul fibulei. Fragmente intraarticulare
+    osteocondrale.'
+  tech: De la femurul distal până la nivelul tibiei și fibulei proximale. Achiziție
+    submilimetrică. Câmp extins pentru aprecierea axului mecanic al membrului. Scout
+    bilateral.
+  tips: Scout bilateral pentru evaluarea axului mecanic (varus/valgus).
+npo: Nu este necesar repaus alimentar
+position: Decubit dorsal cu picioarele înainte
+premedication: ''
+protocol_type: musculoskeletal
+recons:
+- acquisition: CT Genunchi
+  fov: Genunchi
+  kernel: Bone
+  notes: Filtru osos de înaltă rezoluție
+  plane: Axial
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Genunchi
+  fov: Genunchi
+  kernel: Bone
+  notes: Plan coronal pe platoul tibial
+  plane: Coronal
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Genunchi
+  fov: Genunchi
+  kernel: Bone
+  notes: Plan sagital pentru rotulă și panta tibială
+  plane: Sagital
+  thickness_increment: 1 mm/1 mm
+- acquisition: CT Genunchi
+  fov: Genunchi
+  kernel: Bone
+  notes: Randare tridimensională 3D pentru planificare chirurgicală
+  plane: 3D surface
+  thickness_increment: 0.75 mm/0.75 mm
 safety:
-  renal: N/A or eGFR > 30
-  allergy: N/A or check allergy
+  allergy: Nu se aplică
+  renal: Nu se aplică
+series:
+- delay: 0 sec
+  end: Tibia/fibula proximală
+  name: CT Genunchi
+  notes: Achiziție elicoidală submilimetrică
+  start: Femur distal
+  thickness: 0.625 mm
+slug: ct-knee
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '120'
+  mas: Auto (referință 200 mAs)
+  pitch: Helical
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: CT Genunchi
 ---
 
-# CT Knee
+# CT Genunchi
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | CT Knee | Contrast (N/A or 60s if contrast delay) | Distal femur to Proximal tib/fib |
+        | CT Genunchi | 0 sec | Femur distal → Tibia/fibula proximală |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Knee fracture
-        - Tibial plateau
-        - Patellar fracture
-        - Pre-operative planning
-        - Hardware evaluation
+        - Fracturi de platou tibial (clasificare Schatzker)
+        - Fracturi ale condililor femurali
+        - Fracturi de rotulă
+        - Planificare chirurgicală osteosinteză sau artroplastie
+        - Evaluarea materialului de osteosinteză sau a protezei de genunchi
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat locomotor & Articulații*).
 
-    - **Position:** Supine feet first
-    - **NPO Status:** N/A
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu picioarele înainte
+    - **Repaus Alimentar (NPO):** Nu este necesar repaus alimentar
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
-        | Agent | None typically. Contrast if infection/mass |
-        | Volume | If contrast: 75 mL |
-        | Flow Rate | 2-3 mL/s |
+        | Agent | Nativ de regulă. Contrast dacă se suspectează artrită septică/flegmon |
+        | Volum | Dacă este indicat: 75 mL |
+        | Rată de Flux | 2-3 mL/s |
+        | Durată |  |
+        | Metodă Temporizare |  |
+        | Poziționare ROI |  |
+        | Declanșator (HU) |  |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 120 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | Helical |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Distal femur through proximal tibia/fibula. Submillimeter. Extended FOV for alignment. Bilateral scout
-        - Additional Recons: Schatzker classification if tibial plateau. Measure alignment. 3D reconstruction
+        - De la femurul distal până la nivelul tibiei și fibulei proximale. Achiziție submilimetrică. Câmp extins pentru aprecierea axului mecanic al membrului. Scout bilateral.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - No IV unless contrast indicated
+        - Fără linie venoasă de rutină.
 
-        !!! warning "Safety First"
-            - **Renal Function:** N/A or eGFR > 30
-            - **Allergy:** N/A or check allergy
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Nu se aplică
+            - **Alergii:** Nu se aplică
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Tibial plateau fractures (Schatzker). Femoral condyles. Patella. Fibula. Cruciate ligaments on contrast. Menisci
+        - Fracturi de platou tibial: înfundare articulară (măsurată în mm), dehiscență, separare corticală. Condili femurali, rotulă, capul fibulei. Fragmente intraarticulare osteocondrale.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Bilateral scout for alignment assessment
+        - Scout bilateral pentru evaluarea axului mecanic (varus/valgus).
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout Bilateral | Bilateral knees | Extended | N/A | N/A | AP for alignment |
-    | CT Knee | Distal femur | Proximal tib/fib | N/A or 60s if contrast | 0.625 mm | Submillimeter |
+    | CT Genunchi | Femur distal | Tibia/fibula proximală | 0 sec | 0.625 mm | Achiziție elicoidală submilimetrică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Knee | Knee | 1.5 mm/1 mm | Bone | N/A | Bone algorithm |
-    | Coronal | Knee | Knee | 1.5 mm/1 mm | Bone | N/A | Coronal knee |
-    | Sagittal | Knee | Knee | 1.5 mm/1 mm | Bone | N/A | Sagittal knee |
-    | 3D surface | Knee | Bones | 0.625 mm source | Bone | N/A | 3D for surgical planning |
+    | Axial | CT Genunchi | Genunchi | 1 mm/1 mm | Bone |  | Filtru osos de înaltă rezoluție |
+    | Coronal | CT Genunchi | Genunchi | 1 mm/1 mm | Bone |  | Plan coronal pe platoul tibial |
+    | Sagital | CT Genunchi | Genunchi | 1 mm/1 mm | Bone |  | Plan sagital pentru rotulă și panta tibială |
+    | 3D surface | CT Genunchi | Genunchi | 0.75 mm/0.75 mm | Bone |  | Randare tridimensională 3D pentru planificare chirurgicală |

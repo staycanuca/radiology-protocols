@@ -1,182 +1,203 @@
 ---
-title: CTA Chest
-slug: cta-chest
+author: null
 category: vascular
-protocol_type: vascular
-last_updated: '2026-01-01'
-author: 
-synonyms: []
 clinical_indications:
-- Thoracic aortic aneurysm (not involving the aortic root)
-- Great vessel evaluation
-position: Supine with arms raised
-npo: NPO 2 hours
-premedication: ''
+- Anevrism de aortă toracică (fără interesarea rădăcinii aortice)
+- Evaluarea anomaliilor și variantelor anatomice ale vaselor mari
+- Suspiciune de coarctație de aortă sau pseudoanevrism aortic
 contrast:
   agent: Isovue 370
-  volume: 1.2 mL/kg
-  flow_rate: 4 mL/s
   duration: 15 - 20s
-  timing: Bolus Tracking
-  roi: Ascending aorta or main PA
+  flow_rate: 4 mL/s
+  roi: Aorta ascendentă sau trunchiul arterei pulmonare
+  timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
-tech_params:
-  kv: '100'
-  mas: Auto (reference 200)
-  rotation_time: 0.5s
-  pitch: 1.0-1.2
-series:
-- name: CTA Arterial Chest
-  start: Lung apices
-  end: Adrenal glands
-  delay: Bolus tracked
-  thickness: 0.625 mm
-  notes: Caudocranial direction
-- name: Stent Delay (optional)
-  start: Top of Stent
-  end: Bottom of Stent
-  delay: 40 sec
-  thickness: 0.625 mm
-  notes: Stent coverage
-recons:
-- plane: Axial
-  acquisition: Arterial
-  fov: Chest
-  thickness_increment: 1.25 mm/1.25 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: Primary diagnostic series
-- plane: Axial
-  acquisition: Arterial
-  fov: Chest
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Lung
-  ir_strength: '3'
-  notes: Lung window for parenchyma
-- plane: Coronal
-  acquisition: Arterial
-  fov: Chest
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP coronal great vessels
-- plane: Sagittal
-  acquisition: Arterial
-  fov: Chest
-  thickness_increment: 2.5 mm/2.5 mm
-  kernel: Vascular
-  ir_strength: '3'
-  notes: MIP sagittal aortic arch
+  volume: 1.2 mL/kg
+last_updated: '2026-01-01'
 notes:
-  tech: Choose ROI based on indication - ascending aorta for aortic pathology or main
-    PA for PE
-  nursing: 20G IV minimum
-  rad: Assess aorta and great vessels. Measure aneurysm if present. Look for dissection
-    flap
-  tips: Arms fully raised
-  additional_recons: 3D VR of thoracic vasculature
+  additional_recons: Randare tridimensională 3D VR a arborelui vascular toracic. Reconstrucții
+    MIP coronale și sagitale.
+  nursing: Linie venoasă minim 20G.
+  rad: Evaluați calibrul aortei și al vaselor supraaortice. Măsurați diametrele anevrismului.
+    Căutați flap de disecție sau hematom parietal.
+  tech: 'Alegeți ROI conform indicației clinice: aorta ascendentă pentru patologie
+    aortică sau trunchiul arterei pulmonare pentru suspiciune de TEP. Direcție de
+    scanare caudo-cranială.'
+  tips: Brațele complet ridicate deasupra capului.
+npo: Repaus alimentar 4 ore
+position: Decubit dorsal cu brațele ridicate
+premedication: ''
+protocol_type: vascular
+recons:
+- acquisition: Angio-CT Arterial Torace
+  fov: Torace
+  kernel: Vascular
+  notes: Serie diagnostică vasculară primară
+  plane: Axial
+  thickness_increment: 1.25 mm/1.25 mm
+- acquisition: Angio-CT Arterial Torace
+  fov: Torace
+  kernel: Lung
+  notes: Fereastră pulmonară pentru parenchim
+  plane: Axial
+  thickness_increment: 1.5 mm/1.5 mm
+- acquisition: Angio-CT Arterial Torace
+  fov: Torace
+  kernel: Vascular
+  notes: MIP coronal pentru vasele mari
+  plane: Coronal
+  thickness_increment: 2 mm/2 mm
+- acquisition: Angio-CT Arterial Torace
+  fov: Torace
+  kernel: Vascular
+  notes: MIP sagital pentru crosa aortică
+  plane: Sagital
+  thickness_increment: 2 mm/2 mm
 safety:
-  renal: Verify eGFR > 30
-  allergy: Check allergy history
+  allergy: Verificați istoricul alergic
+  renal: Verificați eGFR > 30 mL/min/1.73m²
+series:
+- delay: Urmărire bolus
+  end: Glande suprarenale
+  name: Angio-CT Arterial Torace
+  notes: Direcție caudo-cranială
+  start: Vârfuri pulmonare
+  thickness: 0.625 mm
+- delay: 40 sec
+  end: Margine inferioară stent
+  name: Tardiv Stent (opțional)
+  notes: Evaluare zonă stentată toracică
+  start: Margine superioară stent
+  thickness: 1 mm
+slug: cta-chest
+synonyms: []
+tech_params:
+  aec: Activat (Modulare automată 3D conform topogramei / scout)
+  collimation: 'Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm)'
+  kv: '100'
+  mas: Auto (referință 200 mAs)
+  pitch: 1.0-1.2
+  rotation_time: 0.5s
+  scan_mode: Elicoidal (Helical)
+  slice_thickness: 0.625 mm
+title: Angio-CT Torace (Aortă Toracică și Vase Mari)
 ---
 
-# CTA Chest
+# Angio-CT Torace (Aortă Toracică și Vase Mari)
 
-**Last Updated:** 2026-01-01
-**Author:** 
+**Ultima actualizare:** 2026-01-01
+**Autor:** None
 
 ---
 
 <div class="grid cards" markdown>
 
--   __1. Clinical Summary__
+-   __1. Rezumat Clinic__
 
     ---
 
-    === "Acquisition Summary"
+    === "Rezumat Achiziție"
 
-        | Series | Phase | Coverage |
+        | Serie | Fază | Acoperire |
         |:-------|:------|:---------|
-        | Non-contrast | Non-contrast | Lung apices to Costophrenic angles |
-        | CTA Arterial Chest | Arterial (bolus tracked) | Lung apices to Costophrenic angles |
-        | CT Delayed (optional) | Delayed (40 sec delay) | Lung apices to Costophrenic angles |
+        | Angio-CT Arterial Torace | Urmărire bolus | Vârfuri pulmonare → Glande suprarenale |
+        | Tardiv Stent (opțional) | 40 sec | Margine superioară stent → Margine inferioară stent |
 
-    === "Clinical Indications"
+    === "Indicații Clinice"
 
-        - Thoracic aortic aneurysm (not involving the aortic root)
-        - Great vessel evaluation
+        - Anevrism de aortă toracică (fără interesarea rădăcinii aortice)
+        - Evaluarea anomaliilor și variantelor anatomice ale vaselor mari
+        - Suspiciune de coarctație de aortă sau pseudoanevrism aortic
 
--   __2. Patient Prep__
+    === "Ghid Național IRIS"
 
-    ---
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
 
-    - **Position:** Supine with arms raised
-    - **NPO Status:** NPO 2 hours
-    
-
--   __3. IV Contrast & Injection__    
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Pregătire Pacient__
 
     ---
-    
-    ===   "Injection Parameters"
-        
-        | Parameter | Value |
+
+    - **Poziție:** Decubit dorsal cu brațele ridicate
+    - **Repaus Alimentar (NPO):** Repaus alimentar 4 ore
+    - **Premedicație / Pregătire:**
+        - Nu este necesară
+
+-   __3. Contrast IV & Injectare__
+
+    ---
+    === "Parametri de Injectare"
+
+        | Parametru | Valoare |
         |-----------|-------|
         | Agent | Isovue 370 |
-        | Volume | 1.2 mL/kg |
-        | Flow Rate | 4 mL/s |
-        | Duration | 15 - 20s |
-        | Timing Method | Bolus Tracking |
-        | ROI Placement | Ascending aorta or main PA |
-        | Trigger (HU) | 150 HU |
+        | Volum | 1.2 mL/kg |
+        | Rată de Flux | 4 mL/s |
+        | Durată | 15 - 20s |
+        | Metodă Temporizare | Urmărire bolus (Bolus Tracking) |
+        | Poziționare ROI | Aorta ascendentă sau trunchiul arterei pulmonare |
+        | Declanșator (HU) | 150 HU |
 
-    ===   "Lab Requirements"
-        Use full dose if GFR > 30
-        !!! warning "If GFR < 30"
-            **Max Contrast** = \(2*\left[\frac{\text{Patient Weight}}{75 \text{ kg}} * \text{eGFR}\right]\)
+    === "Cerințe de Laborator"
+        Doză completă dacă eGFR > 30 mL/min
+        !!! warning "Dacă eGFR < 30 mL/min"
+            **Contrast Maxim** = \(2*\left[\frac{\text{Greutate Pacient}}{75 \text{ kg}} * \text{eGFR}\right]\)
 
--   __4. Special Notes__
+-   __4. Parametri Tehnici Achiziție__
+
+    ---
+    | Parametru Tehnic | Valoare Configurare |
+    |:-----------------|:---------------------|
+    | **Tensiune Tub (kV)** | 100 kV |
+    | **Curent Tub (mAs)** | Auto (referință 200 mAs) |
+    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
+    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
+    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
+    | **Timp de Rotație** | 0.5 s |
+    | **Pitch (Factor Pas)** | 1.0-1.2 |
+    | **Mod Scanare** | Elicoidal (Helical) |
+
+-   __5. Note Speciale__
 
     ---
 
-    === "Technologist Notes"
+    === "Note Tehnician"
 
-        - Choose ROI based on indication - ascending aorta for aortic pathology or main PA for PE
-        - Additional Recons: 3D VR of thoracic vasculature
+        - Alegeți ROI conform indicației clinice: aorta ascendentă pentru patologie aortică sau trunchiul arterei pulmonare pentru suspiciune de TEP. Direcție de scanare caudo-cranială.
 
-    === "Nursing Notes"
+    === "Note Asistent"
 
-        - 20G IV minimum
+        - Linie venoasă minim 20G.
 
-        !!! warning "Safety First"
-            - **Renal Function:** Verify eGFR > 30
-            - **Allergy:** Check allergy history
+        !!! warning "Siguranță"
+            - **Funcție Renală:** Verificați eGFR > 30 mL/min/1.73m²
+            - **Alergii:** Verificați istoricul alergic
 
-    === "Radiologist Notes"
+    === "Note Radiolog"
 
-        - Assess aorta and great vessels. Measure aneurysm if present. Look for dissection flap
+        - Evaluați calibrul aortei și al vaselor supraaortice. Măsurați diametrele anevrismului. Căutați flap de disecție sau hematom parietal.
 
-    === "Tips & Tricks"
+    === "Sfaturi & Recomandări"
 
-        - Arms fully raised
+        - Brațele complet ridicate deasupra capului.
 
 </div>
 
 <div class="acquisition-diagram"></div>
 
-=== "Series Acquisition"
+=== "Achiziție Serii"
 
-    | Series Name | Start Location | End Location | Delay | Slice Thickness | Notes |
+    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
     |:------------|:---------------|:-------------|:------|:----------------|:------|
-    | Scout/Topogram | Lung apices | Adrenal glands | N/A | N/A | AP and lateral |
-    | CTA Arterial Chest | Lung apices | Adrenal glands | Bolus tracked | 0.625 mm | Caudocranial direction |
-    | Stent Delay (optional) | Top of Stent | Bottom of Stent | 40 sec | 0.625 mm | Stent coverage |
+    | Angio-CT Arterial Torace | Vârfuri pulmonare | Glande suprarenale | Urmărire bolus | 0.625 mm | Direcție caudo-cranială |
+    | Tardiv Stent (opțional) | Margine superioară stent | Margine inferioară stent | 40 sec | 1 mm | Evaluare zonă stentată toracică |
 
-=== "Post-Processing"
+=== "Post-procesare & Reconstrucții"
 
-    | Plane | Acquisition | FOV | Thickness/Increment | Kernel | IR Strength | Notes |
+    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
-    | Axial | Arterial | Chest | 1.25 mm/1.25 mm | Vascular | 3 | Primary diagnostic series |
-    | Axial | Arterial | Chest | 2.5 mm/2.5 mm | Lung | 3 | Lung window for parenchyma |
-    | Coronal | Arterial | Chest | 2.5 mm/2.5 mm | Vascular | 3 | MIP coronal great vessels |
-    | Sagittal | Arterial | Chest | 2.5 mm/2.5 mm | Vascular | 3 | MIP sagittal aortic arch |
+    | Axial | Angio-CT Arterial Torace | Torace | 1.25 mm/1.25 mm | Vascular |  | Serie diagnostică vasculară primară |
+    | Axial | Angio-CT Arterial Torace | Torace | 1.5 mm/1.5 mm | Lung |  | Fereastră pulmonară pentru parenchim |
+    | Coronal | Angio-CT Arterial Torace | Torace | 2 mm/2 mm | Vascular |  | MIP coronal pentru vasele mari |
+    | Sagital | Angio-CT Arterial Torace | Torace | 2 mm/2 mm | Vascular |  | MIP sagital pentru crosa aortică |
