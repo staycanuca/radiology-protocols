@@ -791,11 +791,19 @@ function renderAttachments() {
 function renderPreview() {
   const container = $('previewArea');
   if (!container) return;
-  const doc = $('document').value || '';
-  const match = doc.match(/\A---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|\Z)([\s\S]*)\Z/);
+  const doc = ($('document').value || '').trim();
+  const match = doc.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)([\s\S]*)$/);
   
   if (!match) {
-    container.innerHTML = '<p class="muted">Documentul nu conține antet YAML valid delimitat prin <code>---</code>.</p>';
+    let fallbackHtml = '';
+    if (typeof marked !== 'undefined' && marked.parse) {
+      fallbackHtml = marked.parse(doc);
+    } else {
+      fallbackHtml = '<pre>' + esc(doc) + '</pre>';
+    }
+    container.innerHTML = '<div style="background:#fff7ea; border:1px solid #fedfa9; border-radius:6px; padding:8px 12px; margin-bottom:12px; font-size:12.5px; color:#855307;">' +
+      '⚠️ Documentul nu conține încă un antet YAML valid delimitat prin <code>---</code>. Se afișează conținutul Markdown:</div>' +
+      '<div style="line-height:1.7;">' + fallbackHtml + '</div>';
     return;
   }
   
