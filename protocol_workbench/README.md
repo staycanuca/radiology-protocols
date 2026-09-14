@@ -42,7 +42,7 @@ Pentru lotul pediatric pregătit în această sesiune există 15 dosare în Work
 - Dacă ulterior salvezi protocolul prin editorul admin existent, acesta poate regenera corpul și elimina metadate necunoscute; păstrează dosarul Workbench ca evidență de proveniență și revizuire. Editorul admin nu a fost modificat.
 - Recenzorul este declarat local; nu există autentificare, semnătură electronică, audit imuabil sau validare clinică automată. Nu este un PACS/DICOM viewer.
 - Conexiunea la internet este necesară pentru căutări, extragerea surselor și descărcarea imaginilor. Erorile serviciilor externe sunt afișate, fără a fabrica rezultate. Nu este necesară o cheie API.
-- Serviciul ascultă numai pe `127.0.0.1`, verifică Host și folosește un token pentru operațiile de modificare. Descărcările cer HTTPS public, verifică redirecționările și limitează fișierele la 16 MB. Este destinat unui singur utilizator local, nu expunerii pe internet.
+- Serviciul ascultă numai pe `127.0.0.1`, verifică Host și folosește un token pentru operațiile de modificare. Descărcările cer HTTPS public, verifică redirecționările și limitează fișierele la 100 MB (configurabil prin `--max-upload-mb`). Este destinat unui singur utilizator local, nu expunerii pe internet.
 
 Documentația furnizorilor: [Europe PMC REST](https://europepmc.org/RestfulWebService), [Wikimedia metadata](https://commons.wikimedia.org/wiki/Commons:Machine-readable_data/en).
 

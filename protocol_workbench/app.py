@@ -42,7 +42,8 @@ STRUCTURES = {
     'eco': {'transducers_equipment': dict, 'technical_settings': dict, 'standard_views': list},
     'fluoro': {'positioning_equipment': dict, 'fluoro_params': dict, 'acquisition_steps': list, 'radiation_safety': list},
 }
-LIMIT = 16 * 1024 * 1024
+DEFAULT_LIMIT_MB = 100
+LIMIT = DEFAULT_LIMIT_MB * 1024 * 1024
 
 
 def now():
@@ -82,7 +83,7 @@ def _fetch(url, params=None):
             for chunk in response.iter_content(65536):
                 size += len(chunk)
                 if size > LIMIT:
-                    raise ValueError('Fișierul depășește limita de 16 MB.')
+                    raise ValueError(f'Fișierul depășește limita permisă de {LIMIT // (1024 * 1024)} MB.')
                 chunks.append(chunk)
             return b''.join(chunks), response.headers.get('Content-Type', ''), response.url
     raise ValueError('Prea multe redirecționări.')
@@ -253,17 +254,19 @@ def seed(modality, title):
     return '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n# ' + title + '\n\n## Pregătire\n\n## Achiziție\n\n## Criterii de calitate\n\n## Siguranță și contraindicații\n'
 
 
-def create_app(repo=None, state=None):
+def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
     app = Flask(__name__)
     repo = Path(repo or Path(__file__).resolve().parents[1]).resolve()
     state = Path(state or repo / '.protocol-workbench').resolve()
     state.mkdir(parents=True, exist_ok=True)
     (state / 'images').mkdir(exist_ok=True)
+    (state / 'sources').mkdir(exist_ok=True)
     (state / 'cache').mkdir(exist_ok=True)
     token = secrets.token_urlsafe(32)
     lock = threading.RLock()
     american_search = AmericanSearch(lambda url: fetch(url), cache_dir=state / 'cache')
-    app.config.update(MAX_CONTENT_LENGTH=LIMIT, REPO=repo, STATE=state)
+    limit_bytes = max_upload_mb * 1024 * 1024
+    app.config.update(MAX_CONTENT_LENGTH=limit_bytes, REPO=repo, STATE=state, MAX_UPLOAD_MB=max_upload_mb)
 
     def draft_path(identifier):
         if not re.fullmatch(r'[a-f0-9]{32}', identifier):
@@ -595,9 +598,10 @@ def create_app(repo=None, state=None):
             raise ValueError('Fișier invalid.')
         orig_name = Path(file.filename).name
         sec_name = secure_filename(orig_name) or 'document'
-        raw = file.read(LIMIT)
-        if len(raw) >= LIMIT:
-            raise ValueError('Fișierul depășește limita permisă de 16 MB.')
+        limit_bytes = app.config.get('MAX_CONTENT_LENGTH', LIMIT)
+        raw = file.read(limit_bytes)
+        if len(raw) >= limit_bytes:
+            raise ValueError(f'Fișierul depășește limita permisă de {app.config.get("MAX_UPLOAD_MB", DEFAULT_LIMIT_MB)} MB.')
 
         title = str(request.form.get('title') or '').strip() or Path(orig_name).stem
         institution = str(request.form.get('institution') or '').strip() or 'Document instituțional intern'
@@ -675,13 +679,13 @@ def create_app(repo=None, state=None):
         for key in ('caption', 'author', 'license', 'source_url'):
             if not str(data.get(key, '')).strip():
                 raise ValueError('Imaginea necesită legendă, autor, licență și sursă.')
-        public_url(data['source_url'])
+        limit_bytes = app.config.get('MAX_CONTENT_LENGTH', LIMIT)
         if request.files:
-            raw = request.files['file'].read(LIMIT + 1)
+            raw = request.files['file'].read(limit_bytes + 1)
         else:
             raw = fetch(data['url'])[0]
-        if len(raw) > LIMIT:
-            raise ValueError('Imaginea este prea mare.')
+        if len(raw) > limit_bytes:
+            raise ValueError(f'Imaginea depășește limita permisă de {app.config.get("MAX_UPLOAD_MB", DEFAULT_LIMIT_MB)} MB.')
         with Image.open(io.BytesIO(raw)) as img:
             if img.width * img.height > 40000000:
                 raise ValueError('Rezoluție prea mare (maximum 40 megapixeli).')
@@ -893,5 +897,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Protocol Workbench — standalone local')
     parser.add_argument('--repo', type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument('--port', type=int, default=5180)
+    parser.add_argument('--max-upload-mb', type=int, default=DEFAULT_LIMIT_MB,
+                        help=f'Limita maximă de încărcare fișiere în MB (implicit: {DEFAULT_LIMIT_MB} MB)')
     args = parser.parse_args()
-    create_app(args.repo).run(host='127.0.0.1', port=args.port, debug=False)
+    create_app(args.repo, max_upload_mb=args.max_upload_mb).run(host='127.0.0.1', port=args.port, debug=False)
