@@ -441,4 +441,59 @@ def test_local_sources_catalog_and_reuse(workbench):
     assert 'nu a fost găsit' in err_res.json['error']
 
 
+def test_smart_extract_source_endpoint(workbench):
+    client, headers, repo, state = workbench
+    d = draft(workbench, 'rx')
+    prefix = '/api/drafts/' + d['id']
+
+    # Update document to represent Rx Coloană Toracală
+    custom_doc = """---
+title: Rx Coloană Toracală (Față & Profil)
+modality: rx
+category: coloana
+author: Departamentul de Radiologie
+last_updated: '2026-09-14'
+clinical_indications:
+- Dorsalgii cronice
+position: Decubit dorsal
+tech_params:
+  kv: 75 - 85 (Față); 80 - 90 (Profil)
+  mas: 25 - 50 (AEC)
+sid_dff: 100 - 115 cm
+slug: rx-coloana-toracala
+---
+
+# Rx Coloană Toracală
+"""
+    client.put(prefix, json={'document': custom_doc}, headers=headers)
+
+    # Upload local source with new parameters
+    src_content = b"""
+    Protocol Spital Coloana Toracala:
+    Parametrii tehnici generator:
+    Tensiune: Fata 75 - 80 kV; Profil 80 - 95 kV.
+    Curent-timp: 35 - 60 mAs.
+    DFF: 120 cm.
+    Focar mare.
+    """
+    up_res = client.post(
+        prefix + '/sources/upload',
+        data={'file': (io.BytesIO(src_content), 'protocol_toracala.txt'), 'title': 'Ghid Tehnic Toracala'},
+        headers=headers
+    )
+    assert up_res.status_code == 200
+    sources = up_res.json['sources']
+    sid = sources[0]['id']
+
+    # Call smart-extract endpoint explicitly
+    extract_res = client.post(f"{prefix}/sources/{sid}/smart-extract", headers=headers)
+    assert extract_res.status_code == 200
+    data = extract_res.json
+    assert data['count'] >= 2
+    doc = data['draft']['document']
+    assert '75 - 80 (Față); 80 - 95 (Profil)' in doc
+    assert '35 - 60' in doc
+    assert '120 cm' in doc
+
+
 

@@ -827,13 +827,40 @@ function renderAttachments() {
     actionsDiv.style.marginTop = '8px';
     actionsDiv.style.gap = '8px';
 
+    const smartBtn = document.createElement('button');
+    smartBtn.type = 'button';
+    smartBtn.style.fontSize = '12px';
+    smartBtn.style.padding = '5px 12px';
+    smartBtn.style.background = '#287455';
+    smartBtn.style.color = '#ffffff';
+    smartBtn.style.border = 'none';
+    smartBtn.style.fontWeight = '600';
+    smartBtn.textContent = '✨ Extrage parametri în protocol';
+    smartBtn.title = 'Analizează textul sursei și actualizează automat parametrii tehnici (kV, mAs, DFF, contrast, etc.) în protocol conform diferențelor găsite';
+    smartBtn.onclick = () => run(smartBtn, async () => {
+      await persist();
+      const res = await api('/api/drafts/' + active.id + '/sources/' + s.id + '/smart-extract', 'POST', {});
+      active = res.draft;
+      $('document').value = active.document;
+      dirty = false;
+      renderPreview();
+      updateAutoSaveStatus('saved');
+      if (res.count > 0) {
+        const details = res.diffs.map(d => '• ' + d.label + ': ' + d.old_value + ' → ' + d.new_value).join('\n');
+        alert('✨ Au fost actualizați automat ' + res.count + ' parametri conform sursei «' + res.source_title + '»:\n\n' + details);
+        message('Au fost actualizați ' + res.count + ' parametri tehnici din sursă.');
+      } else {
+        message('Nu au fost găsite diferențe noi față de parametrii existenți în protocol.');
+      }
+    });
+
     const insertBtn = document.createElement('button');
-    insertBtn.className = 'secondary';
+    insertBtn.className = 'subtle-btn';
     insertBtn.type = 'button';
     insertBtn.style.fontSize = '12px';
     insertBtn.style.padding = '5px 11px';
-    insertBtn.textContent = '📝 Inserează în editor';
-    insertBtn.title = 'Inserează conținutul extras din această sursă direct în document';
+    insertBtn.textContent = '📄 Inserează text brut';
+    insertBtn.title = 'Inserează tot textul brut extras din această sursă direct în document';
     insertBtn.onclick = () => {
       const docEl = $('document');
       const excerptText = (s.excerpt || '').trim();
@@ -855,7 +882,7 @@ function renderAttachments() {
       dirty = true;
       updateAutoSaveStatus('unsaved');
       renderPreview();
-      message('Textul sursei «' + s.title + '» a fost inserat în editor.');
+      message('Textul brut al sursei «' + s.title + '» a fost inserat în editor.');
     };
 
     const b = document.createElement('button');
@@ -865,7 +892,7 @@ function renderAttachments() {
     b.textContent = 'Elimină sursa';
     b.onclick = () => run(b, () => changeAttachment('/sources/' + s.id, 'DELETE'));
 
-    actionsDiv.append(insertBtn, b);
+    actionsDiv.append(smartBtn, insertBtn, b);
     e.append(actionsDiv);
     $('sources').append(e);
   }

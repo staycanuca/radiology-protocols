@@ -26,6 +26,7 @@ from flask import Flask, jsonify, render_template, request, send_from_directory
 from werkzeug.utils import secure_filename
 from PIL import Image
 from protocol_workbench.american_sources import AmericanSearch, provenance
+from protocol_workbench.smart_extractor import smart_extract_and_apply
 
 CATEGORIES = {
     'ct': ['abdomen', 'cardiac', 'chest', 'msk', 'neuro', 'trauma', 'vascular'],
@@ -813,6 +814,46 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         if (doc_sources_dir / ref).exists():
             return send_from_directory(doc_sources_dir, ref, as_attachment=False)
         raise ValueError('Fișierul sursă local nu a fost găsit pe disc.')
+
+    @app.post('/api/drafts/<identifier>/sources/<source_id>/smart-extract')
+    def smart_extract_source_parameters(identifier, source_id):
+        with lock:
+            draft = read(identifier)
+            if draft['status'] == 'imported':
+                raise ValueError('Dosar deja importat.')
+            source = next((s for s in draft['sources'] if s['id'] == source_id), None)
+            if not source:
+                raise ValueError('Sursa nu a fost găsită în dosar.')
+
+            text_to_analyze = source.get('excerpt', '')
+            if source.get('local_file_ref'):
+                fpath = state / 'sources' / source['local_file_ref']
+                if not fpath.exists():
+                    fpath = repo / 'docs' / 'assets' / 'protocols' / 'sources' / source['local_file_ref']
+                if fpath.exists():
+                    try:
+                        full_text, _ = extract_text_from_file(fpath.read_bytes(), source.get('local_filename', source['local_file_ref']))
+                        if len(full_text.strip()) > len(text_to_analyze):
+                            text_to_analyze = full_text
+                    except Exception:
+                        pass
+
+            updated_doc, diffs = smart_extract_and_apply(
+                draft['document'],
+                text_to_analyze,
+                source.get('title', '')
+            )
+
+            if diffs:
+                draft['document'] = updated_doc
+                save(draft)
+
+            return jsonify({
+                'draft': draft,
+                'diffs': diffs,
+                'count': len(diffs),
+                'source_title': source.get('title', 'Sursă')
+            })
 
     @app.get('/api/images/search')
     def image_search():
