@@ -1,0 +1,20 @@
+.field-ai-settings { border-left: 4px solid #287455; }
+.field-ai-settings select { max-width: 310px; }
+.field-ai-settings p { color: #485a66; font-size: .9rem; }
+.field-ai-button { display: inline-flex; padding: .25rem .55rem; margin: .3rem 0 .6rem; border: 1px solid #afccbd; border-radius: 5px; color: #19563b; background: #edf6f1; cursor: pointer; font-size: .78rem; }
+.field-ai-button:hover { background: #dceee3; }
+.field-ai-button:focus-visible { outline: 3px solid #287455; outline-offset: 2px; }
+.field-ai-dialog { width: min(760px, calc(100vw - 36px)); max-height: 88vh; box-sizing: border-box; border: 1px solid #bfd0c7; border-radius: 12px; padding: 24px; color: #243440; box-shadow: 0 20px 70px #0004; }
+.field-ai-dialog::backdrop { background: #16292280; }
+.field-ai-dialog h2 { margin: 0; font-size: 1.25rem; }
+.field-ai-header { display: flex; align-items: start; justify-content: space-between; gap: 16px; }
+.field-ai-dialog button { cursor: pointer; padding: 8px 14px; border: 1px solid #b5c9bd; border-radius: 6px; background: #eef6f1; color: #18533a; }
+.field-ai-dialog button:disabled { cursor: not-allowed; opacity: .5; }
+.field-ai-dialog pre { white-space: pre-wrap; overflow-wrap: anywhere; font-family: inherit; background: #f3f6f4; padding: 12px; border-radius: 6px; max-height: 240px; overflow: auto; }
+.field-ai-dialog p, .field-ai-dialog li { line-height: 1.5; }
+.field-ai-dialog a { color: #155a91; overflow-wrap: anywhere; }
+.field-ai-dialog label { display: flex; gap: 8px; align-items: start; margin: 16px 0; }
+.field-ai-dialog input[type=checkbox] { width: auto; margin-top: 5px; }
+.field-ai-error { color: #a32222; }
+.field-ai-meta { color: #52675b; font-size: .85rem; }
+.field-ai-dialog iframe { width: 100%; min-height: 100px; border: 0; }

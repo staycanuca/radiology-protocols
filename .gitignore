@@ -35,3 +35,6 @@ site/
 backend/
 chroma_db/
 mri/
+
+radiology-protocols.zip
+radiology-protocols-main.7z

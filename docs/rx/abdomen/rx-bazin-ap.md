@@ -14,14 +14,15 @@ iris_reference:
   chapter: Aparat locomotor & Bazin
   radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: În traumatisme severe cu suspiciune de fractură instabilă de bazin sau col
   femural luxat, NU se forțează rotația internă a membrelor inferioare!
 position: Decubit dorsal pe masa radiologică, membrele inferioare în extensie și rotație
   internă de 15° (alinierea colurilor femurale)
 protection:
-- Protecție gonadică aplicată bărbaților (ecran pe linia mediană)
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă
   nu obstrucționează zona de interes
 quality_criteria:
@@ -136,7 +137,7 @@ sources:
 
     ---
 
-    - Protecție gonadică aplicată bărbaților (ecran pe linia mediană)
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă nu obstrucționează zona de interes
 
 </div>
@@ -146,11 +147,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 115 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

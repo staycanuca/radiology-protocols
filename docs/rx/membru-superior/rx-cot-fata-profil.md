@@ -12,7 +12,7 @@ iris_reference:
   chapter: Aparat locomotor & Membru superior
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: 'La copii, prezența nucleilor de osificare secundari (CRITOE: Capitul, Radius,
   Intern, Trohlee, Olecran, Extern) trebuie verificată atent în funcție de vârstă.'
@@ -20,7 +20,8 @@ position: 'Pacient așezat la capătul mesei radiologice. 1) Față (AP): brațu
   în extensie completă și supinație, lipite de detector; 2) Profil: cot flectat strict
   la 90°, marginea ulnară lipită de casetă'
 protection:
-- Șorț de plumb pe poala pacientului (protecție gonade în poziție șezândă)
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare restrânsă strict pe cot
 quality_criteria:
 - 'Pe față: articulația cotului complet deschisă, epicondilii humerului vizibili în
@@ -132,7 +133,7 @@ sources:
 
     ---
 
-    - Șorț de plumb pe poala pacientului (protecție gonade în poziție șezândă)
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare restrânsă strict pe cot
 
 </div>
@@ -142,11 +143,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

@@ -534,7 +534,9 @@ def extract_rx_parameters(text: str, protocol_title: str = "") -> dict[str, Any]
     # 8. Poziționare, Centrare, Respirație
     pos_match = re.search(r'\b(?:pozi[tț]ie\s+pacient|pozi[tț]ionare|patient\s+position|positioning)\b\s*[:=]?\s*([^\n.;]{6,120})', segment, re.I)
     if pos_match:
-        params['position'] = pos_match.group(1).strip()
+        candidate = pos_match.group(1).strip()
+        if candidate.casefold() not in {'terminology', 'introduction', 'patient positioning', 'technique', 'references'}:
+            params['position'] = candidate
 
     cent_match = re.search(r'\b(?:punct\s+de\s+centrare|centrare|raza\s+central[aă]|central\s+ray|\bcr\b)\b\s*[:=]?\s*([^\n.;]{6,120})', segment, re.I)
     if cent_match:

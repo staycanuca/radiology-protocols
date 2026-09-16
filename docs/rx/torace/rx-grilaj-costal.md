@@ -12,14 +12,15 @@ iris_reference:
   chapter: Traumatisme & Torace
   radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
   recommendation_grade: Grad B
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Orice suspiciune de fracturi costale multiple cu detresă respiratorie sau instabilitate
   impune completarea cu CT Torace.
 position: Ortostatism sau decubit; incidență AP/PA centrată pe hemitoracele afectat
   + incidență oblică la 45° pentru desfășurarea arcurilor costale laterale
 protection:
-- Șorț de plumb pelvin
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)
 quality_criteria:
 - Vizualizarea clară a continuității corticalei osoase a arcurilor costale
@@ -127,7 +128,7 @@ sources:
 
     ---
 
-    - Șorț de plumb pelvin
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)
 
 </div>
@@ -137,11 +138,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 115 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

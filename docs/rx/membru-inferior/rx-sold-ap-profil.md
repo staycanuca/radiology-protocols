@@ -13,7 +13,7 @@ iris_reference:
   chapter: Aparat locomotor & Membru inferior
   radiation_dose: Clasa 1 (Minimă < 0.3 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: În caz de traumatism acut cu durere severă, profilul Lauenstein este strict
   CONTRAINDICAT! Se realizează incidența profil axială cu raza orizontală (incidența
@@ -21,7 +21,8 @@ notes: În caz de traumatism acut cu durere severă, profilul Lauenstein este st
 position: '1) AP: decubit dorsal, membrul afectat în rotație internă de 15°; 2) Profil
   Lauenstein (poziție broască): coapsa în abducție de 45° și flexie de 90°'
 protection:
-- Ecran plumbat pe gonade (atenție să nu acopere cotilul intern)
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare unilaterală riguroasă
 quality_criteria:
 - Vizualizarea clară a cotilului, capului femural, liniei intertrohanteriene și marelui/micului
@@ -130,7 +131,7 @@ sources:
 
     ---
 
-    - Ecran plumbat pe gonade (atenție să nu acopere cotilul intern)
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare unilaterală riguroasă
 
 </div>
@@ -140,11 +141,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 115 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

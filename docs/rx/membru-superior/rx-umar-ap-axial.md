@@ -12,7 +12,7 @@ iris_reference:
   chapter: Aparat locomotor & Membru superior
   radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: În caz de suspiciune de luxație, NU se forțează mișcări de rotație externă
   sau abducție a brațului!
@@ -21,7 +21,8 @@ position: '1) AP: ortostatism cu spatele la stativ, umărul ușor rotit posterio
   (Profil de scapulă): pacientul rotit anterior 45-60° cu umărul afectat lipit de
   detector'
 protection:
-- Șorț pelvin de plumb și guler tiroidian
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare strictă la articulația umărului
 quality_criteria:
 - 'Pe AP Grashey: fanta articulară gleno-humerală este liberă fără suprapunere a marginii
@@ -132,7 +133,7 @@ sources:
 
     ---
 
-    - Șorț pelvin de plumb și guler tiroidian
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare strictă la articulația umărului
 
 </div>
@@ -142,11 +143,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 115 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

@@ -15,7 +15,7 @@ iris_reference:
   chapter: Coloană vertebrală & Traumatisme
   radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Dacă C7-T1 nu se poate vizualiza pe profil din cauza umerilor masivi, se realizează
   incidența specială 'Swimmer' (înotător) sau se efectuează CT Cervical.
@@ -23,7 +23,8 @@ position: '1) Incidență AP (Față): ortostatism sau șezând, bărbia ușor r
   Incidență Laterală (Profil): ortostatism, umărul lipit de stativ, umerii coborâți
   la maximum; 3) Incidență Transbucală (Odontoidă) cu gura larg deschisă'
 protection:
-- Guler tiroidian de plumb montat dacă nu obstrucționează C5-C7; șorț pelvin de plumb
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare precisă pe coloana cervicală
 quality_criteria:
 - 'Pe profil: vizualizarea obligatorie a tuturor celor 7 vertebre cervicale (C1 la
@@ -137,7 +138,7 @@ sources:
 
     ---
 
-    - Guler tiroidian de plumb montat dacă nu obstrucționează C5-C7; șorț pelvin de plumb
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare precisă pe coloana cervicală
 
 </div>
@@ -147,11 +148,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (150 - 180 cm pentru Profil (reduce magnificarea și compensează distanța umăr-coloană); 100 cm pentru Față).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

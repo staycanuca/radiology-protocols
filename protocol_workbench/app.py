@@ -15,6 +15,8 @@ import sys
 import threading
 import unicodedata
 import uuid
+import time
+import difflib
 from datetime import date, datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -24,9 +26,12 @@ import requests
 import yaml
 from flask import Flask, jsonify, render_template, request, send_from_directory
 from werkzeug.utils import secure_filename
+from werkzeug.exceptions import Conflict
 from PIL import Image
 from protocol_workbench.american_sources import AmericanSearch, provenance
-from protocol_workbench.smart_extractor import smart_extract_and_apply
+from protocol_workbench.smart_extractor import sync_body_parameters
+from protocol_workbench.completion import complete, fingerprint, leaves, get_field, set_field, SUMMARY_START, SUMMARY_END
+from protocol_workbench.image_search import search_images
 
 CATEGORIES = {
     'ct': ['abdomen', 'cardiac', 'chest', 'msk', 'neuro', 'trauma', 'vascular'],
@@ -203,7 +208,7 @@ def library(repo):
         md = docs / modality
         if md.exists():
             try:
-                mtimes.append(md.stat().st_mtime_ns)
+                mtimes.extend((p.as_posix(), p.stat().st_mtime_ns, p.stat().st_size) for p in sorted(md.rglob('*.md')))
             except OSError:
                 pass
     cache_key = str(repo)
@@ -252,7 +257,7 @@ def seed(modality, title):
                  'eco': {'transducers_equipment': {}, 'technical_settings': {}, 'standard_views': [], 'quality_criteria': []},
                  'fluoro': {'positioning_equipment': {}, 'fluoro_params': {}, 'acquisition_steps': [], 'contrast': {}, 'radiation_safety': []}}
     fm.update(specifics[modality])
-    return '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n# ' + title + '\n\n## Pregătire\n\n## Achiziție\n\n## Criterii de calitate\n\n## Siguranță și contraindicații\n'
+    return '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n# ' + title + '\n\n' + SUMMARY_START + '\n' + SUMMARY_END + '\n\n## Pregătire\n\n## Achiziție\n\n## Criterii de calitate\n\n## Siguranță și contraindicații\n'
 
 
 def inject_source_into_document(document: str, source_title: str, text: str, institution: str = "") -> str:
@@ -286,6 +291,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
     (state / 'cache').mkdir(exist_ok=True)
     token = secrets.token_urlsafe(32)
     lock = threading.RLock()
+    image_cache = {}
     american_search = AmericanSearch(lambda url: fetch(url), cache_dir=state / 'cache')
     limit_bytes = max_upload_mb * 1024 * 1024
     app.config.update(MAX_CONTENT_LENGTH=limit_bytes, REPO=repo, STATE=state, MAX_UPLOAD_MB=max_upload_mb)
@@ -295,14 +301,45 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             raise ValueError('Identificator invalid.')
         return state / (identifier + '.json')
 
+    def draft_paths():
+        # The state directory also contains JSON metadata, such as the source catalog.
+        return sorted(p for p in state.glob('*.json') if re.fullmatch(r'[a-f0-9]{32}', p.stem))
+
     def read(identifier):
-        return json.loads(draft_path(identifier).read_text(encoding='utf-8'))
+        draft = json.loads(draft_path(identifier).read_text(encoding='utf-8'))
+        expected = request.headers.get('X-Workbench-Revision')
+        if request.method != 'GET' and expected is not None and expected != str(draft.get('revision', 0)):
+            raise Conflict('Dosarul a fost modificat între timp. Redeschide-l înainte de continuare.')
+        return draft
 
     def save(draft):
-        draft['updated_at'] = now()
         path = draft_path(draft['id'])
+        previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+        if draft.get('status') != 'imported':
+            fm, _ = frontmatter(draft['document'])
+            if isinstance(fm.get('modality'), str) and fm['modality'] in CATEGORIES:
+                complete(draft, frontmatter, seed(fm['modality'], str(fm.get('title', ''))))
+        changed = [key for key in ('document', 'sources', 'images', 'status', 'manual_fields', 'completion_decisions') if previous.get(key) != draft.get(key)]
+        draft['revision'] = previous.get('revision', 0) + bool(changed)
+        if changed and previous:
+            old_fm, _ = frontmatter(previous['document'])
+            new_fm, _ = frontmatter(draft['document'])
+            fields = sorted(set(dict(leaves(old_fm))) | set(dict(leaves(new_fm))))
+            entry = {'at': now(), 'revision': draft['revision'], 'changed': changed,
+                'document_diff': '\n'.join(difflib.unified_diff(previous['document'].splitlines(), draft['document'].splitlines(),
+                    fromfile='înainte', tofile='după', lineterm=''))[:16000],
+                'fields': [{'field': field, 'old_value': get_field(old_fm, field), 'new_value': get_field(new_fm, field)}
+                           for field in fields if get_field(old_fm, field) != get_field(new_fm, field)]}
+            old_sources = {s['id']: s for s in previous.get('sources', [])}
+            new_sources = {s['id']: s for s in draft.get('sources', [])}
+            entry['source_changes'] = [{'title': (new_sources.get(sid) or old_sources[sid]).get('title'),
+                'old_sha256': old_sources.get(sid, {}).get('sha256'), 'new_sha256': new_sources.get(sid, {}).get('sha256')}
+                for sid in sorted(set(old_sources) | set(new_sources))
+                if old_sources.get(sid, {}).get('sha256') != new_sources.get(sid, {}).get('sha256')]
+            draft['history'] = (previous.get('history', []) + [entry])[-100:]
+        draft['updated_at'] = now()
         temporary = path.with_suffix('.tmp')
-        temporary.write_text(json.dumps(draft, ensure_ascii=False, indent=2), encoding='utf-8')
+        temporary.write_text(json.dumps(draft, ensure_ascii=False, indent=2, default=str), encoding='utf-8')
         temporary.replace(path)
 
     def load_local_sources_catalog():
@@ -318,9 +355,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         sources_dir.mkdir(parents=True, exist_ok=True)
 
         # Scan existing drafts in state to populate catalog
-        for p in state.glob('*.json'):
-            if p.name == 'local_sources_catalog.json':
-                continue
+        for p in draft_paths():
             try:
                 d = json.loads(p.read_text(encoding='utf-8'))
                 for s in d.get('sources', []):
@@ -400,7 +435,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
 
     @app.get('/api/drafts')
     def get_drafts():
-        return jsonify([json.loads(p.read_text(encoding='utf-8')) for p in sorted(state.glob('*.json'))])
+        return jsonify([json.loads(p.read_text(encoding='utf-8')) for p in draft_paths()])
 
     @app.post('/api/drafts')
     def new_draft():
@@ -422,6 +457,15 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             draft = read(identifier)
             if draft['status'] == 'imported':
                 raise ValueError('Dosarul a fost importat; creează un dosar nou pentru alt protocol.')
+            if 'revision' in data and data['revision'] != draft.get('revision', 0):
+                return jsonify(error='Dosarul a fost modificat între timp. Redeschide-l înainte de salvare.'), 409
+            old_fm, old_body = frontmatter(draft['document'])
+            new_fm, new_body = frontmatter(data['document'])
+            if old_body != new_body:
+                draft['manual_body'] = True
+            fields = set(dict(leaves(old_fm))) | set(dict(leaves(new_fm)))
+            draft['manual_fields'] = sorted(set(draft.get('manual_fields', [])) |
+                {field for field in fields if get_field(old_fm, field) != get_field(new_fm, field)})
             draft['document'] = data['document']
             save(draft)
         return jsonify(draft)
@@ -568,7 +612,9 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             'created_at': now(),
             'status': 'draft',
             'origin_path': orig_p,
+            'origin_sha256': hashlib.sha256(target.read_bytes()).hexdigest(),
             'is_revision': is_rev,
+            'manual_body': True,
         }
         return draft
 
@@ -590,7 +636,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         all_protocols = library(repo)
 
         existing_draft_origins = set()
-        for p in state.glob('*.json'):
+        for p in draft_paths():
             try:
                 d = json.loads(p.read_text(encoding='utf-8'))
                 if d.get('origin_path'):
@@ -643,6 +689,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
     @app.post('/api/drafts/<identifier>/sources')
     def add_source(identifier):
         data = request.get_json()
+        manual = str(data.get('manual_excerpt') or data.get('excerpt') or '').strip()
         url = data.get('url', '').strip()
         raw, mime, final_url = fetch(url)
         if 'pdf' in mime or raw.startswith(b'%PDF'):
@@ -651,7 +698,9 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
                 reader = PdfReader(io.BytesIO(raw))
                 text = '\n'.join(page.extract_text() or '' for page in reader.pages[:100])
             except ImportError:
-                raise ValueError('Pentru PDF instalează dependențele din protocol_workbench/requirements.txt.')
+                if len(manual) < 50:
+                    raise ValueError('Pentru PDF instalează dependențele din protocol_workbench/requirements.txt.')
+                text = ''
             except Exception:
                 text = ''
         elif 'html' in mime or mime.startswith('text/'):
@@ -671,8 +720,10 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             draft = read(identifier)
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
+            existing = next((s for s in draft['sources'] if s['url'] == url), None)
+            if existing:
+                source['id'] = existing['id']
             draft['sources'] = [s for s in draft['sources'] if s['url'] != url] + [source]
-            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 
@@ -744,7 +795,6 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s.get('sha256') != sha256] + [source]
-            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 
@@ -796,7 +846,6 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
             if draft['status'] == 'imported':
                 raise ValueError('Dosar deja importat.')
             draft['sources'] = [s for s in draft['sources'] if s.get('local_file_ref') != ref] + [source]
-            draft['document'] = inject_source_into_document(draft['document'], source['title'], source['excerpt'], source.get('institution', ''))
             save(draft)
         return jsonify(draft)
 
@@ -838,15 +887,9 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
                     except Exception:
                         pass
 
-            updated_doc, diffs = smart_extract_and_apply(
-                draft['document'],
-                text_to_analyze,
-                source.get('title', '')
-            )
-
-            if diffs:
-                draft['document'] = updated_doc
-                save(draft)
+            source['excerpt'] = text_to_analyze[:200000]
+            save(draft)
+            diffs = [dict(d, label=d['field']) for d in draft['completion']['changes']]
 
             return jsonify({
                 'draft': draft,
@@ -860,18 +903,62 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
         query = request.args.get('q', '').strip()
         if not query:
             raise ValueError('Introdu termenii pentru imagini.')
-        data = remote_json('https://commons.wikimedia.org/w/api.php', {
-            'action': 'query', 'generator': 'search', 'gsrsearch': query + ' filetype:bitmap',
-            'gsrnamespace': 6, 'gsrlimit': 12, 'prop': 'imageinfo', 'iiprop': 'url|extmetadata', 'iiurlwidth': 500, 'format': 'json'})
-        images = []
-        for page in data.get('query', {}).get('pages', {}).values():
-            info = page.get('imageinfo', [{}])[0]
-            metadata = info.get('extmetadata', {})
-            get = lambda key: plain(metadata.get(key, {}).get('value', ''))
-            images.append({'url': info.get('url', ''), 'thumbnail': info.get('thumburl', info.get('url', '')),
-                           'source_url': info.get('descriptionurl', ''), 'caption': page['title'],
-                           'author': get('Artist'), 'license': get('LicenseShortName'), 'license_url': get('LicenseUrl')})
-        return jsonify(images)
+        modality, provider = request.args.get('modality', ''), request.args.get('provider', 'all')
+        key = (normalize(query), modality, provider)
+        with lock:
+            cached = image_cache.get(key)
+        if cached and time.monotonic() - cached[0] < 300:
+            result = cached[1]
+        else:
+            result = search_images(remote_json, plain, query, modality, provider)
+            if not any(p['error'] for p in result['providers']):
+                with lock:
+                    if len(image_cache) >= 32:
+                        image_cache.pop(next(iter(image_cache)))
+                    image_cache[key] = (time.monotonic(), result)
+        return jsonify(result if request.args.get('details') == '1' else result['results'])
+
+    @app.post('/api/drafts/<identifier>/complete')
+    def complete_draft(identifier):
+        with lock:
+            draft = read(identifier)
+            if draft['status'] == 'imported':
+                raise ValueError('Dosar deja importat.')
+            save(draft)
+            return jsonify(draft)
+
+    @app.post('/api/drafts/<identifier>/completion/resolve')
+    def resolve_completion(identifier):
+        data = request.get_json()
+        with lock:
+            draft = read(identifier)
+            if draft['status'] == 'imported':
+                raise ValueError('Dosar deja importat.')
+            if data.get('revision') != draft.get('revision', 0):
+                return jsonify(error='Dosarul s-a modificat. Reanalizează sursele.'), 409
+            conflict = next((c for c in draft.get('completion', {}).get('conflicts', []) if c['field'] == data.get('field')), None)
+            if not conflict:
+                raise ValueError('Conflictul nu mai există. Reanalizează sursele.')
+            candidate = next((c for c in conflict['candidates'] if c['source_id'] == data.get('source_id')), None)
+            if data.get('keep_current') is True:
+                candidate = {'value': conflict['current'], 'source_id': None}
+            if not candidate:
+                raise ValueError('Sursă necunoscută pentru acest câmp.')
+            fm, body = frontmatter(draft['document'])
+            draft.setdefault('completion_decisions', {})[conflict['field']] = {
+                'candidates': fingerprint(conflict['candidates']), 'value': candidate['value'], 'source_id': candidate['source_id']}
+            set_field(fm, conflict['field'], candidate['value'])
+            accepted = {}
+            set_field(accepted, conflict['field'], candidate['value'])
+            if not data.get('keep_current'):
+                body = sync_body_parameters(body, accepted, fm['modality'])
+            if candidate['source_id']:
+                draft['completion']['provenance'][conflict['field']] = {'value': candidate['value'],
+                    'context': draft['completion']['context'], 'sources': [candidate]}
+            draft['manual_fields'] = sorted(set(draft.get('manual_fields', [])) | {conflict['field']})
+            draft['document'] = '---\n' + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False) + '---\n\n' + body.strip() + '\n'
+            save(draft)
+            return jsonify(draft)
 
     @app.post('/api/drafts/<identifier>/images')
     def attach_image(identifier):
@@ -925,7 +1012,16 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
 
     def validate(draft):
         errors, warnings = [], []
+        completion = draft.get('completion', {})
+        for conflict in completion.get('conflicts', []):
+            warnings.append('Valori diferite între protocol și surse: ' + conflict['field'])
+        for field in completion.get('stale_fields', []):
+            warnings.append('Proveniență de reverificat (sursă/context modificat): ' + field)
         fm, body = frontmatter(draft['document'])
+        if draft.get('is_revision') and draft.get('origin_sha256'):
+            origin = (repo / draft['origin_path']).resolve()
+            if not origin.is_relative_to(repo / 'docs') or not origin.is_file() or hashlib.sha256(origin.read_bytes()).hexdigest() != draft['origin_sha256']:
+                errors.append('Protocolul original a fost modificat în bibliotecă. Compară versiunea actuală înainte de import.')
         modality = fm.get('modality')
         pending = fm.get('review_required_fields', [])
         if not isinstance(pending, list):
@@ -1061,6 +1157,7 @@ def create_app(repo=None, state=None, max_upload_mb=DEFAULT_LIMIT_MB):
                     item['resolved_url'] = 'assets/protocols/sources/' + s['local_file_ref']
                 ref_sources.append(item)
             fm['sources'] = ref_sources
+            fm['workbench_provenance'] = draft.get('completion', {}).get('provenance', {})
             fm['workbench_review'] = {'reviewer': reviewer, 'reviewed_at': now(), 'draft_id': identifier,
                                        'clinical_review': True, 'image_review': True, 'rights_review': True}
             ref_lines = []

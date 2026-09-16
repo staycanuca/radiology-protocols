@@ -473,23 +473,25 @@ footer {
     <section>
       <div class="number">01 / DOCUMENTARE</div>
       <h2>Caută protocoale și referințe</h2>
-      <p class="muted">Explorează cataloagele instituțiilor americane (UTSW, OHSU, AAPM, AIUM) sau publicații din Europe PMC. Sunt recunoscute și sinonime anatomice în limba română (genunchi, torace, pancreas, aorta, etc.).</p>
+      <p class="muted">Explorează cataloagele instituționale (UTSW, OHSU, AAPM, AIUM), ghidurile educaționale RX Radiography101 și Radiopaedia sau publicații din Europe PMC. Sunt recunoscute și sinonime anatomice în limba română (genunchi, torace, scolioză, etc.).</p>
       <div class="row">
         <div>
           <label for="provider">Furnizor surse</label>
           <select id="provider">
-            <option value="us">SUA — protocoale și ghiduri instituționale</option>
+            <option value="us">Cataloage — protocoale și ghiduri</option>
             <option value="europepmc">Europe PMC — publicații internaționale</option>
           </select>
         </div>
         <div id="institutionGroup">
-          <label for="institution">Instituție americană</label>
+          <label for="institution">Instituție / sursă</label>
           <select id="institution">
-            <option value="all">Toate instituțiile compatibile</option>
+            <option value="all">Toate sursele compatibile</option>
             <option value="utsw">UT Southwestern (CT, IRM, US, diagnostic)</option>
             <option value="ohsu">OHSU (IRM)</option>
             <option value="aapm">AAPM (CT)</option>
             <option value="aium">AIUM (US / Ecografie)</option>
+            <option value="radiography101">Radiography101 (RX — poziționare)</option>
+            <option value="radiopaedia">Radiopaedia (RX — proiecții)</option>
           </select>
         </div>
       </div>
@@ -509,6 +511,10 @@ footer {
     </div>
 
     <div id="workspace" class="stack hidden">
+      <section id="importedNotice" class="hidden" role="status">
+        <p>Acest dosar a fost deja importat și este disponibil pentru consultare. Pentru a modifica protocolul, a atașa resurse sau a reanaliza parametrii, deschide o revizuire.</p>
+        <button id="reviseImported" type="button">Deschide pentru revizuire</button>
+      </section>
       <!-- Secțiunea 2: Surse atașate -->
       <section>
         <div class="number">02 / SURSE</div>
@@ -597,6 +603,8 @@ footer {
           <button id="validate" class="secondary">Verifică pentru import</button>
         </p>
         <div id="report" role="status"></div>
+        <button id="complete" class="secondary">Reanalizează toate sursele</button>
+        <div id="completionReport" aria-live="polite"></div>
       </section>
 
       <!-- Secțiunea 4: Imagini -->
@@ -604,7 +612,13 @@ footer {
         <div class="number">04 / IMAGINI</div>
         <h2>Imagini reprezentative</h2>
         <p class="muted">Alege imagini cu atribuire clară. Metadatele EXIF sunt eliminate automat la atașare.</p>
-        <label for="imageQuery">Caută în Wikimedia Commons</label>
+        <label for="imageQuery">Caută imagini în contextul protocolului (română sau engleză)</label>
+        <select id="imageProvider" aria-label="Sursa imaginilor">
+          <option value="all">Commons + NLM Open-i</option>
+          <option value="commons">Wikimedia Commons</option>
+          <option value="openi">NLM Open-i — figuri medicale</option>
+          <option value="openverse">Openverse — disponibilitate variabilă</option>
+        </select>
         <div class="row">
           <input id="imageQuery" placeholder="Ex.: normal chest radiograph PA">
           <button id="imageSearch">Caută imagini</button>
@@ -659,6 +673,7 @@ footer {
 <script>
 const TOKEN={{ token|tojson }};
 let active = null, dirty = false, autoSaveTimer = null;
+let saveInFlight = null;
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safe = u => { try { return new URL(u).protocol === 'https:' ? u : '#' } catch { return '#' } };
@@ -693,6 +708,9 @@ function updateAutoSaveStatus(state) {
 
 async function api(path, method = 'GET', data) {
   let options = { method, headers: { 'X-Workbench-Token': TOKEN } };
+  if (method !== 'GET' && active && path.startsWith('/api/drafts/' + active.id)) {
+    options.headers['X-Workbench-Revision'] = String(active.revision || 0);
+  }
   if (data instanceof FormData) {
     options.body = data;
   } else if (data !== undefined) {
@@ -710,8 +728,22 @@ function resetReview() {
   $('report').textContent = '';
 }
 
+function updateEditingState() {
+  const imported = active?.status === 'imported';
+  $('importedNotice').classList.toggle('hidden', !imported);
+  $('document').readOnly = imported;
+  for (const id of ['save', 'import', 'complete', 'addSource', 'btnUploadLocalSource', 'btnAttachFromCatalog', 'attach']) {
+    $(id).disabled = imported;
+  }
+  for (const button of document.querySelectorAll('#sources button, #attachments button, #completionReport button')) {
+    button.disabled = imported;
+  }
+}
+
 function setActive(d) {
   active = d;
+  $('imageResults').replaceChildren();
+  $('imageQuery').value = '';
   dirty = false;
   resetReview();
   $('document').value = d.document;
@@ -722,6 +754,7 @@ function setActive(d) {
   updateAutoSaveStatus('');
   renderPreview();
   updateLocalCatalogInfo();
+  updateEditingState();
   let infoMsg = d.status === 'imported' ? 'Dosar importat: ' + d.imported_path : 'Dosar deschis: ' + (d.document.match(/title:\s*(.+)/)?.[1] || d.id);
   if (d.is_revision && d.origin_path) {
     infoMsg += ' [Revizuire: ' + d.origin_path + ']';
@@ -777,12 +810,24 @@ async function refresh() {
 }
 
 async function persist(silent = false) {
+  if (saveInFlight) { await saveInFlight; return persist(silent); }
   if (!active) return;
   if (active.status === 'imported') return;
   if (dirty) {
     if (silent) updateAutoSaveStatus('saving');
-    active = await api('/api/drafts/' + active.id, 'PUT', { document: $('document').value });
-    dirty = false;
+    const id = active.id, documentText = $('document').value, revision = active.revision;
+    saveInFlight = api('/api/drafts/' + id, 'PUT', { document: documentText, revision });
+    let saved;
+    try { saved = await saveInFlight; }
+    catch (err) { updateAutoSaveStatus('unsaved'); message(err.message, true); throw err; }
+    finally { saveInFlight = null; }
+    if (!active || active.id !== id) return;
+    active = saved;
+    dirty = $('document').value !== documentText;
+    if (dirty) { updateAutoSaveStatus('unsaved'); return persist(silent); }
+    $('document').value = active.document;
+    renderCompletion();
+    renderPreview();
     if (silent) {
       updateAutoSaveStatus('saved');
     } else {
@@ -792,16 +837,81 @@ async function persist(silent = false) {
 }
 
 async function changeAttachment(path, method, data) {
-  await persist();
-  active = await api('/api/drafts/' + active.id + path, method, data);
-  resetReview();
-  $('document').value = active.document;
-  renderAttachments();
-  renderPreview();
-  await refresh();
+  const id = active?.id;
+  if (!id) return;
+  if (active.status === 'imported') {
+    throw Error('Dosarul este deja importat. Apasă „Deschide pentru revizuire” înainte de modificare.');
+  }
+  $('document').readOnly = true;
+  try {
+    await persist();
+    if (active?.id !== id) return;
+    const result = await api('/api/drafts/' + id + path, method, data);
+    if (active?.id !== id) return;
+    active = result.draft || result;
+    resetReview();
+    $('document').value = active.document;
+    renderAttachments();
+    renderPreview();
+    await refresh();
+  } finally { $('document').readOnly = active?.status === 'imported'; }
+}
+
+function renderCompletion() {
+  const root = $('completionReport');
+  root.replaceChildren();
+  if (!active) return;
+  const state = active.completion || {};
+  const summary = document.createElement('p');
+  summary.className = 'muted';
+  summary.textContent = 'Revizia ' + (active.revision || 0) + ' · ' + Object.keys(state.provenance || {}).length +
+    ' câmpuri cu proveniență · ' + (state.conflicts || []).length + ' conflicte. Completările sunt extrase euristic și necesită revizuire.';
+  root.append(summary);
+  for (const conflict of state.conflicts || []) {
+    const card = document.createElement('div');
+    card.className = 'card';
+    const label = document.createElement('p');
+    label.textContent = conflict.field + ' — valoare curentă: ' + JSON.stringify(conflict.current);
+    card.append(label);
+    const keep = document.createElement('button');
+    keep.textContent = 'Păstrează valoarea curentă';
+    keep.disabled = active.status === 'imported';
+    keep.onclick = () => run(keep, async () => {
+      await persist();
+      await changeAttachment('/completion/resolve', 'POST', {field: conflict.field, keep_current: true, revision: active.revision});
+    });
+    card.append(keep);
+    for (const candidate of conflict.candidates) {
+      const button = document.createElement('button');
+      button.className = 'secondary';
+      button.textContent = 'Preia din ' + candidate.title + ': ' + JSON.stringify(candidate.value);
+      button.disabled = active.status === 'imported';
+      button.onclick = () => run(button, async () => {
+        await persist();
+        await changeAttachment('/completion/resolve', 'POST', {field: conflict.field, source_id: candidate.source_id, revision: active.revision});
+      });
+      card.append(button);
+    }
+    root.append(card);
+  }
+  if ((state.stale_fields || []).length) {
+    const warning = document.createElement('p');
+    warning.textContent = 'Proveniență de reverificat după modificarea surselor sau a titlului/modalității: ' + state.stale_fields.join(', ');
+    root.append(warning);
+  }
+  const details = document.createElement('details');
+  const title = document.createElement('summary');
+  title.textContent = 'Câmpuri lipsă, proveniență și istoricul modificărilor';
+  const text = document.createElement('pre');
+  text.style.maxHeight = '320px';
+  text.style.overflow = 'auto';
+  text.textContent = JSON.stringify({campuri_lipsa: state.missing_fields || [], campuri_editate_manual: active.manual_fields || [], provenienta: state.provenance || {}, istoric: active.history || []}, null, 2);
+  details.append(title, text);
+  root.append(details);
 }
 
 function renderAttachments() {
+  renderCompletion();
   $('sources').innerHTML = '';
   for (const s of active.sources) {
     const e = document.createElement('div');
@@ -835,27 +945,11 @@ function renderAttachments() {
     smartBtn.style.color = '#ffffff';
     smartBtn.style.border = 'none';
     smartBtn.style.fontWeight = '600';
-    smartBtn.textContent = '✨ Extrage parametri în protocol';
+    smartBtn.textContent = 'Reanalizează parametrii';
     smartBtn.title = 'Analizează textul sursei și actualizează automat parametrii clinici și tehnici (indicații, pregătire, contrast, parametri generator, siguranță, calitate) în protocol';
     smartBtn.onclick = () => run(smartBtn, async () => {
-      await persist();
-      const res = await api('/api/drafts/' + active.id + '/sources/' + s.id + '/smart-extract', 'POST', {});
-      active = res.draft;
-      $('document').value = active.document;
-      dirty = false;
-      renderPreview();
-      updateAutoSaveStatus('saved');
-      if (res.count > 0) {
-        const details = res.diffs.map(d => {
-          let oldVal = Array.isArray(d.old_value) ? d.old_value.join('; ') : d.old_value;
-          let newVal = Array.isArray(d.new_value) ? d.new_value.join('; ') : d.new_value;
-          return '• ' + d.label + ': ' + oldVal + ' → ' + newVal;
-        }).join('\n');
-        alert('✨ Au fost actualizați automat ' + res.count + ' parametri conform sursei «' + res.source_title + '»:\n\n' + details);
-        message('Au fost actualizați ' + res.count + ' parametri clinici și tehnici din sursă.');
-      } else {
-        message('Nu au fost găsite diferențe noi față de parametrii existenți în protocol.');
-      }
+      await changeAttachment('/sources/' + s.id + '/smart-extract', 'POST', {});
+      message('Sursa a fost reanalizată. Verifică diferențele și conflictele din panoul de sub editor.');
     });
 
     const insertBtn = document.createElement('button');
@@ -884,6 +978,7 @@ function renderAttachments() {
         docEl.value = docEl.value.trimEnd() + toInsert;
       }
       dirty = true;
+      resetReview();
       updateAutoSaveStatus('unsaved');
       renderPreview();
       message('Textul brut al sursei «' + s.title + '» a fost inserat în editor.');
@@ -896,6 +991,13 @@ function renderAttachments() {
     b.textContent = 'Elimină sursa';
     b.onclick = () => run(b, () => changeAttachment('/sources/' + s.id, 'DELETE'));
 
+    if (!isLocal) {
+      const recheck = document.createElement('button');
+      recheck.className = 'secondary';
+      recheck.textContent = 'Reverifică sursa online';
+      recheck.onclick = () => run(recheck, () => changeAttachment('/sources', 'POST', {url: s.url, title: s.title}));
+      actionsDiv.append(recheck);
+    }
     actionsDiv.append(smartBtn, insertBtn, b);
     e.append(actionsDiv);
     $('sources').append(e);
@@ -979,6 +1081,7 @@ async function run(button, fn) {
     message(e.message, true);
   } finally {
     button.disabled = button.id === 'import' && active?.status === 'imported';
+    updateEditingState();
   }
 }
 
@@ -1337,7 +1440,7 @@ on('addSource', async () => {
     manual_excerpt: $('sourceManualExcerpt') ? $('sourceManualExcerpt').value : ''
   });
   if ($('sourceManualExcerpt')) $('sourceManualExcerpt').value = '';
-  message('Sursa a fost atașată, iar textul extras a fost injectat în editor.');
+  message('Sursa a fost atașată. Câmpurile disponibile au fost completate; verifică eventualele conflicte.');
 });
 
 on('btnUploadLocalSource', async () => {
@@ -1361,7 +1464,7 @@ on('btnUploadLocalSource', async () => {
     $('localSourceInstitution').value = '';
     $('localSourceManualExcerpt').value = '';
     await populateLocalCatalogSelect(true);
-    message('Documentul local a fost extras, atașat și injectat în editor!');
+    message('Documentul local a fost atașat și analizat pentru completarea protocolului.');
   });
 });
 
@@ -1376,12 +1479,18 @@ on('btnAttachFromCatalog', async () => {
   await run(b, async () => {
     await changeAttachment('/sources/attach-local', 'POST', { local_file_ref: ref });
     updateLocalCatalogInfo();
-    message('Documentul local a fost atașat, iar textul a fost injectat în editor!');
+    message('Documentul local a fost atașat și analizat pentru completarea protocolului.');
   });
 });
 
 on('imageSearch', async () => {
-  const r = await api('/api/images/search?q=' + encodeURIComponent($('imageQuery').value));
+  await persist();
+  const id = active?.id;
+  const modality = active?.document.match(/^modality:\s*['"]?(\w+)/m)?.[1] || '';
+  const query = $('imageQuery').value.trim() || active?.document.match(/^title:\s*(.+)/m)?.[1] || '';
+  const response = await api('/api/images/search?details=1&q=' + encodeURIComponent(query) + '&modality=' + encodeURIComponent(modality) + '&provider=' + $('imageProvider').value);
+  if (active?.id !== id) return;
+  const r = response.results;
   $('imageResults').innerHTML = '';
   for (const i of r) {
     const e = document.createElement('div');
@@ -1389,19 +1498,31 @@ on('imageSearch', async () => {
     e.innerHTML = '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(safe(i.thumbnail)) + '" alt="' + esc(i.caption) + '">' +
       '<p><strong>' + esc(i.caption) + '</strong></p>' +
       '<p class="muted">' + esc(i.author) + ' · ' + esc(i.license) + '</p>' +
+      '<p class="muted">' + esc(i.provider) + ' · ' + esc((i.relevance || []).join(' · ')) + '</p>' +
+      (i.rights_note ? '<p class="muted">' + esc(i.rights_note) + '</p>' : '') +
       '<a target="_blank" rel="noopener noreferrer" href="' + esc(safe(i.source_url)) + '">Verifică originalul ↗</a><p></p>';
     const b = document.createElement('button');
     b.textContent = 'Atașează';
     b.onclick = () => run(b, async () => {
       const caption = prompt('Legendă: ce demonstrează imaginea în acest protocol?', i.caption);
       if (!caption) return;
-      await changeAttachment('/images', 'POST', { ...i, caption });
+      const license = i.license || prompt('Introdu licența sau permisiunea verificată pentru această figură în pagina sursă:');
+      if (!license) return;
+      const author = i.author || prompt('Autorul imaginii, conform paginii sursă:');
+      if (!author) return;
+      await changeAttachment('/images', 'POST', { ...i, caption, license, author });
       message('Imagine descărcată și atașată cu atribuire.');
     });
     e.append(b);
     $('imageResults').append(e);
   }
-  message(r.length + ' imagini candidate găsite.');
+  const failures = response.providers.filter(p => p.error).map(p => p.provider + ': ' + p.error);
+  message(r.length + ' imagini candidate. Căutare: ' + response.query + (failures.length ? '\nSurse indisponibile: ' + failures.join('; ') : ''), failures.length > 0);
+});
+
+on('complete', async () => {
+  await changeAttachment('/complete', 'POST', {});
+  message('Sursele au fost reanalizate. Verifică proveniența și eventualele conflicte sub editor.');
 });
 
 on('attach', async () => {
@@ -1422,6 +1543,14 @@ on('attach', async () => {
   message('Imagine atașată cu succes.');
 });
 
+on('reviseImported', async () => {
+  if (active?.status !== 'imported') return;
+  const draft = await api('/api/drafts/from-library', 'POST', {path: active.imported_path, mode: 'revision'});
+  setActive(draft);
+  await refresh();
+  message('Revizuire deschisă. Poți edita protocolul, atașa resurse și reanaliza parametrii.');
+});
+
 on('import', async () => {
   await persist();
   const r = await api('/api/drafts/' + active.id + '/import', 'POST', {
@@ -1431,6 +1560,8 @@ on('import', async () => {
     rights_review: $('rights').checked
   });
   active.status = 'imported';
+  active.imported_path = r.path;
+  updateEditingState();
   await refresh();
   message('Protocol adăugat cu succes: ' + r.path + (r.indexed ? '\nIndicii aplicației au fost actualizați.' : '\nImportul a reușit, dar unii indici nu au fost actualizați. Folosește „Regenerează indicii”.'), !r.indexed);
   $('report').textContent = r.logs.map(x => x.script + ': ' + (x.ok ? 'OK' : x.output)).join('\n');

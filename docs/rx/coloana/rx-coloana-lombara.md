@@ -13,7 +13,7 @@ iris_reference:
   chapter: Coloană vertebrală
   radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Incidențele oblice (pentru vizualizarea 'cățelușului Lachapelle' în spondiloliză)
   se realizează doar dacă există suspiciune specifică de liză istmică.
@@ -21,8 +21,10 @@ position: '1) AP (Față): decubit dorsal cu genunchii flectați (aplatizează l
   lombară); 2) Lateral (Profil): decubit lateral cu genunchii flectați; 3) Joncțiune
   L5-S1: profil centrat cu tub angulat 5-8° caudal'
 protection:
-- Protecție gonadică atent poziționată la bărbați sub simfiză
-- Regula celor 10 zile la femei fertile
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
+- Evaluarea posibilității unei sarcini se documentează conform procedurii locale și
+  examinării solicitate.
 quality_criteria:
 - Includerea vertebrelor L1 la L5 și a sacrului superior
 - 'Pe profil: găurile de conjugare deschise și spațiile discale intervertebrale paralele'
@@ -131,8 +133,8 @@ sources:
 
     ---
 
-    - Protecție gonadică atent poziționată la bărbați sub simfiză
-    - Regula celor 10 zile la femei fertile
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.
 
 </div>
 
@@ -141,11 +143,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 115 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

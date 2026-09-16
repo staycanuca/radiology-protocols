@@ -11,15 +11,15 @@ iris_reference:
   chapter: Traumatisme — Față și orbite
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
   recommendation_grade: Grad B
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Se efectuează întotdeauna ambele profile (drept și stâng) pentru comparație
   anatomică și certitudine diagnostică.
 position: 'Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața
   laterală a nasului paralelă cu detectorul fără rotație'
 protection:
-- Guler tiroidian de plumb obligatoriu
-- Șorț pelvin de plumb
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare ultra-restrânsă
 quality_criteria:
 - Vizualizarea fină a corticalei anterioare și a suturii nazo-frontale
@@ -125,8 +125,8 @@ sources:
 
     ---
 
-    - Guler tiroidian de plumb obligatoriu
-    - Șorț pelvin de plumb
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare ultra-restrânsă
 
 </div>
@@ -136,11 +136,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

@@ -12,7 +12,7 @@ iris_reference:
   chapter: Aparat locomotor & Traumatisme
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Dacă radiografia inițială de scafoid este normală dar durerea în tabachera
   anatomică persistă, se imobilizează pumnul și se repetă radiografia la 10-14 zile,
@@ -21,7 +21,8 @@ position: '1) Față (PA): pumn în pronație, degete ușor flectate; 2) Profil 
   cot la 90°, pumn și antebraț pe cant; 3) Incidență Scafoid: deviație ulnară cu angulație
   tub 15-20° cranial; 4) Oblică la 45°'
 protection:
-- Șorț de plumb pe gonade în timpul șederii la masă
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare precisă pe aria carpiană
 quality_criteria:
 - 'Pe profil: axul radiusului, semilunarului, capitatului și metacarpianului III sunt
@@ -131,7 +132,7 @@ sources:
 
     ---
 
-    - Șorț de plumb pe gonade în timpul șederii la masă
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare precisă pe aria carpiană
 
 </div>
@@ -141,11 +142,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

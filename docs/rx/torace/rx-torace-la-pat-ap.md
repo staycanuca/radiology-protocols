@@ -16,7 +16,7 @@ iris_reference:
   chapter: Torace & Pulmon
   radiation_dose: Clasa 1 (Minimă < 0.08 mSv)
   recommendation_grade: Grad B
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Silueta cardiacă apare mărită dimensional în proiecția AP față de PA standard
   din cauza divergenței fasciculului; nu se măsoară indexul cardiotoracic pe AP.
@@ -143,11 +143,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 - 120 cm (adaptat la distanța aparatului mobil)).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

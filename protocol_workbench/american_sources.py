@@ -1,4 +1,4 @@
-"""Search public US institutional catalog links, without recursively crawling sites."""
+"""Search public institutional and educational catalogs without recursive crawling."""
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from html.parser import HTMLParser
@@ -27,6 +27,15 @@ CATALOGS = [
      'pages': {'eco': 'https://www.aium.org/resources/practice-parameters'},
      'hosts': ['aium.org', 'doi.org', 'onlinelibrary.wiley.com'],
      'pattern': r'/docs/.*\.pdf$|/10\.1002/|/10\.7863/|/doi/'},
+    {'id': 'radiography101', 'name': 'Radiography101', 'kind': 'Ghid educațional de poziționare RX',
+     'country': 'Internațional',
+     'pages': {'rx': 'https://radiography101.org/articles/'},
+     'hosts': ['radiography101.org'], 'pattern': r'^/articles/[^/]*positioning[^/]*/?$'},
+    {'id': 'radiopaedia', 'name': 'Radiopaedia', 'kind': 'Ghid educațional de proiecții RX',
+     'country': 'Internațional',
+     'pages': {'rx': 'https://radiopaedia.org/articles/x-ray-positioning-and-projections-1'},
+     'hosts': ['radiopaedia.org'],
+     'pattern': r'^/articles/(?!x-ray-positioning-and-projections-1/?$)[^/]*(?:projection|view|radiograph|positioning)[^/]*/?$'},
 ]
 PORTALS = [
     {'name': 'ACR — Appropriateness Criteria',
@@ -37,6 +46,9 @@ PORTALS = [
      'description': 'Parametri de practică și standarde tehnice. Consultare pe portalul ACR.'},
 ]
 RX_PORTALS = [
+    {'name': 'Radiography101 — Ghiduri educaționale RX',
+     'url': 'https://radiography101.org/',
+     'description': 'Resurse educaționale de radiografie: poziționare, proiecții și evaluarea imaginilor.'},
     {'name': 'Comisia Europeană — Criterii de Calitate în Radiografie (EUR 16260)',
      'url': 'https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925',
      'description': 'Ghidul european oficial pentru calitatea imaginii, criterii anatomice și DRL în radiografia convențională (torace, craniu, coloană, bazin, extremități).'},
@@ -104,6 +116,7 @@ ALIASES = {
     'copii': 'pediatric peds child', 'orbita': 'orbit eye', 'stomac': 'stomach gastric',
     'intestin': 'bowel intestinal enterography', 'colon': 'colon colonography',
     'prostata': 'prostate', 'uter': 'uterus pelvic', 'ovare': 'ovary ovarian',
+    'scolioza': 'scoliosis',
 }
 STOP = set('ct rx irm us mri mr protocol protocols protocoale protocolul imaging scan acquisition radiografie ecografie fluoroscopie flouro fluoro de si pentru cu fara contrast'.split())
 
@@ -147,9 +160,9 @@ def parse_catalog(raw, final_url, catalog):
             continue
         seen.add(url)
         results.append({'title': title or unquote(parsed.path.rsplit('/', 1)[-1]), 'url': url,
-                        'provider': catalog['name'], 'kind': catalog['kind'], 'country': 'US',
+                        'provider': catalog['name'], 'kind': catalog['kind'], 'country': catalog.get('country', 'US'),
                         'catalog_url': final_url, 'year': '', 'authors': catalog['name'],
-                        'summary': 'Document identificat în catalogul instituției. Deschide originalul pentru ediție, conținut și condiții de utilizare.'})
+                        'summary': 'Document identificat în catalogul sursei. Deschide originalul pentru ediție, conținut și condiții de utilizare.'})
     return results
 
 
@@ -224,6 +237,8 @@ class AmericanSearch:
                 entries = self.catalog(config, modality)
                 return config, entries, None
             except Exception as exc:
+                if config['id'] == 'radiopaedia' and getattr(getattr(exc, 'response', None), 'status_code', None) in (403, 406, 429):
+                    return config, [], 'Radiopaedia a restricționat accesul automat. Deschide catalogul în browser pentru consultare.'
                 return config, [], str(exc)
 
         with ThreadPoolExecutor(max_workers=4) as pool:
@@ -261,7 +276,7 @@ class AmericanSearch:
         presets = RX_PRESETS if modality == 'rx' else []
         return {'results': results[:100], 'total': len(results), 'catalogs': statuses,
                 'portals': portals, 'presets': presets,
-                'note': 'Căutare în titluri și nume de fișiere din cataloage SUA; nu în textul integral. '
+                'note': 'Căutare în titluri și nume de fișiere din cataloage instituționale și educaționale; nu în textul integral. '
                         'RX și fluoroscopia folosesc catalogul comun UT Southwestern. '
                         'Accesul public nu implică drept de republicare; revizuirea înainte de import rămâne obligatorie.'}
 
@@ -274,7 +289,7 @@ def provenance(url):
             if domain in ('doi.org', 'onlinelibrary.wiley.com'):
                 continue
             if host == domain or host.endswith('.' + domain):
-                return {'institution': config['name'], 'source_region': 'US'}
+                return {'institution': config['name'], 'source_region': config.get('country', 'US')}
     if host == 'acr.org' or host.endswith('.acr.org'):
         return {'institution': 'ACR', 'source_region': 'US'}
     if host == 'europa.eu' or host.endswith('.europa.eu'):

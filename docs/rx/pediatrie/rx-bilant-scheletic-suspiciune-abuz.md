@@ -1,0 +1,208 @@
+---
+author: Ciornă documentată — recenzor clinic de desemnat
+breathing: Adaptată incidenței și cooperării; de confirmat local.
+category: pediatrie
+centering: Conform incidenței și acoperirii anatomice documentate.
+clinical_indications:
+- Suspiciune de abuz fizic pentru care echipa pediatrică/radiologul solicită bilanț
+  scheletic.
+clinical_status: draft_not_for_clinical_use
+images: []
+last_updated: '2026-09-15'
+modality: rx
+notes: Ciorna nu înlocuiește checklistul complet ESPR/RCR. Nu se folosește o singură
+  expunere de corp întreg. Constatările se comunică echipei; mecanismul leziunii nu
+  se deduce numai din imagine.
+population: Pediatric; selecție după vârstă și evaluare specializată
+position: Poziționare diferențiată pe incidențe; vezi lista de achiziții.
+protection:
+- Colimare la zona justificată și tehnică adaptată dimensiunilor pacientului.
+- Ecranarea pacientului conform politicii locale actualizate; protecția însoțitorilor
+  se stabilește separat.
+quality_criteria:
+- Acoperire și criterii specifice fiecărei incidențe, conform listei de mai jos.
+- Identificare, lateralitate, absența mișcării și verificarea expunerii conform sistemului
+  local.
+review_required_fields:
+- Confirmarea indicațiilor și a aplicabilității surselor la populația locală
+- Validarea fiecărei incidențe și a adaptărilor pentru traumatism/cooperare
+- Configurarea kV, mAs, AEC/manual, SID, grilei, focarului și filtrării pe aparat
+- Aprobarea radioprotecției și a criteriilor de calitate de către echipa locală
+- 'Revizuirea imaginilor: relevanță, identificatori vizibili și drepturi de utilizare'
+- Transcrierea și validarea integrală a checklistului regional ESPR 4a/4b; protocol
+  de neuroimagistică și comunicare
+sid_dff: DE CONFIGURAT PE APARAT
+slug: rx-bilant-scheletic-suspiciune-abuz
+source_mapping:
+  clinical_indications:
+    section: Skeletal survey; Table 4a/4b
+    source_id: 62aae5b012225d728fe4f09b7ced1654
+    status: adaptare pentru revizuire
+  standard_views:
+    section: Skeletal survey; Table 4a/4b
+    source_id: 62aae5b012225d728fe4f09b7ced1654
+    status: adaptare pentru revizuire
+standard_views:
+- centering: Set regional conform tabelului 4a ESPR, cu selecție craniană în raport
+    cu neuroimagistica.
+  condition: Parte a setului inițial justificat de radiolog
+  name: Bilanț inițial — listă regională
+  position: Examinare coordonată de personal cu experiență pediatrică.
+  quality: Fiecare regiune și lateralitate verificate înainte de încheiere; checklistul
+    complet se atașează.
+- centering: Set de control conform tabelului 4b, distinct de setul inițial.
+  condition: ESPR descrie reevaluarea la 11–14 zile; traseul trebuie aprobat local.
+  name: Bilanț de control
+  position: Programare și poziționare conform traseului specializat.
+  quality: Comparație cu imaginile inițiale și documentarea regiunilor examinate.
+tech_params:
+  aec_chambers: DE CONFIGURAT PE APARAT
+  filtration: DE CONFIGURAT PE APARAT
+  focal_spot: DE CONFIGURAT PE APARAT
+  grid: DE CONFIGURAT PE APARAT
+  kv: DE CONFIGURAT PE APARAT
+  mas: DE CONFIGURAT PE APARAT
+title: RX bilanț scheletic pediatric — suspiciune de abuz fizic
+sources:
+- id: 62aae5b012225d728fe4f09b7ced1654
+  title: ESPR/ESR — Imaging of suspected child abuse, 2024
+  url: https://link.springer.com/article/10.1007/s00330-024-11052-4
+  institution: European Society of Paediatric Radiology
+  section: Skeletal survey; Table 4a/4b
+  excerpt_kind: authored_summary
+  verification_method: Web consultation; no downloaded content hash
+  consulted_on: '2026-09-15'
+  checked_at: '2026-09-15T08:37:11.440834+00:00'
+- id: ec17b15b8ee75a3c9b841fd6023b1b45
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  institution: AAPM
+  section: Policy text
+  excerpt_kind: authored_summary
+  verification_method: Web consultation; no downloaded content hash
+  consulted_on: '2026-09-15'
+  checked_at: '2026-09-15T08:37:11.440834+00:00'
+workbench_transfer:
+  draft_id: 88cb72ad028c5d53b52f31b7e3b5bd15
+  transferred_at: '2026-09-15T08:50:31.314154+00:00'
+  purpose: review_in_main_application
+---
+
+# RX bilanț scheletic pediatric — suspiciune de abuz fizic
+
+!!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
+    Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
+
+
+<div class="rx-meta-bar">
+  <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
+  <span><strong>Autor:</strong> Ciornă documentată — recenzor clinic de desemnat</span>
+</div>
+
+---
+
+<div class="grid cards" markdown>
+
+-   __1. Rezumat Clinic & Indicații__
+
+    ---
+
+    === "Indicații Clinice"
+
+        - Suspiciune de abuz fizic pentru care echipa pediatrică/radiologul solicită bilanț scheletic.
+
+    === "Ghid Național IRIS"
+
+        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
+            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
+            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
+            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+-   __2. Poziționare & Centrare Fascicul__
+
+    ---
+
+    - **Poziție Pacient:** Poziționare diferențiată pe incidențe; vezi lista de achiziții.
+    - **Punct de Centrare Fascicul:** Conform incidenței și acoperirii anatomice documentate.
+    - **Distanță Focar-Film (DFF / SID):** DE CONFIGURAT PE APARAT
+    - **Comandă Respiratorie:** Adaptată incidenței și cooperării; de confirmat local.
+
+-   __3. Parametri Tehnici Expunere__
+
+    ---
+
+    | Parametru Tehnic | Valoare Configurare Generator / Tub |
+    |:-----------------|:-------------------------------------|
+    | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
+    | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
+    | **Distanță Focar-Film (DFF / SID)** | DE CONFIGURAT PE APARAT |
+    | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
+    | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
+    | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
+    | **Colimare Fascicul** | Strictă pe regiunea de interes |
+    | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
+
+-   __4. Criterii de Calitate & Reușită Imagine__
+
+    ---
+
+    - Acoperire și criterii specifice fiecărei incidențe, conform listei de mai jos.
+    - Identificare, lateralitate, absența mișcării și verificarea expunerii conform sistemului local.
+
+-   __5. Protecție Radiologică (ALARA)__
+
+    ---
+
+    - Colimare la zona justificată și tehnică adaptată dimensiunilor pacientului.
+    - Ecranarea pacientului conform politicii locale actualizate; protecția însoțitorilor se stabilește separat.
+
+</div>
+
+!!! note "Observații Clinice & Tehnice"
+    Ciorna nu înlocuiește checklistul complet ESPR/RCR. Nu se folosește o singură expunere de corp întreg. Constatările se comunică echipei; mecanismul leziunii nu se deduce numai din imagine.
+
+## Incidențe și criterii de acceptare
+
+### Bilanț inițial — listă regională
+
+**Selecție:** Parte a setului inițial justificat de radiolog
+
+**Poziționare:** Examinare coordonată de personal cu experiență pediatrică.
+
+**Centrare / acoperire:** Set regional conform tabelului 4a ESPR, cu selecție craniană în raport cu neuroimagistica.
+
+**Criterii de acceptare:** Fiecare regiune și lateralitate verificate înainte de încheiere; checklistul complet se atașează.
+
+### Bilanț de control
+
+**Selecție:** ESPR descrie reevaluarea la 11–14 zile; traseul trebuie aprobat local.
+
+**Poziționare:** Programare și poziționare conform traseului specializat.
+
+**Centrare / acoperire:** Set de control conform tabelului 4b, distinct de setul inițial.
+
+**Criterii de acceptare:** Comparație cu imaginile inițiale și documentarea regiunilor examinate.
+
+## De finalizat la revizuire
+
+- Confirmarea indicațiilor și a aplicabilității surselor la populația locală
+- Validarea fiecărei incidențe și a adaptărilor pentru traumatism/cooperare
+- Configurarea kV, mAs, AEC/manual, SID, grilei, focarului și filtrării pe aparat
+- Aprobarea radioprotecției și a criteriilor de calitate de către echipa locală
+- Revizuirea imaginilor: relevanță, identificatori vizibili și drepturi de utilizare
+- Transcrierea și validarea integrală a checklistului regional ESPR 4a/4b; protocol de neuroimagistică și comunicare
+
+=== "Ghid Rapid de Execuție"
+
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
+    2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (DE CONFIGURAT PE APARAT).
+    4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
+
+## Surse de documentare
+
+- [ESPR/ESR — Imaging of suspected child abuse, 2024](https://link.springer.com/article/10.1007/s00330-024-11052-4) — Skeletal survey; Table 4a/4b
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text

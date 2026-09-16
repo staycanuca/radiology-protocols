@@ -49,9 +49,9 @@ RX_PROTOCOLS = [
             "Penetrare optimă: conturul coloanei toracale și al vaselor retrocardiace sunt perceptibile",
         ],
         "protection": [
-            "Șorț de plumb protector poziționat pe abdomen și pelvis (fără a masca sinusurile costo-frenice)",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare strictă conform principiului ALARA",
-            "La pacientele de vârstă fertilă se verifică absența sarcinii (regula de 10 zile)",
+            "Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.",
         ],
         "iris_reference": {
             "chapter": "Torace & Pulmon",
@@ -93,7 +93,7 @@ RX_PROTOCOLS = [
             "Penetrare clară a spațiului retrosternal și retrocardiac",
         ],
         "protection": [
-            "Șorț de plumb pelvin montat conform ALARA",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template. montat conform ALARA",
             "Colimare precisă anterior și posterior",
         ],
         "iris_reference": {
@@ -177,7 +177,7 @@ RX_PROTOCOLS = [
             "Vizibilitatea pleurei adiacente pentru excluderea unui pneumotorax sau revărsat asociat",
         ],
         "protection": [
-            "Șorț de plumb pelvin",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)",
         ],
         "iris_reference": {
@@ -223,7 +223,7 @@ RX_PROTOCOLS = [
             "Nivelele hidroaerice clar demarcate între faza lichidiană și cea gazoasă",
         ],
         "protection": [
-            "Protecție gonade cu ecran de plumb dacă nu maschează simfiza pubiană sau vezica urinară",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Verificare obligatorie status sarcină la paciente",
         ],
         "iris_reference": {
@@ -267,7 +267,7 @@ RX_PROTOCOLS = [
             "Linia Shenton continuă și regulată pe ambele părți",
         ],
         "protection": [
-            "Protecție gonadică aplicată bărbaților (ecran pe linia mediană)",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă nu obstrucționează zona de interes",
         ],
         "iris_reference": {
@@ -312,7 +312,7 @@ RX_PROTOCOLS = [
             "Pe odontoidă: dintele axisului centrat între masele laterale ale atlasului, cu spații articulare atlanto-axoidiene simetrice",
         ],
         "protection": [
-            "Guler tiroidian de plumb montat dacă nu obstrucționează C5-C7; șorț pelvin de plumb",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare precisă pe coloana cervicală",
         ],
         "iris_reference": {
@@ -354,7 +354,7 @@ RX_PROTOCOLS = [
             "Găurile de conjugare vizualizate clar pe profil",
         ],
         "protection": [
-            "Șorț de plumb pelvin și guler tiroidian",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare laterală strânsă",
         ],
         "iris_reference": {
@@ -397,8 +397,8 @@ RX_PROTOCOLS = [
             "Pe clișeul L5-S1: spațiul discal lombo-sacrat bine deschis și vizibil",
         ],
         "protection": [
-            "Protecție gonadică atent poziționată la bărbați sub simfiză",
-            "Regula celor 10 zile la femei fertile",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
+            "Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.",
         ],
         "iris_reference": {
             "chapter": "Coloană vertebrală",
@@ -441,7 +441,7 @@ RX_PROTOCOLS = [
             "Detalii trabeculare clare ale trohiterului și trohinului",
         ],
         "protection": [
-            "Șorț pelvin de plumb și guler tiroidian",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template. și guler tiroidian",
             "Colimare strictă la articulația umărului",
         ],
         "iris_reference": {
@@ -483,7 +483,7 @@ RX_PROTOCOLS = [
             "Vizualizarea pernuței adipoase anterioare și posterioare (semnul pernuței posterioare indică hemartroză chiar în absența unei fracturi evidente)",
         ],
         "protection": [
-            "Șorț de plumb pe poala pacientului (protecție gonade în poziție șezândă)",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare restrânsă strict pe cot",
         ],
         "iris_reference": {
@@ -525,7 +525,7 @@ RX_PROTOCOLS = [
             "Liniile carpiene ale lui Gilula sunt continue și netede",
         ],
         "protection": [
-            "Șorț de plumb pe gonade în timpul șederii la masă",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare precisă pe aria carpiană",
         ],
         "iris_reference": {
@@ -567,7 +567,7 @@ RX_PROTOCOLS = [
             "Pe incidența oblică: metacarpienele și falangele sunt proiectate fără suprapunere excesivă",
         ],
         "protection": [
-            "Șorț de plumb pelvin aplicat în poziție șezând",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template. aplicat în poziție șezând",
             "Colimare strictă la conturul cutanat al mâinii",
         ],
         "iris_reference": {
@@ -611,7 +611,7 @@ RX_PROTOCOLS = [
             "Trabeculația colului femural (traveele Ward) este vizibilă neted",
         ],
         "protection": [
-            "Ecran plumbat pe gonade (atenție să nu acopere cotilul intern)",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare unilaterală riguroasă",
         ],
         "iris_reference": {
@@ -653,7 +653,7 @@ RX_PROTOCOLS = [
             "Pe axiale: rotula centrată în șanțul trohlean, fanta femuro-patelară deschisă fără subluxație",
         ],
         "protection": [
-            "Șorț de plumb pelvin",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare strictă pe aria genunchiului",
         ],
         "iris_reference": {
@@ -695,7 +695,7 @@ RX_PROTOCOLS = [
             "Vizualizarea bazei celui de-al V-lea metatarsian pentru excluderea unei fracturi asociate de avulsie",
         ],
         "protection": [
-            "Șorț de plumb pelvin",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare centrată pe gleznă",
         ],
         "iris_reference": {
@@ -737,7 +737,7 @@ RX_PROTOCOLS = [
             "Baza metatarsianului V clar decelabilă fără fractură",
         ],
         "protection": [
-            "Șorț pelvin de plumb",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare strictă",
         ],
         "iris_reference": {
@@ -782,7 +782,7 @@ RX_PROTOCOLS = [
             "Recunoașterea umbrei timusului la sugar (semnul pânzei de barcă / velar — aspect fiziologic normal)",
         ],
         "protection": [
-            "Protecție gonade cu fustă de plumb",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Însoțitorul (părintele) echipat obligatoriu cu șorț și guler de plumb pe durata imobilizării",
             "Principiul ALARA strict respectat: zero repetări nejustificate",
         ],
@@ -825,7 +825,7 @@ RX_PROTOCOLS = [
             "Rezoluție osoasă fină care permite identificarea fuziunii cartilajelor de creștere",
         ],
         "protection": [
-            "Șorț de plumb pelvin aplicat în poala copilului",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template. aplicat în poala copilului",
             "Colimare strictă pe mâna stângă",
         ],
         "iris_reference": {
@@ -867,7 +867,7 @@ RX_PROTOCOLS = [
             "Calculul unghiului acetabular (normal < 30° la nou-născut, < 25° la 6 luni)",
         ],
         "protection": [
-            "Protecție gonade utilizată doar dacă nu maschează cartilajele triradiate și pubisul",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Însoțitorul este protejat cu șorț și mănuși de plumb",
         ],
         "iris_reference": {
@@ -911,7 +911,7 @@ RX_PROTOCOLS = [
             "Pe varianta cu gura deschisă: sinusul sfenoidal proiectat în cavitatea bucală",
         ],
         "protection": [
-            "Guler tiroidian de plumb și șorț pelvin",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare riguroasă pe masivul facial",
         ],
         "iris_reference": {
@@ -951,8 +951,8 @@ RX_PROTOCOLS = [
             "Absența suprapunerii cu arcadele dentare superioare",
         ],
         "protection": [
-            "Guler tiroidian de plumb obligatoriu",
-            "Șorț pelvin de plumb",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
+            "Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.",
             "Colimare ultra-restrânsă",
         ],
         "iris_reference": {
@@ -1008,6 +1008,7 @@ def generate_all_rx():
     rx_pages_content = """title: Protocoale Radiologie Clasică (Rx)
 nav:
   - index.md
+  - Radioprotecție: radioprotectie.md
   - Torace: torace
   - Abdomen & Bazin: abdomen
   - Coloană Vertebrală: coloana

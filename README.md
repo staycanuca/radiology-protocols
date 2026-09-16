@@ -106,3 +106,48 @@ python run.py --test    # Rulează suita de teste automate (pytest)
 python run.py --build   # Compilează site-ul static pentru producție în folderul site/
 ```
 
+### Documentare AI pe câmpuri în editor
+
+În panoul de administrare (`http://localhost:5173`), paginile de editare și creare
+au butonul **Caută cu AI** lângă câmpurile editabile, inclusiv seriile CT, secvențele IRM
+și incidențele ecografice adăugate dinamic. Selectează furnizorul deasupra formularului.
+Butonul trimite câmpul, valorile vizibile și contextul rândului către furnizor;
+nu introduce informații identificabile ale pacienților în protocoale.
+
+- **Fără chei API:** selectează **ChatGPT — OAuth prin Codex** sau **Google Gemini — OAuth prin Antigravity / Gemini CLI**.
+  Instalează CLI-ul oficial și folosește **Conectează contul OAuth**, apoi **Verifică conexiunea OAuth**.
+  Conectarea deschide un terminal interactiv și fluxul oficial în browser. Alternativ,
+  rulează `codex login` sau `agy` / `gemini` și alege conectarea cu Google. Aplicația nu copiază tokenurile.
+  Sunt reutilizate sesiunile CLI ale utilizatorului Windows care rulează editorul.
+  Pentru Gemini, aplicația folosește automat **Antigravity CLI (`agy`)** dacă este instalat,
+  evitând restricția `UNSUPPORTED_CLIENT` returnată de Google pentru conturile individuale pe vechiul `@google/gemini-cli`.
+- Modul automat folosește OAuth și preferă Codex când este instalat. Nu revine automat la chei API.
+  Modelele CLI pot fi selectate opțional prin `FIELD_AI_CODEX_MODEL` și `FIELD_AI_GEMINI_CLI_MODEL`;
+  backendul Gemini CLI poate fi forțat prin `FIELD_AI_GEMINI_CLI_BACKEND=agy` sau `gemini`.
+- Sesiunile de documentare rulează într-un director temporar, fără acces de scriere la protocoale.
+  Promptul este transmis prin stdin. Pentru CLI, aplicația cere atât o căutare web efectuată,
+  cât și un fragment citat găsit efectiv în documentul sursă de pe un domeniu acceptat.
+- Autentificarea reușită nu garantează eligibilitatea modelului sau disponibilitatea cotei.
+  Mesajul Google `UNSUPPORTED_CLIENT` pe vechiul `gemini` semnalează restricția furnizorului;
+  în acest caz instalează/folosește Antigravity CLI (`agy`) sau comută pe **Gemini API** cu cheie.
+- Opțiunile **Gemini API** și **OpenAI API** rămân disponibile explicit cu
+  `GEMINI_API_KEY` / `OPENAI_API_KEY`, respectiv modelele `FIELD_AI_GEMINI_MODEL` /
+  `FIELD_AI_OPENAI_MODEL`. Accesul și costurile sunt cele ale proiectului API.
+- Propunerile afișează justificarea, limitele, sursele citate și momentul căutării.
+  Sunt prioritizate sursele profesionale/instituționale; Radiopaedia și Radiography101
+  sunt surse educaționale suplimentare. Câmpurile de contrast, doză și siguranță
+  nu acceptă propuneri susținute numai de surse educaționale.
+- Fără citări provenite din căutarea furnizorului și domenii acceptate, ori când
+  modelul declară dovezi insuficiente, valoarea nu poate fi aplicată. Funcția nu
+  folosește fallback-ul clinic offline al chatului.
+- Verifică sursele și aplicabilitatea clinică, bifează revizuirea și apasă **Aplică în câmp**.
+  Apoi folosește **Salvează Protocolul**. Dacă formularul s-a schimbat între timp,
+  este necesară o căutare nouă. Autorul, datele și identificarea imaginilor se completează local.
+
+Aceste verificări reduc riscul de răspunsuri nesusținute; ele nu certifică validitatea
+clinică. Confirmarea recomandărilor, a edițiilor ghidurilor și a parametrilor potriviți
+aparatului/populației rămâne parte din revizuirea protocolului.
+
+Teste: `python -m pytest tests/test_cli_ai.py tests/test_field_ai.py tests/test_admin.py -q`.
+Testele DOM sunt în `tests/editor_field_ai.test.cjs` și se rulează cu
+`node --test tests/editor_field_ai.test.cjs`, cu `jsdom` disponibil pe calea modulelor Node.

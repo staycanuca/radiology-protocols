@@ -12,7 +12,7 @@ iris_reference:
   chapter: Pediatrie — Aparat locomotor
   radiation_dose: Clasa 1 (Minimă < 0.005 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Se compară imaginea obținută cu standardele din Atlasul Greulich & Pyle sau
   metoda Tanner-Whitehouse (TW3). Mâna stângă este standardul universal chiar și la
@@ -20,7 +20,8 @@ notes: Se compară imaginea obținută cu standardele din Atlasul Greulich & Pyl
 position: Copil așezat pe scaun, mâna și pumnul STÂNG (convenție internațională conform
   Atlasului Greulich & Pyle) plasate plat pe detector cu degetele ușor depărtate
 protection:
-- Șorț de plumb pelvin aplicat în poala copilului
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare strictă pe mâna stângă
 quality_criteria:
 - Vizualizarea completă a oaselor carpiene, epifizelor și metafizelor radiusului,
@@ -123,7 +124,7 @@ sources:
 
     ---
 
-    - Șorț de plumb pelvin aplicat în poala copilului
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare strictă pe mâna stângă
 
 </div>
@@ -133,11 +134,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

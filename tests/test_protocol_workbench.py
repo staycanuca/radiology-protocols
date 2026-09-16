@@ -290,6 +290,12 @@ def test_upload_local_text_and_docx_sources(workbench):
     assert '120 kV' in sources[0]['excerpt']
     assert sources[0]['local_file_ref']
 
+    # Refreshing the sidebar after upload must not treat the source catalog as a draft.
+    listed = client.get('/api/drafts', headers=headers)
+    assert listed.status_code == 200
+    assert listed.json == [res_txt.json]
+    assert (state / 'local_sources_catalog.json').exists()
+
     # 2. Verify file download endpoint
     source_id = sources[0]['id']
     file_res = client.get(f"{prefix}/sources/{source_id}/file", headers=headers)
@@ -318,12 +324,12 @@ def test_upload_local_text_and_docx_sources(workbench):
     sources2 = res_docx.json['sources']
     assert len(sources2) == 2
     assert any('Procedura operationala standardizata' in s['excerpt'] for s in sources2)
-    # Check that both sources were auto-injected into draft['document']
+    # Sources remain evidence; only extracted fields enter the protocol.
     doc2 = res_docx.json['document']
-    assert '## Conținut preluat: Protocol Intern Spital Clinic' in doc2
-    assert '120 kV' in doc2
-    assert '## Conținut preluat: Procedura Abdomen DOCX' in doc2
-    assert 'Procedura operationala standardizata' in doc2
+    assert '## Conținut preluat:' not in doc2
+    assert '120' in str(wb.frontmatter(doc2)[0]['tech_params'])
+    assert 'Procedura operationala standardizata' not in doc2
+    assert res_docx.json['completion']['provenance']
 
 
 def test_import_with_local_source_archives_file(workbench):
@@ -414,8 +420,9 @@ def test_local_sources_catalog_and_reuse(workbench):
     assert s2['title'] == 'Norme Radioprotectie Spital'
     assert s2['sha256'] == s1['sha256']
     assert s2['id'] != s1['id']  # Unique source ID per attachment
-    assert '## Conținut preluat: Norme Radioprotectie Spital' in attach_res.json['document']
-    assert 'Procedura tehnica de radioprotectie' in attach_res.json['document']
+    assert '## Conținut preluat:' not in attach_res.json['document']
+    assert attach_res.json['completion']
+    assert 'Procedura tehnica de radioprotectie' in s2['excerpt']
 
     # 6. Verify draft 2 can serve the file
     d2_file_res = client.get(f"{prefix2}/sources/{s2['id']}/file", headers=headers)
@@ -489,11 +496,9 @@ slug: rx-coloana-toracala
     extract_res = client.post(f"{prefix}/sources/{sid}/smart-extract", headers=headers)
     assert extract_res.status_code == 200
     data = extract_res.json
-    assert data['count'] >= 2
+    assert data['count'] == 0  # Reanalysis is idempotent and protects manual values.
     doc = data['draft']['document']
-    assert '75 - 80 (Față); 80 - 95 (Profil)' in doc
-    assert '35 - 60' in doc
-    assert '120 cm' in doc
-
-
-
+    assert '75 - 85 (Față); 80 - 90 (Profil)' in doc
+    assert '25 - 50 (AEC)' in doc
+    assert '100 - 115 cm' in doc
+    assert len(data['draft']['completion']['conflicts']) >= 2

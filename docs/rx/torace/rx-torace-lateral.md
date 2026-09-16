@@ -13,14 +13,15 @@ iris_reference:
   chapter: Torace & Pulmon
   radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite
   vizualizarea optimă a ventriculului stâng și aortei descendente.
 position: Ortostatism cu hemitracele stâng lipit de stativul Bucky (profil stâng standard),
   brațele ridicate deasupra capului sau încrucișate pe creștet
 protection:
-- Șorț de plumb pelvin montat conform ALARA
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare precisă anterior și posterior
 quality_criteria:
 - Suprapunerea precisă a arcurilor costale posterioare (rotație minimă < 1 cm)
@@ -130,7 +131,7 @@ sources:
 
     ---
 
-    - Șorț de plumb pelvin montat conform ALARA
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare precisă anterior și posterior
 
 </div>
@@ -140,11 +141,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (180 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

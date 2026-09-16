@@ -12,7 +12,7 @@ iris_reference:
   chapter: Pediatrie — Aparat locomotor
   radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
   recommendation_grade: Grad A
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: La sugari sub 4-6 luni, metoda de elecție este ECOGRAFIA DE ȘOLD (metoda Graf)
   conform ghidului IRIS, deoarece componentele sunt predominant cartilaginoase și
@@ -20,7 +20,8 @@ notes: La sugari sub 4-6 luni, metoda de elecție este ECOGRAFIA DE ȘOLD (metod
 position: Decubit dorsal, asistentul sau părintele menține bazinul perfect orizontal,
   membrele inferioare în adducție ușoară și extensie simetrică
 protection:
-- Protecție gonade utilizată doar dacă nu maschează cartilajele triradiate și pubisul
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Însoțitorul este protejat cu șorț și mănuși de plumb
 quality_criteria:
 - Simetrie perfectă a inelului pelvin (absența înclinației pelvine)
@@ -124,7 +125,7 @@ sources:
 
     ---
 
-    - Protecție gonade utilizată doar dacă nu maschează cartilajele triradiate și pubisul
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Însoțitorul este protejat cu șorț și mănuși de plumb
 
 </div>
@@ -134,11 +135,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

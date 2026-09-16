@@ -13,7 +13,7 @@ iris_reference:
   chapter: Cap — ORL
   radiation_dose: Clasa 1 (Minimă < 0.08 mSv)
   recommendation_grade: Grad B
-last_updated: '2026-09-13'
+last_updated: '2026-09-15'
 modality: rx
 notes: Ortostatismul este obligatoriu pentru evidențierea nivelelor hidroaerice (puroi/lichid
   în sinuzita acută sau hemo-sinus în traumatisme).
@@ -21,7 +21,8 @@ position: 'Incidența Mento-Placă (Waters): ortostatism, bărbia lipită de Buc
   nasul la 1-1.5 cm distanță de stativ (linia meato-orbitală face un unghi de 37°
   cu detectorul), gura larg deschisă pentru vizualizarea sinusului sfenoidal'
 protection:
-- Guler tiroidian de plumb și șorț pelvin
+- Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
+  automată din template.
 - Colimare riguroasă pe masivul facial
 quality_criteria:
 - Stâncile temporale sunt proiectate imediat sub podeaua sinusurilor maxilare
@@ -131,7 +132,7 @@ sources:
 
     ---
 
-    - Guler tiroidian de plumb și șorț pelvin
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare riguroasă pe masivul facial
 
 </div>
@@ -141,11 +142,11 @@ sources:
 
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (100 cm).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 ## Surse și revizuire
 

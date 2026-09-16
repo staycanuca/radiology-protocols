@@ -40,11 +40,13 @@ from render_fluoro_protocol import render_fluoro_document  # noqa: E402
 from render_irm_protocol import render_irm_document  # noqa: E402
 from render_eco_protocol import render_eco_document  # noqa: E402
 from ai_service import ai_bp  # noqa: E402
+from field_ai import field_ai_bp  # noqa: E402
 
 app = Flask(__name__)
 app.secret_key = os.environ.get("FLASK_SECRET_KEY", "radiology-protocols-dev-key-clinical-2026")
 CORS(app)
 app.register_blueprint(ai_bp)
+app.register_blueprint(field_ai_bp)
 
 CT_CATEGORIES = ["abdomen", "cardiac", "chest", "msk", "neuro", "trauma", "vascular"]
 RX_CATEGORIES = ["torace", "abdomen", "coloana", "craniu-saf", "membru-superior", "membru-inferior", "pediatrie"]
@@ -813,6 +815,24 @@ FORM_TEMPLATE = """<!DOCTYPE html>
 </div>
 {% endif %}
 
+<link rel="stylesheet" href="{{ url_for('static', filename='editor-field-ai.css') }}">
+<script defer src="{{ url_for('static', filename='editor-field-ai.js') }}"></script>
+<div class="section field-ai-settings">
+  <strong>Documentare AI pentru fiecare câmp</strong>
+  <label for="field-ai-provider">Furnizor</label>
+  <select id="field-ai-provider">
+    <option value="auto">Automat — cont OAuth local</option>
+    <option value="codex_oauth">ChatGPT — OAuth prin Codex</option>
+    <option value="gemini_oauth">Google Gemini — OAuth prin Antigravity / Gemini CLI</option>
+    <option value="gemini">Gemini API — cheie API</option>
+    <option value="openai">OpenAI API — cheie API</option>
+  </select>
+  <p><button type="button" id="field-ai-connect">Conectează contul OAuth</button>
+     <button type="button" id="field-ai-check">Verifică conexiunea OAuth</button></p>
+  <p id="field-ai-connection" role="status">Pentru conectare sau verificare, selectează explicit ChatGPT OAuth ori Gemini OAuth. Sesiunile sunt gestionate local de aplicațiile CLI oficiale.</p>
+  <p>„Caută cu AI” folosește câmpul și contextul protocolului pentru a propune informații cu surse.
+    Verifică aplicabilitatea clinică înainte de preluare. Contextul se trimite furnizorului selectat; nu introduce date identificabile ale pacienților.</p>
+</div>
 <form id="proto-form">
 
 <div class="section">
@@ -2569,7 +2589,8 @@ def edit(slug: str):
                 fm["modality"] = "fluoro"
                 md_content = render_fluoro_document(fm)
             elif modality_posted == "rx" or is_rx:
-                fm = form_to_rx_frontmatter(request.form)
+                # Keep documented fields that are not exposed by the RX form.
+                fm = {**original_fm, **form_to_rx_frontmatter(request.form)}
                 fm["slug"] = slug
                 fm["modality"] = "rx"
                 md_content = render_rx_document(fm)

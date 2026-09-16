@@ -10,6 +10,9 @@ from __future__ import annotations
 
 import yaml
 
+PENDING = 'DE CONFIGURAT PE APARAT'
+QUICK_PROTECTION = '    5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.'
+
 
 def _yaml_block(fm: dict) -> str:
     """Serializează fm ca bloc YAML delimitat de ---."""
@@ -35,14 +38,18 @@ def _protection_bullets(protection: list) -> str:
 
 
 def _format_kv(kv: str) -> str:
-    s = str(kv).strip() if kv else "70-80 kV"
+    s = str(kv).strip() if kv else PENDING
+    if s == PENDING:
+        return s
     if not s.lower().endswith("kv"):
         return f"{s} kV"
     return s
 
 
 def _format_mas(mas: str) -> str:
-    s = str(mas).strip() if mas else "AEC / Auto"
+    s = str(mas).strip() if mas else PENDING
+    if s == PENDING:
+        return s
     if not s.lower().endswith("mas") and not "aec" in s.lower() and not "auto" in s.lower():
         return f"{s} mAs"
     return s
@@ -51,8 +58,8 @@ def _format_mas(mas: str) -> str:
 def _iris_guide_tab(iris_ref: dict, category: str) -> str:
     ir = iris_ref or {}
     chapter = ir.get("chapter", "Ghidul Național IRIS")
-    dose = ir.get("radiation_dose", "Clasa 1 (Minimă < 1 mSv)")
-    grade = ir.get("recommendation_grade", "Grad A")
+    dose = ir.get("radiation_dose") or "De verificat pentru examinarea și populația selectate"
+    grade = ir.get("recommendation_grade") or "De verificat pe indicație; fără grad atribuit automat"
 
     lines = [
         '    === "Ghid Național IRIS"\n',
@@ -71,11 +78,11 @@ def _tech_params_section(tech: dict, sid: str) -> str:
     t = tech or {}
     kv_val = _format_kv(t.get("kv", ""))
     mas_val = _format_mas(t.get("mas", ""))
-    grid_val = t.get("grid", "Cu grilă antidifuzoare (Bucky)")
-    focal_val = t.get("focal_spot", "Focar Mic (0.6 mm)")
-    aec_val = t.get("aec_chambers", "Camera centrală activată (sau mod manual)")
+    grid_val = t.get("grid") or PENDING
+    focal_val = t.get("focal_spot") or PENDING
+    aec_val = t.get("aec_chambers") or PENDING
     collimation_val = t.get("collimation", "Strictă pe regiunea de interes")
-    filtration_val = t.get("filtration", "Totală ≥ 2.5 mm Al echivalent")
+    filtration_val = t.get("filtration") or PENDING
 
     lines = [
         '    | Parametru Tehnic | Valoare Configurare Generator / Tub |\n',
@@ -160,6 +167,19 @@ def _render_images_section(images: list | None, depth: int = 2) -> str:
     )
 
 
+def _views_section(views):
+    if not views:
+        return ''
+    lines = ['\n## Incidențe și criterii de acceptare\n']
+    for view in views:
+        lines.append(f"\n### {view.get('name', 'Incidență')}\n")
+        for key, label in [('condition', 'Selecție'), ('position', 'Poziționare'),
+                           ('centering', 'Centrare / acoperire'), ('quality', 'Criterii de acceptare')]:
+            if view.get(key):
+                lines.append(f"\n**{label}:** {view[key]}\n")
+    return ''.join(lines)
+
+
 def render_rx_document(fm: dict) -> str:
     """Generează documentul Markdown complet pentru protocolul Rx."""
     title = fm.get('title', 'Protocol Radiografie')
@@ -167,8 +187,8 @@ def render_rx_document(fm: dict) -> str:
     author = fm.get('author', 'Departamentul de Radiologie')
     category = fm.get('category', 'diverse')
     position = fm.get('position', 'Conform incidenței standard')
-    sid = fm.get('sid_dff', '100 - 115 cm')
-    breathing = fm.get('breathing', 'Apnee în inspir liniștit')
+    sid = fm.get('sid_dff') or PENDING
+    breathing = fm.get('breathing') or 'De precizat pentru incidență și cooperarea pacientului'
     centering = fm.get('centering', 'Pe centrul ariei de interes anatomic')
     clinical_indications = fm.get('clinical_indications', [])
     tech_params = fm.get('tech_params', {})
@@ -177,9 +197,16 @@ def render_rx_document(fm: dict) -> str:
     iris_ref = fm.get('iris_reference', {})
     notes = fm.get('notes', '')
     images_section = _render_images_section(fm.get('images', []))
+    draft_notice = ''
+    if fm.get('clinical_status') == 'draft_not_for_clinical_use':
+        draft_notice = '\n!!! warning "Ciornă pentru revizuire — nu se utilizează clinic"\n    Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.\n'
+    review_section = ''
+    if fm.get('review_required_fields'):
+        review_section = '\n## De finalizat la revizuire\n\n' + '\n'.join('- ' + str(v) for v in fm['review_required_fields']) + '\n'
 
     body = f"""
 # {title}
+{draft_notice}
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
@@ -224,14 +251,18 @@ def render_rx_document(fm: dict) -> str:
 {_protection_bullets(protection)}
 </div>
 
-{f'!!! note "Observații Clinice & Tehnice"\n    {notes}\n' if notes else ''}{images_section}
+{f'!!! note "Observații Clinice & Tehnice"\n    {notes}\n' if notes else ''}{_views_section(fm.get('standard_views'))}{images_section}{review_section}
 === "Ghid Rapid de Execuție"
 
-    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, semnătură consimțământ și absență sarcină la pacientele de vârstă fertilă.
+    1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
     3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă ({sid}).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
-    5. **Protecție gonade/tiroidă:** aplicarea ecranului de plumb conform recomandărilor de radioprotecție.
+{QUICK_PROTECTION}
 """
 
+    if fm.get('sources'):
+        body += '\n\n## Surse de documentare\n\n' + '\n'.join(
+            f"- [{source.get('title', 'Sursă')}]({source['url']})"
+            for source in fm['sources'] if isinstance(source, dict) and source.get('url')) + '\n'
     return _yaml_block(fm) + body.strip() + '\n'
