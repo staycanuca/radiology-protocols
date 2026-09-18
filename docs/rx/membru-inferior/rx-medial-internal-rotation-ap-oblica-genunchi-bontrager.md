@@ -2,39 +2,40 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle CR 0° on average patient (see AP Genunchi, p. 247). Direct CR to
-  midpoint of Genunchi at a level ½ inch (1.25 cm) distal to apex of Rotulă (Patelă).
+centering: Angle raza centrală 0° pe average pacient (see AP Genunchi, p. 247). Raza
+  centrală se orientează spre midpoint de Genunchi la level ½ inch (1.25 cm) distal
+  la apex de Rotulă (Patelă).
 clinical_indications:
-- Pathology involving the proximal tibiofibular and femorotibial (Genunchi) joint
+- Pathology involving proximal tibiofibular și femorotibial (Genunchi) articulație
   articulations
-- suspiciune de fractură, lesions, and bony changes related to degenerative joint
-  disease, especially on the anterior and medial or posterior and lateral portions
-  of Genunchi
+- suspiciune de fractură, lesions, și bony changes related la degenerative articulație
+  disease, especially pe anterior și medial sau posterior și lateral portions de Genunchi
 images:
-- caption: Fig. 6.106 AP 45° medial oblique.
+- caption: Fig. 6.106 AP 45° medial oblic.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.106 AP 45° medial
-    oblique.)
+    oblic.)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_1.jpeg
-- caption: Fig. 6.107 AP medial oblique.
+- caption: Fig. 6.107 AP medial oblic.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.107
-    AP medial oblique.)
+    AP medial oblic.)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_2.jpeg
-- caption: Fig. 6.108 AP medial oblique.
+- caption: Fig. 6.108 AP medial oblic.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.108
-    AP medial oblique.)
+    AP medial oblic.)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: The terms medial (internal) oblique and lateral (external) oblique positions
-  refer to the direction of rotation of the anterior or patellar surface of the Genunchi.
-  This is true for descriptions of AP or PA oblique projections. Genunchi ROUTINE
-  AP Oblique (medial and lateral) Lateral Fig. 6.106 AP 45° medial oblique.
-position: 'Pacient: Place patient in semisupine position with entire body and leg
-  rotated partially away from side of interest; place support under elevated Șold;
-  provide a pillow for patient’s head.; Regiune anatomică: Align and center leg and
-  Genunchi to CR and to midline of table or IR. Rotate entire leg internally 45°.
-  (Interepicondylar line should be 45° to plane of IR.) (Fig. 6.106) If needed, stabilize
-  Picior and Gleznă (Articulație Talocrurală) in this position with sandbags.'
+notes: terms medial (intern) oblic și lateral (extern) oblic poziții refer la direction
+  de rotație de anterior sau patellar surface de Genunchi. This este true pentru descriptions
+  de AP sau PA oblic incidențe. Genunchi ROUTINE AP oblic (medial și lateral) lateral
+  Fig. 6.106 AP 45° medial oblic.
+position: 'Pacient: Place pacient în semisupine poziție cu entire corp și membru inferior
+  rotit partially away de la side de interest; place support under ridicat Șold; provide
+  pillow pentru pacient’s cap.; Regiune anatomică: Align și center membru inferior
+  și Genunchi la raza centrală și la linia mediană mesei sau receptorul de imagine.
+  Rotate entire membru inferior internally 45°. (Interepicondylar line trebuie să
+  fie 45° la plane de receptorul de imagine.) (Fig. 6.106) If needed, stabilize Picior
+  și Gleznă (Articulație Talocrurală) în this poziție cu săculeți cu nisip.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,23 +43,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal Femur and proximal tibia and fibula with the Rotulă (Patelă) superimposing
-  the medial femoral condyle are shown.
-- 'Lateral condyles of the Femur and tibia are well demonstrated, and the medial and
-  lateral Genunchi joint spaces appear unequal (Figs. 6.107 and 6.108). Position:'
-- The proper amount of part obliquity demonstrates the proximal tibiofibular articulation
-  open with the lateral condyles of the Femur and tibia seen in profile.
-- 'The head and neck of the fibula are visualized without superimposition, and approximately
-  half of the Rotulă (Patelă) should be seen free of superimposition by the Femur.
-  The center of the collimated field is to the femorotibial (Genunchi) joint space.
-  Exposure:'
-- Optimal image receptor exposure and contrast with no motion should visualize soft
-  tissue in the Genunchi joint area, and trabecular markings of all bones should appear
-  clear and sharp.
-- Head and neck area of fibula should not appear overexposed. Fig. 6.107 AP medial
-  oblique. Femur Rotulă (Patelă) Tibia R Medial condyle Proximal tibiofibular joint
-  Lateral condyle of Femur Lateral condyle of tibia Neck of fibula Head Fig. 6.108
-  AP medial oblique.
+- distal Femur și proximal tibia și fibula cu Rotulă (Patelă) superimposing medial
+  femoral condyle sunt vizualizat.
+- 'lateral condyles de Femur și tibia sunt well evidențiat, și medial și lateral Genunchi
+  spații articulare appear unequal (Figs. 6.107 și 6.108). poziție:'
+- corect amount de part obliquity evidențiază proximal tibiofibular articulation open
+  cu lateral condyles de Femur și tibia seen în profile.
+- 'capul și neck de fibula sunt visualized fără superimposition, și approximately
+  half de Rotulă (Patelă) trebuie să fie seen liber de superimposition prin Femur.
+  center de câmp colimat este la femorotibial (Genunchi) spații articulare. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
+  părți moi în Genunchi articulație area, și trabecular markings de toate bones trebuie
+  să appear clear și net.
+- cap și neck area de fibula trebuie să nu appear overexposed. Fig. 6.107 AP medial
+  oblic. Femur Rotulă (Patelă) Tibia R medial condyle proximal tibiofibular articulație
+  lateral condyle de Femur lateral condyle de tibia Neck de fibula cap Fig. 6.108
+  AP medial oblic.
 sid_dff: 100 cm
 slug: rx-medial-internal-rotation-ap-oblica-genunchi-bontrager
 sources:
@@ -66,8 +66,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate on both sides to skin margins, with full collimation at ends
-    to IR borders to include maximum Femur and tibiafibula.
+  collimation: Collimate pe ambele părți (bilateral) la skin margins, cu full collimation
+    la ends la receptorul de imagine margini la include maximum Femur și tibiafibula.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -94,8 +94,8 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Genunchi)
 
     === "Indicații Clinice"
 
-        - Pathology involving the proximal tibiofibular and femorotibial (Genunchi) joint articulations
-        - suspiciune de fractură, lesions, and bony changes related to degenerative joint disease, especially on the anterior and medial or posterior and lateral portions of Genunchi
+        - Pathology involving proximal tibiofibular și femorotibial (Genunchi) articulație articulations
+        - suspiciune de fractură, lesions, și bony changes related la degenerative articulație disease, especially pe anterior și medial sau posterior și lateral portions de Genunchi
 
     === "Ghid Național IRIS"
 
@@ -109,8 +109,8 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Genunchi)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in semisupine position with entire body and leg rotated partially away from side of interest; place support under elevated Șold; provide a pillow for patient’s head.; Regiune anatomică: Align and center leg and Genunchi to CR and to midline of table or IR. Rotate entire leg internally 45°. (Interepicondylar line should be 45° to plane of IR.) (Fig. 6.106) If needed, stabilize Picior and Gleznă (Articulație Talocrurală) in this position with sandbags.
-    - **Punct de Centrare Fascicul:** Angle CR 0° on average patient (see AP Genunchi, p. 247). Direct CR to midpoint of Genunchi at a level ½ inch (1.25 cm) distal to apex of Rotulă (Patelă).
+    - **Poziție Pacient:** Pacient: Place pacient în semisupine poziție cu entire corp și membru inferior rotit partially away de la side de interest; place support under ridicat Șold; provide pillow pentru pacient’s cap.; Regiune anatomică: Align și center membru inferior și Genunchi la raza centrală și la linia mediană mesei sau receptorul de imagine. Rotate entire membru inferior internally 45°. (Interepicondylar line trebuie să fie 45° la plane de receptorul de imagine.) (Fig. 6.106) If needed, stabilize Picior și Gleznă (Articulație Talocrurală) în this poziție cu săculeți cu nisip.
+    - **Punct de Centrare Fascicul:** Angle raza centrală 0° pe average pacient (see AP Genunchi, p. 247). Raza centrală se orientează spre midpoint de Genunchi la level ½ inch (1.25 cm) distal la apex de Rotulă (Patelă).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -126,19 +126,19 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Genunchi)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate on both sides to skin margins, with full collimation at ends to IR borders to include maximum Femur and tibiafibula. |
+    | **Colimare Fascicul** | Collimate pe ambele părți (bilateral) la skin margins, cu full collimation la ends la receptorul de imagine margini la include maximum Femur și tibiafibula. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal Femur and proximal tibia and fibula with the Rotulă (Patelă) superimposing the medial femoral condyle are shown.
-    - Lateral condyles of the Femur and tibia are well demonstrated, and the medial and lateral Genunchi joint spaces appear unequal (Figs. 6.107 and 6.108). Position:
-    - The proper amount of part obliquity demonstrates the proximal tibiofibular articulation open with the lateral condyles of the Femur and tibia seen in profile.
-    - The head and neck of the fibula are visualized without superimposition, and approximately half of the Rotulă (Patelă) should be seen free of superimposition by the Femur. The center of the collimated field is to the femorotibial (Genunchi) joint space. Exposure:
-    - Optimal image receptor exposure and contrast with no motion should visualize soft tissue in the Genunchi joint area, and trabecular markings of all bones should appear clear and sharp.
-    - Head and neck area of fibula should not appear overexposed. Fig. 6.107 AP medial oblique. Femur Rotulă (Patelă) Tibia R Medial condyle Proximal tibiofibular joint Lateral condyle of Femur Lateral condyle of tibia Neck of fibula Head Fig. 6.108 AP medial oblique.
+    - distal Femur și proximal tibia și fibula cu Rotulă (Patelă) superimposing medial femoral condyle sunt vizualizat.
+    - lateral condyles de Femur și tibia sunt well evidențiat, și medial și lateral Genunchi spații articulare appear unequal (Figs. 6.107 și 6.108). poziție:
+    - corect amount de part obliquity evidențiază proximal tibiofibular articulation open cu lateral condyles de Femur și tibia seen în profile.
+    - capul și neck de fibula sunt visualized fără superimposition, și approximately half de Rotulă (Patelă) trebuie să fie seen liber de superimposition prin Femur. center de câmp colimat este la femorotibial (Genunchi) spații articulare. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi în Genunchi articulație area, și trabecular markings de toate bones trebuie să appear clear și net.
+    - cap și neck area de fibula trebuie să nu appear overexposed. Fig. 6.107 AP medial oblic. Femur Rotulă (Patelă) Tibia R medial condyle proximal tibiofibular articulație lateral condyle de Femur lateral condyle de tibia Neck de fibula cap Fig. 6.108 AP medial oblic.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +151,7 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Genunchi)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    The terms medial (internal) oblique and lateral (external) oblique positions refer to the direction of rotation of the anterior or patellar surface of the Genunchi. This is true for descriptions of AP or PA oblique projections. Genunchi ROUTINE AP Oblique (medial and lateral) Lateral Fig. 6.106 AP 45° medial oblique.
+    terms medial (intern) oblic și lateral (extern) oblic poziții refer la direction de rotație de anterior sau patellar surface de Genunchi. This este true pentru descriptions de AP sau PA oblic incidențe. Genunchi ROUTINE AP oblic (medial și lateral) lateral Fig. 6.106 AP 45° medial oblic.
 
 
 ### 🖼️ Imagini
@@ -160,25 +160,25 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Genunchi)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.106 AP 45° medial oblique.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_1.jpeg)
+![Fig. 6.106 AP 45° medial oblic.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.106 AP 45° medial oblique.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.106 AP 45° medial oblique.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.107 AP medial oblique.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.107 AP medial oblique.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.107 AP medial oblique.)</span></figcaption>
+<figcaption><strong>Fig. 6.106 AP 45° medial oblic.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.106 AP 45° medial oblic.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.108 AP medial oblique.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_3.jpeg)
+![Fig. 6.107 AP medial oblic.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.108 AP medial oblique.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.108 AP medial oblique.)</span></figcaption>
+<figcaption><strong>Fig. 6.107 AP medial oblic.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.107 AP medial oblic.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.108 AP medial oblic.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-genunchi-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.108 AP medial oblic.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.108 AP medial oblic.)</span></figcaption>
 
 </figure>
 

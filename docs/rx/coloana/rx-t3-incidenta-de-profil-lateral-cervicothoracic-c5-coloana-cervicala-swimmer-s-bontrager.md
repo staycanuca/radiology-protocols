@@ -1,19 +1,18 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on full expiration.
+breathing: Apnee pe durata expunerii pe Expir complet.
 category: coloana
-centering: perpendicular to IR (see NOTE). Direct CR to T1, which is approximately
-  1 inch (2.5 cm) above level of incizura jugulară (manubriul sternal) anteriorly
-  and at level of vertebra proeminentă (apofiza spinoasă C7) posteriorly. Center IR
-  to CR.
+centering: perpendicular pe receptorul de imagine (see NOTE). Raza centrală se orientează
+  spre T1, which este approximately 1 inch (2.5 cm) above level de incizura jugulară
+  (manubriul sternal) anteriorly și la level de vertebra proeminentă (apofiza spinoasă
+  C7) posteriorly. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology involving the inferior Coloană Cervicală, superior Coloană Toracală, and
-  adjacent soft tissue structures
-- Various suspiciune de fractură (including compression suspiciune de fractură) and
+- Pathology involving inferior Coloană Cervicală, superior Coloană Toracală, și adjacent
+  părți moi structures
+- Various suspiciune de fractură (including compression suspiciune de fractură) și
   subluxation
-- This is a good projection when C7 to T1 is not visualized on the lateral Coloană
-  Cervicală or when the upper thoracic vertebrae are of special interest on a lateral
-  Coloană Toracală.
+- This este good incidență when C7 la T1 este nu visualized pe lateral Coloană Cervicală
+  sau when upper coloană toracală sunt de special interest pe lateral Coloană Toracală.
 images:
 - caption: Fig. 8.63 Cervicothoracic
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.63 Cervicothoracic)
@@ -28,21 +27,22 @@ images:
   url: assets/images/protocols/bontrager/rx-t3-incidenta-de-profil-lateral-cervicothoracic-c5-coloana-cervicala-swimmer-s-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: A slight caudad angulation of 3° to 5° may be necessary to help separate the
-  shoulders farthest on the image. Orthostatic (Breathing) Technique If patient can
-  cooperate and remain immobilized, a low mA and 3or 4second exposure time can be
-  used, with patient breathing short, even breaths during the exposure to blur out
-  overlying lung structures. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s)
-  Fig. 8.63 Cervicothoracic (swimmer’s) lateral. Left Claviculă Left Humerus T1 C7
-  Fig. 8.64 Cervicothoracic (swimmer’s) lateral.
-position: 'Pacient: Ortostatism or Decubit Position Place patient in preferred Ortostatism
-  position (sitting or standing). The radiograph may be performed in the Decubit position
-  if the patient’s condition requires.; Regiune anatomică: Align midcoronal plane
-  to CR and midline of table and/or IR. Place patient’s arm and Umăr closest to the
-  IR up, flexing Cot and resting Antebraț on head for support. Position arm and Umăr
-  furthest from the IR down and rotate slightly posterior, to place the remote humeral
-  head posterior to vertebrae (Fig. 8.62). Ensure that Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase of thorax and head exists.'
+notes: slight caudal angulation de 3° la 5° poate fie necessary la help separate umerii
+  farthest pe imagine. Orthostatic (respirație) Technique If pacient poate cooperate
+  și remain imobilizat, low mA și 3or 4second expunere time poate fie used, cu pacient
+  respirație short, even breaths during expunere la blur out overlying lung structures.
+  Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) Fig. 8.63 Cervicothoracic
+  (swimmer’s) lateral. stâng Claviculă stâng Humerus T1 C7 Fig. 8.64 Cervicothoracic
+  (swimmer’s) lateral.
+position: 'Pacient: Ortostatism sau Decubit poziție Place pacient în preferred Ortostatism
+  poziție (așezat sau în ortostatism). radiografie poate fie performed în Decubit
+  poziție if pacientul’s condition requires.; Regiune anatomică: Align plan mediocoronal
+  la raza centrală și linia mediană mesei și/sau receptorul de imagine. Place pacient’s
+  braț și Umăr cel mai apropiat de receptorul de imagine up, flexing Cot și resting
+  Antebraț pe cap pentru support. poziție braț și Umăr cel mai depărtat de receptorul
+  de imagine down și rotate slightly posterior, la place remote cap humeral posterior
+  la vertebre (Fig. 8.62). Se verifică absența rotației: claviculele sunt riguros
+  echidistante față de linia proceselor spinoase thorax și cap exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,16 +50,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vertebral bodies and intervertebral disk spaces of C5 to T3 are shown.
-- The humeral head and arm farthest from the IR are magnified and appear inferior
-  to T4 or T5 (if visible) (Figs. 8.63 and 8.64). Position
-- Minimal vertebral rotation indicated by superimposition of cervical zygapophyseal
-  joints and articular pillars, and posterior Coaste (Grilaj Costal).
-- The humeral heads should be separated vertically.
-- Collimation to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of lower cervical and upper thoracic vertebrae.
-- no motion. Fig. 8.62 Cervicothoracic (swimmer’s) lateral.
+- Vertebral corpuri și intervertebral disk spaces de C5 la T3 sunt vizualizat.
+- cap humeral și braț farthest de la receptorul de imagine sunt magnified și appear
+  inferior la T4 sau T5 (if vizibil) (Figs. 8.63 și 8.64). poziție
+- Minimal vertebral rotație indicated prin superimposition de cervical zygapophyseal
+  articulații și articular pillars, și posterior Coaste (Grilaj Costal).
+- humeral heads trebuie să fie separated vertically.
+- Collimation la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de lower cervical și upper coloană toracală.
+- fără mișcare. Fig. 8.62 Cervicothoracic (swimmer’s) lateral.
 sid_dff: 180 cm
 slug: rx-t3-incidenta-de-profil-lateral-cervicothoracic-c5-coloana-cervicala-swimmer-s-bontrager
 sources:
@@ -67,7 +67,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,9 +95,9 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
 
     === "Indicații Clinice"
 
-        - Pathology involving the inferior Coloană Cervicală, superior Coloană Toracală, and adjacent soft tissue structures
-        - Various suspiciune de fractură (including compression suspiciune de fractură) and subluxation
-        - This is a good projection when C7 to T1 is not visualized on the lateral Coloană Cervicală or when the upper thoracic vertebrae are of special interest on a lateral Coloană Toracală.
+        - Pathology involving inferior Coloană Cervicală, superior Coloană Toracală, și adjacent părți moi structures
+        - Various suspiciune de fractură (including compression suspiciune de fractură) și subluxation
+        - This este good incidență when C7 la T1 este nu visualized pe lateral Coloană Cervicală sau when upper coloană toracală sunt de special interest pe lateral Coloană Toracală.
 
     === "Ghid Național IRIS"
 
@@ -111,10 +111,10 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism or Decubit Position Place patient in preferred Ortostatism position (sitting or standing). The radiograph may be performed in the Decubit position if the patient’s condition requires.; Regiune anatomică: Align midcoronal plane to CR and midline of table and/or IR. Place patient’s arm and Umăr closest to the IR up, flexing Cot and resting Antebraț on head for support. Position arm and Umăr furthest from the IR down and rotate slightly posterior, to place the remote humeral head posterior to vertebrae (Fig. 8.62). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax and head exists.
-    - **Punct de Centrare Fascicul:** perpendicular to IR (see NOTE). Direct CR to T1, which is approximately 1 inch (2.5 cm) above level of incizura jugulară (manubriul sternal) anteriorly and at level of vertebra proeminentă (apofiza spinoasă C7) posteriorly. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Ortostatism sau Decubit poziție Place pacient în preferred Ortostatism poziție (așezat sau în ortostatism). radiografie poate fie performed în Decubit poziție if pacientul’s condition requires.; Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau receptorul de imagine. Place pacient’s braț și Umăr cel mai apropiat de receptorul de imagine up, flexing Cot și resting Antebraț pe cap pentru support. poziție braț și Umăr cel mai depărtat de receptorul de imagine down și rotate slightly posterior, la place remote cap humeral posterior la vertebre (Fig. 8.62). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax și cap exists.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (see NOTE). Raza centrală se orientează spre T1, which este approximately 1 inch (2.5 cm) above level de incizura jugulară (manubriul sternal) anteriorly și la level de vertebra proeminentă (apofiza spinoasă C7) posteriorly. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Suspend respiration on full expiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe Expir complet.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,20 +128,20 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vertebral bodies and intervertebral disk spaces of C5 to T3 are shown.
-    - The humeral head and arm farthest from the IR are magnified and appear inferior to T4 or T5 (if visible) (Figs. 8.63 and 8.64). Position
-    - Minimal vertebral rotation indicated by superimposition of cervical zygapophyseal joints and articular pillars, and posterior Coaste (Grilaj Costal).
-    - The humeral heads should be separated vertically.
-    - Collimation to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of lower cervical and upper thoracic vertebrae.
-    - no motion. Fig. 8.62 Cervicothoracic (swimmer’s) lateral.
+    - Vertebral corpuri și intervertebral disk spaces de C5 la T3 sunt vizualizat.
+    - cap humeral și braț farthest de la receptorul de imagine sunt magnified și appear inferior la T4 sau T5 (if vizibil) (Figs. 8.63 și 8.64). poziție
+    - Minimal vertebral rotație indicated prin superimposition de cervical zygapophyseal articulații și articular pillars, și posterior Coaste (Grilaj Costal).
+    - humeral heads trebuie să fie separated vertically.
+    - Collimation la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de lower cervical și upper coloană toracală.
+    - fără mișcare. Fig. 8.62 Cervicothoracic (swimmer’s) lateral.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,7 +154,7 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    A slight caudad angulation of 3° to 5° may be necessary to help separate the shoulders farthest on the image. Orthostatic (Breathing) Technique If patient can cooperate and remain immobilized, a low mA and 3or 4second exposure time can be used, with patient breathing short, even breaths during the exposure to blur out overlying lung structures. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) Fig. 8.63 Cervicothoracic (swimmer’s) lateral. Left Claviculă Left Humerus T1 C7 Fig. 8.64 Cervicothoracic (swimmer’s) lateral.
+    slight caudal angulation de 3° la 5° poate fie necessary la help separate umerii farthest pe imagine. Orthostatic (respirație) Technique If pacient poate cooperate și remain imobilizat, low mA și 3or 4second expunere time poate fie used, cu pacient respirație short, even breaths during expunere la blur out overlying lung structures. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) Fig. 8.63 Cervicothoracic (swimmer’s) lateral. stâng Claviculă stâng Humerus T1 C7 Fig. 8.64 Cervicothoracic (swimmer’s) lateral.
 
 
 ### 🖼️ Imagini

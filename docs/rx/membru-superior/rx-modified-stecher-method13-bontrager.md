@@ -2,46 +2,46 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: 'angle with ulnar deviation Scaphoid projections: Mână elevated and ulnar
-  deviation, modified Incidență Scafoid (Metoda Stecher) Fig. 4.102 PA Pumn (Articulație
-  Radiocarpiană) for scaphoid as follows: Mână elevated 20°; ulnar deviation, if possible;
-  no CR angle.'
+centering: 'angle cu ulnar deviation Scaphoid incidențe: Mână ridicat și ulnar deviation,
+  modified Incidență Scafoid (Metoda Stecher) Fig. 4.102 PA Pumn (Articulație Radiocarpiană)
+  pentru scaphoid ca follows: Mână ridicat 20°; ulnar deviation, if possible; fără
+  raza centrală angle.'
 clinical_indications:
-- Possible suspiciune de fractură of the scaphoid This is an alternative projection
-  to the CR angle ulnar deviation method demonstrated on the preceding page.
+- Possible suspiciune de fractură de scaphoid This este alternative incidență la raza
+  centrală angle ulnar deviation method evidențiat pe preceding page.
 images:
-- caption: Fig. 4.105 Mână elevated, no
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.105 Hand elevated,
-    no)
+- caption: Fig. 4.105 Mână ridicat, fără
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.105 mână ridicat,
+    fără)
   url: assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_1.jpeg
-- caption: 'Fig. 4.102 PA Pumn (Articulație Radiocarpiană) for scaphoid as follows:
-    Mână elevated 20°; ulnar'
+- caption: 'Fig. 4.102 PA Pumn (Articulație Radiocarpiană) pentru scaphoid ca follows:
+    Mână ridicat 20°; ulnar'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.102
-    PA wrist for scaphoid as follows: hand elevated 20°; ulnar)'
+    PA wrist pentru scaphoid ca follows: mână ridicat 20°; ulnar)'
   url: assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_2.jpeg
-- caption: 'Fig. 4.103 Severe pain as follows: Mână elevated 20°; no ulnar'
+- caption: 'Fig. 4.103 Severe pain ca follows: Mână ridicat 20°; fără ulnar'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.103
-    Severe pain as follows: hand elevated 20°; no ulnar)'
+    Severe pain ca follows: mână ridicat 20°; fără ulnar)'
   url: assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_3.jpeg
-- caption: Fig. 4.104 Mână elevated, ulnar
+- caption: Fig. 4.104 Mână ridicat, ulnar
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.104
-    Hand elevated, ulnar)
+    mână ridicat, ulnar)
   url: assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Stecher12 indicated that elevation of the Mână 20° rather than angling of
-  CR places the scaphoid parallel to the IR. Stecher also suggested that clenching
-  of the fist is an alternative to elevation of the Mână or angling of the CR. Bridgman14
-  recommended ulnar deviation in addition to Mână elevation, for less scaphoid superimposition.
-  Fig. 4.105 Mână elevated, no ulnar deviation or CR angle. Pumn (Articulație Radiocarpiană)
-  ALTERNATE Scaphoid projections:'
-position: 'Pacient: Seat patient at end of table with Mână and Antebraț extended.
-  Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal
-  plane.; Regiune anatomică: Place Mână and Pumn (Articulație Radiocarpiană) palm
-  down on IR with Mână elevated on 20° angle sponge (Fig. 4.102). Ensure that Pumn
-  (Articulație Radiocarpiană) is in direct contact with IR. Gently evert or turn Mână
-  outward (toward ulnar side) unless contraindicated because of severe injury (Fig.
-  4.103).'
+notes: 'Stecher12 indicated that elevation de Mână 20° rather than angling de raza
+  centrală places scaphoid paralel cu receptorul de imagine (RI). Stecher also suggested
+  that clenching de fist este alternative la elevation de Mână sau angling de raza
+  centrală. Bridgman14 recommended ulnar deviation în addition la Mână elevation,
+  pentru less scaphoid superimposition. Fig. 4.105 Mână ridicat, fără ulnar deviation
+  sau raza centrală angle. Pumn (Articulație Radiocarpiană) ALTERNATE Scaphoid incidențe:'
+position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop
+  Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.;
+  Regiune anatomică: Place Mână și Pumn (Articulație Radiocarpiană) palm down pe receptorul
+  de imagine cu Mână ridicat pe 20° angle sponge (Fig. 4.102). Ensure that Pumn (Articulație
+  Radiocarpiană) este în direct contact cu receptorul de imagine. Gently evert sau
+  turn Mână outward (spre ulnar side) unless contraindicated because de severe injury
+  (Fig. 4.103).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,23 +49,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal radius and ulna, carpals, and proximal metacarpals are visible.
-- Carpals are visible, with adjacent interspaces more open on the lateral (radial)
-  side of the Pumn (Articulație Radiocarpiană).
-- 'Scaphoid is shown, without foreshortening or superimposition of adjoining carpals
-  (Figs. 4.104 and 4.105). Position:'
-- Long axis of Pumn (Articulație Radiocarpiană) and Antebraț should be aligned with
-  side border of IR.
-- Ulnar deviation is evidenced by only minimal, if any, superimposition of distal
+- distal radius și ulna, oase carpiene, și proximal oase metacarpiene sunt vizibil.
+- oase carpiene sunt vizibil, cu adjacent interspaces more open pe lateral (radial)
+  side de Pumn (Articulație Radiocarpiană).
+- 'Scaphoid este vizualizat, fără foreshortening sau superimposition de adjoining
+  oase carpiene (Figs. 4.104 și 4.105). poziție:'
+- axa longitudinală de Pumn (Articulație Radiocarpiană) și Antebraț trebuie să fie
+  aliniat cu side margine de receptorul de imagine.
+- Ulnar deviation este evidenced prin only minimal, if orice, superimposition de distal
   scaphoid.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of Pumn (Articulație Radiocarpiană) is evidenced by the appearance of distal radius
-  and ulna with no or only minimal superimposition of distal radioulnar joint.'
-- 'CR and center of collimation field size should be to scaphoid. Exposure:'
-- 'Optimal image receptor exposure and contrast with no motion visualize the scaphoid
-  borders and clear, Contururi osoase și travee trabeculare nete, fără artefacte de
-  mișcare. Fig. 4.103 Severe pain as follows: Mână elevated 20°; no ulnar deviation;
-  no CR angle. R Fig. 4.104 Mână elevated, ulnar deviation, and no CR angle.'
+  de Pumn (Articulație Radiocarpiană) este evidenced prin appearance de distal radius
+  și ulna cu fără sau only minimal superimposition de distal radioulnar articulație.'
+- 'raza centrală și center de collimation field size trebuie să fie la scaphoid. expunere:'
+- 'optim receptorul de imagine expunere și contrast cu fără mișcare visualize scaphoid
+  margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte de
+  mișcare. Fig. 4.103 Severe pain ca follows: Mână ridicat 20°; fără ulnar deviation;
+  fără raza centrală angle. R Fig. 4.104 Mână ridicat, ulnar deviation, și fără raza
+  centrală angle.'
 sid_dff: 100 cm
 slug: rx-modified-stecher-method13-bontrager
 sources:
@@ -73,7 +74,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to carpal region.
+  collimation: Field Size Collimate pe four sides la carpal region.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -100,7 +101,7 @@ title: Rx MODIFIED STECHER METHOD13
 
     === "Indicații Clinice"
 
-        - Possible suspiciune de fractură of the scaphoid This is an alternative projection to the CR angle ulnar deviation method demonstrated on the preceding page.
+        - Possible suspiciune de fractură de scaphoid This este alternative incidență la raza centrală angle ulnar deviation method evidențiat pe preceding page.
 
     === "Ghid Național IRIS"
 
@@ -114,8 +115,8 @@ title: Rx MODIFIED STECHER METHOD13
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table with Mână and Antebraț extended. Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal plane.; Regiune anatomică: Place Mână and Pumn (Articulație Radiocarpiană) palm down on IR with Mână elevated on 20° angle sponge (Fig. 4.102). Ensure that Pumn (Articulație Radiocarpiană) is in direct contact with IR. Gently evert or turn Mână outward (toward ulnar side) unless contraindicated because of severe injury (Fig. 4.103).
-    - **Punct de Centrare Fascicul:** angle with ulnar deviation Scaphoid projections: Mână elevated and ulnar deviation, modified Incidență Scafoid (Metoda Stecher) Fig. 4.102 PA Pumn (Articulație Radiocarpiană) for scaphoid as follows: Mână elevated 20°; ulnar deviation, if possible; no CR angle.
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.; Regiune anatomică: Place Mână și Pumn (Articulație Radiocarpiană) palm down pe receptorul de imagine cu Mână ridicat pe 20° angle sponge (Fig. 4.102). Ensure that Pumn (Articulație Radiocarpiană) este în direct contact cu receptorul de imagine. Gently evert sau turn Mână outward (spre ulnar side) unless contraindicated because de severe injury (Fig. 4.103).
+    - **Punct de Centrare Fascicul:** angle cu ulnar deviation Scaphoid incidențe: Mână ridicat și ulnar deviation, modified Incidență Scafoid (Metoda Stecher) Fig. 4.102 PA Pumn (Articulație Radiocarpiană) pentru scaphoid ca follows: Mână ridicat 20°; ulnar deviation, if possible; fără raza centrală angle.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -131,21 +132,21 @@ title: Rx MODIFIED STECHER METHOD13
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to carpal region. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la carpal region. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal radius and ulna, carpals, and proximal metacarpals are visible.
-    - Carpals are visible, with adjacent interspaces more open on the lateral (radial) side of the Pumn (Articulație Radiocarpiană).
-    - Scaphoid is shown, without foreshortening or superimposition of adjoining carpals (Figs. 4.104 and 4.105). Position:
-    - Long axis of Pumn (Articulație Radiocarpiană) and Antebraț should be aligned with side border of IR.
-    - Ulnar deviation is evidenced by only minimal, if any, superimposition of distal scaphoid.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Pumn (Articulație Radiocarpiană) is evidenced by the appearance of distal radius and ulna with no or only minimal superimposition of distal radioulnar joint.
-    - CR and center of collimation field size should be to scaphoid. Exposure:
-    - Optimal image receptor exposure and contrast with no motion visualize the scaphoid borders and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.103 Severe pain as follows: Mână elevated 20°; no ulnar deviation; no CR angle. R Fig. 4.104 Mână elevated, ulnar deviation, and no CR angle.
+    - distal radius și ulna, oase carpiene, și proximal oase metacarpiene sunt vizibil.
+    - oase carpiene sunt vizibil, cu adjacent interspaces more open pe lateral (radial) side de Pumn (Articulație Radiocarpiană).
+    - Scaphoid este vizualizat, fără foreshortening sau superimposition de adjoining oase carpiene (Figs. 4.104 și 4.105). poziție:
+    - axa longitudinală de Pumn (Articulație Radiocarpiană) și Antebraț trebuie să fie aliniat cu side margine de receptorul de imagine.
+    - Ulnar deviation este evidenced prin only minimal, if orice, superimposition de distal scaphoid.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Pumn (Articulație Radiocarpiană) este evidenced prin appearance de distal radius și ulna cu fără sau only minimal superimposition de distal radioulnar articulație.
+    - raza centrală și center de collimation field size trebuie să fie la scaphoid. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare visualize scaphoid margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.103 Severe pain ca follows: Mână ridicat 20°; fără ulnar deviation; fără raza centrală angle. R Fig. 4.104 Mână ridicat, ulnar deviation, și fără raza centrală angle.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,7 +159,7 @@ title: Rx MODIFIED STECHER METHOD13
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Stecher12 indicated that elevation of the Mână 20° rather than angling of CR places the scaphoid parallel to the IR. Stecher also suggested that clenching of the fist is an alternative to elevation of the Mână or angling of the CR. Bridgman14 recommended ulnar deviation in addition to Mână elevation, for less scaphoid superimposition. Fig. 4.105 Mână elevated, no ulnar deviation or CR angle. Pumn (Articulație Radiocarpiană) ALTERNATE Scaphoid projections:
+    Stecher12 indicated that elevation de Mână 20° rather than angling de raza centrală places scaphoid paralel cu receptorul de imagine (RI). Stecher also suggested that clenching de fist este alternative la elevation de Mână sau angling de raza centrală. Bridgman14 recommended ulnar deviation în addition la Mână elevation, pentru less scaphoid superimposition. Fig. 4.105 Mână ridicat, fără ulnar deviation sau raza centrală angle. Pumn (Articulație Radiocarpiană) ALTERNATE Scaphoid incidențe:
 
 
 ### 🖼️ Imagini
@@ -167,33 +168,33 @@ title: Rx MODIFIED STECHER METHOD13
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.105 Mână elevated, no](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_1.jpeg)
+![Fig. 4.105 Mână ridicat, fără](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.105 Mână elevated, no</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.105 Hand elevated, no)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.102 PA Pumn (Articulație Radiocarpiană) for scaphoid as follows: Mână elevated 20°; ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.102 PA Pumn (Articulație Radiocarpiană) for scaphoid as follows: Mână elevated 20°; ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.102 PA wrist for scaphoid as follows: hand elevated 20°; ulnar)</span></figcaption>
+<figcaption><strong>Fig. 4.105 Mână ridicat, fără</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.105 mână ridicat, fără)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.103 Severe pain as follows: Mână elevated 20°; no ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_3.jpeg)
+![Fig. 4.102 PA Pumn (Articulație Radiocarpiană) pentru scaphoid ca follows: Mână ridicat 20°; ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.103 Severe pain as follows: Mână elevated 20°; no ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.103 Severe pain as follows: hand elevated 20°; no ulnar)</span></figcaption>
+<figcaption><strong>Fig. 4.102 PA Pumn (Articulație Radiocarpiană) pentru scaphoid ca follows: Mână ridicat 20°; ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.102 PA wrist pentru scaphoid ca follows: mână ridicat 20°; ulnar)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.104 Mână elevated, ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_4.jpeg)
+![Fig. 4.103 Severe pain ca follows: Mână ridicat 20°; fără ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.104 Mână elevated, ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.104 Hand elevated, ulnar)</span></figcaption>
+<figcaption><strong>Fig. 4.103 Severe pain ca follows: Mână ridicat 20°; fără ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.103 Severe pain ca follows: mână ridicat 20°; fără ulnar)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.104 Mână ridicat, ulnar](../../assets/images/protocols/bontrager/rx-modified-stecher-method13-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.104 Mână ridicat, ulnar</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.104 mână ridicat, ulnar)</span></figcaption>
 
 </figure>
 

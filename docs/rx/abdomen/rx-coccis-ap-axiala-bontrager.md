@@ -1,33 +1,35 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration to limit patient motion.
+breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
+  pacientului.
 category: abdomen
-centering: Angle CR 10° caudad. Direct CR 2 inches (5 cm) superior to simfiza pubiană.
-  Center IR to CR.
+centering: Raza centrală se înclină 10° caudal (spre picioare). Direct raza centrală
+  2 inches (5 cm) superior la simfiza pubiană. Se centrează receptorul de imagine
+  pe raza centrală.
 clinical_indications:
-- Pathology of the Coccis including suspiciune de fractură
+- Pathology de Coccis including suspiciune de fractură
 images:
-- caption: Fig. 9.68 AP axial Coccis—10° caudad.
+- caption: Fig. 9.68 AP axial Coccis—10° caudal.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.68 AP axial
-    coccyx—10° caudad.)
+    coccyx—10° caudal.)
   url: assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_1.jpeg
-- caption: Fig. 9.67 AP axial Coccis—10° caudad.
+- caption: Fig. 9.67 AP axial Coccis—10° caudal.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.67
-    AP axial coccyx—10° caudad.)
+    AP axial coccyx—10° caudal.)
   url: assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Technologist may have to increase CR angle to 15° caudad with a greater
-  anterior curvature of the Coccis if apparent by palpation or as evidenced on the
-  lateral. This projection also may be performed Decubit Ventral (angle 10° cephalad)
-  if necessary for patient’s condition, with CR centered to the Coccis, which can
-  be localized using the marele trohanter. Sacru și Coccis ROUTINE AP axial Sacru
-  AP axial Coccis Lateral'
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side and head on pillow and legs extended with support under knees for comfort.;
-  Regiune anatomică: Align midsagittal plane to midline of table and/or IR (Fig. 9.67).
-  Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of the Bazin (Pelvis) exists.'
+notes: 'S: Technologist poate have la increase raza centrală angle la 15° caudal cu
+  greater anterior curvature de Coccis if apparent prin palpation sau ca evidenced
+  pe lateral. This incidență also poate fie performed Decubit ventral (angle 10° cranial)
+  if necessary pentru pacient’s condition, cu raza centrală centrat pe Coccis, which
+  poate fie localized using marele trohanter. Sacru și Coccis ROUTINE AP axial Sacru
+  AP axial Coccis lateral'
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side
+  și cap pe pillow și membre inferioare extins cu support under genunchi pentru comfort.;
+  Regiune anatomică: Align plan mediosagital la linia mediană mesei și/sau receptorul
+  de imagine (Fig. 9.67). Se verifică absența rotației: claviculele sunt riguros echidistante
+  față de linia proceselor spinoase Bazin (bazin (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -35,18 +37,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Coccis (Fig. 9.68) Position
-- Correct Coccis and CR alignment demonstrates Coccis free of superimposition and
-  projected superior to pubis.
-- Coccygeal segments should appear open. If not, they may be fused or CR angle may
-  have to be increased (greater curvature of the Coccis requires greater CR angle).
-- Coccis should appear equidistant from the lateral walls of the pelvic opening, indicating
-  no patient rotation.
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of Coccis.
-- No motion. 18 24 R Fig. 9.68 AP axial Coccis—10° caudad. Fig. 9.67 AP axial Coccis—10°
-  caudad.
+- Coccis (Fig. 9.68) poziție
+- Correct Coccis și raza centrală alignment evidențiază Coccis liber de superimposition
+  și projected superior la pubis.
+- Coccygeal segments trebuie să appear open. If nu, they poate fie fused sau raza
+  centrală angle poate have la fie increased (greater curvature de Coccis requires
+  greater raza centrală angle).
+- Coccis trebuie să appear echidistant față de lateral pereți de pelvic opening, indicating
+  fără pacient rotație.
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de Coccis.
+- fără mișcare. 18 24 R Fig. 9.68 AP axial Coccis—10° caudal. Fig. 9.67 AP axial Coccis—10°
+  caudal.
 sid_dff: 100 cm
 slug: rx-coccis-ap-axiala-bontrager
 sources:
@@ -54,7 +57,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -81,7 +84,7 @@ title: Rx Coccis AP Axială
 
     === "Indicații Clinice"
 
-        - Pathology of the Coccis including suspiciune de fractură
+        - Pathology de Coccis including suspiciune de fractură
 
     === "Ghid Național IRIS"
 
@@ -95,10 +98,10 @@ title: Rx Coccis AP Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side and head on pillow and legs extended with support under knees for comfort.; Regiune anatomică: Align midsagittal plane to midline of table and/or IR (Fig. 9.67). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** Angle CR 10° caudad. Direct CR 2 inches (5 cm) superior to simfiza pubiană. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side și cap pe pillow și membre inferioare extins cu support under genunchi pentru comfort.; Regiune anatomică: Align plan mediosagital la linia mediană mesei și/sau receptorul de imagine (Fig. 9.67). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 10° caudal (spre picioare). Direct raza centrală 2 inches (5 cm) superior la simfiza pubiană. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration to limit patient motion.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -112,20 +115,20 @@ title: Rx Coccis AP Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Coccis (Fig. 9.68) Position
-    - Correct Coccis and CR alignment demonstrates Coccis free of superimposition and projected superior to pubis.
-    - Coccygeal segments should appear open. If not, they may be fused or CR angle may have to be increased (greater curvature of the Coccis requires greater CR angle).
-    - Coccis should appear equidistant from the lateral walls of the pelvic opening, indicating no patient rotation.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of Coccis.
-    - No motion. 18 24 R Fig. 9.68 AP axial Coccis—10° caudad. Fig. 9.67 AP axial Coccis—10° caudad.
+    - Coccis (Fig. 9.68) poziție
+    - Correct Coccis și raza centrală alignment evidențiază Coccis liber de superimposition și projected superior la pubis.
+    - Coccygeal segments trebuie să appear open. If nu, they poate fie fused sau raza centrală angle poate have la fie increased (greater curvature de Coccis requires greater raza centrală angle).
+    - Coccis trebuie să appear echidistant față de lateral pereți de pelvic opening, indicating fără pacient rotație.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de Coccis.
+    - fără mișcare. 18 24 R Fig. 9.68 AP axial Coccis—10° caudal. Fig. 9.67 AP axial Coccis—10° caudal.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -138,7 +141,7 @@ title: Rx Coccis AP Axială
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Technologist may have to increase CR angle to 15° caudad with a greater anterior curvature of the Coccis if apparent by palpation or as evidenced on the lateral. This projection also may be performed Decubit Ventral (angle 10° cephalad) if necessary for patient’s condition, with CR centered to the Coccis, which can be localized using the marele trohanter. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis Lateral
+    S: Technologist poate have la increase raza centrală angle la 15° caudal cu greater anterior curvature de Coccis if apparent prin palpation sau ca evidenced pe lateral. This incidență also poate fie performed Decubit ventral (angle 10° cranial) if necessary pentru pacient’s condition, cu raza centrală centrat pe Coccis, which poate fie localized using marele trohanter. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis lateral
 
 
 ### 🖼️ Imagini
@@ -147,17 +150,17 @@ title: Rx Coccis AP Axială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.68 AP axial Coccis—10° caudad.](../../assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_1.jpeg)
+![Fig. 9.68 AP axial Coccis—10° caudal.](../../assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.68 AP axial Coccis—10° caudad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.68 AP axial coccyx—10° caudad.)</span></figcaption>
+<figcaption><strong>Fig. 9.68 AP axial Coccis—10° caudal.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.68 AP axial coccyx—10° caudal.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.67 AP axial Coccis—10° caudad.](../../assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_2.jpeg)
+![Fig. 9.67 AP axial Coccis—10° caudal.](../../assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.67 AP axial Coccis—10° caudad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.67 AP axial coccyx—10° caudad.)</span></figcaption>
+<figcaption><strong>Fig. 9.67 AP axial Coccis—10° caudal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.67 AP axial coccyx—10° caudal.)</span></figcaption>
 
 </figure>
 

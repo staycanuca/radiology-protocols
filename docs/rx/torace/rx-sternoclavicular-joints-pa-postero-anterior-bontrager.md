@@ -1,34 +1,34 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend on expiration. Sternoclavicular Joints ROUTINE PA Anterior oblique
-  Fig. 10.27 PA bilateral, SC joints.
+breathing: apnee (oprirea respirației) pe expiration. articulații sternoclaviculare
+  ROUTINE PA anterior oblic Fig. 10.27 PA bilateral, articulații sternoclaviculare.
 category: torace
-centering: perpendicular to IR, centered to midsagittal plane at the level of T2–T3,
-  or 3 inches (7 cm) distal to vertebra proeminentă (apofiza spinoasă C7) (spinous
-  process of C7)
+centering: perpendicular pe receptorul de imagine, centrat pe plan mediosagital la
+  nivelul T2–T3, sau 3 inches (7 cm) distal la vertebra proeminentă (apofiza spinoasă
+  C7) (spinous process de C7)
 clinical_indications:
-- Joint subluxation or other pathology of the sternoclavicular joints
+- articulație subluxation sau other pathology de articulații sternoclaviculare
 images:
-- caption: Fig. 10.27 PA bilateral, SC joints.
+- caption: Fig. 10.27 PA bilateral, articulații sternoclaviculare.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.27 PA bilateral,
-    SC joints.)
+    articulații sternoclaviculare.)
   url: assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_1.jpeg
-- caption: Fig. 10.28 PA bilateral, SC joints.
+- caption: Fig. 10.28 PA bilateral, articulații sternoclaviculare.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.28
-    PA bilateral, SC joints.)
+    PA bilateral, articulații sternoclaviculare.)
   url: assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_2.jpeg
-- caption: Fig. 10.29 PA bilateral, SC joints.
+- caption: Fig. 10.29 PA bilateral, articulații sternoclaviculare.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.29
-    PA bilateral, SC joints.)
+    PA bilateral, articulații sternoclaviculare.)
   url: assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Patient Decubit Ventral with head straight and chin resting on
-  radiolucent positioning sponge, arms up beside head or down by side (Fig. 10.27).
-  Projection may also be taken Ortostatism.; Regiune anatomică: Align midsagittal
-  plan to the midline of IR. Allow Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase of shoulders or thorax.'
+position: 'Pacient: pacient Decubit ventral cu cap straight și chin resting pe radiolucent
+  positioning sponge, brațe up beside cap sau down prin side (Fig. 10.27). incidență
+  poate also fie taken Ortostatism.; Regiune anatomică: Align midsagittal plan pe
+  linia mediană receptorul de imagine. Allow Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase de umeri sau thorax.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -36,19 +36,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Bilateral right and left sternoclavicular joints equidistant from the Coloană Toracală.
-  Lateral aspect of manubrium and medial portion of the clavicles visualized lateral
-  to vertebral column through superimposing Coaste (Grilaj Costal) and lungs (Figs.
-  10.28 and 10.29). Position:'
+- 'bilateral drept și stâng articulații sternoclaviculare echidistant față de Coloană
+  Toracală. lateral aspect de manubriu sternal și medial portion de clavicles visualized
+  lateral la coloană vertebrală through superimposing Coaste (Grilaj Costal) și plămâni
+  (Figs. 10.28 și 10.29). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of patient, as demonstrated by equal distance of sternoclavicular joints from vertebral
-  column on both sides.'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the manubrium and medial
-  portion of the clavicles through superimposing Coaste (Grilaj Costal) and lungs.
-- no motion, as indicated by sharp bony margins. L Fig. 10.28 PA bilateral, SC joints.
-  Manubrium Left sternoclavicular joint Right sternoclavicular joint Right Claviculă
-  Left Claviculă L Fig. 10.29 PA bilateral, SC joints.
+  de pacient, ca evidențiat prin equal distance de articulații sternoclaviculare de
+  la coloană vertebrală pe ambele părți (bilateral).'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize manubriu sternal și
+  medial portion de clavicles through superimposing Coaste (Grilaj Costal) și plămâni.
+- fără mișcare, ca indicated prin net bony margins. L Fig. 10.28 PA bilateral, articulații
+  sternoclaviculare. manubriu sternal stâng articulații sternoclaviculare drept articulații
+  sternoclaviculare drept Claviculă stâng Claviculă L Fig. 10.29 PA bilateral, articulații
+  sternoclaviculare.
 sid_dff: 100 cm
 slug: rx-sternoclavicular-joints-pa-postero-anterior-bontrager
 sources:
@@ -56,8 +57,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate tightly to the region of the sternoclavicular joints (approximately
-    2 inches [5 cm] on either side of the Coloană Toracală).
+  collimation: Collimate tightly la region de articulații sternoclaviculare (approximately
+    2 inches [5 cm] pe either side de Coloană Toracală).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -84,7 +85,7 @@ title: Rx STERNOCLAVICULAR JOINTS PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Joint subluxation or other pathology of the sternoclavicular joints
+        - articulație subluxation sau other pathology de articulații sternoclaviculare
 
     === "Ghid Național IRIS"
 
@@ -98,10 +99,10 @@ title: Rx STERNOCLAVICULAR JOINTS PA (Postero-Anterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Decubit Ventral with head straight and chin resting on radiolucent positioning sponge, arms up beside head or down by side (Fig. 10.27). Projection may also be taken Ortostatism.; Regiune anatomică: Align midsagittal plan to the midline of IR. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of shoulders or thorax.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered to midsagittal plane at the level of T2–T3, or 3 inches (7 cm) distal to vertebra proeminentă (apofiza spinoasă C7) (spinous process of C7)
+    - **Poziție Pacient:** Pacient: pacient Decubit ventral cu cap straight și chin resting pe radiolucent positioning sponge, brațe up beside cap sau down prin side (Fig. 10.27). incidență poate also fie taken Ortostatism.; Regiune anatomică: Align midsagittal plan pe linia mediană receptorul de imagine. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de umeri sau thorax.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe plan mediosagital la nivelul T2–T3, sau 3 inches (7 cm) distal la vertebra proeminentă (apofiza spinoasă C7) (spinous process de C7)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend on expiration. Sternoclavicular Joints ROUTINE PA Anterior oblique Fig. 10.27 PA bilateral, SC joints.
+    - **Comandă Respiratorie:** apnee (oprirea respirației) pe expiration. articulații sternoclaviculare ROUTINE PA anterior oblic Fig. 10.27 PA bilateral, articulații sternoclaviculare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -115,18 +116,18 @@ title: Rx STERNOCLAVICULAR JOINTS PA (Postero-Anterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate tightly to the region of the sternoclavicular joints (approximately 2 inches [5 cm] on either side of the Coloană Toracală). |
+    | **Colimare Fascicul** | Collimate tightly la region de articulații sternoclaviculare (approximately 2 inches [5 cm] pe either side de Coloană Toracală). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Bilateral right and left sternoclavicular joints equidistant from the Coloană Toracală. Lateral aspect of manubrium and medial portion of the clavicles visualized lateral to vertebral column through superimposing Coaste (Grilaj Costal) and lungs (Figs. 10.28 and 10.29). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of patient, as demonstrated by equal distance of sternoclavicular joints from vertebral column on both sides.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the manubrium and medial portion of the clavicles through superimposing Coaste (Grilaj Costal) and lungs.
-    - no motion, as indicated by sharp bony margins. L Fig. 10.28 PA bilateral, SC joints. Manubrium Left sternoclavicular joint Right sternoclavicular joint Right Claviculă Left Claviculă L Fig. 10.29 PA bilateral, SC joints.
+    - bilateral drept și stâng articulații sternoclaviculare echidistant față de Coloană Toracală. lateral aspect de manubriu sternal și medial portion de clavicles visualized lateral la coloană vertebrală through superimposing Coaste (Grilaj Costal) și plămâni (Figs. 10.28 și 10.29). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de pacient, ca evidențiat prin equal distance de articulații sternoclaviculare de la coloană vertebrală pe ambele părți (bilateral).
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize manubriu sternal și medial portion de clavicles through superimposing Coaste (Grilaj Costal) și plămâni.
+    - fără mișcare, ca indicated prin net bony margins. L Fig. 10.28 PA bilateral, articulații sternoclaviculare. manubriu sternal stâng articulații sternoclaviculare drept articulații sternoclaviculare drept Claviculă stâng Claviculă L Fig. 10.29 PA bilateral, articulații sternoclaviculare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,25 +147,25 @@ title: Rx STERNOCLAVICULAR JOINTS PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.27 PA bilateral, SC joints.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 10.27 PA bilateral, articulații sternoclaviculare.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.27 PA bilateral, SC joints.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.27 PA bilateral, SC joints.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 10.28 PA bilateral, SC joints.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 10.28 PA bilateral, SC joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.28 PA bilateral, SC joints.)</span></figcaption>
+<figcaption><strong>Fig. 10.27 PA bilateral, articulații sternoclaviculare.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.27 PA bilateral, articulații sternoclaviculare.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.29 PA bilateral, SC joints.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_3.jpeg)
+![Fig. 10.28 PA bilateral, articulații sternoclaviculare.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.29 PA bilateral, SC joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.29 PA bilateral, SC joints.)</span></figcaption>
+<figcaption><strong>Fig. 10.28 PA bilateral, articulații sternoclaviculare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.28 PA bilateral, articulații sternoclaviculare.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 10.29 PA bilateral, articulații sternoclaviculare.](../../assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 10.29 PA bilateral, articulații sternoclaviculare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.29 PA bilateral, articulații sternoclaviculare.)</span></figcaption>
 
 </figure>
 

@@ -1,37 +1,38 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Umăr (traumatism acuttism / Regim
-  Urgență) SPECIAL Supraspinatus outlet (Metoda Neer)
+breathing: Apnee pe durata expunerii. Umăr (traumatism acuttism / Regim Urgență) SPECIAL
+  Supraspinatus outlet (Metoda Neer)
 category: membru-superior
-centering: Requires 10° to 15° CR caudal angle, centered posteriorly to pass through
-  superior margin of humeral head, which is located approximately 1 inch (2.5 cm)
-  superior to medial aspect of scapular spine.12
+centering: Requires 10° la 15° raza centrală caudal angle, centrat posteriorly la
+  pass through superior margin de cap humeral, which este located approximately 1
+  inch (2.5 cm) superior la medial aspect de scapular coloană vertebrală.12
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and
+- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și
   Omoplat (Scapulă)
-- Specifically demonstrates coracoacromial arch for supraspinatus outlet region for
-  possible Umăr impingement11
+- Specifically evidențiază coracoacromial arch pentru supraspinatus outlet region
+  pentru possible Umăr impingement11
 images:
-- caption: Fig. 5.82). • Collimation field size to area of interest.
+- caption: Fig. 5.82). • Collimation field size la aria de interes diagnostic.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.82). • Collimation
-    field size to area of interest.)
+    field size la aria de interes diagnostic.)
   url: assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_1.jpeg
-- caption: Fig. 5.81 Tangential projection—Metoda Neer with CR 10° to 15°
+- caption: Fig. 5.81 tangențial incidență—Metoda Neer cu raza centrală 10° la 15°
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.81
-    Tangential projection—Neer method with CR 10° to 15°)
+    tangențial incidență—Neer method cu raza centrală 10° la 15°)
   url: assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Take radiograph with patient in Ortostatism or Decubit position.
-  (The Ortostatism position is usually more comfortable for patient.); Regiune anatomică:
-  With patient facing IR, rotate into anterior Incidență Oblică as for a lateral Omoplat
-  (Scapulă). Palpate superior angle of Omoplat (Scapulă) and AC joint articulation.
-  Rotate patient until an imaginary line between those two points is perpendicular
-  to IR. Because of differences among patients, the amount of body obliquity may range
-  from 45° to 60°. Center scapulohumeral joint to CR and to center of IR (Fig. 5.81).
-  Abduct arm slightly so as not to superimpose proximal Humerus over Coaste (Grilaj
-  Costal); do not attempt to rotate arm.'
+position: 'Pacient: Take radiografie cu pacient în Ortostatism sau Decubit poziție.
+  (Ortostatism poziție este usually more comfortable pentru pacient.); Regiune anatomică:
+  cu pacient facing receptorul de imagine, rotate into anterior Incidență Oblică ca
+  pentru lateral Omoplat (Scapulă). Palpate superior angle de Omoplat (Scapulă) și
+  articulații acromioclaviculare articulation. Rotate pacient until imaginary line
+  între those two points este perpendicular pe receptorul de imagine. Because de differences
+  among pacienți, amount de corp obliquity poate range de la 45° la 60°. Center scapulohumeral
+  articulație la raza centrală și la center de receptorul de imagine (Fig. 5.81).
+  Abduct braț slightly so ca nu la superimpose proximal Humerus over Coaste (Grilaj
+  Costal); do nu attempt la rotate braț.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,21 +40,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Proximal Humerus is superimposed over thin body of the Omoplat (Scapulă), which
-  should be seen on end without rib superimposition. Position:'
-- Acromion and coracoid processes should appear as nearly symmetric upper limbs of
-  the Y.
-- The humeral head should appear superimposed and centered to the glenoid fossa just
-  below the supraspinatus outlet region.
-- The supraspinatus outlet region appears open, free of superimposition by the humeral
-  head (see arrow in Fig. 5.82).
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast demonstrate the Y appearance of the
-  upper lateral Omoplat (Scapulă) superimposed by the humeral head with outline of
-  the body of the Omoplat (Scapulă) visible through the Humerus.
-- Bony margins appear clear and sharp, indicating no motion. Fig. 5.81 Tangential
-  projection—Metoda Neer with CR 10° to 15° caudal angle. Fig. 5.82 Tangential projection—Metoda
-  Neer. (Courtesy Joss Wertz, DO.)
+- 'proximal Humerus este superimposed over thin corp de Omoplat (Scapulă), which trebuie
+  să fie seen pe end fără rib superimposition. poziție:'
+- acromion și coracoid processes trebuie să appear ca nearly simetric upper limbs
+  de Y.
+- cap humeral trebuie să appear superimposed și centrat pe cavitate glenoidă just
+  below supraspinatus outlet region.
+- supraspinatus outlet region appears open, liber de superimposition prin cap humeral
+  (see arrow în Fig. 5.82).
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast evidențiază Y appearance de upper
+  lateral Omoplat (Scapulă) superimposed prin cap humeral cu outline de corp de Omoplat
+  (Scapulă) vizibil through Humerus.
+- Bony margins appear clear și net, indicating fără mișcare. Fig. 5.81 tangențial
+  incidență—Metoda Neer cu raza centrală 10° la 15° caudal angle. Fig. 5.82 tangențial
+  incidență—Metoda Neer. (Courtesy Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager
 sources:
@@ -61,16 +62,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to area of interest.
+  collimation: Field Size Collimate pe four sides la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism /
-  Regim Urgență) - NEER METHOD10)
+title: Rx SUPRASPINATUS OUTLET TANGENTIAL Incidență (Umăr (traumatism acuttism / Regim
+  Urgență) - NEER METHOD10)
 ---
-# Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism / Regim Urgență) - NEER METHOD10)
+# Rx SUPRASPINATUS OUTLET TANGENTIAL Incidență (Umăr (traumatism acuttism / Regim Urgență) - NEER METHOD10)
 
 
 <div class="rx-meta-bar">
@@ -89,8 +90,8 @@ title: Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and Omoplat (Scapulă)
-        - Specifically demonstrates coracoacromial arch for supraspinatus outlet region for possible Umăr impingement11
+        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și Omoplat (Scapulă)
+        - Specifically evidențiază coracoacromial arch pentru supraspinatus outlet region pentru possible Umăr impingement11
 
     === "Ghid Național IRIS"
 
@@ -104,10 +105,10 @@ title: Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism
 
     ---
 
-    - **Poziție Pacient:** Pacient: Take radiograph with patient in Ortostatism or Decubit position. (The Ortostatism position is usually more comfortable for patient.); Regiune anatomică: With patient facing IR, rotate into anterior Incidență Oblică as for a lateral Omoplat (Scapulă). Palpate superior angle of Omoplat (Scapulă) and AC joint articulation. Rotate patient until an imaginary line between those two points is perpendicular to IR. Because of differences among patients, the amount of body obliquity may range from 45° to 60°. Center scapulohumeral joint to CR and to center of IR (Fig. 5.81). Abduct arm slightly so as not to superimpose proximal Humerus over Coaste (Grilaj Costal); do not attempt to rotate arm.
-    - **Punct de Centrare Fascicul:** Requires 10° to 15° CR caudal angle, centered posteriorly to pass through superior margin of humeral head, which is located approximately 1 inch (2.5 cm) superior to medial aspect of scapular spine.12
+    - **Poziție Pacient:** Pacient: Take radiografie cu pacient în Ortostatism sau Decubit poziție. (Ortostatism poziție este usually more comfortable pentru pacient.); Regiune anatomică: cu pacient facing receptorul de imagine, rotate into anterior Incidență Oblică ca pentru lateral Omoplat (Scapulă). Palpate superior angle de Omoplat (Scapulă) și articulații acromioclaviculare articulation. Rotate pacient until imaginary line între those two points este perpendicular pe receptorul de imagine. Because de differences among pacienți, amount de corp obliquity poate range de la 45° la 60°. Center scapulohumeral articulație la raza centrală și la center de receptorul de imagine (Fig. 5.81). Abduct braț slightly so ca nu la superimpose proximal Humerus over Coaste (Grilaj Costal); do nu attempt la rotate braț.
+    - **Punct de Centrare Fascicul:** Requires 10° la 15° raza centrală caudal angle, centrat posteriorly la pass through superior margin de cap humeral, which este located approximately 1 inch (2.5 cm) superior la medial aspect de scapular coloană vertebrală.12
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Umăr (traumatism acuttism / Regim Urgență) SPECIAL Supraspinatus outlet (Metoda Neer)
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Umăr (traumatism acuttism / Regim Urgență) SPECIAL Supraspinatus outlet (Metoda Neer)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,20 +122,20 @@ title: Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to area of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Proximal Humerus is superimposed over thin body of the Omoplat (Scapulă), which should be seen on end without rib superimposition. Position:
-    - Acromion and coracoid processes should appear as nearly symmetric upper limbs of the Y.
-    - The humeral head should appear superimposed and centered to the glenoid fossa just below the supraspinatus outlet region.
-    - The supraspinatus outlet region appears open, free of superimposition by the humeral head (see arrow in Fig. 5.82).
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast demonstrate the Y appearance of the upper lateral Omoplat (Scapulă) superimposed by the humeral head with outline of the body of the Omoplat (Scapulă) visible through the Humerus.
-    - Bony margins appear clear and sharp, indicating no motion. Fig. 5.81 Tangential projection—Metoda Neer with CR 10° to 15° caudal angle. Fig. 5.82 Tangential projection—Metoda Neer. (Courtesy Joss Wertz, DO.)
+    - proximal Humerus este superimposed over thin corp de Omoplat (Scapulă), which trebuie să fie seen pe end fără rib superimposition. poziție:
+    - acromion și coracoid processes trebuie să appear ca nearly simetric upper limbs de Y.
+    - cap humeral trebuie să appear superimposed și centrat pe cavitate glenoidă just below supraspinatus outlet region.
+    - supraspinatus outlet region appears open, liber de superimposition prin cap humeral (see arrow în Fig. 5.82).
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast evidențiază Y appearance de upper lateral Omoplat (Scapulă) superimposed prin cap humeral cu outline de corp de Omoplat (Scapulă) vizibil through Humerus.
+    - Bony margins appear clear și net, indicating fără mișcare. Fig. 5.81 tangențial incidență—Metoda Neer cu raza centrală 10° la 15° caudal angle. Fig. 5.82 tangențial incidență—Metoda Neer. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,17 +155,17 @@ title: Rx SUPRASPINATUS OUTLET TANGENTIAL PROJECTION (Umăr (traumatism acuttism
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.82). • Collimation field size to area of interest.](../../assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_1.jpeg)
+![Fig. 5.82). • Collimation field size la aria de interes diagnostic.](../../assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.82). • Collimation field size to area of interest.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.82). • Collimation field size to area of interest.)</span></figcaption>
+<figcaption><strong>Fig. 5.82). • Collimation field size la aria de interes diagnostic.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.82). • Collimation field size la aria de interes diagnostic.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.81 Tangential projection—Metoda Neer with CR 10° to 15°](../../assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_2.jpeg)
+![Fig. 5.81 tangențial incidență—Metoda Neer cu raza centrală 10° la 15°](../../assets/images/protocols/bontrager/rx-supraspinatus-outlet-tangential-projection-umar-traumatism-acuttism-regim-urgenta-neer-method10-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.81 Tangential projection—Metoda Neer with CR 10° to 15°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.81 Tangential projection—Neer method with CR 10° to 15°)</span></figcaption>
+<figcaption><strong>Fig. 5.81 tangențial incidență—Metoda Neer cu raza centrală 10° la 15°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.81 tangențial incidență—Neer method cu raza centrală 10° la 15°)</span></figcaption>
 
 </figure>
 

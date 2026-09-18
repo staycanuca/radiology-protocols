@@ -1,42 +1,43 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration for the exposure. Fig. 7.62 PA axial oblique (Teufel)
-  projection. Bazin (Pelvis) SPECIAL Acetabulum and femoral head, including the fovea
-  capitis Posterior axial oblique acetabulum (Teufel method) Fig. 7.61 PA axial oblique
-  (Teufel) projection—12degree cephalad angle.
+breathing: Apnee pe durata expunerii pentru expunere. Fig. 7.62 PA axial oblic (Teufel)
+  incidență. Bazin (bazin (pelvis)) SPECIAL cotil (acetabul) și cap femural, including
+  fovea capitis posterior axial oblic cotil (acetabul) (Teufel method) Fig. 7.61 PA
+  axial oblic (Teufel) incidență—12degree cranial angle.
 category: membru-inferior
-centering: When anatomy of interest is downside, direct Raza centrală perpendiculară
-  and centered to 1 inch (2.5 cm) superior to the level of the marele trohanter, approximately
-  2 inches (5 cm) lateral to the midsagittal plane. Angle CR 12 degrees cephalad.
+centering: When anatomy de interest este downside, direct Raza centrală perpendiculară
+  și centrat pe 1 inch (2.5 cm) superior la level de marele trohanter, approximately
+  2 inches (5 cm) lateral la planul mediosagital. Angle raza centrală 12 grade cranial.
 clinical_indications:
-- Acetabular suspiciune de fractură, especially the superoposterior wall of the acetabulum
-- Congenital defects of acetabulum Right or left posterior oblique is taken to demonstrate
-  the side of interest, centered to the downside acetabulum to demonstrate the Șold
-  joint and acetabulum in the center of the image, with the femoral head in profile.
-  The concave area of the fovea capitis should be demonstrated, along with the superoposterior
-  wall of the acetabulum.
+- Acetabular suspiciune de fractură, especially superoposterior perete de cotil (acetabul)
+- Congenital defects de cotil (acetabul) drept sau stâng posterior oblic este taken
+  la evidențiază side de interest, centrat pe downside cotil (acetabul) la evidențiază
+  Șold articulație și cotil (acetabul) în center de imagine, cu cap femural în profile.
+  concave area de fovea capitis trebuie să fie evidențiat, along cu superoposterior
+  perete de cotil (acetabul).
 images:
-- caption: Fig. 7.62 PA axial oblique (Teufel) projection.
+- caption: Fig. 7.62 PA axial oblic (Teufel) incidență.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.62 PA axial
-    oblique (Teufel) projection.)
+    oblic (Teufel) incidență.)
   url: assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_1.jpeg
-- caption: Fig. 7.61 PA axial oblique (Teufel) projection—12-
+- caption: Fig. 7.61 PA axial oblic (Teufel) incidență—12-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.61
-    PA axial oblique (Teufel) projection—12-)
+    PA axial oblic (Teufel) incidență—12-)
   url: assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_2.jpeg
-- caption: Fig. 7.63 PA axial oblique (Teufel) projection.
+- caption: Fig. 7.63 PA axial oblic (Teufel) incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.63
-    PA axial oblique (Teufel) projection.)
+    PA axial oblic (Teufel) incidență.)
   url: assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Axial Oblique Positions With patient semiprone, provide pillow
-  for head and position for affected side down. Position can be performed Ortostatism.;
-  Regiune anatomică: Place patient in anterior oblique, with both Bazin (Pelvis) and
-  thorax 35 to 40 degrees from tabletop or wall bucky. Support with wedge sponge (Fig.
-  7.61). Align femoral head and acetabulum of interest to midline of tabletop and/or
-  IR. Center IR longitudinally to CR at level of femoral head.'
+position: 'Pacient: axial oblic poziții cu pacient semiprone, provide pillow pentru
+  cap și poziție pentru affected side down. poziție poate fie performed Ortostatism.;
+  Regiune anatomică: Place pacient în anterior oblic, cu ambele Bazin (bazin (pelvis))
+  și thorax 35 la 40 grade de la tabletop sau perete bucky. Support cu wedge sponge
+  (Fig. 7.61). Align cap femural și cotil (acetabul) de interest la midline de tabletop
+  și/sau receptorul de imagine. Center receptorul de imagine longitudinally la raza
+  centrală la level de cap femural.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,12 +45,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Centered to the downside acetabulum, the superoposterior wall of the acetabulum
-  is demonstrated (Figs. 7.62 and 7.63). Position:'
-- Proper degree of obliquity is evidenced by visualization of the concave area of
-  the fovea capitis with the femoral head in profile.
-- The obturator foramen should be open, if rotated correctly. Acetabulum should be
-  centered to IR and to
+- 'centrat pe downside cotil (acetabul), superoposterior perete de cotil (acetabul)
+  este evidențiat (Figs. 7.62 și 7.63). poziție:'
+- corect grade de obliquity este evidenced prin visualization de concave area de fovea
+  capitis cu cap femural în profile.
+- găuri obturatoare trebuie să fie open, if rotit correctly. cotil (acetabul) trebuie
+  să fie centrat pe receptorul de imagine și la
 sid_dff: 100 cm
 slug: rx-acetabulum-pa-axial-oblica-teufel-method-bontrager
 sources:
@@ -57,11 +58,12 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 'field size. Collimation field size to area of interest. Exposure:
-    Optimal image receptor exposure and contrast of the bony margins and trabecular
-    markings of the acetabulum and femoral head regions; such markings should appear
-    sharp, indicating no motion. Acetabulum marele trohanter Fovea capitis Ischial
-    tuberosity Obturator foramen Fig. 7.63 PA axial oblique (Teufel) projection.'
+  collimation: 'field size. Collimation field size la aria de interes diagnostic.
+    expunere: optim receptorul de imagine expunere și contrast de bony margins și
+    trabecular markings de cotil (acetabul) și cap femural regions; such markings
+    trebuie să appear net, indicating fără mișcare. cotil (acetabul) marele trohanter
+    Fovea capitis tuberozități ischiatice găuri obturatoare Fig. 7.63 PA axial oblic
+    (Teufel) incidență.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -88,8 +90,8 @@ title: Rx ACETABULUM PA AXIAL Oblică (TEUFEL METHOD)
 
     === "Indicații Clinice"
 
-        - Acetabular suspiciune de fractură, especially the superoposterior wall of the acetabulum
-        - Congenital defects of acetabulum Right or left posterior oblique is taken to demonstrate the side of interest, centered to the downside acetabulum to demonstrate the Șold joint and acetabulum in the center of the image, with the femoral head in profile. The concave area of the fovea capitis should be demonstrated, along with the superoposterior wall of the acetabulum.
+        - Acetabular suspiciune de fractură, especially superoposterior perete de cotil (acetabul)
+        - Congenital defects de cotil (acetabul) drept sau stâng posterior oblic este taken la evidențiază side de interest, centrat pe downside cotil (acetabul) la evidențiază Șold articulație și cotil (acetabul) în center de imagine, cu cap femural în profile. concave area de fovea capitis trebuie să fie evidențiat, along cu superoposterior perete de cotil (acetabul).
 
     === "Ghid Național IRIS"
 
@@ -103,10 +105,10 @@ title: Rx ACETABULUM PA AXIAL Oblică (TEUFEL METHOD)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Axial Oblique Positions With patient semiprone, provide pillow for head and position for affected side down. Position can be performed Ortostatism.; Regiune anatomică: Place patient in anterior oblique, with both Bazin (Pelvis) and thorax 35 to 40 degrees from tabletop or wall bucky. Support with wedge sponge (Fig. 7.61). Align femoral head and acetabulum of interest to midline of tabletop and/or IR. Center IR longitudinally to CR at level of femoral head.
-    - **Punct de Centrare Fascicul:** When anatomy of interest is downside, direct Raza centrală perpendiculară and centered to 1 inch (2.5 cm) superior to the level of the marele trohanter, approximately 2 inches (5 cm) lateral to the midsagittal plane. Angle CR 12 degrees cephalad.
+    - **Poziție Pacient:** Pacient: axial oblic poziții cu pacient semiprone, provide pillow pentru cap și poziție pentru affected side down. poziție poate fie performed Ortostatism.; Regiune anatomică: Place pacient în anterior oblic, cu ambele Bazin (bazin (pelvis)) și thorax 35 la 40 grade de la tabletop sau perete bucky. Support cu wedge sponge (Fig. 7.61). Align cap femural și cotil (acetabul) de interest la midline de tabletop și/sau receptorul de imagine. Center receptorul de imagine longitudinally la raza centrală la level de cap femural.
+    - **Punct de Centrare Fascicul:** When anatomy de interest este downside, direct Raza centrală perpendiculară și centrat pe 1 inch (2.5 cm) superior la level de marele trohanter, approximately 2 inches (5 cm) lateral la planul mediosagital. Angle raza centrală 12 grade cranial.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration for the exposure. Fig. 7.62 PA axial oblique (Teufel) projection. Bazin (Pelvis) SPECIAL Acetabulum and femoral head, including the fovea capitis Posterior axial oblique acetabulum (Teufel method) Fig. 7.61 PA axial oblique (Teufel) projection—12degree cephalad angle.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru expunere. Fig. 7.62 PA axial oblic (Teufel) incidență. Bazin (bazin (pelvis)) SPECIAL cotil (acetabul) și cap femural, including fovea capitis posterior axial oblic cotil (acetabul) (Teufel method) Fig. 7.61 PA axial oblic (Teufel) incidență—12degree cranial angle.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -120,16 +122,16 @@ title: Rx ACETABULUM PA AXIAL Oblică (TEUFEL METHOD)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size. Collimation field size to area of interest. Exposure: Optimal image receptor exposure and contrast of the bony margins and trabecular markings of the acetabulum and femoral head regions; such markings should appear sharp, indicating no motion. Acetabulum marele trohanter Fovea capitis Ischial tuberosity Obturator foramen Fig. 7.63 PA axial oblique (Teufel) projection. |
+    | **Colimare Fascicul** | field size. Collimation field size la aria de interes diagnostic. expunere: optim receptorul de imagine expunere și contrast de bony margins și trabecular markings de cotil (acetabul) și cap femural regions; such markings trebuie să appear net, indicating fără mișcare. cotil (acetabul) marele trohanter Fovea capitis tuberozități ischiatice găuri obturatoare Fig. 7.63 PA axial oblic (Teufel) incidență. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Centered to the downside acetabulum, the superoposterior wall of the acetabulum is demonstrated (Figs. 7.62 and 7.63). Position:
-    - Proper degree of obliquity is evidenced by visualization of the concave area of the fovea capitis with the femoral head in profile.
-    - The obturator foramen should be open, if rotated correctly. Acetabulum should be centered to IR and to
+    - centrat pe downside cotil (acetabul), superoposterior perete de cotil (acetabul) este evidențiat (Figs. 7.62 și 7.63). poziție:
+    - corect grade de obliquity este evidenced prin visualization de concave area de fovea capitis cu cap femural în profile.
+    - găuri obturatoare trebuie să fie open, if rotit correctly. cotil (acetabul) trebuie să fie centrat pe receptorul de imagine și la
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,25 +151,25 @@ title: Rx ACETABULUM PA AXIAL Oblică (TEUFEL METHOD)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.62 PA axial oblique (Teufel) projection.](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_1.jpeg)
+![Fig. 7.62 PA axial oblic (Teufel) incidență.](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.62 PA axial oblique (Teufel) projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.62 PA axial oblique (Teufel) projection.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.61 PA axial oblique (Teufel) projection—12-](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.61 PA axial oblique (Teufel) projection—12-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.61 PA axial oblique (Teufel) projection—12-)</span></figcaption>
+<figcaption><strong>Fig. 7.62 PA axial oblic (Teufel) incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.62 PA axial oblic (Teufel) incidență.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.63 PA axial oblique (Teufel) projection.](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_3.jpeg)
+![Fig. 7.61 PA axial oblic (Teufel) incidență—12-](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.63 PA axial oblique (Teufel) projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.63 PA axial oblique (Teufel) projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.61 PA axial oblic (Teufel) incidență—12-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.61 PA axial oblic (Teufel) incidență—12-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.63 PA axial oblic (Teufel) incidență.](../../assets/images/protocols/bontrager/rx-acetabulum-pa-axial-oblica-teufel-method-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.63 PA axial oblic (Teufel) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.63 PA axial oblic (Teufel) incidență.)</span></figcaption>
 
 </figure>
 

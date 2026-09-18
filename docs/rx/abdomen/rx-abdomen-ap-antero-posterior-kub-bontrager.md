@@ -1,26 +1,29 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: With infants and young children, watch the breathing pattern. When Abdomen
-  is still, make the exposure. If the patient is crying, make the exposure as the
-  patient takes a breath to let out a cry. Children older than 5 years of age usually
-  can hold their breath after a practice session. Fig. 16.59 Child immobilized with
-  sandbags for AP Abdomen. (Note sandbags under and over lower limbs.) Abdomen ROUTINE
-  AP (KUB) SPECIAL AP Ortostatism Lateral and dorsal decubitus
+breathing: 'La sugari și copii mici, se monitorizează dinamica respiratorie; expunerea
+  se declanșează când abdomenul este complet imobil. Dacă pacientul plânge, expunerea
+  se efectuează în momentul în care copilul inspiră adânc înainte de plânge. Copiii
+  cu vârsta peste 5 ani pot menține de regulă apneea după o scurtă simulare/exersare
+  prealabilă. Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia
+  de abdomen AP. (Notă: săculeți cu nisip plasați sub și peste membrele inferioare.)
+  Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism lateral și dorsal decubit'
 category: abdomen
-centering: Infants and small children—CR and cassette centered 1 inch (2.5 cm) above
-  umbilicus Older children and adolescents—CR centered at level of creasta iliacă
-  (corespunzător L4-L5)
+centering: 'Sugari și copii mici: raza centrală și caseta se centrează la 2.5 cm deasupra
+  ombilicului Older children și adolescents—raza centrală centrat la nivelul level
+  de creasta iliacă (corespunzător L4-L5)'
 clinical_indications:
-- Pathology of the Abdomen—evaluate gas patterns, soft tissue, and possible calcifications
-- Other anomalies or diseases of Abdomen
+- 'Patologie abdominală acută/cronică: evaluarea distribuției hidroaerice gazelor,
+  țesuturilor moi și eventualelor calcificări'
+- Alte anomalii sau afecțiuni ale cavității abdominale
 images:
-- caption: Fig. 16.59 Child immobilized with sandbags for AP Abdomen. (Note
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.59 Child immobilized
-    with sandbags for AP abdomen. (Note)
+- caption: Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia de
+    abdomen AP. (Note
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.59 Copil imobilizat
+    cu săculeți cu nisip pentru radiografia de abdomen AP. (Note)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_1.jpeg
-- caption: Fig. 16.60 AP Abdomen, Decubit Dorsal (demonstrates distended air-
+- caption: Fig. 16.60 AP Abdomen, Decubit dorsal (evidențiază distended air-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.60
-    AP abdomen, supine (demonstrates distended air-)
+    AP abdomen, în decubit dorsal (evidențiază distended air-)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
@@ -33,19 +36,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Soft tissue border outlines and gasfilled structures such as the stomach and intestines,
-  calcifications (if present), and faint bony skeletal structures are shown (Fig.
-  16.60). POSITION:'
-- Vertebral column is aligned to center of radiograph.
+- 'părți moi margine outlines și gasfilled structures such ca stomach și intestines,
+  calcifications (if present), și faint bony skeletal structures sunt vizualizat (Fig.
+  16.60). poziție:'
+- coloană vertebrală este aliniat la center de radiografie.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  exists; Bazin (Pelvis), hips, and lower rib cage are symmetric.'
-- 'collimation field size to area of interest. Exposure:'
-- No motion is evident, and diaphragm and gas patterns appear sharp.
-- 'Optimal image receptor exposure and contrast to visualize bony structure outlines
-  such as Coaste (Grilaj Costal) and vertebrae through abdominal contents without
-  overexposing gasfilled structures. Decubit Dorsal 4/66kv Fig. 16.60 AP Abdomen,
-  Decubit Dorsal (demonstrates distended airfilled stomach). (Case courtesy Associate
-  Professor Frank Gaillard, Radiopaedia.org, rID: 6502.)'
+  exists; Bazin (bazin (pelvis)), hips, și lower rib cage sunt simetric.'
+- 'collimation field size la aria de interes diagnostic. expunere:'
+- fără mișcare este evident, și cupole diafragmatice și gas patterns appear net.
+- 'optim receptorul de imagine expunere și contrast la visualize bony structure outlines
+  such ca Coaste (Grilaj Costal) și vertebre through abdominal contents fără overexposing
+  gasfilled structures. Decubit dorsal 4/66kv Fig. 16.60 AP Abdomen, Decubit dorsal
+  (evidențiază distended airfilled stomach). (Case courtesy Associate Professor Frank
+  Gaillard, Radiopaedia.org, rID: 6502.)'
 sid_dff: 100 cm
 slug: rx-abdomen-ap-antero-posterior-kub-bontrager
 sources:
@@ -53,7 +56,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -80,8 +83,8 @@ title: Rx Abdomen AP (Antero-Posterior) (KUB)
 
     === "Indicații Clinice"
 
-        - Pathology of the Abdomen—evaluate gas patterns, soft tissue, and possible calcifications
-        - Other anomalies or diseases of Abdomen
+        - Patologie abdominală acută/cronică: evaluarea distribuției hidroaerice gazelor, țesuturilor moi și eventualelor calcificări
+        - Alte anomalii sau afecțiuni ale cavității abdominale
 
     === "Ghid Național IRIS"
 
@@ -96,9 +99,9 @@ title: Rx Abdomen AP (Antero-Posterior) (KUB)
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** Infants and small children—CR and cassette centered 1 inch (2.5 cm) above umbilicus Older children and adolescents—CR centered at level of creasta iliacă (corespunzător L4-L5)
+    - **Punct de Centrare Fascicul:** Sugari și copii mici: raza centrală și caseta se centrează la 2.5 cm deasupra ombilicului Older children și adolescents—raza centrală centrat la nivelul level de creasta iliacă (corespunzător L4-L5)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** With infants and young children, watch the breathing pattern. When Abdomen is still, make the exposure. If the patient is crying, make the exposure as the patient takes a breath to let out a cry. Children older than 5 years of age usually can hold their breath after a practice session. Fig. 16.59 Child immobilized with sandbags for AP Abdomen. (Note sandbags under and over lower limbs.) Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism Lateral and dorsal decubitus
+    - **Comandă Respiratorie:** La sugari și copii mici, se monitorizează dinamica respiratorie; expunerea se declanșează când abdomenul este complet imobil. Dacă pacientul plânge, expunerea se efectuează în momentul în care copilul inspiră adânc înainte de plânge. Copiii cu vârsta peste 5 ani pot menține de regulă apneea după o scurtă simulare/exersare prealabilă. Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia de abdomen AP. (Notă: săculeți cu nisip plasați sub și peste membrele inferioare.) Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism lateral și dorsal decubit
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -112,19 +115,19 @@ title: Rx Abdomen AP (Antero-Posterior) (KUB)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Soft tissue border outlines and gasfilled structures such as the stomach and intestines, calcifications (if present), and faint bony skeletal structures are shown (Fig. 16.60). POSITION:
-    - Vertebral column is aligned to center of radiograph.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase exists; Bazin (Pelvis), hips, and lower rib cage are symmetric.
-    - collimation field size to area of interest. Exposure:
-    - No motion is evident, and diaphragm and gas patterns appear sharp.
-    - Optimal image receptor exposure and contrast to visualize bony structure outlines such as Coaste (Grilaj Costal) and vertebrae through abdominal contents without overexposing gasfilled structures. Decubit Dorsal 4/66kv Fig. 16.60 AP Abdomen, Decubit Dorsal (demonstrates distended airfilled stomach). (Case courtesy Associate Professor Frank Gaillard, Radiopaedia.org, rID: 6502.)
+    - părți moi margine outlines și gasfilled structures such ca stomach și intestines, calcifications (if present), și faint bony skeletal structures sunt vizualizat (Fig. 16.60). poziție:
+    - coloană vertebrală este aliniat la center de radiografie.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase exists; Bazin (bazin (pelvis)), hips, și lower rib cage sunt simetric.
+    - collimation field size la aria de interes diagnostic. expunere:
+    - fără mișcare este evident, și cupole diafragmatice și gas patterns appear net.
+    - optim receptorul de imagine expunere și contrast la visualize bony structure outlines such ca Coaste (Grilaj Costal) și vertebre through abdominal contents fără overexposing gasfilled structures. Decubit dorsal 4/66kv Fig. 16.60 AP Abdomen, Decubit dorsal (evidențiază distended airfilled stomach). (Case courtesy Associate Professor Frank Gaillard, Radiopaedia.org, rID: 6502.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -144,17 +147,17 @@ title: Rx Abdomen AP (Antero-Posterior) (KUB)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.59 Child immobilized with sandbags for AP Abdomen. (Note](../../assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_1.jpeg)
+![Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia de abdomen AP. (Note](../../assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 16.59 Child immobilized with sandbags for AP Abdomen. (Note</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.59 Child immobilized with sandbags for AP abdomen. (Note)</span></figcaption>
+<figcaption><strong>Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia de abdomen AP. (Note</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.59 Copil imobilizat cu săculeți cu nisip pentru radiografia de abdomen AP. (Note)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.60 AP Abdomen, Decubit Dorsal (demonstrates distended air-](../../assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_2.jpeg)
+![Fig. 16.60 AP Abdomen, Decubit dorsal (evidențiază distended air-](../../assets/images/protocols/bontrager/rx-abdomen-ap-antero-posterior-kub-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 16.60 AP Abdomen, Decubit Dorsal (demonstrates distended air-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.60 AP abdomen, supine (demonstrates distended air-)</span></figcaption>
+<figcaption><strong>Fig. 16.60 AP Abdomen, Decubit dorsal (evidențiază distended air-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.60 AP abdomen, în decubit dorsal (evidențiază distended air-)</span></figcaption>
 
 </figure>
 

@@ -1,37 +1,41 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
 centering: 'Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic
-  body type: Center CR and IR to level of l1 (about midway between xiphoid tip and
-  lower lateral margin of Coaste (Grilaj Costal)) and midway between midline of body
-  and left lateral margin of Abdomen, 45° oblique Hypersthenic body type: Center about
-  2 inches (5 cm) above L1, 60° oblique Asthenic body type: Center about 2 inches
-  (5 cm) below L1 and nearer to midline, 30° oblique'
+  corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway
+  între xiphoid tip și lower lateral margin de Coaste (Grilaj Costal)) și midway între
+  midline de corp și stâng lateral margin de Abdomen, 45° oblic Hypersthenic corp
+  type: Center about 2 inches (5 cm) above L1, 60° oblic Asthenic corp type: Center
+  about 2 inches (5 cm) below L1 și nearer la midline, 30° oblic'
 clinical_indications:
-- When a doublecontrast technique is used, the airfilled pylorus and duodenal bulb
-  may better demonstrate signs of gastritis and ulcers.
+- When doublecontrast technique este used, airfilled pylorus și duodenal bulb poate
+  better evidențiază signs de gastritis și ulcers.
 images:
-- caption: Fig. 12.101 LPO position.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.101 LPO position.)
+- caption: Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.101 poziție
+    oblică posterioară stângă (OPS / LPO).)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_1.jpeg
-- caption: Fig. 12.102 LPO position.
+- caption: Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.102
-    LPO position.)
+    poziție oblică posterioară stângă (OPS / LPO).)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: The stomach generally is located higher in this position than in the lateral;
-  therefore, center one vertebra higher than on PA or RAO position. Tranzit Baritat
-  Gastro-Duodenal (TBGD) ROUTINE RAO PA Right lateral LPO AP Fig. 12.101 LPO position.
-position: 'Pacient: Position patient Decubit, with the body partially rotated into
-  an LPO position; provide support for patient’s head and upper torso (Fig. 12.101).;
-  Regiune anatomică: Rotate 30° to 60° from Decubit Dorsal position, with left posterior
-  against IR or table (more rotation (up to 60°) is often required for hypersthenic
-  body habitus and less rotation (30°) for asthenic body habitus7). Flex right Genunchi
-  for support. Extend left arm from body and raise right arm high across Torace to
-  grasp end of table for support. (Do not pinch Degete Mână when moving bucky.) Center
-  IR at CR (bottom of IR at level of creasta iliacă (corespunzător L4-L5)).'
+notes: stomach generally este located higher în this poziție than în lateral; therefore,
+  center one vertebra higher than pe PA sau poziție oblică anterioară dreaptă (OAD
+  / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO
+  AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
+position: 'Pacient: poziție pacient Decubit, cu corp partially rotit into poziție
+  oblică posterioară stângă (OPS / LPO); provide support pentru pacient’s cap și upper
+  torso (Fig. 12.101).; Regiune anatomică: Rotate 30° la 60° de la Decubit dorsal
+  poziție, cu stâng posterior against receptorul de imagine sau table (more rotație
+  (up la 60°) este often required pentru hypersthenic corp habitus și less rotație
+  (30°) pentru asthenic corp habitus7). Flex drept Genunchi pentru support. Extend
+  stâng braț de la corp și raise drept braț high across Torace la grasp end de table
+  pentru support. (Do nu pinch Degete Mână when moving bucky.) Center receptorul de
+  imagine la raza centrală (bottom de receptorul de imagine la level de creasta iliacă
+  (corespunzător L4-L5)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,17 +43,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire stomach and duodenum are visible (Fig. 12.102).
-- 'Unobstructed view of duodenal bulb should be provided, without superimposition
-  by the pylorus of the stomach. Position:'
-- Fundus should be filled with barium.
-- With a doublecontrast procedure, body and pylorus and occasionally duodenal bulb
-  are air filled.
-- Proper collimation field size is applied.
-- 'CR is centered level to the duodenal bulb. Exposure:'
-- Optimal image receptor exposure and contrast to visualize gastric folds without
+- Entire stomac și duoden sunt vizibil (Fig. 12.102).
+- 'Unobstructed incidență de duodenal bulb trebuie să fie provided, fără superimposition
+  prin pylorus de stomach. poziție:'
+- Fundus trebuie să fie filled cu barium.
+- cu doublecontrast procedure, corp și pylorus și occasionally duodenal bulb sunt
+  air filled.
+- corect collimation field size este applied.
+- 'raza centrală este centrat level la duodenal bulb. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize gastric folds fără
   overexposing other pertinent anatomy.
-- Sharp structural margins indicate no motion. Fig. 12.102 LPO position.
+- net structural margins indicate fără mișcare. Fig. 12.102 poziție oblică posterioară
+  stângă (OPS / LPO).
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager
 sources:
@@ -57,16 +62,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to outer margins of IR or to area
-    of interest on larger IR.
+  collimation: Field Size Collimate pe four sides la outer margins de receptorul de
+    imagine sau la aria de interes diagnostic pe larger receptorul de imagine.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
+title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (OPS /
+  LPO)
 ---
-# Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
+# Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (OPS / LPO)
 
 
 <div class="rx-meta-bar">
@@ -85,7 +91,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
 
     === "Indicații Clinice"
 
-        - When a doublecontrast technique is used, the airfilled pylorus and duodenal bulb may better demonstrate signs of gastritis and ulcers.
+        - When doublecontrast technique este used, airfilled pylorus și duodenal bulb poate better evidențiază signs de gastritis și ulcers.
 
     === "Ghid Național IRIS"
 
@@ -99,10 +105,10 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit, with the body partially rotated into an LPO position; provide support for patient’s head and upper torso (Fig. 12.101).; Regiune anatomică: Rotate 30° to 60° from Decubit Dorsal position, with left posterior against IR or table (more rotation (up to 60°) is often required for hypersthenic body habitus and less rotation (30°) for asthenic body habitus7). Flex right Genunchi for support. Extend left arm from body and raise right arm high across Torace to grasp end of table for support. (Do not pinch Degete Mână when moving bucky.) Center IR at CR (bottom of IR at level of creasta iliacă (corespunzător L4-L5)).
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic body type: Center CR and IR to level of l1 (about midway between xiphoid tip and lower lateral margin of Coaste (Grilaj Costal)) and midway between midline of body and left lateral margin of Abdomen, 45° oblique Hypersthenic body type: Center about 2 inches (5 cm) above L1, 60° oblique Asthenic body type: Center about 2 inches (5 cm) below L1 and nearer to midline, 30° oblique
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit, cu corp partially rotit into poziție oblică posterioară stângă (OPS / LPO); provide support pentru pacient’s cap și upper torso (Fig. 12.101).; Regiune anatomică: Rotate 30° la 60° de la Decubit dorsal poziție, cu stâng posterior against receptorul de imagine sau table (more rotație (up la 60°) este often required pentru hypersthenic corp habitus și less rotație (30°) pentru asthenic corp habitus7). Flex drept Genunchi pentru support. Extend stâng braț de la corp și raise drept braț high across Torace la grasp end de table pentru support. (Do nu pinch Degete Mână when moving bucky.) Center receptorul de imagine la raza centrală (bottom de receptorul de imagine la level de creasta iliacă (corespunzător L4-L5)).
+    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway între xiphoid tip și lower lateral margin de Coaste (Grilaj Costal)) și midway între midline de corp și stâng lateral margin de Abdomen, 45° oblic Hypersthenic corp type: Center about 2 inches (5 cm) above L1, 60° oblic Asthenic corp type: Center about 2 inches (5 cm) below L1 și nearer la midline, 30° oblic
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,21 +122,21 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to outer margins of IR or to area of interest on larger IR. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de receptorul de imagine sau la aria de interes diagnostic pe larger receptorul de imagine. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomach and duodenum are visible (Fig. 12.102).
-    - Unobstructed view of duodenal bulb should be provided, without superimposition by the pylorus of the stomach. Position:
-    - Fundus should be filled with barium.
-    - With a doublecontrast procedure, body and pylorus and occasionally duodenal bulb are air filled.
-    - Proper collimation field size is applied.
-    - CR is centered level to the duodenal bulb. Exposure:
-    - Optimal image receptor exposure and contrast to visualize gastric folds without overexposing other pertinent anatomy.
-    - Sharp structural margins indicate no motion. Fig. 12.102 LPO position.
+    - Entire stomac și duoden sunt vizibil (Fig. 12.102).
+    - Unobstructed incidență de duodenal bulb trebuie să fie provided, fără superimposition prin pylorus de stomach. poziție:
+    - Fundus trebuie să fie filled cu barium.
+    - cu doublecontrast procedure, corp și pylorus și occasionally duodenal bulb sunt air filled.
+    - corect collimation field size este applied.
+    - raza centrală este centrat level la duodenal bulb. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize gastric folds fără overexposing other pertinent anatomy.
+    - net structural margins indicate fără mișcare. Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +149,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    The stomach generally is located higher in this position than in the lateral; therefore, center one vertebra higher than on PA or RAO position. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA Right lateral LPO AP Fig. 12.101 LPO position.
+    stomach generally este located higher în this poziție than în lateral; therefore, center one vertebra higher than pe PA sau poziție oblică anterioară dreaptă (OAD / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
 
 
 ### 🖼️ Imagini
@@ -152,17 +158,17 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) LPO POSITION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.101 LPO position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_1.jpeg)
+![Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.101 LPO position.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.101 LPO position.)</span></figcaption>
+<figcaption><strong>Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.102 LPO position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_2.jpeg)
+![Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.102 LPO position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.102 LPO position.)</span></figcaption>
+<figcaption><strong>Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).)</span></figcaption>
 
 </figure>
 

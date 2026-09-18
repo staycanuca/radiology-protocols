@@ -1,51 +1,54 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: 'is perpendicular to IR. 15 or 30 minutes: Center to about 2 inches (5
-  cm) above creasta iliacă (corespunzător L4-L5) (see NOTES) (Fig. 13.54). Hourly:
-  Center CR and midpoint of IR to creasta iliacă (corespunzător L4-L5) (Fig. 13.55).
-  Center IR to CR.'
+centering: 'este perpendicular pe receptorul de imagine. 15 sau 30 minutes: Center
+  la about 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) (see NOTES)
+  (Fig. 13.54). Hourly: Center raza centrală și midpoint de receptorul de imagine
+  la creasta iliacă (corespunzător L4-L5) (Fig. 13.55). Se centrează receptorul de
+  imagine pe raza centrală.'
 clinical_indications:
-- Inflammatory processes, neoplasms, and obstructions of the small intestine
-- 'Upper Gi–small bowel combination: Commonly performed; additional barium is ingested
-  after completion of the upper GI (see p. 509).'
-- 'Small bowel–only series: Includes a scout Abdomen radiograph followed by ingestion
-  of barium and timedinterval radiographs (see p. 510)'
-- 'Enteroclysis and intubation procedures: See descriptions on pp. 510 and 511.'
+- Inflammatory processes, proces proliferativ tumorals, și obstructions de intestin
+  subțire
+- 'Upper Gi–intestin subțire combination: Commonly performed; additional barium este
+  ingested after completion de upper GI (see p. 509).'
+- 'intestin subțire–only series: Includes scout Abdomen radiografie followed prin
+  ingestion de barium și timedinterval radiografii (see p. 510)'
+- 'Enteroclysis și intubation procedures: See descriptions pe pp. 510 și 511.'
 images:
-- caption: Fig. 13.54 PA—15 or 30 minutes—centered approximately 2 inches
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.54 PA—15 or
-    30 minutes—centered approximately 2 inches)
+- caption: Fig. 13.54 PA—15 sau 30 minutes—centrat approximately 2 inches
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.54 PA—15 sau
+    30 minutes—centrat approximately 2 inches)
   url: assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_1.jpeg
-- caption: Fig. 13.55 PA—hourly, centered to creasta iliacă (corespunzător L4-L5).
+- caption: Fig. 13.55 PA—hourly, centrat pe creasta iliacă (corespunzător L4-L5).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.55
-    PA—hourly, centered to iliac crest.)
+    PA—hourly, centrat pe creste iliace.)
   url: assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_2.jpeg
-- caption: Fig. 13.56 Manual compression of ileocecal valve region.
+- caption: Fig. 13.56 Manual compression de ileocecal valve region.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.56
-    Manual compression of ileocecal valve region.)
+    Manual compression de ileocecal valve region.)
   url: assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Timing begins with ingestion of barium. Timed intervals of radiographs
-  depend on transit time of the specific barium preparation used and on department
-  protocol. For the first 30minute radiograph, center high to include the entire stomach.
-  Subsequent 30minute interval radiographs are taken until barium reaches the large
-  bowel (usually 2 hours). The study is generally completed when the contrast medium
-  reaches the cecum or the ascending colon. Fluoroscopy and spot imaging of the ileocecal
-  valve and terminal ileum after barium reaches this area are commonly included in
-  the routine Tranzit Intestinal Baritat. This procedure is determined by the fluoroscopist’s
-  preference and by department protocols (Fig. 13.56). Tranzit Intestinal Baritat
-  ROUTINE PA (every 15 to 30 minutes) enteroclysis and intubation Fig. 13.54 PA—15
-  or 30 minutes—centered approximately 2 inches (5 cm) above creasta iliacă (corespunzător
-  L4-L5). Fig. 13.55 PA—hourly, centered to creasta iliacă (corespunzător L4-L5).
-  30 min.'
-position: 'Pacient: Patient is Decubit Ventral (or Decubit Dorsal if patient cannot
-  lie in Decubit Ventral position) with a support for the head.; Regiune anatomică:
-  Align midsagittal plane (MSP) to midline of table/grid or CR. Place arms up beside
-  head with legs extended and support provided under the ankles. Ensure that Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs.'
+notes: 'S: Timing begins cu ingestion de barium. Timed intervals de radiografii depend
+  pe transit time de specific barium preparation used și pe department protocol. pentru
+  first 30minute radiografie, center high pentru include entire stomach. Subsequent
+  30minute interval radiografii sunt taken until barium reaches intestin gros (colon)
+  (usually 2 hours). study este generally completed when contrast medium reaches cecum
+  sau ascending intestin gros (colon). Fluoroscopy și spot imaging de ileocecal valve
+  și terminal ileum after barium reaches this area sunt commonly included în routine
+  Tranzit Intestinal Baritat. This procedure este determined prin fluoroscopist’s
+  preference și prin department protocols (Fig. 13.56). Tranzit Intestinal Baritat
+  ROUTINE PA (every 15 la 30 minutes) enteroclysis și intubation Fig. 13.54 PA—15
+  sau 30 minutes—centrat approximately 2 inches (5 cm) above creasta iliacă (corespunzător
+  L4-L5). Fig. 13.55 PA—hourly, centrat pe creasta iliacă (corespunzător L4-L5). 30
+  min.'
+position: 'Pacient: pacient este Decubit ventral (sau Decubit dorsal if pacient cannot
+  lie în Decubit ventral poziție) cu support pentru capul.; Regiune anatomică: Align
+  plan mediosagital (MSP) la linia mediană mesei/grilă sau raza centrală. Place brațe
+  up beside cap cu membre inferioare extins și support provided under ankles. Ensure
+  that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
+  spinoase occurs.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,18 +56,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire small intestine is demonstrated on each radiograph, with the stomach included
-  on the first 15minute or 30minute radiograph (Figs. 13.57 to 13.60). Position:'
+- 'Entire intestin subțire este evidențiat pe fiecare radiografie, cu stomach included
+  pe first 15minute sau 30minute radiografie (Figs. 13.57 la 13.60). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is present.'
-- The ala of the ilium and the lumbar vertebrae are symmetric.
-- 'Proper collimation field size is applied. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the contrastfilled small
-  intestine without overexposing the parts that are filled only partially with barium.
-- Sharp structural margins indicate no motion.
-- Patient identification information, time interval markers, and R or L marker are
-  visible without superimposition of essential anatomy. Fig. 13.56 Manual compression
-  of ileocecal valve region.
+  este present.'
+- ala de ilium și coloană lombară sunt simetric.
+- 'corect collimation field size este applied. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize contrastfilled intestin
+  subțire fără overexposing parts that sunt filled only partially cu barium.
+- net structural margins indicate fără mișcare.
+- pacient identification information, time interval markeri, și R sau L marker sunt
+  vizibil fără superimposition de essential anatomy. Fig. 13.56 Manual compression
+  de ileocecal valve region.
 sid_dff: 100 cm
 slug: rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager
 sources:
@@ -72,7 +75,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -99,10 +102,10 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Inflammatory processes, neoplasms, and obstructions of the small intestine
-        - Upper Gi–small bowel combination: Commonly performed; additional barium is ingested after completion of the upper GI (see p. 509).
-        - Small bowel–only series: Includes a scout Abdomen radiograph followed by ingestion of barium and timedinterval radiographs (see p. 510)
-        - Enteroclysis and intubation procedures: See descriptions on pp. 510 and 511.
+        - Inflammatory processes, proces proliferativ tumorals, și obstructions de intestin subțire
+        - Upper Gi–intestin subțire combination: Commonly performed; additional barium este ingested after completion de upper GI (see p. 509).
+        - intestin subțire–only series: Includes scout Abdomen radiografie followed prin ingestion de barium și timedinterval radiografii (see p. 510)
+        - Enteroclysis și intubation procedures: See descriptions pe pp. 510 și 511.
 
     === "Ghid Național IRIS"
 
@@ -116,10 +119,10 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient is Decubit Ventral (or Decubit Dorsal if patient cannot lie in Decubit Ventral position) with a support for the head.; Regiune anatomică: Align midsagittal plane (MSP) to midline of table/grid or CR. Place arms up beside head with legs extended and support provided under the ankles. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. 15 or 30 minutes: Center to about 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) (see NOTES) (Fig. 13.54). Hourly: Center CR and midpoint of IR to creasta iliacă (corespunzător L4-L5) (Fig. 13.55). Center IR to CR.
+    - **Poziție Pacient:** Pacient: pacient este Decubit ventral (sau Decubit dorsal if pacient cannot lie în Decubit ventral poziție) cu support pentru capul.; Regiune anatomică: Align plan mediosagital (MSP) la linia mediană mesei/grilă sau raza centrală. Place brațe up beside cap cu membre inferioare extins și support provided under ankles. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. 15 sau 30 minutes: Center la about 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) (see NOTES) (Fig. 13.54). Hourly: Center raza centrală și midpoint de receptorul de imagine la creasta iliacă (corespunzător L4-L5) (Fig. 13.55). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -133,20 +136,20 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire small intestine is demonstrated on each radiograph, with the stomach included on the first 15minute or 30minute radiograph (Figs. 13.57 to 13.60). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is present.
-    - The ala of the ilium and the lumbar vertebrae are symmetric.
-    - Proper collimation field size is applied. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the contrastfilled small intestine without overexposing the parts that are filled only partially with barium.
-    - Sharp structural margins indicate no motion.
-    - Patient identification information, time interval markers, and R or L marker are visible without superimposition of essential anatomy. Fig. 13.56 Manual compression of ileocecal valve region.
+    - Entire intestin subțire este evidențiat pe fiecare radiografie, cu stomach included pe first 15minute sau 30minute radiografie (Figs. 13.57 la 13.60). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este present.
+    - ala de ilium și coloană lombară sunt simetric.
+    - corect collimation field size este applied. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize contrastfilled intestin subțire fără overexposing parts that sunt filled only partially cu barium.
+    - net structural margins indicate fără mișcare.
+    - pacient identification information, time interval markeri, și R sau L marker sunt vizibil fără superimposition de essential anatomy. Fig. 13.56 Manual compression de ileocecal valve region.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,7 +162,7 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Timing begins with ingestion of barium. Timed intervals of radiographs depend on transit time of the specific barium preparation used and on department protocol. For the first 30minute radiograph, center high to include the entire stomach. Subsequent 30minute interval radiographs are taken until barium reaches the large bowel (usually 2 hours). The study is generally completed when the contrast medium reaches the cecum or the ascending colon. Fluoroscopy and spot imaging of the ileocecal valve and terminal ileum after barium reaches this area are commonly included in the routine Tranzit Intestinal Baritat. This procedure is determined by the fluoroscopist’s preference and by department protocols (Fig. 13.56). Tranzit Intestinal Baritat ROUTINE PA (every 15 to 30 minutes) enteroclysis and intubation Fig. 13.54 PA—15 or 30 minutes—centered approximately 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5). Fig. 13.55 PA—hourly, centered to creasta iliacă (corespunzător L4-L5). 30 min.
+    S: Timing begins cu ingestion de barium. Timed intervals de radiografii depend pe transit time de specific barium preparation used și pe department protocol. pentru first 30minute radiografie, center high pentru include entire stomach. Subsequent 30minute interval radiografii sunt taken until barium reaches intestin gros (colon) (usually 2 hours). study este generally completed when contrast medium reaches cecum sau ascending intestin gros (colon). Fluoroscopy și spot imaging de ileocecal valve și terminal ileum after barium reaches this area sunt commonly included în routine Tranzit Intestinal Baritat. This procedure este determined prin fluoroscopist’s preference și prin department protocols (Fig. 13.56). Tranzit Intestinal Baritat ROUTINE PA (every 15 la 30 minutes) enteroclysis și intubation Fig. 13.54 PA—15 sau 30 minutes—centrat approximately 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5). Fig. 13.55 PA—hourly, centrat pe creasta iliacă (corespunzător L4-L5). 30 min.
 
 
 ### 🖼️ Imagini
@@ -168,25 +171,25 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.54 PA—15 or 30 minutes—centered approximately 2 inches](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 13.54 PA—15 sau 30 minutes—centrat approximately 2 inches](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.54 PA—15 or 30 minutes—centered approximately 2 inches</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.54 PA—15 or 30 minutes—centered approximately 2 inches)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 13.55 PA—hourly, centered to creasta iliacă (corespunzător L4-L5).](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 13.55 PA—hourly, centered to creasta iliacă (corespunzător L4-L5).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.55 PA—hourly, centered to iliac crest.)</span></figcaption>
+<figcaption><strong>Fig. 13.54 PA—15 sau 30 minutes—centrat approximately 2 inches</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.54 PA—15 sau 30 minutes—centrat approximately 2 inches)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.56 Manual compression of ileocecal valve region.](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_3.jpeg)
+![Fig. 13.55 PA—hourly, centrat pe creasta iliacă (corespunzător L4-L5).](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.56 Manual compression of ileocecal valve region.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.56 Manual compression of ileocecal valve region.)</span></figcaption>
+<figcaption><strong>Fig. 13.55 PA—hourly, centrat pe creasta iliacă (corespunzător L4-L5).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.55 PA—hourly, centrat pe creste iliace.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 13.56 Manual compression de ileocecal valve region.](../../assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 13.56 Manual compression de ileocecal valve region.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.56 Manual compression de ileocecal valve region.)</span></figcaption>
 
 </figure>
 

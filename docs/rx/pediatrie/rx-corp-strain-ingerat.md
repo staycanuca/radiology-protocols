@@ -40,6 +40,25 @@ source_mapping:
     section: Investigations
     source_id: 42b444e28cda59c38f9f27a8479de893
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.445752+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 42b444e28cda59c38f9f27a8479de893
+  institution: Royal Children’s Hospital Melbourne
+  section: Investigations
+  title: RCH — Foreign body ingestion
+  url: https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.445752+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: La copilul mic, gât–torace–abdomen când localizarea este necunoscută;
     limitele se decid clinic.
@@ -59,33 +78,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX corp străin ingerat la copil
-sources:
-- id: 42b444e28cda59c38f9f27a8479de893
-  title: RCH — Foreign body ingestion
-  url: https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/
-  institution: Royal Children’s Hospital Melbourne
-  section: Investigations
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.445752+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.445752+00:00'
+title: Rx RX corp străin ingerat la copil
 workbench_transfer:
   draft_id: 18da1542640c5feaa478132216a23d68
-  transferred_at: '2026-09-15T08:50:31.332080+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.332080+00:00'
 ---
-
-# RX corp străin ingerat la copil
+# Rx RX corp străin ingerat la copil
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -198,7 +197,8 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [RCH — Foreign body ingestion](https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/) — Investigations
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [RCH — Foreign body ingestion](https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

@@ -1,39 +1,41 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration to limit patient motion. Alternative Incidență PA Axială
-  If patient cannot assume the Decubit Dorsal position, this image can be obtained
-  as a Incidență Postero-Anterioară (PA) with patient Decubit Ventral, using a 30°
-  to 35° caudad angle. The CR would be centered to the level of L4 or slightly above
-  the creasta iliacă (corespunzător L4-L5). SACROILIAC JOINTS ROUTINE AP axial Posterior
-  oblique projections
+breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
+  pacientului. Alternative Incidență PA Axială If pacient cannot assume Decubit dorsal
+  poziție, this imagine poate fie obtained ca Incidență Postero-Anterioară (PA) cu
+  pacient Decubit ventral, using a 30° la 35° caudal angle. raza centrală would fie
+  centrat pe level de L4 sau slightly above creasta iliacă (corespunzător L4-L5).
+  SACROILIAC articulații ROUTINE AP axial posterior oblic incidențe
 category: membru-inferior
-centering: Angle CR 30° to 35° cephalad (generally, males require about 30° and females
-  35°, with an increase in the lumbosacral curve). Direct CR to midline about 2 inches
-  (5 cm) below level of ASiS. Center IR to CR.
+centering: Raza centrală se înclină 30°–35° cranial (spre cap) (generally, males require
+  about 30° și females 35°, cu increase în lumbosacral curve). Raza centrală se orientează
+  spre midline about 2 inches (5 cm) below level de spină iliacă antero-superioară
+  (SIAS). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- pathology of the SI joint, including suspiciune de fractură and joint luxație /
-  subluxație articulară or subluxation
+- pathology de SI articulație, including suspiciune de fractură și articulație luxație
+  / subluxație articulară sau subluxation
 images:
-- caption: Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad.
+- caption: Fig. 9.72 AP axial de SI articulații—raza centrală 30° la 35° cranial.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.72 AP axial
-    of SI joints—CR 30° to 35° cephalad.)
+    de SI articulații—raza centrală 30° la 35° cranial.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_1.jpeg
-- caption: Fig. 9.73 AP axial of SI joints.
+- caption: Fig. 9.73 AP axial de SI articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.73
-    AP axial of SI joints.)
+    AP axial de SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_2.jpeg
-- caption: Fig. 9.74 AP axial of SI joints.
+- caption: Fig. 9.74 AP axial de SI articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.74
-    AP axial of SI joints.)
+    AP axial de SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side, head on pillow, and legs extended with support under knees for comfort.;
-  Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR
-  (Fig. 9.72). Ensure that Absența rotației anatomice: clavicule echidistante față
-  de linia apofizelor spinoase of Bazin (Pelvis) exists.'
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side,
+  cap pe pillow, și membre inferioare extins cu support under genunchi pentru comfort.;
+  Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei
+  și/sau receptorul de imagine (Fig. 9.72). Se verifică absența rotației: claviculele
+  sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis))
+  exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,18 +43,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sacroiliac joints and L5–S1 intervertebral joint space (Figs. 9.73 and 9.74). Position
+- Sacroiliac articulații și L5–S1 intervertebral spații articulare (Figs. 9.73 și
+  9.74). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as evidenced by spinous process of L5 in center of vertebral body and symmetric
-  appearance of bilateral alae/wings of Sacru (with SI joints equally distant from
-  midline of vertebrae).'
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of Sacru.
-- no motion. 24 30 R Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad. L Fig.
-  9.73 AP axial of SI joints. Lumbosacral (L5-S1) joint Sacral wing (ala) L Ilium
-  Sacru Left sacroiliac joint Apex of Sacru Superior articular process of Sacru Sacral
-  foramina Body of L5 Fig. 9.74 AP axial of SI joints.
+  ca evidenced prin spinous process de L5 în center de vertebral corp și simetric
+  appearance de bilateral alae/wings de Sacru (cu SI articulații equally distant de
+  la midline de vertebre).'
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de Sacru.
+- fără mișcare. 24 30 R Fig. 9.72 AP axial de SI articulații—raza centrală 30° la
+  35° cranial. L Fig. 9.73 AP axial de SI articulații. Lumbosacral (L5-S1) articulație
+  Sacral wing (ala) L Ilium Sacru stâng sacroiliac articulație Apex de Sacru superior
+  articular process de Sacru Sacral foramina corp de L5 Fig. 9.74 AP axial de SI articulații.
 sid_dff: 100 cm
 slug: rx-sacroiliac-joints-ap-axiala-bontrager
 sources:
@@ -60,7 +63,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -87,7 +90,7 @@ title: Rx SACROILIAC JOINTS AP Axială
 
     === "Indicații Clinice"
 
-        - pathology of the SI joint, including suspiciune de fractură and joint luxație / subluxație articulară or subluxation
+        - pathology de SI articulație, including suspiciune de fractură și articulație luxație / subluxație articulară sau subluxation
 
     === "Ghid Național IRIS"
 
@@ -101,10 +104,10 @@ title: Rx SACROILIAC JOINTS AP Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side, head on pillow, and legs extended with support under knees for comfort.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR (Fig. 9.72). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** Angle CR 30° to 35° cephalad (generally, males require about 30° and females 35°, with an increase in the lumbosacral curve). Direct CR to midline about 2 inches (5 cm) below level of ASiS. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side, cap pe pillow, și membre inferioare extins cu support under genunchi pentru comfort.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 9.72). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 30°–35° cranial (spre cap) (generally, males require about 30° și females 35°, cu increase în lumbosacral curve). Raza centrală se orientează spre midline about 2 inches (5 cm) below level de spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration to limit patient motion. Alternative Incidență PA Axială If patient cannot assume the Decubit Dorsal position, this image can be obtained as a Incidență Postero-Anterioară (PA) with patient Decubit Ventral, using a 30° to 35° caudad angle. The CR would be centered to the level of L4 or slightly above the creasta iliacă (corespunzător L4-L5). SACROILIAC JOINTS ROUTINE AP axial Posterior oblique projections
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului. Alternative Incidență PA Axială If pacient cannot assume Decubit dorsal poziție, this imagine poate fie obtained ca Incidență Postero-Anterioară (PA) cu pacient Decubit ventral, using a 30° la 35° caudal angle. raza centrală would fie centrat pe level de L4 sau slightly above creasta iliacă (corespunzător L4-L5). SACROILIAC articulații ROUTINE AP axial posterior oblic incidențe
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -118,18 +121,18 @@ title: Rx SACROILIAC JOINTS AP Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sacroiliac joints and L5–S1 intervertebral joint space (Figs. 9.73 and 9.74). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evidenced by spinous process of L5 in center of vertebral body and symmetric appearance of bilateral alae/wings of Sacru (with SI joints equally distant from midline of vertebrae).
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of Sacru.
-    - no motion. 24 30 R Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad. L Fig. 9.73 AP axial of SI joints. Lumbosacral (L5-S1) joint Sacral wing (ala) L Ilium Sacru Left sacroiliac joint Apex of Sacru Superior articular process of Sacru Sacral foramina Body of L5 Fig. 9.74 AP axial of SI joints.
+    - Sacroiliac articulații și L5–S1 intervertebral spații articulare (Figs. 9.73 și 9.74). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin spinous process de L5 în center de vertebral corp și simetric appearance de bilateral alae/wings de Sacru (cu SI articulații equally distant de la midline de vertebre).
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de Sacru.
+    - fără mișcare. 24 30 R Fig. 9.72 AP axial de SI articulații—raza centrală 30° la 35° cranial. L Fig. 9.73 AP axial de SI articulații. Lumbosacral (L5-S1) articulație Sacral wing (ala) L Ilium Sacru stâng sacroiliac articulație Apex de Sacru superior articular process de Sacru Sacral foramina corp de L5 Fig. 9.74 AP axial de SI articulații.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,25 +152,25 @@ title: Rx SACROILIAC JOINTS AP Axială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_1.jpeg)
+![Fig. 9.72 AP axial de SI articulații—raza centrală 30° la 35° cranial.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.72 AP axial of SI joints—CR 30° to 35° cephalad.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.73 AP axial of SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.73 AP axial of SI joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.73 AP axial of SI joints.)</span></figcaption>
+<figcaption><strong>Fig. 9.72 AP axial de SI articulații—raza centrală 30° la 35° cranial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.72 AP axial de SI articulații—raza centrală 30° la 35° cranial.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.74 AP axial of SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_3.jpeg)
+![Fig. 9.73 AP axial de SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.74 AP axial of SI joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.74 AP axial of SI joints.)</span></figcaption>
+<figcaption><strong>Fig. 9.73 AP axial de SI articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.73 AP axial de SI articulații.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.74 AP axial de SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-ap-axiala-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.74 AP axial de SI articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.74 AP axial de SI articulații.)</span></figcaption>
 
 </figure>
 

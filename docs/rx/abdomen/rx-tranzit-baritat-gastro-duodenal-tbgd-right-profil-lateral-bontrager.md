@@ -1,39 +1,39 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
 centering: 'Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic
-  body type: Center CR and IR to duodenal bulb at level of l1 (level of lower lateral
-  margin of the Coaste (Grilaj Costal)) and 1 to 1½ inches (2.5 to 4 cm) anterior
-  to midcoronal plane (near midway between anterior border of vertebrae and anterior
-  Abdomen) Hypersthenic body type: Center about 2 inches (5 cm) above L1 Asthenic
-  body type: Center about 2 inches (5 cm) below L1'
+  corp type: Center raza centrală și receptorul de imagine la duodenal bulb la level
+  de l1 (level de lower lateral margin de Coaste (Grilaj Costal)) și 1 la 1½ inches
+  (2.5 la 4 cm) anterior la plan mediocoronal (near midway între anterior margine
+  de vertebre și anterior Abdomen) Hypersthenic corp type: Center about 2 inches (5
+  cm) above L1 Asthenic corp type: Center about 2 inches (5 cm) below L1'
 clinical_indications:
-- Pathologic processes of the retrogastric space (space behind the stomach)
-- Diverticula, tumors, gastric ulcers, and traumatism acuttism / Regim Urgență to
-  the stomach may be demonstrated along posterior margin of stomach
+- Pathologic processes de retrogastric space (space behind stomach)
+- Diverticula, tumors, gastric ulcers, și traumatism acuttism / Regim Urgență la stomach
+  poate fie evidențiat along posterior margin de stomach
 images:
-- caption: Fig. 12.98 Right Incidență de Profil (Lateral).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.98 Right lateral
-    position.)
+- caption: Fig. 12.98 drept Incidență de Profil (lateral).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.98 drept poziție
+    de profil (lateral).)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 12.100 Right lateral upper GI position.
+- caption: Fig. 12.100 drept lateral upper GI poziție.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.100
-    Right lateral upper GI position.)
+    drept lateral upper GI poziție.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 12.99 Right lateral upper GI position.
+- caption: Fig. 12.99 drept lateral upper GI poziție.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.99
-    Right lateral upper GI position.)
+    drept lateral upper GI poziție.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: The stomach generally is located about one vertebra higher in this position
-  than in the PA or Incidență Oblică. Fig. 12.98 Right Incidență de Profil (Lateral).
-position: 'Pacient: Position patient Decubit in a right Incidență de Profil (Lateral)
-  (Fig. 12.98). Provide a support for patient’s head. Place arms up near patient’s
-  head and flex knees.; Regiune anatomică: Ensure that shoulders and hips are in a
-  true Incidență de Profil (Lateral). Center IR at CR (bottom of IR about at level
-  of creasta iliacă (corespunzător L4-L5)).'
+notes: stomach generally este located about one vertebra higher în this poziție than
+  în PA sau Incidență Oblică. Fig. 12.98 drept Incidență de Profil (lateral).
+position: 'Pacient: poziție pacient Decubit în drept Incidență de Profil (lateral)
+  (Fig. 12.98). Provide support pentru pacient’s cap. Place brațe up near pacient’s
+  cap și flex genunchi.; Regiune anatomică: Ensure that umeri și hips sunt în true
+  Incidență de Profil (lateral). Center receptorul de imagine la raza centrală (bottom
+  de receptorul de imagine about la level de creasta iliacă (corespunzător L4-L5)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,26 +41,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire stomach and duodenum are visible (Figs. 12.99 and 12.100).
-- Retrogastric space is demonstrated.
-- 'Pylorus of stomach and Cloop of duodenum should be visualized well on hypersthenic
-  patients. Position:'
+- Entire stomac și duoden sunt vizibil (Figs. 12.99 și 12.100).
+- Retrogastric space este evidențiat.
+- 'Pylorus de stomach și Cloop de duodenum trebuie să fie visualized well pe hypersthenic
+  pacienți. poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  should be present.'
-- Vertebral bodies should be seen for reference purposes.
-- Intervertebral foramen should be open, indicating a true Incidență de Profil (Lateral).
-- Proper collimation field size is applied.
-- 'CR is centered to duodenal bulb at level of L1. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the gastric folds without
+  trebuie să fie present.'
+- Vertebral corpuri trebuie să fie seen pentru reference purposes.
+- Intervertebral foramen trebuie să fie open, indicating true Incidență de Profil
+  (lateral).
+- corect collimation field size este applied.
+- 'raza centrală este centrat pe duodenal bulb la level de L1. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize gastric folds fără
   overexposing other pertinent anatomy.
-- Sharp structural margins indicate no motion. Tranzit Baritat Gastro-Duodenal (TBGD)
+- net structural margins indicate fără mișcare. Tranzit Baritat Gastro-Duodenal (TBGD)
   ROUTINE
 - RAO
 - PA
-- Right lateral
+- drept lateral
 - LPO
-- AP R Fundus Pyloric antrum Duodenal bulb Body Fig. 12.100 Right lateral upper GI
-  position. Fig. 12.99 Right lateral upper GI position.
+- AP R Fundus Pyloric antrum Duodenal bulb corp Fig. 12.100 drept lateral upper GI
+  poziție. Fig. 12.99 drept lateral upper GI poziție.
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager
 sources:
@@ -68,7 +69,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,8 +96,8 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RIGHT Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Pathologic processes of the retrogastric space (space behind the stomach)
-        - Diverticula, tumors, gastric ulcers, and traumatism acuttism / Regim Urgență to the stomach may be demonstrated along posterior margin of stomach
+        - Pathologic processes de retrogastric space (space behind stomach)
+        - Diverticula, tumors, gastric ulcers, și traumatism acuttism / Regim Urgență la stomach poate fie evidențiat along posterior margin de stomach
 
     === "Ghid Național IRIS"
 
@@ -110,10 +111,10 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RIGHT Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit in a right Incidență de Profil (Lateral) (Fig. 12.98). Provide a support for patient’s head. Place arms up near patient’s head and flex knees.; Regiune anatomică: Ensure that shoulders and hips are in a true Incidență de Profil (Lateral). Center IR at CR (bottom of IR about at level of creasta iliacă (corespunzător L4-L5)).
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic body type: Center CR and IR to duodenal bulb at level of l1 (level of lower lateral margin of the Coaste (Grilaj Costal)) and 1 to 1½ inches (2.5 to 4 cm) anterior to midcoronal plane (near midway between anterior border of vertebrae and anterior Abdomen) Hypersthenic body type: Center about 2 inches (5 cm) above L1 Asthenic body type: Center about 2 inches (5 cm) below L1
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit în drept Incidență de Profil (lateral) (Fig. 12.98). Provide support pentru pacient’s cap. Place brațe up near pacient’s cap și flex genunchi.; Regiune anatomică: Ensure that umeri și hips sunt în true Incidență de Profil (lateral). Center receptorul de imagine la raza centrală (bottom de receptorul de imagine about la level de creasta iliacă (corespunzător L4-L5)).
+    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic corp type: Center raza centrală și receptorul de imagine la duodenal bulb la level de l1 (level de lower lateral margin de Coaste (Grilaj Costal)) și 1 la 1½ inches (2.5 la 4 cm) anterior la plan mediocoronal (near midway între anterior margine de vertebre și anterior Abdomen) Hypersthenic corp type: Center about 2 inches (5 cm) above L1 Asthenic corp type: Center about 2 inches (5 cm) below L1
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,28 +128,28 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RIGHT Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomach and duodenum are visible (Figs. 12.99 and 12.100).
-    - Retrogastric space is demonstrated.
-    - Pylorus of stomach and Cloop of duodenum should be visualized well on hypersthenic patients. Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase should be present.
-    - Vertebral bodies should be seen for reference purposes.
-    - Intervertebral foramen should be open, indicating a true Incidență de Profil (Lateral).
-    - Proper collimation field size is applied.
-    - CR is centered to duodenal bulb at level of L1. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the gastric folds without overexposing other pertinent anatomy.
-    - Sharp structural margins indicate no motion. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE
+    - Entire stomac și duoden sunt vizibil (Figs. 12.99 și 12.100).
+    - Retrogastric space este evidențiat.
+    - Pylorus de stomach și Cloop de duodenum trebuie să fie visualized well pe hypersthenic pacienți. poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase trebuie să fie present.
+    - Vertebral corpuri trebuie să fie seen pentru reference purposes.
+    - Intervertebral foramen trebuie să fie open, indicating true Incidență de Profil (lateral).
+    - corect collimation field size este applied.
+    - raza centrală este centrat pe duodenal bulb la level de L1. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize gastric folds fără overexposing other pertinent anatomy.
+    - net structural margins indicate fără mișcare. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE
     - RAO
     - PA
-    - Right lateral
+    - drept lateral
     - LPO
-    - AP R Fundus Pyloric antrum Duodenal bulb Body Fig. 12.100 Right lateral upper GI position. Fig. 12.99 Right lateral upper GI position.
+    - AP R Fundus Pyloric antrum Duodenal bulb corp Fig. 12.100 drept lateral upper GI poziție. Fig. 12.99 drept lateral upper GI poziție.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -161,7 +162,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RIGHT Profil (Lateral)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    The stomach generally is located about one vertebra higher in this position than in the PA or Incidență Oblică. Fig. 12.98 Right Incidență de Profil (Lateral).
+    stomach generally este located about one vertebra higher în this poziție than în PA sau Incidență Oblică. Fig. 12.98 drept Incidență de Profil (lateral).
 
 
 ### 🖼️ Imagini
@@ -170,25 +171,25 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RIGHT Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.98 Right Incidență de Profil (Lateral).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 12.98 drept Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.98 Right Incidență de Profil (Lateral).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.98 Right lateral position.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 12.100 Right lateral upper GI position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 12.100 Right lateral upper GI position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.100 Right lateral upper GI position.)</span></figcaption>
+<figcaption><strong>Fig. 12.98 drept Incidență de Profil (lateral).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.98 drept poziție de profil (lateral).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.99 Right lateral upper GI position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 12.100 drept lateral upper GI poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.99 Right lateral upper GI position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.99 Right lateral upper GI position.)</span></figcaption>
+<figcaption><strong>Fig. 12.100 drept lateral upper GI poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.100 drept lateral upper GI poziție.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 12.99 drept lateral upper GI poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-right-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 12.99 drept lateral upper GI poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.99 drept lateral upper GI poziție.)</span></figcaption>
 
 </figure>
 

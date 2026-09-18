@@ -2,42 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: would be directed tangential to the posterior aspect of the first MTP joint.
-  Use support to prevent motion. However, this is not a desirable projection because
-  of the increased object–image receptor distance (OID) with accompanying magnification
-  and loss of definition. Degete Picior SPECIAL Sesamoids (tangential) Fig. 6.54 Tangential
-  projection. (Courtesy Joss Wertz, DO.) Tibial and fibular sesamoids Distal 1st metatarsal
-  Fig. 6.55 Tangential projection. (Courtesy Joss Wertz, DO.)
+centering: would fie orientat tangențial pe posterior aspect de first articulații
+  metatarsofalangiene (MTF). Use support la prevent mișcare. However, this este nu
+  desirable incidență because de increased object–receptorul de imagine distance (OID)
+  cu accompanying magnification și loss de definition. Degete Picior SPECIAL Sesamoids
+  (tangențial) Fig. 6.54 tangențial incidență. (Courtesy Joss Wertz, DO.) Tibial și
+  fibular sesamoids distal 1st metatarsal Fig. 6.55 tangențial incidență. (Courtesy
+  Joss Wertz, DO.)
 clinical_indications:
-- This projection provides a profile image of the sesamoid bones at the first MTP
-  joint for evaluation of extent of injury.
+- This incidență provides profile imagine de sesamoid bones la first articulații metatarsofalangiene
+  (MTF) pentru evaluation de extent de injury.
 images:
-- caption: Fig. 6.54 Tangential projection.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.54 Tangential
-    projection.)
+- caption: Fig. 6.54 tangențial incidență.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.54 tangențial
+    incidență.)
   url: assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_1.jpeg
-- caption: Fig. 6.55 Tangential projection.
+- caption: Fig. 6.55 tangențial incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.55
-    Tangential projection.)
+    tangențial incidență.)
   url: assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_2.jpeg
-- caption: Fig. 6.52 Tangential projection—patient Decubit Ventral.
+- caption: Fig. 6.52 tangențial incidență—pacient Decubit ventral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.52
-    Tangential projection—patient prone.)
+    tangențial incidență—pacient în decubit ventral.)
   url: assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_3.jpeg
-- caption: Fig. 6.53 Alternative projection—patient Decubit Dorsal.
+- caption: Fig. 6.53 Alternative incidență—pacient Decubit dorsal.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.53
-    Alternative projection—patient supine.)
+    Alternative incidență—pacient în decubit dorsal.)
   url: assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This is an uncomfortable and often painful position; do not keep patient in
-  this position longer than necessary.
-position: 'Pacient: Place patient Decubit Ventral; provide a pillow for patient’s
-  head and a small sponge or folded towel under Gambă for comfort.; Regiune anatomică:
-  Dorsiflex the Picior so that the plantar surface of the Picior forms a 15° to 20°
-  angle from vertical (Figs. 6.52 and 6.53). Dorsiflex the first digit (great toe)
-  and rest on IR to maintain position. Ensure that long axis of Picior is not rotated;
-  place sandbags or other support on both sides of Picior to prevent movement.'
+notes: This este uncomfortable și often painful poziție; do nu keep pacient în this
+  poziție longer than necessary.
+position: 'Pacient: Place pacient Decubit ventral; provide pillow pentru pacient’s
+  cap și small sponge sau folded towel under Gambă pentru comfort.; Regiune anatomică:
+  Dorsiflex Picior astfel încât plantar surface de Picior forms a 15° la 20° angle
+  de la vertical (Figs. 6.52 și 6.53). Dorsiflex first falange (great toe) și rest
+  pe receptorul de imagine la maintain poziție. Ensure that axa longitudinală de Picior
+  este nu rotit; place săculeți cu nisip sau other support pe ambele părți (bilateral)
+  de Picior la prevent movement.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,9 +47,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sesamoids should be seen in profile free of superimposition.
-- A minimum of the first three distal metatarsals should be included in collimation
-  field for possible sesamoids, with the center of the foursided
+- Sesamoids trebuie să fie seen în profile liber de superimposition.
+- minimum de first three distal oase metatarsiene trebuie să fie included în collimation
+  field pentru possible sesamoids, cu center de foursided
 sid_dff: 100 cm
 slug: rx-degete-picior-tangential-projection-sesamoids-bontrager
 sources:
@@ -55,24 +57,24 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'field (CR) at the posterior portion of the first MTP joint (Figs.
-    6.54 and 6.55). Position: Borders of posterior margins of first to third distal
-    metatarsals are seen in profile, indicating correct dorsiflexion of Picior. Centering
-    and CR angulation are correct if the sesamoids are free of any bony superimposition
-    and open space is demonstrated between sesamoids and first metatarsal. Exposure:
-    No motion as evidenced by sharp bony cortical margins and detailed trabeculae.
-    Optimal image receptor exposure and contrast will allow visualization of bony
-    cortical margins and trabeculae and soft tissue structures without sesamoids appearing
-    overexposed. Fig. 6.52 Tangential projection—patient Decubit Ventral. Fig. 6.53
-    Alternative projection—patient Decubit Dorsal.'
+  collimation: 'field (raza centrală) la posterior portion de first articulații metatarsofalangiene
+    (MTF) (Figs. 6.54 și 6.55). poziție: margini de posterior margins de first la
+    third distal oase metatarsiene sunt seen în profile, indicating correct dorsiflexion
+    de Picior. Centering și raza centrală angulation sunt correct if sesamoids sunt
+    liber de orice bony superimposition și open space este evidențiat între sesamoids
+    și first metatarsal. expunere: fără mișcare ca evidenced prin net bony cortical
+    margins și detailed trabeculae. optim receptorul de imagine expunere și contrast
+    will allow visualization de bony cortical margins și trabeculae și părți moi structures
+    fără sesamoids appearing overexposed. Fig. 6.52 tangențial incidență—pacient Decubit
+    ventral. Fig. 6.53 Alternative incidență—pacient Decubit dorsal.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 50-60
   mas: DE CONFIGURAT PE APARAT
-title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
+title: Rx Degete Picior TANGENTIAL Incidență (SESAMOIDS)
 ---
-# Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
+# Rx Degete Picior TANGENTIAL Incidență (SESAMOIDS)
 
 
 <div class="rx-meta-bar">
@@ -91,7 +93,7 @@ title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
 
     === "Indicații Clinice"
 
-        - This projection provides a profile image of the sesamoid bones at the first MTP joint for evaluation of extent of injury.
+        - This incidență provides profile imagine de sesamoid bones la first articulații metatarsofalangiene (MTF) pentru evaluation de extent de injury.
 
     === "Ghid Național IRIS"
 
@@ -105,8 +107,8 @@ title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient Decubit Ventral; provide a pillow for patient’s head and a small sponge or folded towel under Gambă for comfort.; Regiune anatomică: Dorsiflex the Picior so that the plantar surface of the Picior forms a 15° to 20° angle from vertical (Figs. 6.52 and 6.53). Dorsiflex the first digit (great toe) and rest on IR to maintain position. Ensure that long axis of Picior is not rotated; place sandbags or other support on both sides of Picior to prevent movement.
-    - **Punct de Centrare Fascicul:** would be directed tangential to the posterior aspect of the first MTP joint. Use support to prevent motion. However, this is not a desirable projection because of the increased object–image receptor distance (OID) with accompanying magnification and loss of definition. Degete Picior SPECIAL Sesamoids (tangential) Fig. 6.54 Tangential projection. (Courtesy Joss Wertz, DO.) Tibial and fibular sesamoids Distal 1st metatarsal Fig. 6.55 Tangential projection. (Courtesy Joss Wertz, DO.)
+    - **Poziție Pacient:** Pacient: Place pacient Decubit ventral; provide pillow pentru pacient’s cap și small sponge sau folded towel under Gambă pentru comfort.; Regiune anatomică: Dorsiflex Picior astfel încât plantar surface de Picior forms a 15° la 20° angle de la vertical (Figs. 6.52 și 6.53). Dorsiflex first falange (great toe) și rest pe receptorul de imagine la maintain poziție. Ensure that axa longitudinală de Picior este nu rotit; place săculeți cu nisip sau other support pe ambele părți (bilateral) de Picior la prevent movement.
+    - **Punct de Centrare Fascicul:** would fie orientat tangențial pe posterior aspect de first articulații metatarsofalangiene (MTF). Use support la prevent mișcare. However, this este nu desirable incidență because de increased object–receptorul de imagine distance (OID) cu accompanying magnification și loss de definition. Degete Picior SPECIAL Sesamoids (tangențial) Fig. 6.54 tangențial incidență. (Courtesy Joss Wertz, DO.) Tibial și fibular sesamoids distal 1st metatarsal Fig. 6.55 tangențial incidență. (Courtesy Joss Wertz, DO.)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -122,15 +124,15 @@ title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | field (CR) at the posterior portion of the first MTP joint (Figs. 6.54 and 6.55). Position: Borders of posterior margins of first to third distal metatarsals are seen in profile, indicating correct dorsiflexion of Picior. Centering and CR angulation are correct if the sesamoids are free of any bony superimposition and open space is demonstrated between sesamoids and first metatarsal. Exposure: No motion as evidenced by sharp bony cortical margins and detailed trabeculae. Optimal image receptor exposure and contrast will allow visualization of bony cortical margins and trabeculae and soft tissue structures without sesamoids appearing overexposed. Fig. 6.52 Tangential projection—patient Decubit Ventral. Fig. 6.53 Alternative projection—patient Decubit Dorsal. |
+    | **Colimare Fascicul** | field (raza centrală) la posterior portion de first articulații metatarsofalangiene (MTF) (Figs. 6.54 și 6.55). poziție: margini de posterior margins de first la third distal oase metatarsiene sunt seen în profile, indicating correct dorsiflexion de Picior. Centering și raza centrală angulation sunt correct if sesamoids sunt liber de orice bony superimposition și open space este evidențiat între sesamoids și first metatarsal. expunere: fără mișcare ca evidenced prin net bony cortical margins și detailed trabeculae. optim receptorul de imagine expunere și contrast will allow visualization de bony cortical margins și trabeculae și părți moi structures fără sesamoids appearing overexposed. Fig. 6.52 tangențial incidență—pacient Decubit ventral. Fig. 6.53 Alternative incidență—pacient Decubit dorsal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sesamoids should be seen in profile free of superimposition.
-    - A minimum of the first three distal metatarsals should be included in collimation field for possible sesamoids, with the center of the foursided
+    - Sesamoids trebuie să fie seen în profile liber de superimposition.
+    - minimum de first three distal oase metatarsiene trebuie să fie included în collimation field pentru possible sesamoids, cu center de foursided
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +145,7 @@ title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This is an uncomfortable and often painful position; do not keep patient in this position longer than necessary.
+    This este uncomfortable și often painful poziție; do nu keep pacient în this poziție longer than necessary.
 
 
 ### 🖼️ Imagini
@@ -152,33 +154,33 @@ title: Rx Degete Picior TANGENTIAL PROJECTION (SESAMOIDS)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.54 Tangential projection.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_1.jpeg)
+![Fig. 6.54 tangențial incidență.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.54 Tangential projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.54 Tangential projection.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.55 Tangential projection.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.55 Tangential projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.55 Tangential projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.54 tangențial incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.54 tangențial incidență.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.52 Tangential projection—patient Decubit Ventral.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_3.jpeg)
+![Fig. 6.55 tangențial incidență.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.52 Tangential projection—patient Decubit Ventral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.52 Tangential projection—patient prone.)</span></figcaption>
+<figcaption><strong>Fig. 6.55 tangențial incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.55 tangențial incidență.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.53 Alternative projection—patient Decubit Dorsal.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_4.jpeg)
+![Fig. 6.52 tangențial incidență—pacient Decubit ventral.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.53 Alternative projection—patient Decubit Dorsal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.53 Alternative projection—patient supine.)</span></figcaption>
+<figcaption><strong>Fig. 6.52 tangențial incidență—pacient Decubit ventral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.52 tangențial incidență—pacient în decubit ventral.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.53 Alternative incidență—pacient Decubit dorsal.](../../assets/images/protocols/bontrager/rx-degete-picior-tangential-projection-sesamoids-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 6.53 Alternative incidență—pacient Decubit dorsal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.53 Alternative incidență—pacient în decubit dorsal.)</span></figcaption>
 
 </figure>
 

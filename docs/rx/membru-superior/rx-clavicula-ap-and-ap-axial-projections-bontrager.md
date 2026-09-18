@@ -1,36 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration at end of inhalation (helps to elevate clavicles).
-  Alternative PA Radiograph also may be taken as Incidență Postero-Anterioară (PA)
-  or PA axial with 15° to 30° caudal angle.
+breathing: Apnee pe durata expunerii la end de inhalation (helps la elevate clavicles).
+  Alternative PA radiografie also poate fie taken ca Incidență Postero-Anterioară
+  (PA) sau PA axial cu 15° la 30° caudal angle.
 category: membru-superior
-centering: 15° to 30° cephalad to midclavicle (Fig. 5.89) (see NOTE)
+centering: 15° la 30° cranial la midclavicle (Fig. 5.89) (see NOTE)
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of Claviculă
-- Departmental routines commonly include both AP and AP axial projections
+- suspiciune de fractură sau luxație / subluxație articulară de Claviculă
+- Departmental routines commonly include ambele AP și AP axial incidențe
 images:
 - caption: Fig. 5.90B).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.90B).)
   url: assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_1.jpeg
-- caption: Fig. 5.88 AP Claviculă—CR 0°.
+- caption: Fig. 5.88 AP Claviculă—raza centrală 0°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.88
-    AP clavicle—CR 0°.)
+    AP clavicle—raza centrală 0°.)
   url: assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_2.jpeg
-- caption: Fig. 5.89 AP axial Claviculă—CR 15° to 30° cephalad.
+- caption: Fig. 5.89 AP axial Claviculă—raza centrală 15° la 30° cranial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.89
-    AP axial clavicle—CR 15° to 30° cephalad.)
+    AP axial clavicle—raza centrală 15° la 30° cranial.)
   url: assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Thin (asthenic) patients require 25° to 30° CR angle; patients with thick shoulders
-  and Torace (hypersthenic) require 15° to 20° CR angle. Claviculă ROUTINE AP and
-  AP axial
-position: 'Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal
-  position with arms at sides, chin raised, and looking straight ahead. Posterior
-  Umăr should be in contact with IR or tabletop, without rotation of body (Fig. 5.88).;
-  Regiune anatomică: Center Claviculă and IR to CR. (Claviculă can be readily palpated
-  with medial aspect at incizura jugulară (manubriul sternal) and lateral portion
-  at AC joint above Umăr.)'
+notes: Thin (asthenic) pacienți require 25° la 30° raza centrală angle; pacienți cu
+  thick umeri și Torace (hypersthenic) require 15° la 20° raza centrală angle. Claviculă
+  ROUTINE AP și AP axial
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
+  poziție cu brațele pe lângă corp, chin raised, și looking straight ahead. posterior
+  Umăr trebuie să fie în contact cu receptorul de imagine sau tabletop, fără rotație
+  de corp (Fig. 5.88).; Regiune anatomică: Center Claviculă și receptorul de imagine
+  la raza centrală. (Claviculă poate fie readily palpated cu medial aspect la incizura
+  jugulară (manubriul sternal) și lateral portion la articulații acromioclaviculare
+  above Umăr.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,11 +39,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Claviculă visualized, including both AC and sternoclavicular joints and acromion.
-- 'Entire Claviculă visualized, including both AC and sternoclavicular joints and
-  acromion. Position: Position:'
-- Claviculă is demonstrated without any foreshortening.
-- The midclavicle is superimposed on the superior scapular angle (Fig. 5.90A).
+- Entire Claviculă visualized, including ambele AC și articulații sternoclaviculare
+  și acromion.
+- 'Entire Claviculă visualized, including ambele AC și articulații sternoclaviculare
+  și acromion. poziție: poziție:'
+- Claviculă este evidențiat fără orice foreshortening.
+- midclavicle este superimposed pe superior scapular angle (Fig. 5.90A).
 sid_dff: 100 cm
 slug: rx-clavicula-ap-and-ap-axial-projections-bontrager
 sources:
@@ -50,26 +52,27 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 'field size borders should be visible. Correct angulation of CR projects
-    most of the Claviculă above the Omoplat (Scapulă) and second and third Coaste
-    (Grilaj Costal). Only the medial portion of the Claviculă is superimposed by the
-    first and second Coaste (Grilaj Costal) (see Fig. 5.90B). Exposure: Exposure:
-    Midclavicle, sternal, and acromial extremities demonstrate clear, Contururi osoase
-    și travee trabeculare nete, fără artefacte de mișcare and soft tissue detail.
-    Optimal exposure demonstrates the distal Claviculă and AC joint without excessive
-    image receptor exposure. Bony margins and trabecular markings should appear sharp,
-    indicating no motion, and medial Claviculă and sternoclavicular joint should be
-    visualized through the thorax. Fig. 5.88 AP Claviculă—CR 0°. Fig. 5.89 AP axial
-    Claviculă—CR 15° to 30° cephalad. A B Fig. 5.90 (A) AP—CR 0°. 5.89.(B) AP axial
-    Claviculă—25°. (Courtesy Joss Wertz, DO.)'
+  collimation: 'field size margini trebuie să fie vizibil. Correct angulation de raza
+    centrală projects most de Claviculă above Omoplat (Scapulă) și second și third
+    Coaste (Grilaj Costal). Only medial portion de Claviculă este superimposed prin
+    first și second Coaste (Grilaj Costal) (see Fig. 5.90B). expunere: expunere: Midclavicle,
+    sternal, și acromial extremities evidențiază clear, Contururi osoase și travee
+    trabeculare nete, fără artefacte de mișcare și părți moi detail. optim expunere
+    evidențiază distal Claviculă și articulații acromioclaviculare fără excessive
+    receptorul de imagine expunere. Bony margins și trabecular markings trebuie să
+    appear net, indicating fără mișcare, și medial Claviculă și articulații sternoclaviculare
+    trebuie să fie visualized through thorax. Fig. 5.88 AP Claviculă—raza centrală
+    0°. Fig. 5.89 AP axial Claviculă—raza centrală 15° la 30° cranial. B Fig. 5.90
+    (A) AP—raza centrală 0°. 5.89.(B) AP axial Claviculă—25°. (Courtesy Joss Wertz,
+    DO.)'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
+title: Rx Claviculă AP AND AP AXIAL Incidență
 ---
-# Rx Claviculă AP AND AP AXIAL PROJECTIONS
+# Rx Claviculă AP AND AP AXIAL Incidență
 
 
 <div class="rx-meta-bar">
@@ -88,8 +91,8 @@ title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of Claviculă
-        - Departmental routines commonly include both AP and AP axial projections
+        - suspiciune de fractură sau luxație / subluxație articulară de Claviculă
+        - Departmental routines commonly include ambele AP și AP axial incidențe
 
     === "Ghid Național IRIS"
 
@@ -103,10 +106,10 @@ title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal position with arms at sides, chin raised, and looking straight ahead. Posterior Umăr should be in contact with IR or tabletop, without rotation of body (Fig. 5.88).; Regiune anatomică: Center Claviculă and IR to CR. (Claviculă can be readily palpated with medial aspect at incizura jugulară (manubriul sternal) and lateral portion at AC joint above Umăr.)
-    - **Punct de Centrare Fascicul:** 15° to 30° cephalad to midclavicle (Fig. 5.89) (see NOTE)
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție cu brațele pe lângă corp, chin raised, și looking straight ahead. posterior Umăr trebuie să fie în contact cu receptorul de imagine sau tabletop, fără rotație de corp (Fig. 5.88).; Regiune anatomică: Center Claviculă și receptorul de imagine la raza centrală. (Claviculă poate fie readily palpated cu medial aspect la incizura jugulară (manubriul sternal) și lateral portion la articulații acromioclaviculare above Umăr.)
+    - **Punct de Centrare Fascicul:** 15° la 30° cranial la midclavicle (Fig. 5.89) (see NOTE)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration at end of inhalation (helps to elevate clavicles). Alternative PA Radiograph also may be taken as Incidență Postero-Anterioară (PA) or PA axial with 15° to 30° caudal angle.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii la end de inhalation (helps la elevate clavicles). Alternative PA radiografie also poate fie taken ca Incidență Postero-Anterioară (PA) sau PA axial cu 15° la 30° caudal angle.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -120,17 +123,17 @@ title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size borders should be visible. Correct angulation of CR projects most of the Claviculă above the Omoplat (Scapulă) and second and third Coaste (Grilaj Costal). Only the medial portion of the Claviculă is superimposed by the first and second Coaste (Grilaj Costal) (see Fig. 5.90B). Exposure: Exposure: Midclavicle, sternal, and acromial extremities demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and soft tissue detail. Optimal exposure demonstrates the distal Claviculă and AC joint without excessive image receptor exposure. Bony margins and trabecular markings should appear sharp, indicating no motion, and medial Claviculă and sternoclavicular joint should be visualized through the thorax. Fig. 5.88 AP Claviculă—CR 0°. Fig. 5.89 AP axial Claviculă—CR 15° to 30° cephalad. A B Fig. 5.90 (A) AP—CR 0°. 5.89.(B) AP axial Claviculă—25°. (Courtesy Joss Wertz, DO.) |
+    | **Colimare Fascicul** | field size margini trebuie să fie vizibil. Correct angulation de raza centrală projects most de Claviculă above Omoplat (Scapulă) și second și third Coaste (Grilaj Costal). Only medial portion de Claviculă este superimposed prin first și second Coaste (Grilaj Costal) (see Fig. 5.90B). expunere: expunere: Midclavicle, sternal, și acromial extremities evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și părți moi detail. optim expunere evidențiază distal Claviculă și articulații acromioclaviculare fără excessive receptorul de imagine expunere. Bony margins și trabecular markings trebuie să appear net, indicating fără mișcare, și medial Claviculă și articulații sternoclaviculare trebuie să fie visualized through thorax. Fig. 5.88 AP Claviculă—raza centrală 0°. Fig. 5.89 AP axial Claviculă—raza centrală 15° la 30° cranial. B Fig. 5.90 (A) AP—raza centrală 0°. 5.89.(B) AP axial Claviculă—25°. (Courtesy Joss Wertz, DO.) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Claviculă visualized, including both AC and sternoclavicular joints and acromion.
-    - Entire Claviculă visualized, including both AC and sternoclavicular joints and acromion. Position: Position:
-    - Claviculă is demonstrated without any foreshortening.
-    - The midclavicle is superimposed on the superior scapular angle (Fig. 5.90A).
+    - Entire Claviculă visualized, including ambele AC și articulații sternoclaviculare și acromion.
+    - Entire Claviculă visualized, including ambele AC și articulații sternoclaviculare și acromion. poziție: poziție:
+    - Claviculă este evidențiat fără orice foreshortening.
+    - midclavicle este superimposed pe superior scapular angle (Fig. 5.90A).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +146,7 @@ title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Thin (asthenic) patients require 25° to 30° CR angle; patients with thick shoulders and Torace (hypersthenic) require 15° to 20° CR angle. Claviculă ROUTINE AP and AP axial
+    Thin (asthenic) pacienți require 25° la 30° raza centrală angle; pacienți cu thick umeri și Torace (hypersthenic) require 15° la 20° raza centrală angle. Claviculă ROUTINE AP și AP axial
 
 
 ### 🖼️ Imagini
@@ -160,17 +163,17 @@ title: Rx Claviculă AP AND AP AXIAL PROJECTIONS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.88 AP Claviculă—CR 0°.](../../assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_2.jpeg)
+![Fig. 5.88 AP Claviculă—raza centrală 0°.](../../assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.88 AP Claviculă—CR 0°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.88 AP clavicle—CR 0°.)</span></figcaption>
+<figcaption><strong>Fig. 5.88 AP Claviculă—raza centrală 0°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.88 AP clavicle—raza centrală 0°.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.89 AP axial Claviculă—CR 15° to 30° cephalad.](../../assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_3.jpeg)
+![Fig. 5.89 AP axial Claviculă—raza centrală 15° la 30° cranial.](../../assets/images/protocols/bontrager/rx-clavicula-ap-and-ap-axial-projections-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.89 AP axial Claviculă—CR 15° to 30° cephalad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.89 AP axial clavicle—CR 15° to 30° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 5.89 AP axial Claviculă—raza centrală 15° la 30° cranial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.89 AP axial clavicle—raza centrală 15° la 30° cranial.)</span></figcaption>
 
 </figure>
 

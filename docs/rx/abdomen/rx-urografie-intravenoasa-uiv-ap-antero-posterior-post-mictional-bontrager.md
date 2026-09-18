@@ -1,43 +1,43 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration after expiration and expose. Alternative PA or AP Decubit
-  This image also may be taken as a PA or Incidență Antero-Posterioară (AP) in the
-  Decubit position, with centering similar to that described earlier. Post-voi d Urografie
-  Intravenoasă (UIV)—IVU ROUTINE AP (scout and series) Nephrogram RPO and LPO (30°)
-  AP—Post-Micțional Ortostatism or Decubit Fig. 14.79 AP Ortostatism (Post-Micțional).
-  Center at creasta iliacă (corespunzător L4-L5) to include the simfiza pubiană. Fig.
-  14.80 Alternative—PA Decubit Ventral (Post-Micțional).
+breathing: Apnee pe durata expunerii after expiration și expose. Alternative PA sau
+  AP Decubit This imagine also poate fie taken ca PA sau Incidență Antero-Posterioară
+  (AP) în Decubit poziție, cu centering similar la that described earlier. Post-voi
+  d Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout și series) Nephrogram RPO și
+  LPO (30°) AP—Post-Micțional Ortostatism sau Decubit Fig. 14.79 AP Ortostatism (Post-Micțional).
+  Center la creasta iliacă (corespunzător L4-L5) pentru include simfiza pubiană. Fig.
+  14.80 Alternative—PA Decubit ventral (Post-Micțional).
 category: abdomen
 centering: Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Center
-  to level of creasta iliacă (corespunzător L4-L5) and midsagittal plane or, for bariatric
-  patients, 1 inch (2.5 cm) lower to ensure that the bladder area is included.
+  la level de creasta iliacă (corespunzător L4-L5) și plan mediosagital sau, pentru
+  bariatric pacienți, 1 inch (2.5 cm) lower la ensure that bladder area este included.
 clinical_indications:
-- Position may demonstrate enlarged prostate (possible BPH) or prolapse of the bladder.
-  The Ortostatism position demonstrates nephroptosis (abnormal positional change of
-  kidneys).
+- poziție poate evidențiază enlarged prostate (possible BPH) sau prolapse de bladder.
+  Ortostatism poziție evidențiază nephroptosis (abnormal positional change de rinichi).
 images:
-- caption: Fig. 14.79 AP Ortostatism (Post-Micțional). Center at creasta iliacă (corespunzător
-    L4-L5) to include the
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.79 AP erect
-    (postvoid). Center at iliac crest to include the)
+- caption: Fig. 14.79 AP Ortostatism (Post-Micțional). Center la creasta iliacă (corespunzător
+    L4-L5) pentru include
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.79 AP în ortostatism
+    (postvoid). Center la creste iliace pentru include)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_1.jpeg
-- caption: Fig. 14.80 Alternative—PA Decubit Ventral (Post-Micțional).
+- caption: Fig. 14.80 Alternative—PA Decubit ventral (Post-Micțional).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.80
-    Alternative—PA prone (postvoid).)
+    Alternative—PA în decubit ventral (postvoid).)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_2.jpeg
-- caption: Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse of bladder.
+- caption: Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse de bladder.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.81
-    AP erect (postvoid)—prolapse of bladder.)
+    AP în ortostatism (postvoid)—prolapse de bladder.)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Patient is Ortostatism, with back against the table, or in Decubit
-  Ventral position (Figs. 14.79 and 14.80).; Regiune anatomică: Align midsagittal
-  plane to center of table, physical grid, or IR, with Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase. Position arms away from
-  the body. Ensure that the simfiza pubiană is included on bottom of the IR. Center
-  low enough to include the prostate area, especially on older men.'
+position: 'Pacient: pacient este Ortostatism, cu back pe / sprijinit de table, sau
+  în Decubit ventral poziție (Figs. 14.79 și 14.80).; Regiune anatomică: Align plan
+  mediosagital la center de table, physical grilă, sau receptorul de imagine, cu Absența
+  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. poziție
+  brațe away de la corp. Ensure that simfiza pubiană este included pe bottom de receptorul
+  de imagine. Center low enough pentru include prostate area, especially pe older
+  men.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,18 +45,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire urinary system is included, with only residual contrast medium visible (Fig.
+- Entire urinary system este included, cu only residual contrast medium vizibil (Fig.
   14.81).
-- 'All of simfiza pubiană (including prostate area on males) is included on radiograph.
-  Position:'
+- 'toate de simfiza pubiană (including prostate area pe males) este included pe radiografie.
+  poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is evident by symmetry of iliac wings.'
-- 'Proper collimation applied. Exposure:'
-- no motion due to respiration or motion is evident.
-- 'Optimal image receptor exposure and contrast to demonstrate residual contrast medium
-  in the urinary system. Markers:'
-- Ortostatism and/or Post-Micțional markers and R or L markers are visible. Fig. 14.81
-  AP Ortostatism (Post-Micțional)—prolapse of bladder.
+  este evident prin symmetry de iliac wings.'
+- 'corect collimation applied. expunere:'
+- fără mișcare due la respirație sau mișcare este evident.
+- 'optim receptorul de imagine expunere și contrast la evidențiază residual contrast
+  medium în urinary system. markeri:'
+- Ortostatism și/sau Post-Micțional markeri și R sau L markeri sunt vizibil. Fig.
+  14.81 AP Ortostatism (Post-Micțional)—prolapse de bladder.
 sid_dff: 100 cm
 slug: rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager
 sources:
@@ -64,7 +64,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -91,7 +91,7 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Post-Micțional)
 
     === "Indicații Clinice"
 
-        - Position may demonstrate enlarged prostate (possible BPH) or prolapse of the bladder. The Ortostatism position demonstrates nephroptosis (abnormal positional change of kidneys).
+        - poziție poate evidențiază enlarged prostate (possible BPH) sau prolapse de bladder. Ortostatism poziție evidențiază nephroptosis (abnormal positional change de rinichi).
 
     === "Ghid Național IRIS"
 
@@ -105,10 +105,10 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Post-Micțional)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient is Ortostatism, with back against the table, or in Decubit Ventral position (Figs. 14.79 and 14.80).; Regiune anatomică: Align midsagittal plane to center of table, physical grid, or IR, with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. Position arms away from the body. Ensure that the simfiza pubiană is included on bottom of the IR. Center low enough to include the prostate area, especially on older men.
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Center to level of creasta iliacă (corespunzător L4-L5) and midsagittal plane or, for bariatric patients, 1 inch (2.5 cm) lower to ensure that the bladder area is included.
+    - **Poziție Pacient:** Pacient: pacient este Ortostatism, cu back pe / sprijinit de table, sau în Decubit ventral poziție (Figs. 14.79 și 14.80).; Regiune anatomică: Align plan mediosagital la center de table, physical grilă, sau receptorul de imagine, cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. poziție brațe away de la corp. Ensure that simfiza pubiană este included pe bottom de receptorul de imagine. Center low enough pentru include prostate area, especially pe older men.
+    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Center la level de creasta iliacă (corespunzător L4-L5) și plan mediosagital sau, pentru bariatric pacienți, 1 inch (2.5 cm) lower la ensure that bladder area este included.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration after expiration and expose. Alternative PA or AP Decubit This image also may be taken as a PA or Incidență Antero-Posterioară (AP) in the Decubit position, with centering similar to that described earlier. Post-voi d Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout and series) Nephrogram RPO and LPO (30°) AP—Post-Micțional Ortostatism or Decubit Fig. 14.79 AP Ortostatism (Post-Micțional). Center at creasta iliacă (corespunzător L4-L5) to include the simfiza pubiană. Fig. 14.80 Alternative—PA Decubit Ventral (Post-Micțional).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii after expiration și expose. Alternative PA sau AP Decubit This imagine also poate fie taken ca PA sau Incidență Antero-Posterioară (AP) în Decubit poziție, cu centering similar la that described earlier. Post-voi d Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout și series) Nephrogram RPO și LPO (30°) AP—Post-Micțional Ortostatism sau Decubit Fig. 14.79 AP Ortostatism (Post-Micțional). Center la creasta iliacă (corespunzător L4-L5) pentru include simfiza pubiană. Fig. 14.80 Alternative—PA Decubit ventral (Post-Micțional).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -122,20 +122,20 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Post-Micțional)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire urinary system is included, with only residual contrast medium visible (Fig. 14.81).
-    - All of simfiza pubiană (including prostate area on males) is included on radiograph. Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evident by symmetry of iliac wings.
-    - Proper collimation applied. Exposure:
-    - no motion due to respiration or motion is evident.
-    - Optimal image receptor exposure and contrast to demonstrate residual contrast medium in the urinary system. Markers:
-    - Ortostatism and/or Post-Micțional markers and R or L markers are visible. Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse of bladder.
+    - Entire urinary system este included, cu only residual contrast medium vizibil (Fig. 14.81).
+    - toate de simfiza pubiană (including prostate area pe males) este included pe radiografie. poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evident prin symmetry de iliac wings.
+    - corect collimation applied. expunere:
+    - fără mișcare due la respirație sau mișcare este evident.
+    - optim receptorul de imagine expunere și contrast la evidențiază residual contrast medium în urinary system. markeri:
+    - Ortostatism și/sau Post-Micțional markeri și R sau L markeri sunt vizibil. Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse de bladder.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,25 +155,25 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Post-Micțional)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.79 AP Ortostatism (Post-Micțional). Center at creasta iliacă (corespunzător L4-L5) to include the](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_1.jpeg)
+![Fig. 14.79 AP Ortostatism (Post-Micțional). Center la creasta iliacă (corespunzător L4-L5) pentru include](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 14.79 AP Ortostatism (Post-Micțional). Center at creasta iliacă (corespunzător L4-L5) to include the</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.79 AP erect (postvoid). Center at iliac crest to include the)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 14.80 Alternative—PA Decubit Ventral (Post-Micțional).](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 14.80 Alternative—PA Decubit Ventral (Post-Micțional).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.80 Alternative—PA prone (postvoid).)</span></figcaption>
+<figcaption><strong>Fig. 14.79 AP Ortostatism (Post-Micțional). Center la creasta iliacă (corespunzător L4-L5) pentru include</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.79 AP în ortostatism (postvoid). Center la creste iliace pentru include)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse of bladder.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_3.jpeg)
+![Fig. 14.80 Alternative—PA Decubit ventral (Post-Micțional).](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse of bladder.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.81 AP erect (postvoid)—prolapse of bladder.)</span></figcaption>
+<figcaption><strong>Fig. 14.80 Alternative—PA Decubit ventral (Post-Micțional).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.80 Alternative—PA în decubit ventral (postvoid).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse de bladder.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-post-mictional-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 14.81 AP Ortostatism (Post-Micțional)—prolapse de bladder.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.81 AP în ortostatism (postvoid)—prolapse de bladder.)</span></figcaption>
 
 </figure>
 

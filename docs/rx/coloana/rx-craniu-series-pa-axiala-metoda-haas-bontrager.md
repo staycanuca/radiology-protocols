@@ -1,23 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Fig. 11.122 PA axial—CR 25° cephalad to OML, Ortostatism
-  and Decubit Ventral (inset). Craniu SERIES SPECIAL SMV PA axial (Metoda Haas)
+breathing: Apnee pe durata expunerii. Fig. 11.122 PA axial—raza centrală 25° cranial
+  la linie orbitomeatală (LOM), Ortostatism și Decubit ventral (inset). Craniu SERIES
+  SPECIAL SMV PA axial (Metoda Haas)
 category: coloana
-centering: Angle CR 25° cephalad to OML. Center CR to MSP and 1½ inches (4 cm) inferior
-  to the inion and exit 1½ inches (4 cm) superior to nasion. Center IR to projected
-  CR.
+centering: Raza centrală se înclină 25° cranial (spre cap) la linie orbitomeatală
+  (LOM). Center raza centrală la MSP și 1½ inches (4 cm) inferior la inion și exit
+  1½ inches (4 cm) superior la nazion. Se centrează receptorul de imagine pe proiecția
+  razei centrale.
 clinical_indications:
-- Craniu suspiciune de fractură (medial and lateral displacement), neoplastic processes,
-  and Paget disease This is an alternative projection for patients who cannot flex
-  the neck sufficiently for AP axial (Incidență AP Axială (Metoda Towne)) projection.
-  It can also be performed for hypersthenic and bariatric patients with limited range
-  of cervical motion. It results in magnification of the occipital area but in lower
-  doses to facial structures and the thyroid gland. This projection is not recommended
-  when the occipital bone is the area of interest because of excessive magnification.
+- Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes,
+  și Paget disease This este alternative incidență pentru pacienți who cannot se flectează
+  neck sufficiently pentru AP axial (Incidență AP Axială (Metoda Towne)) incidență.
+  It poate also fie performed pentru hypersthenic și bariatric pacienți cu limited
+  range de cervical mișcare. It results în magnification de occipital area but în
+  lower doses la facial structures și thyroid gland. This incidență este nu recommended
+  when occipital bone este aria de interes diagnostic because de excessive magnification.
 images:
-- caption: Fig. 11.122 PA axial—CR 25° cephalad to OML, Ortostatism and Decubit Ventral
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.122 PA axial—CR
-    25° cephalad to OML, erect and prone)
+- caption: Fig. 11.122 PA axial—raza centrală 25° cranial la linie orbitomeatală (LOM),
+    Ortostatism și Decubit ventral
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.122 PA axial—raza
+    centrală 25° cranial la linie orbitomeatală (LOM), în ortostatism și în decubit
+    ventral)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-metoda-haas-bontrager/fig_1.jpeg
 - caption: Fig. 11.123 PA axial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.123
@@ -30,13 +34,14 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Remove all metallic or plastic objects from patient’s head and
-  neck. Take radiograph with patient in the Ortostatism or Decubit Ventral position.;
-  Regiune anatomică: Rest patient’s nose and forehead against the table/imaging device
-  surface. Flex neck, bringing oMl perpendicular to IR (Fig. 11.122). Align MSP to
-  CR and to the midline of the grid or table/imaging device surface. Ensure that Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or
-  tilt exists (MSP perpendicular to IR).'
+position: 'Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din
+  plastic) de la pacient’s cap și neck. Take radiografie cu pacient în Ortostatism
+  sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead
+  pe / sprijinit de table/imaging device surface. Flex neck, bringing linie orbitomeatală
+  (LOM) perpendicular pe receptorul de imagine (Fig. 11.122). Align MSP la raza centrală
+  și la linia mediană grilă sau table/imaging device surface. Ensure that Absența
+  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau
+  tilt exists (MSP perpendicular pe receptorul de imagine).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,21 +49,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Occipital bone, petrous pyramids, and foramen magnum are demonstrated, with the
-  dorsum sellae and posterior clinoid processes visualized in the shadow of the foramen
-  magnum (Figs. 11.123 and 11.124). Position:'
+- 'Occipital bone, stânci temporale (piramide pietroase), și gaură occipitală mare
+  (foramen magnum) sunt evidențiat, cu dorsum sellae și posterior clinoid processes
+  visualized în shadow de gaură occipitală mare (foramen magnum) (Figs. 11.123 și
+  11.124). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is evident, as indicated by bilateral symmetric petrous ridges.'
-- Dorsum sellae and posterior clinoid processes are visualized in the foramen magnum,
-  which indicates correct CR angle and proper neck flexion and extension.
-- no tilt as evidenced by correct placement of anterior clinoid processes within the
-  middle of the foramen magnum.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize occipital
-  bone and sellar structures within foramen magnum.
-- Sharp bony margins indicate no motion. L Fig. 11.123 PA axial. Mastoids L Petrous
-  ridge Dorsum sellae Posterior clinoids Foramen magnum Fig. 11.124 PA axial. 24 30
-  R
+  este evident, ca indicated prin bilateral simetric stânci temporale (piramide pietroase).'
+- Dorsum sellae și posterior clinoid processes sunt visualized în gaură occipitală
+  mare (foramen magnum), which indicates correct raza centrală angle și corect neck
+  flexion și extension.
+- fără tilt ca evidenced prin correct placement de anterior clinoid processes within
+  middle de gaură occipitală mare (foramen magnum).
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize occipital
+  bone și sellar structures within gaură occipitală mare (foramen magnum).
+- net bony margins indicate fără mișcare. L Fig. 11.123 PA axial. Mastoids L stânci
+  temporale (piramide pietroase) Dorsum sellae posterior clinoids gaură occipitală
+  mare (foramen magnum) Fig. 11.124 PA axial. 24 30 R
 sid_dff: 100 cm
 slug: rx-craniu-series-pa-axiala-metoda-haas-bontrager
 sources:
@@ -66,7 +73,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -93,7 +100,7 @@ title: Rx Craniu SERIES PA Axială (Metoda Haas)
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură (medial and lateral displacement), neoplastic processes, and Paget disease This is an alternative projection for patients who cannot flex the neck sufficiently for AP axial (Incidență AP Axială (Metoda Towne)) projection. It can also be performed for hypersthenic and bariatric patients with limited range of cervical motion. It results in magnification of the occipital area but in lower doses to facial structures and the thyroid gland. This projection is not recommended when the occipital bone is the area of interest because of excessive magnification.
+        - Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes, și Paget disease This este alternative incidență pentru pacienți who cannot se flectează neck sufficiently pentru AP axial (Incidență AP Axială (Metoda Towne)) incidență. It poate also fie performed pentru hypersthenic și bariatric pacienți cu limited range de cervical mișcare. It results în magnification de occipital area but în lower doses la facial structures și thyroid gland. This incidență este nu recommended when occipital bone este aria de interes diagnostic because de excessive magnification.
 
     === "Ghid Național IRIS"
 
@@ -107,10 +114,10 @@ title: Rx Craniu SERIES PA Axială (Metoda Haas)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from patient’s head and neck. Take radiograph with patient in the Ortostatism or Decubit Ventral position.; Regiune anatomică: Rest patient’s nose and forehead against the table/imaging device surface. Flex neck, bringing oMl perpendicular to IR (Fig. 11.122). Align MSP to CR and to the midline of the grid or table/imaging device surface. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt exists (MSP perpendicular to IR).
-    - **Punct de Centrare Fascicul:** Angle CR 25° cephalad to OML. Center CR to MSP and 1½ inches (4 cm) inferior to the inion and exit 1½ inches (4 cm) superior to nasion. Center IR to projected CR.
+    - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din plastic) de la pacient’s cap și neck. Take radiografie cu pacient în Ortostatism sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead pe / sprijinit de table/imaging device surface. Flex neck, bringing linie orbitomeatală (LOM) perpendicular pe receptorul de imagine (Fig. 11.122). Align MSP la raza centrală și la linia mediană grilă sau table/imaging device surface. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt exists (MSP perpendicular pe receptorul de imagine).
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 25° cranial (spre cap) la linie orbitomeatală (LOM). Center raza centrală la MSP și 1½ inches (4 cm) inferior la inion și exit 1½ inches (4 cm) superior la nazion. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Fig. 11.122 PA axial—CR 25° cephalad to OML, Ortostatism and Decubit Ventral (inset). Craniu SERIES SPECIAL SMV PA axial (Metoda Haas)
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.122 PA axial—raza centrală 25° cranial la linie orbitomeatală (LOM), Ortostatism și Decubit ventral (inset). Craniu SERIES SPECIAL SMV PA axial (Metoda Haas)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -124,20 +131,20 @@ title: Rx Craniu SERIES PA Axială (Metoda Haas)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Occipital bone, petrous pyramids, and foramen magnum are demonstrated, with the dorsum sellae and posterior clinoid processes visualized in the shadow of the foramen magnum (Figs. 11.123 and 11.124). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evident, as indicated by bilateral symmetric petrous ridges.
-    - Dorsum sellae and posterior clinoid processes are visualized in the foramen magnum, which indicates correct CR angle and proper neck flexion and extension.
-    - no tilt as evidenced by correct placement of anterior clinoid processes within the middle of the foramen magnum.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize occipital bone and sellar structures within foramen magnum.
-    - Sharp bony margins indicate no motion. L Fig. 11.123 PA axial. Mastoids L Petrous ridge Dorsum sellae Posterior clinoids Foramen magnum Fig. 11.124 PA axial. 24 30 R
+    - Occipital bone, stânci temporale (piramide pietroase), și gaură occipitală mare (foramen magnum) sunt evidențiat, cu dorsum sellae și posterior clinoid processes visualized în shadow de gaură occipitală mare (foramen magnum) (Figs. 11.123 și 11.124). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evident, ca indicated prin bilateral simetric stânci temporale (piramide pietroase).
+    - Dorsum sellae și posterior clinoid processes sunt visualized în gaură occipitală mare (foramen magnum), which indicates correct raza centrală angle și corect neck flexion și extension.
+    - fără tilt ca evidenced prin correct placement de anterior clinoid processes within middle de gaură occipitală mare (foramen magnum).
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize occipital bone și sellar structures within gaură occipitală mare (foramen magnum).
+    - net bony margins indicate fără mișcare. L Fig. 11.123 PA axial. Mastoids L stânci temporale (piramide pietroase) Dorsum sellae posterior clinoids gaură occipitală mare (foramen magnum) Fig. 11.124 PA axial. 24 30 R
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,9 +164,9 @@ title: Rx Craniu SERIES PA Axială (Metoda Haas)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.122 PA axial—CR 25° cephalad to OML, Ortostatism and Decubit Ventral](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-metoda-haas-bontrager/fig_1.jpeg)
+![Fig. 11.122 PA axial—raza centrală 25° cranial la linie orbitomeatală (LOM), Ortostatism și Decubit ventral](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-metoda-haas-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.122 PA axial—CR 25° cephalad to OML, Ortostatism and Decubit Ventral</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.122 PA axial—CR 25° cephalad to OML, erect and prone)</span></figcaption>
+<figcaption><strong>Fig. 11.122 PA axial—raza centrală 25° cranial la linie orbitomeatală (LOM), Ortostatism și Decubit ventral</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.122 PA axial—raza centrală 25° cranial la linie orbitomeatală (LOM), în ortostatism și în decubit ventral)</span></figcaption>
 
 </figure>
 

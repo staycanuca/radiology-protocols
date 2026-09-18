@@ -1,0 +1,31 @@
+{
+  "protocols": 247,
+  "images": 731,
+  "categories": {
+    "abdomen": 36,
+    "coloana": 31,
+    "craniu-saf": 27,
+    "membru-inferior": 61,
+    "membru-superior": 61,
+    "neclasificat": 2,
+    "torace": 29
+  },
+  "missing_images": [],
+  "protocols_without_images": [
+    "docs\\rx\\abdomen\\rx-abdomen-incidenta-postero-anterioara-pa-upright-p217-merrill.md",
+    "docs\\rx\\coloana\\rx-atlas-and-axis-incidenta-antero-posterioara-ap-fuchs-method-p675-merrill.md",
+    "docs\\rx\\coloana\\rx-cervical-intervertebral-foramina-ap-axial-incidenta-oblica-rpo-and-lpo-positions-examined-for-comparison-p692-merrill.md",
+    "docs\\rx\\coloana\\rx-vertebral-arch-pillars-ap-axial-incidenta-oblica-right-and-left-head-rotations-10-projection-both-sides-are-examined-for-compariso-p703-merrill.md",
+    "docs\\rx\\craniu-saf\\rx-temporomandibular-articulations-axiolateral-incidenta-oblica-right-and-left-positions-p943-merrill.md",
+    "docs\\rx\\craniu-saf\\rx-temporomandibular-articulations-incidenta-ap-axiala-p936-merrill.md",
+    "docs\\rx\\membru-inferior\\rx-genunchi-ap-incidenta-oblica-medial-rotation-p553-merrill.md",
+    "docs\\rx\\membru-inferior\\rx-ilium-rao-and-lao-positions-p642-merrill.md",
+    "docs\\rx\\membru-inferior\\rx-knees-incidenta-postero-anterioara-pa-metoda-rosenberg-21-in-incarcare-ortostatism-standing-flexion-p550-merrill.md",
+    "docs\\rx\\membru-superior\\rx-mana-incidenta-de-profil-lateral-lateromedial-in-flexion-p284-merrill.md",
+    "docs\\rx\\membru-superior\\rx-scapular-spine-tangential-projection-laquerri-re-pierquin-method-p439-merrill.md",
+    "docs\\rx\\torace\\rx-pulmonary-apices-incidenta-pa-axiala-p196-merrill.md"
+  ],
+  "status": "draft",
+  "translation": "partial",
+  "coverage": "Automatically detected positioning fragments; not guaranteed exhaustive."
+}

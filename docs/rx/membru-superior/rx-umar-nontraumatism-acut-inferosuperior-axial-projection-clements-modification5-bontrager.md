@@ -1,23 +1,22 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. A B Fig. 5.50 (A) Inferosuperior axial
-  projection. (B) Alternative projection, 5° to 15° medial angle.
+breathing: Apnee pe durata expunerii. B Fig. 5.50 (A) Inferosuperior axial incidență.
+  (B) Alternative incidență, 5° la 15° medial angle.
 category: membru-superior
-centering: Direct horizontal Raza centrală (RC) perpendiculară pe receptorul de imagine.
-  If patient cannot abduct the arm 90°, angle the tube 5° to 15° toward the axilla
-  (Fig. 5.50B).
+centering: Direct orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine.
+  If pacient cannot abduct braț 90°, angle tubul 5° la 15° spre axilla (Fig. 5.50B).
 clinical_indications:
-- Degenerative conditions, including osteoporosis and artroză / modificări degenerative
+- Degenerative conditions, including osteoporosis și artroză / modificări degenerative
   articulare
-- HillSachs defect with exaggerated rotation of affected limb
+- HillSachs defect cu exaggerated rotație de affected limb
 images:
-- caption: Fig. 5.50 (A) Inferosuperior axial projection. (B) Alternative projection,
+- caption: Fig. 5.50 (A) Inferosuperior axial incidență. (B) Alternative incidență,
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.50 (A) Inferosuperior
-    axial projection. (B) Alternative projection,)
+    axial incidență. (B) Alternative incidență,)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_1.jpeg
-- caption: Fig. 5.51 Inferosuperior axial projection (Clements modiﬁcation).
+- caption: Fig. 5.51 Inferosuperior axial incidență (Clements modification).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.51
-    Inferosuperior axial projection (Clements modiﬁcation).)
+    Inferosuperior axial incidență (Clements modification).)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -26,8 +25,8 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient in the lateral Decubit position with the affected
-  arm up.; Regiune anatomică: Abduct arm 90° from body if possible (Fig. 5.50A).'
+position: 'Pacient: Place pacient în lateral Decubit poziție cu brațul afectat up.;
+  Regiune anatomică: Abduct braț 90° de la corp if possible (Fig. 5.50A).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -35,19 +34,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral view of proximal Humerus in relationship to scapulohumeral cavity is shown.
-  Position:'
-- Arm is abducted approximately 90° from the body.
-- Relationship of the humeral head and glenoid cavity should be evident (Fig. 5.51).
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft
-  tissue anatomy.
-- Bony margins of the acromion and distal Claviculă are visible through the humeral
-  head. Umăr (Nontraumatism acut) SPECIAL
-- 'Inferosuperior axial (Modificarea Clements) R Fig. 5.51 Inferosuperior axial projection
-  (Modificarea Clements). (From Frank ED, Long BW, Smith BJ: Merrill’s atlas of radiographic
-  positioning and procedures, ed 11, St Louis, 2007, Mosby.)'
+- 'lateral incidență de proximal Humerus în relationship la scapulohumeral cavity
+  este vizualizat. poziție:'
+- braț este în abducție approximately 90° de la corp.
+- Relationship de cap humeral și cavitate glenoidă trebuie să fie evident (Fig. 5.51).
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent
+  părți moi anatomy.
+- Bony margins de acromion și distal Claviculă sunt vizibil through cap humeral. Umăr
+  (Nontraumatism acut) SPECIAL
+- 'Inferosuperior axial (Modificarea Clements) R Fig. 5.51 Inferosuperior axial incidență
+  (Modificarea Clements). (de la Frank ED, Long BW, Smith BJ: Merrill’s atlas de radiographic
+  positioning și procedures, ed 11, St Louis, 2007, Mosby.)'
 sid_dff: 100 cm
 slug: rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager
 sources:
@@ -55,15 +54,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate closely to area of interest.
+  collimation: Field Size Collimate closely la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS MODIFICATION5)
+title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL Incidență (CLEMENTS MODIFICATION5)
 ---
-# Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS MODIFICATION5)
+# Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL Incidență (CLEMENTS MODIFICATION5)
 
 
 <div class="rx-meta-bar">
@@ -82,8 +81,8 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS M
 
     === "Indicații Clinice"
 
-        - Degenerative conditions, including osteoporosis and artroză / modificări degenerative articulare
-        - HillSachs defect with exaggerated rotation of affected limb
+        - Degenerative conditions, including osteoporosis și artroză / modificări degenerative articulare
+        - HillSachs defect cu exaggerated rotație de affected limb
 
     === "Ghid Național IRIS"
 
@@ -97,10 +96,10 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS M
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the lateral Decubit position with the affected arm up.; Regiune anatomică: Abduct arm 90° from body if possible (Fig. 5.50A).
-    - **Punct de Centrare Fascicul:** Direct horizontal Raza centrală (RC) perpendiculară pe receptorul de imagine. If patient cannot abduct the arm 90°, angle the tube 5° to 15° toward the axilla (Fig. 5.50B).
+    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție cu brațul afectat up.; Regiune anatomică: Abduct braț 90° de la corp if possible (Fig. 5.50A).
+    - **Punct de Centrare Fascicul:** Direct orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine. If pacient cannot abduct braț 90°, angle tubul 5° la 15° spre axilla (Fig. 5.50B).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. A B Fig. 5.50 (A) Inferosuperior axial projection. (B) Alternative projection, 5° to 15° medial angle.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. B Fig. 5.50 (A) Inferosuperior axial incidență. (B) Alternative incidență, 5° la 15° medial angle.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,20 +113,20 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS M
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate closely to area of interest. |
+    | **Colimare Fascicul** | Field Size Collimate closely la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of proximal Humerus in relationship to scapulohumeral cavity is shown. Position:
-    - Arm is abducted approximately 90° from the body.
-    - Relationship of the humeral head and glenoid cavity should be evident (Fig. 5.51).
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft tissue anatomy.
-    - Bony margins of the acromion and distal Claviculă are visible through the humeral head. Umăr (Nontraumatism acut) SPECIAL
-    - Inferosuperior axial (Modificarea Clements) R Fig. 5.51 Inferosuperior axial projection (Modificarea Clements). (From Frank ED, Long BW, Smith BJ: Merrill’s atlas of radiographic positioning and procedures, ed 11, St Louis, 2007, Mosby.)
+    - lateral incidență de proximal Humerus în relationship la scapulohumeral cavity este vizualizat. poziție:
+    - braț este în abducție approximately 90° de la corp.
+    - Relationship de cap humeral și cavitate glenoidă trebuie să fie evident (Fig. 5.51).
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent părți moi anatomy.
+    - Bony margins de acromion și distal Claviculă sunt vizibil through cap humeral. Umăr (Nontraumatism acut) SPECIAL
+    - Inferosuperior axial (Modificarea Clements) R Fig. 5.51 Inferosuperior axial incidență (Modificarea Clements). (de la Frank ED, Long BW, Smith BJ: Merrill’s atlas de radiographic positioning și procedures, ed 11, St Louis, 2007, Mosby.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,17 +146,17 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (CLEMENTS M
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.50 (A) Inferosuperior axial projection. (B) Alternative projection,](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_1.jpeg)
+![Fig. 5.50 (A) Inferosuperior axial incidență. (B) Alternative incidență,](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.50 (A) Inferosuperior axial projection. (B) Alternative projection,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.50 (A) Inferosuperior axial projection. (B) Alternative projection,)</span></figcaption>
+<figcaption><strong>Fig. 5.50 (A) Inferosuperior axial incidență. (B) Alternative incidență,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.50 (A) Inferosuperior axial incidență. (B) Alternative incidență,)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.51 Inferosuperior axial projection (Clements modiﬁcation).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_2.jpeg)
+![Fig. 5.51 Inferosuperior axial incidență (Clements modification).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-clements-modification5-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.51 Inferosuperior axial projection (Clements modiﬁcation).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.51 Inferosuperior axial projection (Clements modiﬁcation).)</span></figcaption>
+<figcaption><strong>Fig. 5.51 Inferosuperior axial incidență (Clements modification).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.51 Inferosuperior axial incidență (Clements modification).)</span></figcaption>
 
 </figure>
 

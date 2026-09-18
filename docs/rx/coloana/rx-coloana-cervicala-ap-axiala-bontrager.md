@@ -1,25 +1,28 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Patient should not swallow during exposure.
+breathing: Apnee pe durata expunerii. Pacientul este instruit să nu înghită în timpul
+  expunerii.
 category: coloana
-centering: Angle CR 15° to 20° cephalad (see NOTE). Direct CR to enter at the level
-  of the upper margin of thyroid cartilage to pass through C4. Center IR to CR.
+centering: Raza centrală se înclină 15°–20° cranial (spre cap) (see NOTE). Raza centrală
+  se orientează spre marginea superioară cartilajului tiroid pentru trece prin vertebra
+  C4. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology involving the mid and lower Coloană Cervicală (C3 to C7)
-- Demonstrates clay shoveler’s suspiciune de fractură, compression suspiciune de fractură,
-  HNP, and degenerative disease
+- Pathology involving mid și lower Coloană Cervicală (C3 la C7)
+- evidențiază clay shoveler’s suspiciune de fractură, compression suspiciune de fractură,
+  HNP, și degenerative disease
 images:
-- caption: Fig. 8.50 AP axial, 15° cephalad angle.
+- caption: Fig. 8.50 AP axial, 15° cranial angle.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.50 AP axial,
-    15° cephalad angle.)
+    15° cranial angle.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_1.jpeg
-- caption: Fig. 8.49 AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane
+- caption: Fig. 8.49 AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel
+    la plane
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.49
-    AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane)
+    AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel la plane)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_2.jpeg
-- caption: Fig. 8.51 AP axial, 15° cephalad angle.
+- caption: Fig. 8.51 AP axial, 15° cranial angle.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.51
-    AP axial, 15° cephalad angle.)
+    AP axial, 15° cranial angle.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -27,22 +30,23 @@ images:
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Cephalic angulation directs the beam between the overlapping cervical vertebral
-  bodies to demonstrate the intervertebral disk spaces better. Angle the CR 15° when
-  the patient is Decubit Dorsal or if there is less lordotic curvature. Angle the
-  CR 20° when the patient is Ortostatism, or when more lordotic curvature is evident.
-  The kyphotic (exaggerated curvature of the Coloană Toracală) patient will require
-  an angle of more than 20°. Coloană Cervicală ROUTINE AP open mouth (C1 and C2) AP
-  axial Oblique Lateral Fig. 8.50 AP axial, 15° cephalad angle. Fig. 8.49 AP axial,
-  15° cephalad angle. Inset, 20° CR, parallel to plane of intervertebral disk spaces,
-  centered to C4.
-position: 'Pacient: Decubit Dorsal or Ortostatism Position Position patient in the
-  Decubit Dorsal or Ortostatism position, with arms by sides.; Regiune anatomică:
-  Align midsagittal plane to CR and midline of table and/or IR. Adjust head so that
-  a line from lower margin of upper incisors to the base of the Craniu (mastoid processes)
-  is perpendicular to table and/or IR. Line from tip of Mandibulă to base of Craniu
-  should be parallel to angled CR (Fig. 8.49). Ensure Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase of the head or thorax exists.'
+notes: Cephalic angulation directs fascicul între overlapping cervical vertebral corpuri
+  la evidențiază intervertebral disk spaces better. Angle raza centrală 15° when pacientul
+  este Decubit dorsal sau if there este less lordotic curvature. Angle raza centrală
+  20° when pacientul este Ortostatism, sau when more lordotic curvature este evident.
+  kyphotic (exaggerated curvature de Coloană Toracală) pacient will require angle
+  de more than 20°. Coloană Cervicală ROUTINE AP gură deschisă (transorală) (C1 și
+  C2) AP axial oblic lateral Fig. 8.50 AP axial, 15° cranial angle. Fig. 8.49 AP axial,
+  15° cranial angle. Inset, 20° raza centrală, paralel la plane de intervertebral
+  disk spaces, centrat pe C4.
+position: 'Pacient: Decubit dorsal sau Ortostatism poziție pacient în Decubit dorsal
+  sau Ortostatism poziție, cu brațele pe lângă corp.; Regiune anatomică: Align plan
+  mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine.
+  Adjust cap so that line de la lower margin de upper incisors la base de Craniu (mastoid
+  processes) este perpendicular la table și/sau receptorul de imagine. Line de la
+  tip de Mandibulă la base de Craniu trebuie să fie paralel la înclinat raza centrală
+  (Fig. 8.49). Ensure Absența rotației anatomice: clavicule echidistante față de linia
+  apofizelor spinoase de capul sau thorax exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,18 +54,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- C3 to T2 vertebral bodies; space between pedicles and intervertebral disk spaces
-  clearly seen (Figs. 8.50 and 8.51). Position
+- C3 la T2 vertebral corpuri; space între pedicles și intervertebral disk spaces clar
+  vizibil(e) (Figs. 8.50 și 8.51). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated by spinous processes and sternoclavicular joints (if visible) equidistant
-  from the spinal column lateral borders.'
-- The Mandibulă and the base of the Craniu should superimpose the first two cervical
-  vertebrae.
-- Collimation to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of soft tissue
-  margins and of bony margins and trabecular markings of cervical vertebrae.
-- no motion. Pedicle (C7) Intervertebral disk space (C6-7) Spinous process (C5) Body
-  (C4) Body (C3) Fig. 8.51 AP axial, 15° cephalad angle.
+  indicated prin procese spinoase și articulații sternoclaviculare (if vizibil) echidistant
+  față de spinal column lateral margini.'
+- Mandibulă și base de Craniu trebuie să superimpose first two coloană cervicală.
+- Collimation la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi
+  margins și de bony margins și trabecular markings de coloană cervicală.
+- fără mișcare. Pedicle (C7) Intervertebral disk space (C6-7) Spinous process (C5)
+  corp (C4) corp (C3) Fig. 8.51 AP axial, 15° cranial angle.
 sid_dff: 100 cm
 slug: rx-coloana-cervicala-ap-axiala-bontrager
 sources:
@@ -69,7 +72,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -96,8 +99,8 @@ title: Rx Coloană Cervicală AP Axială
 
     === "Indicații Clinice"
 
-        - Pathology involving the mid and lower Coloană Cervicală (C3 to C7)
-        - Demonstrates clay shoveler’s suspiciune de fractură, compression suspiciune de fractură, HNP, and degenerative disease
+        - Pathology involving mid și lower Coloană Cervicală (C3 la C7)
+        - evidențiază clay shoveler’s suspiciune de fractură, compression suspiciune de fractură, HNP, și degenerative disease
 
     === "Ghid Național IRIS"
 
@@ -111,10 +114,10 @@ title: Rx Coloană Cervicală AP Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal or Ortostatism Position Position patient in the Decubit Dorsal or Ortostatism position, with arms by sides.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR. Adjust head so that a line from lower margin of upper incisors to the base of the Craniu (mastoid processes) is perpendicular to table and/or IR. Line from tip of Mandibulă to base of Craniu should be parallel to angled CR (Fig. 8.49). Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the head or thorax exists.
-    - **Punct de Centrare Fascicul:** Angle CR 15° to 20° cephalad (see NOTE). Direct CR to enter at the level of the upper margin of thyroid cartilage to pass through C4. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit dorsal sau Ortostatism poziție pacient în Decubit dorsal sau Ortostatism poziție, cu brațele pe lângă corp.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine. Adjust cap so that line de la lower margin de upper incisors la base de Craniu (mastoid processes) este perpendicular la table și/sau receptorul de imagine. Line de la tip de Mandibulă la base de Craniu trebuie să fie paralel la înclinat raza centrală (Fig. 8.49). Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de capul sau thorax exists.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15°–20° cranial (spre cap) (see NOTE). Raza centrală se orientează spre marginea superioară cartilajului tiroid pentru trece prin vertebra C4. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Patient should not swallow during exposure.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Pacientul este instruit să nu înghită în timpul expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,19 +131,19 @@ title: Rx Coloană Cervicală AP Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - C3 to T2 vertebral bodies; space between pedicles and intervertebral disk spaces clearly seen (Figs. 8.50 and 8.51). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated by spinous processes and sternoclavicular joints (if visible) equidistant from the spinal column lateral borders.
-    - The Mandibulă and the base of the Craniu should superimpose the first two cervical vertebrae.
-    - Collimation to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of soft tissue margins and of bony margins and trabecular markings of cervical vertebrae.
-    - no motion. Pedicle (C7) Intervertebral disk space (C6-7) Spinous process (C5) Body (C4) Body (C3) Fig. 8.51 AP axial, 15° cephalad angle.
+    - C3 la T2 vertebral corpuri; space între pedicles și intervertebral disk spaces clar vizibil(e) (Figs. 8.50 și 8.51). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin procese spinoase și articulații sternoclaviculare (if vizibil) echidistant față de spinal column lateral margini.
+    - Mandibulă și base de Craniu trebuie să superimpose first two coloană cervicală.
+    - Collimation la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi margins și de bony margins și trabecular markings de coloană cervicală.
+    - fără mișcare. Pedicle (C7) Intervertebral disk space (C6-7) Spinous process (C5) corp (C4) corp (C3) Fig. 8.51 AP axial, 15° cranial angle.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +156,7 @@ title: Rx Coloană Cervicală AP Axială
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Cephalic angulation directs the beam between the overlapping cervical vertebral bodies to demonstrate the intervertebral disk spaces better. Angle the CR 15° when the patient is Decubit Dorsal or if there is less lordotic curvature. Angle the CR 20° when the patient is Ortostatism, or when more lordotic curvature is evident. The kyphotic (exaggerated curvature of the Coloană Toracală) patient will require an angle of more than 20°. Coloană Cervicală ROUTINE AP open mouth (C1 and C2) AP axial Oblique Lateral Fig. 8.50 AP axial, 15° cephalad angle. Fig. 8.49 AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane of intervertebral disk spaces, centered to C4.
+    Cephalic angulation directs fascicul între overlapping cervical vertebral corpuri la evidențiază intervertebral disk spaces better. Angle raza centrală 15° when pacientul este Decubit dorsal sau if there este less lordotic curvature. Angle raza centrală 20° when pacientul este Ortostatism, sau when more lordotic curvature este evident. kyphotic (exaggerated curvature de Coloană Toracală) pacient will require angle de more than 20°. Coloană Cervicală ROUTINE AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.50 AP axial, 15° cranial angle. Fig. 8.49 AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel la plane de intervertebral disk spaces, centrat pe C4.
 
 
 ### 🖼️ Imagini
@@ -162,25 +165,25 @@ title: Rx Coloană Cervicală AP Axială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.50 AP axial, 15° cephalad angle.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_1.jpeg)
+![Fig. 8.50 AP axial, 15° cranial angle.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.50 AP axial, 15° cephalad angle.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.50 AP axial, 15° cephalad angle.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 8.49 AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 8.49 AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.49 AP axial, 15° cephalad angle. Inset, 20° CR, parallel to plane)</span></figcaption>
+<figcaption><strong>Fig. 8.50 AP axial, 15° cranial angle.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.50 AP axial, 15° cranial angle.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.51 AP axial, 15° cephalad angle.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_3.jpeg)
+![Fig. 8.49 AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel la plane](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 8.51 AP axial, 15° cephalad angle.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.51 AP axial, 15° cephalad angle.)</span></figcaption>
+<figcaption><strong>Fig. 8.49 AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel la plane</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.49 AP axial, 15° cranial angle. Inset, 20° raza centrală, paralel la plane)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 8.51 AP axial, 15° cranial angle.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 8.51 AP axial, 15° cranial angle.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.51 AP axial, 15° cranial angle.)</span></figcaption>
 
 </figure>
 

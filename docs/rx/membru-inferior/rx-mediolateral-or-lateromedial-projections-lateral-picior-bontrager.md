@@ -2,16 +2,16 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed to medial cuneiform (at level of base of
-  third metatarsal)
+centering: perpendicular pe receptorul de imagine, orientat la medial cuneiform (la
+  level de base de third metatarsal)
 clinical_indications:
-- Location and degree of anterior or posterior displacement of suspiciune de fractură
-  fragments, joint abnormalities, and soft tissue effusions
-- Location of opaque foreign bodies
+- Location și grade de anterior sau posterior displacement de suspiciune de fractură
+  fragments, articulație abnormalities, și părți moi effusions
+- Location de opaque Corp străin / corpuri străine radio-opace
 images:
-- caption: Fig. 6.63 Mediolateral projection.
+- caption: Fig. 6.63 Mediolateral incidență.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.63 Mediolateral
-    projection.)
+    incidență.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_1.jpeg
 - caption: Fig. 6.64 Alternative lateromedial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.64
@@ -19,24 +19,25 @@ images:
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_2.jpeg
 - caption: Fig. 6.65 Mediolateral Picior.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.65
-    Mediolateral foot.)
+    Mediolateral picior.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_3.jpeg
 - caption: Fig. 6.66 Mediolateral Picior.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.66
-    Mediolateral foot.)
+    Mediolateral picior.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient in lateral Decubit position; provide pillow for
-  patient’s head.; Regiune anatomică: (Mediolateral Projection) Flex Genunchi of affected
-  limb about 45°; place opposite leg behind the injured limb to prevent overrotation
-  of affected leg. Carefully dorsiflex Picior if possible to assist in positioning
-  for a true lateral Picior and Gleznă (Articulație Talocrurală) (Fig. 6.63). Place
-  support under leg and Genunchi as needed so that plantar surface is perpendicular
-  to iR. Do not overrotate Picior. Align long axis of Picior to long axis of IR (unless
-  diagonal placement is needed to include entire Picior). Center mid area of base
-  of metatarsals to CR.'
+position: 'Pacient: Place pacient în lateral Decubit poziție; provide pillow pentru
+  pacient’s cap.; Regiune anatomică: (Mediolateral incidență) Flex Genunchi de affected
+  limb about 45°; place opposite membru inferior behind injured limb la prevent overrotation
+  de affected membru inferior. Carefully dorsiflex Picior if possible la assist în
+  positioning pentru true lateral Picior și Gleznă (Articulație Talocrurală) (Fig.
+  6.63). Place support under membru inferior și Genunchi ca needed so that plantar
+  surface este perpendicular pe receptorul de imagine. Do nu overrotate Picior. Align
+  axa longitudinală de Picior la axa longitudinală de receptorul de imagine (unless
+  diagonal placement este needed la include entire Picior). Center mid area de base
+  de oase metatarsiene la raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,13 +45,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Picior should be demonstrated, with a minimum of 1 inch (2.5 cm) of distal
+- Entire Picior trebuie să fie evidențiat, cu minimum de 1 inch (2.5 cm) de distal
   tibiafibula.
-- 'Heads of metatarsals are superimposed with the tuberosity of the fifth metatarsal
-  seen in profile (Figs. 6.65 and 6.66). Position:'
-- Long axis of the Picior should be aligned to the long axis of IR.
-- True Incidență de Profil (Lateral) is achieved when tibiotalar joint is open, distal
-  fibula is superimposed by the posterior tibia, and distal metatarsals are superimposed.
+- 'Heads de oase metatarsiene sunt superimposed cu tuberosity de fifth metatarsal
+  seen în profile (Figs. 6.65 și 6.66). poziție:'
+- axa longitudinală de Picior trebuie să fie aliniat la axa longitudinală de receptorul
+  de imagine.
+- True Incidență de Profil (lateral) este achieved when tibiotalar articulație este
+  open, distal fibula este superimposed prin posterior tibia, și distal oase metatarsiene
+  sunt superimposed.
 sid_dff: 100 cm
 slug: rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager
 sources:
@@ -58,21 +61,21 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'to area of interest. Exposure: Optimal image receptor exposure and
-    contrast to visualize borders of superimposed tarsals and metatarsals. No motion;
-    cortical margins and trabecular markings of Calcaneu and nonsuperimposed portions
-    of other tarsals should appear sharply defined. Fig. 6.64 Alternative lateromedial.
-    Fig. 6.65 Mediolateral Picior. Gleznă (Articulație Talocrurală) joint Cuboid Navicular
-    Subtalar joint Base of 5th metatarsal Calcaneu Talus 1st cuneiform Fig. 6.66 Mediolateral
-    Picior.'
+  collimation: 'la aria de interes diagnostic. expunere: optim receptorul de imagine
+    expunere și contrast la visualize margini de superimposed oase tarsiene și oase
+    metatarsiene. fără mișcare; cortical margins și trabecular markings de Calcaneu
+    și nonsuperimposed portions de other oase tarsiene trebuie să appear sharply defined.
+    Fig. 6.64 Alternative lateromedial. Fig. 6.65 Mediolateral Picior. Gleznă (Articulație
+    Talocrurală) articulație Cuboid Navicular Subtalar articulație Base de 5th metatarsal
+    Calcaneu astragal (talus) 1st cuneiform Fig. 6.66 Mediolateral Picior.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-70
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
+title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (Picior)
 ---
-# Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
+# Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (Picior)
 
 
 <div class="rx-meta-bar">
@@ -91,8 +94,8 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
 
     === "Indicații Clinice"
 
-        - Location and degree of anterior or posterior displacement of suspiciune de fractură fragments, joint abnormalities, and soft tissue effusions
-        - Location of opaque foreign bodies
+        - Location și grade de anterior sau posterior displacement de suspiciune de fractură fragments, articulație abnormalities, și părți moi effusions
+        - Location de opaque Corp străin / corpuri străine radio-opace
 
     === "Ghid Național IRIS"
 
@@ -106,8 +109,8 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in lateral Decubit position; provide pillow for patient’s head.; Regiune anatomică: (Mediolateral Projection) Flex Genunchi of affected limb about 45°; place opposite leg behind the injured limb to prevent overrotation of affected leg. Carefully dorsiflex Picior if possible to assist in positioning for a true lateral Picior and Gleznă (Articulație Talocrurală) (Fig. 6.63). Place support under leg and Genunchi as needed so that plantar surface is perpendicular to iR. Do not overrotate Picior. Align long axis of Picior to long axis of IR (unless diagonal placement is needed to include entire Picior). Center mid area of base of metatarsals to CR.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to medial cuneiform (at level of base of third metatarsal)
+    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție; provide pillow pentru pacient’s cap.; Regiune anatomică: (Mediolateral incidență) Flex Genunchi de affected limb about 45°; place opposite membru inferior behind injured limb la prevent overrotation de affected membru inferior. Carefully dorsiflex Picior if possible la assist în positioning pentru true lateral Picior și Gleznă (Articulație Talocrurală) (Fig. 6.63). Place support under membru inferior și Genunchi ca needed so that plantar surface este perpendicular pe receptorul de imagine. Do nu overrotate Picior. Align axa longitudinală de Picior la axa longitudinală de receptorul de imagine (unless diagonal placement este needed la include entire Picior). Center mid area de base de oase metatarsiene la raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la medial cuneiform (la level de base de third metatarsal)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -123,17 +126,17 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | to area of interest. Exposure: Optimal image receptor exposure and contrast to visualize borders of superimposed tarsals and metatarsals. No motion; cortical margins and trabecular markings of Calcaneu and nonsuperimposed portions of other tarsals should appear sharply defined. Fig. 6.64 Alternative lateromedial. Fig. 6.65 Mediolateral Picior. Gleznă (Articulație Talocrurală) joint Cuboid Navicular Subtalar joint Base of 5th metatarsal Calcaneu Talus 1st cuneiform Fig. 6.66 Mediolateral Picior. |
+    | **Colimare Fascicul** | la aria de interes diagnostic. expunere: optim receptorul de imagine expunere și contrast la visualize margini de superimposed oase tarsiene și oase metatarsiene. fără mișcare; cortical margins și trabecular markings de Calcaneu și nonsuperimposed portions de other oase tarsiene trebuie să appear sharply defined. Fig. 6.64 Alternative lateromedial. Fig. 6.65 Mediolateral Picior. Gleznă (Articulație Talocrurală) articulație Cuboid Navicular Subtalar articulație Base de 5th metatarsal Calcaneu astragal (talus) 1st cuneiform Fig. 6.66 Mediolateral Picior. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Picior should be demonstrated, with a minimum of 1 inch (2.5 cm) of distal tibiafibula.
-    - Heads of metatarsals are superimposed with the tuberosity of the fifth metatarsal seen in profile (Figs. 6.65 and 6.66). Position:
-    - Long axis of the Picior should be aligned to the long axis of IR.
-    - True Incidență de Profil (Lateral) is achieved when tibiotalar joint is open, distal fibula is superimposed by the posterior tibia, and distal metatarsals are superimposed.
+    - Entire Picior trebuie să fie evidențiat, cu minimum de 1 inch (2.5 cm) de distal tibiafibula.
+    - Heads de oase metatarsiene sunt superimposed cu tuberosity de fifth metatarsal seen în profile (Figs. 6.65 și 6.66). poziție:
+    - axa longitudinală de Picior trebuie să fie aliniat la axa longitudinală de receptorul de imagine.
+    - True Incidență de Profil (lateral) este achieved when tibiotalar articulație este open, distal fibula este superimposed prin posterior tibia, și distal oase metatarsiene sunt superimposed.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,9 +156,9 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.63 Mediolateral projection.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_1.jpeg)
+![Fig. 6.63 Mediolateral incidență.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.63 Mediolateral projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.63 Mediolateral projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.63 Mediolateral incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.63 Mediolateral incidență.)</span></figcaption>
 
 </figure>
 
@@ -171,7 +174,7 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
 
 ![Fig. 6.65 Mediolateral Picior.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.65 Mediolateral Picior.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.65 Mediolateral foot.)</span></figcaption>
+<figcaption><strong>Fig. 6.65 Mediolateral Picior.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.65 Mediolateral picior.)</span></figcaption>
 
 </figure>
 
@@ -179,7 +182,7 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Picior)
 
 ![Fig. 6.66 Mediolateral Picior.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-picior-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 6.66 Mediolateral Picior.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.66 Mediolateral foot.)</span></figcaption>
+<figcaption><strong>Fig. 6.66 Mediolateral Picior.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.66 Mediolateral picior.)</span></figcaption>
 
 </figure>
 

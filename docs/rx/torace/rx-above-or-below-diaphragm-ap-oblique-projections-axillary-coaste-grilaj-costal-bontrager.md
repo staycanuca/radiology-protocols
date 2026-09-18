@@ -1,22 +1,23 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on inspiration for abovediaphragm Coaste (Grilaj Costal)
-  and on expiration for belowdiaphragm Coaste (Grilaj Costal).
+breathing: Apnee pe durata expunerii pe inspiration pentru abovediaphragm Coaste (Grilaj
+  Costal) și pe expiration pentru belowdiaphragm Coaste (Grilaj Costal).
 category: torace
-centering: 'perpendicular to IR Above diaphragm: align CR to the level of T7, located
-  3 to 4 inches (8 to 10 cm) below incizura jugulară (manubriul sternal) (Fig. 10.39)
-  Below diaphragm: align CR to a level midway between xiphoid process and lower rib
-  margin (bottom of IR at about level of creasta iliacă (corespunzător L4-L5)) (see
-  Fig. 10.39 inset)'
+centering: 'perpendicular pe receptorul de imagine Above cupole diafragmatice: align
+  raza centrală la level de T7, located 3 la 4 inches (8 la 10 cm) below incizura
+  jugulară (manubriul sternal) (Fig. 10.39) Below cupole diafragmatice: align raza
+  centrală la level midway între apendice xifoid și lower rib margin (bottom de receptorul
+  de imagine la about level de creasta iliacă (corespunzător L4-L5)) (see Fig. 10.39
+  inset)'
 clinical_indications:
-- Pathology of the Coaste (Grilaj Costal), including suspiciune de fractură and neoplastic
-  processes Oblique positions will demonstrate the axillary portion of the Coaste
-  (Grilaj Costal) that is not well seen on the APPA projections.
+- Pathology de Coaste (Grilaj Costal), including suspiciune de fractură și neoplastic
+  processes oblic poziții will evidențiază axillary portion de Coaste (Grilaj Costal)
+  that este nu well seen pe APPA incidențe.
 images:
-- caption: Fig. 10.39 RPO—injury to the right posterior Coaste (Grilaj Costal), above
-    diaphragm.
+- caption: Fig. 10.39 RPO—injury la drept posterior Coaste (Grilaj Costal), above
+    cupole diafragmatice.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.39 RPO—injury
-    to the right posterior ribs, above diaphragm.)
+    la drept posterior coaste, above cupole diafragmatice.)
   url: assets/images/protocols/bontrager/rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager/fig_1.jpeg
 - caption: Figura 2
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -24,22 +25,23 @@ images:
   url: assets/images/protocols/bontrager/rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Use of a 72inch (180cm) SID and/or narrow Torace dimensions may allow the IR
-  to be positioned portrait. Additional Collimated Projection Some departmental routines
-  include one wellcollimated projection of the region of injury taken on a smaller
-  IR. Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior
-  Coaste (Grilaj Costal) (PA)— bilateral or unilateral study Axillary Coaste (Grilaj
-  Costal) (anterior or posterior oblique) PA Torace (see Chapter 2) Fig. 10.39 RPO—injury
-  to the right posterior Coaste (Grilaj Costal), above diaphragm. Inset, LPO—injury
-  to left posterior Coaste (Grilaj Costal), below diaphragm.
-position: 'Pacient: Ortostatism, facing xray tube. May be performed Decubit Dorsal
-  if patient condition requires or if demonstration of the Coaste (Grilaj Costal)
-  below the diaphragm is required.; Regiune anatomică: Rotate patient into 45° posterior
-  oblique, with affected side closest to iR. (Hint: rotate spine away from site of
-  injury.) Raise elevated side arm above head; extend opposite arm down and away from
-  thorax. If Decubit, flex Genunchi of elevated side to help maintain this position
-  and support thorax with positioning sponges if needed. Align thorax the midline
-  of the IR (Ensure that side of interest is not cut off.)'
+notes: Use de a 72inch (180cm) SID și/sau narrow Torace dimensions poate allow receptorul
+  de imagine la fie poziționat portrait. Additional Collimated incidență Some departmental
+  routines include one wellcollimated incidență de region de injury taken pe smaller
+  receptorul de imagine. Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal)
+  (AP) sau anterior Coaste (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary
+  Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2)
+  Fig. 10.39 RPO—injury la drept posterior Coaste (Grilaj Costal), above cupole diafragmatice.
+  Inset, LPO—injury la stâng posterior Coaste (Grilaj Costal), below cupole diafragmatice.
+position: 'Pacient: Ortostatism, facing xray tube. poate fie performed Decubit dorsal
+  if pacient condition requires sau if demonstration de Coaste (Grilaj Costal) below
+  cupole diafragmatice este required.; Regiune anatomică: Rotate pacient into 45°
+  posterior oblic, cu affected side closest la receptorul de imagine. (Hint: rotate
+  coloană vertebrală away de la site de injury.) Raise ridicat side braț above cap;
+  extend opposite braț down și away de la thorax. If Decubit, flex Genunchi de ridicat
+  side la help maintain this poziție și support thorax cu positioning sponges if needed.
+  Align thorax linia mediană receptorul de imagine (Ensure that side de interest este
+  nu cut off.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,20 +49,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Abovediaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 1 through 9 should
-  be included and demonstrated above the diaphragm (Fig. 10.40).'
+- 'Abovediaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 1 through 9 trebuie
+  să fie included și evidențiat above cupole diafragmatice (Fig. 10.40).'
 - 'Belowdiaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 10 through 12 (minimum)
-  should be included and seen below the diaphragm (Fig. 10.41); the axillary portion
-  of the Coaste (Grilaj Costal) under examination is projected without selfsuperimposition.
-  Position:'
-- 'An accurate 45° Incidență Oblică should demonstrate the axillary Coaste (Grilaj
-  Costal) in profile with the spine shifted away from the area of interest. The width
-  between the thoracic column and the lateral margin of the thorax on the side of
-  interest should be approximately twice that of the opposite side. Exposure:'
-- Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal)
-  through the lungs and heart shadow or through the dense abdominal organs if below
-  the diaphragm.
-- no motion, as demonstrated by sharp bony markings.
+  trebuie să fie included și seen below cupole diafragmatice (Fig. 10.41); axillary
+  portion de Coaste (Grilaj Costal) under examination este projected fără selfsuperimposition.
+  poziție:'
+- 'precis 45° Incidență Oblică trebuie să evidențiază axillary Coaste (Grilaj Costal)
+  în profile cu coloană vertebrală shifted away de la aria de interes diagnostic.
+  width între thoracic column și lateral margin de thorax pe side de interest trebuie
+  să fie approximately twice that de opposite side. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal)
+  through plămânii și heart shadow sau through dense abdominal organs if below cupole
+  diafragmatice.
+- fără mișcare, ca evidențiat prin net bony markings.
 sid_dff: 100 cm
 slug: rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager
 sources:
@@ -68,16 +70,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to region of interest.
+  collimation: Collimate la region de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grilaj
-  Costal)
+title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE Incidență Grilaj Costal Axilar
 ---
-# Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grilaj Costal)
+# Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE Incidență Grilaj Costal Axilar
 
 
 <div class="rx-meta-bar">
@@ -96,7 +97,7 @@ title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grila
 
     === "Indicații Clinice"
 
-        - Pathology of the Coaste (Grilaj Costal), including suspiciune de fractură and neoplastic processes Oblique positions will demonstrate the axillary portion of the Coaste (Grilaj Costal) that is not well seen on the APPA projections.
+        - Pathology de Coaste (Grilaj Costal), including suspiciune de fractură și neoplastic processes oblic poziții will evidențiază axillary portion de Coaste (Grilaj Costal) that este nu well seen pe APPA incidențe.
 
     === "Ghid Național IRIS"
 
@@ -110,10 +111,10 @@ title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grila
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, facing xray tube. May be performed Decubit Dorsal if patient condition requires or if demonstration of the Coaste (Grilaj Costal) below the diaphragm is required.; Regiune anatomică: Rotate patient into 45° posterior oblique, with affected side closest to iR. (Hint: rotate spine away from site of injury.) Raise elevated side arm above head; extend opposite arm down and away from thorax. If Decubit, flex Genunchi of elevated side to help maintain this position and support thorax with positioning sponges if needed. Align thorax the midline of the IR (Ensure that side of interest is not cut off.)
-    - **Punct de Centrare Fascicul:** perpendicular to IR Above diaphragm: align CR to the level of T7, located 3 to 4 inches (8 to 10 cm) below incizura jugulară (manubriul sternal) (Fig. 10.39) Below diaphragm: align CR to a level midway between xiphoid process and lower rib margin (bottom of IR at about level of creasta iliacă (corespunzător L4-L5)) (see Fig. 10.39 inset)
+    - **Poziție Pacient:** Pacient: Ortostatism, facing xray tube. poate fie performed Decubit dorsal if pacient condition requires sau if demonstration de Coaste (Grilaj Costal) below cupole diafragmatice este required.; Regiune anatomică: Rotate pacient into 45° posterior oblic, cu affected side closest la receptorul de imagine. (Hint: rotate coloană vertebrală away de la site de injury.) Raise ridicat side braț above cap; extend opposite braț down și away de la thorax. If Decubit, flex Genunchi de ridicat side la help maintain this poziție și support thorax cu positioning sponges if needed. Align thorax linia mediană receptorul de imagine (Ensure that side de interest este nu cut off.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine Above cupole diafragmatice: align raza centrală la level de T7, located 3 la 4 inches (8 la 10 cm) below incizura jugulară (manubriul sternal) (Fig. 10.39) Below cupole diafragmatice: align raza centrală la level midway între apendice xifoid și lower rib margin (bottom de receptorul de imagine la about level de creasta iliacă (corespunzător L4-L5)) (see Fig. 10.39 inset)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on inspiration for abovediaphragm Coaste (Grilaj Costal) and on expiration for belowdiaphragm Coaste (Grilaj Costal).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe inspiration pentru abovediaphragm Coaste (Grilaj Costal) și pe expiration pentru belowdiaphragm Coaste (Grilaj Costal).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,18 +128,18 @@ title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grila
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to region of interest. |
+    | **Colimare Fascicul** | Collimate la region de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Abovediaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 1 through 9 should be included and demonstrated above the diaphragm (Fig. 10.40).
-    - Belowdiaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 10 through 12 (minimum) should be included and seen below the diaphragm (Fig. 10.41); the axillary portion of the Coaste (Grilaj Costal) under examination is projected without selfsuperimposition. Position:
-    - An accurate 45° Incidență Oblică should demonstrate the axillary Coaste (Grilaj Costal) in profile with the spine shifted away from the area of interest. The width between the thoracic column and the lateral margin of the thorax on the side of interest should be approximately twice that of the opposite side. Exposure:
-    - Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal) through the lungs and heart shadow or through the dense abdominal organs if below the diaphragm.
-    - no motion, as demonstrated by sharp bony markings.
+    - Abovediaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 1 through 9 trebuie să fie included și evidențiat above cupole diafragmatice (Fig. 10.40).
+    - Belowdiaphragm Coaste (Grilaj Costal): Coaste (Grilaj Costal) 10 through 12 (minimum) trebuie să fie included și seen below cupole diafragmatice (Fig. 10.41); axillary portion de Coaste (Grilaj Costal) under examination este projected fără selfsuperimposition. poziție:
+    - precis 45° Incidență Oblică trebuie să evidențiază axillary Coaste (Grilaj Costal) în profile cu coloană vertebrală shifted away de la aria de interes diagnostic. width între thoracic column și lateral margin de thorax pe side de interest trebuie să fie approximately twice that de opposite side. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal) through plămânii și heart shadow sau through dense abdominal organs if below cupole diafragmatice.
+    - fără mișcare, ca evidențiat prin net bony markings.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +152,7 @@ title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grila
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Use of a 72inch (180cm) SID and/or narrow Torace dimensions may allow the IR to be positioned portrait. Additional Collimated Projection Some departmental routines include one wellcollimated projection of the region of injury taken on a smaller IR. Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)— bilateral or unilateral study Axillary Coaste (Grilaj Costal) (anterior or posterior oblique) PA Torace (see Chapter 2) Fig. 10.39 RPO—injury to the right posterior Coaste (Grilaj Costal), above diaphragm. Inset, LPO—injury to left posterior Coaste (Grilaj Costal), below diaphragm.
+    Use de a 72inch (180cm) SID și/sau narrow Torace dimensions poate allow receptorul de imagine la fie poziționat portrait. Additional Collimated incidență Some departmental routines include one wellcollimated incidență de region de injury taken pe smaller receptorul de imagine. Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal) (AP) sau anterior Coaste (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2) Fig. 10.39 RPO—injury la drept posterior Coaste (Grilaj Costal), above cupole diafragmatice. Inset, LPO—injury la stâng posterior Coaste (Grilaj Costal), below cupole diafragmatice.
 
 
 ### 🖼️ Imagini
@@ -160,9 +161,9 @@ title: Rx ABOVE OR BELOW DIAPHRAGM AP OBLIQUE PROJECTIONS AXILLARY Coaste (Grila
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.39 RPO—injury to the right posterior Coaste (Grilaj Costal), above diaphragm.](../../assets/images/protocols/bontrager/rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager/fig_1.jpeg)
+![Fig. 10.39 RPO—injury la drept posterior Coaste (Grilaj Costal), above cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.39 RPO—injury to the right posterior Coaste (Grilaj Costal), above diaphragm.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.39 RPO—injury to the right posterior ribs, above diaphragm.)</span></figcaption>
+<figcaption><strong>Fig. 10.39 RPO—injury la drept posterior Coaste (Grilaj Costal), above cupole diafragmatice.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.39 RPO—injury la drept posterior coaste, above cupole diafragmatice.)</span></figcaption>
 
 </figure>
 

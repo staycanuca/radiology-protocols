@@ -1,27 +1,28 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on expiration. Expiration reduces air volume in thorax
-  for more uniform brightness and image contrast. Coloană Toracală ROUTINE AP Lateral
-  Fig. 8.80 AP Coloană Toracală.
+breathing: Apnee pe durata expunerii pe expiration. Expiration reduces air volume
+  în thorax pentru more uniform brightness și imagine contrast. Coloană Toracală ROUTINE
+  AP lateral Fig. 8.80 AP Coloană Toracală.
 category: coloana
-centering: perpendicular to IR. Direct CR to T7 (3 to 4 inches [8 to 10 cm] below
-  incizura jugulară (manubriul sternal) or 1 to 2 inches [2.5 to 5 cm] below sternal
-  angle). Centering is similar to that used with AP Torace. Center IR to CR.
+centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
+  T7 (3 la 4 inches [8 la 10 cm] below incizura jugulară (manubriul sternal) sau 1
+  la 2 inches [2.5 la 5 cm] below sternal angle). Centering este similar la that used
+  cu AP Torace. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology involving the Coloană Toracală, such as compression suspiciune de fractură,
-  subluxation, or kyphosis
+- Pathology involving Coloană Toracală, such ca compression suspiciune de fractură,
+  subluxation, sau kyphosis
 images:
 - caption: Fig. 8.80 AP Coloană Toracală.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.80 AP thoracic
-    spine.)
+    coloană vertebrală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_1.jpeg
 - caption: Fig. 8.81 AP Coloană Toracală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.81
-    AP thoracic spine.)
+    AP thoracic coloană vertebrală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_2.jpeg
 - caption: Fig. 8.82 AP Coloană Toracală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.82
-    AP thoracic spine.)
+    AP thoracic coloană vertebrală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -30,16 +31,16 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Decubit and Ortostatism Position Position patient Decubit Dorsal
-  (preferred) with arms at side and head on table or on a thin pillow. If patient
-  cannot tolerate the Decubit Dorsal position, place Ortostatism with arms at side
-  and weight evenly distributed on both feet. The anode heel effect will create more
-  uniform receptor exposure throughout the Coloană Toracală. Place patient so the
-  more intense aspect of the beam (cathode side) is over the thoracolumbar region
-  of the spine.; Regiune anatomică: Align midsagittal plane to CR and midline of table
-  and/or IR (Fig. 8.80). Flex knees and hips to reduce thoracic curvature. Ensure
-  that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of thorax or Bazin (Pelvis) exists.'
+position: 'Pacient: Decubit și Ortostatism poziție pacient Decubit dorsal (preferred)
+  cu brațe la side și cap pe table sau pe thin pillow. If pacient cannot tolerate
+  Decubit dorsal poziție, place Ortostatism cu brațe la side și weight evenly distributed
+  pe ambele picioare. anode heel effect will create more uniform receptor expunere
+  throughout Coloană Toracală. Place pacient so more intense aspect de fascicul (cathode
+  side) este over thoracolumbar region de coloană vertebrală.; Regiune anatomică:
+  Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul
+  de imagine (Fig. 8.80). Flex genunchi și hips la reduce thoracic curvature. Se verifică
+  absența rotației: claviculele sunt riguros echidistante față de linia proceselor
+  spinoase thorax sau Bazin (bazin (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,17 +48,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Thoracic vertebral bodies, intervertebral joint spaces, spinous and transverse processes,
-  posterior Coaste (Grilaj Costal), and costovertebral articulations (Figs. 8.81 and
-  8.82). Position
-- The spinal column from C7 to L1 centered to the midline of the IR.
+- Thoracic vertebral corpuri, intervertebral spații articulare, spinous și procese
+  transverse, posterior Coaste (Grilaj Costal), și costovertebral articulations (Figs.
+  8.81 și 8.82). poziție
+- spinal column de la C7 la L1 centrat pe linia mediană receptorul de imagine.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated by sternoclavicular joints equidistant from the spine.'
-- Collimation to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of thoracic vertebrae.
-- no motion. Fig. 8.81 AP Coloană Toracală. Body (T12) Body (T8) First rib Posterior
-  rib (T9) Left Claviculă Fig. 8.82 AP Coloană Toracală.
+  indicated prin articulații sternoclaviculare echidistant față de coloană vertebrală.'
+- Collimation la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de coloană toracală.
+- fără mișcare. Fig. 8.81 AP Coloană Toracală. corp (T12) corp (T8) First rib posterior
+  rib (T9) stâng Claviculă Fig. 8.82 AP Coloană Toracală.
 sid_dff: 100 cm
 slug: rx-coloana-toracala-ap-antero-posterior-bontrager
 sources:
@@ -65,7 +66,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on two sides of anatomy (four sides if possible)
+  collimation: Collimate pe two sides de anatomy (four sides if possible)
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -92,7 +93,7 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Pathology involving the Coloană Toracală, such as compression suspiciune de fractură, subluxation, or kyphosis
+        - Pathology involving Coloană Toracală, such ca compression suspiciune de fractură, subluxation, sau kyphosis
 
     === "Ghid Național IRIS"
 
@@ -106,10 +107,10 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit and Ortostatism Position Position patient Decubit Dorsal (preferred) with arms at side and head on table or on a thin pillow. If patient cannot tolerate the Decubit Dorsal position, place Ortostatism with arms at side and weight evenly distributed on both feet. The anode heel effect will create more uniform receptor exposure throughout the Coloană Toracală. Place patient so the more intense aspect of the beam (cathode side) is over the thoracolumbar region of the spine.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR (Fig. 8.80). Flex knees and hips to reduce thoracic curvature. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** perpendicular to IR. Direct CR to T7 (3 to 4 inches [8 to 10 cm] below incizura jugulară (manubriul sternal) or 1 to 2 inches [2.5 to 5 cm] below sternal angle). Centering is similar to that used with AP Torace. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit și Ortostatism poziție pacient Decubit dorsal (preferred) cu brațe la side și cap pe table sau pe thin pillow. If pacient cannot tolerate Decubit dorsal poziție, place Ortostatism cu brațe la side și weight evenly distributed pe ambele picioare. anode heel effect will create more uniform receptor expunere throughout Coloană Toracală. Place pacient so more intense aspect de fascicul (cathode side) este over thoracolumbar region de coloană vertebrală.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 8.80). Flex genunchi și hips la reduce thoracic curvature. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] below incizura jugulară (manubriul sternal) sau 1 la 2 inches [2.5 la 5 cm] below sternal angle). Centering este similar la that used cu AP Torace. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on expiration. Expiration reduces air volume in thorax for more uniform brightness and image contrast. Coloană Toracală ROUTINE AP Lateral Fig. 8.80 AP Coloană Toracală.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration. Expiration reduces air volume în thorax pentru more uniform brightness și imagine contrast. Coloană Toracală ROUTINE AP lateral Fig. 8.80 AP Coloană Toracală.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,19 +124,19 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on two sides of anatomy (four sides if possible) |
+    | **Colimare Fascicul** | Collimate pe two sides de anatomy (four sides if possible) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Thoracic vertebral bodies, intervertebral joint spaces, spinous and transverse processes, posterior Coaste (Grilaj Costal), and costovertebral articulations (Figs. 8.81 and 8.82). Position
-    - The spinal column from C7 to L1 centered to the midline of the IR.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated by sternoclavicular joints equidistant from the spine.
-    - Collimation to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of thoracic vertebrae.
-    - no motion. Fig. 8.81 AP Coloană Toracală. Body (T12) Body (T8) First rib Posterior rib (T9) Left Claviculă Fig. 8.82 AP Coloană Toracală.
+    - Thoracic vertebral corpuri, intervertebral spații articulare, spinous și procese transverse, posterior Coaste (Grilaj Costal), și costovertebral articulations (Figs. 8.81 și 8.82). poziție
+    - spinal column de la C7 la L1 centrat pe linia mediană receptorul de imagine.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin articulații sternoclaviculare echidistant față de coloană vertebrală.
+    - Collimation la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de coloană toracală.
+    - fără mișcare. Fig. 8.81 AP Coloană Toracală. corp (T12) corp (T8) First rib posterior rib (T9) stâng Claviculă Fig. 8.82 AP Coloană Toracală.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,7 +158,7 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
 
 ![Fig. 8.80 AP Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.80 AP Coloană Toracală.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.80 AP thoracic spine.)</span></figcaption>
+<figcaption><strong>Fig. 8.80 AP Coloană Toracală.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.80 AP thoracic coloană vertebrală.)</span></figcaption>
 
 </figure>
 
@@ -165,7 +166,7 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
 
 ![Fig. 8.81 AP Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 8.81 AP Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.81 AP thoracic spine.)</span></figcaption>
+<figcaption><strong>Fig. 8.81 AP Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.81 AP thoracic coloană vertebrală.)</span></figcaption>
 
 </figure>
 
@@ -173,7 +174,7 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
 
 ![Fig. 8.82 AP Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 8.82 AP Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.82 AP thoracic spine.)</span></figcaption>
+<figcaption><strong>Fig. 8.82 AP Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.82 AP thoracic coloană vertebrală.)</span></figcaption>
 
 </figure>
 

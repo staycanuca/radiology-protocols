@@ -12,5 +12,8 @@ window.MathJax = {
 };
 
 document$.subscribe(() => {
-  MathJax.typesetPromise()
+  // The CDN script may still be loading when the first page event fires.
+  if (typeof window.MathJax.typesetPromise === "function") {
+    window.MathJax.typesetPromise().catch(console.error)
+  }
 })

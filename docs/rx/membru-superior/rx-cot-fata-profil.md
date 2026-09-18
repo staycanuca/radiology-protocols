@@ -2,7 +2,7 @@
 author: Departamentul de Radiologie
 breathing: Nu este necesară apneea; pacient imobilizat complet
 category: membru-superior
-centering: Mijlocul fantei articulare a cotului (la 2 cm sub linia interepicondiliană)
+centering: Mijlocul fantei articulare cotului (la 2 cm sub linia interepicondiliană)
 clinical_indications:
 - Traumatisme de cot, suspiciune fractură paletă humerală, cap radial sau olecran
 - Luxație de cot post-traumatică
@@ -26,12 +26,34 @@ protection:
 quality_criteria:
 - 'Pe față: articulația cotului complet deschisă, epicondilii humerului vizibili în
   profil fără rotație'
-- 'Pe profil: flexie strictă la 90°, suprapunerea precisă a condililor humerale (trohlee
+- 'Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerale (trohlee
   și capitul)'
 - Vizualizarea pernuței adipoase anterioare și posterioare (semnul pernuței posterioare
   indică hemartroză chiar în absența unei fracturi evidente)
 sid_dff: 100 cm
 slug: rx-cot-fata-profil
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial (EUR 16260)
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR
+  kind: Standard de practică clinică
+  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
+  source_region: US
+  title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Radiopaedia
+  kind: Ghid tehnic de poziționare
+  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
+  source_region: Internațional
+  title: Radiopaedia — X-ray Positioning and Projections Reference
+  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Manual
   collimation: Inclusiv treimea distală de humerus și treimea proximală de radius
@@ -42,35 +64,13 @@ tech_params:
   kv: 55 - 62
   mas: 3 - 6 (fără grilă)
 title: Rx Cot (Față & Profil)
-sources:
-- title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial (EUR 16260)
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
-- title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
-  institution: ACR
-  source_region: US
-  kind: Standard de practică clinică
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
-- title: Radiopaedia — X-ray Positioning and Projections Reference
-  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
-  institution: Radiopaedia
-  source_region: Internațional
-  kind: Ghid tehnic de poziționare
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
 ---
-
 # Rx Cot (Față & Profil)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -102,7 +102,7 @@ sources:
     ---
 
     - **Poziție Pacient:** Pacient așezat la capătul mesei radiologice. 1) Față (AP): brațul și antebrațul în extensie completă și supinație, lipite de detector; 2) Profil: cot flectat strict la 90°, marginea ulnară lipită de casetă
-    - **Punct de Centrare Fascicul:** Mijlocul fantei articulare a cotului (la 2 cm sub linia interepicondiliană)
+    - **Punct de Centrare Fascicul:** Mijlocul fantei articulare cotului (la 2 cm sub linia interepicondiliană)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nu este necesară apneea; pacient imobilizat complet
 
@@ -126,7 +126,7 @@ sources:
     ---
 
     - Pe față: articulația cotului complet deschisă, epicondilii humerului vizibili în profil fără rotație
-    - Pe profil: flexie strictă la 90°, suprapunerea precisă a condililor humerale (trohlee și capitul)
+    - Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerale (trohlee și capitul)
     - Vizualizarea pernuței adipoase anterioare și posterioare (semnul pernuței posterioare indică hemartroză chiar în absența unei fracturi evidente)
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -149,8 +149,9 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
-- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf) — *ACR* (US)
-- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1) — *Radiopaedia* (Internațional)
+## Surse de documentare
+
+- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)
+- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf)
+- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1)

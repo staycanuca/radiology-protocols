@@ -2,59 +2,60 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to radial head (approximately1 inch [2 to
-  3 cm] distal to lateral epicondyle)
+centering: perpendicular pe receptorul de imagine, orientat la cap radial (approximately1
+  inch [2 la 3 cm] distal la epicondil lateral)
 clinical_indications:
-- Occult suspiciune de fractură of the radial head or neck
+- Occult suspiciune de fractură de cap radial sau neck
 images:
-- caption: Fig. 4.155 Mână supinated
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.155 Hand supinated)
+- caption: Fig. 4.155 Mână în supinație
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.155 mână în
+    supinație)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_1.jpeg
 - caption: Fig. 4.157 Mână lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.157
-    Hand lateral.)
+    mână lateral.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_2.jpeg
-- caption: Fig. 4.159 Mână pronated.
+- caption: Fig. 4.159 Mână în pronație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.159
-    Hand pronated.)
+    mână în pronație.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_3.jpeg
-- caption: Fig. 4.161 Mână with maximum
+- caption: Fig. 4.161 Mână cu maximum
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.161
-    Hand with maximum)
+    mână cu maximum)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_4.jpeg
-- caption: Fig. 4.154 Mână supinated
+- caption: Fig. 4.154 Mână în supinație
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.154
-    Hand supinated)
+    mână în supinație)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_5.jpeg
 - caption: Fig. 4.156 Mână lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.156
-    Hand lateral.)
+    mână lateral.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_6.jpeg
-- caption: Fig. 4.158 Mână pronated.
+- caption: Fig. 4.158 Mână în pronație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.158
-    Hand pronated.)
+    mână în pronație.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_7.jpeg
-- caption: Fig. 4.160 Mână with maximum
+- caption: Fig. 4.160 Mână cu maximum
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.160
-    Hand with maximum)
+    mână cu maximum)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_8.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table, with arm flexed 90° and resting
-  on IR with Humerus, Antebraț, and Mână on same horizontal plane. Place support under
-  Mână and Pumn (Articulație Radiocarpiană) if needed.; Regiune anatomică: Center
-  radial head area to center of IR, positioned so that distal Humerus and proximal
-  Antebraț are placed “square” with, or parallel with, the borders of IR. Center radial
-  head region to CR. Take four projections, the only difference among the four being
-  rotation of the Mână and Pumn (Articulație Radiocarpiană) from (1) maximum external
-  rotation to (4) maximum internal rotation; different parts of the radial head projected
-  clear of the coronoid process are demonstrated. Nearcomplete rotation of the radial
-  head occurs in these four projections, as follows: 1. Supinate Mână (palm up) and
-  externally rotate as far as patient can tolerate (Fig. 4.154). 2. Place Mână in
-  true Incidență de Profil (Lateral) (Police up) (Fig. 4.156). 3. Pronate Mână (palm
-  down) (Fig. 4.158). 4. Internally rotate Mână (Police down) as far as patient can
-  tolerate (Fig. 4.160).'
+position: 'Pacient: Seat pacient la end de table, cu braț flectat 90° și resting pe
+  receptorul de imagine cu Humerus, Antebraț, și Mână pe same plan orizontal. Place
+  support under Mână și Pumn (Articulație Radiocarpiană) if needed.; Regiune anatomică:
+  Center cap radial area la center de receptorul de imagine, poziționat so that distal
+  Humerus și proximal Antebraț sunt plasat “square” cu, sau paralel cu, margini de
+  receptorul de imagine. Center cap radial region la raza centrală. Take four incidențe,
+  only difference among four being rotație de Mână și Pumn (Articulație Radiocarpiană)
+  de la (1) maximum extern rotație la (4) maximum intern rotație; different parts
+  de cap radial projected clear de proces coronoid sunt evidențiat. Nearcomplete rotație
+  de cap radial occurs în these four incidențe, ca follows: 1. Supinate Mână (palm
+  up) și externally rotate ca far ca pacient poate tolerate (Fig. 4.154). 2. Place
+  Mână în true Incidență de Profil (lateral) (Police up) (Fig. 4.156). 3. Pronate
+  Mână (palm down) (Fig. 4.158). 4. Internally rotate Mână (Police down) ca far ca
+  pacient poate tolerate (Fig. 4.160).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -62,17 +63,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Cot should be flexed 90° in true Incidență de Profil (Lateral), as evidenced by
-  direct superimposition of epicondyles.
-- Radial head and neck should be partially superimposed by ulna but completely visualized
-  in profile in various projections.
-- 'Radial tuberosity should be visualized in various positions and degrees of profile
-  as follows (see small arrows): (1) Fig. 4.155, slightly anterior; (2) Fig. 4.157,
-  not in profile, superimposed over radial shaft; (3) Fig. 4.159, slightly posterior;
-  (4) Fig. 4.161, seen posteriorly, adjacent to ulna when Mână and Pumn (Articulație
-  Radiocarpiană) are at maximum internal rotation.'
-- Optimal exposure with no motion should clearly visualize sharp, bony margins and
-  clear trabecular markings of radial head and neck area.
+- Cot trebuie să fie flectat 90° în true Incidență de Profil (lateral), ca evidenced
+  prin direct superimposition de epicondyles.
+- cap radial și neck trebuie să fie partially superimposed prin ulna but completely
+  visualized în profile în various incidențe.
+- 'tuberozitate radială bicipitală trebuie să fie visualized în various poziții și
+  grade de profile ca follows (see small arrows): (1) Fig. 4.155, slightly anterior;
+  (2) Fig. 4.157, nu în profile, superimposed over radial shaft; (3) Fig. 4.159, slightly
+  posterior; (4) Fig. 4.161, seen posteriorly, adjacent la ulna when Mână și Pumn
+  (Articulație Radiocarpiană) sunt la maximum intern rotație.'
+- optim expunere cu fără mișcare trebuie să clearly visualize net, bony margins și
+  clear trabecular markings de cap radial și neck area.
 sid_dff: 100 cm
 slug: rx-lateromedial-projections-radial-head-cot-bontrager
 sources:
@@ -80,21 +81,21 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to area of interest (including at
-    least 3 to 4 inches [10 cm] of proximal Antebraț and distal portion of Humerus).
+  collimation: Field Size Collimate pe four sides la aria de interes diagnostic (including
+    la least 3 la 4 inches [10 cm] de proximal Antebraț și distal portion de Humerus).
     Cot SPECIAL traumatism acuttism / Regim Urgență axial laterals (Coyle method)
-    Radial head laterals Fig. 4.155 Mână supinated (maximum external rotation). Fig.
-    4.157 Mână lateral. Fig. 4.159 Mână pronated. Fig. 4.161 Mână with maximum internal
-    rotation. Fig. 4.154 Mână supinated (maximum external rotation). Fig. 4.156 Mână
-    lateral. Fig. 4.158 Mână pronated. Fig. 4.160 Mână with maximum internal rotation.
+    cap radial laterals Fig. 4.155 Mână în supinație (maximum extern rotație). Fig.
+    4.157 Mână lateral. Fig. 4.159 Mână în pronație. Fig. 4.161 Mână cu maximum intern
+    rotație. Fig. 4.154 Mână în supinație (maximum extern rotație). Fig. 4.156 Mână
+    lateral. Fig. 4.158 Mână în pronație. Fig. 4.160 Mână cu maximum intern rotație.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '65'
   mas: DE CONFIGURAT PE APARAT
-title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
+title: Rx Incidență Latero-MedialăS RADIAL HEAD (Cot)
 ---
-# Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
+# Rx Incidență Latero-MedialăS RADIAL HEAD (Cot)
 
 
 <div class="rx-meta-bar">
@@ -113,7 +114,7 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
 
     === "Indicații Clinice"
 
-        - Occult suspiciune de fractură of the radial head or neck
+        - Occult suspiciune de fractură de cap radial sau neck
 
     === "Ghid Național IRIS"
 
@@ -127,8 +128,8 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with arm flexed 90° and resting on IR with Humerus, Antebraț, and Mână on same horizontal plane. Place support under Mână and Pumn (Articulație Radiocarpiană) if needed.; Regiune anatomică: Center radial head area to center of IR, positioned so that distal Humerus and proximal Antebraț are placed “square” with, or parallel with, the borders of IR. Center radial head region to CR. Take four projections, the only difference among the four being rotation of the Mână and Pumn (Articulație Radiocarpiană) from (1) maximum external rotation to (4) maximum internal rotation; different parts of the radial head projected clear of the coronoid process are demonstrated. Nearcomplete rotation of the radial head occurs in these four projections, as follows: 1. Supinate Mână (palm up) and externally rotate as far as patient can tolerate (Fig. 4.154). 2. Place Mână in true Incidență de Profil (Lateral) (Police up) (Fig. 4.156). 3. Pronate Mână (palm down) (Fig. 4.158). 4. Internally rotate Mână (Police down) as far as patient can tolerate (Fig. 4.160).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to radial head (approximately1 inch [2 to 3 cm] distal to lateral epicondyle)
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu braț flectat 90° și resting pe receptorul de imagine cu Humerus, Antebraț, și Mână pe same plan orizontal. Place support under Mână și Pumn (Articulație Radiocarpiană) if needed.; Regiune anatomică: Center cap radial area la center de receptorul de imagine, poziționat so that distal Humerus și proximal Antebraț sunt plasat “square” cu, sau paralel cu, margini de receptorul de imagine. Center cap radial region la raza centrală. Take four incidențe, only difference among four being rotație de Mână și Pumn (Articulație Radiocarpiană) de la (1) maximum extern rotație la (4) maximum intern rotație; different parts de cap radial projected clear de proces coronoid sunt evidențiat. Nearcomplete rotație de cap radial occurs în these four incidențe, ca follows: 1. Supinate Mână (palm up) și externally rotate ca far ca pacient poate tolerate (Fig. 4.154). 2. Place Mână în true Incidență de Profil (lateral) (Police up) (Fig. 4.156). 3. Pronate Mână (palm down) (Fig. 4.158). 4. Internally rotate Mână (Police down) ca far ca pacient poate tolerate (Fig. 4.160).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la cap radial (approximately1 inch [2 la 3 cm] distal la epicondil lateral)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -144,17 +145,17 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to area of interest (including at least 3 to 4 inches [10 cm] of proximal Antebraț and distal portion of Humerus). Cot SPECIAL traumatism acuttism / Regim Urgență axial laterals (Coyle method) Radial head laterals Fig. 4.155 Mână supinated (maximum external rotation). Fig. 4.157 Mână lateral. Fig. 4.159 Mână pronated. Fig. 4.161 Mână with maximum internal rotation. Fig. 4.154 Mână supinated (maximum external rotation). Fig. 4.156 Mână lateral. Fig. 4.158 Mână pronated. Fig. 4.160 Mână with maximum internal rotation. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la aria de interes diagnostic (including la least 3 la 4 inches [10 cm] de proximal Antebraț și distal portion de Humerus). Cot SPECIAL traumatism acuttism / Regim Urgență axial laterals (Coyle method) cap radial laterals Fig. 4.155 Mână în supinație (maximum extern rotație). Fig. 4.157 Mână lateral. Fig. 4.159 Mână în pronație. Fig. 4.161 Mână cu maximum intern rotație. Fig. 4.154 Mână în supinație (maximum extern rotație). Fig. 4.156 Mână lateral. Fig. 4.158 Mână în pronație. Fig. 4.160 Mână cu maximum intern rotație. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Cot should be flexed 90° in true Incidență de Profil (Lateral), as evidenced by direct superimposition of epicondyles.
-    - Radial head and neck should be partially superimposed by ulna but completely visualized in profile in various projections.
-    - Radial tuberosity should be visualized in various positions and degrees of profile as follows (see small arrows): (1) Fig. 4.155, slightly anterior; (2) Fig. 4.157, not in profile, superimposed over radial shaft; (3) Fig. 4.159, slightly posterior; (4) Fig. 4.161, seen posteriorly, adjacent to ulna when Mână and Pumn (Articulație Radiocarpiană) are at maximum internal rotation.
-    - Optimal exposure with no motion should clearly visualize sharp, bony margins and clear trabecular markings of radial head and neck area.
+    - Cot trebuie să fie flectat 90° în true Incidență de Profil (lateral), ca evidenced prin direct superimposition de epicondyles.
+    - cap radial și neck trebuie să fie partially superimposed prin ulna but completely visualized în profile în various incidențe.
+    - tuberozitate radială bicipitală trebuie să fie visualized în various poziții și grade de profile ca follows (see small arrows): (1) Fig. 4.155, slightly anterior; (2) Fig. 4.157, nu în profile, superimposed over radial shaft; (3) Fig. 4.159, slightly posterior; (4) Fig. 4.161, seen posteriorly, adjacent la ulna when Mână și Pumn (Articulație Radiocarpiană) sunt la maximum intern rotație.
+    - optim expunere cu fără mișcare trebuie să clearly visualize net, bony margins și clear trabecular markings de cap radial și neck area.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -174,9 +175,9 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.155 Mână supinated](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_1.jpeg)
+![Fig. 4.155 Mână în supinație](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.155 Mână supinated</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.155 Hand supinated)</span></figcaption>
+<figcaption><strong>Fig. 4.155 Mână în supinație</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.155 mână în supinație)</span></figcaption>
 
 </figure>
 
@@ -184,31 +185,31 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
 
 ![Fig. 4.157 Mână lateral.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.157 Mână lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.157 Hand lateral.)</span></figcaption>
+<figcaption><strong>Fig. 4.157 Mână lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.157 mână lateral.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.159 Mână pronated.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_3.jpeg)
+![Fig. 4.159 Mână în pronație.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.159 Mână pronated.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.159 Hand pronated.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.161 Mână with maximum](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.161 Mână with maximum</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.161 Hand with maximum)</span></figcaption>
+<figcaption><strong>Fig. 4.159 Mână în pronație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.159 mână în pronație.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.154 Mână supinated](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_5.jpeg)
+![Fig. 4.161 Mână cu maximum](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.154 Mână supinated</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.154 Hand supinated)</span></figcaption>
+<figcaption><strong>Fig. 4.161 Mână cu maximum</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.161 mână cu maximum)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.154 Mână în supinație](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.154 Mână în supinație</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.154 mână în supinație)</span></figcaption>
 
 </figure>
 
@@ -216,23 +217,23 @@ title: Rx LATEROMEDIAL PROJECTIONS RADIAL HEAD (Cot)
 
 ![Fig. 4.156 Mână lateral.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_6.jpeg)
 
-<figcaption><strong>Fig. 4.156 Mână lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.156 Hand lateral.)</span></figcaption>
+<figcaption><strong>Fig. 4.156 Mână lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.156 mână lateral.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.158 Mână pronated.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_7.jpeg)
+![Fig. 4.158 Mână în pronație.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_7.jpeg)
 
-<figcaption><strong>Fig. 4.158 Mână pronated.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.158 Hand pronated.)</span></figcaption>
+<figcaption><strong>Fig. 4.158 Mână în pronație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.158 mână în pronație.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.160 Mână with maximum](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_8.jpeg)
+![Fig. 4.160 Mână cu maximum](../../assets/images/protocols/bontrager/rx-lateromedial-projections-radial-head-cot-bontrager/fig_8.jpeg)
 
-<figcaption><strong>Fig. 4.160 Mână with maximum</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.160 Hand with maximum)</span></figcaption>
+<figcaption><strong>Fig. 4.160 Mână cu maximum</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.160 mână cu maximum)</span></figcaption>
 
 </figure>
 

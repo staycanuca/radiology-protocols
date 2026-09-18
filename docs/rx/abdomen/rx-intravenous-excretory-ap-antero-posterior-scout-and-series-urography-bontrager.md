@@ -1,18 +1,19 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration after expiration and expose.
+breathing: Apnee pe durata expunerii after expiration și expose.
 category: abdomen
-centering: 'is perpendicular to IR. Center CR and IR to level of creasta iliacă (corespunzător
-  L4-L5) and to midsagittal plane. Nephrogram: Center CR midway between xiphoid process
-  and creasta iliacă (corespunzător L4-L5).'
+centering: 'este perpendicular pe receptorul de imagine. Center raza centrală și receptorul
+  de imagine la level de creasta iliacă (corespunzător L4-L5) și la plan mediosagital.
+  Nephrogram: Center raza centrală midway între apendice xifoid și creasta iliacă
+  (corespunzător L4-L5).'
 clinical_indications:
-- Scout demonstrates abnormal calcifications that may be urinary calculi. After injection,
-  the Incidență Antero-Posterioară (AP) may demonstrate signs of obstruction, hydronephrosis,
-  tumor, or infection.
+- Scout evidențiază abnormal calcifications that poate fie urinary Litiază urinară
+  / calculi radio-opaci. After injection, Incidență Antero-Posterioară (AP) poate
+  evidențiază signs de obstruction, hydronephrosis, tumor, sau infection.
 images:
-- caption: Fig. 14.71 IVU scout and series.
+- caption: Fig. 14.71 IVU scout și series.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.71 IVU scout
-    and series.)
+    și series.)
   url: assets/images/protocols/bontrager/rx-intravenous-excretory-ap-antero-posterior-scout-and-series-urography-bontrager/fig_1.jpeg
 - caption: Fig. 14.72 IVU (10 minutes). (Case courtesy Dr MT Niknejad,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.72
@@ -32,19 +33,19 @@ images:
   url: assets/images/protocols/bontrager/rx-intravenous-excretory-ap-antero-posterior-scout-and-series-urography-bontrager/fig_5.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Have patient empty bladder immediately before beginning the examination so
-  that contrast medium in the bladder is not diluted. Explain procedure and obtain
-  a clinical history before injecting contrast medium. Be prepared for possible reaction
-  to the contrast medium. Nephrog ram Urografie Intravenoasă (UIV)—IVU ROUTINE AP
-  (scout and series) Nephrogram RPO and LPO (30°) AP—Post-Micțional Ortostatism or
-  Decubit Fig. 14.71 IVU scout and series.
-position: 'Pacient: Situate the patient Decubit Dorsal, with a pillow for the head,
-  arms at the sides, away from the body, and support under the knees to relieve back
-  strain.; Regiune anatomică: Align midsagittal plane to centerline of table and to
-  CR. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of trunk or Bazin (Pelvis). Include simfiza pubiană on bottom of IR without
-  cutting off upper kidneys (Fig. 14.71). (A second smaller IR for bladder area may
-  be necessary on hypersthenic patients.)'
+notes: Have pacient empty bladder immediately before beginning examination so that
+  contrast medium în bladder este nu diluted. Explain procedure și obtain clinical
+  history before injecting contrast medium. fie prepared pentru possible reaction
+  la contrast medium. Nephrog ram Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout
+  și series) Nephrogram RPO și LPO (30°) AP—Post-Micțional Ortostatism sau Decubit
+  Fig. 14.71 IVU scout și series.
+position: 'Pacient: Situate pacientul Decubit dorsal, cu pillow pentru capul, brațe
+  la sides, away de la corp, și support under genunchii la relieve back strain.; Regiune
+  anatomică: Align plan mediosagital la centerline de table și la raza centrală. Ensure
+  Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
+  de trunk sau Bazin (bazin (pelvis)). Include simfiza pubiană pe bottom de receptorul
+  de imagine fără cutting off upper rinichi (Fig. 14.71). (second smaller receptorul
+  de imagine pentru bladder area poate fie necessary pe hypersthenic pacienți.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -52,21 +53,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire urinary system is visualized from upper renal shadows to distal urinary bladder
-  (Figs. 14.72 and 14.73). The simfiza pubiană should be included on lower margin
-  of the IR.
-- 'After injection, only a portion of the urinary system may be opacified on a specific
-  radiograph in the series. Position:'
+- Entire urinary system este visualized de la upper renal shadows la distal vezică
+  urinară (Figs. 14.72 și 14.73). simfiza pubiană trebuie să fie included pe lower
+  margin de receptorul de imagine.
+- 'After injection, only portion de urinary system poate fie opacified pe specific
+  radiografie în series. poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as evidenced by symmetry of iliac wings and rib cage'
-- 'Proper collimation applied. Exposure:'
-- no motion due to respiration or movement.
-- 'Optimal image receptor exposure and contrast with shortscale contrast demonstrating
-  the urinary system. Markers:'
-- 'Minute markers and R or L markers visible on all series radiographs. Fig. 14.72
-  IVU (10 minutes). (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.) Left
-  renal Bazin (Pelvis) Major calyx Right ureter Left ureter Urinary bladder Fig. 14.73
-  IVU; 10 minutes following injection. (Case courtesy Dr MT Niknejad, Radiopaedia.org,
+  ca evidenced prin symmetry de iliac wings și rib cage'
+- 'corect collimation applied. expunere:'
+- fără mișcare due la respirație sau movement.
+- 'optim receptorul de imagine expunere și contrast cu shortscale contrast evidențiind
+  urinary system. markeri:'
+- 'Minute markeri și R sau L markeri vizibil pe toate series radiografii. Fig. 14.72
+  IVU (10 minutes). (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.) stâng
+  renal Bazin (bazin (pelvis)) Major calyx drept ureter stâng ureter vezică urinară
+  Fig. 14.73 IVU; 10 minutes following injection. (Case courtesy Dr MT Niknejad, Radiopaedia.org,
   rID: 85286.)'
 sid_dff: 100 cm
 slug: rx-intravenous-excretory-ap-antero-posterior-scout-and-series-urography-bontrager
@@ -75,7 +76,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on all four sides to anatomy of interest.
+  collimation: Collimate pe toate four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -102,7 +103,7 @@ title: Rx INTRAVENOUS (EXCRETORY) AP (Antero-Posterior) (SCOUT AND SERIES) (UROG
 
     === "Indicații Clinice"
 
-        - Scout demonstrates abnormal calcifications that may be urinary calculi. After injection, the Incidență Antero-Posterioară (AP) may demonstrate signs of obstruction, hydronephrosis, tumor, or infection.
+        - Scout evidențiază abnormal calcifications that poate fie urinary Litiază urinară / calculi radio-opaci. After injection, Incidență Antero-Posterioară (AP) poate evidențiază signs de obstruction, hydronephrosis, tumor, sau infection.
 
     === "Ghid Național IRIS"
 
@@ -116,10 +117,10 @@ title: Rx INTRAVENOUS (EXCRETORY) AP (Antero-Posterior) (SCOUT AND SERIES) (UROG
 
     ---
 
-    - **Poziție Pacient:** Pacient: Situate the patient Decubit Dorsal, with a pillow for the head, arms at the sides, away from the body, and support under the knees to relieve back strain.; Regiune anatomică: Align midsagittal plane to centerline of table and to CR. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of trunk or Bazin (Pelvis). Include simfiza pubiană on bottom of IR without cutting off upper kidneys (Fig. 14.71). (A second smaller IR for bladder area may be necessary on hypersthenic patients.)
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Center CR and IR to level of creasta iliacă (corespunzător L4-L5) and to midsagittal plane. Nephrogram: Center CR midway between xiphoid process and creasta iliacă (corespunzător L4-L5).
+    - **Poziție Pacient:** Pacient: Situate pacientul Decubit dorsal, cu pillow pentru capul, brațe la sides, away de la corp, și support under genunchii la relieve back strain.; Regiune anatomică: Align plan mediosagital la centerline de table și la raza centrală. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de trunk sau Bazin (bazin (pelvis)). Include simfiza pubiană pe bottom de receptorul de imagine fără cutting off upper rinichi (Fig. 14.71). (second smaller receptorul de imagine pentru bladder area poate fie necessary pe hypersthenic pacienți.)
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center raza centrală și receptorul de imagine la level de creasta iliacă (corespunzător L4-L5) și la plan mediosagital. Nephrogram: Center raza centrală midway între apendice xifoid și creasta iliacă (corespunzător L4-L5).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration after expiration and expose.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii after expiration și expose.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -133,20 +134,20 @@ title: Rx INTRAVENOUS (EXCRETORY) AP (Antero-Posterior) (SCOUT AND SERIES) (UROG
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on all four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe toate four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire urinary system is visualized from upper renal shadows to distal urinary bladder (Figs. 14.72 and 14.73). The simfiza pubiană should be included on lower margin of the IR.
-    - After injection, only a portion of the urinary system may be opacified on a specific radiograph in the series. Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evidenced by symmetry of iliac wings and rib cage
-    - Proper collimation applied. Exposure:
-    - no motion due to respiration or movement.
-    - Optimal image receptor exposure and contrast with shortscale contrast demonstrating the urinary system. Markers:
-    - Minute markers and R or L markers visible on all series radiographs. Fig. 14.72 IVU (10 minutes). (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.) Left renal Bazin (Pelvis) Major calyx Right ureter Left ureter Urinary bladder Fig. 14.73 IVU; 10 minutes following injection. (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.)
+    - Entire urinary system este visualized de la upper renal shadows la distal vezică urinară (Figs. 14.72 și 14.73). simfiza pubiană trebuie să fie included pe lower margin de receptorul de imagine.
+    - After injection, only portion de urinary system poate fie opacified pe specific radiografie în series. poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin symmetry de iliac wings și rib cage
+    - corect collimation applied. expunere:
+    - fără mișcare due la respirație sau movement.
+    - optim receptorul de imagine expunere și contrast cu shortscale contrast evidențiind urinary system. markeri:
+    - Minute markeri și R sau L markeri vizibil pe toate series radiografii. Fig. 14.72 IVU (10 minutes). (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.) stâng renal Bazin (bazin (pelvis)) Major calyx drept ureter stâng ureter vezică urinară Fig. 14.73 IVU; 10 minutes following injection. (Case courtesy Dr MT Niknejad, Radiopaedia.org, rID: 85286.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,7 +160,7 @@ title: Rx INTRAVENOUS (EXCRETORY) AP (Antero-Posterior) (SCOUT AND SERIES) (UROG
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Have patient empty bladder immediately before beginning the examination so that contrast medium in the bladder is not diluted. Explain procedure and obtain a clinical history before injecting contrast medium. Be prepared for possible reaction to the contrast medium. Nephrog ram Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout and series) Nephrogram RPO and LPO (30°) AP—Post-Micțional Ortostatism or Decubit Fig. 14.71 IVU scout and series.
+    Have pacient empty bladder immediately before beginning examination so that contrast medium în bladder este nu diluted. Explain procedure și obtain clinical history before injecting contrast medium. fie prepared pentru possible reaction la contrast medium. Nephrog ram Urografie Intravenoasă (UIV)—IVU ROUTINE AP (scout și series) Nephrogram RPO și LPO (30°) AP—Post-Micțional Ortostatism sau Decubit Fig. 14.71 IVU scout și series.
 
 
 ### 🖼️ Imagini
@@ -168,9 +169,9 @@ title: Rx INTRAVENOUS (EXCRETORY) AP (Antero-Posterior) (SCOUT AND SERIES) (UROG
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.71 IVU scout and series.](../../assets/images/protocols/bontrager/rx-intravenous-excretory-ap-antero-posterior-scout-and-series-urography-bontrager/fig_1.jpeg)
+![Fig. 14.71 IVU scout și series.](../../assets/images/protocols/bontrager/rx-intravenous-excretory-ap-antero-posterior-scout-and-series-urography-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 14.71 IVU scout and series.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.71 IVU scout and series.)</span></figcaption>
+<figcaption><strong>Fig. 14.71 IVU scout și series.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.71 IVU scout și series.)</span></figcaption>
 
 </figure>
 

@@ -2,12 +2,12 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to aria medio-carpiană
+centering: perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
 clinical_indications:
-- suspiciune de fractură of distal radius or ulna, isolated suspiciune de fractură
-  of radial or ulnar styloid processes, and suspiciune de fractură of individual carpal
-  bones
-- Pathologic processes, such as osteomielită / leziuni inflamatorii osoase and arthritis
+- suspiciune de fractură de distal radius sau ulna, isolated suspiciune de fractură
+  de radial sau ulnar styloid processes, și suspiciune de fractură de individual oase
+  carpiene
+- Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
 images:
 - caption: Fig. 4.86 PA Pumn (Articulație Radiocarpiană).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.86 PA wrist.)
@@ -20,19 +20,19 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.88
     PA wrist.)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-pa-ap-projection-bontrager/fig_3.jpeg
-- caption: Fig. 4.89 PA of right Pumn (Articulație Radiocarpiană).
+- caption: Fig. 4.89 PA de drept Pumn (Articulație Radiocarpiană).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.89
-    PA of right wrist.)
+    PA de drept wrist.)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-pa-ap-projection-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table with Mână and Antebraț extended.
-  Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal
-  plane.; Regiune anatomică: Align and center long axis of Mână and Pumn (Articulație
-  Radiocarpiană) to IR, with carpal area centered to CR. With Mână pronated, arch
-  Mână slightly to place Pumn (Articulație Radiocarpiană) and carpal area in close
-  contact with IR (Fig. 4.86).'
+position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop
+  Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.;
+  Regiune anatomică: Align și center axa longitudinală de Mână și Pumn (Articulație
+  Radiocarpiană) la receptorul de imagine, cu carpal area centrat pe raza centrală.
+  cu Mână în pronație, arch Mână slightly la place Pumn (Articulație Radiocarpiană)
+  și carpal area în close contact cu receptorul de imagine (Fig. 4.86).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,24 +40,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Midmetacarpals and proximal metacarpals; carpals; distal radius, ulna, and associated
-  joints; and pertinent soft tissues of the Pumn (Articulație Radiocarpiană) joint,
-  such as fat pads and fat stripes, are visible.
-- 'All the intercarpal spaces do not appear open because of irregular shapes that
-  result in overlapping (Figs. 4.88 and 4.89). Position:'
-- Long axis of the Mână, Pumn (Articulație Radiocarpiană), and Antebraț is aligned
-  with IR.
-- True PA is evidenced by equal concavity shapes are on each side of the shafts of
-  the proximal metacarpals; nearequal distances exist among the proximal metacarpals;
-  separation of the distal radius and ulna is present except for possible minimal
-  superimposition at the distal radioulnar joint.
-- 'CR and center of collimation field size should be to the aria medio-carpiană. Exposure:'
-- Optimal image receptor exposure and contrast with no motion should visualize soft
-  tissue, such as pertinent fat pads, and sharp, bony margins of the carpals and clear
-  trabecular markings. Fig. 4.86 PA Pumn (Articulație Radiocarpiană). Fig. 4.87 Alternative
-  AP Pumn (Articulație Radiocarpiană). Fig. 4.88 PA Pumn (Articulație Radiocarpiană).
-  Trapezoid Trapezium Capitate Scaphoid Radius Pisiform Hamate Triquetrum Lunate Ulna
-  Fig. 4.89 PA of right Pumn (Articulație Radiocarpiană).
+- Midmetacarpals și proximal oase metacarpiene; oase carpiene; distal radius, ulna,
+  și associated articulații; și pertinent soft tissues de Pumn (Articulație Radiocarpiană)
+  articulație, such ca fat pads și fat stripes, sunt vizibil.
+- 'toate intercarpal spaces do nu appear open because de irregular shapes that result
+  în overlapping (Figs. 4.88 și 4.89). poziție:'
+- axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț este aliniat
+  cu receptorul de imagine.
+- True PA este evidenced prin equal concavity shapes sunt pe fiecare side de shafts
+  de proximal oase metacarpiene; nearequal distances exist among proximal oase metacarpiene;
+  separation de distal radius și ulna este present except pentru possible minimal
+  superimposition la distal radioulnar articulație.
+- 'raza centrală și center de collimation field size trebuie să fie la aria medio-carpiană.
+  expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
+  părți moi, such ca pertinent fat pads, și net, bony margins de oase carpiene și
+  clear trabecular markings. Fig. 4.86 PA Pumn (Articulație Radiocarpiană). Fig. 4.87
+  Alternative AP Pumn (Articulație Radiocarpiană). Fig. 4.88 PA Pumn (Articulație
+  Radiocarpiană). Trapezoid Trapezium Capitate Scaphoid Radius Pisiform Hamate Triquetrum
+  Lunate Ulna Fig. 4.89 PA de drept Pumn (Articulație Radiocarpiană).
 sid_dff: 100 cm
 slug: rx-pumn-articulatie-radiocarpiana-pa-ap-projection-bontrager
 sources:
@@ -65,22 +66,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate to outer edges of Mână and Pumn (Articulație Radiocarpiană).
-    Alternative AP An AP Pumn (Articulație Radiocarpiană) may be taken, with Mână
-    slightly arched to place Pumn (Articulație Radiocarpiană) and carpals in close
-    contact with IR, to demonstrate intercarpal spaces and Pumn (Articulație Radiocarpiană)
-    joint better and to place the intercarpal spaces more parallel to the divergent
-    rays (Fig. 4.87). This Pumn (Articulație Radiocarpiană) projection is good for
-    visualizing the carpals if the patient can assume this position easily. Pumn (Articulație
-    Radiocarpiană) ROUTINE PA PA oblique Lateral
+  collimation: Field Size Collimate la outer edges de Mână și Pumn (Articulație Radiocarpiană).
+    Alternative AP AP Pumn (Articulație Radiocarpiană) poate fie taken, cu Mână slightly
+    arched la place Pumn (Articulație Radiocarpiană) și oase carpiene în close contact
+    cu receptorul de imagine, la evidențiază intercarpal spaces și Pumn (Articulație
+    Radiocarpiană) articulație better și la place intercarpal spaces more paralel
+    cu divergent rays (Fig. 4.87). This Pumn (Articulație Radiocarpiană) incidență
+    este good pentru visualizing oase carpiene if pacientul poate assume this poziție
+    easily. Pumn (Articulație Radiocarpiană) ROUTINE PA PA oblic lateral
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
+title: Rx Pumn (Articulație Radiocarpiană) PA (AP) Incidență
 ---
-# Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
+# Rx Pumn (Articulație Radiocarpiană) PA (AP) Incidență
 
 
 <div class="rx-meta-bar">
@@ -99,8 +100,8 @@ title: Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură of distal radius or ulna, isolated suspiciune de fractură of radial or ulnar styloid processes, and suspiciune de fractură of individual carpal bones
-        - Pathologic processes, such as osteomielită / leziuni inflamatorii osoase and arthritis
+        - suspiciune de fractură de distal radius sau ulna, isolated suspiciune de fractură de radial sau ulnar styloid processes, și suspiciune de fractură de individual oase carpiene
+        - Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
 
     === "Ghid Național IRIS"
 
@@ -114,8 +115,8 @@ title: Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table with Mână and Antebraț extended. Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal plane.; Regiune anatomică: Align and center long axis of Mână and Pumn (Articulație Radiocarpiană) to IR, with carpal area centered to CR. With Mână pronated, arch Mână slightly to place Pumn (Articulație Radiocarpiană) and carpal area in close contact with IR (Fig. 4.86).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to aria medio-carpiană
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.; Regiune anatomică: Align și center axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) la receptorul de imagine, cu carpal area centrat pe raza centrală. cu Mână în pronație, arch Mână slightly la place Pumn (Articulație Radiocarpiană) și carpal area în close contact cu receptorul de imagine (Fig. 4.86).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -131,19 +132,19 @@ title: Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate to outer edges of Mână and Pumn (Articulație Radiocarpiană). Alternative AP An AP Pumn (Articulație Radiocarpiană) may be taken, with Mână slightly arched to place Pumn (Articulație Radiocarpiană) and carpals in close contact with IR, to demonstrate intercarpal spaces and Pumn (Articulație Radiocarpiană) joint better and to place the intercarpal spaces more parallel to the divergent rays (Fig. 4.87). This Pumn (Articulație Radiocarpiană) projection is good for visualizing the carpals if the patient can assume this position easily. Pumn (Articulație Radiocarpiană) ROUTINE PA PA oblique Lateral |
+    | **Colimare Fascicul** | Field Size Collimate la outer edges de Mână și Pumn (Articulație Radiocarpiană). Alternative AP AP Pumn (Articulație Radiocarpiană) poate fie taken, cu Mână slightly arched la place Pumn (Articulație Radiocarpiană) și oase carpiene în close contact cu receptorul de imagine, la evidențiază intercarpal spaces și Pumn (Articulație Radiocarpiană) articulație better și la place intercarpal spaces more paralel cu divergent rays (Fig. 4.87). This Pumn (Articulație Radiocarpiană) incidență este good pentru visualizing oase carpiene if pacientul poate assume this poziție easily. Pumn (Articulație Radiocarpiană) ROUTINE PA PA oblic lateral |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Midmetacarpals and proximal metacarpals; carpals; distal radius, ulna, and associated joints; and pertinent soft tissues of the Pumn (Articulație Radiocarpiană) joint, such as fat pads and fat stripes, are visible.
-    - All the intercarpal spaces do not appear open because of irregular shapes that result in overlapping (Figs. 4.88 and 4.89). Position:
-    - Long axis of the Mână, Pumn (Articulație Radiocarpiană), and Antebraț is aligned with IR.
-    - True PA is evidenced by equal concavity shapes are on each side of the shafts of the proximal metacarpals; nearequal distances exist among the proximal metacarpals; separation of the distal radius and ulna is present except for possible minimal superimposition at the distal radioulnar joint.
-    - CR and center of collimation field size should be to the aria medio-carpiană. Exposure:
-    - Optimal image receptor exposure and contrast with no motion should visualize soft tissue, such as pertinent fat pads, and sharp, bony margins of the carpals and clear trabecular markings. Fig. 4.86 PA Pumn (Articulație Radiocarpiană). Fig. 4.87 Alternative AP Pumn (Articulație Radiocarpiană). Fig. 4.88 PA Pumn (Articulație Radiocarpiană). Trapezoid Trapezium Capitate Scaphoid Radius Pisiform Hamate Triquetrum Lunate Ulna Fig. 4.89 PA of right Pumn (Articulație Radiocarpiană).
+    - Midmetacarpals și proximal oase metacarpiene; oase carpiene; distal radius, ulna, și associated articulații; și pertinent soft tissues de Pumn (Articulație Radiocarpiană) articulație, such ca fat pads și fat stripes, sunt vizibil.
+    - toate intercarpal spaces do nu appear open because de irregular shapes that result în overlapping (Figs. 4.88 și 4.89). poziție:
+    - axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț este aliniat cu receptorul de imagine.
+    - True PA este evidenced prin equal concavity shapes sunt pe fiecare side de shafts de proximal oase metacarpiene; nearequal distances exist among proximal oase metacarpiene; separation de distal radius și ulna este present except pentru possible minimal superimposition la distal radioulnar articulație.
+    - raza centrală și center de collimation field size trebuie să fie la aria medio-carpiană. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi, such ca pertinent fat pads, și net, bony margins de oase carpiene și clear trabecular markings. Fig. 4.86 PA Pumn (Articulație Radiocarpiană). Fig. 4.87 Alternative AP Pumn (Articulație Radiocarpiană). Fig. 4.88 PA Pumn (Articulație Radiocarpiană). Trapezoid Trapezium Capitate Scaphoid Radius Pisiform Hamate Triquetrum Lunate Ulna Fig. 4.89 PA de drept Pumn (Articulație Radiocarpiană).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -187,9 +188,9 @@ title: Rx Pumn (Articulație Radiocarpiană) PA (AP) PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.89 PA of right Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-pa-ap-projection-bontrager/fig_4.jpeg)
+![Fig. 4.89 PA de drept Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-pa-ap-projection-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.89 PA of right Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.89 PA of right wrist.)</span></figcaption>
+<figcaption><strong>Fig. 4.89 PA de drept Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.89 PA de drept wrist.)</span></figcaption>
 
 </figure>
 

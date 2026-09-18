@@ -1,11 +1,12 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration after expiration and expose.
+breathing: Apnee pe durata expunerii after expiration și expose.
 category: abdomen
-centering: is perpendicular to IR. Center CR and IR to simfiza pubiană.
+centering: este perpendicular pe receptorul de imagine. Center raza centrală și receptorul
+  de imagine la simfiza pubiană.
 clinical_indications:
-- Possible vesicoureteral reflux A functional study of the urinary bladder and urethra
-  determines the cause of urinary retention.
+- Possible vesicoureteral reflux functional study de vezică urinară și urethra determines
+  cause de urinary retention.
 images:
 - caption: Fig. 14.90 RPO, male.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.90 RPO, male.)
@@ -16,16 +17,16 @@ images:
   url: assets/images/protocols/bontrager/rx-male-incidenta-antero-posterioara-ap-rpo-30-position-female-voiding-cistouretrografie-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Fluoroscopy and spot imaging are best for this procedure. Catheter must be
-  removed gently before voiding procedure. A radiolucent receptacle or absorbent padding
-  should be provided for the patient. After voiding is complete, a Post-Micțional
-  Incidență Antero-Posterioară (AP) may be requested. Voiding Cistouretrografie ROUTINE
-  Male—RPO (30°) Female—AP
-position: 'Pacient: Take image with the patient Decubit or Ortostatism.; Regiune anatomică:
-  Male Oblique body 30° into the RPO position. Superimpose urethra over soft tissues
-  of right thigh. Female Position patient Decubit Dorsal or Ortostatism into the AP
-  position. Center midsagittal plane to table or film holder. Extend and slightly
-  separate legs.'
+notes: Fluoroscopy și spot imaging sunt best pentru this procedure. Catheter trebuie
+  să fie removed gently before voiding procedure. radiolucent receptacle sau absorbent
+  padding trebuie să fie provided pentru pacientul. After voiding este complete, Post-Micțional
+  Incidență Antero-Posterioară (AP) poate fie requested. Voiding Cistouretrografie
+  ROUTINE Male—RPO (30°) Female—AP
+position: 'Pacient: Take imagine cu pacientul Decubit sau Ortostatism.; Regiune anatomică:
+  Male oblic corp 30° into poziție oblică posterioară dreaptă (OPD / RPO). Superimpose
+  urethra over soft tissues de drept thigh. Female poziție pacient Decubit dorsal
+  sau Ortostatism into AP poziție. Center plan mediosagital la table sau film radiologic
+  holder. Extend și slightly separate membre inferioare.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -33,15 +34,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Contrastfilled urinary bladder and urethra are visualized. Position:'
-- 'RPO: Male urethra containing contrast medium is superimposed over soft tissues
-  of right thigh (Fig. 14.90).'
-- 'AP: Female urethra containing contrast medium is demonstrated inferior to the simfiza
+- 'Contrastfilled vezică urinară și urethra sunt visualized. poziție:'
+- 'RPO: Male urethra containing contrast medium este superimposed over soft tissues
+  de drept thigh (Fig. 14.90).'
+- 'AP: Female urethra containing contrast medium este evidențiat inferior la simfiza
   pubiană (Fig. 14.91).'
-- 'Proper collimation applied. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the urinary bladder without
-  overexposing the male prostate area and the contrastfilled urethra of the male or
-  female. Fig. 14.90 RPO, male. Fig. 14.91 AP, female.
+- 'corect collimation applied. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize vezică urinară fără
+  overexposing male prostate area și contrastfilled urethra de male sau female. Fig.
+  14.90 RPO, male. Fig. 14.91 AP, female.
 sid_dff: 100 cm
 slug: rx-male-incidenta-antero-posterioara-ap-rpo-30-position-female-voiding-cistouretrografie-bontrager
 sources:
@@ -49,16 +50,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE - VOIDING
-  - Cistouretrografie)
+title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) Poziționare (FEMALE -
+  VOIDING - Cistouretrografie)
 ---
-# Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE - VOIDING - Cistouretrografie)
+# Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) Poziționare (FEMALE - VOIDING - Cistouretrografie)
 
 
 <div class="rx-meta-bar">
@@ -77,7 +78,7 @@ title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE
 
     === "Indicații Clinice"
 
-        - Possible vesicoureteral reflux A functional study of the urinary bladder and urethra determines the cause of urinary retention.
+        - Possible vesicoureteral reflux functional study de vezică urinară și urethra determines cause de urinary retention.
 
     === "Ghid Național IRIS"
 
@@ -91,10 +92,10 @@ title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE
 
     ---
 
-    - **Poziție Pacient:** Pacient: Take image with the patient Decubit or Ortostatism.; Regiune anatomică: Male Oblique body 30° into the RPO position. Superimpose urethra over soft tissues of right thigh. Female Position patient Decubit Dorsal or Ortostatism into the AP position. Center midsagittal plane to table or film holder. Extend and slightly separate legs.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Center CR and IR to simfiza pubiană.
+    - **Poziție Pacient:** Pacient: Take imagine cu pacientul Decubit sau Ortostatism.; Regiune anatomică: Male oblic corp 30° into poziție oblică posterioară dreaptă (OPD / RPO). Superimpose urethra over soft tissues de drept thigh. Female poziție pacient Decubit dorsal sau Ortostatism into AP poziție. Center plan mediosagital la table sau film radiologic holder. Extend și slightly separate membre inferioare.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center raza centrală și receptorul de imagine la simfiza pubiană.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration after expiration and expose.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii after expiration și expose.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -108,18 +109,18 @@ title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Contrastfilled urinary bladder and urethra are visualized. Position:
-    - RPO: Male urethra containing contrast medium is superimposed over soft tissues of right thigh (Fig. 14.90).
-    - AP: Female urethra containing contrast medium is demonstrated inferior to the simfiza pubiană (Fig. 14.91).
-    - Proper collimation applied. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the urinary bladder without overexposing the male prostate area and the contrastfilled urethra of the male or female. Fig. 14.90 RPO, male. Fig. 14.91 AP, female.
+    - Contrastfilled vezică urinară și urethra sunt visualized. poziție:
+    - RPO: Male urethra containing contrast medium este superimposed over soft tissues de drept thigh (Fig. 14.90).
+    - AP: Female urethra containing contrast medium este evidențiat inferior la simfiza pubiană (Fig. 14.91).
+    - corect collimation applied. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize vezică urinară fără overexposing male prostate area și contrastfilled urethra de male sau female. Fig. 14.90 RPO, male. Fig. 14.91 AP, female.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -132,7 +133,7 @@ title: Rx MALE; Incidență Antero-Posterioară (AP) RPO (30°) POSITION (FEMALE
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Fluoroscopy and spot imaging are best for this procedure. Catheter must be removed gently before voiding procedure. A radiolucent receptacle or absorbent padding should be provided for the patient. After voiding is complete, a Post-Micțional Incidență Antero-Posterioară (AP) may be requested. Voiding Cistouretrografie ROUTINE Male—RPO (30°) Female—AP
+    Fluoroscopy și spot imaging sunt best pentru this procedure. Catheter trebuie să fie removed gently before voiding procedure. radiolucent receptacle sau absorbent padding trebuie să fie provided pentru pacientul. After voiding este complete, Post-Micțional Incidență Antero-Posterioară (AP) poate fie requested. Voiding Cistouretrografie ROUTINE Male—RPO (30°) Female—AP
 
 
 ### 🖼️ Imagini

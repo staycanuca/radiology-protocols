@@ -4,7 +4,7 @@ breathing: Adaptată incidenței și cooperării; de confirmat local.
 category: membru-superior
 centering: Conform incidenței și acoperirii anatomice documentate.
 clinical_indications:
-- Traumatism al antebrațului sau evaluare justificată a unei fracturi cunoscute.
+- Traumatism al antebrațului sau evaluare justificată unei fracturi cunoscute.
 clinical_status: draft_not_for_clinical_use
 images: []
 last_updated: '2026-09-15'
@@ -38,6 +38,34 @@ source_mapping:
     section: 5. Radiological investigations
     source_id: 23af0267d7f85e77b886d0859eef936b
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.416946+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 23af0267d7f85e77b886d0859eef936b
+  institution: Royal Children’s Hospital Melbourne
+  section: 5. Radiological investigations
+  title: RCH — Radius/ulna shaft fractures, Emergency Department
+  url: https://www.rch.org.au/clinicalguide/guideline_index/fractures/Radialulna_shaft_diaphysis_fractures_Emergency_Department/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.416946+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 1788781fa4485e4c83b87b26a58ba20b
+  institution: Norfolk and Norwich University Hospitals NHS
+  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
+  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
+  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.416946+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Radius și ulna integral, cot și pumn.
   condition: Parte a setului inițial justificat de radiolog
@@ -57,42 +85,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX antebraț — radius și ulna
-sources:
-- id: 23af0267d7f85e77b886d0859eef936b
-  title: RCH — Radius/ulna shaft fractures, Emergency Department
-  url: https://www.rch.org.au/clinicalguide/guideline_index/fractures/Radialulna_shaft_diaphysis_fractures_Emergency_Department/
-  institution: Royal Children’s Hospital Melbourne
-  section: 5. Radiological investigations
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.416946+00:00'
-- id: 1788781fa4485e4c83b87b26a58ba20b
-  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
-  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
-  institution: Norfolk and Norwich University Hospitals NHS
-  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.416946+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.416946+00:00'
+title: Rx RX antebraț — radius și ulna
 workbench_transfer:
   draft_id: 3fe19a98915157dd885b0b976531a58b
-  transferred_at: '2026-09-15T08:50:31.194941+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.194941+00:00'
 ---
-
-# RX antebraț — radius și ulna
+# Rx RX antebraț — radius și ulna
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -114,7 +113,7 @@ workbench_transfer:
 
     === "Indicații Clinice"
 
-        - Traumatism al antebrațului sau evaluare justificată a unei fracturi cunoscute.
+        - Traumatism al antebrațului sau evaluare justificată unei fracturi cunoscute.
 
     === "Ghid Național IRIS"
 
@@ -205,8 +204,9 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [RCH — Radius/ulna shaft fractures, Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Radialulna_shaft_diaphysis_fractures_Emergency_Department/) — 5. Radiological investigations
-- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/) — Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [RCH — Radius/ulna shaft fractures, Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Radialulna_shaft_diaphysis_fractures_Emergency_Department/)
+- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

@@ -1,18 +1,18 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'technique: low mA with a 3to 4second exposure time is used kVp range:
+breathing: 'technique: low mA cu a 3to 4second expunere time este used kVp range:
   75–85'
 category: torace
-centering: Raza centrală (RC) perpendiculară pe receptorul de imagine, directed to
-  center of Stern (1 inch [2.5 cm] to left of midline and midway between the incizura
-  jugulară (manubriul sternal) and xiphoid process) (Fig. 10.20). For traumatism acuttism
+centering: Raza centrală (RC) perpendiculară pe receptorul de imagine, orientat la
+  center de Stern (1 inch [2.5 cm] la stâng de midline și midway între incizura jugulară
+  (manubriul sternal) și apendice xifoid) (Fig. 10.20). pentru traumatism acuttism
   / Regim Urgență situations see NOTE 2.
 clinical_indications:
-- Pathology of the Stern, including suspiciune de fractură and inflammatory processes
+- Pathology de Stern, including suspiciune de fractură și inflammatory processes
 images:
-- caption: Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° to 20° lateromedial
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.20 Erect—RAO
-    sternum. Inset, 15° to 20° lateromedial)
+- caption: Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° la 20° lateromedial
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.20 în ortostatism—RAO
+    sternum. Inset, 15° la 20° lateromedial)
   url: assets/images/protocols/bontrager/rx-stern-rao-position-bontrager/fig_1.jpeg
 - caption: Fig. 10.21 RAO Stern.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.21
@@ -28,19 +28,19 @@ images:
   url: assets/images/protocols/bontrager/rx-stern-rao-position-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Adaptation: This can be obtained in an LPO position if the patient’s condition
-  does not permit an RAO position. (See Chapter 15 for traumatism acuttism / Regim
-  Urgență positions of the Stern.) If the patient cannot be rotated, an oblique image
-  may be obtained by angling the CR 15° to 20° across the right side of the patient
-  to'
-position: 'Pacient: Ortostatism, facing the upright bucky (preferred), or semiprone
-  position with slight rotation, right arm down by side, and left arm raised.; Regiune
-  anatomică: Position patient oblique, in a 15° to 20° right anterior oblique (RAO)
-  to shift the Stern to the left of the vertebral column and superimpose it over the
-  homogeneous heart shadow. A large, deepchested thorax requires less rotation than
-  a thinchested thorax (see NOTE 1). Align long axis of Stern to CR and to midline
-  of table/upright bucky. Place top of IR approximately 1½ inches (4 cm) superior
-  to the incizura jugulară (manubriul sternal).'
+notes: 'Adaptation: This poate fie obtained în poziție oblică posterioară stângă (OPS
+  / LPO) if pacientul’s condition does nu permit poziție oblică anterioară dreaptă
+  (OAD / RAO). (See Chapter 15 pentru traumatism acuttism / Regim Urgență poziții
+  de Stern.) If pacientul cannot fie rotit, oblic imagine poate fie obtained prin
+  angling raza centrală 15° la 20° across drept side de pacientul la'
+position: 'Pacient: Ortostatism, facing stativ vertical Bucky (preferred), sau semiprone
+  poziție cu slight rotație, drept braț down prin side, și stâng braț raised.; Regiune
+  anatomică: poziție pacient oblic, în a 15° la 20° drept anterior oblic (RAO) la
+  shift Stern la stâng de coloană vertebrală și superimpose it over homogeneous heart
+  shadow. large, deepchested thorax requires less rotație than thinchested thorax
+  (see NOTE 1). Align axa longitudinală de Stern la raza centrală și la linia mediană
+  mesei/stativ vertical Bucky. Place top de receptorul de imagine approximately 1½
+  inches (4 cm) superior la incizura jugulară (manubriul sternal).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,17 +48,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Stern is visualized, superimposed on heart shadow (Figs. 10.21 and 10.22). Position:'
-- Correct patient rotation is demonstrated by visualizing Stern alongside vertebral
-  column with no superimposition by vertebrae. No distortion of Stern due to excessive
-  rotation of the thorax.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast demonstrating the outline of Stern
-  through overlying Coaste (Grilaj Costal), lung, and heart tissues.
-- Bony margins of the Stern appear sharp, and lung markings are blurred if breathing
-  technique was used.
-- no motion (with Apnee pe durata expunerii). L Fig. 10.21 RAO Stern. Manubrium Body
-  of Stern Claviculă Xiphoid process Sternoclavicular joints L Fig. 10.22 RAO Stern.
+- 'Stern este visualized, superimposed pe heart shadow (Figs. 10.21 și 10.22). poziție:'
+- Correct pacient rotație este evidențiat prin visualizing Stern alongside coloană
+  vertebrală cu fără superimposition prin vertebre. fără distortion de Stern due la
+  excessive rotație de thorax.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast evidențiind outline de Stern through
+  overlying Coaste (Grilaj Costal), lung, și heart tissues.
+- Bony margins de Stern appear net, și lung markings sunt blurred if Tehnică de estompare
+  prin respirație superficială (respirație technique) was used.
+- fără mișcare (cu Apnee pe durata expunerii). L Fig. 10.21 RAO Stern. manubriu sternal
+  corp de Stern Claviculă apendice xifoid articulații sternoclaviculare L Fig. 10.22
+  RAO Stern.
 sid_dff: 100 cm
 slug: rx-stern-rao-position-bontrager
 sources:
@@ -66,18 +67,18 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Long, narrow collimation field size to region of Stern AEC not recommended
-    project the Stern lateromedfial angle to the vertebral column, onto the heart
-    shadow (see Fig. 10.20, inset). A portable grid would be required and should be
-    placed landscape on the stretcher or tabletop to prevent grid cutoff.
+  collimation: Long, narrow collimation field size la region de Stern AEC nu recommended
+    project Stern lateromedfial angle la coloană vertebrală, onto cordul shadow (see
+    Fig. 10.20, inset). portable grilă would fie required și trebuie să fie plasat
+    landscape pe stretcher sau tabletop la prevent grilă cutoff.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx Stern RAO POSITION
+title: Rx Stern Oblică Anterioară Dreaptă (OAD / RAO)
 ---
-# Rx Stern RAO POSITION
+# Rx Stern Oblică Anterioară Dreaptă (OAD / RAO)
 
 
 <div class="rx-meta-bar">
@@ -96,7 +97,7 @@ title: Rx Stern RAO POSITION
 
     === "Indicații Clinice"
 
-        - Pathology of the Stern, including suspiciune de fractură and inflammatory processes
+        - Pathology de Stern, including suspiciune de fractură și inflammatory processes
 
     === "Ghid Național IRIS"
 
@@ -110,10 +111,10 @@ title: Rx Stern RAO POSITION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, facing the upright bucky (preferred), or semiprone position with slight rotation, right arm down by side, and left arm raised.; Regiune anatomică: Position patient oblique, in a 15° to 20° right anterior oblique (RAO) to shift the Stern to the left of the vertebral column and superimpose it over the homogeneous heart shadow. A large, deepchested thorax requires less rotation than a thinchested thorax (see NOTE 1). Align long axis of Stern to CR and to midline of table/upright bucky. Place top of IR approximately 1½ inches (4 cm) superior to the incizura jugulară (manubriul sternal).
-    - **Punct de Centrare Fascicul:** Raza centrală (RC) perpendiculară pe receptorul de imagine, directed to center of Stern (1 inch [2.5 cm] to left of midline and midway between the incizura jugulară (manubriul sternal) and xiphoid process) (Fig. 10.20). For traumatism acuttism / Regim Urgență situations see NOTE 2.
+    - **Poziție Pacient:** Pacient: Ortostatism, facing stativ vertical Bucky (preferred), sau semiprone poziție cu slight rotație, drept braț down prin side, și stâng braț raised.; Regiune anatomică: poziție pacient oblic, în a 15° la 20° drept anterior oblic (RAO) la shift Stern la stâng de coloană vertebrală și superimpose it over homogeneous heart shadow. large, deepchested thorax requires less rotație than thinchested thorax (see NOTE 1). Align axa longitudinală de Stern la raza centrală și la linia mediană mesei/stativ vertical Bucky. Place top de receptorul de imagine approximately 1½ inches (4 cm) superior la incizura jugulară (manubriul sternal).
+    - **Punct de Centrare Fascicul:** Raza centrală (RC) perpendiculară pe receptorul de imagine, orientat la center de Stern (1 inch [2.5 cm] la stâng de midline și midway între incizura jugulară (manubriul sternal) și apendice xifoid) (Fig. 10.20). pentru traumatism acuttism / Regim Urgență situations see NOTE 2.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** technique: low mA with a 3to 4second exposure time is used kVp range: 75–85
+    - **Comandă Respiratorie:** technique: low mA cu a 3to 4second expunere time este used kVp range: 75–85
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,19 +128,19 @@ title: Rx Stern RAO POSITION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Long, narrow collimation field size to region of Stern AEC not recommended project the Stern lateromedfial angle to the vertebral column, onto the heart shadow (see Fig. 10.20, inset). A portable grid would be required and should be placed landscape on the stretcher or tabletop to prevent grid cutoff. |
+    | **Colimare Fascicul** | Long, narrow collimation field size la region de Stern AEC nu recommended project Stern lateromedfial angle la coloană vertebrală, onto cordul shadow (see Fig. 10.20, inset). portable grilă would fie required și trebuie să fie plasat landscape pe stretcher sau tabletop la prevent grilă cutoff. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Stern is visualized, superimposed on heart shadow (Figs. 10.21 and 10.22). Position:
-    - Correct patient rotation is demonstrated by visualizing Stern alongside vertebral column with no superimposition by vertebrae. No distortion of Stern due to excessive rotation of the thorax.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast demonstrating the outline of Stern through overlying Coaste (Grilaj Costal), lung, and heart tissues.
-    - Bony margins of the Stern appear sharp, and lung markings are blurred if breathing technique was used.
-    - no motion (with Apnee pe durata expunerii). L Fig. 10.21 RAO Stern. Manubrium Body of Stern Claviculă Xiphoid process Sternoclavicular joints L Fig. 10.22 RAO Stern.
+    - Stern este visualized, superimposed pe heart shadow (Figs. 10.21 și 10.22). poziție:
+    - Correct pacient rotație este evidențiat prin visualizing Stern alongside coloană vertebrală cu fără superimposition prin vertebre. fără distortion de Stern due la excessive rotație de thorax.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast evidențiind outline de Stern through overlying Coaste (Grilaj Costal), lung, și heart tissues.
+    - Bony margins de Stern appear net, și lung markings sunt blurred if Tehnică de estompare prin respirație superficială (respirație technique) was used.
+    - fără mișcare (cu Apnee pe durata expunerii). L Fig. 10.21 RAO Stern. manubriu sternal corp de Stern Claviculă apendice xifoid articulații sternoclaviculare L Fig. 10.22 RAO Stern.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -152,7 +153,7 @@ title: Rx Stern RAO POSITION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Adaptation: This can be obtained in an LPO position if the patient’s condition does not permit an RAO position. (See Chapter 15 for traumatism acuttism / Regim Urgență positions of the Stern.) If the patient cannot be rotated, an oblique image may be obtained by angling the CR 15° to 20° across the right side of the patient to
+    Adaptation: This poate fie obtained în poziție oblică posterioară stângă (OPS / LPO) if pacientul’s condition does nu permit poziție oblică anterioară dreaptă (OAD / RAO). (See Chapter 15 pentru traumatism acuttism / Regim Urgență poziții de Stern.) If pacientul cannot fie rotit, oblic imagine poate fie obtained prin angling raza centrală 15° la 20° across drept side de pacientul la
 
 
 ### 🖼️ Imagini
@@ -161,9 +162,9 @@ title: Rx Stern RAO POSITION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° to 20° lateromedial](../../assets/images/protocols/bontrager/rx-stern-rao-position-bontrager/fig_1.jpeg)
+![Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° la 20° lateromedial](../../assets/images/protocols/bontrager/rx-stern-rao-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° to 20° lateromedial</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.20 Erect—RAO sternum. Inset, 15° to 20° lateromedial)</span></figcaption>
+<figcaption><strong>Fig. 10.20 Ortostatism—RAO Stern. Inset, 15° la 20° lateromedial</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.20 în ortostatism—RAO sternum. Inset, 15° la 20° lateromedial)</span></figcaption>
 
 </figure>
 

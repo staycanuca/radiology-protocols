@@ -1,25 +1,25 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Masiv Facial (Oase ale Feței) SPECIAL Modified parietoacanthial
-  (modified Incidență Occipito-Mentonieră (Metoda Waters))
+breathing: Apnee pe durata expunerii. Masiv Facial (Oase ale Feței) SPECIAL Modified
+  parietoacanthial (modified Incidență Occipito-Mentonieră (Metoda Waters))
 category: craniu-saf
-centering: Align Raza centrală perpendiculară, centered to exit at acanthion. Center
-  IR to CR.
+centering: Align Raza centrală perpendiculară, centrat pe exit la acantion. Se centrează
+  receptorul de imagine pe raza centrală.
 clinical_indications:
-- Orbital suspiciune de fractură (e.g., blowout) and neoplastic or inflammatory processes
-- Foreign bodies in the eye
+- Orbital suspiciune de fractură (e.g., blowout) și neoplastic sau inflammatory processes
+- Corp străin / corpuri străine radio-opace în eye
 images:
-- caption: Fig. 11.136 Modiﬁed parietoacanthial (Waters).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.136 Modiﬁed
+- caption: Fig. 11.136 Modified parietoacanthial (Waters).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.136 Modified
     parietoacanthial (Waters).)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg
-- caption: Fig. 11.137 Modiﬁed parietoacanthial (Waters).
+- caption: Fig. 11.137 Modified parietoacanthial (Waters).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.137
-    Modiﬁed parietoacanthial (Waters).)
+    Modified parietoacanthial (Waters).)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.jpeg
-- caption: Fig. 11.135 Modiﬁed parietoacanthial (Waters)—lMl perpendicular
+- caption: Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.135
-    Modiﬁed parietoacanthial (Waters)—lMl perpendicular)
+    Modified parietoacanthial (Waters)—lMl perpendicular)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,13 +28,14 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Remove all metallic or plastic objects from the head and neck.
-  Patient position is Ortostatism or Decubit Ventral (Ortostatism is preferred if
-  patient’s condition allows).; Regiune anatomică: Extend neck, resting chin and nose
-  against table/upright imaging device surface. Adjust head until lMl is perpendicular;
-  OML forms a 55° angle with IR (Fig. 11.135). Position MsP perpendicular to midline
-  of grid or table/upright imaging device surface. Ensure Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase or tilt of head.'
+position: 'Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din
+  plastic) de la capul și neck. pacient poziție este Ortostatism sau Decubit ventral
+  (Ortostatism este preferred if pacient’s condition allows).; Regiune anatomică:
+  Extend neck, resting chin și nose against table/în ortostatism imaging device surface.
+  Adjust cap until lMl este perpendicular; linie orbitomeatală (LOM) forms a 55° angle
+  cu receptorul de imagine (Fig. 11.135). poziție MsP perpendicular la midline de
+  grilă sau table/în ortostatism imaging device surface. Ensure Absența rotației anatomice:
+  clavicule echidistante față de linia apofizelor spinoase sau tilt de cap.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,22 +43,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Inferior orbital margins are perpendicular to IR, which also provides a less distorted
-  view of the orbital base/floor than a parietoacanthial (Waters) projection (Figs.
-  11.136 and 11.137). Position:'
-- Correct position/CR angulation is indicated by petrous ridges projected into the
-  lower half of the maxillary sinuses, below the IOMs.
+- 'inferior orbital margins sunt perpendicular pe receptorul de imagine, which also
+  provides less distorted incidență de orbital base/floor than parietoacanthial (Waters)
+  incidență (Figs. 11.136 și 11.137). poziție:'
+- Correct poziție/raza centrală angulation este indicated prin stânci temporale (piramide
+  pietroase) projected into lower half de sinusuri maxilare, below IOMs.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of the Craniu is indicated by equal distance from the midlateral orbital margin
-  to the lateral cortex of the Craniu (side rotated toward IR will appear wider).'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the inferior
+  de Craniu este indicated prin equal distance de la midlateral orbital margin la
+  lateral cortex de Craniu (side rotit spre receptorul de imagine will appear wider).'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize inferior
   orbital margins.
-- Sharp bony margins indicate no motion. Fig. 11.136 Modified parietoacanthial (Waters).
-  Frontal sinuses Bony nasal septum Petrous ridge Petrous ridge Maxillary sinus Inferior
-  orbital margin Fig. 11.137 Modified parietoacanthial (Waters). 18 24 L Fig. 11.135
-  Modified parietoacanthial (Waters)—lMl perpendicular (oMl 55°). (Decubit Ventral
-  shown in inset.)
+- net bony margins indicate fără mișcare. Fig. 11.136 Modified parietoacanthial (Waters).
+  sinusuri frontale Bony nasal septum stânci temporale (piramide pietroase) stânci
+  temporale (piramide pietroase) sinusuri maxilare inferior orbital margin Fig. 11.137
+  Modified parietoacanthial (Waters). 18 24 L Fig. 11.135 Modified parietoacanthial
+  (Waters)—lMl perpendicular (linie orbitomeatală (LOM) 55°). (Decubit ventral vizualizat
+  în inset.)
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager
 sources:
@@ -65,16 +67,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (MODIFIED
+title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL Incidență (MODIFIED
   Incidență Occipito-Mentonieră (Metoda Waters))
 ---
-# Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (MODIFIED Incidență Occipito-Mentonieră (Metoda Waters))
+# Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL Incidență (MODIFIED Incidență Occipito-Mentonieră (Metoda Waters))
 
 
 <div class="rx-meta-bar">
@@ -93,8 +95,8 @@ title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (M
 
     === "Indicații Clinice"
 
-        - Orbital suspiciune de fractură (e.g., blowout) and neoplastic or inflammatory processes
-        - Foreign bodies in the eye
+        - Orbital suspiciune de fractură (e.g., blowout) și neoplastic sau inflammatory processes
+        - Corp străin / corpuri străine radio-opace în eye
 
     === "Ghid Național IRIS"
 
@@ -108,10 +110,10 @@ title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (M
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from the head and neck. Patient position is Ortostatism or Decubit Ventral (Ortostatism is preferred if patient’s condition allows).; Regiune anatomică: Extend neck, resting chin and nose against table/upright imaging device surface. Adjust head until lMl is perpendicular; OML forms a 55° angle with IR (Fig. 11.135). Position MsP perpendicular to midline of grid or table/upright imaging device surface. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt of head.
-    - **Punct de Centrare Fascicul:** Align Raza centrală perpendiculară, centered to exit at acanthion. Center IR to CR.
+    - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din plastic) de la capul și neck. pacient poziție este Ortostatism sau Decubit ventral (Ortostatism este preferred if pacient’s condition allows).; Regiune anatomică: Extend neck, resting chin și nose against table/în ortostatism imaging device surface. Adjust cap until lMl este perpendicular; linie orbitomeatală (LOM) forms a 55° angle cu receptorul de imagine (Fig. 11.135). poziție MsP perpendicular la midline de grilă sau table/în ortostatism imaging device surface. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt de cap.
+    - **Punct de Centrare Fascicul:** Align Raza centrală perpendiculară, centrat pe exit la acantion. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Masiv Facial (Oase ale Feței) SPECIAL Modified parietoacanthial (modified Incidență Occipito-Mentonieră (Metoda Waters))
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Masiv Facial (Oase ale Feței) SPECIAL Modified parietoacanthial (modified Incidență Occipito-Mentonieră (Metoda Waters))
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -125,19 +127,19 @@ title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (M
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Inferior orbital margins are perpendicular to IR, which also provides a less distorted view of the orbital base/floor than a parietoacanthial (Waters) projection (Figs. 11.136 and 11.137). Position:
-    - Correct position/CR angulation is indicated by petrous ridges projected into the lower half of the maxillary sinuses, below the IOMs.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the Craniu is indicated by equal distance from the midlateral orbital margin to the lateral cortex of the Craniu (side rotated toward IR will appear wider).
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the inferior orbital margins.
-    - Sharp bony margins indicate no motion. Fig. 11.136 Modified parietoacanthial (Waters). Frontal sinuses Bony nasal septum Petrous ridge Petrous ridge Maxillary sinus Inferior orbital margin Fig. 11.137 Modified parietoacanthial (Waters). 18 24 L Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular (oMl 55°). (Decubit Ventral shown in inset.)
+    - inferior orbital margins sunt perpendicular pe receptorul de imagine, which also provides less distorted incidență de orbital base/floor than parietoacanthial (Waters) incidență (Figs. 11.136 și 11.137). poziție:
+    - Correct poziție/raza centrală angulation este indicated prin stânci temporale (piramide pietroase) projected into lower half de sinusuri maxilare, below IOMs.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Craniu este indicated prin equal distance de la midlateral orbital margin la lateral cortex de Craniu (side rotit spre receptorul de imagine will appear wider).
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize inferior orbital margins.
+    - net bony margins indicate fără mișcare. Fig. 11.136 Modified parietoacanthial (Waters). sinusuri frontale Bony nasal septum stânci temporale (piramide pietroase) stânci temporale (piramide pietroase) sinusuri maxilare inferior orbital margin Fig. 11.137 Modified parietoacanthial (Waters). 18 24 L Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular (linie orbitomeatală (LOM) 55°). (Decubit ventral vizualizat în inset.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,25 +159,25 @@ title: Rx Masiv Facial (Oase ale Feței) MODIFIED PARIETOACANTHIAL PROJECTION (M
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.136 Modiﬁed parietoacanthial (Waters).](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg)
+![Fig. 11.136 Modified parietoacanthial (Waters).](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.136 Modiﬁed parietoacanthial (Waters).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.136 Modiﬁed parietoacanthial (Waters).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.137 Modiﬁed parietoacanthial (Waters).](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.137 Modiﬁed parietoacanthial (Waters).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.137 Modiﬁed parietoacanthial (Waters).)</span></figcaption>
+<figcaption><strong>Fig. 11.136 Modified parietoacanthial (Waters).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.136 Modified parietoacanthial (Waters).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.135 Modiﬁed parietoacanthial (Waters)—lMl perpendicular](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg)
+![Fig. 11.137 Modified parietoacanthial (Waters).](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.135 Modiﬁed parietoacanthial (Waters)—lMl perpendicular</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.135 Modiﬁed parietoacanthial (Waters)—lMl perpendicular)</span></figcaption>
+<figcaption><strong>Fig. 11.137 Modified parietoacanthial (Waters).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.137 Modified parietoacanthial (Waters).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-modified-parietoacanthial-projection-modified-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.135 Modified parietoacanthial (Waters)—lMl perpendicular)</span></figcaption>
 
 </figure>
 

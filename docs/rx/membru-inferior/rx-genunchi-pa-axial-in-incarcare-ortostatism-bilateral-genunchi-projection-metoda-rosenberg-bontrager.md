@@ -2,21 +2,21 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: centered directly to midpoint of Genunchi joint at level ½inch (1.25 cm)
-  below apex of Rotulă (Patelă) when a unilateral study is performed.
+centering: centrat directly la midpoint de Genunchi articulație la level ½inch (1.25
+  cm) below apex de Rotulă (Patelă) when unilateral study este performed.
 clinical_indications:
-- Femorotibial joint spaces of the knees demonstrated for possible cartilage degeneration
-  or other Genunchi joint pathologies
-- Genunchi joint spaces and intercondylar fossa demonstrated
-- Bilateral knees included on same exposure for comparison
+- Femorotibial spații articulare de genunchii evidențiat pentru possible cartilage
+  degeneration sau other Genunchi articulație pathologies
+- Genunchi spații articulare și intercondylar fossa evidențiat
+- bilateral genunchi included pe same expunere pentru comparison
 images:
-- caption: Fig. 6.117 Metoda Rosenberg. Position for standing 45° PA ﬂexion
+- caption: Fig. 6.117 Metoda Rosenberg. poziție pentru în ortostatism 45° PA flexion
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.117 Rosenberg
-    method. Position for standing 45° PA ﬂexion)
+    method. poziție pentru în ortostatism 45° PA flexion)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_1.jpeg
-- caption: Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială with 10°
+- caption: Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială cu 10°
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.118
-    Rosenberg method—bilateral PA axial projection with 10°)
+    Rosenberg method—bilateral PA axial incidență cu 10°)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
@@ -29,10 +29,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 100 cm
 slug: rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager
 sources:
@@ -40,26 +39,27 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to bilateral Genunchi joint region, including some distal
-    femurs and proximal tibia for alignment purposes. Alternative Unilateral Projection
-    If requested, this examination may be performed unilaterally with patient facing
-    the upright bucky or IR holder, knees flexed to 45°, and feet straight ahead.
-    The patient should put full weight on the affected extremity. This requires the
-    patient to balance with minimal pressure placed on the contralateral side. Direct
-    CR 10° caudad (parallel to articular facets) to level of Genunchi joint for this
-    PA unilateral projection. Genunchi SPECIAL AP bilateral weightbearing PA axial
-    bilateral weightbearing Fig. 6.117 Metoda Rosenberg. Position for standing 45°
-    PA flexion weightbearing for bilateral knees. 10° 40” 45° X-ray beam Image receptor
-    Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială with 10° caudad.
+  collimation: Collimate la bilateral Genunchi articulație region, including some
+    distal femurs și proximal tibia pentru alignment purposes. Alternative unilateral
+    incidență If requested, this examination poate fie performed unilaterally cu pacient
+    facing stativ vertical Bucky sau receptorul de imagine holder, genunchi flectat
+    la 45°, și picioare straight ahead. pacientul trebuie să put full weight pe affected
+    extremity. This requires pacientul la balance cu minimal pressure plasat pe contralateral
+    side. Direct raza centrală 10° caudal (paralel la articular facets) la level de
+    Genunchi articulație pentru this PA unilateral incidență. Genunchi SPECIAL AP
+    bilateral weightbearing PA axial bilateral weightbearing Fig. 6.117 Metoda Rosenberg.
+    poziție pentru în ortostatism 45° PA flexion weightbearing pentru bilateral genunchi.
+    10° 40” 45° X-ray fascicul receptorul de imagine Fig. 6.118 Metoda Rosenberg—bilateral
+    Incidență PA Axială cu 10° caudal.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTION
+title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi Incidență
   (Metoda Rosenberg)
 ---
-# Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTION (Metoda Rosenberg)
+# Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi Incidență (Metoda Rosenberg)
 
 
 <div class="rx-meta-bar">
@@ -78,9 +78,9 @@ title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PRO
 
     === "Indicații Clinice"
 
-        - Femorotibial joint spaces of the knees demonstrated for possible cartilage degeneration or other Genunchi joint pathologies
-        - Genunchi joint spaces and intercondylar fossa demonstrated
-        - Bilateral knees included on same exposure for comparison
+        - Femorotibial spații articulare de genunchii evidențiat pentru possible cartilage degeneration sau other Genunchi articulație pathologies
+        - Genunchi spații articulare și intercondylar fossa evidențiat
+        - bilateral genunchi included pe same expunere pentru comparison
 
     === "Ghid Național IRIS"
 
@@ -95,7 +95,7 @@ title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PRO
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** centered directly to midpoint of Genunchi joint at level ½inch (1.25 cm) below apex of Rotulă (Patelă) when a unilateral study is performed.
+    - **Punct de Centrare Fascicul:** centrat directly la midpoint de Genunchi articulație la level ½inch (1.25 cm) below apex de Rotulă (Patelă) when unilateral study este performed.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -111,16 +111,16 @@ title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PRO
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to bilateral Genunchi joint region, including some distal femurs and proximal tibia for alignment purposes. Alternative Unilateral Projection If requested, this examination may be performed unilaterally with patient facing the upright bucky or IR holder, knees flexed to 45°, and feet straight ahead. The patient should put full weight on the affected extremity. This requires the patient to balance with minimal pressure placed on the contralateral side. Direct CR 10° caudad (parallel to articular facets) to level of Genunchi joint for this PA unilateral projection. Genunchi SPECIAL AP bilateral weightbearing PA axial bilateral weightbearing Fig. 6.117 Metoda Rosenberg. Position for standing 45° PA flexion weightbearing for bilateral knees. 10° 40” 45° X-ray beam Image receptor Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială with 10° caudad. |
+    | **Colimare Fascicul** | Collimate la bilateral Genunchi articulație region, including some distal femurs și proximal tibia pentru alignment purposes. Alternative unilateral incidență If requested, this examination poate fie performed unilaterally cu pacient facing stativ vertical Bucky sau receptorul de imagine holder, genunchi flectat la 45°, și picioare straight ahead. pacientul trebuie să put full weight pe affected extremity. This requires pacientul la balance cu minimal pressure plasat pe contralateral side. Direct raza centrală 10° caudal (paralel la articular facets) la level de Genunchi articulație pentru this PA unilateral incidență. Genunchi SPECIAL AP bilateral weightbearing PA axial bilateral weightbearing Fig. 6.117 Metoda Rosenberg. poziție pentru în ortostatism 45° PA flexion weightbearing pentru bilateral genunchi. 10° 40” 45° X-ray fascicul receptorul de imagine Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială cu 10° caudal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -140,17 +140,17 @@ title: Rx Genunchi PA AXIAL În Încărcare (Ortostatism) BILATERAL Genunchi PRO
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.117 Metoda Rosenberg. Position for standing 45° PA ﬂexion](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_1.jpeg)
+![Fig. 6.117 Metoda Rosenberg. poziție pentru în ortostatism 45° PA flexion](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.117 Metoda Rosenberg. Position for standing 45° PA ﬂexion</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.117 Rosenberg method. Position for standing 45° PA ﬂexion)</span></figcaption>
+<figcaption><strong>Fig. 6.117 Metoda Rosenberg. poziție pentru în ortostatism 45° PA flexion</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.117 Rosenberg method. poziție pentru în ortostatism 45° PA flexion)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială with 10°](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_2.jpeg)
+![Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială cu 10°](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-in-incarcare-ortostatism-bilateral-genunchi-projection-metoda-rosenberg-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială with 10°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.118 Rosenberg method—bilateral PA axial projection with 10°)</span></figcaption>
+<figcaption><strong>Fig. 6.118 Metoda Rosenberg—bilateral Incidență PA Axială cu 10°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.118 Rosenberg method—bilateral PA axial incidență cu 10°)</span></figcaption>
 
 </figure>
 

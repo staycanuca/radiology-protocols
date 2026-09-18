@@ -1,52 +1,54 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Take exposure at the end of expiration. Absența rotației anatomice: clavicule
-  echidistante față de linia apofizelor spinoase; iliac wings appear symmetric, and
-  outer rib margins are the same distance from spine. No tilt: Spine should be straight
-  (unless scolioză / vicii de postură ale coloanei is present), aligned to center
-  of IR.'
+breathing: 'Take expunere la end de expiration. Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase; iliac wings appear simetric, și
+  outer rib margins sunt same distance de la coloană vertebrală. fără tilt: coloană
+  vertebrală trebuie să fie straight (unless scolioză / vicii de postură ale coloanei
+  este present), aliniat la center de receptorul de imagine.'
 category: torace
-centering: horizontal, directed to center of IR, at about 2 inches (5 cm) above level
-  of creasta iliacă (corespunzător L4-L5); use of a horizontal beam to demonstrate
-  airfluid levels and free intraperitoneal air Abdomen SPECIAL PA Decubit Ventral
-  Lateral decubitus (AP) AP Ortostatism Dorsal decubitus (lateral) Lateral
+centering: orizontal, orientat la center de receptorul de imagine, la about 2 inches
+  (5 cm) above level de creasta iliacă (corespunzător L4-L5); use de orizontal fascicul
+  la evidențiază airfluid levels și liber intraperitoneal air Abdomen SPECIAL PA Decubit
+  ventral lateral decubit (AP) AP Ortostatism dorsal decubit (lateral) lateral
 clinical_indications:
-- Abdominal masses, airfluid levels, and possible accumulations of intraperitoneal
-  air are demonstrated.
-- 'Small amounts of free intraperitoneal air are best demonstrated with Torace technique
-  on Ortostatism PA Torace. Important: Patient should be on their side a minimum of
-  5 minutes before exposure (to allow air to rise or abnormal fluids to accumulate);
-  10 to 20 minutes is preferred, if possible, for best visualization of potentially
-  small amounts of intraperitoneal air. Left Incidență Decubit Lateral best visualizes
-  free intraperitoneal air in the area of the liver in the right upper Abdomen away
-  from the gastric bubble.'
+- Abdominal masses, airfluid levels, și possible accumulations de intraperitoneal
+  air sunt evidențiat.
+- 'Small amounts de liber intraperitoneal air sunt best evidențiat cu Torace technique
+  pe Ortostatism PA Torace. Important: pacient trebuie să fie pe their side minimum
+  de 5 minutes before expunere (la allow air la rise sau abnormal fluids la accumulate);
+  10 la 20 minutes este preferred, if possible, pentru best visualization de potentially
+  small amounts de intraperitoneal air. stâng Incidență Decubit lateral best visualizes
+  liber intraperitoneal air în area de ficat în drept etajul abdominal superior away
+  de la gastric bubble.'
 images:
-- caption: Fig. 3.37 Left lateral decubitus (AP). (Modiﬁed from McQuillen
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.37 Left lateral
-    decubitus (AP). (Modiﬁed from McQuillen)
+- caption: Fig. 3.37 stâng lateral decubit (AP). (Modified de la McQuillen
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.37 stâng lateral
+    decubit (AP). (Modified de la McQuillen)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_1.jpeg
-- caption: Fig. 3.36 Left Incidență Decubit Lateral (AP).
+- caption: Fig. 3.36 stâng Incidență Decubit lateral (AP).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.36
-    Left lateral decubitus position (AP).)
+    stâng lateral decubit poziție (AP).)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_2.jpeg
-- caption: 'Fig. 3.38 Left lateral decubitus (AP). (From McQuillen Martensen K:'
+- caption: 'Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K:'
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.38
-    Left lateral decubitus (AP). (From McQuillen Martensen K:)
+    stâng lateral decubit (AP). (de la McQuillen Martensen K:)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Lateral Decubit on radiolucent pad, firmly against table or vertical
-  grid device (with wheels on cart locked so as not to move away from the table) Patient
-  on firm surface, such as a cardiac or backboard, positioned under the sheet to prevent
-  sagging and anatomy cutoff (Fig. 3.36) Knees partially flexed, one on top of the
-  other, to stabilize patient Arms up near head; clean pillow provided; Regiune anatomică:
-  Adjust patient and cart/table so that center of IR and CR are approximately 2 inches
-  (5 cm) above level of creasta iliacă (corespunzător L4-L5)s (to include diaphragm).
-  Upper margin of IR is approximately at level of axilla. Ensure Absența rotației
-  anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis)
-  or shoulders. Adjust height of IR to center midsagittal plane of patient to center
-  of IR, but ensure that upside of Abdomen is included on the IR.'
+position: 'Pacient: lateral Decubit pe radiolucent pad, firmly against table sau stativ
+  vertical Bucky (cu wheels pe cart locked so ca nu la move away de la masa de examinare)
+  pacient pe firm surface, such ca cardiac sau backboard, poziționat under sheet la
+  prevent sagging și anatomy cutoff (Fig. 3.36) genunchi partially flectat, one pe
+  top de other, la stabilize pacient brațe up near cap; clean pillow provided; Regiune
+  anatomică: Adjust pacient și cart/table so that center de receptorul de imagine
+  și raza centrală sunt approximately 2 inches (5 cm) above level de creasta iliacă
+  (corespunzător L4-L5)s (la include cupole diafragmatice). Upper margin de receptorul
+  de imagine este approximately la level de axilla. Ensure Absența rotației anatomice:
+  clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis))
+  sau umeri. Adjust height de receptorul de imagine la center plan mediosagital de
+  pacient la center de receptorul de imagine, but ensure that upside de Abdomen este
+  included pe receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -54,16 +56,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Airfilled stomach and loops of bowel and airfluid levels where present.
-- Should include bilateral diaphragm (Figs. 3.37 and 3.38). Position
+- Airfilled stomach și loops de bowel și airfluid levels where present.
+- trebuie să include bilateral cupole diafragmatice (Figs. 3.37 și 3.38). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase;
-  iliac wings appear symmetric, and outer rib margins are the same distance from spine.'
-- 'No tilt: Spine should be straight (unless scolioză / vicii de postură ale coloanei
-  is present), aligned to center of IR.'
-- Collimation to area of interest. Exposure
-- no motion; Coaste (Grilaj Costal) and all gas bubble margins sharp.
-- Optimal image receptor exposure to visualize spine and Coaste (Grilaj Costal) and
-  soft tissue but not to overexpose possible intraperitoneal air in upper Abdomen.
+  iliac wings appear simetric, și outer rib margins sunt same distance de la coloană
+  vertebrală.'
+- 'fără tilt: coloană vertebrală trebuie să fie straight (unless scolioză / vicii
+  de postură ale coloanei este present), aliniat la center de receptorul de imagine.'
+- Collimation la aria de interes diagnostic. expunere
+- fără mișcare; Coaste (Grilaj Costal) și toate gas bubble margins net.
+- optim receptorul de imagine expunere la visualize coloană vertebrală și Coaste (Grilaj
+  Costal) și părți moi but nu la overexpose possible intraperitoneal air în etajul
+  abdominal superior.
 sid_dff: 100 cm
 slug: rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager
 sources:
@@ -71,23 +75,23 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 'to area of interest. no motion; Coaste (Grilaj Costal) and all gas
-    bubble margins sharp. Optimal image receptor exposure to visualize spine and Coaste
-    (Grilaj Costal) and soft tissue but not to overexpose possible intraperitoneal
-    air in upper Abdomen. Fig. 3.37 Left lateral decubitus (AP). (Modified from McQuillen
-    Martensen K: Radiographic image analysis, ed 4, St Louis, 2020, Saunders.) Fig.
-    3.36 Left Incidență Decubit Lateral (AP). Spinous process Vertebral body Pedicle
-    Intestinal gas Iliac wing Diaphragm dome Fig. 3.38 Left lateral decubitus (AP).
-    (From McQuillen Martensen K: Radiographic image analysis, ed 4, St Louis, 2020,
-    Saunders.)'
+  collimation: 'la aria de interes diagnostic. fără mișcare; Coaste (Grilaj Costal)
+    și toate gas bubble margins net. optim receptorul de imagine expunere la visualize
+    coloană vertebrală și Coaste (Grilaj Costal) și părți moi but nu la overexpose
+    possible intraperitoneal air în etajul abdominal superior. Fig. 3.37 stâng lateral
+    decubit (AP). (Modified de la McQuillen Martensen K: Radiographic imagine analysis,
+    ed 4, St Louis, 2020, Saunders.) Fig. 3.36 stâng Incidență Decubit lateral (AP).
+    Spinous process Vertebral corp Pedicle Intestinal gas Iliac wing cupole diafragmatice
+    dome Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K: Radiographic
+    imagine analysis, ed 4, St Louis, 2020, Saunders.)'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: '70'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
+title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR Incidență)
 ---
-# Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
+# Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR Incidență)
 
 
 <div class="rx-meta-bar">
@@ -106,8 +110,8 @@ title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
 
     === "Indicații Clinice"
 
-        - Abdominal masses, airfluid levels, and possible accumulations of intraperitoneal air are demonstrated.
-        - Small amounts of free intraperitoneal air are best demonstrated with Torace technique on Ortostatism PA Torace. Important: Patient should be on their side a minimum of 5 minutes before exposure (to allow air to rise or abnormal fluids to accumulate); 10 to 20 minutes is preferred, if possible, for best visualization of potentially small amounts of intraperitoneal air. Left Incidență Decubit Lateral best visualizes free intraperitoneal air in the area of the liver in the right upper Abdomen away from the gastric bubble.
+        - Abdominal masses, airfluid levels, și possible accumulations de intraperitoneal air sunt evidențiat.
+        - Small amounts de liber intraperitoneal air sunt best evidențiat cu Torace technique pe Ortostatism PA Torace. Important: pacient trebuie să fie pe their side minimum de 5 minutes before expunere (la allow air la rise sau abnormal fluids la accumulate); 10 la 20 minutes este preferred, if possible, pentru best visualization de potentially small amounts de intraperitoneal air. stâng Incidență Decubit lateral best visualizes liber intraperitoneal air în area de ficat în drept etajul abdominal superior away de la gastric bubble.
 
     === "Ghid Național IRIS"
 
@@ -121,10 +125,10 @@ title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Lateral Decubit on radiolucent pad, firmly against table or vertical grid device (with wheels on cart locked so as not to move away from the table) Patient on firm surface, such as a cardiac or backboard, positioned under the sheet to prevent sagging and anatomy cutoff (Fig. 3.36) Knees partially flexed, one on top of the other, to stabilize patient Arms up near head; clean pillow provided; Regiune anatomică: Adjust patient and cart/table so that center of IR and CR are approximately 2 inches (5 cm) above level of creasta iliacă (corespunzător L4-L5)s (to include diaphragm). Upper margin of IR is approximately at level of axilla. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis) or shoulders. Adjust height of IR to center midsagittal plane of patient to center of IR, but ensure that upside of Abdomen is included on the IR.
-    - **Punct de Centrare Fascicul:** horizontal, directed to center of IR, at about 2 inches (5 cm) above level of creasta iliacă (corespunzător L4-L5); use of a horizontal beam to demonstrate airfluid levels and free intraperitoneal air Abdomen SPECIAL PA Decubit Ventral Lateral decubitus (AP) AP Ortostatism Dorsal decubitus (lateral) Lateral
+    - **Poziție Pacient:** Pacient: lateral Decubit pe radiolucent pad, firmly against table sau stativ vertical Bucky (cu wheels pe cart locked so ca nu la move away de la masa de examinare) pacient pe firm surface, such ca cardiac sau backboard, poziționat under sheet la prevent sagging și anatomy cutoff (Fig. 3.36) genunchi partially flectat, one pe top de other, la stabilize pacient brațe up near cap; clean pillow provided; Regiune anatomică: Adjust pacient și cart/table so that center de receptorul de imagine și raza centrală sunt approximately 2 inches (5 cm) above level de creasta iliacă (corespunzător L4-L5)s (la include cupole diafragmatice). Upper margin de receptorul de imagine este approximately la level de axilla. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) sau umeri. Adjust height de receptorul de imagine la center plan mediosagital de pacient la center de receptorul de imagine, but ensure that upside de Abdomen este included pe receptorul de imagine.
+    - **Punct de Centrare Fascicul:** orizontal, orientat la center de receptorul de imagine, la about 2 inches (5 cm) above level de creasta iliacă (corespunzător L4-L5); use de orizontal fascicul la evidențiază airfluid levels și liber intraperitoneal air Abdomen SPECIAL PA Decubit ventral lateral decubit (AP) AP Ortostatism dorsal decubit (lateral) lateral
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Take exposure at the end of expiration. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; iliac wings appear symmetric, and outer rib margins are the same distance from spine. No tilt: Spine should be straight (unless scolioză / vicii de postură ale coloanei is present), aligned to center of IR.
+    - **Comandă Respiratorie:** Take expunere la end de expiration. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; iliac wings appear simetric, și outer rib margins sunt same distance de la coloană vertebrală. fără tilt: coloană vertebrală trebuie să fie straight (unless scolioză / vicii de postură ale coloanei este present), aliniat la center de receptorul de imagine.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -138,20 +142,20 @@ title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | to area of interest. no motion; Coaste (Grilaj Costal) and all gas bubble margins sharp. Optimal image receptor exposure to visualize spine and Coaste (Grilaj Costal) and soft tissue but not to overexpose possible intraperitoneal air in upper Abdomen. Fig. 3.37 Left lateral decubitus (AP). (Modified from McQuillen Martensen K: Radiographic image analysis, ed 4, St Louis, 2020, Saunders.) Fig. 3.36 Left Incidență Decubit Lateral (AP). Spinous process Vertebral body Pedicle Intestinal gas Iliac wing Diaphragm dome Fig. 3.38 Left lateral decubitus (AP). (From McQuillen Martensen K: Radiographic image analysis, ed 4, St Louis, 2020, Saunders.) |
+    | **Colimare Fascicul** | la aria de interes diagnostic. fără mișcare; Coaste (Grilaj Costal) și toate gas bubble margins net. optim receptorul de imagine expunere la visualize coloană vertebrală și Coaste (Grilaj Costal) și părți moi but nu la overexpose possible intraperitoneal air în etajul abdominal superior. Fig. 3.37 stâng lateral decubit (AP). (Modified de la McQuillen Martensen K: Radiographic imagine analysis, ed 4, St Louis, 2020, Saunders.) Fig. 3.36 stâng Incidență Decubit lateral (AP). Spinous process Vertebral corp Pedicle Intestinal gas Iliac wing cupole diafragmatice dome Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K: Radiographic imagine analysis, ed 4, St Louis, 2020, Saunders.) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Airfilled stomach and loops of bowel and airfluid levels where present.
-    - Should include bilateral diaphragm (Figs. 3.37 and 3.38). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; iliac wings appear symmetric, and outer rib margins are the same distance from spine.
-    - No tilt: Spine should be straight (unless scolioză / vicii de postură ale coloanei is present), aligned to center of IR.
-    - Collimation to area of interest. Exposure
-    - no motion; Coaste (Grilaj Costal) and all gas bubble margins sharp.
-    - Optimal image receptor exposure to visualize spine and Coaste (Grilaj Costal) and soft tissue but not to overexpose possible intraperitoneal air in upper Abdomen.
+    - Airfilled stomach și loops de bowel și airfluid levels where present.
+    - trebuie să include bilateral cupole diafragmatice (Figs. 3.37 și 3.38). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; iliac wings appear simetric, și outer rib margins sunt same distance de la coloană vertebrală.
+    - fără tilt: coloană vertebrală trebuie să fie straight (unless scolioză / vicii de postură ale coloanei este present), aliniat la center de receptorul de imagine.
+    - Collimation la aria de interes diagnostic. expunere
+    - fără mișcare; Coaste (Grilaj Costal) și toate gas bubble margins net.
+    - optim receptorul de imagine expunere la visualize coloană vertebrală și Coaste (Grilaj Costal) și părți moi but nu la overexpose possible intraperitoneal air în etajul abdominal superior.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -171,25 +175,25 @@ title: Rx Abdomen Incidență Decubit Lateral (ANTEROPOSTERIOR PROJECTION)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.37 Left lateral decubitus (AP). (Modiﬁed from McQuillen](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_1.jpeg)
+![Fig. 3.37 stâng lateral decubit (AP). (Modified de la McQuillen](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 3.37 Left lateral decubitus (AP). (Modiﬁed from McQuillen</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.37 Left lateral decubitus (AP). (Modiﬁed from McQuillen)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 3.36 Left Incidență Decubit Lateral (AP).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 3.36 Left Incidență Decubit Lateral (AP).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.36 Left lateral decubitus position (AP).)</span></figcaption>
+<figcaption><strong>Fig. 3.37 stâng lateral decubit (AP). (Modified de la McQuillen</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.37 stâng lateral decubit (AP). (Modified de la McQuillen)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.38 Left lateral decubitus (AP). (From McQuillen Martensen K:](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_3.jpeg)
+![Fig. 3.36 stâng Incidență Decubit lateral (AP).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 3.38 Left lateral decubitus (AP). (From McQuillen Martensen K:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.38 Left lateral decubitus (AP). (From McQuillen Martensen K:)</span></figcaption>
+<figcaption><strong>Fig. 3.36 stâng Incidență Decubit lateral (AP).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.36 stâng lateral decubit poziție (AP).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K:](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-lateral-anteroposterior-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.38 stâng lateral decubit (AP). (de la McQuillen Martensen K:)</span></figcaption>
 
 </figure>
 

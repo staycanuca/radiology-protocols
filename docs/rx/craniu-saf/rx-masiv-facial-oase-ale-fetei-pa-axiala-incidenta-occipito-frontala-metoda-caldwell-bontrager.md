@@ -1,23 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Angle CR 15° caudad, to exit at nasion (see NOTE). Center CR to IR.
+centering: Raza centrală se înclină 15° caudal (spre picioare), la exit la nazion
+  (see NOTE). Center raza centrală la receptorul de imagine.
 clinical_indications:
-- suspiciune de fractură and neoplastic or inflammatory processes of the Masiv Facial
+- suspiciune de fractură și neoplastic sau inflammatory processes de Masiv Facial
   (Oase ale Feței)
 images:
-- caption: Fig. 11.132 PA axial Caldwell—OML perpendicular, CR 15° caudad,
+- caption: Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular,
+    raza centrală 15° caudal,
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.132 PA axial
-    Caldwell—OML perpendicular, CR 15° caudad,)
+    Caldwell—linie orbitomeatală (LOM) perpendicular, raza centrală 15° caudal,)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg
-- caption: 'Fig. 11.133 PA axial Caldwell—CR 15°. (From Curtis T: Online course'
+- caption: 'Fig. 11.133 PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online
+    course'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.133
-    PA axial Caldwell—CR 15°. (From Curtis T: Online course)'
+    PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online course)'
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg
-- caption: 'Fig. 11.134 PA axial Caldwell—CR 15°. (Modiﬁed from Curtis T:'
+- caption: 'Fig. 11.134 PA axial Caldwell—raza centrală 15°. (Modified de la Curtis
+    T:'
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.134
-    PA axial Caldwell—CR 15°. (Modiﬁed from Curtis T:)
+    PA axial Caldwell—raza centrală 15°. (Modified de la Curtis T:)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -25,18 +29,19 @@ images:
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If the area of interest is the orbital margins, use a 30° caudad angle to project
-  the petrous ridges below the IOM. CR will exit level of midorbits. Fig. 11.132 PA
-  axial Caldwell—OML perpendicular, CR 15° caudad, Ortostatism and Decubit Ventral
-  (inset). Masiv Facial (Oase ale Feței) ROUTINE Lateral Parietoacanthial (Incidență
-  Occipito-Mentonieră (Metoda Waters)) PA axial (Incidență Occipito-Frontală (Metoda
-  Caldwell))
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Patient
-  position is Ortostatism or Decubit Ventral (Ortostatism is preferred if patient’s
-  condition permits it).; Regiune anatomică: Rest patient’s nose and forehead against
-  the imaging device. Tuck chin, bringing oMl perpendicular to IR. Align MsP perpendicular
-  to midline of grid or table/imaging device surface. Ensure Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase or tilt of head (Fig. 11.132).'
+notes: If aria de interes diagnostic este orbital margins, use a 30° caudal angle
+  la project stânci temporale (piramide pietroase) below IOM. raza centrală will exit
+  level de midorbits. Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular,
+  raza centrală 15° caudal, Ortostatism și Decubit ventral (inset). Masiv Facial (Oase
+  ale Feței) ROUTINE lateral Parietoacanthial (Incidență Occipito-Mentonieră (Metoda
+  Waters)) PA axial (Incidență Occipito-Frontală (Metoda Caldwell))
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. pacient poziție este Ortostatism sau Decubit ventral (Ortostatism
+  este preferred if pacient’s condition permits it).; Regiune anatomică: Rest pacient’s
+  nose și forehead pe / sprijinit de imaging device. Tuck chin, bringing linie orbitomeatală
+  (LOM) perpendicular pe receptorul de imagine. Align MsP perpendicular la midline
+  de grilă sau table/imaging device surface. Ensure Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase sau tilt de cap (Fig. 11.132).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,24 +49,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Superior orbital margins, maxillae, nasal septum, zygomatic bones, and anterior
-  nasal spine (Figs. 11.133 and 11.134). Position:'
-- Correct patient position/CR angulation is indicated by petrous ridges projected
-  into the lower onethird of Orbite with 15° caudad CR. If the inferior orbital margins
-  are the area of interest, 30° caudad angle projects the petrous ridges below the
-  IOMs.
+- 'superior orbital margins, maxillae, nasal septum, zygomatic bones, și anterior
+  nasal coloană vertebrală (Figs. 11.133 și 11.134). poziție:'
+- Correct pacient poziție/raza centrală angulation este indicated prin stânci temporale
+  (piramide pietroase) projected into lower onethird de Orbite cu 15° caudal raza
+  centrală. If inferior orbital margins sunt aria de interes diagnostic, 30° caudal
+  angle projects stânci temporale (piramide pietroase) below IOMs.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of Craniu is indicated by equal distance from midlateral orbital margin to the lateral
-  cortex of the Craniu (a wider distance would indicate rotation towards the IR);
-  superior orbital fissures are symmetric.'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize maxillary
-  region and superior orbital margins.
-- 'Sharp bony margins indicate no motion. Fig. 11.133 PA axial Caldwell—CR 15°. (From
-  Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019,
-  Elsevier.) Petrous ridge Floor of orbit Maxillary sinus Frontal sinus Superior orbital
-  fissure Bony Nasal septum Anterior Nasal spine Crista galli Fig. 11.134 PA axial
-  Caldwell—CR 15°. (Modified from Curtis T: Online course for Mosby’s digital positioning
+  de Craniu este indicated prin equal distance de la midlateral orbital margin la
+  lateral cortex de Craniu (wider distance would indicate rotație spre receptorul
+  de imagine); superior orbital fissures sunt simetric.'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize maxillary
+  region și superior orbital margins.
+- 'net bony margins indicate fără mișcare. Fig. 11.133 PA axial Caldwell—raza centrală
+  15°. (de la Curtis T: Online course pentru Mosby’s digital positioning consult,
+  Philadelphia, 2019, Elsevier.) stânci temporale (piramide pietroase) Floor de orbit
+  sinusuri maxilare sinusuri frontale superior orbital fissure Bony Nasal septum anterior
+  Nasal coloană vertebrală Crista galli Fig. 11.134 PA axial Caldwell—raza centrală
+  15°. (Modified de la Curtis T: Online course pentru Mosby’s digital positioning
   consult, Philadelphia, 2019, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager
@@ -70,7 +76,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -98,7 +104,7 @@ title: Rx Masiv Facial (Oase ale Feței) PA Axială (Incidență Occipito-Fronta
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and neoplastic or inflammatory processes of the Masiv Facial (Oase ale Feței)
+        - suspiciune de fractură și neoplastic sau inflammatory processes de Masiv Facial (Oase ale Feței)
 
     === "Ghid Național IRIS"
 
@@ -112,10 +118,10 @@ title: Rx Masiv Facial (Oase ale Feței) PA Axială (Incidență Occipito-Fronta
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Patient position is Ortostatism or Decubit Ventral (Ortostatism is preferred if patient’s condition permits it).; Regiune anatomică: Rest patient’s nose and forehead against the imaging device. Tuck chin, bringing oMl perpendicular to IR. Align MsP perpendicular to midline of grid or table/imaging device surface. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt of head (Fig. 11.132).
-    - **Punct de Centrare Fascicul:** Angle CR 15° caudad, to exit at nasion (see NOTE). Center CR to IR.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Ortostatism sau Decubit ventral (Ortostatism este preferred if pacient’s condition permits it).; Regiune anatomică: Rest pacient’s nose și forehead pe / sprijinit de imaging device. Tuck chin, bringing linie orbitomeatală (LOM) perpendicular pe receptorul de imagine. Align MsP perpendicular la midline de grilă sau table/imaging device surface. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt de cap (Fig. 11.132).
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° caudal (spre picioare), la exit la nazion (see NOTE). Center raza centrală la receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,19 +135,19 @@ title: Rx Masiv Facial (Oase ale Feței) PA Axială (Incidență Occipito-Fronta
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Superior orbital margins, maxillae, nasal septum, zygomatic bones, and anterior nasal spine (Figs. 11.133 and 11.134). Position:
-    - Correct patient position/CR angulation is indicated by petrous ridges projected into the lower onethird of Orbite with 15° caudad CR. If the inferior orbital margins are the area of interest, 30° caudad angle projects the petrous ridges below the IOMs.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Craniu is indicated by equal distance from midlateral orbital margin to the lateral cortex of the Craniu (a wider distance would indicate rotation towards the IR); superior orbital fissures are symmetric.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize maxillary region and superior orbital margins.
-    - Sharp bony margins indicate no motion. Fig. 11.133 PA axial Caldwell—CR 15°. (From Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) Petrous ridge Floor of orbit Maxillary sinus Frontal sinus Superior orbital fissure Bony Nasal septum Anterior Nasal spine Crista galli Fig. 11.134 PA axial Caldwell—CR 15°. (Modified from Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
+    - superior orbital margins, maxillae, nasal septum, zygomatic bones, și anterior nasal coloană vertebrală (Figs. 11.133 și 11.134). poziție:
+    - Correct pacient poziție/raza centrală angulation este indicated prin stânci temporale (piramide pietroase) projected into lower onethird de Orbite cu 15° caudal raza centrală. If inferior orbital margins sunt aria de interes diagnostic, 30° caudal angle projects stânci temporale (piramide pietroase) below IOMs.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Craniu este indicated prin equal distance de la midlateral orbital margin la lateral cortex de Craniu (wider distance would indicate rotație spre receptorul de imagine); superior orbital fissures sunt simetric.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize maxillary region și superior orbital margins.
+    - net bony margins indicate fără mișcare. Fig. 11.133 PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) stânci temporale (piramide pietroase) Floor de orbit sinusuri maxilare sinusuri frontale superior orbital fissure Bony Nasal septum anterior Nasal coloană vertebrală Crista galli Fig. 11.134 PA axial Caldwell—raza centrală 15°. (Modified de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,7 +160,7 @@ title: Rx Masiv Facial (Oase ale Feței) PA Axială (Incidență Occipito-Fronta
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If the area of interest is the orbital margins, use a 30° caudad angle to project the petrous ridges below the IOM. CR will exit level of midorbits. Fig. 11.132 PA axial Caldwell—OML perpendicular, CR 15° caudad, Ortostatism and Decubit Ventral (inset). Masiv Facial (Oase ale Feței) ROUTINE Lateral Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) PA axial (Incidență Occipito-Frontală (Metoda Caldwell))
+    If aria de interes diagnostic este orbital margins, use a 30° caudal angle la project stânci temporale (piramide pietroase) below IOM. raza centrală will exit level de midorbits. Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular, raza centrală 15° caudal, Ortostatism și Decubit ventral (inset). Masiv Facial (Oase ale Feței) ROUTINE lateral Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) PA axial (Incidență Occipito-Frontală (Metoda Caldwell))
 
 
 ### 🖼️ Imagini
@@ -163,25 +169,25 @@ title: Rx Masiv Facial (Oase ale Feței) PA Axială (Incidență Occipito-Fronta
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.132 PA axial Caldwell—OML perpendicular, CR 15° caudad,](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
+![Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular, raza centrală 15° caudal,](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.132 PA axial Caldwell—OML perpendicular, CR 15° caudad,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.132 PA axial Caldwell—OML perpendicular, CR 15° caudad,)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.133 PA axial Caldwell—CR 15°. (From Curtis T: Online course](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.133 PA axial Caldwell—CR 15°. (From Curtis T: Online course</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.133 PA axial Caldwell—CR 15°. (From Curtis T: Online course)</span></figcaption>
+<figcaption><strong>Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular, raza centrală 15° caudal,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.132 PA axial Caldwell—linie orbitomeatală (LOM) perpendicular, raza centrală 15° caudal,)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.134 PA axial Caldwell—CR 15°. (Modiﬁed from Curtis T:](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg)
+![Fig. 11.133 PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online course](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.134 PA axial Caldwell—CR 15°. (Modiﬁed from Curtis T:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.134 PA axial Caldwell—CR 15°. (Modiﬁed from Curtis T:)</span></figcaption>
+<figcaption><strong>Fig. 11.133 PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online course</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.133 PA axial Caldwell—raza centrală 15°. (de la Curtis T: Online course)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.134 PA axial Caldwell—raza centrală 15°. (Modified de la Curtis T:](../../assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.134 PA axial Caldwell—raza centrală 15°. (Modified de la Curtis T:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.134 PA axial Caldwell—raza centrală 15°. (Modified de la Curtis T:)</span></figcaption>
 
 </figure>
 

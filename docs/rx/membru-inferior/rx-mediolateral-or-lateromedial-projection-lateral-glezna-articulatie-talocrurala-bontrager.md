@@ -2,10 +2,10 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed to medial malleolus
+centering: perpendicular pe receptorul de imagine, orientat la maleolă medială (tibială)
 clinical_indications:
-- Projection is useful in the evaluation of suspiciune de fractură, luxație / subluxație
-  articulară, and joint effusions associated with other joint pathologies
+- incidență este useful în evaluation de suspiciune de fractură, luxație / subluxație
+  articulară, și articulație effusions associated cu other articulație pathologies
 images:
 - caption: Fig. 6.90 Mediolateral Gleznă (Articulație Talocrurală).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.90 Mediolateral
@@ -26,15 +26,16 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient in the lateral Decubit position, affected side down;
-  provide a pillow for patient’s head; flex Genunchi of affected limb approximately
-  45°; place opposite leg behind injured limb to prevent overrotation.; Regiune anatomică:
-  (Mediolateral Projection) Center and align Gleznă (Articulație Talocrurală) joint
-  to CR and to long axis of portion of IR being exposed (Fig. 6.90). Place support
-  under Genunchi as needed to place leg and Picior in true Incidență de Profil (Lateral).
-  Dorsiflex Picior so that plantar surface is at a right angle to leg or as far as
-  patient can tolerate; do not force. (This helps maintain a true Incidență de Profil
-  (Lateral).)'
+position: 'Pacient: Place pacient în lateral Decubit poziție, affected side down;
+  provide pillow pentru pacient’s cap; flex Genunchi de affected limb approximately
+  45°; place opposite membru inferior behind injured limb la prevent overrotation.;
+  Regiune anatomică: (Mediolateral incidență) Center și align Gleznă (Articulație
+  Talocrurală) articulație la raza centrală și la axa longitudinală de portion de
+  receptorul de imagine being exposed (Fig. 6.90). Place support under Genunchi ca
+  needed la place membru inferior și Picior în true Incidență de Profil (lateral).
+  Dorsiflex Picior so that plantar surface este la drept angle la membru inferior
+  sau ca far ca pacient poate tolerate; do nu force. (This helps maintain true Incidență
+  de Profil (lateral).)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,15 +43,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal onethird of tibia and fibula with the distal fibula superimposed by the distal
-  tibia, talus, and Calcaneu appear in lateral profile.
-- 'Tuberosity of fifth metatarsal, navicular, and cuboid also are visualized (Figs.
-  6.92 and 6.93). Position:'
+- distal onethird de tibia și fibula cu distal fibula superimposed prin distal tibia,
+  astragal (talus), și Calcaneu appear în lateral profile.
+- 'Tuberosity de fifth metatarsal, navicular, și cuboid also sunt visualized (Figs.
+  6.92 și 6.93). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is evidenced by distal fibula being superimposed over the posterior half of tibia.'
-- Tibiotalar joint is open with uniform joint space.
-- Collimation field should include distal onethird of Gambă, Calcaneu, tuberosity
-  of fifth metatarsal, and surrounding soft tissue structures.
+  este evidenced prin distal fibula being superimposed over posterior half de tibia.'
+- Tibiotalar articulație este open cu uniform spații articulare.
+- Collimation field trebuie să include distal onethird de Gambă, Calcaneu, tuberosity
+  de fifth metatarsal, și surrounding părți moi structures.
 sid_dff: 100 cm
 slug: rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager
 sources:
@@ -58,21 +59,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'to area of interest. Exposure: Optimal image receptor exposure and
-    contrast with no motion, as evidenced by sharp bony margins and trabecular patterns.
-    Lateral malleolus should be seen through the distal tibia and talus, and soft
-    tissue must be demonstrated for evaluation of joint effusion. Fig. 6.92 Mediolateral
-    Gleznă (Articulație Talocrurală). Fibula Calcaneu Cuboid Navicular Talus Base
-    of 5th metatarsal Anterior tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație
-    Talocrurală).'
+  collimation: 'la aria de interes diagnostic. expunere: optim receptorul de imagine
+    expunere și contrast cu fără mișcare, ca evidenced prin net bony margins și trabecular
+    patterns. maleolă laterală (fibulară) trebuie să fie seen through distal tibia
+    și astragal (talus), și părți moi trebuie să fie evidențiat pentru evaluation
+    de articulație effusion. Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală).
+    Fibula Calcaneu Cuboid Navicular astragal (talus) Base de 5th metatarsal anterior
+    tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL (OR LATEROMEDIAL) PROJECTION LATERAL (Gleznă (Articulație Talocrurală))
+title: Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articulație
+  Talocrurală))
 ---
-# Rx MEDIOLATERAL (OR LATEROMEDIAL) PROJECTION LATERAL (Gleznă (Articulație Talocrurală))
+# Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articulație Talocrurală))
 
 
 <div class="rx-meta-bar">
@@ -91,7 +93,7 @@ title: Rx MEDIOLATERAL (OR LATEROMEDIAL) PROJECTION LATERAL (Gleznă (Articulaț
 
     === "Indicații Clinice"
 
-        - Projection is useful in the evaluation of suspiciune de fractură, luxație / subluxație articulară, and joint effusions associated with other joint pathologies
+        - incidență este useful în evaluation de suspiciune de fractură, luxație / subluxație articulară, și articulație effusions associated cu other articulație pathologies
 
     === "Ghid Național IRIS"
 
@@ -105,8 +107,8 @@ title: Rx MEDIOLATERAL (OR LATEROMEDIAL) PROJECTION LATERAL (Gleznă (Articulaț
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the lateral Decubit position, affected side down; provide a pillow for patient’s head; flex Genunchi of affected limb approximately 45°; place opposite leg behind injured limb to prevent overrotation.; Regiune anatomică: (Mediolateral Projection) Center and align Gleznă (Articulație Talocrurală) joint to CR and to long axis of portion of IR being exposed (Fig. 6.90). Place support under Genunchi as needed to place leg and Picior in true Incidență de Profil (Lateral). Dorsiflex Picior so that plantar surface is at a right angle to leg or as far as patient can tolerate; do not force. (This helps maintain a true Incidență de Profil (Lateral).)
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to medial malleolus
+    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, affected side down; provide pillow pentru pacient’s cap; flex Genunchi de affected limb approximately 45°; place opposite membru inferior behind injured limb la prevent overrotation.; Regiune anatomică: (Mediolateral incidență) Center și align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală de portion de receptorul de imagine being exposed (Fig. 6.90). Place support under Genunchi ca needed la place membru inferior și Picior în true Incidență de Profil (lateral). Dorsiflex Picior so that plantar surface este la drept angle la membru inferior sau ca far ca pacient poate tolerate; do nu force. (This helps maintain true Incidență de Profil (lateral).)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la maleolă medială (tibială)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -122,18 +124,18 @@ title: Rx MEDIOLATERAL (OR LATEROMEDIAL) PROJECTION LATERAL (Gleznă (Articulaț
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | to area of interest. Exposure: Optimal image receptor exposure and contrast with no motion, as evidenced by sharp bony margins and trabecular patterns. Lateral malleolus should be seen through the distal tibia and talus, and soft tissue must be demonstrated for evaluation of joint effusion. Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală). Fibula Calcaneu Cuboid Navicular Talus Base of 5th metatarsal Anterior tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală). |
+    | **Colimare Fascicul** | la aria de interes diagnostic. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare, ca evidenced prin net bony margins și trabecular patterns. maleolă laterală (fibulară) trebuie să fie seen through distal tibia și astragal (talus), și părți moi trebuie să fie evidențiat pentru evaluation de articulație effusion. Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală). Fibula Calcaneu Cuboid Navicular astragal (talus) Base de 5th metatarsal anterior tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal onethird of tibia and fibula with the distal fibula superimposed by the distal tibia, talus, and Calcaneu appear in lateral profile.
-    - Tuberosity of fifth metatarsal, navicular, and cuboid also are visualized (Figs. 6.92 and 6.93). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evidenced by distal fibula being superimposed over the posterior half of tibia.
-    - Tibiotalar joint is open with uniform joint space.
-    - Collimation field should include distal onethird of Gambă, Calcaneu, tuberosity of fifth metatarsal, and surrounding soft tissue structures.
+    - distal onethird de tibia și fibula cu distal fibula superimposed prin distal tibia, astragal (talus), și Calcaneu appear în lateral profile.
+    - Tuberosity de fifth metatarsal, navicular, și cuboid also sunt visualized (Figs. 6.92 și 6.93). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin distal fibula being superimposed over posterior half de tibia.
+    - Tibiotalar articulație este open cu uniform spații articulare.
+    - Collimation field trebuie să include distal onethird de Gambă, Calcaneu, tuberosity de fifth metatarsal, și surrounding părți moi structures.
 
 -   __5. Protecție Radiologică (ALARA)__
 

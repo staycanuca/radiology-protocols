@@ -1,13 +1,15 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Angle CR 35° caudad if OML is perpendicular to IR, or 42° caudad if IOML
-  is perpendicular to IR (see NOTE). Center CR 1 inch (2.5 cm) superior to glabella.
-  Center IR to CR.
+centering: Raza centrală se înclină 35° caudal (spre picioare) if linie orbitomeatală
+  (LOM) este perpendicular pe receptorul de imagine, sau 42° caudal if linie infraorbitomeatală
+  (LIOM) este perpendicular pe receptorul de imagine (see NOTE). Center raza centrală
+  1 inch (2.5 cm) superior la glabelă. Se centrează receptorul de imagine pe raza
+  centrală.
 clinical_indications:
 - suspiciune de fractură
-- Neoplastic or inflammatory processes of condyloid processes of Mandibulă
+- Neoplastic sau inflammatory processes de condyloid processes de Mandibulă
 images:
 - caption: Fig. 11.164 AP axial—Mandibulă.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.164 AP axial—mandible.)
@@ -16,24 +18,29 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.165
     AP axial—mandible.)
   url: assets/images/protocols/bontrager/rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg
-- caption: Fig. 11.163 AP axial—CR 35° to 40° to OML, Ortostatism and Decubit Dorsal
-    (inset).
+- caption: Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM),
+    Ortostatism și Decubit dorsal (inset).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.163
-    AP axial—CR 35° to 40° to OML, erect and supine (inset).)
+    AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), în ortostatism
+    și în decubit dorsal (inset).)
   url: assets/images/protocols/bontrager/rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If patient is unable to bring OML perpendicular to IR, align IOML perpendicular
-  and increase the 35° CR angle by 7° to 42° caudad (Fig. 11.163). If area of interest
-  is the TM fossae, increase CR angle to 40° to OML to reduce superimposition of TM
-  fossae and mastoid portions of the temporal bone. Mandibulă ROUTINE Axiolateral
-  oblique PA (or PA axial) AP axial (Incidență AP Axială (Metoda Towne))
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Patient
-  position is Ortostatism or Decubit Dorsal.; Regiune anatomică: Rest patient’s posterior
-  Craniu against table/upright imaging device surface. Tuck chin, aligning oMl perpendicular
-  to IR or place IOML perpendicular and adjust the CR angle accordingly (see NOTE).
-  Align MsP perpendicular to midline of grid or table/upright imaging device surface
-  to prevent head rotation or tilt.'
+notes: If pacient este unable la bring linie orbitomeatală (LOM) perpendicular pe
+  receptorul de imagine, align linie infraorbitomeatală (LIOM) perpendicular și increase
+  35° raza centrală angle prin 7° la 42° caudal (Fig. 11.163). If aria de interes
+  diagnostic este TM fossae, increase raza centrală angle la 40° la linie orbitomeatală
+  (LOM) la reduce superimposition de TM fossae și mastoid portions de temporal bone.
+  Mandibulă ROUTINE Axiolateral oblic PA (sau PA axial) AP axial (Incidență AP Axială
+  (Metoda Towne))
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. pacient poziție este Ortostatism sau Decubit dorsal.; Regiune
+  anatomică: Rest pacient’s posterior Craniu against table/în ortostatism imaging
+  device surface. Tuck chin, aligning linie orbitomeatală (LOM) perpendicular pe receptorul
+  de imagine sau place linie infraorbitomeatală (LIOM) perpendicular și se ajustează
+  raza centrală angle accordingly (see NOTE). Align MsP perpendicular la midline de
+  grilă sau table/în ortostatism imaging device surface la prevent cap rotație sau
+  tilt.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,18 +48,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Condyloid processes of Mandibulă and TM fossae. Position:'
-- 'A correctly positioned image with Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase demonstrates the following: condyloid processes
-  visualized symmetrically, lateral to the Coloană Cervicală; clear visualization
-  of condyle/TM fossae relationship, with minimal superimposition of the TM fossae
-  and mastoid portions (Figs. 11.164 and 11.165).'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize condyloid
-  process and TM fossa.
-- no motion exists, as indicated by sharp bony margins. R Fig. 11.164 AP axial—Mandibulă.
-  Condyle head Body Neck R Temporomandibular fossa Fig. 11.165 AP axial—Mandibulă.
-  Fig. 11.163 AP axial—CR 35° to 40° to OML, Ortostatism and Decubit Dorsal (inset).
+- 'Condyloid processes de Mandibulă și TM fossae. poziție:'
+- 'correctly poziționat imagine cu Absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase evidențiază following: condyloid processes visualized
+  symmetrically, lateral la Coloană Cervicală; clear visualization de condyle/TM fossae
+  relationship, cu minimal superimposition de TM fossae și mastoid portions (Figs.
+  11.164 și 11.165).'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize condyloid
+  process și TM fossa.
+- fără mișcare exists, ca indicated prin net bony margins. R Fig. 11.164 AP axial—Mandibulă.
+  Condyle cap corp Neck R Temporomandibular fossa Fig. 11.165 AP axial—Mandibulă.
+  Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), Ortostatism
+  și Decubit dorsal (inset).
 sid_dff: 100 cm
 slug: rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager
 sources:
@@ -60,7 +68,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -88,7 +96,7 @@ title: Rx Mandibulă AP Axială (Incidență AP Axială (Metoda Towne))
     === "Indicații Clinice"
 
         - suspiciune de fractură
-        - Neoplastic or inflammatory processes of condyloid processes of Mandibulă
+        - Neoplastic sau inflammatory processes de condyloid processes de Mandibulă
 
     === "Ghid Național IRIS"
 
@@ -102,10 +110,10 @@ title: Rx Mandibulă AP Axială (Incidență AP Axială (Metoda Towne))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Patient position is Ortostatism or Decubit Dorsal.; Regiune anatomică: Rest patient’s posterior Craniu against table/upright imaging device surface. Tuck chin, aligning oMl perpendicular to IR or place IOML perpendicular and adjust the CR angle accordingly (see NOTE). Align MsP perpendicular to midline of grid or table/upright imaging device surface to prevent head rotation or tilt.
-    - **Punct de Centrare Fascicul:** Angle CR 35° caudad if OML is perpendicular to IR, or 42° caudad if IOML is perpendicular to IR (see NOTE). Center CR 1 inch (2.5 cm) superior to glabella. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Ortostatism sau Decubit dorsal.; Regiune anatomică: Rest pacient’s posterior Craniu against table/în ortostatism imaging device surface. Tuck chin, aligning linie orbitomeatală (LOM) perpendicular pe receptorul de imagine sau place linie infraorbitomeatală (LIOM) perpendicular și se ajustează raza centrală angle accordingly (see NOTE). Align MsP perpendicular la midline de grilă sau table/în ortostatism imaging device surface la prevent cap rotație sau tilt.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 35° caudal (spre picioare) if linie orbitomeatală (LOM) este perpendicular pe receptorul de imagine, sau 42° caudal if linie infraorbitomeatală (LIOM) este perpendicular pe receptorul de imagine (see NOTE). Center raza centrală 1 inch (2.5 cm) superior la glabelă. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -119,18 +127,18 @@ title: Rx Mandibulă AP Axială (Incidență AP Axială (Metoda Towne))
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Condyloid processes of Mandibulă and TM fossae. Position:
-    - A correctly positioned image with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase demonstrates the following: condyloid processes visualized symmetrically, lateral to the Coloană Cervicală; clear visualization of condyle/TM fossae relationship, with minimal superimposition of the TM fossae and mastoid portions (Figs. 11.164 and 11.165).
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize condyloid process and TM fossa.
-    - no motion exists, as indicated by sharp bony margins. R Fig. 11.164 AP axial—Mandibulă. Condyle head Body Neck R Temporomandibular fossa Fig. 11.165 AP axial—Mandibulă. Fig. 11.163 AP axial—CR 35° to 40° to OML, Ortostatism and Decubit Dorsal (inset).
+    - Condyloid processes de Mandibulă și TM fossae. poziție:
+    - correctly poziționat imagine cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase evidențiază following: condyloid processes visualized symmetrically, lateral la Coloană Cervicală; clear visualization de condyle/TM fossae relationship, cu minimal superimposition de TM fossae și mastoid portions (Figs. 11.164 și 11.165).
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize condyloid process și TM fossa.
+    - fără mișcare exists, ca indicated prin net bony margins. R Fig. 11.164 AP axial—Mandibulă. Condyle cap corp Neck R Temporomandibular fossa Fig. 11.165 AP axial—Mandibulă. Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), Ortostatism și Decubit dorsal (inset).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +151,7 @@ title: Rx Mandibulă AP Axială (Incidență AP Axială (Metoda Towne))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If patient is unable to bring OML perpendicular to IR, align IOML perpendicular and increase the 35° CR angle by 7° to 42° caudad (Fig. 11.163). If area of interest is the TM fossae, increase CR angle to 40° to OML to reduce superimposition of TM fossae and mastoid portions of the temporal bone. Mandibulă ROUTINE Axiolateral oblique PA (or PA axial) AP axial (Incidență AP Axială (Metoda Towne))
+    If pacient este unable la bring linie orbitomeatală (LOM) perpendicular pe receptorul de imagine, align linie infraorbitomeatală (LIOM) perpendicular și increase 35° raza centrală angle prin 7° la 42° caudal (Fig. 11.163). If aria de interes diagnostic este TM fossae, increase raza centrală angle la 40° la linie orbitomeatală (LOM) la reduce superimposition de TM fossae și mastoid portions de temporal bone. Mandibulă ROUTINE Axiolateral oblic PA (sau PA axial) AP axial (Incidență AP Axială (Metoda Towne))
 
 
 ### 🖼️ Imagini
@@ -168,9 +176,9 @@ title: Rx Mandibulă AP Axială (Incidență AP Axială (Metoda Towne))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.163 AP axial—CR 35° to 40° to OML, Ortostatism and Decubit Dorsal (inset).](../../assets/images/protocols/bontrager/rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg)
+![Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), Ortostatism și Decubit dorsal (inset).](../../assets/images/protocols/bontrager/rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 11.163 AP axial—CR 35° to 40° to OML, Ortostatism and Decubit Dorsal (inset).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.163 AP axial—CR 35° to 40° to OML, erect and supine (inset).)</span></figcaption>
+<figcaption><strong>Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), Ortostatism și Decubit dorsal (inset).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.163 AP axial—raza centrală 35° la 40° la linie orbitomeatală (LOM), în ortostatism și în decubit dorsal (inset).)</span></figcaption>
 
 </figure>
 

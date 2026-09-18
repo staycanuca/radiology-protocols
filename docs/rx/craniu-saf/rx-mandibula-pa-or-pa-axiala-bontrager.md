@@ -1,29 +1,29 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
 centering: 'PA: Align Raza centrală (RC) perpendiculară pe receptorul de imagine,
-  centered to exit at junction of lips. (For traumatism acuttism / Regim Urgență patients,
-  perform AP with patient Decubit Dorsal). Optional PA axial: Angle CR 20° to 25°
-  cephalad, centered to exit at acanthion. (For traumatism acuttism / Regim Urgență
-  patients, perform AP axial with patient Decubit Dorsal).'
+  centrat pe exit la junction de lips. (pentru traumatism acuttism / Regim Urgență
+  pacienți, perform AP cu pacient Decubit dorsal). Optional PA axial: Raza centrală
+  se înclină 20°–25° cranial (spre cap), centrat pe exit la acantion. (pentru traumatism
+  acuttism / Regim Urgență pacienți, perform AP axial cu pacient Decubit dorsal).'
 clinical_indications:
 - suspiciune de fractură
-- Neoplastic or inflammatory processes of Mandibulă Optional PA axial best demonstrates
-  proximal rami and elongated view of condyloid processes.
+- Neoplastic sau inflammatory processes de Mandibulă Optional PA axial best evidențiază
+  proximal rami și elongated incidență de condyloid processes.
 images:
-- caption: Fig. 11.161 PA; suspiciune de fractură through left ramus.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.161 PA; fracture
-    through left ramus.)
+- caption: Fig. 11.161 PA; suspiciune de fractură through stâng ramus.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.161 PA; suspiciune
+    de fractură through stâng ramus.)
   url: assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_1.jpeg
-- caption: Fig. 11.160 PA—Raza centrală perpendiculară, exit at junction of lips.
+- caption: Fig. 11.160 PA—Raza centrală perpendiculară, exit la junction de lips.
     Inset,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.160
-    PA—CR perpendicular, exit at junction of lips. Inset,)
+    PA—raza centrală perpendicular, exit la junction de lips. Inset,)
   url: assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_2.jpeg
-- caption: Fig. 11.162 Optional PA axial—CR 20° to 25° cephalad.
+- caption: Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.162
-    Optional PA axial—CR 20° to 25° cephalad.)
+    Optional PA axial—raza centrală 20° la 25° cranial.)
   url: assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -31,17 +31,19 @@ images:
   url: assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: For a Incidență Postero-Anterioară (PA) of the mandibular body (if this is
-  area of interest), raise chin to bring AML perpendicular to the IR. CR is directed
-  perpendicular to the IR, exits at the junction of the lips. No AEC Mandibulă ROUTINE
-  Axiolateral oblique PA (or PA axial) AP axial (Incidență AP Axială (Metoda Towne))
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Patient
-  position is Ortostatism or Decubit Ventral.; Regiune anatomică: Rest patient’s forehead
-  and nose against table/upright imaging device surface (Fig. 11.160). Tuck chin,
-  bringing oMl perpendicular to IR (see NOTE). Align MsP perpendicular to midline
-  of grid or table/imaging device surface (ensuring Absența rotației anatomice: clavicule
-  echidistante față de linia apofizelor spinoase or tilt of head). Center IR to projected
-  CR (to junction of lips).'
+notes: pentru Incidență Postero-Anterioară (PA) de corp mandibular (if this este aria
+  de interes diagnostic), raise chin la bring linie acantiomeatală (LAM) perpendicular
+  pe receptorul de imagine (RI). raza centrală este orientat perpendicular pe receptorul
+  de imagine (RI), exits la junction de lips. fără AEC Mandibulă ROUTINE Axiolateral
+  oblic PA (sau PA axial) AP axial (Incidență AP Axială (Metoda Towne))
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. pacient poziție este Ortostatism sau Decubit ventral.; Regiune
+  anatomică: Rest pacient’s forehead și nose against table/în ortostatism imaging
+  device surface (Fig. 11.160). Tuck chin, bringing linie orbitomeatală (LOM) perpendicular
+  pe receptorul de imagine (see NOTE). Align MsP perpendicular la midline de grilă
+  sau table/imaging device surface (ensuring Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase sau tilt de cap). Se centrează receptorul
+  de imagine pe proiecția razei centrale (la junction de lips).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,20 +51,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'PA: Mandibular rami and lateral portion of body are visible (Fig. 11.161).'
-- 'optional PA axial: Articulații Temporomandibulare (ATM) region and heads of condyles
-  are visible through mastoid processes; condyloid processes are well visualized (slightly
-  elongated) (Fig. 11.162). Position:'
-- no patient rotation exists, as indicated by mandibular rami visualized symmetrically,
-  lateral to the Coloană Cervicală.
-- Midbody and mentum are faintly visualized, superimposed on Coloană Cervicală.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize mandibular
-  body and rami.
-- Sharp bony margins indicate no motion. R Fig. 11.161 PA; suspiciune de fractură
-  through left ramus. Fig. 11.160 PA—Raza centrală perpendiculară, exit at junction
-  of lips. Inset, Optional PA axial—CR 20° to 25° cephalad, exit at acanthion. R Fig.
-  11.162 Optional PA axial—CR 20° to 25° cephalad.
+- 'PA: ramuri mandibulare și lateral portion de corp sunt vizibil (Fig. 11.161).'
+- 'optional PA axial: Articulații Temporomandibulare (ATM) region și heads de condyles
+  sunt vizibil through mastoid processes; condyloid processes sunt well visualized
+  (slightly elongated) (Fig. 11.162). poziție:'
+- fără pacient rotație exists, ca indicated prin ramuri mandibulare visualized symmetrically,
+  lateral la Coloană Cervicală.
+- Midbody și mentum sunt faintly visualized, superimposed pe Coloană Cervicală.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize corp
+  mandibular și rami.
+- net bony margins indicate fără mișcare. R Fig. 11.161 PA; suspiciune de fractură
+  through stâng ramus. Fig. 11.160 PA—Raza centrală perpendiculară, exit la junction
+  de lips. Inset, Optional PA axial—raza centrală 20° la 25° cranial, exit la acantion.
+  R Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.
 sid_dff: 100 cm
 slug: rx-mandibula-pa-or-pa-axiala-bontrager
 sources:
@@ -70,7 +72,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -98,7 +100,7 @@ title: Rx Mandibulă PA OR PA Axială
     === "Indicații Clinice"
 
         - suspiciune de fractură
-        - Neoplastic or inflammatory processes of Mandibulă Optional PA axial best demonstrates proximal rami and elongated view of condyloid processes.
+        - Neoplastic sau inflammatory processes de Mandibulă Optional PA axial best evidențiază proximal rami și elongated incidență de condyloid processes.
 
     === "Ghid Național IRIS"
 
@@ -112,10 +114,10 @@ title: Rx Mandibulă PA OR PA Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Patient position is Ortostatism or Decubit Ventral.; Regiune anatomică: Rest patient’s forehead and nose against table/upright imaging device surface (Fig. 11.160). Tuck chin, bringing oMl perpendicular to IR (see NOTE). Align MsP perpendicular to midline of grid or table/imaging device surface (ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt of head). Center IR to projected CR (to junction of lips).
-    - **Punct de Centrare Fascicul:** PA: Align Raza centrală (RC) perpendiculară pe receptorul de imagine, centered to exit at junction of lips. (For traumatism acuttism / Regim Urgență patients, perform AP with patient Decubit Dorsal). Optional PA axial: Angle CR 20° to 25° cephalad, centered to exit at acanthion. (For traumatism acuttism / Regim Urgență patients, perform AP axial with patient Decubit Dorsal).
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Ortostatism sau Decubit ventral.; Regiune anatomică: Rest pacient’s forehead și nose against table/în ortostatism imaging device surface (Fig. 11.160). Tuck chin, bringing linie orbitomeatală (LOM) perpendicular pe receptorul de imagine (see NOTE). Align MsP perpendicular la midline de grilă sau table/imaging device surface (ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt de cap). Se centrează receptorul de imagine pe proiecția razei centrale (la junction de lips).
+    - **Punct de Centrare Fascicul:** PA: Align Raza centrală (RC) perpendiculară pe receptorul de imagine, centrat pe exit la junction de lips. (pentru traumatism acuttism / Regim Urgență pacienți, perform AP cu pacient Decubit dorsal). Optional PA axial: Raza centrală se înclină 20°–25° cranial (spre cap), centrat pe exit la acantion. (pentru traumatism acuttism / Regim Urgență pacienți, perform AP axial cu pacient Decubit dorsal).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,20 +131,20 @@ title: Rx Mandibulă PA OR PA Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - PA: Mandibular rami and lateral portion of body are visible (Fig. 11.161).
-    - optional PA axial: Articulații Temporomandibulare (ATM) region and heads of condyles are visible through mastoid processes; condyloid processes are well visualized (slightly elongated) (Fig. 11.162). Position:
-    - no patient rotation exists, as indicated by mandibular rami visualized symmetrically, lateral to the Coloană Cervicală.
-    - Midbody and mentum are faintly visualized, superimposed on Coloană Cervicală.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize mandibular body and rami.
-    - Sharp bony margins indicate no motion. R Fig. 11.161 PA; suspiciune de fractură through left ramus. Fig. 11.160 PA—Raza centrală perpendiculară, exit at junction of lips. Inset, Optional PA axial—CR 20° to 25° cephalad, exit at acanthion. R Fig. 11.162 Optional PA axial—CR 20° to 25° cephalad.
+    - PA: ramuri mandibulare și lateral portion de corp sunt vizibil (Fig. 11.161).
+    - optional PA axial: Articulații Temporomandibulare (ATM) region și heads de condyles sunt vizibil through mastoid processes; condyloid processes sunt well visualized (slightly elongated) (Fig. 11.162). poziție:
+    - fără pacient rotație exists, ca indicated prin ramuri mandibulare visualized symmetrically, lateral la Coloană Cervicală.
+    - Midbody și mentum sunt faintly visualized, superimposed pe Coloană Cervicală.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize corp mandibular și rami.
+    - net bony margins indicate fără mișcare. R Fig. 11.161 PA; suspiciune de fractură through stâng ramus. Fig. 11.160 PA—Raza centrală perpendiculară, exit la junction de lips. Inset, Optional PA axial—raza centrală 20° la 25° cranial, exit la acantion. R Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,7 +157,7 @@ title: Rx Mandibulă PA OR PA Axială
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    For a Incidență Postero-Anterioară (PA) of the mandibular body (if this is area of interest), raise chin to bring AML perpendicular to the IR. CR is directed perpendicular to the IR, exits at the junction of the lips. No AEC Mandibulă ROUTINE Axiolateral oblique PA (or PA axial) AP axial (Incidență AP Axială (Metoda Towne))
+    pentru Incidență Postero-Anterioară (PA) de corp mandibular (if this este aria de interes diagnostic), raise chin la bring linie acantiomeatală (LAM) perpendicular pe receptorul de imagine (RI). raza centrală este orientat perpendicular pe receptorul de imagine (RI), exits la junction de lips. fără AEC Mandibulă ROUTINE Axiolateral oblic PA (sau PA axial) AP axial (Incidență AP Axială (Metoda Towne))
 
 
 ### 🖼️ Imagini
@@ -164,25 +166,25 @@ title: Rx Mandibulă PA OR PA Axială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.161 PA; suspiciune de fractură through left ramus.](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_1.jpeg)
+![Fig. 11.161 PA; suspiciune de fractură through stâng ramus.](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.161 PA; suspiciune de fractură through left ramus.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.161 PA; fracture through left ramus.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.160 PA—Raza centrală perpendiculară, exit at junction of lips. Inset,](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.160 PA—Raza centrală perpendiculară, exit at junction of lips. Inset,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.160 PA—CR perpendicular, exit at junction of lips. Inset,)</span></figcaption>
+<figcaption><strong>Fig. 11.161 PA; suspiciune de fractură through stâng ramus.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.161 PA; suspiciune de fractură through stâng ramus.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.162 Optional PA axial—CR 20° to 25° cephalad.](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_3.jpeg)
+![Fig. 11.160 PA—Raza centrală perpendiculară, exit la junction de lips. Inset,](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.162 Optional PA axial—CR 20° to 25° cephalad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.162 Optional PA axial—CR 20° to 25° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 11.160 PA—Raza centrală perpendiculară, exit la junction de lips. Inset,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.160 PA—raza centrală perpendicular, exit la junction de lips. Inset,)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.](../../assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.162 Optional PA axial—raza centrală 20° la 25° cranial.)</span></figcaption>
 
 </figure>
 

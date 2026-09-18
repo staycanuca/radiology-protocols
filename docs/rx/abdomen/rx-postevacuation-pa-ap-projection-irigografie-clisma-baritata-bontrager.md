@@ -1,14 +1,14 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: is perpendicular to IR. Center CR and center of IR to creasta iliacă (corespunzător
-  L4-L5).
+centering: este perpendicular pe receptorul de imagine. Center raza centrală și center
+  de receptorul de imagine la creasta iliacă (corespunzător L4-L5).
 clinical_indications:
-- Demonstrates mucosal pattern of the large intestine with residual contrast media
-  for identifying small polyps and defects This projection is most commonly taken
-  Decubit Ventral as a PA but may be taken with the patient Decubit Dorsal as an AP,
-  if necessary.
+- evidențiază mucosal pattern de intestin gros (colon) cu residual contrast media
+  pentru identifying small polyps și defects This incidență este most commonly taken
+  Decubit ventral ca PA but poate fie taken cu pacientul Decubit dorsal ca AP, if
+  necessary.
 images:
 - caption: Fig. 13.83 PA postevacuation.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.83 PA postevacuation.)
@@ -19,18 +19,18 @@ images:
   url: assets/images/protocols/bontrager/rx-postevacuation-pa-ap-projection-irigografie-clisma-baritata-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Image should be taken after patient has had sufficient time for adequate
-  evacuation. If radiograph shows insufficient evacuation to visualize the mucosal
-  pattern clearly, a second radiograph should be obtained after further evacuation.
-  Coffee or tea sometimes can be given as a stimulant for this purpose. Include the
-  rectal ampulla on the lower margin of the radiograph. Use lower kVp to prevent overpenetration,
-  with only the residual contrast media remaining in the large intestine. Post-evac
-  Irigografie (Clismă Baritată) ROUTINE PA or AP RAO LAO LPO or RPO Lateral rectum
-  R and L lateral decubitus (doublecontrast study) PA postevacuation Fig. 13.83 PA
-  postevacuation. Fig. 13.82 PA postevacuation.'
-position: 'Pacient: Patient is Decubit Ventral or Decubit Dorsal, with a support for
-  the head (Fig. 13.82).; Regiune anatomică: Align MSP to midline of table or CR.
-  Ensure that no body rotation occurs.'
+notes: 'S: imagine trebuie să fie taken after pacient has had sufficient time pentru
+  adecvat evacuation. If radiografie shows insufficient evacuation la visualize mucosal
+  pattern clearly, second radiografie trebuie să fie obtained after further evacuation.
+  Coffee sau tea sometimes poate fie given ca stimulant pentru this purpose. Include
+  rectal ampulla pe lower margin de radiografie. Use lower kVp la prevent overpenetration,
+  cu only residual contrast media remaining în intestin gros (colon). Post-evac Irigografie
+  (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum R și L lateral
+  decubit (doublecontrast study) PA postevacuation Fig. 13.83 PA postevacuation. Fig.
+  13.82 PA postevacuation.'
+position: 'Pacient: pacient este Decubit ventral sau Decubit dorsal, cu support pentru
+  capul (Fig. 13.82).; Regiune anatomică: Align MSP la linia mediană mesei sau raza
+  centrală. Ensure that fără corp rotație occurs.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,13 +38,13 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire large intestine should be visualized with only a residual amount of contrast
-  media (Fig. 13.83). Position:'
-- Spine is parallel to the edge of the radiograph (unless scolioză / vicii de postură
-  ale coloanei is present).
+- 'Entire intestin gros (colon) trebuie să fie visualized cu only residual amount
+  de contrast media (Fig. 13.83). poziție:'
+- coloană vertebrală este paralel cu edge de radiografie (unless scolioză / vicii
+  de postură ale coloanei este present).
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  occurs; the ala of the ilium and the lumbar vertebrae are symmetric.'
-- Proper
+  occurs; ala de ilium și coloană lombară sunt simetric.'
+- corect
 sid_dff: 100 cm
 slug: rx-postevacuation-pa-ap-projection-irigografie-clisma-baritata-bontrager
 sources:
@@ -52,18 +52,18 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 'field size is applied. Exposure: Optimal image receptor exposure and
-    contrast to visualize the outline of entire mucosal pattern of the large intestine
-    without overexposure of any parts. Sharp structural margins indicate no motion.
-    Postevacuation and R or L markers should be visible.'
+  collimation: 'field size este applied. expunere: optim receptorul de imagine expunere
+    și contrast la visualize outline de entire mucosal pattern de intestin gros (colon)
+    fără overexposure de orice parts. net structural margins indicate fără mișcare.
+    Postevacuation și R sau L markeri trebuie să fie vizibil.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 90-100
   mas: DE CONFIGURAT PE APARAT
-title: Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
+title: Rx POSTEVACUATION PA (AP) Incidență (Irigografie (Clismă Baritată))
 ---
-# Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
+# Rx POSTEVACUATION PA (AP) Incidență (Irigografie (Clismă Baritată))
 
 
 <div class="rx-meta-bar">
@@ -82,7 +82,7 @@ title: Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
 
     === "Indicații Clinice"
 
-        - Demonstrates mucosal pattern of the large intestine with residual contrast media for identifying small polyps and defects This projection is most commonly taken Decubit Ventral as a PA but may be taken with the patient Decubit Dorsal as an AP, if necessary.
+        - evidențiază mucosal pattern de intestin gros (colon) cu residual contrast media pentru identifying small polyps și defects This incidență este most commonly taken Decubit ventral ca PA but poate fie taken cu pacientul Decubit dorsal ca AP, if necessary.
 
     === "Ghid Național IRIS"
 
@@ -96,10 +96,10 @@ title: Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient is Decubit Ventral or Decubit Dorsal, with a support for the head (Fig. 13.82).; Regiune anatomică: Align MSP to midline of table or CR. Ensure that no body rotation occurs.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Center CR and center of IR to creasta iliacă (corespunzător L4-L5).
+    - **Poziție Pacient:** Pacient: pacient este Decubit ventral sau Decubit dorsal, cu support pentru capul (Fig. 13.82).; Regiune anatomică: Align MSP la linia mediană mesei sau raza centrală. Ensure that fără corp rotație occurs.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center raza centrală și center de receptorul de imagine la creasta iliacă (corespunzător L4-L5).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -113,17 +113,17 @@ title: Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size is applied. Exposure: Optimal image receptor exposure and contrast to visualize the outline of entire mucosal pattern of the large intestine without overexposure of any parts. Sharp structural margins indicate no motion. Postevacuation and R or L markers should be visible. |
+    | **Colimare Fascicul** | field size este applied. expunere: optim receptorul de imagine expunere și contrast la visualize outline de entire mucosal pattern de intestin gros (colon) fără overexposure de orice parts. net structural margins indicate fără mișcare. Postevacuation și R sau L markeri trebuie să fie vizibil. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire large intestine should be visualized with only a residual amount of contrast media (Fig. 13.83). Position:
-    - Spine is parallel to the edge of the radiograph (unless scolioză / vicii de postură ale coloanei is present).
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs; the ala of the ilium and the lumbar vertebrae are symmetric.
-    - Proper
+    - Entire intestin gros (colon) trebuie să fie visualized cu only residual amount de contrast media (Fig. 13.83). poziție:
+    - coloană vertebrală este paralel cu edge de radiografie (unless scolioză / vicii de postură ale coloanei este present).
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs; ala de ilium și coloană lombară sunt simetric.
+    - corect
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -136,7 +136,7 @@ title: Rx POSTEVACUATION PA (AP) PROJECTION (Irigografie (Clismă Baritată))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Image should be taken after patient has had sufficient time for adequate evacuation. If radiograph shows insufficient evacuation to visualize the mucosal pattern clearly, a second radiograph should be obtained after further evacuation. Coffee or tea sometimes can be given as a stimulant for this purpose. Include the rectal ampulla on the lower margin of the radiograph. Use lower kVp to prevent overpenetration, with only the residual contrast media remaining in the large intestine. Post-evac Irigografie (Clismă Baritată) ROUTINE PA or AP RAO LAO LPO or RPO Lateral rectum R and L lateral decubitus (doublecontrast study) PA postevacuation Fig. 13.83 PA postevacuation. Fig. 13.82 PA postevacuation.
+    S: imagine trebuie să fie taken after pacient has had sufficient time pentru adecvat evacuation. If radiografie shows insufficient evacuation la visualize mucosal pattern clearly, second radiografie trebuie să fie obtained after further evacuation. Coffee sau tea sometimes poate fie given ca stimulant pentru this purpose. Include rectal ampulla pe lower margin de radiografie. Use lower kVp la prevent overpenetration, cu only residual contrast media remaining în intestin gros (colon). Post-evac Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum R și L lateral decubit (doublecontrast study) PA postevacuation Fig. 13.83 PA postevacuation. Fig. 13.82 PA postevacuation.
 
 
 ### 🖼️ Imagini

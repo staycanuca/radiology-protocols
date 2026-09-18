@@ -1,43 +1,44 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend on expiration.
+breathing: apnee (oprirea respirației) pe expiration.
 category: torace
-centering: perpendicular to IR at the level of T2T3, located 3 inches (7.5 cm) distal
-  to vertebra proeminentă (apofiza spinoasă C7), and 1 to 2 inches (2.5 to 5 cm) lateral
-  (toward upside) to midsagittal plane
+centering: perpendicular pe receptorul de imagine la nivelul T2T3, located 3 inches
+  (7.5 cm) distal la vertebra proeminentă (apofiza spinoasă C7), și 1 la 2 inches
+  (2.5 la 5 cm) lateral (spre upside) la plan mediosagital
 clinical_indications:
-- Joint separation, subluxation, or other pathology of the sternoclavicular jointsBest
-  visualizes the downside sternoclavicular joint, which is demonstrated closest to
-  the spine on the radiograph (see NOTE 1 later; see NOTE 2 for less obliquity to
-  visualize upside joint).
+- articulație separation, subluxation, sau other pathology de sternoclavicular jointsBest
+  visualizes downside articulații sternoclaviculare, which este evidențiat cel mai
+  apropiat de coloană vertebrală pe radiografie (see NOTE 1 later; see NOTE 2 pentru
+  less obliquity la visualize upside articulație).
 images:
-- caption: Fig. 10.30 10° to 15° RAO, for right SC joints.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.30 10° to 15°
-    RAO, for right SC joints.)
+- caption: Fig. 10.30 10° la 15° RAO, pentru drept articulații sternoclaviculare.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.30 10° la 15°
+    RAO, pentru drept articulații sternoclaviculare.)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_1.jpeg
-- caption: Fig. 10.31 10° to 15° RAO, best demonstrates right (downside) SC
+- caption: Fig. 10.31 10° la 15° RAO, best evidențiază drept (downside) SC
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.31
-    10° to 15° RAO, best demonstrates right (downside) SC)
+    10° la 15° RAO, best evidențiază drept (downside) SC)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_2.jpeg
-- caption: Fig. 10.32 10° to 15° RAO, right SC joint.
+- caption: Fig. 10.32 10° la 15° RAO, drept articulații sternoclaviculare.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.32
-    10° to 15° RAO, right SC joint.)
+    10° la 15° RAO, drept articulații sternoclaviculare.)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: With less obliquity (5° to 10°), the opposite SC joint (the upside joint) would
-  be visualized next to the vertebral column. Adaptation—Posterior Oblique If the
-  patient’s condition requires this, oblique images may be obtained by using a posterior
-  oblique with 10° to 15° rotation away from the side of interest with the CR 1 to
-  2 inches (2.5 to 5 cm) lateral to midsagittal (toward downside). The upside SC joint
-  would be best visualized in this projection. Sternoclavicular Joints ROUTINE PA
-  Anterior oblique Fig. 10.30 10° to 15° RAO, for right SC joints.
-position: 'Pacient: Decubit Ventral or Ortostatism facing IR with slight rotation
-  (10° to 15°) of thorax with upside Cot flexed and Mână placed adjacent to head (see
-  NOTES 1 and 2).; Regiune anatomică: Rotate patient 10° to 15° toward the side of
-  interest, aligning the sternoclavicular joints to the center of the IR. The sternoclavicular
-  joints will be located at the level of T2–T3, 1–2 inches lateral (towards upside)
-  of the spine (Fig. 10.30).'
+notes: cu less obliquity (5° la 10°), opposite articulații sternoclaviculare (upside
+  articulație) would fie visualized next la coloană vertebrală. Adaptation—posterior
+  oblic If pacientul’s condition requires this, oblic imagini poate fie obtained prin
+  using posterior oblic cu 10° la 15° rotație away de la side de interest cu raza
+  centrală centrală 1 la 2 inches (2.5 la 5 cm) lateral la midsagittal (spre downside).
+  upside articulații sternoclaviculare would fie best visualized în this incidență.
+  articulații sternoclaviculare ROUTINE PA anterior oblic Fig. 10.30 10° la 15° RAO,
+  pentru drept articulații sternoclaviculare.
+position: 'Pacient: Decubit ventral sau Ortostatism facing receptorul de imagine cu
+  slight rotație (10° la 15°) de thorax cu upside Cot flectat și Mână plasat adjacent
+  la cap (see NOTES 1 și 2).; Regiune anatomică: Rotate pacient 10° la 15° spre side
+  de interest, aligning articulații sternoclaviculare la center de receptorul de imagine.
+  articulații sternoclaviculare will fie located la nivelul T2–T3, 1–2 inches lateral
+  (spre upside) de coloană vertebrală (Fig. 10.30).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,17 +46,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- The downside sternoclavicular joint adjacent to the spine, manubrium, and medial
-  portion of clavicles are best demonstrated (Figs. 10.31 and 10.32).
-- 'The SC joint on the upside will be foreshortened and demonstrated farther from
-  the spine. Position:'
-- 'Correct patient rotation demonstrates the downside sternoclavicular joint visualized
-  with no superimposition of the vertebral column or manubrium. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the sternoclavicular joints
-  through overlying Coaste (Grilaj Costal) and lungs.
-- no motion, as indicated by sharp bony margins. L Fig. 10.31 10° to 15° RAO, best
-  demonstrates right (downside) SC joint. Left Claviculă Left SC joint Manubrium L
-  Fig. 10.32 10° to 15° RAO, right SC joint.
+- downside articulații sternoclaviculare adjacent la coloană vertebrală, manubriu
+  sternal, și medial portion de clavicles sunt best evidențiat (Figs. 10.31 și 10.32).
+- 'articulații sternoclaviculare pe upside will fie foreshortened și evidențiat farther
+  de la coloană vertebrală. poziție:'
+- 'Correct pacient rotație evidențiază downside articulații sternoclaviculare visualized
+  cu fără superimposition de coloană vertebrală sau manubriu sternal. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize articulații sternoclaviculare
+  through overlying Coaste (Grilaj Costal) și plămâni.
+- fără mișcare, ca indicated prin net bony margins. L Fig. 10.31 10° la 15° RAO, best
+  evidențiază drept (downside) articulații sternoclaviculare. stâng Claviculă stâng
+  articulații sternoclaviculare manubriu sternal L Fig. 10.32 10° la 15° RAO, drept
+  articulații sternoclaviculare.
 sid_dff: 100 cm
 slug: rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager
 sources:
@@ -63,15 +65,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate tightly to the region of the sternoclavicular joints.
+  collimation: Collimate tightly la region de articulații sternoclaviculare.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
+title: Rx Oblică Anterioară (OAD și OAS) (STERNOCLAVICULAR - JOINTS)
 ---
-# Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
+# Rx Oblică Anterioară (OAD și OAS) (STERNOCLAVICULAR - JOINTS)
 
 
 <div class="rx-meta-bar">
@@ -90,7 +92,7 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
 
     === "Indicații Clinice"
 
-        - Joint separation, subluxation, or other pathology of the sternoclavicular jointsBest visualizes the downside sternoclavicular joint, which is demonstrated closest to the spine on the radiograph (see NOTE 1 later; see NOTE 2 for less obliquity to visualize upside joint).
+        - articulație separation, subluxation, sau other pathology de sternoclavicular jointsBest visualizes downside articulații sternoclaviculare, which este evidențiat cel mai apropiat de coloană vertebrală pe radiografie (see NOTE 1 later; see NOTE 2 pentru less obliquity la visualize upside articulație).
 
     === "Ghid Național IRIS"
 
@@ -104,10 +106,10 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Ventral or Ortostatism facing IR with slight rotation (10° to 15°) of thorax with upside Cot flexed and Mână placed adjacent to head (see NOTES 1 and 2).; Regiune anatomică: Rotate patient 10° to 15° toward the side of interest, aligning the sternoclavicular joints to the center of the IR. The sternoclavicular joints will be located at the level of T2–T3, 1–2 inches lateral (towards upside) of the spine (Fig. 10.30).
-    - **Punct de Centrare Fascicul:** perpendicular to IR at the level of T2T3, located 3 inches (7.5 cm) distal to vertebra proeminentă (apofiza spinoasă C7), and 1 to 2 inches (2.5 to 5 cm) lateral (toward upside) to midsagittal plane
+    - **Poziție Pacient:** Pacient: Decubit ventral sau Ortostatism facing receptorul de imagine cu slight rotație (10° la 15°) de thorax cu upside Cot flectat și Mână plasat adjacent la cap (see NOTES 1 și 2).; Regiune anatomică: Rotate pacient 10° la 15° spre side de interest, aligning articulații sternoclaviculare la center de receptorul de imagine. articulații sternoclaviculare will fie located la nivelul T2–T3, 1–2 inches lateral (spre upside) de coloană vertebrală (Fig. 10.30).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine la nivelul T2T3, located 3 inches (7.5 cm) distal la vertebra proeminentă (apofiza spinoasă C7), și 1 la 2 inches (2.5 la 5 cm) lateral (spre upside) la plan mediosagital
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend on expiration.
+    - **Comandă Respiratorie:** apnee (oprirea respirației) pe expiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,18 +123,18 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate tightly to the region of the sternoclavicular joints. |
+    | **Colimare Fascicul** | Collimate tightly la region de articulații sternoclaviculare. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - The downside sternoclavicular joint adjacent to the spine, manubrium, and medial portion of clavicles are best demonstrated (Figs. 10.31 and 10.32).
-    - The SC joint on the upside will be foreshortened and demonstrated farther from the spine. Position:
-    - Correct patient rotation demonstrates the downside sternoclavicular joint visualized with no superimposition of the vertebral column or manubrium. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the sternoclavicular joints through overlying Coaste (Grilaj Costal) and lungs.
-    - no motion, as indicated by sharp bony margins. L Fig. 10.31 10° to 15° RAO, best demonstrates right (downside) SC joint. Left Claviculă Left SC joint Manubrium L Fig. 10.32 10° to 15° RAO, right SC joint.
+    - downside articulații sternoclaviculare adjacent la coloană vertebrală, manubriu sternal, și medial portion de clavicles sunt best evidențiat (Figs. 10.31 și 10.32).
+    - articulații sternoclaviculare pe upside will fie foreshortened și evidențiat farther de la coloană vertebrală. poziție:
+    - Correct pacient rotație evidențiază downside articulații sternoclaviculare visualized cu fără superimposition de coloană vertebrală sau manubriu sternal. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize articulații sternoclaviculare through overlying Coaste (Grilaj Costal) și plămâni.
+    - fără mișcare, ca indicated prin net bony margins. L Fig. 10.31 10° la 15° RAO, best evidențiază drept (downside) articulații sternoclaviculare. stâng Claviculă stâng articulații sternoclaviculare manubriu sternal L Fig. 10.32 10° la 15° RAO, drept articulații sternoclaviculare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,7 +147,7 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    With less obliquity (5° to 10°), the opposite SC joint (the upside joint) would be visualized next to the vertebral column. Adaptation—Posterior Oblique If the patient’s condition requires this, oblique images may be obtained by using a posterior oblique with 10° to 15° rotation away from the side of interest with the CR 1 to 2 inches (2.5 to 5 cm) lateral to midsagittal (toward downside). The upside SC joint would be best visualized in this projection. Sternoclavicular Joints ROUTINE PA Anterior oblique Fig. 10.30 10° to 15° RAO, for right SC joints.
+    cu less obliquity (5° la 10°), opposite articulații sternoclaviculare (upside articulație) would fie visualized next la coloană vertebrală. Adaptation—posterior oblic If pacientul’s condition requires this, oblic imagini poate fie obtained prin using posterior oblic cu 10° la 15° rotație away de la side de interest cu raza centrală centrală 1 la 2 inches (2.5 la 5 cm) lateral la midsagittal (spre downside). upside articulații sternoclaviculare would fie best visualized în this incidență. articulații sternoclaviculare ROUTINE PA anterior oblic Fig. 10.30 10° la 15° RAO, pentru drept articulații sternoclaviculare.
 
 
 ### 🖼️ Imagini
@@ -154,25 +156,25 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (STERNOCLAVICULAR - JOINTS)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.30 10° to 15° RAO, for right SC joints.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_1.jpeg)
+![Fig. 10.30 10° la 15° RAO, pentru drept articulații sternoclaviculare.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.30 10° to 15° RAO, for right SC joints.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.30 10° to 15° RAO, for right SC joints.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 10.31 10° to 15° RAO, best demonstrates right (downside) SC](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 10.31 10° to 15° RAO, best demonstrates right (downside) SC</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.31 10° to 15° RAO, best demonstrates right (downside) SC)</span></figcaption>
+<figcaption><strong>Fig. 10.30 10° la 15° RAO, pentru drept articulații sternoclaviculare.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.30 10° la 15° RAO, pentru drept articulații sternoclaviculare.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.32 10° to 15° RAO, right SC joint.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_3.jpeg)
+![Fig. 10.31 10° la 15° RAO, best evidențiază drept (downside) SC](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.32 10° to 15° RAO, right SC joint.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.32 10° to 15° RAO, right SC joint.)</span></figcaption>
+<figcaption><strong>Fig. 10.31 10° la 15° RAO, best evidențiază drept (downside) SC</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.31 10° la 15° RAO, best evidențiază drept (downside) SC)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 10.32 10° la 15° RAO, drept articulații sternoclaviculare.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 10.32 10° la 15° RAO, drept articulații sternoclaviculare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.32 10° la 15° RAO, drept articulații sternoclaviculare.)</span></figcaption>
 
 </figure>
 

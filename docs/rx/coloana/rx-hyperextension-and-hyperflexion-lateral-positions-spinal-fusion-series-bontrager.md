@@ -1,22 +1,22 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on expiration.
+breathing: Apnee pe durata expunerii pe expiration.
 category: coloana
-centering: perpendicular to IR. Direct CR to site of fusion if known or to center
-  of IR.
+centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
+  site de fusion if known sau la center de receptorul de imagine.
 clinical_indications:
-- Assessment of mobility at a spinal fusion site Two images are obtained with the
-  patient in the Incidență de Profil (Lateral) (one in hyperflexion and one in hyperextension).
-  Right- and leftbending positions also are generally part of a spinal fusion series
-  and are the same as for the scolioză / vicii de postură ale coloanei series on pp.
-  *** to ***.
+- Assessment de mobility la spinal fusion site Two imagini sunt obtained cu pacientul
+  în Incidență de Profil (lateral) (one în hyperflexion și one în hyperextension).
+  drept- și leftbending poziții also sunt generally part de spinal fusion series și
+  sunt same ca pentru scolioză / vicii de postură ale coloanei series pe pp. *** la
+  ***.
 images:
-- caption: Fig. 9.60 Lateral—hyperﬂexion.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.60 Lateral—hyperﬂexion.)
+- caption: Fig. 9.60 lateral—hyperflexion.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.60 lateral—hyperflexion.)
   url: assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_1.jpeg
-- caption: Fig. 9.61 Lateral—hyperextension.
+- caption: Fig. 9.61 lateral—hyperextension.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.61
-    Lateral—hyperextension.)
+    lateral—hyperextension.)
   url: assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,22 +28,23 @@ images:
   url: assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Projection is frequently performed with patient standing Ortostatism or
-  sitting on a stool, first leaning forward as far as possible, gripping the stool
-  legs, and then leaning backward as far as possible, gripping the back of the stool
-  to maintain this position. The Bazin (Pelvis) must remain as stationary as possible
-  during positioning. The Bazin (Pelvis) acts as a fulcrum (pivot point) during changes
-  in position. Flexion SPINAL FUSION SERIES ROUTINE PA—R and L bending Lateralhyperextension
-  and hyperflexion'
-position: 'Pacient: Incidență de Profil (Lateral) Place patient in Ortostatism (preferred)
-  or lateral Decubit position. (see NOTES). Place lower edge of IR 1 to 2 inches (2.5
-  to 5 cm) below creasta iliacă (corespunzător L4-L5).; Regiune anatomică: Align midcoronal
-  plane to CR and midline of table and/or IR. Hyperflexion Using Bazin (Pelvis) as
-  fulcrum, ask patient to assume hyperflexed position while remaining within collimation
-  field size (Fig. 9.60). Hyperextension Using Bazin (Pelvis) as fulcrum, ask patient
-  to move torso posteriorly as far as possible to hyperextend long axis of body (Fig.
-  9.61). Ensure that Absența rotației anatomice: clavicule echidistante față de linia
-  apofizelor spinoase of thorax or Bazin (Pelvis) exists.'
+notes: 'S: incidență este frequently performed cu pacient în ortostatism Ortostatism
+  sau așezat pe stool, first leaning forward ca far ca possible, gripping stool membre
+  inferioare, și then leaning backward ca far ca possible, gripping back de stool
+  la maintain this poziție. Bazin (bazin (pelvis)) trebuie să remain ca stationary
+  ca possible during positioning. Bazin (bazin (pelvis)) acts ca fulcrum (pivot point)
+  during changes în poziție. Flexion SPINAL FUSION SERIES ROUTINE PA—R și L bending
+  Lateralhyperextension și hyperflexion'
+position: 'Pacient: Incidență de Profil (lateral) Place pacient în Ortostatism (preferred)
+  sau lateral Decubit poziție. (see NOTES). Place lower edge de receptorul de imagine
+  1 la 2 inches (2.5 la 5 cm) below creasta iliacă (corespunzător L4-L5).; Regiune
+  anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau
+  receptorul de imagine. Hyperflexion Using Bazin (bazin (pelvis)) ca fulcrum, ask
+  pacient la assume hyperflexed poziție while remaining within collimation field size
+  (Fig. 9.60). Hyperextension Using Bazin (bazin (pelvis)) ca fulcrum, ask pacient
+  la move torso posteriorly ca far ca possible la hyperextend axa longitudinală de
+  corp (Fig. 9.61). Se verifică absența rotației: claviculele sunt riguros echidistante
+  față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,16 +52,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Thoracic and lumbar vertebra including 1 to 2 inches (2.5 to 5 cm) of the creasta
-  iliacă (corespunzător L4-L5)s (Figs. 9.62 and 9.63). Position
-- Spinal column aligned parallel to the IR, as indicated by open intervertebral foramina
-  and open intervertebral joint spaces.
+- Thoracic și lumbar vertebra including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă
+  (corespunzător L4-L5)s (Figs. 9.62 și 9.63). poziție
+- Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open
+  intervertebral foramina și open intervertebral spații articulare.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated by superimposed greater sciatic notches and posterior vertebral bodies.'
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of thoracic and lumbar vertebrae.
-- no motion. Fig. 9.60 Lateral—hyperflexion. Fig. 9.61 Lateral—hyperextension.
+  indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.'
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de thoracic și coloană lombară.
+- fără mișcare. Fig. 9.60 lateral—hyperflexion. Fig. 9.61 lateral—hyperextension.
 sid_dff: 100 cm
 slug: rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager
 sources:
@@ -68,15 +69,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SERIES)
+title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL Poziționare (- SPINAL FUSION SERIES)
 ---
-# Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SERIES)
+# Rx HYPEREXTENSION AND HYPERFLEXION LATERAL Poziționare (- SPINAL FUSION SERIES)
 
 
 <div class="rx-meta-bar">
@@ -95,7 +96,7 @@ title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SER
 
     === "Indicații Clinice"
 
-        - Assessment of mobility at a spinal fusion site Two images are obtained with the patient in the Incidență de Profil (Lateral) (one in hyperflexion and one in hyperextension). Right- and leftbending positions also are generally part of a spinal fusion series and are the same as for the scolioză / vicii de postură ale coloanei series on pp. *** to ***.
+        - Assessment de mobility la spinal fusion site Two imagini sunt obtained cu pacientul în Incidență de Profil (lateral) (one în hyperflexion și one în hyperextension). drept- și leftbending poziții also sunt generally part de spinal fusion series și sunt same ca pentru scolioză / vicii de postură ale coloanei series pe pp. *** la ***.
 
     === "Ghid Național IRIS"
 
@@ -109,10 +110,10 @@ title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SER
 
     ---
 
-    - **Poziție Pacient:** Pacient: Incidență de Profil (Lateral) Place patient in Ortostatism (preferred) or lateral Decubit position. (see NOTES). Place lower edge of IR 1 to 2 inches (2.5 to 5 cm) below creasta iliacă (corespunzător L4-L5).; Regiune anatomică: Align midcoronal plane to CR and midline of table and/or IR. Hyperflexion Using Bazin (Pelvis) as fulcrum, ask patient to assume hyperflexed position while remaining within collimation field size (Fig. 9.60). Hyperextension Using Bazin (Pelvis) as fulcrum, ask patient to move torso posteriorly as far as possible to hyperextend long axis of body (Fig. 9.61). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** perpendicular to IR. Direct CR to site of fusion if known or to center of IR.
+    - **Poziție Pacient:** Pacient: Incidență de Profil (lateral) Place pacient în Ortostatism (preferred) sau lateral Decubit poziție. (see NOTES). Place lower edge de receptorul de imagine 1 la 2 inches (2.5 la 5 cm) below creasta iliacă (corespunzător L4-L5).; Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau receptorul de imagine. Hyperflexion Using Bazin (bazin (pelvis)) ca fulcrum, ask pacient la assume hyperflexed poziție while remaining within collimation field size (Fig. 9.60). Hyperextension Using Bazin (bazin (pelvis)) ca fulcrum, ask pacient la move torso posteriorly ca far ca possible la hyperextend axa longitudinală de corp (Fig. 9.61). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre site de fusion if known sau la center de receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on expiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -126,19 +127,19 @@ title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SER
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Thoracic and lumbar vertebra including 1 to 2 inches (2.5 to 5 cm) of the creasta iliacă (corespunzător L4-L5)s (Figs. 9.62 and 9.63). Position
-    - Spinal column aligned parallel to the IR, as indicated by open intervertebral foramina and open intervertebral joint spaces.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated by superimposed greater sciatic notches and posterior vertebral bodies.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of thoracic and lumbar vertebrae.
-    - no motion. Fig. 9.60 Lateral—hyperflexion. Fig. 9.61 Lateral—hyperextension.
+    - Thoracic și lumbar vertebra including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă (corespunzător L4-L5)s (Figs. 9.62 și 9.63). poziție
+    - Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open intervertebral foramina și open intervertebral spații articulare.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de thoracic și coloană lombară.
+    - fără mișcare. Fig. 9.60 lateral—hyperflexion. Fig. 9.61 lateral—hyperextension.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +152,7 @@ title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SER
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Projection is frequently performed with patient standing Ortostatism or sitting on a stool, first leaning forward as far as possible, gripping the stool legs, and then leaning backward as far as possible, gripping the back of the stool to maintain this position. The Bazin (Pelvis) must remain as stationary as possible during positioning. The Bazin (Pelvis) acts as a fulcrum (pivot point) during changes in position. Flexion SPINAL FUSION SERIES ROUTINE PA—R and L bending Lateralhyperextension and hyperflexion
+    S: incidență este frequently performed cu pacient în ortostatism Ortostatism sau așezat pe stool, first leaning forward ca far ca possible, gripping stool membre inferioare, și then leaning backward ca far ca possible, gripping back de stool la maintain this poziție. Bazin (bazin (pelvis)) trebuie să remain ca stationary ca possible during positioning. Bazin (bazin (pelvis)) acts ca fulcrum (pivot point) during changes în poziție. Flexion SPINAL FUSION SERIES ROUTINE PA—R și L bending Lateralhyperextension și hyperflexion
 
 
 ### 🖼️ Imagini
@@ -160,17 +161,17 @@ title: Rx HYPEREXTENSION AND HYPERFLEXION LATERAL POSITIONS (- SPINAL FUSION SER
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.60 Lateral—hyperﬂexion.](../../assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_1.jpeg)
+![Fig. 9.60 lateral—hyperflexion.](../../assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.60 Lateral—hyperﬂexion.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.60 Lateral—hyperﬂexion.)</span></figcaption>
+<figcaption><strong>Fig. 9.60 lateral—hyperflexion.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.60 lateral—hyperflexion.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.61 Lateral—hyperextension.](../../assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_2.jpeg)
+![Fig. 9.61 lateral—hyperextension.](../../assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.61 Lateral—hyperextension.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.61 Lateral—hyperextension.)</span></figcaption>
+<figcaption><strong>Fig. 9.61 lateral—hyperextension.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.61 lateral—hyperextension.)</span></figcaption>
 
 </figure>
 

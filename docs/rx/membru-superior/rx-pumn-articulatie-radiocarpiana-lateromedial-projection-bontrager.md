@@ -2,42 +2,42 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to aria medio-carpiană
+centering: perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of the distal radius or
-  ulna, specifically anteroposterior fragment displacements for Barton, Colles, or
-  Smith suspiciune de fractură
-- artroză / modificări degenerative articulare may also be demonstrated primarily
-  in the trapezium and first CMC joint
+- suspiciune de fractură sau luxație / subluxație articulară de distal radius sau
+  ulna, specifically anteroposterior fragment displacements pentru Barton, Colles,
+  sau Smith suspiciune de fractură
+- artroză / modificări degenerative articulare poate also fie evidențiat primarily
+  în trapezium și first articulații carpometacarpiene (CMC)
 images:
-- caption: Fig. 4.94 Part position—lateral Pumn (Articulație Radiocarpiană)
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.94 Part position—lateral
+- caption: Fig. 4.94 Part poziție—lateral Pumn (Articulație Radiocarpiană)
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.94 Part poziție—lateral
     wrist)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_1.jpeg
-- caption: Fig. 4.95 Patient position—lateral Pumn (Articulație Radiocarpiană) with
-    support.
+- caption: Fig. 4.95 pacient poziție—lateral Pumn (Articulație Radiocarpiană) cu support.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.95
-    Patient position—lateral wrist with support.)
+    pacient poziție—lateral wrist cu support.)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_2.jpeg
-- caption: Fig. 4.96 Incidență de Profil (Lateral)
+- caption: Fig. 4.96 Incidență de Profil (lateral)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.96
-    Lateral projection)
+    lateral incidență)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_3.jpeg
-- caption: Fig. 4.97 Lateral Pumn (Articulație Radiocarpiană).
+- caption: Fig. 4.97 lateral Pumn (Articulație Radiocarpiană).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.97
-    Lateral wrist.)
+    lateral wrist.)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table, with arm and Antebraț resting on
-  the table. Place Pumn (Articulație Radiocarpiană) and Mână on IR in thumbup Incidență
-  de Profil (Lateral). Umăr, Cot, and Pumn (Articulație Radiocarpiană) should be on
-  same horizontal plane.; Regiune anatomică: Align and center Mână and Pumn (Articulație
-  Radiocarpiană) to long axis of IR. Adjust Mână and Pumn (Articulație Radiocarpiană)
-  into a true Incidență de Profil (Lateral), with Degete Mână comfortably extended
-  (Fig. 4.94); if support is needed to prevent motion, use a radiolucent support block
-  and sandbag, and place block against extended Mână and Degete Mână (Fig. 4.95).'
+position: 'Pacient: Seat pacient la end de table, cu braț și Antebraț resting pe masa
+  de examinare. Place Pumn (Articulație Radiocarpiană) și Mână pe receptorul de imagine
+  în thumbup Incidență de Profil (lateral). Umăr, Cot, și Pumn (Articulație Radiocarpiană)
+  trebuie să fie pe same plan orizontal.; Regiune anatomică: Align și center Mână
+  și Pumn (Articulație Radiocarpiană) la axa longitudinală de receptorul de imagine.
+  Adjust Mână și Pumn (Articulație Radiocarpiană) into true Incidență de Profil (lateral),
+  cu Degete Mână comfortably extins (Fig. 4.94); if support este needed la prevent
+  mișcare, use radiolucent support block și săculeți cu nisip, și place block against
+  extins Mână și Degete Mână (Fig. 4.95).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,18 +45,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Distal radius and ulna, carpals, and at least the midmetacarpal area are visible.
-  Position:'
-- Long axis of the Mână, Pumn (Articulație Radiocarpiană), and Antebraț should be
-  aligned with long axis of IR.
-- 'True Incidență de Profil (Lateral) is evidenced by: ulnar head should be superimposed
-  over distal radius; proximal second through fifth metacarpals all should appear
-  aligned and superimposed (Figs. 4.96 and 4.97).'
-- 'CR and center of collimation field size should be to midcarpal region. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, sharp
-  bony ‘trabecular markings and soft tissue, such as margins of pertinent fat pads
-  of the Pumn (Articulație Radiocarpiană) and borders of the distal ulna, seen through
-  the superimposed radius.
+- 'distal radius și ulna, oase carpiene, și la least midmetacarpal area sunt vizibil.
+  poziție:'
+- axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț trebuie
+  să fie aliniat cu axa longitudinală de receptorul de imagine.
+- 'True Incidență de Profil (lateral) este evidenced prin: ulnar cap trebuie să fie
+  superimposed over distal radius; proximal second through fifth oase metacarpiene
+  toate trebuie să appear aliniat și superimposed (Figs. 4.96 și 4.97).'
+- 'raza centrală și center de collimation field size trebuie să fie la midcarpal region.
+  expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  net bony ‘trabecular markings și părți moi, such ca margins de pertinent fat pads
+  de Pumn (Articulație Radiocarpiană) și margini de distal ulna, seen through superimposed
+  radius.
 sid_dff: 100 cm
 slug: rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager
 sources:
@@ -64,20 +65,20 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides, including distal radius and ulna
-    and metacarpal area. Routine PA PA oblique Lateral Fig. 4.94 Part position—lateral
-    Pumn (Articulație Radiocarpiană) Fig. 4.95 Patient position—lateral Pumn (Articulație
-    Radiocarpiană) with support. Fig. 4.96 Incidență de Profil (Lateral) of left Pumn
+  collimation: Field Size Collimate pe four sides, including distal radius și ulna
+    și metacarpal area. Routine PA PA oblic lateral Fig. 4.94 Part poziție—lateral
+    Pumn (Articulație Radiocarpiană) Fig. 4.95 pacient poziție—lateral Pumn (Articulație
+    Radiocarpiană) cu support. Fig. 4.96 Incidență de Profil (lateral) de stâng Pumn
     (Articulație Radiocarpiană). 1st metacarpal Scaphoid Radius Trapezium Capitate
-    Ulna Fig. 4.97 Lateral Pumn (Articulație Radiocarpiană).
+    Ulna Fig. 4.97 lateral Pumn (Articulație Radiocarpiană).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '60'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
+title: Rx Pumn (Articulație Radiocarpiană) Incidență Latero-Medială
 ---
-# Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
+# Rx Pumn (Articulație Radiocarpiană) Incidență Latero-Medială
 
 
 <div class="rx-meta-bar">
@@ -96,8 +97,8 @@ title: Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of the distal radius or ulna, specifically anteroposterior fragment displacements for Barton, Colles, or Smith suspiciune de fractură
-        - artroză / modificări degenerative articulare may also be demonstrated primarily in the trapezium and first CMC joint
+        - suspiciune de fractură sau luxație / subluxație articulară de distal radius sau ulna, specifically anteroposterior fragment displacements pentru Barton, Colles, sau Smith suspiciune de fractură
+        - artroză / modificări degenerative articulare poate also fie evidențiat primarily în trapezium și first articulații carpometacarpiene (CMC)
 
     === "Ghid Național IRIS"
 
@@ -111,8 +112,8 @@ title: Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with arm and Antebraț resting on the table. Place Pumn (Articulație Radiocarpiană) and Mână on IR in thumbup Incidență de Profil (Lateral). Umăr, Cot, and Pumn (Articulație Radiocarpiană) should be on same horizontal plane.; Regiune anatomică: Align and center Mână and Pumn (Articulație Radiocarpiană) to long axis of IR. Adjust Mână and Pumn (Articulație Radiocarpiană) into a true Incidență de Profil (Lateral), with Degete Mână comfortably extended (Fig. 4.94); if support is needed to prevent motion, use a radiolucent support block and sandbag, and place block against extended Mână and Degete Mână (Fig. 4.95).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to aria medio-carpiană
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu braț și Antebraț resting pe masa de examinare. Place Pumn (Articulație Radiocarpiană) și Mână pe receptorul de imagine în thumbup Incidență de Profil (lateral). Umăr, Cot, și Pumn (Articulație Radiocarpiană) trebuie să fie pe same plan orizontal.; Regiune anatomică: Align și center Mână și Pumn (Articulație Radiocarpiană) la axa longitudinală de receptorul de imagine. Adjust Mână și Pumn (Articulație Radiocarpiană) into true Incidență de Profil (lateral), cu Degete Mână comfortably extins (Fig. 4.94); if support este needed la prevent mișcare, use radiolucent support block și săculeți cu nisip, și place block against extins Mână și Degete Mână (Fig. 4.95).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -128,18 +129,18 @@ title: Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides, including distal radius and ulna and metacarpal area. Routine PA PA oblique Lateral Fig. 4.94 Part position—lateral Pumn (Articulație Radiocarpiană) Fig. 4.95 Patient position—lateral Pumn (Articulație Radiocarpiană) with support. Fig. 4.96 Incidență de Profil (Lateral) of left Pumn (Articulație Radiocarpiană). 1st metacarpal Scaphoid Radius Trapezium Capitate Ulna Fig. 4.97 Lateral Pumn (Articulație Radiocarpiană). |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides, including distal radius și ulna și metacarpal area. Routine PA PA oblic lateral Fig. 4.94 Part poziție—lateral Pumn (Articulație Radiocarpiană) Fig. 4.95 pacient poziție—lateral Pumn (Articulație Radiocarpiană) cu support. Fig. 4.96 Incidență de Profil (lateral) de stâng Pumn (Articulație Radiocarpiană). 1st metacarpal Scaphoid Radius Trapezium Capitate Ulna Fig. 4.97 lateral Pumn (Articulație Radiocarpiană). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal radius and ulna, carpals, and at least the midmetacarpal area are visible. Position:
-    - Long axis of the Mână, Pumn (Articulație Radiocarpiană), and Antebraț should be aligned with long axis of IR.
-    - True Incidență de Profil (Lateral) is evidenced by: ulnar head should be superimposed over distal radius; proximal second through fifth metacarpals all should appear aligned and superimposed (Figs. 4.96 and 4.97).
-    - CR and center of collimation field size should be to midcarpal region. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, sharp bony ‘trabecular markings and soft tissue, such as margins of pertinent fat pads of the Pumn (Articulație Radiocarpiană) and borders of the distal ulna, seen through the superimposed radius.
+    - distal radius și ulna, oase carpiene, și la least midmetacarpal area sunt vizibil. poziție:
+    - axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț trebuie să fie aliniat cu axa longitudinală de receptorul de imagine.
+    - True Incidență de Profil (lateral) este evidenced prin: ulnar cap trebuie să fie superimposed over distal radius; proximal second through fifth oase metacarpiene toate trebuie să appear aliniat și superimposed (Figs. 4.96 și 4.97).
+    - raza centrală și center de collimation field size trebuie să fie la midcarpal region. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, net bony ‘trabecular markings și părți moi, such ca margins de pertinent fat pads de Pumn (Articulație Radiocarpiană) și margini de distal ulna, seen through superimposed radius.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,33 +160,33 @@ title: Rx Pumn (Articulație Radiocarpiană) LATEROMEDIAL PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.94 Part position—lateral Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_1.jpeg)
+![Fig. 4.94 Part poziție—lateral Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.94 Part position—lateral Pumn (Articulație Radiocarpiană)</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.94 Part position—lateral wrist)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.95 Patient position—lateral Pumn (Articulație Radiocarpiană) with support.](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.95 Patient position—lateral Pumn (Articulație Radiocarpiană) with support.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.95 Patient position—lateral wrist with support.)</span></figcaption>
+<figcaption><strong>Fig. 4.94 Part poziție—lateral Pumn (Articulație Radiocarpiană)</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.94 Part poziție—lateral wrist)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.96 Incidență de Profil (Lateral)](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_3.jpeg)
+![Fig. 4.95 pacient poziție—lateral Pumn (Articulație Radiocarpiană) cu support.](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.96 Incidență de Profil (Lateral)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.96 Lateral projection)</span></figcaption>
+<figcaption><strong>Fig. 4.95 pacient poziție—lateral Pumn (Articulație Radiocarpiană) cu support.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.95 pacient poziție—lateral wrist cu support.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.97 Lateral Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_4.jpeg)
+![Fig. 4.96 Incidență de Profil (lateral)](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.97 Lateral Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.97 Lateral wrist.)</span></figcaption>
+<figcaption><strong>Fig. 4.96 Incidență de Profil (lateral)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.96 lateral incidență)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.97 lateral Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-lateromedial-projection-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.97 lateral Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.97 lateral wrist.)</span></figcaption>
 
 </figure>
 

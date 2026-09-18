@@ -1,22 +1,23 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: orthostatic (breathing) technique is preferred if patient can cooperate.
-  Ask patient to breathe gently without moving affected Umăr or arm. Or suspend respiration
-  if orthostatic technique is not preferred. Omoplat (Scapulă) ROUTINE AP Lateral
+breathing: orthostatic (respirație) technique este preferred if pacient poate cooperate.
+  Ask pacient la breathe gently fără moving affected Umăr sau braț. sau Apnee pe durata
+  expunerii if orthostatic technique este nu preferred. Omoplat (Scapulă) ROUTINE
+  AP lateral
 category: membru-superior
-centering: perpendicular to midscapula, 2 inches (5 cm) inferior to coracoid process,
-  or to level of axilla, and approximately 2 inches (5 cm) medial from lateral border
-  of patient
+centering: perpendicular la midscapula, 2 inches (5 cm) inferior la proces coracoid,
+  sau la level de axilla, și approximately 2 inches (5 cm) medial de la lateral margine
+  de pacient
 clinical_indications:
-- suspiciune de fractură and other pathology of Omoplat (Scapulă)
+- suspiciune de fractură și other pathology de Omoplat (Scapulă)
 images:
 - caption: Fig. 5.98 AP Omoplat (Scapulă) Ortostatism.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.98 AP scapula
-    erect.)
+    în ortostatism.)
   url: assets/images/protocols/bontrager/rx-omoplat-scapula-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 5.99 AP Decubit Dorsal.
+- caption: Fig. 5.99 AP Decubit dorsal.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.99
-    AP supine.)
+    AP în decubit dorsal.)
   url: assets/images/protocols/bontrager/rx-omoplat-scapula-ap-antero-posterior-bontrager/fig_2.jpeg
 - caption: Fig. 5.100 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.100
@@ -29,17 +30,17 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal
-  position. (The Ortostatism position may be more comfortable for the patient.) Posterior
-  surface of Umăr is in direct contact with tabletop or IR without rotation of thorax.
-  (Rotation toward affected side would place the Omoplat (Scapulă) into a truer posterior
-  position, but this also would result in greater superimposition of the rib cage.);
-  Regiune anatomică: Position patient so that midscapular area is centered to CR.
-  Adjust cassette to center to CR. Top of IR should be approximately 2 inches (5 cm)
-  above Umăr, and lateral border of IR should be approximately 2 inches (5 cm) from
-  lateral margin of rib cage. Gently abduct arm 90° and supinate Mână. (Abduction
-  moves Omoplat (Scapulă) laterally to clear more of the thoracic structures (Figs.
-  5.98 and 5.99).'
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
+  poziție. (Ortostatism poziție poate fie more comfortable pentru pacientul.) posterior
+  surface de Umăr este în direct contact cu tabletop sau receptorul de imagine fără
+  rotație de thorax. (rotație spre affected side would place Omoplat (Scapulă) into
+  truer posterior poziție, but this also would result în greater superimposition de
+  rib cage.); Regiune anatomică: poziție pacient so that midscapular area este centrat
+  pe raza centrală. Adjust casetă la center la raza centrală. Top de receptorul de
+  imagine trebuie să fie approximately 2 inches (5 cm) above Umăr, și lateral margine
+  de receptorul de imagine trebuie să fie approximately 2 inches (5 cm) de la lateral
+  margin de rib cage. Gently abduct braț 90° și supinate Mână. (Abduction moves Omoplat
+  (Scapulă) laterally la clear more de thoracic structures (Figs. 5.98 și 5.99).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,20 +48,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Lateral portion of the Omoplat (Scapulă) is free of superimposition.
-- 'Medial portion of the Omoplat (Scapulă) is seen through the thoracic structures
-  (Figs. 5.100 and 5.101). Position:'
-- Affected arm seen to be abducted 90° and Mână supinated, as evidenced by the lateral
-  border of the Omoplat (Scapulă) free of superimposition.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare of the lateral portion
-  of the Omoplat (Scapulă).
-- Coaste (Grilaj Costal) and lung structures appear blurred with proper breathing
-  technique. Fig. 5.98 AP Omoplat (Scapulă) Ortostatism. Fig. 5.99 AP Decubit Dorsal.
-  Fig. 5.100 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.) Claviculă Coracoid process
-  Lateral border Glenoid cavity Omoplat (Scapulă) Inferior angle Fig. 5.101 AP Omoplat
-  (Scapulă). (Courtesy Joss Wertz, DO.)
+- lateral portion de Omoplat (Scapulă) este liber de superimposition.
+- 'medial portion de Omoplat (Scapulă) este seen through thoracic structures (Figs.
+  5.100 și 5.101). poziție:'
+- Affected braț seen la fie în abducție 90° și Mână în supinație, ca evidenced prin
+  lateral margine de Omoplat (Scapulă) liber de superimposition.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare de lateral
+  portion de Omoplat (Scapulă).
+- Coaste (Grilaj Costal) și lung structures appear blurred cu corect Tehnică de estompare
+  prin respirație superficială (respirație technique). Fig. 5.98 AP Omoplat (Scapulă)
+  Ortostatism. Fig. 5.99 AP Decubit dorsal. Fig. 5.100 AP Omoplat (Scapulă). (Courtesy
+  Joss Wertz, DO.) Claviculă proces coracoid lateral margine cavitate glenoidă Omoplat
+  (Scapulă) inferior angle Fig. 5.101 AP Omoplat (Scapulă). (Courtesy Joss Wertz,
+  DO.)
 sid_dff: 100 cm
 slug: rx-omoplat-scapula-ap-antero-posterior-bontrager
 sources:
@@ -68,7 +70,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Closely collimate on four sides to area of Omoplat (Scapulă).
+  collimation: Field Size Closely collimate pe four sides la area de Omoplat (Scapulă).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,7 +97,7 @@ title: Rx Omoplat (Scapulă) AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and other pathology of Omoplat (Scapulă)
+        - suspiciune de fractură și other pathology de Omoplat (Scapulă)
 
     === "Ghid Național IRIS"
 
@@ -109,10 +111,10 @@ title: Rx Omoplat (Scapulă) AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal position. (The Ortostatism position may be more comfortable for the patient.) Posterior surface of Umăr is in direct contact with tabletop or IR without rotation of thorax. (Rotation toward affected side would place the Omoplat (Scapulă) into a truer posterior position, but this also would result in greater superimposition of the rib cage.); Regiune anatomică: Position patient so that midscapular area is centered to CR. Adjust cassette to center to CR. Top of IR should be approximately 2 inches (5 cm) above Umăr, and lateral border of IR should be approximately 2 inches (5 cm) from lateral margin of rib cage. Gently abduct arm 90° and supinate Mână. (Abduction moves Omoplat (Scapulă) laterally to clear more of the thoracic structures (Figs. 5.98 and 5.99).
-    - **Punct de Centrare Fascicul:** perpendicular to midscapula, 2 inches (5 cm) inferior to coracoid process, or to level of axilla, and approximately 2 inches (5 cm) medial from lateral border of patient
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. (Ortostatism poziție poate fie more comfortable pentru pacientul.) posterior surface de Umăr este în direct contact cu tabletop sau receptorul de imagine fără rotație de thorax. (rotație spre affected side would place Omoplat (Scapulă) into truer posterior poziție, but this also would result în greater superimposition de rib cage.); Regiune anatomică: poziție pacient so that midscapular area este centrat pe raza centrală. Adjust casetă la center la raza centrală. Top de receptorul de imagine trebuie să fie approximately 2 inches (5 cm) above Umăr, și lateral margine de receptorul de imagine trebuie să fie approximately 2 inches (5 cm) de la lateral margin de rib cage. Gently abduct braț 90° și supinate Mână. (Abduction moves Omoplat (Scapulă) laterally la clear more de thoracic structures (Figs. 5.98 și 5.99).
+    - **Punct de Centrare Fascicul:** perpendicular la midscapula, 2 inches (5 cm) inferior la proces coracoid, sau la level de axilla, și approximately 2 inches (5 cm) medial de la lateral margine de pacient
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** orthostatic (breathing) technique is preferred if patient can cooperate. Ask patient to breathe gently without moving affected Umăr or arm. Or suspend respiration if orthostatic technique is not preferred. Omoplat (Scapulă) ROUTINE AP Lateral
+    - **Comandă Respiratorie:** orthostatic (respirație) technique este preferred if pacient poate cooperate. Ask pacient la breathe gently fără moving affected Umăr sau braț. sau Apnee pe durata expunerii if orthostatic technique este nu preferred. Omoplat (Scapulă) ROUTINE AP lateral
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -126,19 +128,19 @@ title: Rx Omoplat (Scapulă) AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Closely collimate on four sides to area of Omoplat (Scapulă). |
+    | **Colimare Fascicul** | Field Size Closely collimate pe four sides la area de Omoplat (Scapulă). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral portion of the Omoplat (Scapulă) is free of superimposition.
-    - Medial portion of the Omoplat (Scapulă) is seen through the thoracic structures (Figs. 5.100 and 5.101). Position:
-    - Affected arm seen to be abducted 90° and Mână supinated, as evidenced by the lateral border of the Omoplat (Scapulă) free of superimposition.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare of the lateral portion of the Omoplat (Scapulă).
-    - Coaste (Grilaj Costal) and lung structures appear blurred with proper breathing technique. Fig. 5.98 AP Omoplat (Scapulă) Ortostatism. Fig. 5.99 AP Decubit Dorsal. Fig. 5.100 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.) Claviculă Coracoid process Lateral border Glenoid cavity Omoplat (Scapulă) Inferior angle Fig. 5.101 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)
+    - lateral portion de Omoplat (Scapulă) este liber de superimposition.
+    - medial portion de Omoplat (Scapulă) este seen through thoracic structures (Figs. 5.100 și 5.101). poziție:
+    - Affected braț seen la fie în abducție 90° și Mână în supinație, ca evidenced prin lateral margine de Omoplat (Scapulă) liber de superimposition.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare de lateral portion de Omoplat (Scapulă).
+    - Coaste (Grilaj Costal) și lung structures appear blurred cu corect Tehnică de estompare prin respirație superficială (respirație technique). Fig. 5.98 AP Omoplat (Scapulă) Ortostatism. Fig. 5.99 AP Decubit dorsal. Fig. 5.100 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.) Claviculă proces coracoid lateral margine cavitate glenoidă Omoplat (Scapulă) inferior angle Fig. 5.101 AP Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,15 +162,15 @@ title: Rx Omoplat (Scapulă) AP (Antero-Posterior)
 
 ![Fig. 5.98 AP Omoplat (Scapulă) Ortostatism.](../../assets/images/protocols/bontrager/rx-omoplat-scapula-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.98 AP Omoplat (Scapulă) Ortostatism.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.98 AP scapula erect.)</span></figcaption>
+<figcaption><strong>Fig. 5.98 AP Omoplat (Scapulă) Ortostatism.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.98 AP scapula în ortostatism.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.99 AP Decubit Dorsal.](../../assets/images/protocols/bontrager/rx-omoplat-scapula-ap-antero-posterior-bontrager/fig_2.jpeg)
+![Fig. 5.99 AP Decubit dorsal.](../../assets/images/protocols/bontrager/rx-omoplat-scapula-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.99 AP Decubit Dorsal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.99 AP supine.)</span></figcaption>
+<figcaption><strong>Fig. 5.99 AP Decubit dorsal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.99 AP în decubit dorsal.)</span></figcaption>
 
 </figure>
 

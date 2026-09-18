@@ -2,41 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle CR 10° to 15° toward Calcaneu (Raza centrală perpendiculară to phalanges)
-  (Fig. 6.39). If a 15° wedge is placed under the Picior for parallel partfilm alignment,
-  the CR is perpendicular to the IR (Fig. 6.40). Center CR to MTP joint in question.
+centering: Angle raza centrală 10° la 15° spre Calcaneu (Raza centrală perpendiculară
+  la falange) (Fig. 6.39). If a 15° wedge este plasat under Picior pentru paralel
+  partfilm alignment, raza centrală este perpendicular pe receptorul de imagine (RI)
+  (Fig. 6.40). Center raza centrală la articulații metatarsofalangiene (MTF) în question.
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of the phalanges of the
-  digits in question
-- Pathologies such as artroză / modificări degenerative articulare and gouty arthritis
-  (gout), especially in the first digit
+- suspiciune de fractură sau luxație / subluxație articulară de falange de falange
+  în question
+- Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis
+  (gout), especially în first falange
 images:
-- caption: Fig. 6.39 Second digit (CR, 10° to 15°).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second digit
-    (CR, 10° to 15°).)
+- caption: Fig. 6.39 Second falange (raza centrală, 10° la 15°).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second falange
+    (raza centrală, 10° la 15°).)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 6.40 AP second digit with wedge (Raza centrală perpendiculară).
+- caption: Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40
-    AP second digit with wedge (CR perpendicular).)
+    AP second falange cu wedge (raza centrală perpendicular).)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg
 - caption: Fig. 6.41 AP second
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.41
     AP second)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_3.jpeg
-- caption: Fig. 6.42 AP second digit.
+- caption: Fig. 6.42 AP second falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42
-    AP second digit.)
+    AP second falange.)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Some departmental routines include centering and collimation for AP Degete
-  Picior to include all the Degete Picior and distal metatarsals. Most routines involve
-  centering to the toe of interest with closer collimation to include only one digit
-  on each side of injury.
-position: 'Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table; Genunchi
-  should be flexed with plantar surface of Picior resting on IR.; Regiune anatomică:
-  Center and align long axis of digit to CR and long axis of portion of IR being exposed.
-  Ensure that MTP joint of digit in question is centered to CR.'
+notes: Some departmental routines include centering și collimation pentru AP Degete
+  Picior la include toate Degete Picior și distal oase metatarsiene. Most routines
+  involve centering la toe de interest cu closer collimation la include only one falange
+  pe fiecare side de injury.
+position: 'Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi
+  trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.;
+  Regiune anatomică: Center și align axa longitudinală de falange la raza centrală
+  și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that
+  articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza
+  centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,24 +47,26 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Digits of interest and a minimum of the distal half of metatarsals should be included
-  (Figs. 6.41 and 6.42). Position:'
-- Individual digits should be separated with no overlapping of soft tissues.
-- Long axis of Picior is aligned to long axis of portion of IR being exposed.
+- 'falange de interest și minimum de distal half de oase metatarsiene trebuie să fie
+  included (Figs. 6.41 și 6.42). poziție:'
+- Individual falange trebuie să fie separated cu fără overlapping de soft tissues.
+- axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul
+  de imagine being exposed.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is present if shafts of the phalanges and distal metatarsals appear equally concave
-  on both sides.'
-- Rotation appears as one side being more concave than the other.
-- Side with increased concavity has been rolled away from IR.4
-- IP and MTP joint spaces are open. Incorrect CR angulation or insufficient elevation
-  of forefoot may distort or close joint spaces.4
-- 'Collimation to area of interest. Exposure:'
-- No motion as evidenced by sharply defined cortical margins of the bone and detailed
+  este present if shafts de falange și distal oase metatarsiene appear equally concave
+  pe ambele părți (bilateral).'
+- rotație appears ca one side being more concave than other.
+- Side cu increased concavity has been rolled away de la receptorul de imagine.4
+- IP și articulații metatarsofalangiene (MTF) spaces sunt open. Incorrect raza centrală
+  angulation sau insufficient elevation de forefoot poate distort sau close spații
+  articulare.4
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed
   bony trabeculae.
-- Optimal image receptor exposure and contrast will allow visualization of bony cortical
-  margins and trabeculae and soft tissue structures. Fig. 6.41 AP second digit. Distal
-  phalanx Middle phalanx 2nd MTP joint (CR) Distal 2nd metatarsal Proximal phalanx
-  Fig. 6.42 AP second digit.
+- optim receptorul de imagine expunere și contrast will allow visualization de bony
+  cortical margins și trabeculae și părți moi structures. Fig. 6.41 AP second falange.
+  distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF) (raza centrală)
+  distal 2nd metatarsal proximal phalanx Fig. 6.42 AP second falange.
 sid_dff: 100 cm
 slug: rx-degete-picior-ap-antero-posterior-bontrager
 sources:
@@ -69,10 +74,10 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate on four sides to area of interest. On side margins, include
-    a minimum of at least part of one digit on each side of the digit in question.
-    Degete Picior ROUTINE AP Oblique Lateral Fig. 6.39 Second digit (CR, 10° to 15°).
-    Fig. 6.40 AP second digit with wedge (Raza centrală perpendiculară).
+  collimation: Collimate pe four sides la aria de interes diagnostic. pe side margins,
+    include minimum de la least part de one falange pe fiecare side de falange în
+    question. Degete Picior ROUTINE AP oblic lateral Fig. 6.39 Second falange (raza
+    centrală, 10° la 15°). Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -99,8 +104,8 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of the phalanges of the digits in question
-        - Pathologies such as artroză / modificări degenerative articulare and gouty arthritis (gout), especially in the first digit
+        - suspiciune de fractură sau luxație / subluxație articulară de falange de falange în question
+        - Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis (gout), especially în first falange
 
     === "Ghid Național IRIS"
 
@@ -114,8 +119,8 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table; Genunchi should be flexed with plantar surface of Picior resting on IR.; Regiune anatomică: Center and align long axis of digit to CR and long axis of portion of IR being exposed. Ensure that MTP joint of digit in question is centered to CR.
-    - **Punct de Centrare Fascicul:** Angle CR 10° to 15° toward Calcaneu (Raza centrală perpendiculară to phalanges) (Fig. 6.39). If a 15° wedge is placed under the Picior for parallel partfilm alignment, the CR is perpendicular to the IR (Fig. 6.40). Center CR to MTP joint in question.
+    - **Poziție Pacient:** Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.; Regiune anatomică: Center și align axa longitudinală de falange la raza centrală și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza centrală.
+    - **Punct de Centrare Fascicul:** Angle raza centrală 10° la 15° spre Calcaneu (Raza centrală perpendiculară la falange) (Fig. 6.39). If a 15° wedge este plasat under Picior pentru paralel partfilm alignment, raza centrală este perpendicular pe receptorul de imagine (RI) (Fig. 6.40). Center raza centrală la articulații metatarsofalangiene (MTF) în question.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -131,23 +136,23 @@ title: Rx Degete Picior AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate on four sides to area of interest. On side margins, include a minimum of at least part of one digit on each side of the digit in question. Degete Picior ROUTINE AP Oblique Lateral Fig. 6.39 Second digit (CR, 10° to 15°). Fig. 6.40 AP second digit with wedge (Raza centrală perpendiculară). |
+    | **Colimare Fascicul** | Collimate pe four sides la aria de interes diagnostic. pe side margins, include minimum de la least part de one falange pe fiecare side de falange în question. Degete Picior ROUTINE AP oblic lateral Fig. 6.39 Second falange (raza centrală, 10° la 15°). Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Digits of interest and a minimum of the distal half of metatarsals should be included (Figs. 6.41 and 6.42). Position:
-    - Individual digits should be separated with no overlapping of soft tissues.
-    - Long axis of Picior is aligned to long axis of portion of IR being exposed.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is present if shafts of the phalanges and distal metatarsals appear equally concave on both sides.
-    - Rotation appears as one side being more concave than the other.
-    - Side with increased concavity has been rolled away from IR.4
-    - IP and MTP joint spaces are open. Incorrect CR angulation or insufficient elevation of forefoot may distort or close joint spaces.4
-    - Collimation to area of interest. Exposure:
-    - No motion as evidenced by sharply defined cortical margins of the bone and detailed bony trabeculae.
-    - Optimal image receptor exposure and contrast will allow visualization of bony cortical margins and trabeculae and soft tissue structures. Fig. 6.41 AP second digit. Distal phalanx Middle phalanx 2nd MTP joint (CR) Distal 2nd metatarsal Proximal phalanx Fig. 6.42 AP second digit.
+    - falange de interest și minimum de distal half de oase metatarsiene trebuie să fie included (Figs. 6.41 și 6.42). poziție:
+    - Individual falange trebuie să fie separated cu fără overlapping de soft tissues.
+    - axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul de imagine being exposed.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este present if shafts de falange și distal oase metatarsiene appear equally concave pe ambele părți (bilateral).
+    - rotație appears ca one side being more concave than other.
+    - Side cu increased concavity has been rolled away de la receptorul de imagine.4
+    - IP și articulații metatarsofalangiene (MTF) spaces sunt open. Incorrect raza centrală angulation sau insufficient elevation de forefoot poate distort sau close spații articulare.4
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed bony trabeculae.
+    - optim receptorul de imagine expunere și contrast will allow visualization de bony cortical margins și trabeculae și părți moi structures. Fig. 6.41 AP second falange. distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF) (raza centrală) distal 2nd metatarsal proximal phalanx Fig. 6.42 AP second falange.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,7 +165,7 @@ title: Rx Degete Picior AP (Antero-Posterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Some departmental routines include centering and collimation for AP Degete Picior to include all the Degete Picior and distal metatarsals. Most routines involve centering to the toe of interest with closer collimation to include only one digit on each side of injury.
+    Some departmental routines include centering și collimation pentru AP Degete Picior la include toate Degete Picior și distal oase metatarsiene. Most routines involve centering la toe de interest cu closer collimation la include only one falange pe fiecare side de injury.
 
 
 ### 🖼️ Imagini
@@ -169,17 +174,17 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.39 Second digit (CR, 10° to 15°).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 6.39 Second falange (raza centrală, 10° la 15°).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.39 Second digit (CR, 10° to 15°).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second digit (CR, 10° to 15°).)</span></figcaption>
+<figcaption><strong>Fig. 6.39 Second falange (raza centrală, 10° la 15°).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second falange (raza centrală, 10° la 15°).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.40 AP second digit with wedge (Raza centrală perpendiculară).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg)
+![Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.40 AP second digit with wedge (Raza centrală perpendiculară).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40 AP second digit with wedge (CR perpendicular).)</span></figcaption>
+<figcaption><strong>Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40 AP second falange cu wedge (raza centrală perpendicular).)</span></figcaption>
 
 </figure>
 
@@ -193,9 +198,9 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.42 AP second digit.](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg)
+![Fig. 6.42 AP second falange.](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 6.42 AP second digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42 AP second digit.)</span></figcaption>
+<figcaption><strong>Fig. 6.42 AP second falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42 AP second falange.)</span></figcaption>
 
 </figure>
 

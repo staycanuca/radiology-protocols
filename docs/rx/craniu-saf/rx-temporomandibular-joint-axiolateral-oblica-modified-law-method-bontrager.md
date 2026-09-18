@@ -1,44 +1,47 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. TEMPOROMANDIBULAR JOINTS ROUTINE AP axial (modified
-  Incidență AP Axială (Metoda Towne)) SPECIAL Axiolateral 15° oblique (modified law
-  method) Axiolateral (Schuller) Orthopantomography
+breathing: Apnee pe durata expunerii. TEMPOROMANDIBULAR articulații ROUTINE AP axial
+  (modified Incidență AP Axială (Metoda Towne)) SPECIAL Axiolateral 15° oblic (modified
+  law method) Axiolateral (Schuller) Orthopantomography
 category: craniu-saf
-centering: Angle CR 15° caudad, centered to 1½ inches (4 cm) superior to upside EAM
-  (to pass through downside Articulații Temporomandibulare (ATM)). Center IR to projected
-  CR.
+centering: Raza centrală se înclină 15° caudal (spre picioare), centrat pe 1½ inches
+  (4 cm) superior la upside conduct auditiv extern (CAE) (la pass through downside
+  Articulații Temporomandibulare (ATM)). Se centrează receptorul de imagine pe proiecția
+  razei centrale.
 clinical_indications:
-- Abnormal relationship or range of motion between condyle and TM fossa
+- Abnormal relationship sau range de mișcare între condyle și TM fossa
 images:
-- caption: Fig. 11.179 Articulații Temporomandibulare (ATM)—closed mouth.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.179 TMJ—closed
-    mouth.)
+- caption: Fig. 11.179 Articulații Temporomandibulare (ATM)—gură închisă.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.179 TMJ—gură
+    închisă.)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_1.jpeg
-- caption: Fig. 11.180 Articulații Temporomandibulare (ATM)—closed mouth.
+- caption: Fig. 11.180 Articulații Temporomandibulare (ATM)—gură închisă.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.180
-    TMJ—closed mouth.)
+    TMJ—gură închisă.)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_2.jpeg
-- caption: Fig. 11.177 Right Articulații Temporomandibulare (ATM)—closed mouth; 15°
-    oblique; CR 15° caudad.
+- caption: Fig. 11.177 drept Articulații Temporomandibulare (ATM)—gură închisă; 15°
+    oblic; raza centrală 15° caudal.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.177
-    Right TMJ—closed mouth; 15° oblique; CR 15° caudad.)
+    drept TMJ—gură închisă; 15° oblic; raza centrală 15° caudal.)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_3.jpeg
-- caption: Fig. 11.178 Right Articulații Temporomandibulare (ATM)—open mouth; 15°
-    oblique; CR 15° caudad.
+- caption: Fig. 11.178 drept Articulații Temporomandibulare (ATM)—gură deschisă (transorală);
+    15° oblic; raza centrală 15° caudal.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.178
-    Right TMJ—open mouth; 15° oblique; CR 15° caudad.)
+    drept TMJ—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Patient position is Ortostatism or semiprone (Ortostatism is preferred
-  if patient’s condition allows). Rest lateral aspect of head against table/ upright
-  imaging device surface, with side of interest closest to IR.; Regiune anatomică:
-  Prevent tilt by maintaining iPl perpendicular to IR. MSP is parallel to IR to start.
-  Align ioMl perpendicular to front edge of IR (Fig. 11.177). From Incidență de Profil
-  (Lateral), rotate face toward iR 15° (with MSP of head rotated 15° from plane of
-  IR). Closed- and openmouth projections are often taken to demonstrate range of motion
-  of the Articulații Temporomandibulare (ATM) (Fig. 11.178).'
+position: 'Pacient: pacient poziție este Ortostatism sau semiprone (Ortostatism este
+  preferred if pacient’s condition allows). Rest lateral aspect de cap against table/
+  în ortostatism imaging device surface, cu side de interest closest la receptorul
+  de imagine.; Regiune anatomică: Prevent tilt prin maintaining linie interpupilară
+  (LIP) perpendicular pe receptorul de imagine. MSP este paralel cu receptorul de
+  imagine la start. Align linie infraorbitomeatală (LIOM) perpendicular la front edge
+  de receptorul de imagine (Fig. 11.177). de la Incidență de Profil (lateral), rotate
+  face spre receptorul de imagine 15° (cu MSP de cap rotit 15° de la plane de receptorul
+  de imagine). Closed- și openmouth incidențe sunt often taken la evidențiază range
+  de mișcare de Articulații Temporomandibulare (ATM) (Fig. 11.178).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,24 +49,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Articulații Temporomandibulare (ATM) nearest IR is visible.
-- 'Closedmouth image demonstrates condyle within mandibular fossa; the condyle moves
-  to the anterior margin (articular tubercle) of the mandibular fossa in the openmouth
-  position (Figs. 11.179 and 11.180). Position:'
-- Correctly positioned images demonstrate Articulații Temporomandibulare (ATM) closest
-  to IR clearly, without superimposition of opposite Articulații Temporomandibulare
-  (ATM) (15° rotation prevents superimposition).
-- Articulații Temporomandibulare (ATM) of interest is not superimposed by Coloană
+- Articulații Temporomandibulare (ATM) nearest receptorul de imagine este vizibil.
+- 'Closedmouth imagine evidențiază condyle within mandibular fossa; condyle moves
+  la anterior margin (articular tubercle) de mandibular fossa în openmouth poziție
+  (Figs. 11.179 și 11.180). poziție:'
+- Correctly poziționat imagini evidențiază Articulații Temporomandibulare (ATM) closest
+  la receptorul de imagine clearly, fără superimposition de opposite Articulații Temporomandibulare
+  (ATM) (15° rotație prevents superimposition).
+- Articulații Temporomandibulare (ATM) de interest este nu superimposed prin Coloană
   Cervicală.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize Articulații
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize Articulații
   Temporomandibulare (ATM).
-- Sharp bony margins indicate no motion. Fig. 11.179 Articulații Temporomandibulare
-  (ATM)—closed mouth. Right condyle Right EAM Right Articulații Temporomandibulare
-  (ATM) (downside, side of interest) Fig. 11.180 Articulații Temporomandibulare (ATM)—closed
-  mouth. Fig. 11.177 Right Articulații Temporomandibulare (ATM)—closed mouth; 15°
-  oblique; CR 15° caudad. Fig. 11.178 Right Articulații Temporomandibulare (ATM)—open
-  mouth; 15° oblique; CR 15° caudad.
+- net bony margins indicate fără mișcare. Fig. 11.179 Articulații Temporomandibulare
+  (ATM)—gură închisă. drept condyle drept conduct auditiv extern (CAE) drept Articulații
+  Temporomandibulare (ATM) (downside, side de interest) Fig. 11.180 Articulații Temporomandibulare
+  (ATM)—gură închisă. Fig. 11.177 drept Articulații Temporomandibulare (ATM)—gură
+  închisă; 15° oblic; raza centrală 15° caudal. Fig. 11.178 drept Articulații Temporomandibulare
+  (ATM)—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.
 sid_dff: 100 cm
 slug: rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager
 sources:
@@ -71,7 +74,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -98,7 +101,7 @@ title: Rx TEMPOROMANDIBULAR JOINT AXIOLATERAL Oblică (MODIFIED LAW METHOD)
 
     === "Indicații Clinice"
 
-        - Abnormal relationship or range of motion between condyle and TM fossa
+        - Abnormal relationship sau range de mișcare între condyle și TM fossa
 
     === "Ghid Național IRIS"
 
@@ -112,10 +115,10 @@ title: Rx TEMPOROMANDIBULAR JOINT AXIOLATERAL Oblică (MODIFIED LAW METHOD)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient position is Ortostatism or semiprone (Ortostatism is preferred if patient’s condition allows). Rest lateral aspect of head against table/ upright imaging device surface, with side of interest closest to IR.; Regiune anatomică: Prevent tilt by maintaining iPl perpendicular to IR. MSP is parallel to IR to start. Align ioMl perpendicular to front edge of IR (Fig. 11.177). From Incidență de Profil (Lateral), rotate face toward iR 15° (with MSP of head rotated 15° from plane of IR). Closed- and openmouth projections are often taken to demonstrate range of motion of the Articulații Temporomandibulare (ATM) (Fig. 11.178).
-    - **Punct de Centrare Fascicul:** Angle CR 15° caudad, centered to 1½ inches (4 cm) superior to upside EAM (to pass through downside Articulații Temporomandibulare (ATM)). Center IR to projected CR.
+    - **Poziție Pacient:** Pacient: pacient poziție este Ortostatism sau semiprone (Ortostatism este preferred if pacient’s condition allows). Rest lateral aspect de cap against table/ în ortostatism imaging device surface, cu side de interest closest la receptorul de imagine.; Regiune anatomică: Prevent tilt prin maintaining linie interpupilară (LIP) perpendicular pe receptorul de imagine. MSP este paralel cu receptorul de imagine la start. Align linie infraorbitomeatală (LIOM) perpendicular la front edge de receptorul de imagine (Fig. 11.177). de la Incidență de Profil (lateral), rotate face spre receptorul de imagine 15° (cu MSP de cap rotit 15° de la plane de receptorul de imagine). Closed- și openmouth incidențe sunt often taken la evidențiază range de mișcare de Articulații Temporomandibulare (ATM) (Fig. 11.178).
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° caudal (spre picioare), centrat pe 1½ inches (4 cm) superior la upside conduct auditiv extern (CAE) (la pass through downside Articulații Temporomandibulare (ATM)). Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. TEMPOROMANDIBULAR JOINTS ROUTINE AP axial (modified Incidență AP Axială (Metoda Towne)) SPECIAL Axiolateral 15° oblique (modified law method) Axiolateral (Schuller) Orthopantomography
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. TEMPOROMANDIBULAR articulații ROUTINE AP axial (modified Incidență AP Axială (Metoda Towne)) SPECIAL Axiolateral 15° oblic (modified law method) Axiolateral (Schuller) Orthopantomography
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,20 +132,20 @@ title: Rx TEMPOROMANDIBULAR JOINT AXIOLATERAL Oblică (MODIFIED LAW METHOD)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Articulații Temporomandibulare (ATM) nearest IR is visible.
-    - Closedmouth image demonstrates condyle within mandibular fossa; the condyle moves to the anterior margin (articular tubercle) of the mandibular fossa in the openmouth position (Figs. 11.179 and 11.180). Position:
-    - Correctly positioned images demonstrate Articulații Temporomandibulare (ATM) closest to IR clearly, without superimposition of opposite Articulații Temporomandibulare (ATM) (15° rotation prevents superimposition).
-    - Articulații Temporomandibulare (ATM) of interest is not superimposed by Coloană Cervicală.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize Articulații Temporomandibulare (ATM).
-    - Sharp bony margins indicate no motion. Fig. 11.179 Articulații Temporomandibulare (ATM)—closed mouth. Right condyle Right EAM Right Articulații Temporomandibulare (ATM) (downside, side of interest) Fig. 11.180 Articulații Temporomandibulare (ATM)—closed mouth. Fig. 11.177 Right Articulații Temporomandibulare (ATM)—closed mouth; 15° oblique; CR 15° caudad. Fig. 11.178 Right Articulații Temporomandibulare (ATM)—open mouth; 15° oblique; CR 15° caudad.
+    - Articulații Temporomandibulare (ATM) nearest receptorul de imagine este vizibil.
+    - Closedmouth imagine evidențiază condyle within mandibular fossa; condyle moves la anterior margin (articular tubercle) de mandibular fossa în openmouth poziție (Figs. 11.179 și 11.180). poziție:
+    - Correctly poziționat imagini evidențiază Articulații Temporomandibulare (ATM) closest la receptorul de imagine clearly, fără superimposition de opposite Articulații Temporomandibulare (ATM) (15° rotație prevents superimposition).
+    - Articulații Temporomandibulare (ATM) de interest este nu superimposed prin Coloană Cervicală.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize Articulații Temporomandibulare (ATM).
+    - net bony margins indicate fără mișcare. Fig. 11.179 Articulații Temporomandibulare (ATM)—gură închisă. drept condyle drept conduct auditiv extern (CAE) drept Articulații Temporomandibulare (ATM) (downside, side de interest) Fig. 11.180 Articulații Temporomandibulare (ATM)—gură închisă. Fig. 11.177 drept Articulații Temporomandibulare (ATM)—gură închisă; 15° oblic; raza centrală 15° caudal. Fig. 11.178 drept Articulații Temporomandibulare (ATM)—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,33 +165,33 @@ title: Rx TEMPOROMANDIBULAR JOINT AXIOLATERAL Oblică (MODIFIED LAW METHOD)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.179 Articulații Temporomandibulare (ATM)—closed mouth.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_1.jpeg)
+![Fig. 11.179 Articulații Temporomandibulare (ATM)—gură închisă.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.179 Articulații Temporomandibulare (ATM)—closed mouth.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.179 TMJ—closed mouth.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.180 Articulații Temporomandibulare (ATM)—closed mouth.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.180 Articulații Temporomandibulare (ATM)—closed mouth.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.180 TMJ—closed mouth.)</span></figcaption>
+<figcaption><strong>Fig. 11.179 Articulații Temporomandibulare (ATM)—gură închisă.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.179 TMJ—gură închisă.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.177 Right Articulații Temporomandibulare (ATM)—closed mouth; 15° oblique; CR 15° caudad.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_3.jpeg)
+![Fig. 11.180 Articulații Temporomandibulare (ATM)—gură închisă.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.177 Right Articulații Temporomandibulare (ATM)—closed mouth; 15° oblique; CR 15° caudad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.177 Right TMJ—closed mouth; 15° oblique; CR 15° caudad.)</span></figcaption>
+<figcaption><strong>Fig. 11.180 Articulații Temporomandibulare (ATM)—gură închisă.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.180 TMJ—gură închisă.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.178 Right Articulații Temporomandibulare (ATM)—open mouth; 15° oblique; CR 15° caudad.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_4.jpeg)
+![Fig. 11.177 drept Articulații Temporomandibulare (ATM)—gură închisă; 15° oblic; raza centrală 15° caudal.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 11.178 Right Articulații Temporomandibulare (ATM)—open mouth; 15° oblique; CR 15° caudad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.178 Right TMJ—open mouth; 15° oblique; CR 15° caudad.)</span></figcaption>
+<figcaption><strong>Fig. 11.177 drept Articulații Temporomandibulare (ATM)—gură închisă; 15° oblic; raza centrală 15° caudal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.177 drept TMJ—gură închisă; 15° oblic; raza centrală 15° caudal.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.178 drept Articulații Temporomandibulare (ATM)—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.](../../assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 11.178 drept Articulații Temporomandibulare (ATM)—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.178 drept TMJ—gură deschisă (transorală); 15° oblic; raza centrală 15° caudal.)</span></figcaption>
 
 </figure>
 

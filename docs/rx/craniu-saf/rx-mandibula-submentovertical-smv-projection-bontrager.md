@@ -1,12 +1,13 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine or IOML
-  (see NOTE). Center CR to a point midway between angles of Mandibulă or at a level
-  1½ inches (4 cm) inferior to mandibular symphysis. Center IR to projected CR.
+centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine sau linie
+  infraorbitomeatală (LIOM) (see NOTE). Center raza centrală la point midway între
+  angles de Mandibulă sau la level 1½ inches (4 cm) inferior la mandibular simfiză.
+  Se centrează receptorul de imagine pe proiecția razei centrale.
 clinical_indications:
-- suspiciune de fractură and neoplastic or inflammatory process of Mandibulă
+- suspiciune de fractură și neoplastic sau inflammatory process de Mandibulă
 images:
 - caption: Fig. 11.166 SMV—Mandibulă.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.166 SMV—mandible.)
@@ -21,16 +22,17 @@ images:
   url: assets/images/protocols/bontrager/rx-mandibula-submentovertical-smv-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If patient is unable to extend the neck sufficiently, angle tube to align Raza
-  centrală perpendiculară to ioMl. This position is very uncomfortable for the patient;
-  complete the projection as quickly as possible. Mandibulă SPECIAL SMV Orthopantomography
-  (Mandibulă or TMJs or both)
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Patient
-  position is Ortostatism or Decubit Dorsal (Ortostatism preferred, if patient’s condition
-  allows). Ortostatism may be done with an upright imaging device (Fig. 11.166).;
-  Regiune anatomică: Hyperextend neck until ioMl is parallel to IR. Rest head on vertex
-  of Craniu. Align MsP perpendicular to midline of grid or table/upright imaging device
-  surface to prevent head rotation or tilt.'
+notes: If pacient este unable la se extinde neck sufficiently, angle tube la align
+  Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). This poziție este
+  very uncomfortable pentru pacientul; complete incidență ca quickly ca possible.
+  Mandibulă SPECIAL SMV Orthopantomography (Mandibulă sau TMJs sau ambele)
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. pacient poziție este Ortostatism sau Decubit dorsal (Ortostatism
+  preferred, if pacient’s condition allows). Ortostatism poate fie done cu în ortostatism
+  imaging device (Fig. 11.166).; Regiune anatomică: Hyperextend neck until linie infraorbitomeatală
+  (LIOM) este paralel cu receptorul de imagine. Rest cap pe vertex de Craniu. Align
+  MsP perpendicular la midline de grilă sau table/în ortostatism imaging device surface
+  la prevent cap rotație sau tilt.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,20 +40,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Mandibulă and coronoid and condyloid processes are demonstrated (Figs. 11.167
-  and 11.168). Position:'
-- 'Correct neck extension is indicated by the following: mandibular symphysis superimposing
-  frontal bone; mandibular condyles projected anterior to petrous ridges.'
-- 'no patient rotation or tilt is indicated by the following: no tilt as evidenced
-  by equal distance from Mandibulă to lateral border of Craniu; Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase as evidenced by symmetric
-  mandibular condyles.'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the Mandibulă
-  superimposed on the Craniu.
-- Sharp bony margins indicate no motion. Fig. 11.166 SMV—Mandibulă. Mandibulă Petrous
-  pyramids Condyloid process (includes head and neck) Coronoid process Mentum and
-  mandibular symphysis Fig. 11.168 SMV—Mandibulă. Fig. 11.167 SMV—Mandibulă.
+- 'Entire Mandibulă și coronoid și condyloid processes sunt evidențiat (Figs. 11.167
+  și 11.168). poziție:'
+- 'Correct neck extension este indicated prin following: mandibular simfiză superimposing
+  frontal bone; mandibular condyles projected anterior la stânci temporale (piramide
+  pietroase).'
+- 'fără pacient rotație sau tilt este indicated prin following: fără tilt ca evidenced
+  prin equal distance de la Mandibulă la lateral margine de Craniu; Absența rotației
+  anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced
+  prin simetric mandibular condyles.'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize Mandibulă
+  superimposed pe Craniu.
+- net bony margins indicate fără mișcare. Fig. 11.166 SMV—Mandibulă. Mandibulă stânci
+  temporale (piramide pietroase) Condyloid process (includes cap și neck) proces coronoid
+  Mentum și mandibular simfiză Fig. 11.168 SMV—Mandibulă. Fig. 11.167 SMV—Mandibulă.
 sid_dff: 100 cm
 slug: rx-mandibula-submentovertical-smv-projection-bontrager
 sources:
@@ -59,15 +62,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
+title: Rx Mandibulă SUBMENTOVERTICAL (SMV) Incidență
 ---
-# Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
+# Rx Mandibulă SUBMENTOVERTICAL (SMV) Incidență
 
 
 <div class="rx-meta-bar">
@@ -86,7 +89,7 @@ title: Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and neoplastic or inflammatory process of Mandibulă
+        - suspiciune de fractură și neoplastic sau inflammatory process de Mandibulă
 
     === "Ghid Național IRIS"
 
@@ -100,10 +103,10 @@ title: Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Patient position is Ortostatism or Decubit Dorsal (Ortostatism preferred, if patient’s condition allows). Ortostatism may be done with an upright imaging device (Fig. 11.166).; Regiune anatomică: Hyperextend neck until ioMl is parallel to IR. Rest head on vertex of Craniu. Align MsP perpendicular to midline of grid or table/upright imaging device surface to prevent head rotation or tilt.
-    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine or IOML (see NOTE). Center CR to a point midway between angles of Mandibulă or at a level 1½ inches (4 cm) inferior to mandibular symphysis. Center IR to projected CR.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Ortostatism sau Decubit dorsal (Ortostatism preferred, if pacient’s condition allows). Ortostatism poate fie done cu în ortostatism imaging device (Fig. 11.166).; Regiune anatomică: Hyperextend neck until linie infraorbitomeatală (LIOM) este paralel cu receptorul de imagine. Rest cap pe vertex de Craniu. Align MsP perpendicular la midline de grilă sau table/în ortostatism imaging device surface la prevent cap rotație sau tilt.
+    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine sau linie infraorbitomeatală (LIOM) (see NOTE). Center raza centrală la point midway între angles de Mandibulă sau la level 1½ inches (4 cm) inferior la mandibular simfiză. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -117,19 +120,19 @@ title: Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Mandibulă and coronoid and condyloid processes are demonstrated (Figs. 11.167 and 11.168). Position:
-    - Correct neck extension is indicated by the following: mandibular symphysis superimposing frontal bone; mandibular condyles projected anterior to petrous ridges.
-    - no patient rotation or tilt is indicated by the following: no tilt as evidenced by equal distance from Mandibulă to lateral border of Craniu; Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evidenced by symmetric mandibular condyles.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the Mandibulă superimposed on the Craniu.
-    - Sharp bony margins indicate no motion. Fig. 11.166 SMV—Mandibulă. Mandibulă Petrous pyramids Condyloid process (includes head and neck) Coronoid process Mentum and mandibular symphysis Fig. 11.168 SMV—Mandibulă. Fig. 11.167 SMV—Mandibulă.
+    - Entire Mandibulă și coronoid și condyloid processes sunt evidențiat (Figs. 11.167 și 11.168). poziție:
+    - Correct neck extension este indicated prin following: mandibular simfiză superimposing frontal bone; mandibular condyles projected anterior la stânci temporale (piramide pietroase).
+    - fără pacient rotație sau tilt este indicated prin following: fără tilt ca evidenced prin equal distance de la Mandibulă la lateral margine de Craniu; Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin simetric mandibular condyles.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize Mandibulă superimposed pe Craniu.
+    - net bony margins indicate fără mișcare. Fig. 11.166 SMV—Mandibulă. Mandibulă stânci temporale (piramide pietroase) Condyloid process (includes cap și neck) proces coronoid Mentum și mandibular simfiză Fig. 11.168 SMV—Mandibulă. Fig. 11.167 SMV—Mandibulă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,7 +145,7 @@ title: Rx Mandibulă SUBMENTOVERTICAL (SMV) PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If patient is unable to extend the neck sufficiently, angle tube to align Raza centrală perpendiculară to ioMl. This position is very uncomfortable for the patient; complete the projection as quickly as possible. Mandibulă SPECIAL SMV Orthopantomography (Mandibulă or TMJs or both)
+    If pacient este unable la se extinde neck sufficiently, angle tube la align Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). This poziție este very uncomfortable pentru pacientul; complete incidență ca quickly ca possible. Mandibulă SPECIAL SMV Orthopantomography (Mandibulă sau TMJs sau ambele)
 
 
 ### 🖼️ Imagini

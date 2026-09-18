@@ -1,21 +1,22 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Apnee în inspir profund complet (după a doua inspirație). Alternative
-  Lordotic Projection If patient is weak and unstable or is unable to assume the Ortostatism
-  lordotic position, an AP semiaxial projection may be taken with the patient in a
-  Decubit Dorsal position (Fig. 2.71). Shoulders are rolled forward and arms positioned
-  as for lordotic position. The CR is directed 15 to 20 degrees cephalad, to the midsternum.
-  Torace SPECIAL AP upright or semierect Lateral decubitus (AP) AP lordotic Fig. 2.70
-  AP lordotic position. Fig. 2.71 Alternative: semiaxial AP. Fig. 2.72 AP lordotic.'
+breathing: 'Apnee în inspir profund complet (după doua inspirație). Alternative Lordotic
+  incidență If pacient este weak și unstable sau este unable la assume Ortostatism
+  lordotic poziție, AP semiaxial incidență poate fie taken cu pacientul în Decubit
+  dorsal poziție (Fig. 2.71). umeri sunt rolled forward și brațe poziționat ca pentru
+  lordotic poziție. raza centrală este orientat 15 la 20 grade cranial, la midsternum.
+  Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP) AP lordotic
+  Fig. 2.70 AP lordotic poziție. Fig. 2.71 Alternative: semiaxial AP. Fig. 2.72 AP
+  lordotic.'
 category: torace
-centering: perpendicular to IR, centered to midsternum (3 to 4 inches [9 cm] below
-  incizura jugulară (manubriul sternal))
+centering: perpendicular pe receptorul de imagine, centrat pe midsternum (3 la 4 inches
+  [9 cm] below incizura jugulară (manubriul sternal))
 clinical_indications:
-- Rule out calcifications and masses beneath the clavicles.
+- Rule out calcifications și masses beneath clavicles.
 images:
-- caption: Fig. 2.70 AP lordotic position.
+- caption: Fig. 2.70 AP lordotic poziție.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.70 AP lordotic
-    position.)
+    poziție.)
   url: assets/images/protocols/bontrager/rx-torace-lordotica-ap-bontrager/fig_1.jpeg
 - caption: 'Fig. 2.71 Alternative: semiaxial AP.'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.71
@@ -28,12 +29,13 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Patient standing about 1 Picior (30 cm) away from IR and leaning
-  back with shoulders, neck, and back of head against IR Both patient’s hands on hips,
-  palmele orientate spre exterior; shoulders rolled forward (Fig. 2.70); Regiune anatomică:
-  Center midsagittal plane to CR and to centerline of IR. Center cassette to CR (top
-  of IR should be about 3 inches [7 to 8 cm] above shoulders on an average patient).
-  Palpate clavicles to ensure they are at level or above shoulders.'
+position: 'Pacient: pacient în ortostatism about 1 Picior (30 cm) away de la receptorul
+  de imagine și leaning back cu umeri, neck, și back de cap against receptorul de
+  imagine ambele pacient’s mâini pe hips, palmele orientate spre exterior; umeri rolled
+  forward (Fig. 2.70); Regiune anatomică: Center plan mediosagital la raza centrală
+  și la centerline de receptorul de imagine. Center casetă la raza centrală (top de
+  receptorul de imagine trebuie să fie about 3 inches [7 la 8 cm] above umeri pe average
+  pacient). Palpate clavicles la ensure they sunt la level sau above umeri.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,20 +43,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire lung fields and clavicles should be included (Fig. 2.72). Position
-- Clavicles should appear nearly horizontal and above or superior to apices, with
-  medial aspects of clavicles superimposed by first Coaste (Grilaj Costal).
-- Coaste (Grilaj Costal) appear distorted, with posterior Coaste (Grilaj Costal) appearing
-  nearly horizontal and superimposing anterior Coaste (Grilaj Costal).
+- Entire câmpuri pulmonare și clavicles trebuie să fie included (Fig. 2.72). poziție
+- Clavicles trebuie să appear nearly orizontal și above sau superior la apexuri (vârfuri
+  pulmonare), cu medial aspects de clavicles superimposed prin first Coaste (Grilaj
+  Costal).
+- Coaste (Grilaj Costal) appear distorted, cu posterior Coaste (Grilaj Costal) appearing
+  nearly orizontal și superimposing anterior Coaste (Grilaj Costal).
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  Sternal ends of the clavicles should be the same distance from the vertebral column
-  on each side. The lateral borders of the Coaste (Grilaj Costal) on both sides should
-  appear to be at nearly equal distances from the vertebral column.'
-- Center of collimation field (CR) should be midsternum with collimation visible on
-  top and bottom. Exposure
-- No motion; diaphragm, heart, and rib outlines should appear sharp.
-- Optimal image receptor exposure and contrast should allow visualization of the faint
-  vascular markings of lungs, especially in area of the apices and upper lungs.
+  Sternal ends de clavicles trebuie să fie same distance de la coloană vertebrală
+  pe fiecare side. lateral margini de Coaste (Grilaj Costal) pe ambele părți (bilateral)
+  trebuie să appear la fie la nearly equal distances de la coloană vertebrală.'
+- Center de collimation field (raza centrală) trebuie să fie midsternum cu collimation
+  vizibil pe top și bottom. expunere
+- fără mișcare; cupole diafragmatice, heart, și rib outlines trebuie să appear net.
+- optim receptorul de imagine expunere și contrast trebuie să allow visualization
+  de faint vascular markings de plămâni, especially în area de apexuri (vârfuri pulmonare)
+  și upper plămâni.
 sid_dff: 180 cm
 slug: rx-torace-lordotica-ap-bontrager
 sources:
@@ -62,8 +66,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to area of lung fields (top border of light
-    field to level of vertebra proeminentă (apofiza spinoasă C7)).
+  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
+    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -90,7 +94,7 @@ title: Rx Torace Lordotică (AP)
 
     === "Indicații Clinice"
 
-        - Rule out calcifications and masses beneath the clavicles.
+        - Rule out calcifications și masses beneath clavicles.
 
     === "Ghid Național IRIS"
 
@@ -104,10 +108,10 @@ title: Rx Torace Lordotică (AP)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient standing about 1 Picior (30 cm) away from IR and leaning back with shoulders, neck, and back of head against IR Both patient’s hands on hips, palmele orientate spre exterior; shoulders rolled forward (Fig. 2.70); Regiune anatomică: Center midsagittal plane to CR and to centerline of IR. Center cassette to CR (top of IR should be about 3 inches [7 to 8 cm] above shoulders on an average patient). Palpate clavicles to ensure they are at level or above shoulders.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered to midsternum (3 to 4 inches [9 cm] below incizura jugulară (manubriul sternal))
+    - **Poziție Pacient:** Pacient: pacient în ortostatism about 1 Picior (30 cm) away de la receptorul de imagine și leaning back cu umeri, neck, și back de cap against receptorul de imagine ambele pacient’s mâini pe hips, palmele orientate spre exterior; umeri rolled forward (Fig. 2.70); Regiune anatomică: Center plan mediosagital la raza centrală și la centerline de receptorul de imagine. Center casetă la raza centrală (top de receptorul de imagine trebuie să fie about 3 inches [7 la 8 cm] above umeri pe average pacient). Palpate clavicles la ensure they sunt la level sau above umeri.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe midsternum (3 la 4 inches [9 cm] below incizura jugulară (manubriul sternal))
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație). Alternative Lordotic Projection If patient is weak and unstable or is unable to assume the Ortostatism lordotic position, an AP semiaxial projection may be taken with the patient in a Decubit Dorsal position (Fig. 2.71). Shoulders are rolled forward and arms positioned as for lordotic position. The CR is directed 15 to 20 degrees cephalad, to the midsternum. Torace SPECIAL AP upright or semierect Lateral decubitus (AP) AP lordotic Fig. 2.70 AP lordotic position. Fig. 2.71 Alternative: semiaxial AP. Fig. 2.72 AP lordotic.
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație). Alternative Lordotic incidență If pacient este weak și unstable sau este unable la assume Ortostatism lordotic poziție, AP semiaxial incidență poate fie taken cu pacientul în Decubit dorsal poziție (Fig. 2.71). umeri sunt rolled forward și brațe poziționat ca pentru lordotic poziție. raza centrală este orientat 15 la 20 grade cranial, la midsternum. Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP) AP lordotic Fig. 2.70 AP lordotic poziție. Fig. 2.71 Alternative: semiaxial AP. Fig. 2.72 AP lordotic.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,20 +125,20 @@ title: Rx Torace Lordotică (AP)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to area of lung fields (top border of light field to level of vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire lung fields and clavicles should be included (Fig. 2.72). Position
-    - Clavicles should appear nearly horizontal and above or superior to apices, with medial aspects of clavicles superimposed by first Coaste (Grilaj Costal).
-    - Coaste (Grilaj Costal) appear distorted, with posterior Coaste (Grilaj Costal) appearing nearly horizontal and superimposing anterior Coaste (Grilaj Costal).
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Sternal ends of the clavicles should be the same distance from the vertebral column on each side. The lateral borders of the Coaste (Grilaj Costal) on both sides should appear to be at nearly equal distances from the vertebral column.
-    - Center of collimation field (CR) should be midsternum with collimation visible on top and bottom. Exposure
-    - No motion; diaphragm, heart, and rib outlines should appear sharp.
-    - Optimal image receptor exposure and contrast should allow visualization of the faint vascular markings of lungs, especially in area of the apices and upper lungs.
+    - Entire câmpuri pulmonare și clavicles trebuie să fie included (Fig. 2.72). poziție
+    - Clavicles trebuie să appear nearly orizontal și above sau superior la apexuri (vârfuri pulmonare), cu medial aspects de clavicles superimposed prin first Coaste (Grilaj Costal).
+    - Coaste (Grilaj Costal) appear distorted, cu posterior Coaste (Grilaj Costal) appearing nearly orizontal și superimposing anterior Coaste (Grilaj Costal).
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Sternal ends de clavicles trebuie să fie same distance de la coloană vertebrală pe fiecare side. lateral margini de Coaste (Grilaj Costal) pe ambele părți (bilateral) trebuie să appear la fie la nearly equal distances de la coloană vertebrală.
+    - Center de collimation field (raza centrală) trebuie să fie midsternum cu collimation vizibil pe top și bottom. expunere
+    - fără mișcare; cupole diafragmatice, heart, și rib outlines trebuie să appear net.
+    - optim receptorul de imagine expunere și contrast trebuie să allow visualization de faint vascular markings de plămâni, especially în area de apexuri (vârfuri pulmonare) și upper plămâni.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,9 +158,9 @@ title: Rx Torace Lordotică (AP)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.70 AP lordotic position.](../../assets/images/protocols/bontrager/rx-torace-lordotica-ap-bontrager/fig_1.jpeg)
+![Fig. 2.70 AP lordotic poziție.](../../assets/images/protocols/bontrager/rx-torace-lordotica-ap-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.70 AP lordotic position.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.70 AP lordotic position.)</span></figcaption>
+<figcaption><strong>Fig. 2.70 AP lordotic poziție.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.70 AP lordotic poziție.)</span></figcaption>
 
 </figure>
 

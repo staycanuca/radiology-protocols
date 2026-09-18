@@ -2,11 +2,11 @@
 author: Departamentul de Radiologie
 breathing: Nemodificată
 category: craniu-saf
-centering: La 1-1.5 cm sub nasion (rădăcina nasului)
+centering: La 1-1.5 cm sub nazion (rădăcina nasului)
 clinical_indications:
 - Traumatism facial direct cu epistaxis, deformare nazală și suspiciune de fractură
   de oase proprii nazale
-- Evaluare medico-legală a fracturilor nazale recente
+- Evaluare medico-legală fracturilor nazale recente
 iris_reference:
   chapter: Traumatisme — Față și orbite
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
@@ -16,17 +16,39 @@ modality: rx
 notes: Se efectuează întotdeauna ambele profile (drept și stâng) pentru comparație
   anatomică și certitudine diagnostică.
 position: 'Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața
-  laterală a nasului paralelă cu detectorul fără rotație'
+  laterală nasului paralelă cu detectorul fără rotație'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
   automată din template.
 - Colimare ultra-restrânsă
 quality_criteria:
-- Vizualizarea fină a corticalei anterioare și a suturii nazo-frontale
+- Vizualizarea fină corticalei anterioare și suturii nazo-frontale
 - Spina nazală anterioară și cartilajele septale vizibile
 - Absența suprapunerii cu arcadele dentare superioare
 sid_dff: 100 cm
 slug: rx-oase-nazale-opn
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial (EUR 16260)
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR
+  kind: Standard de practică clinică
+  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
+  source_region: US
+  title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Radiopaedia
+  kind: Ghid tehnic de poziționare
+  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
+  source_region: Internațional
+  title: Radiopaedia — X-ray Positioning and Projections Reference
+  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Manual
   collimation: Colimare foarte strânsă (câmp de 6 x 6 cm)
@@ -36,35 +58,13 @@ tech_params:
   kv: 45 - 50 (tehnică de părți moi / os fin)
   mas: 3 - 5
 title: Rx Oase Proprii Nazale (OPN)
-sources:
-- title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial (EUR 16260)
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
-- title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
-  institution: ACR
-  source_region: US
-  kind: Standard de practică clinică
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
-- title: Radiopaedia — X-ray Positioning and Projections Reference
-  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
-  institution: Radiopaedia
-  source_region: Internațional
-  kind: Ghid tehnic de poziționare
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
 ---
-
 # Rx Oase Proprii Nazale (OPN)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -79,7 +79,7 @@ sources:
     === "Indicații Clinice"
 
         - Traumatism facial direct cu epistaxis, deformare nazală și suspiciune de fractură de oase proprii nazale
-        - Evaluare medico-legală a fracturilor nazale recente
+        - Evaluare medico-legală fracturilor nazale recente
 
     === "Ghid Național IRIS"
 
@@ -93,8 +93,8 @@ sources:
 
     ---
 
-    - **Poziție Pacient:** Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața laterală a nasului paralelă cu detectorul fără rotație
-    - **Punct de Centrare Fascicul:** La 1-1.5 cm sub nasion (rădăcina nasului)
+    - **Poziție Pacient:** Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața laterală nasului paralelă cu detectorul fără rotație
+    - **Punct de Centrare Fascicul:** La 1-1.5 cm sub nazion (rădăcina nasului)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
 
@@ -117,7 +117,7 @@ sources:
 
     ---
 
-    - Vizualizarea fină a corticalei anterioare și a suturii nazo-frontale
+    - Vizualizarea fină corticalei anterioare și suturii nazo-frontale
     - Spina nazală anterioară și cartilajele septale vizibile
     - Absența suprapunerii cu arcadele dentare superioare
 
@@ -125,7 +125,6 @@ sources:
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
     - Colimare ultra-restrânsă
 
@@ -142,8 +141,9 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
-- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf) — *ACR* (US)
-- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1) — *Radiopaedia* (Internațional)
+## Surse de documentare
+
+- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)
+- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf)
+- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1)

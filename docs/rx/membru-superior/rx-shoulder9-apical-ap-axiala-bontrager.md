@@ -1,14 +1,14 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Umăr (Nontraumatism acut) SPECIAL
-  AP Incidență Oblică (Grashey method) Apical Incidență AP Axială
+breathing: Apnee pe durata expunerii. Umăr (Nontraumatism acut) SPECIAL AP Incidență
+  Oblică (Grashey method) Apical Incidență AP Axială
 category: membru-superior
 centering: 30° caudal Fig. 5.62 Apical Incidență AP Axială.
 clinical_indications:
-- Demonstrate narrowing of acromiohumeral space and possible spurring of the anteroinferior
-  aspect of acromion. Spurring may lead to injury to supraspinatus tendon partial
-  or complete tears.
-- May demonstrate signs of Umăr impingement syndrome
+- evidențiază narrowing de acromiohumeral space și possible spurring de anteroinferior
+  aspect de acromion. Spurring poate lead la injury la supraspinatus tendon partial
+  sau complete tears.
+- poate evidențiază signs de Umăr impingement syndrome
 images:
 - caption: Fig. 5.63 Apical AP axial.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.63 Apical AP
@@ -16,23 +16,23 @@ images:
   url: assets/images/protocols/bontrager/rx-shoulder9-apical-ap-axiala-bontrager/fig_1.jpeg
 - caption: Fig. 5.64 Apical Incidență AP Axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.64
-    Apical AP axial projection.)
+    Apical AP axial incidență.)
   url: assets/images/protocols/bontrager/rx-shoulder9-apical-ap-axiala-bontrager/fig_2.jpeg
 - caption: Fig. 5.62 Apical Incidență AP Axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.62
-    Apical AP axial projection.)
+    Apical AP axial incidență.)
   url: assets/images/protocols/bontrager/rx-shoulder9-apical-ap-axiala-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Perform radiograph with patient in an Ortostatism or a Decubit
-  position. (The Ortostatism position is usually less painful for patient, if condition
-  allows.); Regiune anatomică: Position patient into AP, Ortostatism position with
-  Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
-  Extend and slightly abduct arm and Mână is placed into neutral rotation. Adjust
-  image receptor so that top of IR is approximately 1 inch (2.5 cm) above Umăr and
-  side of IR is approximately 2 inches (5 cm) from lateral border of Humerus (Fig.
-  5.62).'
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit poziție.
+  (Ortostatism poziție este usually less painful pentru pacient, if condition allows.);
+  Regiune anatomică: poziție pacient into AP, Ortostatism poziție cu Absența rotației
+  anatomice: clavicule echidistante față de linia apofizelor spinoase. Extend și slightly
+  abduct braț și Mână este plasat into neutral rotație. Adjust receptorul de imagine
+  so that top de receptorul de imagine este approximately 1 inch (2.5 cm) above Umăr
+  și side de receptorul de imagine este approximately 2 inches (5 cm) de la lateral
+  margine de Humerus (Fig. 5.62).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,17 +40,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'The anteroinferior aspect of the acromion process and acromiohumeral joint space
-  is open (Figs. 5.63 and 5.64). Position:'
-- Proximal Humerus is projected in neutral rotation position.
-- Acromiohumeral space is more open compared with routine AP Umăr projection.
-- 'Anteroinferior aspect of acromion is demonstrated. Exposure:'
-- Optimal image receptor exposure and contrast with no motion visualize soft tissue
-  margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de
-  mișcare.
-- Soft tissue detail of the acromiohumeral space. Fig. 5.63 Apical AP axial. Superior
-  scapular border Scapular spine Acromiohumeral joint space Acromion process Humeral
-  head Fig. 5.64 Apical Incidență AP Axială.
+- 'anteroinferior aspect de acromion și acromiohumeral spații articulare este open
+  (Figs. 5.63 și 5.64). poziție:'
+- proximal Humerus este projected în neutral rotație poziție.
+- Acromiohumeral space este more open compared cu routine AP Umăr incidență.
+- 'Anteroinferior aspect de acromion este evidențiat. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare visualize părți
+  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+  de mișcare.
+- părți moi detail de acromiohumeral space. Fig. 5.63 Apical AP axial. superior scapular
+  margine Scapular coloană vertebrală Acromiohumeral spații articulare acromion cap
+  humeral Fig. 5.64 Apical Incidență AP Axială.
 sid_dff: 100 cm
 slug: rx-shoulder9-apical-ap-axiala-bontrager
 sources:
@@ -58,8 +58,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate so that upper and lateral borders of the field
-    are to the soft tissue margins.
+  collimation: Field Size Collimate so that upper și lateral margini de field sunt
+    la părți moi margins.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -86,8 +86,8 @@ title: Rx SHOULDER9 APICAL AP Axială
 
     === "Indicații Clinice"
 
-        - Demonstrate narrowing of acromiohumeral space and possible spurring of the anteroinferior aspect of acromion. Spurring may lead to injury to supraspinatus tendon partial or complete tears.
-        - May demonstrate signs of Umăr impingement syndrome
+        - evidențiază narrowing de acromiohumeral space și possible spurring de anteroinferior aspect de acromion. Spurring poate lead la injury la supraspinatus tendon partial sau complete tears.
+        - poate evidențiază signs de Umăr impingement syndrome
 
     === "Ghid Național IRIS"
 
@@ -101,10 +101,10 @@ title: Rx SHOULDER9 APICAL AP Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in an Ortostatism or a Decubit position. (The Ortostatism position is usually less painful for patient, if condition allows.); Regiune anatomică: Position patient into AP, Ortostatism position with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. Extend and slightly abduct arm and Mână is placed into neutral rotation. Adjust image receptor so that top of IR is approximately 1 inch (2.5 cm) above Umăr and side of IR is approximately 2 inches (5 cm) from lateral border of Humerus (Fig. 5.62).
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition allows.); Regiune anatomică: poziție pacient into AP, Ortostatism poziție cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. Extend și slightly abduct braț și Mână este plasat into neutral rotație. Adjust receptorul de imagine so that top de receptorul de imagine este approximately 1 inch (2.5 cm) above Umăr și side de receptorul de imagine este approximately 2 inches (5 cm) de la lateral margine de Humerus (Fig. 5.62).
     - **Punct de Centrare Fascicul:** 30° caudal Fig. 5.62 Apical Incidență AP Axială.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Umăr (Nontraumatism acut) SPECIAL AP Incidență Oblică (Grashey method) Apical Incidență AP Axială
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Umăr (Nontraumatism acut) SPECIAL AP Incidență Oblică (Grashey method) Apical Incidență AP Axială
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -118,19 +118,19 @@ title: Rx SHOULDER9 APICAL AP Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate so that upper and lateral borders of the field are to the soft tissue margins. |
+    | **Colimare Fascicul** | Field Size Collimate so that upper și lateral margini de field sunt la părți moi margins. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - The anteroinferior aspect of the acromion process and acromiohumeral joint space is open (Figs. 5.63 and 5.64). Position:
-    - Proximal Humerus is projected in neutral rotation position.
-    - Acromiohumeral space is more open compared with routine AP Umăr projection.
-    - Anteroinferior aspect of acromion is demonstrated. Exposure:
-    - Optimal image receptor exposure and contrast with no motion visualize soft tissue margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - Soft tissue detail of the acromiohumeral space. Fig. 5.63 Apical AP axial. Superior scapular border Scapular spine Acromiohumeral joint space Acromion process Humeral head Fig. 5.64 Apical Incidență AP Axială.
+    - anteroinferior aspect de acromion și acromiohumeral spații articulare este open (Figs. 5.63 și 5.64). poziție:
+    - proximal Humerus este projected în neutral rotație poziție.
+    - Acromiohumeral space este more open compared cu routine AP Umăr incidență.
+    - Anteroinferior aspect de acromion este evidențiat. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare visualize părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
+    - părți moi detail de acromiohumeral space. Fig. 5.63 Apical AP axial. superior scapular margine Scapular coloană vertebrală Acromiohumeral spații articulare acromion cap humeral Fig. 5.64 Apical Incidență AP Axială.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,7 +160,7 @@ title: Rx SHOULDER9 APICAL AP Axială
 
 ![Fig. 5.64 Apical Incidență AP Axială.](../../assets/images/protocols/bontrager/rx-shoulder9-apical-ap-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.64 Apical Incidență AP Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.64 Apical AP axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 5.64 Apical Incidență AP Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.64 Apical AP axial incidență.)</span></figcaption>
 
 </figure>
 
@@ -168,7 +168,7 @@ title: Rx SHOULDER9 APICAL AP Axială
 
 ![Fig. 5.62 Apical Incidență AP Axială.](../../assets/images/protocols/bontrager/rx-shoulder9-apical-ap-axiala-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.62 Apical Incidență AP Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.62 Apical AP axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 5.62 Apical Incidență AP Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.62 Apical AP axial incidență.)</span></figcaption>
 
 </figure>
 

@@ -1,18 +1,19 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration to limit patient motion.
+breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
+  pacientului.
 category: membru-inferior
-centering: Fig. 9.42 AP axial L5–S1—35° cephalad.
+centering: Fig. 9.42 AP axial L5–S1—35° cranial.
 clinical_indications:
-- Pathology of L5–S1 and the sacroiliac joints
+- Pathology de L5–S1 și sacroiliac articulații
 images:
-- caption: Fig. 9.42 AP axial L5–S1—35° cephalad.
+- caption: Fig. 9.42 AP axial L5–S1—35° cranial.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.42 AP axial
-    L5–S1—35° cephalad.)
+    L5–S1—35° cranial.)
   url: assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_1.jpeg
-- caption: Fig. 9.43 AP axial L5–S1—35° cephalad.
+- caption: Fig. 9.43 AP axial L5–S1—35° cranial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.43
-    AP axial L5–S1—35° cephalad.)
+    AP axial L5–S1—35° cranial.)
   url: assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_2.jpeg
 - caption: Fig. 9.44 AP axial L5–S1.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.44
@@ -20,16 +21,17 @@ images:
   url: assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Angled Incidență Antero-Posterioară (AP) “opens” L5–S1 joint. Lateral view
-  of L5–S1 generally provides more information than the Incidență Antero-Posterioară
-  (AP). This projection also may be performed Decubit Ventral with caudal angle of
-  CR (increases object–image receptor distance [OID]). Coloană Lombară SPECIAL AP
-  axial L5–S1 30°-35°'
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side and head on pillow, and legs extended, with support under knees for comfort.;
-  Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR
-  (Fig. 9.42). Ensure that Absența rotației anatomice: clavicule echidistante față
-  de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.'
+notes: 'S: înclinat Incidență Antero-Posterioară (AP) “opens” L5–S1 articulație. lateral
+  incidență de L5–S1 generally provides more information than Incidență Antero-Posterioară
+  (AP). This incidență also poate fie performed Decubit ventral cu caudal angle de
+  raza centrală (increases object–receptorul de imagine distance [OID]). Coloană Lombară
+  SPECIAL AP axial L5–S1 30°-35°'
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side
+  și cap pe pillow, și membre inferioare extins, cu support under genunchi pentru
+  comfort.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană
+  mesei și/sau receptorul de imagine (Fig. 9.42). Se verifică absența rotației: claviculele
+  sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin
+  (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -37,14 +39,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- L5–S1 joint space and sacroiliac joints (Figs. 9.43 and 9.44). Position
-- Sacroiliac joints demonstrate equal distance from spine, indicating no pelvic rotation.
-- Correct alignment of CR and L5–S1 evidenced by an open joint space.
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of L5–S1 region.
-- no motion. R Fig. 9.43 AP axial L5–S1—35° cephalad. Lumbosacral (L5-S1) intervertebral
-  joint Sacroiliac joint R Fig. 9.44 AP axial L5–S1. 24 18 R
+- L5–S1 spații articulare și sacroiliac articulații (Figs. 9.43 și 9.44). poziție
+- Sacroiliac articulații evidențiază equal distance de la coloană vertebrală, indicating
+  fără pelvic rotație.
+- Correct alignment de raza centrală și L5–S1 evidenced prin open spații articulare.
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de L5–S1 region.
+- fără mișcare. R Fig. 9.43 AP axial L5–S1—35° cranial. Lumbosacral (L5-S1) intervertebral
+  articulație Sacroiliac articulație R Fig. 9.44 AP axial L5–S1. 24 18 R
 sid_dff: 100 cm
 slug: rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager
 sources:
@@ -52,15 +55,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
+title: Rx S1 Incidență AP AXIAL L5 (Coloană Lombară)
 ---
-# Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
+# Rx S1 Incidență AP AXIAL L5 (Coloană Lombară)
 
 
 <div class="rx-meta-bar">
@@ -79,7 +82,7 @@ title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
 
     === "Indicații Clinice"
 
-        - Pathology of L5–S1 and the sacroiliac joints
+        - Pathology de L5–S1 și sacroiliac articulații
 
     === "Ghid Național IRIS"
 
@@ -93,10 +96,10 @@ title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side and head on pillow, and legs extended, with support under knees for comfort.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR (Fig. 9.42). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** Fig. 9.42 AP axial L5–S1—35° cephalad.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side și cap pe pillow, și membre inferioare extins, cu support under genunchi pentru comfort.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 9.42). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** Fig. 9.42 AP axial L5–S1—35° cranial.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration to limit patient motion.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -110,19 +113,19 @@ title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - L5–S1 joint space and sacroiliac joints (Figs. 9.43 and 9.44). Position
-    - Sacroiliac joints demonstrate equal distance from spine, indicating no pelvic rotation.
-    - Correct alignment of CR and L5–S1 evidenced by an open joint space.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of L5–S1 region.
-    - no motion. R Fig. 9.43 AP axial L5–S1—35° cephalad. Lumbosacral (L5-S1) intervertebral joint Sacroiliac joint R Fig. 9.44 AP axial L5–S1. 24 18 R
+    - L5–S1 spații articulare și sacroiliac articulații (Figs. 9.43 și 9.44). poziție
+    - Sacroiliac articulații evidențiază equal distance de la coloană vertebrală, indicating fără pelvic rotație.
+    - Correct alignment de raza centrală și L5–S1 evidenced prin open spații articulare.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de L5–S1 region.
+    - fără mișcare. R Fig. 9.43 AP axial L5–S1—35° cranial. Lumbosacral (L5-S1) intervertebral articulație Sacroiliac articulație R Fig. 9.44 AP axial L5–S1. 24 18 R
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -135,7 +138,7 @@ title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Angled Incidență Antero-Posterioară (AP) “opens” L5–S1 joint. Lateral view of L5–S1 generally provides more information than the Incidență Antero-Posterioară (AP). This projection also may be performed Decubit Ventral with caudal angle of CR (increases object–image receptor distance [OID]). Coloană Lombară SPECIAL AP axial L5–S1 30°-35°
+    S: înclinat Incidență Antero-Posterioară (AP) “opens” L5–S1 articulație. lateral incidență de L5–S1 generally provides more information than Incidență Antero-Posterioară (AP). This incidență also poate fie performed Decubit ventral cu caudal angle de raza centrală (increases object–receptorul de imagine distance [OID]). Coloană Lombară SPECIAL AP axial L5–S1 30°-35°
 
 
 ### 🖼️ Imagini
@@ -144,17 +147,17 @@ title: Rx S1 PROJECTION AP AXIAL L5 (Coloană Lombară)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.42 AP axial L5–S1—35° cephalad.](../../assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_1.jpeg)
+![Fig. 9.42 AP axial L5–S1—35° cranial.](../../assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.42 AP axial L5–S1—35° cephalad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.42 AP axial L5–S1—35° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 9.42 AP axial L5–S1—35° cranial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.42 AP axial L5–S1—35° cranial.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.43 AP axial L5–S1—35° cephalad.](../../assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_2.jpeg)
+![Fig. 9.43 AP axial L5–S1—35° cranial.](../../assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.43 AP axial L5–S1—35° cephalad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.43 AP axial L5–S1—35° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 9.43 AP axial L5–S1—35° cranial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.43 AP axial L5–S1—35° cranial.)</span></figcaption>
 
 </figure>
 

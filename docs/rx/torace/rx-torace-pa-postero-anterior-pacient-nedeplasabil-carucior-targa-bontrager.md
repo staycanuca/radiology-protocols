@@ -1,40 +1,41 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Make exposure on second Inspir profund adecvat: minim 9-10 arcuri costale
+breathing: 'Make expunere pe second Inspir profund adecvat: minim 9-10 arcuri costale
   posterioare vizibile.'
 category: torace
-centering: perpendicular to the IR and centered to the midsagittal plane at the level
-  of T7 (7 to 8 inches [18 to 20 cm] below vertebra proeminentă (apofiza spinoasă
-  C7) or to the inferior angles of scapulae) Cassette centered to level of CR
+centering: perpendicular pe receptorul de imagine (RI) și centrat pe planul mediosagital
+  la nivelul T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă (apofiza spinoasă
+  C7) sau la inferior angles de scapulae) casetă centrat pe level de raza centrală
 clinical_indications:
-- When performed Ortostatism, PA demonstrates revărsat pleural (pleurezie), pneumotorax,
-  atelectazie pulmonară, and semne de infecție respiratorie (pneumonie, bronhopneumonie).
+- When performed Ortostatism, PA evidențiază revărsat pleural (pleurezie), pneumotorax,
+  atelectazie pulmonară, și semne de infecție respiratorie (pneumonie, bronhopneumonie).
 images:
-- caption: Fig. 2.56 PA Torace (patient Poziție Șezândă, holding cassette-
+- caption: Fig. 2.56 PA Torace (pacient Poziție Șezândă, menținerea casetă-
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.56 PA chest
-    (patient seated, holding cassette-)
+    (pacient așezat pe scaun, menținerea casetă-)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg
 - caption: Fig. 2.57 PA Torace.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.57
     PA chest.)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_2.jpeg
-- caption: Fig. 2.55 PA Torace (patient Poziție Șezândă, Torace against wall bucky).
+- caption: Fig. 2.55 PA Torace (pacient Poziție Șezândă, Torace against perete bucky).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.55
-    PA chest (patient seated, chest against wall bucky).)
+    PA chest (pacient așezat pe scaun, chest against perete bucky).)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Use a compression band or other means to ensure that patient is stable and
-  will not waver or move during exposure. Torace ROUTINE PA Lateral
-position: 'Pacient: Patient Ortostatism, Poziție Șezândă on cart, legs over the edge
-  (Fig. 2.55) Arms around cassette unless a Torace IR device is used, then position
-  as for an Pacient Mobil / Cooperant (Ortostatism) Shoulders rotated forward and
-  downward; Regiune anatomică: Asigurarea lipsei rotației toracelui (simetrie bilaterală).
-  Adjust height of IR so that top of IR is about 1½ to 2 inches (4 to 5 cm) above
-  top of shoulders and CR is at T7. If portable image receptor is used because patient
-  cannot be placed up against wall bucky, place pillow or padding on lap to raise
-  and support image receptor as shown, but keep it against Torace for minimum object–image
-  receptor distance (OID) (Fig. 2.56).'
+notes: Use compression band sau other means la ensure that pacient este stable și
+  will nu waver sau move during expunere. Torace ROUTINE PA lateral
+position: 'Pacient: pacient Ortostatism, Poziție Șezândă pe cart, membre inferioare
+  over edge (Fig. 2.55) brațe around casetă unless Torace receptorul de imagine device
+  este used, then poziție ca pentru Pacient Mobil / Cooperant (Ortostatism) umeri
+  rotit forward și downward; Regiune anatomică: Asigurarea lipsei rotației toracelui
+  (simetrie bilaterală). Adjust height de receptorul de imagine so that top de receptorul
+  de imagine este about 1½ la 2 inches (4 la 5 cm) above top de umeri și raza centrală
+  este la T7. If portable receptorul de imagine este used because pacient cannot fie
+  plasat up against perete bucky, place pillow sau padding pe lap la raise și support
+  receptorul de imagine ca vizualizat, but keep it against Torace pentru minimum object–receptorul
+  de imagine distance (OID) (Fig. 2.56).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,10 +43,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Radiograph should appear similar to ambulatory PA Torace, as described on preceding
-  page (Fig. 2.57). Fig. 2.56 PA Torace (patient Poziție Șezândă, holding cassetteless
-  detector). L Fig. 2.57 PA Torace. 35 43 L 43 35 L Fig. 2.55 PA Torace (patient Poziție
-  Șezândă, Torace against wall bucky).
+- radiografie trebuie să appear similar la ambulatory PA Torace, ca described pe preceding
+  page (Fig. 2.57). Fig. 2.56 PA Torace (pacient Poziție Șezândă, menținerea cassetteless
+  detector). L Fig. 2.57 PA Torace. 35 43 L 43 35 L Fig. 2.55 PA Torace (pacient Poziție
+  Șezândă, Torace against perete bucky).
 sid_dff: 180 cm
 slug: rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager
 sources:
@@ -53,10 +54,10 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to area of lung fields. Upper border of illuminated field
-    should be to the level of vertebra proeminentă (apofiza spinoasă C7), which with
-    divergent rays will result in upper collimation border on IR to about 1½ inches
-    (3.5 cm) above apex of lungs.
+  collimation: Collimate la area de câmpuri pulmonare. Upper margine de illuminated
+    field trebuie să fie la level de vertebra proeminentă (apofiza spinoasă C7), which
+    cu divergent rays will result în upper collimation margine pe receptorul de imagine
+    la about 1½ inches (3.5 cm) above apex de plămâni.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -83,7 +84,7 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
 
     === "Indicații Clinice"
 
-        - When performed Ortostatism, PA demonstrates revărsat pleural (pleurezie), pneumotorax, atelectazie pulmonară, and semne de infecție respiratorie (pneumonie, bronhopneumonie).
+        - When performed Ortostatism, PA evidențiază revărsat pleural (pleurezie), pneumotorax, atelectazie pulmonară, și semne de infecție respiratorie (pneumonie, bronhopneumonie).
 
     === "Ghid Național IRIS"
 
@@ -97,10 +98,10 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Ortostatism, Poziție Șezândă on cart, legs over the edge (Fig. 2.55) Arms around cassette unless a Torace IR device is used, then position as for an Pacient Mobil / Cooperant (Ortostatism) Shoulders rotated forward and downward; Regiune anatomică: Asigurarea lipsei rotației toracelui (simetrie bilaterală). Adjust height of IR so that top of IR is about 1½ to 2 inches (4 to 5 cm) above top of shoulders and CR is at T7. If portable image receptor is used because patient cannot be placed up against wall bucky, place pillow or padding on lap to raise and support image receptor as shown, but keep it against Torace for minimum object–image receptor distance (OID) (Fig. 2.56).
-    - **Punct de Centrare Fascicul:** perpendicular to the IR and centered to the midsagittal plane at the level of T7 (7 to 8 inches [18 to 20 cm] below vertebra proeminentă (apofiza spinoasă C7) or to the inferior angles of scapulae) Cassette centered to level of CR
+    - **Poziție Pacient:** Pacient: pacient Ortostatism, Poziție Șezândă pe cart, membre inferioare over edge (Fig. 2.55) brațe around casetă unless Torace receptorul de imagine device este used, then poziție ca pentru Pacient Mobil / Cooperant (Ortostatism) umeri rotit forward și downward; Regiune anatomică: Asigurarea lipsei rotației toracelui (simetrie bilaterală). Adjust height de receptorul de imagine so that top de receptorul de imagine este about 1½ la 2 inches (4 la 5 cm) above top de umeri și raza centrală este la T7. If portable receptorul de imagine este used because pacient cannot fie plasat up against perete bucky, place pillow sau padding pe lap la raise și support receptorul de imagine ca vizualizat, but keep it against Torace pentru minimum object–receptorul de imagine distance (OID) (Fig. 2.56).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și centrat pe planul mediosagital la nivelul T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă (apofiza spinoasă C7) sau la inferior angles de scapulae) casetă centrat pe level de raza centrală
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Make exposure on second Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile.
+    - **Comandă Respiratorie:** Make expunere pe second Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,14 +115,14 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to area of lung fields. Upper border of illuminated field should be to the level of vertebra proeminentă (apofiza spinoasă C7), which with divergent rays will result in upper collimation border on IR to about 1½ inches (3.5 cm) above apex of lungs. |
+    | **Colimare Fascicul** | Collimate la area de câmpuri pulmonare. Upper margine de illuminated field trebuie să fie la level de vertebra proeminentă (apofiza spinoasă C7), which cu divergent rays will result în upper collimation margine pe receptorul de imagine la about 1½ inches (3.5 cm) above apex de plămâni. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Radiograph should appear similar to ambulatory PA Torace, as described on preceding page (Fig. 2.57). Fig. 2.56 PA Torace (patient Poziție Șezândă, holding cassetteless detector). L Fig. 2.57 PA Torace. 35 43 L 43 35 L Fig. 2.55 PA Torace (patient Poziție Șezândă, Torace against wall bucky).
+    - radiografie trebuie să appear similar la ambulatory PA Torace, ca described pe preceding page (Fig. 2.57). Fig. 2.56 PA Torace (pacient Poziție Șezândă, menținerea cassetteless detector). L Fig. 2.57 PA Torace. 35 43 L 43 35 L Fig. 2.55 PA Torace (pacient Poziție Șezândă, Torace against perete bucky).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -134,7 +135,7 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Use a compression band or other means to ensure that patient is stable and will not waver or move during exposure. Torace ROUTINE PA Lateral
+    Use compression band sau other means la ensure that pacient este stable și will nu waver sau move during expunere. Torace ROUTINE PA lateral
 
 
 ### 🖼️ Imagini
@@ -143,9 +144,9 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.56 PA Torace (patient Poziție Șezândă, holding cassette-](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg)
+![Fig. 2.56 PA Torace (pacient Poziție Șezândă, menținerea casetă-](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.56 PA Torace (patient Poziție Șezândă, holding cassette-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.56 PA chest (patient seated, holding cassette-)</span></figcaption>
+<figcaption><strong>Fig. 2.56 PA Torace (pacient Poziție Șezândă, menținerea casetă-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.56 PA chest (pacient așezat pe scaun, menținerea casetă-)</span></figcaption>
 
 </figure>
 
@@ -159,9 +160,9 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Nedeplasabil / Cărucior / Targ�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.55 PA Torace (patient Poziție Șezândă, Torace against wall bucky).](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg)
+![Fig. 2.55 PA Torace (pacient Poziție Șezândă, Torace against perete bucky).](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 2.55 PA Torace (patient Poziție Șezândă, Torace against wall bucky).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.55 PA chest (patient seated, chest against wall bucky).)</span></figcaption>
+<figcaption><strong>Fig. 2.55 PA Torace (pacient Poziție Șezândă, Torace against perete bucky).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.55 PA chest (pacient așezat pe scaun, chest against perete bucky).)</span></figcaption>
 
 </figure>
 

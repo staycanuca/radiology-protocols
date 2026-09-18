@@ -1,46 +1,46 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on inspiration.
+breathing: Apnee pe durata expunerii pe inspiration.
 category: torace
-centering: is perpendicular to IR and directed to center of Stern (midway between
-  the incizura jugulară (manubriul sternal) and xiphoid process). For traumatism acuttism
-  / Regim Urgență situations, see Adaptation section.
+centering: este perpendicular pe receptorul de imagine și orientat la center de Stern
+  (midway între incizura jugulară (manubriul sternal) și apendice xifoid). pentru
+  traumatism acuttism / Regim Urgență situations, see Adaptation section.
 clinical_indications:
-- Pathology of the Stern, including suspiciune de fractură and inflammatory processes
+- Pathology de Stern, including suspiciune de fractură și inflammatory processes
 images:
-- caption: Fig. 10.23 Lateral—Ortostatism. Inset, Lateral Decubit.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.23 Lateral—erect.
-    Inset, Lateral recumbent.)
+- caption: Fig. 10.23 lateral—Ortostatism. Inset, lateral Decubit.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.23 lateral—în
+    ortostatism. Inset, lateral recumbent.)
   url: assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_1.jpeg
-- caption: Fig. 10.24 Horizontal beam lateral.
+- caption: Fig. 10.24 orizontal fascicul lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.24
-    Horizontal beam lateral.)
+    orizontal fascicul lateral.)
   url: assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_2.jpeg
-- caption: Fig. 10.25 Lateral Stern.
+- caption: Fig. 10.25 lateral Stern.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.25
-    Lateral sternum.)
+    lateral sternum.)
   url: assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_3.jpeg
-- caption: Fig. 10.26 Lateral Stern.
+- caption: Fig. 10.26 lateral Stern.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.26
-    Lateral sternum.)
+    lateral sternum.)
   url: assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If positioning patient Decubit (Fig. 10.24), place him or her on the side with
-  arms up above head and keeping shoulders back. A support sponge may be placed under
-  the lower thorax to place the Stern horizontal and parallel to IR. Large, pendulous
-  breasts of female patients may be drawn to the sides and held in position with a
-  wide bandage if necessary. Adaptation The lateral image can be obtained with the
-  use of a horizontal xray beam with patient in the Decubit Dorsal position if patient’s
-  condition warrants this modification (Fig. 10.24). AEC not recommended 24 (30) (35)
-  Stern ROUTINE RAO Lateral
-position: 'Pacient: Ortostatism (preferred) or lateral Decubit (see; Regiune anatomică:
-  Ortostatism Position patient standing or Poziție Șezândă in a true lateral with
-  the midsagittal plane (MSP) parallel to the IR, and shoulders and arms drawn back.
-  (Fig. 10.23). Place top of IR 1½ inches (4 cm) above the incizura jugulară (manubriul
-  sternal). Align long axis of Stern to CR and midline of grid or table/ upright bucky.
-  Ensure a true lateral, with Absența rotației anatomice: clavicule echidistante față
-  de linia apofizelor spinoase.'
+notes: If positioning pacient Decubit (Fig. 10.24), place him sau her pe side cu brațe
+  up above cap și keeping umeri back. support sponge poate fie plasat under lower
+  thorax la place Stern orizontal și paralel cu receptorul de imagine. Large, pendulous
+  breasts de female pacienți poate fie drawn la sides și held în poziție cu wide bandage
+  if necessary. Adaptation lateral imagine poate fie obtained cu use de orizontal
+  xray fascicul cu pacient în Decubit dorsal poziție if pacient’s condition warrants
+  this modification (Fig. 10.24). AEC nu recommended 24 (30) (35) Stern ROUTINE RAO
+  lateral
+position: 'Pacient: Ortostatism (preferred) sau lateral Decubit (see; Regiune anatomică:
+  Ortostatism poziție pacient în ortostatism sau Poziție Șezândă în true lateral cu
+  planul mediosagital (MSP) paralel cu receptorul de imagine (RI), și umeri și brațe
+  drawn back. (Fig. 10.23). Place top de receptorul de imagine 1½ inches (4 cm) above
+  incizura jugulară (manubriul sternal). Align axa longitudinală de Stern la raza
+  centrală și midline de grilă sau table/ stativ vertical Bucky. Ensure true lateral,
+  cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,16 +48,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Stern with minimal overlap of soft tissues (Figs. 10.25 and 10.26). Position:'
-- 'Correct patient position with Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase demonstrates the following:'
-- Entire Stern with no superimposition of the Coaste (Grilaj Costal).
-- Lower aspect of Stern not obscured by breasts of female patient.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the entire Stern.
-- no motion, indicated by sharp bony margins. Fig. 10.23 Lateral—Ortostatism. Inset,
-  Lateral Decubit. Fig. 10.24 Horizontal beam lateral. L Fig. 10.25 Lateral Stern.
-  L Xiphoid process Body Sternal angle Manubrium Fig. 10.26 Lateral Stern.
+- 'Entire Stern cu minimal overlap de soft tissues (Figs. 10.25 și 10.26). poziție:'
+- 'Correct pacient poziție cu Absența rotației anatomice: clavicule echidistante față
+  de linia apofizelor spinoase evidențiază following:'
+- Entire Stern cu fără superimposition de Coaste (Grilaj Costal).
+- Lower aspect de Stern nu obscured prin breasts de female pacient.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize entire Stern.
+- fără mișcare, indicated prin net bony margins. Fig. 10.23 lateral—Ortostatism. Inset,
+  lateral Decubit. Fig. 10.24 orizontal fascicul lateral. L Fig. 10.25 lateral Stern.
+  L apendice xifoid corp Sternal angle manubriu sternal Fig. 10.26 lateral Stern.
 sid_dff: 100 cm
 slug: rx-r-or-l-lateral-profil-lateral-stern-bontrager
 sources:
@@ -65,7 +65,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Long, narrow collimation field size, to region of Stern
+  collimation: Long, narrow collimation field size, la region de Stern
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10 cm cu grilă)
@@ -92,7 +92,7 @@ title: Rx R OR L LATERAL Profil (Lateral) (Stern)
 
     === "Indicații Clinice"
 
-        - Pathology of the Stern, including suspiciune de fractură and inflammatory processes
+        - Pathology de Stern, including suspiciune de fractură și inflammatory processes
 
     === "Ghid Național IRIS"
 
@@ -106,10 +106,10 @@ title: Rx R OR L LATERAL Profil (Lateral) (Stern)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism (preferred) or lateral Decubit (see; Regiune anatomică: Ortostatism Position patient standing or Poziție Șezândă in a true lateral with the midsagittal plane (MSP) parallel to the IR, and shoulders and arms drawn back. (Fig. 10.23). Place top of IR 1½ inches (4 cm) above the incizura jugulară (manubriul sternal). Align long axis of Stern to CR and midline of grid or table/ upright bucky. Ensure a true lateral, with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR and directed to center of Stern (midway between the incizura jugulară (manubriul sternal) and xiphoid process). For traumatism acuttism / Regim Urgență situations, see Adaptation section.
+    - **Poziție Pacient:** Pacient: Ortostatism (preferred) sau lateral Decubit (see; Regiune anatomică: Ortostatism poziție pacient în ortostatism sau Poziție Șezândă în true lateral cu planul mediosagital (MSP) paralel cu receptorul de imagine (RI), și umeri și brațe drawn back. (Fig. 10.23). Place top de receptorul de imagine 1½ inches (4 cm) above incizura jugulară (manubriul sternal). Align axa longitudinală de Stern la raza centrală și midline de grilă sau table/ stativ vertical Bucky. Ensure true lateral, cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine și orientat la center de Stern (midway între incizura jugulară (manubriul sternal) și apendice xifoid). pentru traumatism acuttism / Regim Urgență situations, see Adaptation section.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on inspiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe inspiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,20 +123,20 @@ title: Rx R OR L LATERAL Profil (Lateral) (Stern)
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Long, narrow collimation field size, to region of Stern |
+    | **Colimare Fascicul** | Long, narrow collimation field size, la region de Stern |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Stern with minimal overlap of soft tissues (Figs. 10.25 and 10.26). Position:
-    - Correct patient position with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase demonstrates the following:
-    - Entire Stern with no superimposition of the Coaste (Grilaj Costal).
-    - Lower aspect of Stern not obscured by breasts of female patient.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the entire Stern.
-    - no motion, indicated by sharp bony margins. Fig. 10.23 Lateral—Ortostatism. Inset, Lateral Decubit. Fig. 10.24 Horizontal beam lateral. L Fig. 10.25 Lateral Stern. L Xiphoid process Body Sternal angle Manubrium Fig. 10.26 Lateral Stern.
+    - Entire Stern cu minimal overlap de soft tissues (Figs. 10.25 și 10.26). poziție:
+    - Correct pacient poziție cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase evidențiază following:
+    - Entire Stern cu fără superimposition de Coaste (Grilaj Costal).
+    - Lower aspect de Stern nu obscured prin breasts de female pacient.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize entire Stern.
+    - fără mișcare, indicated prin net bony margins. Fig. 10.23 lateral—Ortostatism. Inset, lateral Decubit. Fig. 10.24 orizontal fascicul lateral. L Fig. 10.25 lateral Stern. L apendice xifoid corp Sternal angle manubriu sternal Fig. 10.26 lateral Stern.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,7 +149,7 @@ title: Rx R OR L LATERAL Profil (Lateral) (Stern)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If positioning patient Decubit (Fig. 10.24), place him or her on the side with arms up above head and keeping shoulders back. A support sponge may be placed under the lower thorax to place the Stern horizontal and parallel to IR. Large, pendulous breasts of female patients may be drawn to the sides and held in position with a wide bandage if necessary. Adaptation The lateral image can be obtained with the use of a horizontal xray beam with patient in the Decubit Dorsal position if patient’s condition warrants this modification (Fig. 10.24). AEC not recommended 24 (30) (35) Stern ROUTINE RAO Lateral
+    If positioning pacient Decubit (Fig. 10.24), place him sau her pe side cu brațe up above cap și keeping umeri back. support sponge poate fie plasat under lower thorax la place Stern orizontal și paralel cu receptorul de imagine. Large, pendulous breasts de female pacienți poate fie drawn la sides și held în poziție cu wide bandage if necessary. Adaptation lateral imagine poate fie obtained cu use de orizontal xray fascicul cu pacient în Decubit dorsal poziție if pacient’s condition warrants this modification (Fig. 10.24). AEC nu recommended 24 (30) (35) Stern ROUTINE RAO lateral
 
 
 ### 🖼️ Imagini
@@ -158,33 +158,33 @@ title: Rx R OR L LATERAL Profil (Lateral) (Stern)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.23 Lateral—Ortostatism. Inset, Lateral Decubit.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_1.jpeg)
+![Fig. 10.23 lateral—Ortostatism. Inset, lateral Decubit.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.23 Lateral—Ortostatism. Inset, Lateral Decubit.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.23 Lateral—erect. Inset, Lateral recumbent.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 10.24 Horizontal beam lateral.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 10.24 Horizontal beam lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.24 Horizontal beam lateral.)</span></figcaption>
+<figcaption><strong>Fig. 10.23 lateral—Ortostatism. Inset, lateral Decubit.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.23 lateral—în ortostatism. Inset, lateral recumbent.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.25 Lateral Stern.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_3.jpeg)
+![Fig. 10.24 orizontal fascicul lateral.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.25 Lateral Stern.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.25 Lateral sternum.)</span></figcaption>
+<figcaption><strong>Fig. 10.24 orizontal fascicul lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.24 orizontal fascicul lateral.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.26 Lateral Stern.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_4.jpeg)
+![Fig. 10.25 lateral Stern.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 10.26 Lateral Stern.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.26 Lateral sternum.)</span></figcaption>
+<figcaption><strong>Fig. 10.25 lateral Stern.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.25 lateral sternum.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 10.26 lateral Stern.](../../assets/images/protocols/bontrager/rx-r-or-l-lateral-profil-lateral-stern-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 10.26 lateral Stern.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.26 lateral sternum.)</span></figcaption>
 
 </figure>
 

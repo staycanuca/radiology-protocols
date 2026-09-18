@@ -2,49 +2,49 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: 'Distal Humerus: Raza centrală (RC) perpendiculară pe receptorul de imagine
-  and Humerus, directed to a point midway between epicondyles (Fig. 4.129) proximal
-  Antebraț: Raza centrală perpendiculară to Antebraț (angling CR as needed), directed
-  to a point approximately 2 inches (5 cm) proximal or superior to olecranon process
-  (Fig. 4.130)'
+centering: 'distal Humerus: Raza centrală (RC) perpendiculară pe receptorul de imagine
+  și Humerus, orientat la point midway între epicondyles (Fig. 4.129) proximal Antebraț:
+  Raza centrală perpendiculară la Antebraț (angling raza centrală ca needed), orientat
+  la point approximately 2 inches (5 cm) proximal sau superior la olecran (Fig. 4.130)'
 clinical_indications:
-- suspiciune de fractură and moderate luxație / subluxație articulară of the Cot in
-  acute flexion when the Cot cannot be extended to any degree
+- suspiciune de fractură și moderate luxație / subluxație articulară de Cot în acute
+  flexion when Cot cannot fie extins la orice grade
 images:
-- caption: Fig. 4.129 For distal Humerus—Raza centrală perpendiculară to Humerus.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.129 For distal
-    humerus—CR perpendicular to humerus.)
+- caption: Fig. 4.129 pentru distal Humerus—Raza centrală perpendiculară la Humerus.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.129 pentru distal
+    humerus—raza centrală perpendicular la humerus.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_1.jpeg
-- caption: Fig. 4.130 For proximal Antebraț—Raza centrală perpendiculară to Antebraț.
+- caption: Fig. 4.130 pentru proximal Antebraț—Raza centrală perpendiculară la Antebraț.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.130
-    For proximal forearm—CR perpendicular to forearm.)
+    pentru proximal forearm—raza centrală perpendicular la forearm.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_2.jpeg
-- caption: Fig. 4.133 Distal Humerus.
+- caption: Fig. 4.133 distal Humerus.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.133
-    Distal humerus.)
+    distal humerus.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_3.jpeg
-- caption: Fig. 4.132 Proximal Antebraț.
+- caption: Fig. 4.132 proximal Antebraț.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.132
-    Proximal forearm.)
+    proximal forearm.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_4.jpeg
-- caption: Fig. 4.131 Distal Humerus.
+- caption: Fig. 4.131 distal Humerus.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.131
-    Distal humerus.)
+    distal humerus.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_5.jpeg
-- caption: Fig. 4.134 Proximal Antebraț.
+- caption: Fig. 4.134 proximal Antebraț.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.134
-    Proximal forearm.)
+    proximal forearm.)
   url: assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_6.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To visualize both the distal Humerus and the proximal radius and ulna, two
-  projections are required—one with Raza centrală perpendiculară to the Humerus and
-  one with CR angled so that it is perpendicular to the Antebraț.
-position: 'Pacient: Seat patient at end of table, with acutely flexed arm resting
-  on IR.; Regiune anatomică: Align and center Humerus to long axis of IR, with Antebraț
-  acutely flexed and fingertips resting on Umăr. Adjust IR to center of Cot joint
-  region. Palpate humeral epicondyles and ensure interepicondylar plane is parallel
-  to IR for Absența rotației anatomice: clavicule echidistante față de linia apofizelor
+notes: la visualize ambele distal Humerus și proximal radius și ulna, two incidențe
+  sunt required—one cu Raza centrală perpendiculară la Humerus și one cu raza centrală
+  înclinat so that it este perpendicular pe Antebraț.
+position: 'Pacient: Seat pacient la end de table, cu acutely flectat braț resting
+  pe receptorul de imagine.; Regiune anatomică: Align și center Humerus la axa longitudinală
+  de receptorul de imagine, cu Antebraț acutely flectat și fingertips resting pe Umăr.
+  Adjust receptorul de imagine la center de Cot articulație region. Palpate humeral
+  epicondyles și ensure interepicondylar plane este paralel cu receptorul de imagine
+  pentru Absența rotației anatomice: clavicule echidistante față de linia apofizelor
   spinoase.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
@@ -53,22 +53,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Foursided collimation field size borders should be visible with CR and center of
-  collimation field size midway between epicondyles. Distal Humerus:'
-- Antebraț and Humerus should be directly superimposed.
-- Medial and lateral epicondyles and parts of trochlea, capitulum, and olecranon process
-  all should be seen in profile.
-- Optimal exposure should visualize distal Humerus and olecranon process through superimposed
+- 'Foursided collimation field size margini trebuie să fie vizibil cu raza centrală
+  și center de collimation field size midway între epicondyles. distal Humerus:'
+- Antebraț și Humerus trebuie să fie directly superimposed.
+- medial și lateral epicondyles și parts de trochlea, capitulum, și olecran toate
+  trebuie să fie seen în profile.
+- optim expunere trebuie să visualize distal Humerus și olecran through superimposed
   structures.
-- 'Soft tissue detail is not readily visible on either projection (Figs. 4.131 and
-  4.133). Proximal Antebraț:'
-- Proximal ulna and radius, including outline of radial head and neck, should be visible
-  through superimposed distal Humerus.
-- Optimal exposure visualizes outlines of proximal ulna and radius superimposed over
-  Humerus (Figs. 4.132 and 4.134). Olecranon Medial epicondyle Radial neck Ulna Fig.
-  4.133 Distal Humerus. R Fig. 4.132 Proximal Antebraț. R Fig. 4.131 Distal Humerus.
-  Olecranon process Medial epicondyle Radial neck Ulna Lateral epicondyle Fig. 4.134
-  Proximal Antebraț.
+- 'părți moi detail este nu readily vizibil pe either incidență (Figs. 4.131 și 4.133).
+  proximal Antebraț:'
+- proximal ulna și radius, including outline de cap radial și neck, trebuie să fie
+  vizibil through superimposed distal Humerus.
+- optim expunere visualizes outlines de proximal ulna și radius superimposed over
+  Humerus (Figs. 4.132 și 4.134). olecran epicondil medial (epitrohlee) col radial
+  Ulna Fig. 4.133 distal Humerus. R Fig. 4.132 proximal Antebraț. R Fig. 4.131 distal
+  Humerus. olecran epicondil medial (epitrohlee) col radial Ulna epicondil lateral
+  Fig. 4.134 proximal Antebraț.
 sid_dff: 100 cm
 slug: rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager
 sources:
@@ -76,18 +76,19 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to anatomy of interest. Cot ROUTINE
-    AP Alternate AP—partial flexion Alternate AP—acute flexion Oblique Lateral (external)
-    Medial (internal) Lateral Fig. 4.129 For distal Humerus—Raza centrală perpendiculară
-    to Humerus. Fig. 4.130 For proximal Antebraț—Raza centrală perpendiculară to Antebraț.
+  collimation: Field Size Collimate pe four sides la anatomy de interest. Cot ROUTINE
+    AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern)
+    medial (intern) lateral Fig. 4.129 pentru distal Humerus—Raza centrală perpendiculară
+    la Humerus. Fig. 4.130 pentru proximal Antebraț—Raza centrală perpendiculară la
+    Antebraț.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '70'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
+title: Rx Cot ACUTE FLEXION Incidență (AP Incidență OF Cot IN ACUTE FLEXION)
 ---
-# Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
+# Rx Cot ACUTE FLEXION Incidență (AP Incidență OF Cot IN ACUTE FLEXION)
 
 
 <div class="rx-meta-bar">
@@ -106,7 +107,7 @@ title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and moderate luxație / subluxație articulară of the Cot in acute flexion when the Cot cannot be extended to any degree
+        - suspiciune de fractură și moderate luxație / subluxație articulară de Cot în acute flexion when Cot cannot fie extins la orice grade
 
     === "Ghid Național IRIS"
 
@@ -120,8 +121,8 @@ title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with acutely flexed arm resting on IR.; Regiune anatomică: Align and center Humerus to long axis of IR, with Antebraț acutely flexed and fingertips resting on Umăr. Adjust IR to center of Cot joint region. Palpate humeral epicondyles and ensure interepicondylar plane is parallel to IR for Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
-    - **Punct de Centrare Fascicul:** Distal Humerus: Raza centrală (RC) perpendiculară pe receptorul de imagine and Humerus, directed to a point midway between epicondyles (Fig. 4.129) proximal Antebraț: Raza centrală perpendiculară to Antebraț (angling CR as needed), directed to a point approximately 2 inches (5 cm) proximal or superior to olecranon process (Fig. 4.130)
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu acutely flectat braț resting pe receptorul de imagine.; Regiune anatomică: Align și center Humerus la axa longitudinală de receptorul de imagine, cu Antebraț acutely flectat și fingertips resting pe Umăr. Adjust receptorul de imagine la center de Cot articulație region. Palpate humeral epicondyles și ensure interepicondylar plane este paralel cu receptorul de imagine pentru Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
+    - **Punct de Centrare Fascicul:** distal Humerus: Raza centrală (RC) perpendiculară pe receptorul de imagine și Humerus, orientat la point midway între epicondyles (Fig. 4.129) proximal Antebraț: Raza centrală perpendiculară la Antebraț (angling raza centrală ca needed), orientat la point approximately 2 inches (5 cm) proximal sau superior la olecran (Fig. 4.130)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -137,20 +138,20 @@ title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. Cot ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion Oblique Lateral (external) Medial (internal) Lateral Fig. 4.129 For distal Humerus—Raza centrală perpendiculară to Humerus. Fig. 4.130 For proximal Antebraț—Raza centrală perpendiculară to Antebraț. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. Cot ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern) medial (intern) lateral Fig. 4.129 pentru distal Humerus—Raza centrală perpendiculară la Humerus. Fig. 4.130 pentru proximal Antebraț—Raza centrală perpendiculară la Antebraț. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Foursided collimation field size borders should be visible with CR and center of collimation field size midway between epicondyles. Distal Humerus:
-    - Antebraț and Humerus should be directly superimposed.
-    - Medial and lateral epicondyles and parts of trochlea, capitulum, and olecranon process all should be seen in profile.
-    - Optimal exposure should visualize distal Humerus and olecranon process through superimposed structures.
-    - Soft tissue detail is not readily visible on either projection (Figs. 4.131 and 4.133). Proximal Antebraț:
-    - Proximal ulna and radius, including outline of radial head and neck, should be visible through superimposed distal Humerus.
-    - Optimal exposure visualizes outlines of proximal ulna and radius superimposed over Humerus (Figs. 4.132 and 4.134). Olecranon Medial epicondyle Radial neck Ulna Fig. 4.133 Distal Humerus. R Fig. 4.132 Proximal Antebraț. R Fig. 4.131 Distal Humerus. Olecranon process Medial epicondyle Radial neck Ulna Lateral epicondyle Fig. 4.134 Proximal Antebraț.
+    - Foursided collimation field size margini trebuie să fie vizibil cu raza centrală și center de collimation field size midway între epicondyles. distal Humerus:
+    - Antebraț și Humerus trebuie să fie directly superimposed.
+    - medial și lateral epicondyles și parts de trochlea, capitulum, și olecran toate trebuie să fie seen în profile.
+    - optim expunere trebuie să visualize distal Humerus și olecran through superimposed structures.
+    - părți moi detail este nu readily vizibil pe either incidență (Figs. 4.131 și 4.133). proximal Antebraț:
+    - proximal ulna și radius, including outline de cap radial și neck, trebuie să fie vizibil through superimposed distal Humerus.
+    - optim expunere visualizes outlines de proximal ulna și radius superimposed over Humerus (Figs. 4.132 și 4.134). olecran epicondil medial (epitrohlee) col radial Ulna Fig. 4.133 distal Humerus. R Fig. 4.132 proximal Antebraț. R Fig. 4.131 distal Humerus. olecran epicondil medial (epitrohlee) col radial Ulna epicondil lateral Fig. 4.134 proximal Antebraț.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -163,7 +164,7 @@ title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To visualize both the distal Humerus and the proximal radius and ulna, two projections are required—one with Raza centrală perpendiculară to the Humerus and one with CR angled so that it is perpendicular to the Antebraț.
+    la visualize ambele distal Humerus și proximal radius și ulna, two incidențe sunt required—one cu Raza centrală perpendiculară la Humerus și one cu raza centrală înclinat so that it este perpendicular pe Antebraț.
 
 
 ### 🖼️ Imagini
@@ -172,49 +173,49 @@ title: Rx Cot ACUTE FLEXION PROJECTIONS (AP PROJECTIONS OF Cot IN ACUTE FLEXION)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.129 For distal Humerus—Raza centrală perpendiculară to Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_1.jpeg)
+![Fig. 4.129 pentru distal Humerus—Raza centrală perpendiculară la Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.129 For distal Humerus—Raza centrală perpendiculară to Humerus.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.129 For distal humerus—CR perpendicular to humerus.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.130 For proximal Antebraț—Raza centrală perpendiculară to Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.130 For proximal Antebraț—Raza centrală perpendiculară to Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.130 For proximal forearm—CR perpendicular to forearm.)</span></figcaption>
+<figcaption><strong>Fig. 4.129 pentru distal Humerus—Raza centrală perpendiculară la Humerus.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.129 pentru distal humerus—raza centrală perpendicular la humerus.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.133 Distal Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_3.jpeg)
+![Fig. 4.130 pentru proximal Antebraț—Raza centrală perpendiculară la Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.133 Distal Humerus.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.133 Distal humerus.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.132 Proximal Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.132 Proximal Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.132 Proximal forearm.)</span></figcaption>
+<figcaption><strong>Fig. 4.130 pentru proximal Antebraț—Raza centrală perpendiculară la Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.130 pentru proximal forearm—raza centrală perpendicular la forearm.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.131 Distal Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_5.jpeg)
+![Fig. 4.133 distal Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.131 Distal Humerus.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.131 Distal humerus.)</span></figcaption>
+<figcaption><strong>Fig. 4.133 distal Humerus.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.133 distal humerus.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.134 Proximal Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_6.jpeg)
+![Fig. 4.132 proximal Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.134 Proximal Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.134 Proximal forearm.)</span></figcaption>
+<figcaption><strong>Fig. 4.132 proximal Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.132 proximal forearm.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.131 distal Humerus.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.131 distal Humerus.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.131 distal humerus.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.134 proximal Antebraț.](../../assets/images/protocols/bontrager/rx-cot-acute-flexion-projections-ap-projections-of-cot-in-acute-flexion-bontrager/fig_6.jpeg)
+
+<figcaption><strong>Fig. 4.134 proximal Antebraț.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.134 proximal forearm.)</span></figcaption>
 
 </figure>
 

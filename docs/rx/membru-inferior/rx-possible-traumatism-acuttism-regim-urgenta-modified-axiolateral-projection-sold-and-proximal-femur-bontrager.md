@@ -1,25 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure.
+breathing: Apnee pe durata expunerii.
 category: membru-inferior
-centering: Angle CR mediolaterally as needed so that it is perpendicular to and centered
-  to femoral neck. It should be angled posteriorly 15 to 20 degrees from horizontal.
+centering: Angle raza centrală mediolaterally ca needed so that it este perpendicular
+  la și centrat pe col femural. It trebuie să fie înclinat posteriorly 15 la 20 grade
+  de la orizontal.
 clinical_indications:
-- Lateral oblique view is useful for assessment of possible Șold suspiciune de fractură
-  or with arthroplasty (surgery for Șold prosthesis) when the patient has limited
-  movement in both lower limbs and the inferosuperior projection cannot be obtained.
+- lateral oblic incidență este useful pentru assessment de possible Șold suspiciune
+  de fractură sau cu arthroplasty (surgery pentru Șold prosthesis) when pacientul
+  has limited movement în ambele lower limbs și inferosuperior incidență cannot fie
+  obtained.
 images:
-- caption: Fig. 7.79 Modiﬁed axiolateral—CR 15-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.79 Modiﬁed axiolateral—CR
-    15-)
+- caption: Fig. 7.79 Modified axiolateral—raza centrală 15-
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.79 Modified
+    axiolateral—raza centrală 15-)
   url: assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_1.jpeg
-- caption: Fig. 7.80 Modiﬁed axiolateral projection.
+- caption: Fig. 7.80 Modified axiolateral incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.80
-    Modiﬁed axiolateral projection.)
+    Modified axiolateral incidență.)
   url: assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_2.jpeg
-- caption: Fig. 7.81 Modiﬁed axiolateral projection.
+- caption: Fig. 7.81 Modified axiolateral incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.81
-    Modiﬁed axiolateral projection.)
+    Modified axiolateral incidență.)
   url: assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,10 +30,10 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: With patient Decubit Dorsal, position affected side near edge
-  of table with both legs fully extended. Provide pillow for head and place arms across
-  superior Torace.; Regiune anatomică: Maintain leg in neutral (anatomic) position
-  (15degree posterior'
+position: 'Pacient: cu pacient Decubit dorsal, poziție affected side near edge de
+  table cu ambele membre inferioare fully extins. Provide pillow pentru cap și place
+  brațe across superior Torace.; Regiune anatomică: Maintain membru inferior în neutral
+  (anatomic) poziție (15degree posterior'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,25 +41,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral oblique views of acetabulum, femoral head and neck, and trochanteric area
-  are visible (Figs. 7.80 and 7.81). Position:'
-- Femoral head and neck should be seen in profile, with only minimal superimposition
-  by marele trohanter.
-- Lesser trochanter is seen projecting posterior to femoral shaft. (With leg in neutral
-  or anatomic position, the amount of lesser trochanter seen is minimal, and with
-  increased external rotation of leg, this amount decreases.) Femoral neck and trochanters
-  should be centered to the image.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast of the femoral head and neck without
-  overexposing proximal femoral shaft.
-- No excessive grid lines are visible on radiograph.
-- Bony margins and trabecular markings should be visible and sharp, indicating no
-  motion. Șold and Proximal Femur SPECIAL—NONtraumatism acut
+- 'lateral oblic incidențe de cotil (acetabul), cap femural și neck, și trochanteric
+  area sunt vizibil (Figs. 7.80 și 7.81). poziție:'
+- cap femural și neck trebuie să fie seen în profile, cu only minimal superimposition
+  prin marele trohanter.
+- mic trohanter este seen projecting posterior la femoral shaft. (cu membru inferior
+  în neutral sau anatomic poziție, amount de mic trohanter seen este minimal, și cu
+  increased extern rotație de membru inferior, this amount decreases.) col femural
+  și trochanters trebuie să fie centrat pe imagine.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast de cap femural și neck fără overexposing
+  proximal femoral shaft.
+- fără excessive grilă lines sunt vizibil pe radiografie.
+- Bony margins și trabecular markings trebuie să fie vizibil și net, indicating fără
+  mișcare. Șold și proximal Femur SPECIAL—NONtraumatism acut
 - Modified Cleaves SPECIAL—traumatism acuttism / Regim Urgență
-- Modified axiolateral (clementsnakayama method) Fig. 7.79 Modified axiolateral—CR
-  15degree tilt from horizontal perpendicular to femoral neck. R Fig. 7.80 Modified
-  axiolateral projection. Acetabulum marele trohanter R Lesser trochanter Ischial
-  tuberosity Femoral neck Femoral head Fig. 7.81 Modified axiolateral projection.
+- Modified axiolateral (clementsnakayama method) Fig. 7.79 Modified axiolateral—raza
+  centrală 15degree tilt de la orizontal perpendicular la col femural. R Fig. 7.80
+  Modified axiolateral incidență. cotil (acetabul) marele trohanter R mic trohanter
+  tuberozități ischiatice col femural cap femural Fig. 7.81 Modified axiolateral incidență.
 sid_dff: 100 cm
 slug: rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager
 sources:
@@ -65,16 +67,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PROJECTION
+title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL Incidență
   (- Șold AND PROXIMAL Femur)
 ---
-# Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PROJECTION (- Șold AND PROXIMAL Femur)
+# Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL Incidență (- Șold AND PROXIMAL Femur)
 
 
 <div class="rx-meta-bar">
@@ -93,7 +95,7 @@ title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PR
 
     === "Indicații Clinice"
 
-        - Lateral oblique view is useful for assessment of possible Șold suspiciune de fractură or with arthroplasty (surgery for Șold prosthesis) when the patient has limited movement in both lower limbs and the inferosuperior projection cannot be obtained.
+        - lateral oblic incidență este useful pentru assessment de possible Șold suspiciune de fractură sau cu arthroplasty (surgery pentru Șold prosthesis) when pacientul has limited movement în ambele lower limbs și inferosuperior incidență cannot fie obtained.
 
     === "Ghid Național IRIS"
 
@@ -107,10 +109,10 @@ title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PR
 
     ---
 
-    - **Poziție Pacient:** Pacient: With patient Decubit Dorsal, position affected side near edge of table with both legs fully extended. Provide pillow for head and place arms across superior Torace.; Regiune anatomică: Maintain leg in neutral (anatomic) position (15degree posterior
-    - **Punct de Centrare Fascicul:** Angle CR mediolaterally as needed so that it is perpendicular to and centered to femoral neck. It should be angled posteriorly 15 to 20 degrees from horizontal.
+    - **Poziție Pacient:** Pacient: cu pacient Decubit dorsal, poziție affected side near edge de table cu ambele membre inferioare fully extins. Provide pillow pentru cap și place brațe across superior Torace.; Regiune anatomică: Maintain membru inferior în neutral (anatomic) poziție (15degree posterior
+    - **Punct de Centrare Fascicul:** Angle raza centrală mediolaterally ca needed so that it este perpendicular la și centrat pe col femural. It trebuie să fie înclinat posteriorly 15 la 20 grade de la orizontal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -124,22 +126,22 @@ title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PR
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral oblique views of acetabulum, femoral head and neck, and trochanteric area are visible (Figs. 7.80 and 7.81). Position:
-    - Femoral head and neck should be seen in profile, with only minimal superimposition by marele trohanter.
-    - Lesser trochanter is seen projecting posterior to femoral shaft. (With leg in neutral or anatomic position, the amount of lesser trochanter seen is minimal, and with increased external rotation of leg, this amount decreases.) Femoral neck and trochanters should be centered to the image.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast of the femoral head and neck without overexposing proximal femoral shaft.
-    - No excessive grid lines are visible on radiograph.
-    - Bony margins and trabecular markings should be visible and sharp, indicating no motion. Șold and Proximal Femur SPECIAL—NONtraumatism acut
+    - lateral oblic incidențe de cotil (acetabul), cap femural și neck, și trochanteric area sunt vizibil (Figs. 7.80 și 7.81). poziție:
+    - cap femural și neck trebuie să fie seen în profile, cu only minimal superimposition prin marele trohanter.
+    - mic trohanter este seen projecting posterior la femoral shaft. (cu membru inferior în neutral sau anatomic poziție, amount de mic trohanter seen este minimal, și cu increased extern rotație de membru inferior, this amount decreases.) col femural și trochanters trebuie să fie centrat pe imagine.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast de cap femural și neck fără overexposing proximal femoral shaft.
+    - fără excessive grilă lines sunt vizibil pe radiografie.
+    - Bony margins și trabecular markings trebuie să fie vizibil și net, indicating fără mișcare. Șold și proximal Femur SPECIAL—NONtraumatism acut
     - Modified Cleaves SPECIAL—traumatism acuttism / Regim Urgență
-    - Modified axiolateral (clementsnakayama method) Fig. 7.79 Modified axiolateral—CR 15degree tilt from horizontal perpendicular to femoral neck. R Fig. 7.80 Modified axiolateral projection. Acetabulum marele trohanter R Lesser trochanter Ischial tuberosity Femoral neck Femoral head Fig. 7.81 Modified axiolateral projection.
+    - Modified axiolateral (clementsnakayama method) Fig. 7.79 Modified axiolateral—raza centrală 15degree tilt de la orizontal perpendicular la col femural. R Fig. 7.80 Modified axiolateral incidență. cotil (acetabul) marele trohanter R mic trohanter tuberozități ischiatice col femural cap femural Fig. 7.81 Modified axiolateral incidență.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,25 +161,25 @@ title: Rx POSSIBLE traumatism acuttism / Regim Urgență MODIFIED AXIOLATERAL PR
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.79 Modiﬁed axiolateral—CR 15-](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_1.jpeg)
+![Fig. 7.79 Modified axiolateral—raza centrală 15-](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.79 Modiﬁed axiolateral—CR 15-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.79 Modiﬁed axiolateral—CR 15-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.80 Modiﬁed axiolateral projection.](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.80 Modiﬁed axiolateral projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.80 Modiﬁed axiolateral projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.79 Modified axiolateral—raza centrală 15-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.79 Modified axiolateral—raza centrală 15-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.81 Modiﬁed axiolateral projection.](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_3.jpeg)
+![Fig. 7.80 Modified axiolateral incidență.](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.81 Modiﬁed axiolateral projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.81 Modiﬁed axiolateral projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.80 Modified axiolateral incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.80 Modified axiolateral incidență.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.81 Modified axiolateral incidență.](../../assets/images/protocols/bontrager/rx-possible-traumatism-acuttism-regim-urgenta-modified-axiolateral-projection-sold-and-proximal-femur-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.81 Modified axiolateral incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.81 Modified axiolateral incidență.)</span></figcaption>
 
 </figure>
 

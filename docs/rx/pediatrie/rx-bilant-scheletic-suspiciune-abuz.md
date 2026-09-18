@@ -42,6 +42,25 @@ source_mapping:
     section: Skeletal survey; Table 4a/4b
     source_id: 62aae5b012225d728fe4f09b7ced1654
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.440834+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 62aae5b012225d728fe4f09b7ced1654
+  institution: European Society of Paediatric Radiology
+  section: Skeletal survey; Table 4a/4b
+  title: ESPR/ESR — Imaging of suspected child abuse, 2024
+  url: https://link.springer.com/article/10.1007/s00330-024-11052-4
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.440834+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Set regional conform tabelului 4a ESPR, cu selecție craniană în raport
     cu neuroimagistica.
@@ -62,33 +81,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX bilanț scheletic pediatric — suspiciune de abuz fizic
-sources:
-- id: 62aae5b012225d728fe4f09b7ced1654
-  title: ESPR/ESR — Imaging of suspected child abuse, 2024
-  url: https://link.springer.com/article/10.1007/s00330-024-11052-4
-  institution: European Society of Paediatric Radiology
-  section: Skeletal survey; Table 4a/4b
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.440834+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.440834+00:00'
+title: Rx RX bilanț scheletic pediatric — suspiciune de abuz fizic
 workbench_transfer:
   draft_id: 88cb72ad028c5d53b52f31b7e3b5bd15
-  transferred_at: '2026-09-15T08:50:31.314154+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.314154+00:00'
 ---
-
-# RX bilanț scheletic pediatric — suspiciune de abuz fizic
+# Rx RX bilanț scheletic pediatric — suspiciune de abuz fizic
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -202,7 +201,8 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [ESPR/ESR — Imaging of suspected child abuse, 2024](https://link.springer.com/article/10.1007/s00330-024-11052-4) — Skeletal survey; Table 4a/4b
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [ESPR/ESR — Imaging of suspected child abuse, 2024](https://link.springer.com/article/10.1007/s00330-024-11052-4)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

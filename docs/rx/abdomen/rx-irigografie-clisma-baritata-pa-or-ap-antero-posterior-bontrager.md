@@ -1,21 +1,22 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: is perpendicular to IR. Center CR to level of creasta iliacă (corespunzător
-  L4-L5). Center IR to CR.
+centering: este perpendicular pe receptorul de imagine. Center raza centrală la level
+  de creasta iliacă (corespunzător L4-L5). Se centrează receptorul de imagine pe raza
+  centrală.
 clinical_indications:
-- Obstructions, including ileus dinamic sau mecanic, volvulus, and intussusception
-  Doublecontrast media Irigografie (Clismă Baritată) is ideal for demonstrating diverticulosis,
-  polyps, and mucosal changes.
+- Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception
+  Doublecontrast media Irigografie (Clismă Baritată) este ideal pentru evidențiind
+  diverticulosis, polyps, și mucosal changes.
 images:
-- caption: Fig. 13.61 AP or PA (inset) projection.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.61 AP or PA
-    (inset) projection.)
+- caption: Fig. 13.61 AP sau PA (inset) incidență.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.61 AP sau PA
+    (inset) incidență.)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_1.jpeg
 - caption: Fig. 13.62 Incidență Postero-Anterioară (PA)—single-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.62
-    PA projection—single-)
+    PA incidență—single-)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -23,19 +24,19 @@ images:
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: For most patients, the enema tip can be removed before radiographs are
-  obtained, unless a retentiontype tip is used. This type generally should not be
-  removed until the patient is ready to evacuate. Include rectal ampulla at lower
-  margin of radiograph. Determine department policy regarding inclusion of the left
-  colic flexure on all patients if this area is adequately included in spot images
-  during fluoroscopy. (Most adult patients require two images if this area is to be
-  included.) For hypersthenic patients, use two 14 × 17inch (35 × 43cm) image receptors
-  placed landscape to include the entire large intestine. Irigografie (Clismă Baritată)
-  ROUTINE PA or AP Fig. 13.61 AP or PA (inset) projection. Fig. 13.62 Incidență Postero-Anterioară
-  (PA)—singlecontrast Irigografie (Clismă Baritată).'
-position: 'Pacient: Patient is Decubit Ventral or Decubit Dorsal, with a support for
-  the head (Fig. 13.61).; Regiune anatomică: Align MSP to midline of table. Ensure
-  that no body rotation occurs.'
+notes: 'S: pentru most pacienți, enema tip poate fie removed before radiografii sunt
+  obtained, unless retentiontype tip este used. This type generally trebuie să nu
+  fie removed until pacientul este ready la evacuate. Include rectal ampulla la lower
+  margin de radiografie. Determine department policy regarding inclusion de stâng
+  colic flexure pe toate pacienți if this area este adequately included în spot imagini
+  during fluoroscopy. (Most adult pacienți require two imagini if this area este la
+  fie included.) pentru hypersthenic pacienți, use two 14 × 17inch (35 × 43cm) imagine
+  receptors plasat landscape pentru include entire intestin gros (colon). Irigografie
+  (Clismă Baritată) ROUTINE PA sau AP Fig. 13.61 AP sau PA (inset) incidență. Fig.
+  13.62 Incidență Postero-Anterioară (PA)—singlecontrast Irigografie (Clismă Baritată).'
+position: 'Pacient: pacient este Decubit ventral sau Decubit dorsal, cu support pentru
+  capul (Fig. 13.61).; Regiune anatomică: Align MSP la linia mediană mesei. Ensure
+  that fără corp rotație occurs.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,18 +44,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- The transverse colon should be primarily barium filled on the PA and air filled
-  on the AP with a doublecontrast study (Fig. 13.62).
-- 'Entire large intestine, including the left colic flexure, should be visible (see
-  NOTES). Position:'
+- transverse intestin gros (colon) trebuie să fie primarily barium filled pe PA și
+  air filled pe AP cu doublecontrast study (Fig. 13.62).
+- 'Entire intestin gros (colon), including stâng colic flexure, trebuie să fie vizibil
+  (see NOTES). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  should occur.'
-- The ala of the ilium and the lumbar vertebrae are symmetric.
-- 'Proper collimation field size is applied. Exposure:'
-- Optimal image receptor exposure and contrast to visualize the entire airfilled and
-  bariumfilled large intestine without overexposing the mucosal outlines of the sections
-  of primarily airfilled bowel on a doublecontrast study.
-- Sharp structural margins indicate no motion.
+  trebuie să occur.'
+- ala de ilium și coloană lombară sunt simetric.
+- 'corect collimation field size este applied. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize entire airfilled și
+  bariumfilled intestin gros (colon) fără overexposing mucosal outlines de sections
+  de primarily airfilled bowel pe doublecontrast study.
+- net structural margins indicate fără mișcare.
 sid_dff: 100 cm
 slug: rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager
 sources:
@@ -62,7 +63,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -89,7 +90,7 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Obstructions, including ileus dinamic sau mecanic, volvulus, and intussusception Doublecontrast media Irigografie (Clismă Baritată) is ideal for demonstrating diverticulosis, polyps, and mucosal changes.
+        - Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception Doublecontrast media Irigografie (Clismă Baritată) este ideal pentru evidențiind diverticulosis, polyps, și mucosal changes.
 
     === "Ghid Național IRIS"
 
@@ -103,10 +104,10 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient is Decubit Ventral or Decubit Dorsal, with a support for the head (Fig. 13.61).; Regiune anatomică: Align MSP to midline of table. Ensure that no body rotation occurs.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Center CR to level of creasta iliacă (corespunzător L4-L5). Center IR to CR.
+    - **Poziție Pacient:** Pacient: pacient este Decubit ventral sau Decubit dorsal, cu support pentru capul (Fig. 13.61).; Regiune anatomică: Align MSP la linia mediană mesei. Ensure that fără corp rotație occurs.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center raza centrală la level de creasta iliacă (corespunzător L4-L5). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -120,20 +121,20 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - The transverse colon should be primarily barium filled on the PA and air filled on the AP with a doublecontrast study (Fig. 13.62).
-    - Entire large intestine, including the left colic flexure, should be visible (see NOTES). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase should occur.
-    - The ala of the ilium and the lumbar vertebrae are symmetric.
-    - Proper collimation field size is applied. Exposure:
-    - Optimal image receptor exposure and contrast to visualize the entire airfilled and bariumfilled large intestine without overexposing the mucosal outlines of the sections of primarily airfilled bowel on a doublecontrast study.
-    - Sharp structural margins indicate no motion.
+    - transverse intestin gros (colon) trebuie să fie primarily barium filled pe PA și air filled pe AP cu doublecontrast study (Fig. 13.62).
+    - Entire intestin gros (colon), including stâng colic flexure, trebuie să fie vizibil (see NOTES). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase trebuie să occur.
+    - ala de ilium și coloană lombară sunt simetric.
+    - corect collimation field size este applied. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize entire airfilled și bariumfilled intestin gros (colon) fără overexposing mucosal outlines de sections de primarily airfilled bowel pe doublecontrast study.
+    - net structural margins indicate fără mișcare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,7 +147,7 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: For most patients, the enema tip can be removed before radiographs are obtained, unless a retentiontype tip is used. This type generally should not be removed until the patient is ready to evacuate. Include rectal ampulla at lower margin of radiograph. Determine department policy regarding inclusion of the left colic flexure on all patients if this area is adequately included in spot images during fluoroscopy. (Most adult patients require two images if this area is to be included.) For hypersthenic patients, use two 14 × 17inch (35 × 43cm) image receptors placed landscape to include the entire large intestine. Irigografie (Clismă Baritată) ROUTINE PA or AP Fig. 13.61 AP or PA (inset) projection. Fig. 13.62 Incidență Postero-Anterioară (PA)—singlecontrast Irigografie (Clismă Baritată).
+    S: pentru most pacienți, enema tip poate fie removed before radiografii sunt obtained, unless retentiontype tip este used. This type generally trebuie să nu fie removed until pacientul este ready la evacuate. Include rectal ampulla la lower margin de radiografie. Determine department policy regarding inclusion de stâng colic flexure pe toate pacienți if this area este adequately included în spot imagini during fluoroscopy. (Most adult pacienți require two imagini if this area este la fie included.) pentru hypersthenic pacienți, use two 14 × 17inch (35 × 43cm) imagine receptors plasat landscape pentru include entire intestin gros (colon). Irigografie (Clismă Baritată) ROUTINE PA sau AP Fig. 13.61 AP sau PA (inset) incidență. Fig. 13.62 Incidență Postero-Anterioară (PA)—singlecontrast Irigografie (Clismă Baritată).
 
 
 ### 🖼️ Imagini
@@ -155,9 +156,9 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.61 AP or PA (inset) projection.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 13.61 AP sau PA (inset) incidență.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.61 AP or PA (inset) projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.61 AP or PA (inset) projection.)</span></figcaption>
+<figcaption><strong>Fig. 13.61 AP sau PA (inset) incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.61 AP sau PA (inset) incidență.)</span></figcaption>
 
 </figure>
 
@@ -165,7 +166,7 @@ title: Rx Irigografie (Clismă Baritată) PA OR AP (Antero-Posterior)
 
 ![Fig. 13.62 Incidență Postero-Anterioară (PA)—single-](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.62 Incidență Postero-Anterioară (PA)—single-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.62 PA projection—single-)</span></figcaption>
+<figcaption><strong>Fig. 13.62 Incidență Postero-Anterioară (PA)—single-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.62 PA incidență—single-)</span></figcaption>
 
 </figure>
 

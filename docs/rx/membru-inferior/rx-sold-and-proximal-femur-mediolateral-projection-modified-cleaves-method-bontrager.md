@@ -1,20 +1,20 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure.
+breathing: Apnee pe durata expunerii.
 category: membru-inferior
-centering: is perpendicular to IR (see NOTE 2), directed to midfemoral neck (center
-  of IR).
+centering: este perpendicular pe receptorul de imagine (see NOTE 2), orientat la midfemoral
+  neck (center de receptorul de imagine).
 clinical_indications:
-- Lateral view to assess Șold joint and proximal Femur for nontraumatism acuttic Șold
-  situations
+- lateral incidență la assess Șold articulație și proximal Femur pentru nontraumatism
+  acuttic Șold situations
 images:
-- caption: Fig. 7.77 For femoral neck—45-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.77 For femoral
-    neck—45-)
+- caption: Fig. 7.77 pentru col femural—45-
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.77 pentru col
+    femural—45-)
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_1.jpeg
-- caption: Fig. 7.78 Unilateral modiﬁed Cleaves, 20-
+- caption: Fig. 7.78 unilateral modified Cleaves, 20-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.78
-    Unilateral modiﬁed Cleaves, 20-)
+    unilateral modified Cleaves, 20-)
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_2.jpeg
 - caption: Fig. 7.76 45-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.76
@@ -26,19 +26,20 @@ images:
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: A modification of this position is the LauensteinHickey method, with the patient
-  starting in a similar position, then rotating onto the affected side until the Femur
-  is in contact with the tabletop and parallel to the IR. This position foreshortens
-  the neck region but may demonstrate the head and acetabulum well if affected leg
-  can be abducted sufficiently, as shown in Fig. 7.76, inset). Șold and Proximal Femur
-  SPECIAL—NONtraumatism acut Modified Cleaves
-position: 'Pacient: With patient Ortostatism or Decubit Dorsal, position affected
-  Șold area to be aligned to CR and midline of table and/or IR.; Regiune anatomică:
-  (Fig. 7.76) Flex Genunchi and Șold on affected side, as shown, with sole of Picior
-  against inside of opposite leg, near Genunchi if possible. Abduct Femur 45 degrees
-  from vertical for general proximal Femur region (see NOTE 1). Center affected femoral
-  neck to CR and midline of IR and tabletop. Apply Șold localization methods to determine
-  location of femoral neck.'
+notes: modification de this poziție este LauensteinHickey method, cu pacientul starting
+  în similar poziție, then rotating onto partea afectată until Femur este în contact
+  cu tabletop și paralel cu receptorul de imagine (RI). This poziție foreshortens
+  gâtul region but poate evidențiază capul și cotil (acetabul) well if affected membru
+  inferior poate fie în abducție sufficiently, ca vizualizat în Fig. 7.76, inset).
+  Șold și proximal Femur SPECIAL—NONtraumatism acut Modified Cleaves
+position: 'Pacient: cu pacient Ortostatism sau Decubit dorsal, poziție affected Șold
+  area la fie aliniat la raza centrală și linia mediană mesei și/sau receptorul de
+  imagine.; Regiune anatomică: (Fig. 7.76) Flex Genunchi și Șold pe affected side,
+  ca vizualizat, cu sole de Picior against inside de opposite membru inferior, near
+  Genunchi if possible. Abduct Femur 45 grade de la vertical pentru general proximal
+  Femur region (see NOTE 1). Center affected col femural la raza centrală și midline
+  de receptorul de imagine și tabletop. Apply Șold localization methods la determine
+  location de col femural.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,23 +47,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral views of acetabulum and femoral head and neck, trochanteric area, and proximal
-  onethird of Femur are visible. Position:'
-- Proper abduction (45 degrees) of Femur is demonstrated by femoral neck seen in profile,
-  superimposed by marele trohanter (Fig. 7.77). Less abduction (20 to 30 degrees)
-  will prevent superimposition of marele trohanter on the femoral neck (Fig. 7.78).
-  Proper centering is evidenced by femoral neck at center of collimated field.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast of the margins of the femoral head
-  and the acetabulum through overlying pelvic structures without overexposing other
-  parts of the proximal Femur.
-- 'Trabecular markings and bony margins of proximal Femur and Bazin (Pelvis) should
-  appear sharp, indicating no motion. R Fig. 7.77 For femoral neck—45degree abduction.
-  1-2 inches 3-4 inches ASIS R Fig. 7.78 Unilateral modified Cleaves, 20to 30degree
-  abduction. (From McQuillen Martensen K: Radiographic image analysis, ed 4, St. Louis,
-  2015, Saunders Elsevier.) Fig. 7.76 45degree abduction. Head and acetabulum are
-  well demonstrated. Inset, 90degree abduction. Unilateral modified Cleaves position
-  (femoral neck parallel to IR). Femoral neck is foreshortened.'
+- 'lateral incidențe de cotil (acetabul) și cap femural și neck, trochanteric area,
+  și proximal onethird de Femur sunt vizibil. poziție:'
+- corect abduction (45 grade) de Femur este evidențiat prin col femural seen în profile,
+  superimposed prin marele trohanter (Fig. 7.77). Less abduction (20 la 30 grade)
+  will prevent superimposition de marele trohanter pe col femural (Fig. 7.78). corect
+  centering este evidenced prin col femural la center de câmp colimat.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast de margins de cap femural și cotil
+  (acetabul) through overlying pelvic structures fără overexposing other parts de
+  proximal Femur.
+- 'Trabecular markings și bony margins de proximal Femur și Bazin (bazin (pelvis))
+  trebuie să appear net, indicating fără mișcare. R Fig. 7.77 pentru col femural—45degree
+  abduction. 1-2 inches 3-4 inches spină iliacă antero-superioară (SIAS) R Fig. 7.78
+  unilateral modified Cleaves, 20to 30degree abduction. (de la McQuillen Martensen
+  K: Radiographic imagine analysis, ed 4, St. Louis, 2015, Saunders Elsevier.) Fig.
+  7.76 45degree abduction. cap și cotil (acetabul) sunt well evidențiat. Inset, 90degree
+  abduction. unilateral modified Cleaves poziție (col femural paralel cu receptorul
+  de imagine). col femural este foreshortened.'
 sid_dff: 100 cm
 slug: rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager
 sources:
@@ -70,15 +72,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES METHOD)
+title: Rx Șold AND PROXIMAL Femur Medio-Lateral Incidență (MODIFIED CLEAVES METHOD)
 ---
-# Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES METHOD)
+# Rx Șold AND PROXIMAL Femur Medio-Lateral Incidență (MODIFIED CLEAVES METHOD)
 
 
 <div class="rx-meta-bar">
@@ -97,7 +99,7 @@ title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES MET
 
     === "Indicații Clinice"
 
-        - Lateral view to assess Șold joint and proximal Femur for nontraumatism acuttic Șold situations
+        - lateral incidență la assess Șold articulație și proximal Femur pentru nontraumatism acuttic Șold situations
 
     === "Ghid Național IRIS"
 
@@ -111,10 +113,10 @@ title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES MET
 
     ---
 
-    - **Poziție Pacient:** Pacient: With patient Ortostatism or Decubit Dorsal, position affected Șold area to be aligned to CR and midline of table and/or IR.; Regiune anatomică: (Fig. 7.76) Flex Genunchi and Șold on affected side, as shown, with sole of Picior against inside of opposite leg, near Genunchi if possible. Abduct Femur 45 degrees from vertical for general proximal Femur region (see NOTE 1). Center affected femoral neck to CR and midline of IR and tabletop. Apply Șold localization methods to determine location of femoral neck.
-    - **Punct de Centrare Fascicul:** is perpendicular to IR (see NOTE 2), directed to midfemoral neck (center of IR).
+    - **Poziție Pacient:** Pacient: cu pacient Ortostatism sau Decubit dorsal, poziție affected Șold area la fie aliniat la raza centrală și linia mediană mesei și/sau receptorul de imagine.; Regiune anatomică: (Fig. 7.76) Flex Genunchi și Șold pe affected side, ca vizualizat, cu sole de Picior against inside de opposite membru inferior, near Genunchi if possible. Abduct Femur 45 grade de la vertical pentru general proximal Femur region (see NOTE 1). Center affected col femural la raza centrală și midline de receptorul de imagine și tabletop. Apply Șold localization methods la determine location de col femural.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine (see NOTE 2), orientat la midfemoral neck (center de receptorul de imagine).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,18 +130,18 @@ title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES MET
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral views of acetabulum and femoral head and neck, trochanteric area, and proximal onethird of Femur are visible. Position:
-    - Proper abduction (45 degrees) of Femur is demonstrated by femoral neck seen in profile, superimposed by marele trohanter (Fig. 7.77). Less abduction (20 to 30 degrees) will prevent superimposition of marele trohanter on the femoral neck (Fig. 7.78). Proper centering is evidenced by femoral neck at center of collimated field.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast of the margins of the femoral head and the acetabulum through overlying pelvic structures without overexposing other parts of the proximal Femur.
-    - Trabecular markings and bony margins of proximal Femur and Bazin (Pelvis) should appear sharp, indicating no motion. R Fig. 7.77 For femoral neck—45degree abduction. 1-2 inches 3-4 inches ASIS R Fig. 7.78 Unilateral modified Cleaves, 20to 30degree abduction. (From McQuillen Martensen K: Radiographic image analysis, ed 4, St. Louis, 2015, Saunders Elsevier.) Fig. 7.76 45degree abduction. Head and acetabulum are well demonstrated. Inset, 90degree abduction. Unilateral modified Cleaves position (femoral neck parallel to IR). Femoral neck is foreshortened.
+    - lateral incidențe de cotil (acetabul) și cap femural și neck, trochanteric area, și proximal onethird de Femur sunt vizibil. poziție:
+    - corect abduction (45 grade) de Femur este evidențiat prin col femural seen în profile, superimposed prin marele trohanter (Fig. 7.77). Less abduction (20 la 30 grade) will prevent superimposition de marele trohanter pe col femural (Fig. 7.78). corect centering este evidenced prin col femural la center de câmp colimat.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast de margins de cap femural și cotil (acetabul) through overlying pelvic structures fără overexposing other parts de proximal Femur.
+    - Trabecular markings și bony margins de proximal Femur și Bazin (bazin (pelvis)) trebuie să appear net, indicating fără mișcare. R Fig. 7.77 pentru col femural—45degree abduction. 1-2 inches 3-4 inches spină iliacă antero-superioară (SIAS) R Fig. 7.78 unilateral modified Cleaves, 20to 30degree abduction. (de la McQuillen Martensen K: Radiographic imagine analysis, ed 4, St. Louis, 2015, Saunders Elsevier.) Fig. 7.76 45degree abduction. cap și cotil (acetabul) sunt well evidențiat. Inset, 90degree abduction. unilateral modified Cleaves poziție (col femural paralel cu receptorul de imagine). col femural este foreshortened.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -152,7 +154,7 @@ title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES MET
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    A modification of this position is the LauensteinHickey method, with the patient starting in a similar position, then rotating onto the affected side until the Femur is in contact with the tabletop and parallel to the IR. This position foreshortens the neck region but may demonstrate the head and acetabulum well if affected leg can be abducted sufficiently, as shown in Fig. 7.76, inset). Șold and Proximal Femur SPECIAL—NONtraumatism acut Modified Cleaves
+    modification de this poziție este LauensteinHickey method, cu pacientul starting în similar poziție, then rotating onto partea afectată until Femur este în contact cu tabletop și paralel cu receptorul de imagine (RI). This poziție foreshortens gâtul region but poate evidențiază capul și cotil (acetabul) well if affected membru inferior poate fie în abducție sufficiently, ca vizualizat în Fig. 7.76, inset). Șold și proximal Femur SPECIAL—NONtraumatism acut Modified Cleaves
 
 
 ### 🖼️ Imagini
@@ -161,17 +163,17 @@ title: Rx Șold AND PROXIMAL Femur MEDIOLATERAL PROJECTION (MODIFIED CLEAVES MET
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.77 For femoral neck—45-](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_1.jpeg)
+![Fig. 7.77 pentru col femural—45-](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.77 For femoral neck—45-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.77 For femoral neck—45-)</span></figcaption>
+<figcaption><strong>Fig. 7.77 pentru col femural—45-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.77 pentru col femural—45-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.78 Unilateral modiﬁed Cleaves, 20-](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_2.jpeg)
+![Fig. 7.78 unilateral modified Cleaves, 20-](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-mediolateral-projection-modified-cleaves-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.78 Unilateral modiﬁed Cleaves, 20-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.78 Unilateral modiﬁed Cleaves, 20-)</span></figcaption>
+<figcaption><strong>Fig. 7.78 unilateral modified Cleaves, 20-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.78 unilateral modified Cleaves, 20-)</span></figcaption>
 
 </figure>
 

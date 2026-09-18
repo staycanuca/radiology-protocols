@@ -1,37 +1,40 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration to limit patient motion.
+breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
+  pacientului.
 category: abdomen
-centering: Angle CR 15° cephalad. Direct CR 2 inches (5 cm) superior to pubic symphysis.
-  Center IR to CR.
+centering: Raza centrală se înclină 15° cranial (spre cap). Direct raza centrală 2
+  inches (5 cm) superior la simfiză pubiană. Se centrează receptorul de imagine pe
+  raza centrală.
 clinical_indications:
-- Pathology of the Sacru, including suspiciune de fractură
+- Pathology de Sacru, including suspiciune de fractură
 images:
-- caption: Fig. 9.66 AP axial Sacru—15° cephalad.
+- caption: Fig. 9.66 AP axial Sacru—15° cranial.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.66 AP axial
-    sacrum—15° cephalad.)
+    sacrum—15° cranial.)
   url: assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_1.jpeg
-- caption: Fig. 9.65 AP axial—15° cephalad.
+- caption: Fig. 9.65 AP axial—15° cranial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.65
-    AP axial—15° cephalad.)
+    AP axial—15° cranial.)
   url: assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_2.jpeg
-- caption: Fig. 9.64 AP axial—15° cephalad.
+- caption: Fig. 9.64 AP axial—15° cranial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.64
-    AP axial—15° cephalad.)
+    AP axial—15° cranial.)
   url: assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Technologists may have to increase CR angle to 20° cephalad for patients
-  with an apparent greater posterior curvature or tilt of the Sacru and Bazin (Pelvis).
-  Female Sacru is generally shorter and wider than male Sacru (a consideration in
-  close foursided collimation field size). This projection also may be performed Decubit
-  Ventral (angle 15° caudad) if necessary for patient’s condition. Sacru și Coccis
-  ROUTINE AP axial Sacru AP axial Coccis Lateral'
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side, head on pillow, and legs extended with support under knees for comfort.;
-  Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR
-  (Fig. 9.64). Ensure that Absența rotației anatomice: clavicule echidistante față
-  de linia apofizelor spinoase of the Bazin (Pelvis) exists.'
+notes: 'S: Technologists poate have la increase raza centrală angle la 20° cranial
+  pentru pacienți cu apparent greater posterior curvature sau tilt de Sacru și Bazin
+  (bazin (pelvis)). Female Sacru este generally shorter și wider than male Sacru (consideration
+  în close foursided collimation field size). This incidență also poate fie performed
+  Decubit ventral (angle 15° caudal) if necessary pentru pacient’s condition. Sacru
+  și Coccis ROUTINE AP axial Sacru AP axial Coccis lateral'
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side,
+  cap pe pillow, și membre inferioare extins cu support under genunchi pentru comfort.;
+  Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei
+  și/sau receptorul de imagine (Fig. 9.64). Se verifică absența rotației: claviculele
+  sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis))
+  exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,18 +42,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sacru, SI joints, and L5–S1 intervertebral joint space (Figs. 9.65 and 9.66). Position
+- Sacru, SI articulații, și L5–S1 intervertebral spații articulare (Figs. 9.65 și
+  9.66). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated by alignment of the median sagittal crests and Coccis with the simfiza
-  pubiană.'
-- Correct alignment of the Sacru and CR demonstrates the Sacru free of foreshortening
-  and the pubis and sacral foramina are not superimposed.
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of Sacru.
-- no motion. 24 30 R Superior articular process of Sacru Sacral foramina Body (L5)
-  Ilium Left sacroiliac joint Apex of Coccis Fig. 9.66 AP axial Sacru—15° cephalad.
-  Fig. 9.65 AP axial—15° cephalad. Fig. 9.64 AP axial—15° cephalad.
+  indicated prin alignment de median sagittal creste și Coccis cu simfiza pubiană.'
+- Correct alignment de Sacru și raza centrală evidențiază Sacru liber de foreshortening
+  și pubis și sacral foramina sunt nu superimposed.
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de Sacru.
+- fără mișcare. 24 30 R superior articular process de Sacru Sacral foramina corp (L5)
+  Ilium stâng sacroiliac articulație Apex de Coccis Fig. 9.66 AP axial Sacru—15° cranial.
+  Fig. 9.65 AP axial—15° cranial. Fig. 9.64 AP axial—15° cranial.
 sid_dff: 100 cm
 slug: rx-sacru-ap-axiala-bontrager
 sources:
@@ -58,7 +61,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -85,7 +88,7 @@ title: Rx Sacru AP Axială
 
     === "Indicații Clinice"
 
-        - Pathology of the Sacru, including suspiciune de fractură
+        - Pathology de Sacru, including suspiciune de fractură
 
     === "Ghid Național IRIS"
 
@@ -99,10 +102,10 @@ title: Rx Sacru AP Axială
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side, head on pillow, and legs extended with support under knees for comfort.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR (Fig. 9.64). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** Angle CR 15° cephalad. Direct CR 2 inches (5 cm) superior to pubic symphysis. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side, cap pe pillow, și membre inferioare extins cu support under genunchi pentru comfort.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 9.64). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° cranial (spre cap). Direct raza centrală 2 inches (5 cm) superior la simfiză pubiană. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration to limit patient motion.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,19 +119,19 @@ title: Rx Sacru AP Axială
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sacru, SI joints, and L5–S1 intervertebral joint space (Figs. 9.65 and 9.66). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated by alignment of the median sagittal crests and Coccis with the simfiza pubiană.
-    - Correct alignment of the Sacru and CR demonstrates the Sacru free of foreshortening and the pubis and sacral foramina are not superimposed.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of Sacru.
-    - no motion. 24 30 R Superior articular process of Sacru Sacral foramina Body (L5) Ilium Left sacroiliac joint Apex of Coccis Fig. 9.66 AP axial Sacru—15° cephalad. Fig. 9.65 AP axial—15° cephalad. Fig. 9.64 AP axial—15° cephalad.
+    - Sacru, SI articulații, și L5–S1 intervertebral spații articulare (Figs. 9.65 și 9.66). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin alignment de median sagittal creste și Coccis cu simfiza pubiană.
+    - Correct alignment de Sacru și raza centrală evidențiază Sacru liber de foreshortening și pubis și sacral foramina sunt nu superimposed.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de Sacru.
+    - fără mișcare. 24 30 R superior articular process de Sacru Sacral foramina corp (L5) Ilium stâng sacroiliac articulație Apex de Coccis Fig. 9.66 AP axial Sacru—15° cranial. Fig. 9.65 AP axial—15° cranial. Fig. 9.64 AP axial—15° cranial.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -141,7 +144,7 @@ title: Rx Sacru AP Axială
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Technologists may have to increase CR angle to 20° cephalad for patients with an apparent greater posterior curvature or tilt of the Sacru and Bazin (Pelvis). Female Sacru is generally shorter and wider than male Sacru (a consideration in close foursided collimation field size). This projection also may be performed Decubit Ventral (angle 15° caudad) if necessary for patient’s condition. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis Lateral
+    S: Technologists poate have la increase raza centrală angle la 20° cranial pentru pacienți cu apparent greater posterior curvature sau tilt de Sacru și Bazin (bazin (pelvis)). Female Sacru este generally shorter și wider than male Sacru (consideration în close foursided collimation field size). This incidență also poate fie performed Decubit ventral (angle 15° caudal) if necessary pentru pacient’s condition. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis lateral
 
 
 ### 🖼️ Imagini
@@ -150,25 +153,25 @@ title: Rx Sacru AP Axială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.66 AP axial Sacru—15° cephalad.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_1.jpeg)
+![Fig. 9.66 AP axial Sacru—15° cranial.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.66 AP axial Sacru—15° cephalad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.66 AP axial sacrum—15° cephalad.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.65 AP axial—15° cephalad.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.65 AP axial—15° cephalad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.65 AP axial—15° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 9.66 AP axial Sacru—15° cranial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.66 AP axial sacrum—15° cranial.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.64 AP axial—15° cephalad.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_3.jpeg)
+![Fig. 9.65 AP axial—15° cranial.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.64 AP axial—15° cephalad.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.64 AP axial—15° cephalad.)</span></figcaption>
+<figcaption><strong>Fig. 9.65 AP axial—15° cranial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.65 AP axial—15° cranial.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.64 AP axial—15° cranial.](../../assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.64 AP axial—15° cranial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.64 AP axial—15° cranial.)</span></figcaption>
 
 </figure>
 

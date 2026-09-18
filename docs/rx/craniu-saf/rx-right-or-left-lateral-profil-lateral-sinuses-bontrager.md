@@ -1,46 +1,48 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align horizontal Raza centrală (RC) perpendiculară pe receptorul de imagine.
-  Center CR to a point midway between outer canthus and EAM. Center IR to CR.
+centering: Align orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine.
+  Center raza centrală la point midway între outer canthus și conduct auditiv extern
+  (CAE). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii
   osoase)
 - Sinus exudate
-- Sinus polyps or cysts
+- Sinus polyps sau cysts
 images:
-- caption: Fig. 11.186 Ortostatism left lateral—sinuses (upright imaging device).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.186 Erect left
-    lateral—sinuses (upright imaging device).)
+- caption: Fig. 11.186 Ortostatism stâng lateral—sinuses (în ortostatism imaging device).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.186 în ortostatism
+    stâng lateral—sinuses (în ortostatism imaging device).)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_1.jpeg
-- caption: 'Fig. 11.187 Lateral sinuses. (From Curtis T: Online course for'
+- caption: 'Fig. 11.187 lateral sinuses. (de la Curtis T: Online course pentru'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.187
-    Lateral sinuses. (From Curtis T: Online course for)'
+    lateral sinuses. (de la Curtis T: Online course pentru)'
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_2.jpeg
-- caption: 'Fig. 11.188 Lateral sinuses. (Modiﬁed from Curtis T: Online course'
+- caption: 'Fig. 11.188 lateral sinuses. (Modified de la Curtis T: Online course'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.188
-    Lateral sinuses. (Modiﬁed from Curtis T: Online course)'
+    lateral sinuses. (Modified de la Curtis T: Online course)'
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To visualize airfluid levels, an Ortostatism position with a horizontal beam
-  is required. Fluid within the paranasal sinus cavities is thick and gelatinous,
-  causing it to cling to the cavity walls. To visualize this fluid, allow a short
-  time (at least 5 minutes) for the fluid to settle after patient’s position has been
-  changed (i.e., from Decubit to Ortostatism). If patient is unable to be placed in
-  the upright position, the image may be obtained with the use of a horizontal beam,
-  similar to traumatism acuttism / Regim Urgență lateral Masiv Facial (Oase ale Feței),
-  as described in Chapter 15. SINUSES ROUTINE Lateral PA (Incidență Occipito-Frontală
-  (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters))
-  Fig. 11.186 Ortostatism left lateral—sinuses (upright imaging device).
-position: 'Pacient: Remove all metal, plastic, and other removable objects from head.
-  Position patient Ortostatism (see NOTE).; Regiune anatomică: Place lateral aspect
-  of head against table/upright imaging device surface, with side of interest closest
-  to IR (Fig. 11.186). Adjust head into true Incidență de Profil (Lateral), moving
-  body in an oblique direction as needed for patient’s comfort (MSP parallel to IR).
-  Align iPl perpendicular to iR (ensures no tilt). Adjust chin to align IOML perpendicular
-  to front edge of IR.'
+notes: la visualize airfluid levels, Ortostatism poziție cu orizontal fascicul este
+  required. lichid within paranasal sinus cavities este thick și gelatinous, causing
+  it la cling la cavity pereți. la visualize this lichid, allow short time (la least
+  5 minutes) pentru lichid la settle after pacient’s poziție has been changed (i.e.,
+  de la Decubit la Ortostatism). If pacient este unable la fie plasat în ortostatism,
+  imagine poate fie obtained cu use de orizontal fascicul, similar la traumatism acuttism
+  / Regim Urgență lateral Masiv Facial (Oase ale Feței), ca described în Chapter 15.
+  SINUSES ROUTINE lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial
+  (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.186 Ortostatism stâng lateral—sinuses
+  (în ortostatism imaging device).
+position: 'Pacient: Remove toate metal, plastic, și other removable objects de la
+  cap. poziție pacient Ortostatism (see NOTE).; Regiune anatomică: Place lateral aspect
+  de cap against table/în ortostatism imaging device surface, cu side de interest
+  closest la receptorul de imagine (Fig. 11.186). Adjust cap into true Incidență de
+  Profil (lateral), moving corp în oblic direction ca needed pentru pacient’s comfort
+  (MSP paralel cu receptorul de imagine). Align linie interpupilară (LIP) perpendicular
+  pe receptorul de imagine (ensures fără tilt). Adjust chin la align linie infraorbitomeatală
+  (LIOM) perpendicular la front edge de receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,21 +50,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'All four paranasal sinus groups are demonstrated (Figs. 11.187 and 11.188). Position:'
-- Accurately positioned Craniu without rotation or tilt.
-- Rotation is evident by anterior and posterior separation of symmetric bilateral
-  vertical structures such as the mandibular rami and greater wings of the sphenoid.
-- Tilt is evident by superior and inferior separation of symmetric horizontal structures
-  such as the orbital plates and greater wings of sphenoid.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the sphenoid
-  sinuses through the Craniu without overexposing the maxillary and frontal sinuses.
-- 'Sharp bony margins indicate no motion. L Fig. 11.187 Lateral sinuses. (From Curtis
-  T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
-  L Frontal sinuses Ethmoid sinuses Maxillary sinuses Rami of Mandibulă Dorsum sellae
-  Greater Wings/ sphenoid Sphenoid sinus Fig. 11.188 Lateral sinuses. (Modified from
-  Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019,
-  Elsevier.)'
+- 'toate four paranasal sinus groups sunt evidențiat (Figs. 11.187 și 11.188). poziție:'
+- Accurately poziționat Craniu fără rotație sau tilt.
+- rotație este evident prin anterior și posterior separation de simetric bilateral
+  vertical structures such ca ramuri mandibulare și greater wings de sphenoid.
+- Tilt este evident prin superior și inferior separation de simetric orizontal structures
+  such ca orbital plates și greater wings de sphenoid.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize sinusuri
+  sfenoidale through Craniu fără overexposing maxillary și sinusuri frontale.
+- 'net bony margins indicate fără mișcare. L Fig. 11.187 lateral sinuses. (de la Curtis
+  T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019,
+  Elsevier.) L sinusuri frontale sinusuri etmoidale sinusuri maxilare Rami de Mandibulă
+  Dorsum sellae Greater Wings/ sphenoid sinusuri sfenoidale Fig. 11.188 lateral sinuses.
+  (Modified de la Curtis T: Online course pentru Mosby’s digital positioning consult,
+  Philadelphia, 2019, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-right-or-left-lateral-profil-lateral-sinuses-bontrager
 sources:
@@ -70,7 +72,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -99,7 +101,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (SINUSES)
 
         - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii osoase)
         - Sinus exudate
-        - Sinus polyps or cysts
+        - Sinus polyps sau cysts
 
     === "Ghid Național IRIS"
 
@@ -113,10 +115,10 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (SINUSES)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metal, plastic, and other removable objects from head. Position patient Ortostatism (see NOTE).; Regiune anatomică: Place lateral aspect of head against table/upright imaging device surface, with side of interest closest to IR (Fig. 11.186). Adjust head into true Incidență de Profil (Lateral), moving body in an oblique direction as needed for patient’s comfort (MSP parallel to IR). Align iPl perpendicular to iR (ensures no tilt). Adjust chin to align IOML perpendicular to front edge of IR.
-    - **Punct de Centrare Fascicul:** Align horizontal Raza centrală (RC) perpendiculară pe receptorul de imagine. Center CR to a point midway between outer canthus and EAM. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Remove toate metal, plastic, și other removable objects de la cap. poziție pacient Ortostatism (see NOTE).; Regiune anatomică: Place lateral aspect de cap against table/în ortostatism imaging device surface, cu side de interest closest la receptorul de imagine (Fig. 11.186). Adjust cap into true Incidență de Profil (lateral), moving corp în oblic direction ca needed pentru pacient’s comfort (MSP paralel cu receptorul de imagine). Align linie interpupilară (LIP) perpendicular pe receptorul de imagine (ensures fără tilt). Adjust chin la align linie infraorbitomeatală (LIOM) perpendicular la front edge de receptorul de imagine.
+    - **Punct de Centrare Fascicul:** Align orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine. Center raza centrală la point midway între outer canthus și conduct auditiv extern (CAE). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -130,20 +132,20 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (SINUSES)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - All four paranasal sinus groups are demonstrated (Figs. 11.187 and 11.188). Position:
-    - Accurately positioned Craniu without rotation or tilt.
-    - Rotation is evident by anterior and posterior separation of symmetric bilateral vertical structures such as the mandibular rami and greater wings of the sphenoid.
-    - Tilt is evident by superior and inferior separation of symmetric horizontal structures such as the orbital plates and greater wings of sphenoid.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the sphenoid sinuses through the Craniu without overexposing the maxillary and frontal sinuses.
-    - Sharp bony margins indicate no motion. L Fig. 11.187 Lateral sinuses. (From Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) L Frontal sinuses Ethmoid sinuses Maxillary sinuses Rami of Mandibulă Dorsum sellae Greater Wings/ sphenoid Sphenoid sinus Fig. 11.188 Lateral sinuses. (Modified from Curtis T: Online course for Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
+    - toate four paranasal sinus groups sunt evidențiat (Figs. 11.187 și 11.188). poziție:
+    - Accurately poziționat Craniu fără rotație sau tilt.
+    - rotație este evident prin anterior și posterior separation de simetric bilateral vertical structures such ca ramuri mandibulare și greater wings de sphenoid.
+    - Tilt este evident prin superior și inferior separation de simetric orizontal structures such ca orbital plates și greater wings de sphenoid.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize sinusuri sfenoidale through Craniu fără overexposing maxillary și sinusuri frontale.
+    - net bony margins indicate fără mișcare. L Fig. 11.187 lateral sinuses. (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) L sinusuri frontale sinusuri etmoidale sinusuri maxilare Rami de Mandibulă Dorsum sellae Greater Wings/ sphenoid sinusuri sfenoidale Fig. 11.188 lateral sinuses. (Modified de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,7 +158,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (SINUSES)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To visualize airfluid levels, an Ortostatism position with a horizontal beam is required. Fluid within the paranasal sinus cavities is thick and gelatinous, causing it to cling to the cavity walls. To visualize this fluid, allow a short time (at least 5 minutes) for the fluid to settle after patient’s position has been changed (i.e., from Decubit to Ortostatism). If patient is unable to be placed in the upright position, the image may be obtained with the use of a horizontal beam, similar to traumatism acuttism / Regim Urgență lateral Masiv Facial (Oase ale Feței), as described in Chapter 15. SINUSES ROUTINE Lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.186 Ortostatism left lateral—sinuses (upright imaging device).
+    la visualize airfluid levels, Ortostatism poziție cu orizontal fascicul este required. lichid within paranasal sinus cavities este thick și gelatinous, causing it la cling la cavity pereți. la visualize this lichid, allow short time (la least 5 minutes) pentru lichid la settle after pacient’s poziție has been changed (i.e., de la Decubit la Ortostatism). If pacient este unable la fie plasat în ortostatism, imagine poate fie obtained cu use de orizontal fascicul, similar la traumatism acuttism / Regim Urgență lateral Masiv Facial (Oase ale Feței), ca described în Chapter 15. SINUSES ROUTINE lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.186 Ortostatism stâng lateral—sinuses (în ortostatism imaging device).
 
 
 ### 🖼️ Imagini
@@ -165,25 +167,25 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (SINUSES)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.186 Ortostatism left lateral—sinuses (upright imaging device).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_1.jpeg)
+![Fig. 11.186 Ortostatism stâng lateral—sinuses (în ortostatism imaging device).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.186 Ortostatism left lateral—sinuses (upright imaging device).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.186 Erect left lateral—sinuses (upright imaging device).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.187 Lateral sinuses. (From Curtis T: Online course for](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.187 Lateral sinuses. (From Curtis T: Online course for</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.187 Lateral sinuses. (From Curtis T: Online course for)</span></figcaption>
+<figcaption><strong>Fig. 11.186 Ortostatism stâng lateral—sinuses (în ortostatism imaging device).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.186 în ortostatism stâng lateral—sinuses (în ortostatism imaging device).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.188 Lateral sinuses. (Modiﬁed from Curtis T: Online course](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_3.jpeg)
+![Fig. 11.187 lateral sinuses. (de la Curtis T: Online course pentru](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.188 Lateral sinuses. (Modiﬁed from Curtis T: Online course</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.188 Lateral sinuses. (Modiﬁed from Curtis T: Online course)</span></figcaption>
+<figcaption><strong>Fig. 11.187 lateral sinuses. (de la Curtis T: Online course pentru</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.187 lateral sinuses. (de la Curtis T: Online course pentru)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.188 lateral sinuses. (Modified de la Curtis T: Online course](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.188 lateral sinuses. (Modified de la Curtis T: Online course</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.188 lateral sinuses. (Modified de la Curtis T: Online course)</span></figcaption>
 
 </figure>
 

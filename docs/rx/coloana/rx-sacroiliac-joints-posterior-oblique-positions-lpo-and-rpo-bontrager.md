@@ -1,40 +1,42 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration to limit patient motion.
+breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
+  pacientului.
 category: coloana
-centering: 25-30q Fig. 9.77 LPO of SI joints. Fig. 9.78 RPO projection for left (upside)
-  SI joints.
+centering: 25-30q Fig. 9.77 LPO de SI articulații. Fig. 9.78 RPO incidență pentru
+  stâng (upside) SI articulații.
 clinical_indications:
-- pathology of the SI joint, including luxație / subluxație articulară or subluxation
-- Bilateral study for comparison
+- pathology de SI articulație, including luxație / subluxație articulară sau subluxation
+- bilateral study pentru comparison
 images:
-- caption: Fig. 9.75 RPO for left side (upside) SI joints.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.75 RPO for left
-    side (upside) SI joints.)
+- caption: Fig. 9.75 RPO pentru stâng side (upside) SI articulații.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.75 RPO pentru
+    stâng side (upside) SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_1.jpeg
-- caption: Fig. 9.76 LPO for right side (upside) SI joints.
+- caption: Fig. 9.76 LPO pentru drept side (upside) SI articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.76
-    LPO for right side (upside) SI joints.)
+    LPO pentru drept side (upside) SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_2.jpeg
-- caption: Fig. 9.77 LPO of SI joints.
+- caption: Fig. 9.77 LPO de SI articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.77
-    LPO of SI joints.)
+    LPO de SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_3.png
-- caption: Fig. 9.78 RPO projection for left (upside) SI joints.
+- caption: Fig. 9.78 RPO incidență pentru stâng (upside) SI articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.78
-    RPO projection for left (upside) SI joints.)
+    RPO incidență pentru stâng (upside) SI articulații.)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To demonstrate the inferior or distal part of the joint more clearly, the CR
-  may be angled 15° to 20° cephalad. SACROILIAC JOINTS ROUTINE AP axial Posterior
-  oblique projections
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side and head on pillow.; Regiune anatomică: Rotate body into 25° to 30° posterior
-  oblique, with side of interest elevated (LPO for right joint and RPO for left joint)
-  (Figs. 9.75 and 9.76). Align joint of interest to CR and midline of table and/or
-  IR. Use an anglemeasuring device to ensure correct and consistent angles on both
-  oblique positions. Place support under elevated Șold and flex elevated Genunchi.'
+notes: la evidențiază inferior sau distal part de articulație more clearly, raza centrală
+  poate fie înclinat 15° la 20° cranial. SACROILIAC articulații ROUTINE AP axial posterior
+  oblic incidențe
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side
+  și cap pe pillow.; Regiune anatomică: Rotate corp into 25° la 30° posterior oblic,
+  cu side de interest ridicat (LPO pentru drept articulație și RPO pentru stâng articulație)
+  (Figs. 9.75 și 9.76). Align articulație de interest la raza centrală și linia mediană
+  mesei și/sau receptorul de imagine. Use anglemeasuring device la ensure correct
+  și consistent angles pe ambele oblic poziții. Place support under ridicat Șold și
+  flex ridicat Genunchi.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,14 +44,14 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sacroiliac joint farthest from IR (Fig. 9.78). Position
-- Accurate rotation of the patient indicated by no superimposition of the ala of the
-  ilium and Sacru with the open SI joint.
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of Sacru.
-- no motion. Fig. 9.75 RPO for left side (upside) SI joints. Fig. 9.76 LPO for right
-  side (upside) SI joints. 1 in.
+- Sacroiliac articulație farthest de la receptorul de imagine (Fig. 9.78). poziție
+- precis rotație de pacientul indicated prin fără superimposition de ala de ilium
+  și Sacru cu open SI articulație.
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de Sacru.
+- fără mișcare. Fig. 9.75 RPO pentru stâng side (upside) SI articulații. Fig. 9.76
+  LPO pentru drept side (upside) SI articulații. 1 în.
 sid_dff: 100 cm
 slug: rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager
 sources:
@@ -57,15 +59,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
+title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE Poziționare (LPO AND RPO)
 ---
-# Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
+# Rx SACROILIAC JOINTS POSTERIOR OBLIQUE Poziționare (LPO AND RPO)
 
 
 <div class="rx-meta-bar">
@@ -84,8 +86,8 @@ title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
 
     === "Indicații Clinice"
 
-        - pathology of the SI joint, including luxație / subluxație articulară or subluxation
-        - Bilateral study for comparison
+        - pathology de SI articulație, including luxație / subluxație articulară sau subluxation
+        - bilateral study pentru comparison
 
     === "Ghid Național IRIS"
 
@@ -99,10 +101,10 @@ title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side and head on pillow.; Regiune anatomică: Rotate body into 25° to 30° posterior oblique, with side of interest elevated (LPO for right joint and RPO for left joint) (Figs. 9.75 and 9.76). Align joint of interest to CR and midline of table and/or IR. Use an anglemeasuring device to ensure correct and consistent angles on both oblique positions. Place support under elevated Șold and flex elevated Genunchi.
-    - **Punct de Centrare Fascicul:** 25-30q Fig. 9.77 LPO of SI joints. Fig. 9.78 RPO projection for left (upside) SI joints.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side și cap pe pillow.; Regiune anatomică: Rotate corp into 25° la 30° posterior oblic, cu side de interest ridicat (LPO pentru drept articulație și RPO pentru stâng articulație) (Figs. 9.75 și 9.76). Align articulație de interest la raza centrală și linia mediană mesei și/sau receptorul de imagine. Use anglemeasuring device la ensure correct și consistent angles pe ambele oblic poziții. Place support under ridicat Șold și flex ridicat Genunchi.
+    - **Punct de Centrare Fascicul:** 25-30q Fig. 9.77 LPO de SI articulații. Fig. 9.78 RPO incidență pentru stâng (upside) SI articulații.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration to limit patient motion.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,18 +118,18 @@ title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sacroiliac joint farthest from IR (Fig. 9.78). Position
-    - Accurate rotation of the patient indicated by no superimposition of the ala of the ilium and Sacru with the open SI joint.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of Sacru.
-    - no motion. Fig. 9.75 RPO for left side (upside) SI joints. Fig. 9.76 LPO for right side (upside) SI joints. 1 in.
+    - Sacroiliac articulație farthest de la receptorul de imagine (Fig. 9.78). poziție
+    - precis rotație de pacientul indicated prin fără superimposition de ala de ilium și Sacru cu open SI articulație.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de Sacru.
+    - fără mișcare. Fig. 9.75 RPO pentru stâng side (upside) SI articulații. Fig. 9.76 LPO pentru drept side (upside) SI articulații. 1 în.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -140,7 +142,7 @@ title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To demonstrate the inferior or distal part of the joint more clearly, the CR may be angled 15° to 20° cephalad. SACROILIAC JOINTS ROUTINE AP axial Posterior oblique projections
+    la evidențiază inferior sau distal part de articulație more clearly, raza centrală poate fie înclinat 15° la 20° cranial. SACROILIAC articulații ROUTINE AP axial posterior oblic incidențe
 
 
 ### 🖼️ Imagini
@@ -149,33 +151,33 @@ title: Rx SACROILIAC JOINTS POSTERIOR OBLIQUE POSITIONS (LPO AND RPO)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.75 RPO for left side (upside) SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_1.jpeg)
+![Fig. 9.75 RPO pentru stâng side (upside) SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.75 RPO for left side (upside) SI joints.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.75 RPO for left side (upside) SI joints.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.76 LPO for right side (upside) SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.76 LPO for right side (upside) SI joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.76 LPO for right side (upside) SI joints.)</span></figcaption>
+<figcaption><strong>Fig. 9.75 RPO pentru stâng side (upside) SI articulații.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.75 RPO pentru stâng side (upside) SI articulații.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.77 LPO of SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_3.png)
+![Fig. 9.76 LPO pentru drept side (upside) SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.77 LPO of SI joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.77 LPO of SI joints.)</span></figcaption>
+<figcaption><strong>Fig. 9.76 LPO pentru drept side (upside) SI articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.76 LPO pentru drept side (upside) SI articulații.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.78 RPO projection for left (upside) SI joints.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_4.jpeg)
+![Fig. 9.77 LPO de SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_3.png)
 
-<figcaption><strong>Fig. 9.78 RPO projection for left (upside) SI joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.78 RPO projection for left (upside) SI joints.)</span></figcaption>
+<figcaption><strong>Fig. 9.77 LPO de SI articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.77 LPO de SI articulații.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.78 RPO incidență pentru stâng (upside) SI articulații.](../../assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 9.78 RPO incidență pentru stâng (upside) SI articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.78 RPO incidență pentru stâng (upside) SI articulații.)</span></figcaption>
 
 </figure>
 

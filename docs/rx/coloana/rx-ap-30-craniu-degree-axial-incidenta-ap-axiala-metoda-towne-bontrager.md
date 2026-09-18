@@ -1,37 +1,41 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Craniu traumatism acuttism / Regim
-  Urgență Lateral, horizontal beam AP AP axial Fig. 15.79 AP axial Towne—CR 30 degrees
-  caudad to OML, centered to midpoint between EAMs.
+breathing: Apnee pe durata expunerii. Craniu traumatism acuttism / Regim Urgență lateral,
+  orizontal fascicul AP AP axial Fig. 15.79 AP axial Towne—raza centrală 30 grade
+  caudal la linie orbitomeatală (LOM), centrat pe midpoint între EAMs.
 category: coloana
-centering: AP Axial (Incidență AP Axială (Metoda Towne)) Projection (Fig. 15.79) Angle
-  CR 30 degrees caudad to oMl, or 37 degrees caudad to the ioMl. (Once again, note
-  that a patient in a cervical collar with the neck extended will have OMLs and IOMLs
-  that vary from the conventional parallel and perpendicular relationships formed
-  through routine positioning; see NOTE). Center CR to pass midway between EAMs and
-  exiting the foramen magnum. This centers CR to midsagittal plane 2¼ inches (6 cm)
-  above superciliary arch; then center IR to projected CR.
+centering: AP axial (Incidență AP Axială (Metoda Towne)) incidență (Fig. 15.79) Angle
+  raza centrală 30 grade caudal la linie orbitomeatală (LOM), sau 37 grade caudal
+  la linie infraorbitomeatală (LIOM). (Once again, note that pacient în cervical collar
+  cu gâtul extins will have OMLs și IOMLs that vary de la conventional paralel și
+  perpendicular relationships formed through routine positioning; see NOTE). Center
+  raza centrală la pass midway între EAMs și exiting gaură occipitală mare (foramen
+  magnum). This centers raza centrală la plan mediosagital 2¼ inches (6 cm) above
+  superciliary arch; then Se centrează receptorul de imagine pe proiecția razei centrale.
 clinical_indications:
-- Calvarial suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+- Calvarial suspiciune de fractură, penetrating injuries, și radiopaque Corp străin
+  / corpuri străine radio-opace
 images:
-- caption: Fig. 15.79 AP axial Towne—CR 30 degrees caudad to OML, centered
+- caption: Fig. 15.79 AP axial Towne—raza centrală 30 grade caudal la linie orbitomeatală
+    (LOM), centrat
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 15.79 AP axial
-    Towne—CR 30 degrees caudad to OML, centered)
+    Towne—raza centrală 30 grade caudal la linie orbitomeatală (LOM), centrat)
   url: assets/images/protocols/bontrager/rx-ap-30-craniu-degree-axial-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: The CR for the AP axial should not exceed 45 degrees, or excessive distortion
-  will hinder the visualization of essential anatomy. If the CR cannot be angled 30
-  degrees to the OML (before the maximum angle of 45 degrees is reached), the dorsum
-  sellae and posterior clinoid processes will be visualized superior to the foramen
-  magnum. Radiation Safety Exposure factor selection should be optimized in accordance
-  with the ALARA. Collimate on four sides to anatomy of interest. Follow local regulations,
-  department policy, and protocol in the use of shielding.
-position: 'Pacient: Patient Decubit Dorsal; remove all metal, plastic, and other removable
-  objects from head. Do not remove cervical collar unless approved by attending physician.;
-  Regiune anatomică: AP Axial (Incidență AP Axială (Metoda Towne)) Projection Align
-  MSP perpendicular to midline of grid or table (see previous WARNING). Center IR
-  to CR.'
+notes: raza centrală pentru AP axial trebuie să nu exceed 45 grade, sau excessive
+  distortion will hinder visualization de essential anatomy. If raza centrală cannot
+  fie înclinat 30 grade la linie orbitomeatală (LOM) (before maximum angle de 45 grade
+  este reached), dorsum sellae și posterior clinoid processes will fie visualized
+  superior la gaură occipitală mare (foramen magnum). Radiation Safety expunere factor
+  selection trebuie să fie optimized în accordance cu ALARA. Collimate pe four sides
+  la anatomy de interest. Follow local regulations, department policy, și protocol
+  în use de shielding.
+position: 'Pacient: pacient Decubit dorsal; remove toate metal, plastic, și other
+  removable objects de la cap. Do nu remove cervical collar unless approved prin attending
+  physician.; Regiune anatomică: AP axial (Incidență AP Axială (Metoda Towne)) incidență
+  Align MSP perpendicular la midline de grilă sau table (see previous WARNING). Se
+  centrează receptorul de imagine pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,10 +43,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 100 cm
 slug: rx-ap-30-craniu-degree-axial-incidenta-ap-axiala-metoda-towne-bontrager
 sources:
@@ -50,7 +53,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -77,7 +80,7 @@ title: Rx AP 30 Craniu (DEGREE AXIAL (Incidență AP Axială (Metoda Towne)))
 
     === "Indicații Clinice"
 
-        - Calvarial suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+        - Calvarial suspiciune de fractură, penetrating injuries, și radiopaque Corp străin / corpuri străine radio-opace
 
     === "Ghid Național IRIS"
 
@@ -91,10 +94,10 @@ title: Rx AP 30 Craniu (DEGREE AXIAL (Incidență AP Axială (Metoda Towne)))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Decubit Dorsal; remove all metal, plastic, and other removable objects from head. Do not remove cervical collar unless approved by attending physician.; Regiune anatomică: AP Axial (Incidență AP Axială (Metoda Towne)) Projection Align MSP perpendicular to midline of grid or table (see previous WARNING). Center IR to CR.
-    - **Punct de Centrare Fascicul:** AP Axial (Incidență AP Axială (Metoda Towne)) Projection (Fig. 15.79) Angle CR 30 degrees caudad to oMl, or 37 degrees caudad to the ioMl. (Once again, note that a patient in a cervical collar with the neck extended will have OMLs and IOMLs that vary from the conventional parallel and perpendicular relationships formed through routine positioning; see NOTE). Center CR to pass midway between EAMs and exiting the foramen magnum. This centers CR to midsagittal plane 2¼ inches (6 cm) above superciliary arch; then center IR to projected CR.
+    - **Poziție Pacient:** Pacient: pacient Decubit dorsal; remove toate metal, plastic, și other removable objects de la cap. Do nu remove cervical collar unless approved prin attending physician.; Regiune anatomică: AP axial (Incidență AP Axială (Metoda Towne)) incidență Align MSP perpendicular la midline de grilă sau table (see previous WARNING). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** AP axial (Incidență AP Axială (Metoda Towne)) incidență (Fig. 15.79) Angle raza centrală 30 grade caudal la linie orbitomeatală (LOM), sau 37 grade caudal la linie infraorbitomeatală (LIOM). (Once again, note that pacient în cervical collar cu gâtul extins will have OMLs și IOMLs that vary de la conventional paralel și perpendicular relationships formed through routine positioning; see NOTE). Center raza centrală la pass midway între EAMs și exiting gaură occipitală mare (foramen magnum). This centers raza centrală la plan mediosagital 2¼ inches (6 cm) above superciliary arch; then Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Craniu traumatism acuttism / Regim Urgență Lateral, horizontal beam AP AP axial Fig. 15.79 AP axial Towne—CR 30 degrees caudad to OML, centered to midpoint between EAMs.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Craniu traumatism acuttism / Regim Urgență lateral, orizontal fascicul AP AP axial Fig. 15.79 AP axial Towne—raza centrală 30 grade caudal la linie orbitomeatală (LOM), centrat pe midpoint între EAMs.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -108,16 +111,16 @@ title: Rx AP 30 Craniu (DEGREE AXIAL (Incidență AP Axială (Metoda Towne)))
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -130,7 +133,7 @@ title: Rx AP 30 Craniu (DEGREE AXIAL (Incidență AP Axială (Metoda Towne)))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    The CR for the AP axial should not exceed 45 degrees, or excessive distortion will hinder the visualization of essential anatomy. If the CR cannot be angled 30 degrees to the OML (before the maximum angle of 45 degrees is reached), the dorsum sellae and posterior clinoid processes will be visualized superior to the foramen magnum. Radiation Safety Exposure factor selection should be optimized in accordance with the ALARA. Collimate on four sides to anatomy of interest. Follow local regulations, department policy, and protocol in the use of shielding.
+    raza centrală pentru AP axial trebuie să nu exceed 45 grade, sau excessive distortion will hinder visualization de essential anatomy. If raza centrală cannot fie înclinat 30 grade la linie orbitomeatală (LOM) (before maximum angle de 45 grade este reached), dorsum sellae și posterior clinoid processes will fie visualized superior la gaură occipitală mare (foramen magnum). Radiation Safety expunere factor selection trebuie să fie optimized în accordance cu ALARA. Collimate pe four sides la anatomy de interest. Follow local regulations, department policy, și protocol în use de shielding.
 
 
 ### 🖼️ Imagini
@@ -139,9 +142,9 @@ title: Rx AP 30 Craniu (DEGREE AXIAL (Incidență AP Axială (Metoda Towne)))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.79 AP axial Towne—CR 30 degrees caudad to OML, centered](../../assets/images/protocols/bontrager/rx-ap-30-craniu-degree-axial-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
+![Fig. 15.79 AP axial Towne—raza centrală 30 grade caudal la linie orbitomeatală (LOM), centrat](../../assets/images/protocols/bontrager/rx-ap-30-craniu-degree-axial-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 15.79 AP axial Towne—CR 30 degrees caudad to OML, centered</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.79 AP axial Towne—CR 30 degrees caudad to OML, centered)</span></figcaption>
+<figcaption><strong>Fig. 15.79 AP axial Towne—raza centrală 30 grade caudal la linie orbitomeatală (LOM), centrat</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.79 AP axial Towne—raza centrală 30 grade caudal la linie orbitomeatală (LOM), centrat)</span></figcaption>
 
 </figure>
 

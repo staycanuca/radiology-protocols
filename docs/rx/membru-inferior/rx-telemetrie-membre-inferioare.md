@@ -4,7 +4,7 @@ breathing: Adaptată incidenței și cooperării; de confirmat local.
 category: membru-inferior
 centering: Conform incidenței și acoperirii anatomice documentate.
 clinical_indications:
-- Măsurarea axelor mecanice sau a discrepanței de lungime pentru planificare/urmărire
+- Măsurarea axelor mecanice sau discrepanței de lungime pentru planificare/urmărire
   ortopedică.
 clinical_status: draft_not_for_clinical_use
 images: []
@@ -39,6 +39,34 @@ source_mapping:
     section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
     source_id: 1788781fa4485e4c83b87b26a58ba20b
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.436291+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 1788781fa4485e4c83b87b26a58ba20b
+  institution: Norfolk and Norwich University Hospitals NHS
+  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
+  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
+  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.436291+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ddd2e6e013d35cf6bdd642cf381480b0
+  institution: Royal Children’s Hospital Melbourne
+  section: Imaging
+  title: RCH — Limb Reconstruction, Clinic
+  url: https://www.rch.org.au/limbrecon/the_lr_process/Clinic/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.436291+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Șolduri, genunchi și glezne în aceeași examinare calibrată.
   condition: Parte a setului inițial justificat de radiolog
@@ -58,42 +86,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX telemetrie membre inferioare — axe și lungimi
-sources:
-- id: 1788781fa4485e4c83b87b26a58ba20b
-  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
-  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
-  institution: Norfolk and Norwich University Hospitals NHS
-  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.436291+00:00'
-- id: ddd2e6e013d35cf6bdd642cf381480b0
-  title: RCH — Limb Reconstruction, Clinic
-  url: https://www.rch.org.au/limbrecon/the_lr_process/Clinic/
-  institution: Royal Children’s Hospital Melbourne
-  section: Imaging
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.436291+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.436291+00:00'
+title: Rx RX telemetrie membre inferioare — axe și lungimi
 workbench_transfer:
   draft_id: e4efeafb3bc65232af6514a9b1ea0e16
-  transferred_at: '2026-09-15T08:50:31.294515+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.294515+00:00'
 ---
-
-# RX telemetrie membre inferioare — axe și lungimi
+# Rx RX telemetrie membre inferioare — axe și lungimi
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -115,7 +114,7 @@ workbench_transfer:
 
     === "Indicații Clinice"
 
-        - Măsurarea axelor mecanice sau a discrepanței de lungime pentru planificare/urmărire ortopedică.
+        - Măsurarea axelor mecanice sau discrepanței de lungime pentru planificare/urmărire ortopedică.
 
     === "Ghid Național IRIS"
 
@@ -206,8 +205,9 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/) — Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-- [RCH — Limb Reconstruction, Clinic](https://www.rch.org.au/limbrecon/the_lr_process/Clinic/) — Imaging
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/)
+- [RCH — Limb Reconstruction, Clinic](https://www.rch.org.au/limbrecon/the_lr_process/Clinic/)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

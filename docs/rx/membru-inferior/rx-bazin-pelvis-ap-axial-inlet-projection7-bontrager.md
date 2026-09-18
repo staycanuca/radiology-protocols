@@ -1,35 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Bazin (Pelvis) SPECIAL AP axial outlet
-  projection AP axial inlet projection x x Plane of inlet Sacru
+breathing: Apnee pe durata expunerii. Bazin (bazin (pelvis)) SPECIAL AP axial outlet
+  incidență AP axial inlet incidență x x Plane de inlet Sacru
 category: membru-inferior
-centering: Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (Raza centrală
-  perpendiculară to pelvic inlet).
+centering: Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (Raza
+  centrală perpendiculară la pelvic inlet).
 clinical_indications:
-- Assessment of pelvic traumatism acuttism / Regim Urgență for posterior displacement
-  or inward or outward rotation of the anterior Bazin (Pelvis)
+- Assessment de pelvic traumatism acuttism / Regim Urgență pentru posterior displacement
+  sau inward sau outward rotație de anterior Bazin (bazin (pelvis))
 images:
-- caption: Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (CR
+- caption: Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (raza
+    centrală
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.50 AP axial
-    inlet projection—CR 40 degrees caudad (CR)
+    inlet incidență—raza centrală 40 grade caudal (raza centrală)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_1.jpeg
-- caption: Fig. 7.52 AP axial inlet projection.
+- caption: Fig. 7.52 AP axial inlet incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.52
-    AP axial inlet projection.)
+    AP axial inlet incidență.)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_2.jpeg
-- caption: Fig. 7.51 AP axial inlet projection.
+- caption: Fig. 7.51 AP axial inlet incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.51
-    AP axial inlet projection.)
+    AP axial inlet incidență.)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: With patient Decubit Dorsal, provide pillow for head. With patient’s
-  legs extended, place support under knees for comfort (Fig. 7.50).; Regiune anatomică:
-  Align midsagittal plane to CR and to midline of table and/or IR. Ensure Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of
-  Bazin (Pelvis) (ASISto- tabletop distance equal on both sides). Center IR to projected
-  CR.'
+position: 'Pacient: cu pacient Decubit dorsal, provide pillow pentru cap. cu pacient’s
+  membre inferioare extins, place support under genunchi pentru comfort (Fig. 7.50).;
+  Regiune anatomică: Align plan mediosagital la raza centrală și la linia mediană
+  mesei și/sau receptorul de imagine. Ensure Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) (ASISto-
+  tabletop distance equal pe ambele părți (bilateral)). Se centrează receptorul de
+  imagine pe proiecția razei centrale.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -37,20 +39,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Axial projection that demonstrates the pelvic ring or inlet (superior aperture)
-  in its entirety (Figs. 7.51 and 7.52) Position:'
+- 'axial incidență that evidențiază pelvic ring sau inlet (superior aperture) în its
+  entirety (Figs. 7.51 și 7.52) poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  Ischial spines are fully demonstrated and equal in size and shape. Proper centering
-  and angulation are evidenced by demonstration of the superimposed anterior and posterior
-  portions of the pelvic ring.'
-- Center of pelvic inlet should be at center of collimated field.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast of the superimposed anterior and posterior
-  portions of the pelvic ring. Lateral aspects of ala generally are overexposed.
-- Bony margins and trabecular markings of pubic and ischial bones appear sharp, indicating
-  no motion. Bazin (Pelvis) inlet (superior aperture) Femoral head Superior ramus
-  of pubis Ala of ilium Ischial spine Ramus of ischium Fig. 7.52 AP axial inlet projection.
-  Fig. 7.51 AP axial inlet projection.
+  coloană vertebrală ischiatice sunt fully evidențiat și equal în size și shape. corect
+  centering și angulation sunt evidenced prin demonstration de superimposed anterior
+  și posterior portions de pelvic ring.'
+- Center de pelvic inlet trebuie să fie la center de câmp colimat.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast de superimposed anterior și posterior
+  portions de pelvic ring. lateral aspects de ala generally sunt overexposed.
+- Bony margins și trabecular markings de pubic și ischial bones appear net, indicating
+  fără mișcare. Bazin (bazin (pelvis)) inlet (superior aperture) cap femural superior
+  ramus de pubis Ala de ilium coloană vertebrală ischiatice Ramus de ischium Fig.
+  7.52 AP axial inlet incidență. Fig. 7.51 AP axial inlet incidență.
 sid_dff: 100 cm
 slug: rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager
 sources:
@@ -58,7 +60,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate closely on four sides to area of interest.
+  collimation: Collimate closely pe four sides la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -85,7 +87,7 @@ title: Rx Bazin (Pelvis) AP AXIAL INLET PROJECTION7
 
     === "Indicații Clinice"
 
-        - Assessment of pelvic traumatism acuttism / Regim Urgență for posterior displacement or inward or outward rotation of the anterior Bazin (Pelvis)
+        - Assessment de pelvic traumatism acuttism / Regim Urgență pentru posterior displacement sau inward sau outward rotație de anterior Bazin (bazin (pelvis))
 
     === "Ghid Național IRIS"
 
@@ -99,10 +101,10 @@ title: Rx Bazin (Pelvis) AP AXIAL INLET PROJECTION7
 
     ---
 
-    - **Poziție Pacient:** Pacient: With patient Decubit Dorsal, provide pillow for head. With patient’s legs extended, place support under knees for comfort (Fig. 7.50).; Regiune anatomică: Align midsagittal plane to CR and to midline of table and/or IR. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis) (ASISto- tabletop distance equal on both sides). Center IR to projected CR.
-    - **Punct de Centrare Fascicul:** Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (Raza centrală perpendiculară to pelvic inlet).
+    - **Poziție Pacient:** Pacient: cu pacient Decubit dorsal, provide pillow pentru cap. cu pacient’s membre inferioare extins, place support under genunchi pentru comfort (Fig. 7.50).; Regiune anatomică: Align plan mediosagital la raza centrală și la linia mediană mesei și/sau receptorul de imagine. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) (ASISto- tabletop distance equal pe ambele părți (bilateral)). Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (Raza centrală perpendiculară la pelvic inlet).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Bazin (Pelvis) SPECIAL AP axial outlet projection AP axial inlet projection x x Plane of inlet Sacru
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Bazin (bazin (pelvis)) SPECIAL AP axial outlet incidență AP axial inlet incidență x x Plane de inlet Sacru
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,19 +118,19 @@ title: Rx Bazin (Pelvis) AP AXIAL INLET PROJECTION7
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate closely on four sides to area of interest. |
+    | **Colimare Fascicul** | Collimate closely pe four sides la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Axial projection that demonstrates the pelvic ring or inlet (superior aperture) in its entirety (Figs. 7.51 and 7.52) Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Ischial spines are fully demonstrated and equal in size and shape. Proper centering and angulation are evidenced by demonstration of the superimposed anterior and posterior portions of the pelvic ring.
-    - Center of pelvic inlet should be at center of collimated field.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast of the superimposed anterior and posterior portions of the pelvic ring. Lateral aspects of ala generally are overexposed.
-    - Bony margins and trabecular markings of pubic and ischial bones appear sharp, indicating no motion. Bazin (Pelvis) inlet (superior aperture) Femoral head Superior ramus of pubis Ala of ilium Ischial spine Ramus of ischium Fig. 7.52 AP axial inlet projection. Fig. 7.51 AP axial inlet projection.
+    - axial incidență that evidențiază pelvic ring sau inlet (superior aperture) în its entirety (Figs. 7.51 și 7.52) poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: coloană vertebrală ischiatice sunt fully evidențiat și equal în size și shape. corect centering și angulation sunt evidenced prin demonstration de superimposed anterior și posterior portions de pelvic ring.
+    - Center de pelvic inlet trebuie să fie la center de câmp colimat.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast de superimposed anterior și posterior portions de pelvic ring. lateral aspects de ala generally sunt overexposed.
+    - Bony margins și trabecular markings de pubic și ischial bones appear net, indicating fără mișcare. Bazin (bazin (pelvis)) inlet (superior aperture) cap femural superior ramus de pubis Ala de ilium coloană vertebrală ischiatice Ramus de ischium Fig. 7.52 AP axial inlet incidență. Fig. 7.51 AP axial inlet incidență.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -148,25 +150,25 @@ title: Rx Bazin (Pelvis) AP AXIAL INLET PROJECTION7
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (CR](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_1.jpeg)
+![Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (raza centrală](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (CR</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.50 AP axial inlet projection—CR 40 degrees caudad (CR)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.52 AP axial inlet projection.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.52 AP axial inlet projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.52 AP axial inlet projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (raza centrală</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.50 AP axial inlet incidență—raza centrală 40 grade caudal (raza centrală)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.51 AP axial inlet projection.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_3.jpeg)
+![Fig. 7.52 AP axial inlet incidență.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.51 AP axial inlet projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.51 AP axial inlet projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.52 AP axial inlet incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.52 AP axial inlet incidență.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.51 AP axial inlet incidență.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-inlet-projection7-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.51 AP axial inlet incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.51 AP axial inlet incidență.)</span></figcaption>
 
 </figure>
 

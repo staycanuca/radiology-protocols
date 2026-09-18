@@ -1,35 +1,35 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Umăr (Nontraumatism acut) SPECIAL
-  PA transaxillary (modified Bernageau method) 30° Fig. 5.52 Ortostatism PA axial
-  transaxillary projection (modified Bernageau).
+breathing: Apnee pe durata expunerii. Umăr (Nontraumatism acut) SPECIAL PA transaxillary
+  (modified Bernageau method) 30° Fig. 5.52 Ortostatism PA axial transaxillary incidență
+  (modified Bernageau).
 category: membru-superior
-centering: is directed 30° caudally and centered at the level of the scapular spine
-  to pass through the scapulohumeral joint.7
+centering: este orientat 30° caudally și centrat la nivelul level de scapular coloană
+  vertebrală la pass through scapulohumeral articulație.7
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of the proximal Humerus
+- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
 - Bursitis, Umăr impingement, osteoporosis, artroză / modificări degenerative articulare,
-  and tendonitis
+  și tendonitis
 images:
-- caption: Fig. 5.52 Ortostatism PA axial transaxillary projection (modiﬁed Bernageau).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.52 Erect PA
-    axial transaxillary projection (modiﬁed Bernageau).)
+- caption: Fig. 5.52 Ortostatism PA axial transaxillary incidență (modified Bernageau).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.52 în ortostatism
+    PA axial transaxillary incidență (modified Bernageau).)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_1.jpeg
-- caption: Fig. 5.53 PA axial transaxillary projection (modiﬁed Bernageau).
+- caption: Fig. 5.53 PA axial transaxillary incidență (modified Bernageau).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.53
-    PA axial transaxillary projection (modiﬁed Bernageau).)
+    PA axial transaxillary incidență (modified Bernageau).)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_2.jpeg
-- caption: Fig. 5.54 PA axial transaxillary projection (modiﬁed Bernageau).
+- caption: Fig. 5.54 PA axial transaxillary incidență (modified Bernageau).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.54
-    PA axial transaxillary projection (modiﬁed Bernageau).)
+    PA axial transaxillary incidență (modified Bernageau).)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Take radiograph with the patient in an Ortostatism (Fig. 5.52)
-  or a Decubit position. The patient is positioned 70° from PA, rotating toward the
-  affected side.6; Regiune anatomică: The arm is raised superiorly to 160° to 180°
-  flexion.6 The head is turned away from the affected arm.'
+position: 'Pacient: Take radiografie cu pacientul în Ortostatism (Fig. 5.52) sau Decubit
+  poziție. pacientul este poziționat 70° de la PA, rotating spre partea afectată.6;
+  Regiune anatomică: braț este raised superiorly la 160° la 180° flexion.6 capul este
+  turned away de la brațul afectat.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -37,23 +37,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Lateral view of proximal Humerus in relationship to scapulohumeral (glenohumeral)
-  articulation is visualized.
-- 'Coracoid process of Omoplat (Scapulă) is seen on end (Figs. 5.53 and 5.54). Position:'
-- Arm is seen to be raised superiorly above the body.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft
-  tissue anatomy.
-- Bony margins of the acromion and coracoid process are visible through the humeral
-  head. Fig. 5.53 PA axial transaxillary projection (modified Bernageau). (From Pansard
-  E, Klouche S, Billot N, et al. Reliability and validity assessment of a glenoid
-  bone loss measurement using the Bernageau profile view in chronic anterior Umăr
-  instability. J Umăr Cot Surg 22(9):1193–1198, 2013.) Humeral head Glenoid cavity
-  Scapular spine Distal Claviculă Neck of Omoplat (Scapulă) Fig. 5.54 PA axial transaxillary
-  projection (modified Bernageau). (From Pansard E, et al. Reliability and validity
-  assessment of a glenoid bone loss measurement using the Bernageau profile view in
-  chronic anterior Umăr instability. J Umăr Cot Surg. 22[9]:1193–1198, 2013.)
+- lateral incidență de proximal Humerus în relationship la scapulohumeral (glenohumeral)
+  articulation este visualized.
+- 'proces coracoid de Omoplat (Scapulă) este seen pe end (Figs. 5.53 și 5.54). poziție:'
+- braț este seen la fie raised superiorly above corp.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent
+  părți moi anatomy.
+- Bony margins de acromion și proces coracoid sunt vizibil through cap humeral. Fig.
+  5.53 PA axial transaxillary incidență (modified Bernageau). (de la Pansard E, Klouche
+  S, Billot N, et al. Reliability și validity assessment de glenoid bone loss measurement
+  using Bernageau profile incidență în chronic anterior Umăr instability. J Umăr Cot
+  Surg 22(9):1193–1198, 2013.) cap humeral cavitate glenoidă Scapular coloană vertebrală
+  distal Claviculă Neck de Omoplat (Scapulă) Fig. 5.54 PA axial transaxillary incidență
+  (modified Bernageau). (de la Pansard E, et al. Reliability și validity assessment
+  de glenoid bone loss measurement using Bernageau profile incidență în chronic anterior
+  Umăr instability. J Umăr Cot Surg. 22[9]:1193–1198, 2013.)
 sid_dff: 100 cm
 slug: rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager
 sources:
@@ -61,16 +61,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate closely to area of interest.
+  collimation: Field Size Collimate closely la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED BERNAGEAU
+title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY Incidență (MODIFIED BERNAGEAU
   METHOD)
 ---
-# Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED BERNAGEAU METHOD)
+# Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY Incidență (MODIFIED BERNAGEAU METHOD)
 
 
 <div class="rx-meta-bar">
@@ -89,8 +89,8 @@ title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of the proximal Humerus
-        - Bursitis, Umăr impingement, osteoporosis, artroză / modificări degenerative articulare, and tendonitis
+        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
+        - Bursitis, Umăr impingement, osteoporosis, artroză / modificări degenerative articulare, și tendonitis
 
     === "Ghid Național IRIS"
 
@@ -104,10 +104,10 @@ title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED
 
     ---
 
-    - **Poziție Pacient:** Pacient: Take radiograph with the patient in an Ortostatism (Fig. 5.52) or a Decubit position. The patient is positioned 70° from PA, rotating toward the affected side.6; Regiune anatomică: The arm is raised superiorly to 160° to 180° flexion.6 The head is turned away from the affected arm.
-    - **Punct de Centrare Fascicul:** is directed 30° caudally and centered at the level of the scapular spine to pass through the scapulohumeral joint.7
+    - **Poziție Pacient:** Pacient: Take radiografie cu pacientul în Ortostatism (Fig. 5.52) sau Decubit poziție. pacientul este poziționat 70° de la PA, rotating spre partea afectată.6; Regiune anatomică: braț este raised superiorly la 160° la 180° flexion.6 capul este turned away de la brațul afectat.
+    - **Punct de Centrare Fascicul:** este orientat 30° caudally și centrat la nivelul level de scapular coloană vertebrală la pass through scapulohumeral articulație.7
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Umăr (Nontraumatism acut) SPECIAL PA transaxillary (modified Bernageau method) 30° Fig. 5.52 Ortostatism PA axial transaxillary projection (modified Bernageau).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Umăr (Nontraumatism acut) SPECIAL PA transaxillary (modified Bernageau method) 30° Fig. 5.52 Ortostatism PA axial transaxillary incidență (modified Bernageau).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,19 +121,19 @@ title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate closely to area of interest. |
+    | **Colimare Fascicul** | Field Size Collimate closely la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of proximal Humerus in relationship to scapulohumeral (glenohumeral) articulation is visualized.
-    - Coracoid process of Omoplat (Scapulă) is seen on end (Figs. 5.53 and 5.54). Position:
-    - Arm is seen to be raised superiorly above the body.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft tissue anatomy.
-    - Bony margins of the acromion and coracoid process are visible through the humeral head. Fig. 5.53 PA axial transaxillary projection (modified Bernageau). (From Pansard E, Klouche S, Billot N, et al. Reliability and validity assessment of a glenoid bone loss measurement using the Bernageau profile view in chronic anterior Umăr instability. J Umăr Cot Surg 22(9):1193–1198, 2013.) Humeral head Glenoid cavity Scapular spine Distal Claviculă Neck of Omoplat (Scapulă) Fig. 5.54 PA axial transaxillary projection (modified Bernageau). (From Pansard E, et al. Reliability and validity assessment of a glenoid bone loss measurement using the Bernageau profile view in chronic anterior Umăr instability. J Umăr Cot Surg. 22[9]:1193–1198, 2013.)
+    - lateral incidență de proximal Humerus în relationship la scapulohumeral (glenohumeral) articulation este visualized.
+    - proces coracoid de Omoplat (Scapulă) este seen pe end (Figs. 5.53 și 5.54). poziție:
+    - braț este seen la fie raised superiorly above corp.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent părți moi anatomy.
+    - Bony margins de acromion și proces coracoid sunt vizibil through cap humeral. Fig. 5.53 PA axial transaxillary incidență (modified Bernageau). (de la Pansard E, Klouche S, Billot N, et al. Reliability și validity assessment de glenoid bone loss measurement using Bernageau profile incidență în chronic anterior Umăr instability. J Umăr Cot Surg 22(9):1193–1198, 2013.) cap humeral cavitate glenoidă Scapular coloană vertebrală distal Claviculă Neck de Omoplat (Scapulă) Fig. 5.54 PA axial transaxillary incidență (modified Bernageau). (de la Pansard E, et al. Reliability și validity assessment de glenoid bone loss measurement using Bernageau profile incidență în chronic anterior Umăr instability. J Umăr Cot Surg. 22[9]:1193–1198, 2013.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,25 +153,25 @@ title: Rx Umăr (NONtraumatism acut) PA AXIAL TRANSAXILLARY PROJECTION (MODIFIED
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.52 Ortostatism PA axial transaxillary projection (modiﬁed Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_1.jpeg)
+![Fig. 5.52 Ortostatism PA axial transaxillary incidență (modified Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.52 Ortostatism PA axial transaxillary projection (modiﬁed Bernageau).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.52 Erect PA axial transaxillary projection (modiﬁed Bernageau).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.53 PA axial transaxillary projection (modiﬁed Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.53 PA axial transaxillary projection (modiﬁed Bernageau).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.53 PA axial transaxillary projection (modiﬁed Bernageau).)</span></figcaption>
+<figcaption><strong>Fig. 5.52 Ortostatism PA axial transaxillary incidență (modified Bernageau).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.52 în ortostatism PA axial transaxillary incidență (modified Bernageau).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.54 PA axial transaxillary projection (modiﬁed Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_3.jpeg)
+![Fig. 5.53 PA axial transaxillary incidență (modified Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.54 PA axial transaxillary projection (modiﬁed Bernageau).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.54 PA axial transaxillary projection (modiﬁed Bernageau).)</span></figcaption>
+<figcaption><strong>Fig. 5.53 PA axial transaxillary incidență (modified Bernageau).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.53 PA axial transaxillary incidență (modified Bernageau).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.54 PA axial transaxillary incidență (modified Bernageau).](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-pa-axial-transaxillary-projection-modified-bernageau-method-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 5.54 PA axial transaxillary incidență (modified Bernageau).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.54 PA axial transaxillary incidență (modified Bernageau).)</span></figcaption>
 
 </figure>
 

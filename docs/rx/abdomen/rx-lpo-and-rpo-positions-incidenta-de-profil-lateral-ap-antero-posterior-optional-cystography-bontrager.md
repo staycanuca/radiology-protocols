@@ -2,34 +2,35 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: abdomen
-centering: AP Center 2 inches (5 cm) superior to simfiza pubiană, with 10° to 15°
-  caudad tube angle (to project simfiza pubiană inferior to bladder). To demonstrate
-  urinary reflux, center higher at level of creasta iliacă (corespunzător L4-L5).
-  Cystography ROUTINE AP (10° to 15° caudad) Both oblique positions (45° to 60°) SPECIAL
-  Lateral (optional) Fig. 14.85 AP, 10° to 15° caudad. Fig. 14.86 RPO, 45° to 60°.
-  Fig. 14.87 Left lateral (optional).
+centering: AP Center 2 inches (5 cm) superior la simfiza pubiană, cu 10° la 15° caudal
+  tube angle (la project simfiza pubiană inferior la bladder). la evidențiază urinary
+  reflux, center higher la level de creasta iliacă (corespunzător L4-L5). Cystography
+  ROUTINE AP (10° la 15° caudal) ambele oblic poziții (45° la 60°) SPECIAL lateral
+  (optional) Fig. 14.85 AP, 10° la 15° caudal. Fig. 14.86 RPO, 45° la 60°. Fig. 14.87
+  stâng lateral (optional).
 clinical_indications:
-- Signs of cystitis, obstruction, vesicoureteral reflux, and bladder calculi are visualized.
-- Lateral demonstrates possible fistulas between the bladder and uterus or rectum.
-  See p. 563 for detailed procedure descriptions.
+- Signs de cystitis, obstruction, vesicoureteral reflux, și bladder Litiază urinară
+  / calculi radio-opaci sunt visualized.
+- lateral evidențiază possible fistulas între bladder și uterus sau rectum. See p.
+  563 pentru detailed procedure descriptions.
 images:
-- caption: Fig. 14.85 AP, 10° to 15° caudad.
+- caption: Fig. 14.85 AP, 10° la 15° caudal.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.85 AP, 10°
-    to 15° caudad.)
+    la 15° caudal.)
   url: assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_1.jpeg
-- caption: Fig. 14.86 RPO, 45° to 60°.
+- caption: Fig. 14.86 RPO, 45° la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.86
-    RPO, 45° to 60°.)
+    RPO, 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_2.jpeg
-- caption: Fig. 14.87 Left lateral (optional).
+- caption: Fig. 14.87 stâng lateral (optional).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.87
-    Left lateral (optional).)
+    stâng lateral (optional).)
   url: assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Do not flex elevatedside leg more than necessary to prevent superimposition
-  of the leg over the bladder. Lateral This is optional because of the high gonadal
-  radiation dose. Position patient in true lateral (Absența rotației anatomice: clavicule
+notes: 'Do nu flex elevatedside membru inferior more than necessary la prevent superimposition
+  de membru inferior over bladder. lateral This este optional because de high gonadal
+  radiation dose. poziție pacient în true lateral (Absența rotației anatomice: clavicule
   echidistante față de linia apofizelor spinoase) (Fig. 14.87).'
 position: Conform incidenței standard descrise
 protection:
@@ -39,10 +40,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 100 cm
 slug: rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager
 sources:
@@ -50,16 +50,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Posterior)
-  ((OPTIONAL) - CYSTOGRAPHY)
+title: Rx LPO AND Oblică Posterioară Dreaptă (OPD / RPO)S, Incidență de Profil (Lateral)
+  AP (Antero-Posterior) ((OPTIONAL) - CYSTOGRAPHY)
 ---
-# Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Posterior) ((OPTIONAL) - CYSTOGRAPHY)
+# Rx LPO AND Oblică Posterioară Dreaptă (OPD / RPO)S, Incidență de Profil (Lateral) AP (Antero-Posterior) ((OPTIONAL) - CYSTOGRAPHY)
 
 
 <div class="rx-meta-bar">
@@ -78,8 +78,8 @@ title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Post
 
     === "Indicații Clinice"
 
-        - Signs of cystitis, obstruction, vesicoureteral reflux, and bladder calculi are visualized.
-        - Lateral demonstrates possible fistulas between the bladder and uterus or rectum. See p. 563 for detailed procedure descriptions.
+        - Signs de cystitis, obstruction, vesicoureteral reflux, și bladder Litiază urinară / calculi radio-opaci sunt visualized.
+        - lateral evidențiază possible fistulas între bladder și uterus sau rectum. See p. 563 pentru detailed procedure descriptions.
 
     === "Ghid Național IRIS"
 
@@ -94,7 +94,7 @@ title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Post
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** AP Center 2 inches (5 cm) superior to simfiza pubiană, with 10° to 15° caudad tube angle (to project simfiza pubiană inferior to bladder). To demonstrate urinary reflux, center higher at level of creasta iliacă (corespunzător L4-L5). Cystography ROUTINE AP (10° to 15° caudad) Both oblique positions (45° to 60°) SPECIAL Lateral (optional) Fig. 14.85 AP, 10° to 15° caudad. Fig. 14.86 RPO, 45° to 60°. Fig. 14.87 Left lateral (optional).
+    - **Punct de Centrare Fascicul:** AP Center 2 inches (5 cm) superior la simfiza pubiană, cu 10° la 15° caudal tube angle (la project simfiza pubiană inferior la bladder). la evidențiază urinary reflux, center higher la level de creasta iliacă (corespunzător L4-L5). Cystography ROUTINE AP (10° la 15° caudal) ambele oblic poziții (45° la 60°) SPECIAL lateral (optional) Fig. 14.85 AP, 10° la 15° caudal. Fig. 14.86 RPO, 45° la 60°. Fig. 14.87 stâng lateral (optional).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -110,16 +110,16 @@ title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Post
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -132,7 +132,7 @@ title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Post
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Do not flex elevatedside leg more than necessary to prevent superimposition of the leg over the bladder. Lateral This is optional because of the high gonadal radiation dose. Position patient in true lateral (Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase) (Fig. 14.87).
+    Do nu flex elevatedside membru inferior more than necessary la prevent superimposition de membru inferior over bladder. lateral This este optional because de high gonadal radiation dose. poziție pacient în true lateral (Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase) (Fig. 14.87).
 
 
 ### 🖼️ Imagini
@@ -141,25 +141,25 @@ title: Rx LPO AND RPO POSITIONS, Incidență de Profil (Lateral) AP (Antero-Post
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.85 AP, 10° to 15° caudad.](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_1.jpeg)
+![Fig. 14.85 AP, 10° la 15° caudal.](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 14.85 AP, 10° to 15° caudad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.85 AP, 10° to 15° caudad.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 14.86 RPO, 45° to 60°.](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 14.86 RPO, 45° to 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.86 RPO, 45° to 60°.)</span></figcaption>
+<figcaption><strong>Fig. 14.85 AP, 10° la 15° caudal.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.85 AP, 10° la 15° caudal.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.87 Left lateral (optional).](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_3.jpeg)
+![Fig. 14.86 RPO, 45° la 60°.](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 14.87 Left lateral (optional).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.87 Left lateral (optional).)</span></figcaption>
+<figcaption><strong>Fig. 14.86 RPO, 45° la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.86 RPO, 45° la 60°.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 14.87 stâng lateral (optional).](../../assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 14.87 stâng lateral (optional).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.87 stâng lateral (optional).)</span></figcaption>
 
 </figure>
 

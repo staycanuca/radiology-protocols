@@ -1,29 +1,29 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on expiration.
+breathing: Apnee pe durata expunerii pe expiration.
 category: coloana
-centering: 'perpendicular to IR (see NOTES). More open collimation 14 × 17 inches
-  (35 × 43 cm): Center to level of creasta iliacă (corespunzător L4-L5) (L4–L5). This
-  projection includes lumbar vertebrae, Sacru, and possibly Coccis. Tighter collimation
-  11 × 14 inches (30 × 35 cm): Center to L3 at the level of the lower costal margin
-  (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This includes the
-  five lumbar vertebrae. Center IR to CR.'
+centering: 'perpendicular pe receptorul de imagine (see NOTES). More open collimation
+  14 × 17 inches (35 × 43 cm): Center la level de creasta iliacă (corespunzător L4-L5)
+  (L4–L5). This incidență includes coloană lombară, Sacru, și possibly Coccis. Tighter
+  collimation 11 × 14 inches (30 × 35 cm): Center la L3 la nivelul lower costal margin
+  (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This includes five
+  coloană lombară. Se centrează receptorul de imagine pe raza centrală.'
 clinical_indications:
-- pathology of the lumbar vertebrae including suspiciune de fractură, spondylolisthesis,
-  neoplastic processes, and osteoporosis
+- pathology de coloană lombară including suspiciune de fractură, spondylolisthesis,
+  neoplastic processes, și osteoporosis
 images:
-- caption: Fig. 9.34 Left lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul
+- caption: Fig. 9.34 stâng lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul
     de imagine).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.34 Left lateral
-    lumbar (CR perpendicular to IR).)
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.34 stâng lateral
+    lumbar (raza centrală perpendicular pe receptorul de imagine).)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 9.35 Left lateral lumbar (CR 5° caudad).
+- caption: Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.35
-    Left lateral lumbar (CR 5° caudad).)
+    stâng lateral lumbar (raza centrală 5° caudal).)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_2.jpeg
-- caption: 'Fig. 9.36 Lateral lumbar. (Modiﬁed from Standring S, editor: Gray’s'
+- caption: 'Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.36
-    Lateral lumbar. (Modiﬁed from Standring S, editor: Gray’s)'
+    lateral lumbar. (Modified de la Standring S, editor: Gray’s)'
   url: assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -31,20 +31,21 @@ images:
   url: assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Although the average male patient (and some female patients) requires no
-  CR angle, a patient with a wider Bazin (Pelvis) and a narrow thorax may require
-  a 5° to 8° caudad angle even with support, as shown in Fig. 9.35. Fig. 9.34 Left
+notes: 'S: Although average male pacient (și some female pacienți) requires fără raza
+  centrală angle, pacient cu wider Bazin (bazin (pelvis)) și narrow thorax poate require
+  a 5° la 8° caudal angle even cu support, ca vizualizat în Fig. 9.35. Fig. 9.34 stâng
   lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine). Coloană
-  Lombară ROUTINE AP (or PA) Oblique—posterior or anterior Lateral Lateral L5–S1 35
+  Lombară ROUTINE AP (sau PA) oblic—posterior sau anterior lateral lateral L5–S1 35
   (30) (35)'
-position: 'Pacient: Incidență de Profil (Lateral) Place patient in the lateral Decubit
-  position, with head on pillow, knees flexed, with support between knees and ankles
-  to better maintain a true Incidență de Profil (Lateral) and ensure patient comfort.;
-  Regiune anatomică: Align midcoronal plane to CR and midline of table and/or IR (Fig.
-  9.34). Place radiolucent support under waist as needed to place the long axis of
-  the spine near parallel to the table (palpating spinous processes to determine;
-  see NOTES). Ensure that Absența rotației anatomice: clavicule echidistante față
-  de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.'
+position: 'Pacient: Incidență de Profil (lateral) Place pacient în lateral Decubit
+  poziție, cu cap pe pillow, genunchi flectat, cu support între genunchi și ankles
+  la better maintain true Incidență de Profil (lateral) și ensure pacient comfort.;
+  Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei
+  și/sau receptorul de imagine (Fig. 9.34). Place radiolucent support under waist
+  ca needed la place axa longitudinală de coloană vertebrală near paralel cu table
+  (palpating procese spinoase la determine; see NOTES). Se verifică absența rotației:
+  claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau
+  Bazin (bazin (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -52,20 +53,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Intervertebral foramina L1–L4, vertebral bodies, intervertebral joints, spinous
-  processes, and L5–S1 junction.
-- Depending on the recommended field size used, the entire Sacru may also be included
-  (Figs. 9.36 and 9.37). Position
-- Spinal column aligned parallel to the IR, as indicated by open intervertebral foramina
-  and open intervertebral joint spaces.
+- Intervertebral foramina L1–L4, vertebral corpuri, intervertebral articulații, procese
+  spinoase, și L5–S1 junction.
+- Depending pe recommended field size used, entire Sacru poate also fie included (Figs.
+  9.36 și 9.37). poziție
+- Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open
+  intervertebral foramina și open intervertebral spații articulare.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is indicated by superimposed greater sciatic notches and posterior vertebral bodies.'
-- Collimation field size to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of bony margins
-  and trabecular markings of lumbar vertebrae.
-- 'no motion. 5° caudad Fig. 9.35 Left lateral lumbar (CR 5° caudad). Fig. 9.36 Lateral
-  lumbar. (Modified from Standring S, editor: Gray’s Anatomy, ed 41, Philadelphia,
-  2016, Elsevier.)'
+  este indicated prin superimposed greater sciatic notches și posterior vertebral
+  corpuri.'
+- Collimation field size la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
+  și trabecular markings de coloană lombară.
+- 'fără mișcare. 5° caudal Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal).
+  Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s Anatomy, ed
+  41, Philadelphia, 2016, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-coloana-lombara-profil-lateral-bontrager
 sources:
@@ -73,7 +75,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -100,7 +102,7 @@ title: Rx Coloană Lombară Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - pathology of the lumbar vertebrae including suspiciune de fractură, spondylolisthesis, neoplastic processes, and osteoporosis
+        - pathology de coloană lombară including suspiciune de fractură, spondylolisthesis, neoplastic processes, și osteoporosis
 
     === "Ghid Național IRIS"
 
@@ -114,10 +116,10 @@ title: Rx Coloană Lombară Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Incidență de Profil (Lateral) Place patient in the lateral Decubit position, with head on pillow, knees flexed, with support between knees and ankles to better maintain a true Incidență de Profil (Lateral) and ensure patient comfort.; Regiune anatomică: Align midcoronal plane to CR and midline of table and/or IR (Fig. 9.34). Place radiolucent support under waist as needed to place the long axis of the spine near parallel to the table (palpating spinous processes to determine; see NOTES). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** perpendicular to IR (see NOTES). More open collimation 14 × 17 inches (35 × 43 cm): Center to level of creasta iliacă (corespunzător L4-L5) (L4–L5). This projection includes lumbar vertebrae, Sacru, and possibly Coccis. Tighter collimation 11 × 14 inches (30 × 35 cm): Center to L3 at the level of the lower costal margin (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This includes the five lumbar vertebrae. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Incidență de Profil (lateral) Place pacient în lateral Decubit poziție, cu cap pe pillow, genunchi flectat, cu support între genunchi și ankles la better maintain true Incidență de Profil (lateral) și ensure pacient comfort.; Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 9.34). Place radiolucent support under waist ca needed la place axa longitudinală de coloană vertebrală near paralel cu table (palpating procese spinoase la determine; see NOTES). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (see NOTES). More open collimation 14 × 17 inches (35 × 43 cm): Center la level de creasta iliacă (corespunzător L4-L5) (L4–L5). This incidență includes coloană lombară, Sacru, și possibly Coccis. Tighter collimation 11 × 14 inches (30 × 35 cm): Center la L3 la nivelul lower costal margin (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This includes five coloană lombară. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on expiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -131,20 +133,20 @@ title: Rx Coloană Lombară Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Intervertebral foramina L1–L4, vertebral bodies, intervertebral joints, spinous processes, and L5–S1 junction.
-    - Depending on the recommended field size used, the entire Sacru may also be included (Figs. 9.36 and 9.37). Position
-    - Spinal column aligned parallel to the IR, as indicated by open intervertebral foramina and open intervertebral joint spaces.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is indicated by superimposed greater sciatic notches and posterior vertebral bodies.
-    - Collimation field size to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of lumbar vertebrae.
-    - no motion. 5° caudad Fig. 9.35 Left lateral lumbar (CR 5° caudad). Fig. 9.36 Lateral lumbar. (Modified from Standring S, editor: Gray’s Anatomy, ed 41, Philadelphia, 2016, Elsevier.)
+    - Intervertebral foramina L1–L4, vertebral corpuri, intervertebral articulații, procese spinoase, și L5–S1 junction.
+    - Depending pe recommended field size used, entire Sacru poate also fie included (Figs. 9.36 și 9.37). poziție
+    - Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open intervertebral foramina și open intervertebral spații articulare.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.
+    - Collimation field size la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de coloană lombară.
+    - fără mișcare. 5° caudal Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal). Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s Anatomy, ed 41, Philadelphia, 2016, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,7 +159,7 @@ title: Rx Coloană Lombară Profil (Lateral)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Although the average male patient (and some female patients) requires no CR angle, a patient with a wider Bazin (Pelvis) and a narrow thorax may require a 5° to 8° caudad angle even with support, as shown in Fig. 9.35. Fig. 9.34 Left lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine). Coloană Lombară ROUTINE AP (or PA) Oblique—posterior or anterior Lateral Lateral L5–S1 35 (30) (35)
+    S: Although average male pacient (și some female pacienți) requires fără raza centrală angle, pacient cu wider Bazin (bazin (pelvis)) și narrow thorax poate require a 5° la 8° caudal angle even cu support, ca vizualizat în Fig. 9.35. Fig. 9.34 stâng lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine). Coloană Lombară ROUTINE AP (sau PA) oblic—posterior sau anterior lateral lateral L5–S1 35 (30) (35)
 
 
 ### 🖼️ Imagini
@@ -166,25 +168,25 @@ title: Rx Coloană Lombară Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.34 Left lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine).](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 9.34 stâng lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine).](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.34 Left lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.34 Left lateral lumbar (CR perpendicular to IR).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.35 Left lateral lumbar (CR 5° caudad).](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.35 Left lateral lumbar (CR 5° caudad).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.35 Left lateral lumbar (CR 5° caudad).)</span></figcaption>
+<figcaption><strong>Fig. 9.34 stâng lateral lumbar (Raza centrală (RC) perpendiculară pe receptorul de imagine).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.34 stâng lateral lumbar (raza centrală perpendicular pe receptorul de imagine).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.36 Lateral lumbar. (Modiﬁed from Standring S, editor: Gray’s](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal).](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.36 Lateral lumbar. (Modiﬁed from Standring S, editor: Gray’s</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.36 Lateral lumbar. (Modiﬁed from Standring S, editor: Gray’s)</span></figcaption>
+<figcaption><strong>Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.35 stâng lateral lumbar (raza centrală 5° caudal).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s](../../assets/images/protocols/bontrager/rx-coloana-lombara-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.36 lateral lumbar. (Modified de la Standring S, editor: Gray’s)</span></figcaption>
 
 </figure>
 

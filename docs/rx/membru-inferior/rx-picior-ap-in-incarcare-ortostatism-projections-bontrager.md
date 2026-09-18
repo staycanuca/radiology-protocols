@@ -2,16 +2,18 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle CR 15° posteriorly to midpoint between feet at level of base of metatarsals.
+centering: Angle raza centrală 15° posteriorly la midpoint între picioare la level
+  de base de oase metatarsiene.
 clinical_indications:
-- Demonstrate the bones of the feet to show the condition of the longitudinal arches
-  under the full weight of the body
-- May demonstrate injury to structural ligaments of the Picior such as a Lisfranc
-  joint injury
+- evidențiază bones de picioarele la show condition de longitudinal arches under full
+  weight de corp
+- poate evidențiază injury la structural ligaments de Picior such ca Lisfranc articulație
+  injury
 images:
-- caption: Fig. 6.67 AP—bilateral feet (projection taken on digital IR).
+- caption: Fig. 6.67 AP—bilateral picioare (incidență taken pe digital receptorul
+    de imagine).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.67 AP—bilateral
-    feet (projection taken on digital IR).)
+    picioare (incidență taken pe digital receptorul de imagine).)
   url: assets/images/protocols/bontrager/rx-picior-ap-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg
 - caption: Fig. 6.68 AP weight-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.68
@@ -19,12 +21,12 @@ images:
   url: assets/images/protocols/bontrager/rx-picior-ap-in-incarcare-ortostatism-projections-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Bilateral projections of both feet often are taken for comparison. Some AP
-  routines include separate projections of each Picior taken with CR centered to individual
-  Picior.
-position: 'Pacient: AP Place patient Ortostatism, with full weight evenly distributed
-  on both feet. Feet should be directed straight ahead, parallel to each other (Fig.
-  6.67).'
+notes: bilateral incidențe de ambele picioare often sunt taken pentru comparison.
+  Some AP routines include separate incidențe de fiecare Picior taken cu raza centrală
+  centrat pe individual Picior.
+position: 'Pacient: AP Place pacient Ortostatism, cu full weight evenly distributed
+  pe ambele picioare. picioare trebuie să fie orientat straight ahead, paralel la
+  fiecare other (Fig. 6.67).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -32,17 +34,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'For AP, projection shows bilateral feet from soft tissue surrounding phalanges
-  to distal portion of talus (Fig. 6.68). Position:'
-- For AP, proper angulation is demonstrated by open tarsometatarsal joint spaces and
-  visualization of joint between first and second cuneiforms.
-- 'Metatarsal bases should be at center of the collimated field (CR) with foursided
-  collimation, including the soft tissue surrounding the feet. Exposure:'
-- Optimal image receptor exposure and contrast to visualize soft tissue and bony borders
-  of superimposed tarsals and metatarsals.
-- Adequate penetration of midfoot region.
-- Bony trabecular markings should be sharp. Fig. 6.68 AP weightbearing—bilateral feet.
-  (Courtesy Joss Wertz, DO.)
+- 'pentru AP, incidență shows bilateral picioare de la părți moi surrounding falange
+  la distal portion de astragal (talus) (Fig. 6.68). poziție:'
+- pentru AP, corect angulation este evidențiat prin open tarsometatarsal spații articulare
+  și visualization de articulație între first și second cuneiforms.
+- 'Metatarsal bases trebuie să fie la center de câmp colimat (raza centrală) cu foursided
+  collimation, including părți moi surrounding picioarele. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize părți moi și bony
+  margini de superimposed oase tarsiene și oase metatarsiene.
+- adecvat penetration de midfoot region.
+- Bony trabecular markings trebuie să fie net. Fig. 6.68 AP weightbearing—bilateral
+  picioare. (Courtesy Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-picior-ap-in-incarcare-ortostatism-projections-bontrager
 sources:
@@ -50,17 +52,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate to outer skin margins of the feet. AP both feet Picior SPECIAL
-    AP and lateral (weightbearing) Fig. 6.67 AP—bilateral feet (projection taken on
-    digital IR).
+  collimation: Collimate la outer skin margins de picioarele. AP ambele picioare Picior
+    SPECIAL AP și lateral (weightbearing) Fig. 6.67 AP—bilateral picioare (incidență
+    taken pe digital receptorul de imagine).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-70
   mas: DE CONFIGURAT PE APARAT
-title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
+title: Rx Picior AP În Încărcare (Ortostatism) Incidență
 ---
-# Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
+# Rx Picior AP În Încărcare (Ortostatism) Incidență
 
 
 <div class="rx-meta-bar">
@@ -79,8 +81,8 @@ title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
 
     === "Indicații Clinice"
 
-        - Demonstrate the bones of the feet to show the condition of the longitudinal arches under the full weight of the body
-        - May demonstrate injury to structural ligaments of the Picior such as a Lisfranc joint injury
+        - evidențiază bones de picioarele la show condition de longitudinal arches under full weight de corp
+        - poate evidențiază injury la structural ligaments de Picior such ca Lisfranc articulație injury
 
     === "Ghid Național IRIS"
 
@@ -94,8 +96,8 @@ title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
 
     ---
 
-    - **Poziție Pacient:** Pacient: AP Place patient Ortostatism, with full weight evenly distributed on both feet. Feet should be directed straight ahead, parallel to each other (Fig. 6.67).
-    - **Punct de Centrare Fascicul:** Angle CR 15° posteriorly to midpoint between feet at level of base of metatarsals.
+    - **Poziție Pacient:** Pacient: AP Place pacient Ortostatism, cu full weight evenly distributed pe ambele picioare. picioare trebuie să fie orientat straight ahead, paralel la fiecare other (Fig. 6.67).
+    - **Punct de Centrare Fascicul:** Angle raza centrală 15° posteriorly la midpoint între picioare la level de base de oase metatarsiene.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -111,19 +113,19 @@ title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate to outer skin margins of the feet. AP both feet Picior SPECIAL AP and lateral (weightbearing) Fig. 6.67 AP—bilateral feet (projection taken on digital IR). |
+    | **Colimare Fascicul** | Collimate la outer skin margins de picioarele. AP ambele picioare Picior SPECIAL AP și lateral (weightbearing) Fig. 6.67 AP—bilateral picioare (incidență taken pe digital receptorul de imagine). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - For AP, projection shows bilateral feet from soft tissue surrounding phalanges to distal portion of talus (Fig. 6.68). Position:
-    - For AP, proper angulation is demonstrated by open tarsometatarsal joint spaces and visualization of joint between first and second cuneiforms.
-    - Metatarsal bases should be at center of the collimated field (CR) with foursided collimation, including the soft tissue surrounding the feet. Exposure:
-    - Optimal image receptor exposure and contrast to visualize soft tissue and bony borders of superimposed tarsals and metatarsals.
-    - Adequate penetration of midfoot region.
-    - Bony trabecular markings should be sharp. Fig. 6.68 AP weightbearing—bilateral feet. (Courtesy Joss Wertz, DO.)
+    - pentru AP, incidență shows bilateral picioare de la părți moi surrounding falange la distal portion de astragal (talus) (Fig. 6.68). poziție:
+    - pentru AP, corect angulation este evidențiat prin open tarsometatarsal spații articulare și visualization de articulație între first și second cuneiforms.
+    - Metatarsal bases trebuie să fie la center de câmp colimat (raza centrală) cu foursided collimation, including părți moi surrounding picioarele. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize părți moi și bony margini de superimposed oase tarsiene și oase metatarsiene.
+    - adecvat penetration de midfoot region.
+    - Bony trabecular markings trebuie să fie net. Fig. 6.68 AP weightbearing—bilateral picioare. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -136,7 +138,7 @@ title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Bilateral projections of both feet often are taken for comparison. Some AP routines include separate projections of each Picior taken with CR centered to individual Picior.
+    bilateral incidențe de ambele picioare often sunt taken pentru comparison. Some AP routines include separate incidențe de fiecare Picior taken cu raza centrală centrat pe individual Picior.
 
 
 ### 🖼️ Imagini
@@ -145,9 +147,9 @@ title: Rx Picior AP În Încărcare (Ortostatism) PROJECTIONS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.67 AP—bilateral feet (projection taken on digital IR).](../../assets/images/protocols/bontrager/rx-picior-ap-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg)
+![Fig. 6.67 AP—bilateral picioare (incidență taken pe digital receptorul de imagine).](../../assets/images/protocols/bontrager/rx-picior-ap-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.67 AP—bilateral feet (projection taken on digital IR).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.67 AP—bilateral feet (projection taken on digital IR).)</span></figcaption>
+<figcaption><strong>Fig. 6.67 AP—bilateral picioare (incidență taken pe digital receptorul de imagine).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.67 AP—bilateral picioare (incidență taken pe digital receptorul de imagine).)</span></figcaption>
 
 </figure>
 

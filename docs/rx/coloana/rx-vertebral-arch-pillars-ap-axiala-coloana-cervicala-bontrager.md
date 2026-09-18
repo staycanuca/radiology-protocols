@@ -1,17 +1,17 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Ask patient to not swallow during the exposure.
+breathing: Apnee pe durata expunerii. Ask pacient la nu swallow during expunere.
 category: coloana
-centering: Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates
-  caudal CR angle parallel with zygapophyseal joint spaces.
+centering: Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază
+  caudal raza centrală angle paralel cu zygapophyseal spații articulare.
 clinical_indications:
-- Pathology or traumatism acuttism / Regim Urgență involving the posterior vertebral
-  arch (particularly the pillars) of C4 to C7 and spinous processes of cervicothoracic
-  vertebrae with whiplashtype injuries (see previous warning)
+- Pathology sau traumatism acuttism / Regim Urgență involving posterior vertebral
+  arch (particularly pillars) de C4 la C7 și procese spinoase de cervicothoracic vertebre
+  cu whiplashtype injuries (see previous warning)
 images:
-- caption: Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates
+- caption: Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.77 AP axial
-    (pillars), 20°–30° caudal angle. Inset, Demonstrates)
+    (pillars), 20°–30° caudal angle. Inset, evidențiază)
   url: assets/images/protocols/bontrager/rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager/fig_1.jpeg
 - caption: Fig. 8.78 AP axial (pillars). (Courtesy Teresa Easton-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.78
@@ -27,18 +27,18 @@ images:
   url: assets/images/protocols/bontrager/rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Sufficient hyperextension of neck and caudal CR angle is essential for demonstrating
-  the posterior aspects of the mid and lower cervical vertebrae. The amount of the
-  CR angle (20° to 30°) is determined by the amount of natural cervical lordotic curvature.
-  Some support may have to be placed under the shoulders for sufficient hyperextension.
-  Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) Lateral—hyperflexion
-  and hyperextension AP (Fuchs method), pA (Judd method) AP wagging jaw (ottonello
+notes: Sufficient hyperextension de neck și caudal raza centrală angle este essential
+  pentru evidențiind posterior aspects de mid și lower coloană cervicală. amount de
+  raza centrală angle (20° la 30°) este determined prin amount de natural cervical
+  lordotic curvature. Some support poate have la fie plasat under umerii pentru sufficient
+  hyperextension. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) lateral—hyperflexion
+  și hyperextension AP (Fuchs method), pA (Judd method) AP wagging jaw (ottonello
   method) AP axial (pillars)
-position: 'Pacient: Decubit Dorsal Position Position patient in the Decubit Dorsal
-  position with arms at side.; Regiune anatomică: Align midsagittal plane to CR and
-  midline of table and/or IR. Hyperextend the neck if patient is able (see warning
-  above) (Fig. 8.77). Ensure that Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase of the head or thorax exists.'
+position: 'Pacient: Decubit dorsal poziție pacient în Decubit dorsal poziție cu brațe
+  la side.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană
+  mesei și/sau receptorul de imagine. Hyperextend gâtul if pacient este able (see
+  warning above) (Fig. 8.77). Se verifică absența rotației: claviculele sunt riguros
+  echidistante față de linia proceselor spinoase capul sau thorax exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,21 +46,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Posterior elements of mid and distal cervical and proximal thoracic vertebrae.
-- In particular, the articulations (zygapophyseal joints) between the lateral masses
-  (or pillars) are open and well demonstrated, along with the laminae and spinous
-  processes (Figs. 8.78 and 8.79). Position
+- posterior elements de mid și distal cervical și proximal coloană toracală.
+- în particular, articulations (zygapophyseal articulații) între lateral masses (sau
+  pillars) sunt open și well evidențiat, along cu laminae și procese spinoase (Figs.
+  8.78 și 8.79). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated by spinous processes equidistant from the lateral borders of the spinal
-  column.'
-- The Mandibulă and the base of the Craniu should be superimposed over the first two
-  or three cervical vertebrae.
-- Collimation to area of interest. Exposure
-- Optimal image receptor exposure and contrast. Clear demonstration of soft tissue
-  margins and of bony margins and trabecular markings of cervical vertebrae. R Fig.
-  8.78 AP axial (pillars). (Courtesy Teresa EastonPorter.) Superior articular process
-  (C5) Articular pillar (lateral mass) of C1-atlas Articular pillar (lateral mass)
-  C5 R Spinous process (T1) Zygapophyseal joint (C5-C6) Fig. 8.79 AP axial (pillars).
+  indicated prin procese spinoase echidistant față de lateral margini de spinal column.'
+- Mandibulă și base de Craniu trebuie să fie superimposed over first two sau three
+  coloană cervicală.
+- Collimation la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi
+  margins și de bony margins și trabecular markings de coloană cervicală. R Fig. 8.78
+  AP axial (pillars). (Courtesy Teresa EastonPorter.) superior articular process (C5)
+  Articular pillar (lateral mass) de C1-atlas Articular pillar (lateral mass) C5 R
+  Spinous process (T1) Zygapophyseal articulație (C5-C6) Fig. 8.79 AP axial (pillars).
 sid_dff: 100 cm
 slug: rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager
 sources:
@@ -68,7 +67,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,7 +94,7 @@ title: Rx VERTEBRAL ARCH (PILLARS) AP Axială (Coloană Cervicală)
 
     === "Indicații Clinice"
 
-        - Pathology or traumatism acuttism / Regim Urgență involving the posterior vertebral arch (particularly the pillars) of C4 to C7 and spinous processes of cervicothoracic vertebrae with whiplashtype injuries (see previous warning)
+        - Pathology sau traumatism acuttism / Regim Urgență involving posterior vertebral arch (particularly pillars) de C4 la C7 și procese spinoase de cervicothoracic vertebre cu whiplashtype injuries (see previous warning)
 
     === "Ghid Național IRIS"
 
@@ -109,10 +108,10 @@ title: Rx VERTEBRAL ARCH (PILLARS) AP Axială (Coloană Cervicală)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient in the Decubit Dorsal position with arms at side.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR. Hyperextend the neck if patient is able (see warning above) (Fig. 8.77). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the head or thorax exists.
-    - **Punct de Centrare Fascicul:** Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates caudal CR angle parallel with zygapophyseal joint spaces.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient în Decubit dorsal poziție cu brațe la side.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine. Hyperextend gâtul if pacient este able (see warning above) (Fig. 8.77). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase capul sau thorax exists.
+    - **Punct de Centrare Fascicul:** Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază caudal raza centrală angle paralel cu zygapophyseal spații articulare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Ask patient to not swallow during the exposure.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Ask pacient la nu swallow during expunere.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -126,19 +125,19 @@ title: Rx VERTEBRAL ARCH (PILLARS) AP Axială (Coloană Cervicală)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Posterior elements of mid and distal cervical and proximal thoracic vertebrae.
-    - In particular, the articulations (zygapophyseal joints) between the lateral masses (or pillars) are open and well demonstrated, along with the laminae and spinous processes (Figs. 8.78 and 8.79). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated by spinous processes equidistant from the lateral borders of the spinal column.
-    - The Mandibulă and the base of the Craniu should be superimposed over the first two or three cervical vertebrae.
-    - Collimation to area of interest. Exposure
-    - Optimal image receptor exposure and contrast. Clear demonstration of soft tissue margins and of bony margins and trabecular markings of cervical vertebrae. R Fig. 8.78 AP axial (pillars). (Courtesy Teresa EastonPorter.) Superior articular process (C5) Articular pillar (lateral mass) of C1-atlas Articular pillar (lateral mass) C5 R Spinous process (T1) Zygapophyseal joint (C5-C6) Fig. 8.79 AP axial (pillars).
+    - posterior elements de mid și distal cervical și proximal coloană toracală.
+    - în particular, articulations (zygapophyseal articulații) între lateral masses (sau pillars) sunt open și well evidențiat, along cu laminae și procese spinoase (Figs. 8.78 și 8.79). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin procese spinoase echidistant față de lateral margini de spinal column.
+    - Mandibulă și base de Craniu trebuie să fie superimposed over first two sau three coloană cervicală.
+    - Collimation la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi margins și de bony margins și trabecular markings de coloană cervicală. R Fig. 8.78 AP axial (pillars). (Courtesy Teresa EastonPorter.) superior articular process (C5) Articular pillar (lateral mass) de C1-atlas Articular pillar (lateral mass) C5 R Spinous process (T1) Zygapophyseal articulație (C5-C6) Fig. 8.79 AP axial (pillars).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +150,7 @@ title: Rx VERTEBRAL ARCH (PILLARS) AP Axială (Coloană Cervicală)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Sufficient hyperextension of neck and caudal CR angle is essential for demonstrating the posterior aspects of the mid and lower cervical vertebrae. The amount of the CR angle (20° to 30°) is determined by the amount of natural cervical lordotic curvature. Some support may have to be placed under the shoulders for sufficient hyperextension. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) Lateral—hyperflexion and hyperextension AP (Fuchs method), pA (Judd method) AP wagging jaw (ottonello method) AP axial (pillars)
+    Sufficient hyperextension de neck și caudal raza centrală angle este essential pentru evidențiind posterior aspects de mid și lower coloană cervicală. amount de raza centrală angle (20° la 30°) este determined prin amount de natural cervical lordotic curvature. Some support poate have la fie plasat under umerii pentru sufficient hyperextension. Coloană Cervicală SPECIAL Cervicothoracic lateral (Swimmer’s) lateral—hyperflexion și hyperextension AP (Fuchs method), pA (Judd method) AP wagging jaw (ottonello method) AP axial (pillars)
 
 
 ### 🖼️ Imagini
@@ -160,9 +159,9 @@ title: Rx VERTEBRAL ARCH (PILLARS) AP Axială (Coloană Cervicală)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates](../../assets/images/protocols/bontrager/rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager/fig_1.jpeg)
+![Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază](../../assets/images/protocols/bontrager/rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, Demonstrates)</span></figcaption>
+<figcaption><strong>Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.77 AP axial (pillars), 20°–30° caudal angle. Inset, evidențiază)</span></figcaption>
 
 </figure>
 

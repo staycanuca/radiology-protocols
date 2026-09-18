@@ -2,45 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle CR caudad, 30° from horizontal plane (CR 30° to Femur). Adjust CR
-  angle if needed for true tangential projection of patellofemoral joint spaces. Direct
-  CR to a point midway between patellae.
+centering: Angle raza centrală caudal, 30° de la plan orizontal (raza centrală 30°
+  la Femur). Adjust raza centrală angle if needed pentru true tangențial incidență
+  de patellofemoral spații articulare. Raza centrală se orientează spre point midway
+  între patellae.
 clinical_indications:
-- Subluxation of Rotulă (Patelă) and other abnormalities of the Rotulă (Patelă) and
-  patellofemoral joint
+- Subluxation de Rotulă (Patelă) și other abnormalities de Rotulă (Patelă) și patellofemoral
+  articulație
 images:
-- caption: Fig. 6.134 Metoda Merchant—bilateral tangential, knees ﬂexed 40°.
+- caption: Fig. 6.134 Metoda Merchant—bilateral tangențial, genunchi flectat 40°.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.134 Merchant
-    method—bilateral tangential, knees ﬂexed 40°.)
+    method—bilateral tangențial, genunchi flectat 40°.)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_1.jpeg
 - caption: Fig. 6.135 Adjustable-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.135
     Adjustable-)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_2.jpeg
-- caption: Fig. 6.136 Metoda Merchant—bilateral tangential. (Courtesy Joss
+- caption: Fig. 6.136 Metoda Merchant—bilateral tangențial. (Courtesy Joss
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.136
-    Merchant method—bilateral tangential. (Courtesy Joss)
+    Merchant method—bilateral tangențial. (Courtesy Joss)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_3.jpeg
-- caption: Fig. 6.137 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz,
+- caption: Fig. 6.137 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.137
-    Merchant method—bilateral tangential. (Courtesy Joss Wertz,)
+    Merchant method—bilateral tangențial. (Courtesy Joss Wertz,)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Patient comfort and total relaxation are essential. The quadriceps femoris
-  muscles must be relaxed to prevent subluxation of the patellae, wherein they are
-  pulled into the intercondylar sulcus or groove, which may result in false readings.7
-  Fig. 6.134 Metoda Merchant—bilateral tangential, knees flexed 40°. Rotulă (Patelă)
-  Tangential Fig. 6.135 Adjustabletype leg support and IR holder. (Courtesy St. Joseph’s
-  Hospital and Medical Center, Phoenix, AZ.)
-position: 'Pacient: Place patient in the Decubit Dorsal position with knees flexed
-  40° over the end of the table, resting on a leg support. Patient must be comfortable
-  and relaxed for quadriceps muscles to be relaxed (see NOTE).; Regiune anatomică:
-  Place support under knees to raise distal femurs as needed so that they are parallel
-  to tabletop. Place knees and feet together and secure lower legs together to prevent
-  rotation and to allow patient to be totally relaxed. Place IR on edge against legs
-  approximately 12 inches (30 cm) below the knees, perpendicular to xray beam (Figs.
-  6.134 and 6.135).'
+notes: pacient comfort și total relaxation sunt essential. quadriceps femoris muscles
+  trebuie să fie relaxat la prevent subluxation de patellae, wherein they sunt pulled
+  into intercondylar sulcus sau groove, which poate result în false readings.7 Fig.
+  6.134 Metoda Merchant—bilateral tangențial, genunchi flectat 40°. Rotulă (Patelă)
+  tangențial Fig. 6.135 Adjustabletype membru inferior support și receptorul de imagine
+  holder. (Courtesy St. Joseph’s Hospital și Medical Center, Phoenix, AZ.)
+position: 'Pacient: Place pacient în Decubit dorsal poziție cu genunchi flectat 40°
+  over end de masa de examinare, resting pe membru inferior support. pacient trebuie
+  să fie comfortable și relaxat pentru quadriceps muscles la fie relaxat (see NOTE).;
+  Regiune anatomică: Place support under genunchi la raise distal femurs ca needed
+  so that they sunt paralel la tabletop. Place genunchi și picioare together și secure
+  lower membre inferioare together la prevent rotație și la allow pacient la fie totally
+  relaxat. Place receptorul de imagine pe edge against membre inferioare approximately
+  12 inches (30 cm) below genunchii, perpendicular la xray fascicul (Figs. 6.134 și
+  6.135).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,20 +50,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Intercondylar sulcus (trochlear groove) and Rotulă (Patelă) of each distal Femur
-  should be visualized in profile with patellofemoral joint space open (Figs. 6.136
-  and 6.137). Position:'
+- 'Intercondylar sulcus (trochlear groove) și Rotulă (Patelă) de fiecare distal Femur
+  trebuie să fie visualized în profile cu patellofemoral spații articulare open (Figs.
+  6.136 și 6.137). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of Genunchi is present, as evidenced by symmetric appearance of Rotulă (Patelă),
-  anterior femoral condyles, and intercondylar sulcus.'
-- 'Correct CR angle and centering are evidenced by open patellofemoral joint spaces.
-  Exposure:'
-- Optimal exposure should clearly visualize soft tissue and joint space margins and
-  trabecular markings of patellae.
-- Femoral condyles appear underexposed with only anterior margins clearly defined.
-  Fig. 6.136 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz, DO.) Left
-  Left Rotulă (Patelă) Femoropatellar joint space Intercondylar sulcus (trochlear
-  groove) Right Rotulă (Patelă) Fig. 6.137 Metoda Merchant—bilateral tangential. (Courtesy
+  de Genunchi este present, ca evidenced prin simetric appearance de Rotulă (Patelă),
+  anterior femoral condyles, și intercondylar sulcus.'
+- 'Correct raza centrală angle și centering sunt evidenced prin open patellofemoral
+  spații articulare. expunere:'
+- optim expunere trebuie să clearly visualize părți moi și spații articulare margins
+  și trabecular markings de patellae.
+- Femoral condyles appear underexposed cu only anterior margins clearly defined. Fig.
+  6.136 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz, DO.) stâng stâng
+  Rotulă (Patelă) Femoropatellar spații articulare Intercondylar sulcus (trochlear
+  groove) drept Rotulă (Patelă) Fig. 6.137 Metoda Merchant—bilateral tangențial. (Courtesy
   Joss Wertz, DO.)
 sid_dff: 180 cm
 slug: rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager
@@ -70,16 +72,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate tightly on all sides to patellae.
+  collimation: Collimate tightly pe toate sides la patellae.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BILATERAL
+title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - BILATERAL
   Metoda Merchant)
 ---
-# Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BILATERAL Metoda Merchant)
+# Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - BILATERAL Metoda Merchant)
 
 
 <div class="rx-meta-bar">
@@ -98,7 +100,7 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
 
     === "Indicații Clinice"
 
-        - Subluxation of Rotulă (Patelă) and other abnormalities of the Rotulă (Patelă) and patellofemoral joint
+        - Subluxation de Rotulă (Patelă) și other abnormalities de Rotulă (Patelă) și patellofemoral articulație
 
     === "Ghid Național IRIS"
 
@@ -112,8 +114,8 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the Decubit Dorsal position with knees flexed 40° over the end of the table, resting on a leg support. Patient must be comfortable and relaxed for quadriceps muscles to be relaxed (see NOTE).; Regiune anatomică: Place support under knees to raise distal femurs as needed so that they are parallel to tabletop. Place knees and feet together and secure lower legs together to prevent rotation and to allow patient to be totally relaxed. Place IR on edge against legs approximately 12 inches (30 cm) below the knees, perpendicular to xray beam (Figs. 6.134 and 6.135).
-    - **Punct de Centrare Fascicul:** Angle CR caudad, 30° from horizontal plane (CR 30° to Femur). Adjust CR angle if needed for true tangential projection of patellofemoral joint spaces. Direct CR to a point midway between patellae.
+    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție cu genunchi flectat 40° over end de masa de examinare, resting pe membru inferior support. pacient trebuie să fie comfortable și relaxat pentru quadriceps muscles la fie relaxat (see NOTE).; Regiune anatomică: Place support under genunchi la raise distal femurs ca needed so that they sunt paralel la tabletop. Place genunchi și picioare together și secure lower membre inferioare together la prevent rotație și la allow pacient la fie totally relaxat. Place receptorul de imagine pe edge against membre inferioare approximately 12 inches (30 cm) below genunchii, perpendicular la xray fascicul (Figs. 6.134 și 6.135).
+    - **Punct de Centrare Fascicul:** Angle raza centrală caudal, 30° de la plan orizontal (raza centrală 30° la Femur). Adjust raza centrală angle if needed pentru true tangențial incidență de patellofemoral spații articulare. Raza centrală se orientează spre point midway între patellae.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -129,18 +131,18 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate tightly on all sides to patellae. |
+    | **Colimare Fascicul** | Collimate tightly pe toate sides la patellae. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Intercondylar sulcus (trochlear groove) and Rotulă (Patelă) of each distal Femur should be visualized in profile with patellofemoral joint space open (Figs. 6.136 and 6.137). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Genunchi is present, as evidenced by symmetric appearance of Rotulă (Patelă), anterior femoral condyles, and intercondylar sulcus.
-    - Correct CR angle and centering are evidenced by open patellofemoral joint spaces. Exposure:
-    - Optimal exposure should clearly visualize soft tissue and joint space margins and trabecular markings of patellae.
-    - Femoral condyles appear underexposed with only anterior margins clearly defined. Fig. 6.136 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz, DO.) Left Left Rotulă (Patelă) Femoropatellar joint space Intercondylar sulcus (trochlear groove) Right Rotulă (Patelă) Fig. 6.137 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz, DO.)
+    - Intercondylar sulcus (trochlear groove) și Rotulă (Patelă) de fiecare distal Femur trebuie să fie visualized în profile cu patellofemoral spații articulare open (Figs. 6.136 și 6.137). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Genunchi este present, ca evidenced prin simetric appearance de Rotulă (Patelă), anterior femoral condyles, și intercondylar sulcus.
+    - Correct raza centrală angle și centering sunt evidenced prin open patellofemoral spații articulare. expunere:
+    - optim expunere trebuie să clearly visualize părți moi și spații articulare margins și trabecular markings de patellae.
+    - Femoral condyles appear underexposed cu only anterior margins clearly defined. Fig. 6.136 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz, DO.) stâng stâng Rotulă (Patelă) Femoropatellar spații articulare Intercondylar sulcus (trochlear groove) drept Rotulă (Patelă) Fig. 6.137 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +155,7 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Patient comfort and total relaxation are essential. The quadriceps femoris muscles must be relaxed to prevent subluxation of the patellae, wherein they are pulled into the intercondylar sulcus or groove, which may result in false readings.7 Fig. 6.134 Metoda Merchant—bilateral tangential, knees flexed 40°. Rotulă (Patelă) Tangential Fig. 6.135 Adjustabletype leg support and IR holder. (Courtesy St. Joseph’s Hospital and Medical Center, Phoenix, AZ.)
+    pacient comfort și total relaxation sunt essential. quadriceps femoris muscles trebuie să fie relaxat la prevent subluxation de patellae, wherein they sunt pulled into intercondylar sulcus sau groove, which poate result în false readings.7 Fig. 6.134 Metoda Merchant—bilateral tangențial, genunchi flectat 40°. Rotulă (Patelă) tangențial Fig. 6.135 Adjustabletype membru inferior support și receptorul de imagine holder. (Courtesy St. Joseph’s Hospital și Medical Center, Phoenix, AZ.)
 
 
 ### 🖼️ Imagini
@@ -162,9 +164,9 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.134 Metoda Merchant—bilateral tangential, knees ﬂexed 40°.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_1.jpeg)
+![Fig. 6.134 Metoda Merchant—bilateral tangențial, genunchi flectat 40°.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.134 Metoda Merchant—bilateral tangential, knees ﬂexed 40°.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.134 Merchant method—bilateral tangential, knees ﬂexed 40°.)</span></figcaption>
+<figcaption><strong>Fig. 6.134 Metoda Merchant—bilateral tangențial, genunchi flectat 40°.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.134 Merchant method—bilateral tangențial, genunchi flectat 40°.)</span></figcaption>
 
 </figure>
 
@@ -178,17 +180,17 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTION TANGENTIAL (Rotulă (Patelă) - BI
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.136 Metoda Merchant—bilateral tangential. (Courtesy Joss](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_3.jpeg)
+![Fig. 6.136 Metoda Merchant—bilateral tangențial. (Courtesy Joss](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.136 Metoda Merchant—bilateral tangential. (Courtesy Joss</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.136 Merchant method—bilateral tangential. (Courtesy Joss)</span></figcaption>
+<figcaption><strong>Fig. 6.136 Metoda Merchant—bilateral tangențial. (Courtesy Joss</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.136 Merchant method—bilateral tangențial. (Courtesy Joss)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.137 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz,](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_4.jpeg)
+![Fig. 6.137 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz,](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projection-tangential-rotula-patela-bilateral-metoda-merchant-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 6.137 Metoda Merchant—bilateral tangential. (Courtesy Joss Wertz,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.137 Merchant method—bilateral tangential. (Courtesy Joss Wertz,)</span></figcaption>
+<figcaption><strong>Fig. 6.137 Metoda Merchant—bilateral tangențial. (Courtesy Joss Wertz,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.137 Merchant method—bilateral tangențial. (Courtesy Joss Wertz,)</span></figcaption>
 
 </figure>
 

@@ -1,51 +1,53 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Masiv Facial (Oase ale Feței) traumatism
-  acuttism / Regim Urgență Lateral, horizontal beam Acanthioparietal (reverse Incidență
+breathing: Apnee pe durata expunerii. Masiv Facial (Oase ale Feței) traumatism acuttism
+  / Regim Urgență lateral, orizontal fascicul Acanthioparietal (reverse Incidență
   Occipito-Mentonieră (Metoda Waters)) AP (see previous pages) OPTIONAL Modified acanthioparietal
   (modified reverse Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 15.81 Acanthioparietal
-  (reverse Incidență Occipito-Mentonieră (Metoda Waters))—CR parallel to MML, centered
-  to acanthion. Fig. 15.82 Acanthioparietal (reverse Incidență Occipito-Mentonieră
-  (Metoda Waters)). Fig. 15.83 Modified acanthioparietal (modified reverse Incidență
-  Occipito-Mentonieră (Metoda Waters))—CR parallel to LML, centered to acanthion.
-  Fig. 15.84 Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră
-  (Metoda Waters)).
+  (reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel la
+  linie mentomeatală (LMM), centrat pe acantion. Fig. 15.82 Acanthioparietal (reverse
+  Incidență Occipito-Mentonieră (Metoda Waters)). Fig. 15.83 Modified acanthioparietal
+  (modified reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel
+  la LML, centrat pe acantion. Fig. 15.84 Modified acanthioparietal (modified reverse
+  Incidență Occipito-Mentonieră (Metoda Waters)).
 category: coloana
-centering: Angle CR cephalad as needed to align CR parallel to LML.
+centering: Angle raza centrală cranial ca needed la align raza centrală paralel la
+  LML.
 clinical_indications:
-- suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+- suspiciune de fractură, penetrating injuries, și radiopaque Corp străin / corpuri
+  străine radio-opace
 images:
 - caption: Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda
-    Waters))—CR parallel to
+    Waters))—raza centrală paralel la
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 15.81 Acanthioparietal
-    (reverse Waters method)—CR parallel to)
+    (reverse Waters method)—raza centrală paralel la)
   url: assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_1.jpeg
 - caption: Fig. 15.82 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda
     Waters)).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.82
     Acanthioparietal (reverse Waters method).)
   url: assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_2.jpeg
-- caption: Fig. 15.83 Modiﬁed acanthioparietal (modiﬁed reverse Waters
+- caption: Fig. 15.83 Modified acanthioparietal (modified reverse Waters
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.83
-    Modiﬁed acanthioparietal (modiﬁed reverse Waters)
+    Modified acanthioparietal (modified reverse Waters)
   url: assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_3.jpeg
-- caption: Fig. 15.84 Modiﬁed acanthioparietal (modiﬁed reverse Waters
+- caption: Fig. 15.84 Modified acanthioparietal (modified reverse Waters
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.84
-    Modiﬁed acanthioparietal (modiﬁed reverse Waters)
+    Modified acanthioparietal (modified reverse Waters)
   url: assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This projection best demonstrates the floor of the Orbite and provides a view
-  of the entire orbital rims. Petrous ridges are visualized in midmaxillary sinus
-  region (Fig. 15.84). Center to acanthion; then center IR to projected CR. Radiation
-  Safety Exposure factor selection should be optimized in accordance with the ALARA.
-  Collimate on four sides to anatomy of interest.
+notes: This incidență best evidențiază floor de Orbite și provides incidență de entire
+  orbital rims. stânci temporale (piramide pietroase) sunt visualized în midmaxillary
+  sinus region (Fig. 15.84). Center la acantion; then Se centrează receptorul de imagine
+  pe proiecția razei centrale. Radiation Safety expunere factor selection trebuie
+  să fie optimized în accordance cu ALARA. Collimate pe four sides la anatomy de interest.
 position: 'Pacient: Acanthioparietal (Reverse Incidență Occipito-Mentonieră (Metoda
-  Waters)) Patient Decubit Dorsal; remove all metal, plastic, or other removable objects
-  from head. Do not remove cervical collar unless approved by attending physician.;
+  Waters)) pacient Decubit dorsal; remove toate metal, plastic, sau other removable
+  objects de la cap. Do nu remove cervical collar unless approved prin attending physician.;
   Regiune anatomică: Modified Acanthioparietal (Modified Reverse Incidență Occipito-Mentonieră
-  (Metoda Waters)) (Fig. 15.83) Position MSP perpendicular to midline of grid or table
-  (see previous WARNING).'
+  (Metoda Waters)) (Fig. 15.83) poziție MSP perpendicular la midline de grilă sau
+  table (see previous WARNING).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,10 +55,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 100 cm
 slug: rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager
 sources:
@@ -64,7 +65,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -92,7 +93,7 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+        - suspiciune de fractură, penetrating injuries, și radiopaque Corp străin / corpuri străine radio-opace
 
     === "Ghid Național IRIS"
 
@@ -106,10 +107,10 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
 
     ---
 
-    - **Poziție Pacient:** Pacient: Acanthioparietal (Reverse Incidență Occipito-Mentonieră (Metoda Waters)) Patient Decubit Dorsal; remove all metal, plastic, or other removable objects from head. Do not remove cervical collar unless approved by attending physician.; Regiune anatomică: Modified Acanthioparietal (Modified Reverse Incidență Occipito-Mentonieră (Metoda Waters)) (Fig. 15.83) Position MSP perpendicular to midline of grid or table (see previous WARNING).
-    - **Punct de Centrare Fascicul:** Angle CR cephalad as needed to align CR parallel to LML.
+    - **Poziție Pacient:** Pacient: Acanthioparietal (Reverse Incidență Occipito-Mentonieră (Metoda Waters)) pacient Decubit dorsal; remove toate metal, plastic, sau other removable objects de la cap. Do nu remove cervical collar unless approved prin attending physician.; Regiune anatomică: Modified Acanthioparietal (Modified Reverse Incidență Occipito-Mentonieră (Metoda Waters)) (Fig. 15.83) poziție MSP perpendicular la midline de grilă sau table (see previous WARNING).
+    - **Punct de Centrare Fascicul:** Angle raza centrală cranial ca needed la align raza centrală paralel la LML.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Masiv Facial (Oase ale Feței) traumatism acuttism / Regim Urgență Lateral, horizontal beam Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters)) AP (see previous pages) OPTIONAL Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—CR parallel to MML, centered to acanthion. Fig. 15.82 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters)). Fig. 15.83 Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters))—CR parallel to LML, centered to acanthion. Fig. 15.84 Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters)).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Masiv Facial (Oase ale Feței) traumatism acuttism / Regim Urgență lateral, orizontal fascicul Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters)) AP (see previous pages) OPTIONAL Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel la linie mentomeatală (LMM), centrat pe acantion. Fig. 15.82 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters)). Fig. 15.83 Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel la LML, centrat pe acantion. Fig. 15.84 Modified acanthioparietal (modified reverse Incidență Occipito-Mentonieră (Metoda Waters)).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,16 +124,16 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,7 +146,7 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This projection best demonstrates the floor of the Orbite and provides a view of the entire orbital rims. Petrous ridges are visualized in midmaxillary sinus region (Fig. 15.84). Center to acanthion; then center IR to projected CR. Radiation Safety Exposure factor selection should be optimized in accordance with the ALARA. Collimate on four sides to anatomy of interest.
+    This incidență best evidențiază floor de Orbite și provides incidență de entire orbital rims. stânci temporale (piramide pietroase) sunt visualized în midmaxillary sinus region (Fig. 15.84). Center la acantion; then Se centrează receptorul de imagine pe proiecția razei centrale. Radiation Safety expunere factor selection trebuie să fie optimized în accordance cu ALARA. Collimate pe four sides la anatomy de interest.
 
 
 ### 🖼️ Imagini
@@ -154,9 +155,9 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—CR parallel to](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_1.jpeg)
+![Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel la](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—CR parallel to</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.81 Acanthioparietal (reverse Waters method)—CR parallel to)</span></figcaption>
+<figcaption><strong>Fig. 15.81 Acanthioparietal (reverse Incidență Occipito-Mentonieră (Metoda Waters))—raza centrală paralel la</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.81 Acanthioparietal (reverse Waters method)—raza centrală paralel la)</span></figcaption>
 
 </figure>
 
@@ -170,17 +171,17 @@ title: Rx ACANTHIOPARIETAL (REVERSE Incidență Occipito-Mentonieră (Metoda Wat
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.83 Modiﬁed acanthioparietal (modiﬁed reverse Waters](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_3.jpeg)
+![Fig. 15.83 Modified acanthioparietal (modified reverse Waters](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 15.83 Modiﬁed acanthioparietal (modiﬁed reverse Waters</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.83 Modiﬁed acanthioparietal (modiﬁed reverse Waters)</span></figcaption>
+<figcaption><strong>Fig. 15.83 Modified acanthioparietal (modified reverse Waters</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.83 Modified acanthioparietal (modified reverse Waters)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.84 Modiﬁed acanthioparietal (modiﬁed reverse Waters](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_4.jpeg)
+![Fig. 15.84 Modified acanthioparietal (modified reverse Waters](../../assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 15.84 Modiﬁed acanthioparietal (modiﬁed reverse Waters</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.84 Modiﬁed acanthioparietal (modiﬁed reverse Waters)</span></figcaption>
+<figcaption><strong>Fig. 15.84 Modified acanthioparietal (modified reverse Waters</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.84 Modified acanthioparietal (modified reverse Waters)</span></figcaption>
 
 </figure>
 

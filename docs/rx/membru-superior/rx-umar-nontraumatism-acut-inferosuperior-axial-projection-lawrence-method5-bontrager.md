@@ -1,46 +1,45 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. An alternative position is exaggerated
-  external rotation4 (Fig. 5.47). Anterior luxație / subluxație articulară of the
-  humeral head may result in a compression suspiciune de fractură of the articular
-  surface of the humeral head, called the HillsSachs defect. This pathology is best
-  demonstrated by exaggerated external rotation, wherein the Police is pointed down
-  and posteriorly approximately 45°.
+breathing: Apnee pe durata expunerii. alternative poziție este exaggerated extern
+  rotation4 (Fig. 5.47). anterior luxație / subluxație articulară de cap humeral poate
+  result în compression suspiciune de fractură de articular surface de cap humeral,
+  called HillsSachs defect. This pathology este best evidențiat prin exaggerated extern
+  rotație, wherein Police este pointed down și posteriorly approximately 45°.
 category: membru-superior
-centering: medial angle also should be decreased to 15° to 20°. The greater the arm
-  abduction, the greater the CR angle.
+centering: medial angle also trebuie să fie decreased la 15° la 20°. greater braț
+  abduction, greater raza centrală angle.
 clinical_indications:
-- Degenerative conditions, including osteoporosis and artroză / modificări degenerative
+- Degenerative conditions, including osteoporosis și artroză / modificări degenerative
   articulare
-- HillSachs defect with exaggerated rotation of affected limb
+- HillSachs defect cu exaggerated rotație de affected limb
 images:
-- caption: Fig. 5.46 Inferosuperior axial (Metoda Lawrence) projection.
+- caption: Fig. 5.46 Inferosuperior axial (Metoda Lawrence) incidență.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.46 Inferosuperior
-    axial (Lawrence method) projection.)
+    axial (Lawrence method) incidență.)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_1.jpeg
-- caption: Fig. 5.47 Alternative position—exaggerated rotation.
+- caption: Fig. 5.47 Alternative poziție—exaggerated rotație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.47
-    Alternative position—exaggerated rotation.)
+    Alternative poziție—exaggerated rotație.)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_2.jpeg
-- caption: Fig. 5.48 Inferosuperior axial projection.
+- caption: Fig. 5.48 Inferosuperior axial incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.48
-    Inferosuperior axial projection.)
+    Inferosuperior axial incidență.)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_3.jpeg
-- caption: Fig. 5.49 Inferosuperior axial projection.
+- caption: Fig. 5.49 Inferosuperior axial incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.49
-    Inferosuperior axial projection.)
+    Inferosuperior axial incidență.)
   url: assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Position patient Decubit Dorsal with Umăr raised approximately
-  2 inches (5 cm) from tabletop by placing support under arm and Umăr to place body
-  part near center of IR (Fig. 5.46).; Regiune anatomică: Move patient toward the
-  front edge of tabletop and place a cart or other arm support against front edge
-  of table to support abducted arm. Rotate head toward opposite side, place vertical
-  cassette on table as close to neck as possible, and support with sandbags. Abduct
-  arm 90° from body if possible; keep in external rotation, palm up, with support
-  under arm and Mână.'
+position: 'Pacient: poziție pacient Decubit dorsal cu Umăr raised approximately 2
+  inches (5 cm) de la tabletop prin placing support under braț și Umăr la place corp
+  part near center de receptorul de imagine (Fig. 5.46).; Regiune anatomică: Move
+  pacient spre front edge de tabletop și place cart sau other braț support against
+  front edge de table la support în abducție braț. Rotate cap spre opposite side,
+  place vertical casetă pe table ca close la neck ca possible, și support cu săculeți
+  cu nisip. Abduct braț 90° de la corp if possible; keep în extern rotație, palm up,
+  cu support under braț și Mână.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,23 +47,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Lateral view of proximal Humerus in relationship to scapulohumeral cavity
-- Coracoid process of Omoplat (Scapulă) and lesser tubercle of Humerus are seen in
-  profile.
-- 'The spine of the Omoplat (Scapulă) is seen on edge below the scapulohumeral joint
-  (Figs. 5.48 and 5.49). Position:'
-- Arm is seen to be abducted approximately 90° from the body.
-- Superior and inferior borders of the glenoid cavity should be directly superimposed,
-  indicating correct CR angle.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare.
-- Bony margins of the acromion and distal Claviculă are visible through the humeral
-  head. Fig. 5.46 Inferosuperior axial (Metoda Lawrence) projection. Fig. 5.47 Alternative
-  position—exaggerated rotation. Fig. 5.48 Inferosuperior axial projection. Lesser
-  tubercle Surgical neck of Humerus Acromion Coracoid process Head of Humerus Glenoid
-  fossa Spine of Omoplat (Scapulă) Fig. 5.49 Inferosuperior axial projection. Umăr
-  (Nontraumatism acut) SPECIAL
+- lateral incidență de proximal Humerus în relationship la scapulohumeral cavity
+- proces coracoid de Omoplat (Scapulă) și mică tuberozitate humerală (trohin) de Humerus
+  sunt seen în profile.
+- 'coloană vertebrală de Omoplat (Scapulă) este seen pe edge below scapulohumeral
+  articulație (Figs. 5.48 și 5.49). poziție:'
+- braț este seen la fie în abducție approximately 90° de la corp.
+- superior și inferior margini de cavitate glenoidă trebuie să fie directly superimposed,
+  indicating correct raza centrală angle.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
+- Bony margins de acromion și distal Claviculă sunt vizibil through cap humeral. Fig.
+  5.46 Inferosuperior axial (Metoda Lawrence) incidență. Fig. 5.47 Alternative poziție—exaggerated
+  rotație. Fig. 5.48 Inferosuperior axial incidență. mică tuberozitate humerală (trohin)
+  Surgical neck de Humerus acromion proces coracoid cap de Humerus cavitate glenoidă
+  coloană vertebrală de Omoplat (Scapulă) Fig. 5.49 Inferosuperior axial incidență.
+  Umăr (Nontraumatism acut) SPECIAL
 - Inferosuperior axial (Metoda Lawrence)
 sid_dff: 100 cm
 slug: rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager
@@ -73,15 +72,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate closely to area of interest.
+  collimation: Field Size Collimate closely la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE METHOD5)
+title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL Incidență (LAWRENCE METHOD5)
 ---
-# Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE METHOD5)
+# Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL Incidență (LAWRENCE METHOD5)
 
 
 <div class="rx-meta-bar">
@@ -100,8 +99,8 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE M
 
     === "Indicații Clinice"
 
-        - Degenerative conditions, including osteoporosis and artroză / modificări degenerative articulare
-        - HillSachs defect with exaggerated rotation of affected limb
+        - Degenerative conditions, including osteoporosis și artroză / modificări degenerative articulare
+        - HillSachs defect cu exaggerated rotație de affected limb
 
     === "Ghid Național IRIS"
 
@@ -115,10 +114,10 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE M
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit Dorsal with Umăr raised approximately 2 inches (5 cm) from tabletop by placing support under arm and Umăr to place body part near center of IR (Fig. 5.46).; Regiune anatomică: Move patient toward the front edge of tabletop and place a cart or other arm support against front edge of table to support abducted arm. Rotate head toward opposite side, place vertical cassette on table as close to neck as possible, and support with sandbags. Abduct arm 90° from body if possible; keep in external rotation, palm up, with support under arm and Mână.
-    - **Punct de Centrare Fascicul:** medial angle also should be decreased to 15° to 20°. The greater the arm abduction, the greater the CR angle.
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit dorsal cu Umăr raised approximately 2 inches (5 cm) de la tabletop prin placing support under braț și Umăr la place corp part near center de receptorul de imagine (Fig. 5.46).; Regiune anatomică: Move pacient spre front edge de tabletop și place cart sau other braț support against front edge de table la support în abducție braț. Rotate cap spre opposite side, place vertical casetă pe table ca close la neck ca possible, și support cu săculeți cu nisip. Abduct braț 90° de la corp if possible; keep în extern rotație, palm up, cu support under braț și Mână.
+    - **Punct de Centrare Fascicul:** medial angle also trebuie să fie decreased la 15° la 20°. greater braț abduction, greater raza centrală angle.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. An alternative position is exaggerated external rotation4 (Fig. 5.47). Anterior luxație / subluxație articulară of the humeral head may result in a compression suspiciune de fractură of the articular surface of the humeral head, called the HillsSachs defect. This pathology is best demonstrated by exaggerated external rotation, wherein the Police is pointed down and posteriorly approximately 45°.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. alternative poziție este exaggerated extern rotation4 (Fig. 5.47). anterior luxație / subluxație articulară de cap humeral poate result în compression suspiciune de fractură de articular surface de cap humeral, called HillsSachs defect. This pathology este best evidențiat prin exaggerated extern rotație, wherein Police este pointed down și posteriorly approximately 45°.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -132,21 +131,21 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE M
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate closely to area of interest. |
+    | **Colimare Fascicul** | Field Size Collimate closely la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of proximal Humerus in relationship to scapulohumeral cavity
-    - Coracoid process of Omoplat (Scapulă) and lesser tubercle of Humerus are seen in profile.
-    - The spine of the Omoplat (Scapulă) is seen on edge below the scapulohumeral joint (Figs. 5.48 and 5.49). Position:
-    - Arm is seen to be abducted approximately 90° from the body.
-    - Superior and inferior borders of the glenoid cavity should be directly superimposed, indicating correct CR angle.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - Bony margins of the acromion and distal Claviculă are visible through the humeral head. Fig. 5.46 Inferosuperior axial (Metoda Lawrence) projection. Fig. 5.47 Alternative position—exaggerated rotation. Fig. 5.48 Inferosuperior axial projection. Lesser tubercle Surgical neck of Humerus Acromion Coracoid process Head of Humerus Glenoid fossa Spine of Omoplat (Scapulă) Fig. 5.49 Inferosuperior axial projection. Umăr (Nontraumatism acut) SPECIAL
+    - lateral incidență de proximal Humerus în relationship la scapulohumeral cavity
+    - proces coracoid de Omoplat (Scapulă) și mică tuberozitate humerală (trohin) de Humerus sunt seen în profile.
+    - coloană vertebrală de Omoplat (Scapulă) este seen pe edge below scapulohumeral articulație (Figs. 5.48 și 5.49). poziție:
+    - braț este seen la fie în abducție approximately 90° de la corp.
+    - superior și inferior margini de cavitate glenoidă trebuie să fie directly superimposed, indicating correct raza centrală angle.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
+    - Bony margins de acromion și distal Claviculă sunt vizibil through cap humeral. Fig. 5.46 Inferosuperior axial (Metoda Lawrence) incidență. Fig. 5.47 Alternative poziție—exaggerated rotație. Fig. 5.48 Inferosuperior axial incidență. mică tuberozitate humerală (trohin) Surgical neck de Humerus acromion proces coracoid cap de Humerus cavitate glenoidă coloană vertebrală de Omoplat (Scapulă) Fig. 5.49 Inferosuperior axial incidență. Umăr (Nontraumatism acut) SPECIAL
     - Inferosuperior axial (Metoda Lawrence)
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -167,33 +166,33 @@ title: Rx Umăr (NONtraumatism acut) INFEROSUPERIOR AXIAL PROJECTION (LAWRENCE M
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.46 Inferosuperior axial (Metoda Lawrence) projection.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_1.jpeg)
+![Fig. 5.46 Inferosuperior axial (Metoda Lawrence) incidență.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.46 Inferosuperior axial (Metoda Lawrence) projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.46 Inferosuperior axial (Lawrence method) projection.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.47 Alternative position—exaggerated rotation.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.47 Alternative position—exaggerated rotation.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.47 Alternative position—exaggerated rotation.)</span></figcaption>
+<figcaption><strong>Fig. 5.46 Inferosuperior axial (Metoda Lawrence) incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.46 Inferosuperior axial (Lawrence method) incidență.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.48 Inferosuperior axial projection.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_3.jpeg)
+![Fig. 5.47 Alternative poziție—exaggerated rotație.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.48 Inferosuperior axial projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.48 Inferosuperior axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 5.47 Alternative poziție—exaggerated rotație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.47 Alternative poziție—exaggerated rotație.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.49 Inferosuperior axial projection.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_4.jpeg)
+![Fig. 5.48 Inferosuperior axial incidență.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.49 Inferosuperior axial projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.49 Inferosuperior axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 5.48 Inferosuperior axial incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.48 Inferosuperior axial incidență.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.49 Inferosuperior axial incidență.](../../assets/images/protocols/bontrager/rx-umar-nontraumatism-acut-inferosuperior-axial-projection-lawrence-method5-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 5.49 Inferosuperior axial incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.49 Inferosuperior axial incidență.)</span></figcaption>
 
 </figure>
 

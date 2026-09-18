@@ -1,36 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Suspend respiration for the exposure. Bazin (Pelvis) SPECIAL Acetabulum
-  and femoral head, including the fovea capitis Posterior axial oblique acetabulum
-  (Teufel method) Oblique acetabulum (False profile method) Fig. 7.65 False profile
-  projection. (From Atkins PR, Kobayashi EF, Anderson AE, Aoki SK, et al: Modified
-  falseprofile radiograph of the Șold provides better visualization of the anterosuperior
+breathing: 'Apnee pe durata expunerii pentru expunere. Bazin (bazin (pelvis)) SPECIAL
+  cotil (acetabul) și cap femural, including fovea capitis posterior axial oblic cotil
+  (acetabul) (Teufel method) oblic cotil (acetabul) (False profile method) Fig. 7.65
+  False profile incidență. (de la Atkins PR, Kobayashi EF, Anderson AE, Aoki SK, et
+  al: Modified falseprofile radiografie de Șold provides better visualization de anterosuperior
   femoral headneck junction. Arthroscopy 34(4):1236–1243.) Fig. 7.64 False profile
-  projection.'
+  incidență.'
 category: membru-inferior
-centering: perpendicular to IR.
+centering: perpendicular pe receptorul de imagine.
 clinical_indications:
-- Șold dysplasia and instability
-- Femoroacetabular impingement (FAI) The concave area of the fovea capitis should
-  be demonstrated, along with the superolateral aspect of the acetabulum.
+- Șold dysplasia și instability
+- Femoroacetabular impingement (FAI) concave area de fovea capitis trebuie să fie
+  evidențiat, along cu superolateral aspect de cotil (acetabul).
 images:
-- caption: Fig. 7.65 False proﬁle projection. (From Atkins PR, Kobayashi EF,
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.65 False proﬁle
-    projection. (From Atkins PR, Kobayashi EF,)
+- caption: Fig. 7.65 False profile incidență. (de la Atkins PR, Kobayashi EF,
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.65 False profile
+    incidență. (de la Atkins PR, Kobayashi EF,)
   url: assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_1.jpeg
-- caption: Fig. 7.64 False proﬁle projection.
+- caption: Fig. 7.64 False profile incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.64
-    False proﬁle projection.)
+    False profile incidență.)
   url: assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: The modified false profile projection is positioned in the same manner but
-  with the dependent lower limb and Picior rotated internally 35 degrees away from
-  the IR (Figs. 7.66 and 7.67).
-position: 'Pacient: ObliqueFalse Profile Projection Patient Ortostatism or Decubit
-  (Ortostatism recommended); Regiune anatomică: Place patient in posterior oblique,
-  with both Bazin (Pelvis) and thorax rotated 65 degrees to the wall bucky (Fig. 7.64).
-  Rotate dependent lower limb until Picior is parallel to IR (see'
+notes: modified false profile incidență este poziționat în same manner but cu dependent
+  membru inferior și Picior rotit internally 35 grade away de la receptorul de imagine
+  (Figs. 7.66 și 7.67).
+position: 'Pacient: ObliqueFalse Profile incidență pacient Ortostatism sau Decubit
+  (Ortostatism recommended); Regiune anatomică: Place pacient în posterior oblic,
+  cu ambele Bazin (bazin (pelvis)) și thorax rotit 65 grade la perete bucky (Fig.
+  7.64). Rotate dependent membru inferior until Picior este paralel cu receptorul
+  de imagine (see'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,14 +39,14 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'The superolateral aspect of acetabulum with the femoral head centered within it
-  (Fig. 7.65). Proximal femoral head, neck and acetabulum is demonstrated Position:'
-- Proper degree of obliquity is evidenced by visualization of the superolateral aspect
-  of the acetabulum with the femoral head centered and in profile.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast of the bony margins and trabecular
-  markings of the acetabulum and femoral head regions; such markings should appear
-  sharp, indicating no motion.
+- 'superolateral aspect de cotil (acetabul) cu cap femural centrat within it (Fig.
+  7.65). proximal cap femural, neck și cotil (acetabul) este evidențiat poziție:'
+- corect grade de obliquity este evidenced prin visualization de superolateral aspect
+  de cotil (acetabul) cu cap femural centrat și în profile.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast de bony margins și trabecular markings
+  de cotil (acetabul) și cap femural regions; such markings trebuie să appear net,
+  indicating fără mișcare.
 sid_dff: 100 cm
 slug: rx-acetabulum-oblica-false-profile-method6-bontrager
 sources:
@@ -53,7 +54,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -80,8 +81,8 @@ title: Rx ACETABULUM Oblică (FALSE PROFILE METHOD6)
 
     === "Indicații Clinice"
 
-        - Șold dysplasia and instability
-        - Femoroacetabular impingement (FAI) The concave area of the fovea capitis should be demonstrated, along with the superolateral aspect of the acetabulum.
+        - Șold dysplasia și instability
+        - Femoroacetabular impingement (FAI) concave area de fovea capitis trebuie să fie evidențiat, along cu superolateral aspect de cotil (acetabul).
 
     === "Ghid Național IRIS"
 
@@ -95,10 +96,10 @@ title: Rx ACETABULUM Oblică (FALSE PROFILE METHOD6)
 
     ---
 
-    - **Poziție Pacient:** Pacient: ObliqueFalse Profile Projection Patient Ortostatism or Decubit (Ortostatism recommended); Regiune anatomică: Place patient in posterior oblique, with both Bazin (Pelvis) and thorax rotated 65 degrees to the wall bucky (Fig. 7.64). Rotate dependent lower limb until Picior is parallel to IR (see
-    - **Punct de Centrare Fascicul:** perpendicular to IR.
+    - **Poziție Pacient:** Pacient: ObliqueFalse Profile incidență pacient Ortostatism sau Decubit (Ortostatism recommended); Regiune anatomică: Place pacient în posterior oblic, cu ambele Bazin (bazin (pelvis)) și thorax rotit 65 grade la perete bucky (Fig. 7.64). Rotate dependent membru inferior until Picior este paralel cu receptorul de imagine (see
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration for the exposure. Bazin (Pelvis) SPECIAL Acetabulum and femoral head, including the fovea capitis Posterior axial oblique acetabulum (Teufel method) Oblique acetabulum (False profile method) Fig. 7.65 False profile projection. (From Atkins PR, Kobayashi EF, Anderson AE, Aoki SK, et al: Modified falseprofile radiograph of the Șold provides better visualization of the anterosuperior femoral headneck junction. Arthroscopy 34(4):1236–1243.) Fig. 7.64 False profile projection.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru expunere. Bazin (bazin (pelvis)) SPECIAL cotil (acetabul) și cap femural, including fovea capitis posterior axial oblic cotil (acetabul) (Teufel method) oblic cotil (acetabul) (False profile method) Fig. 7.65 False profile incidență. (de la Atkins PR, Kobayashi EF, Anderson AE, Aoki SK, et al: Modified falseprofile radiografie de Șold provides better visualization de anterosuperior femoral headneck junction. Arthroscopy 34(4):1236–1243.) Fig. 7.64 False profile incidență.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -112,17 +113,17 @@ title: Rx ACETABULUM Oblică (FALSE PROFILE METHOD6)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - The superolateral aspect of acetabulum with the femoral head centered within it (Fig. 7.65). Proximal femoral head, neck and acetabulum is demonstrated Position:
-    - Proper degree of obliquity is evidenced by visualization of the superolateral aspect of the acetabulum with the femoral head centered and in profile.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast of the bony margins and trabecular markings of the acetabulum and femoral head regions; such markings should appear sharp, indicating no motion.
+    - superolateral aspect de cotil (acetabul) cu cap femural centrat within it (Fig. 7.65). proximal cap femural, neck și cotil (acetabul) este evidențiat poziție:
+    - corect grade de obliquity este evidenced prin visualization de superolateral aspect de cotil (acetabul) cu cap femural centrat și în profile.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast de bony margins și trabecular markings de cotil (acetabul) și cap femural regions; such markings trebuie să appear net, indicating fără mișcare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -135,7 +136,7 @@ title: Rx ACETABULUM Oblică (FALSE PROFILE METHOD6)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    The modified false profile projection is positioned in the same manner but with the dependent lower limb and Picior rotated internally 35 degrees away from the IR (Figs. 7.66 and 7.67).
+    modified false profile incidență este poziționat în same manner but cu dependent membru inferior și Picior rotit internally 35 grade away de la receptorul de imagine (Figs. 7.66 și 7.67).
 
 
 ### 🖼️ Imagini
@@ -144,17 +145,17 @@ title: Rx ACETABULUM Oblică (FALSE PROFILE METHOD6)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.65 False proﬁle projection. (From Atkins PR, Kobayashi EF,](../../assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_1.jpeg)
+![Fig. 7.65 False profile incidență. (de la Atkins PR, Kobayashi EF,](../../assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.65 False proﬁle projection. (From Atkins PR, Kobayashi EF,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.65 False proﬁle projection. (From Atkins PR, Kobayashi EF,)</span></figcaption>
+<figcaption><strong>Fig. 7.65 False profile incidență. (de la Atkins PR, Kobayashi EF,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.65 False profile incidență. (de la Atkins PR, Kobayashi EF,)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.64 False proﬁle projection.](../../assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_2.jpeg)
+![Fig. 7.64 False profile incidență.](../../assets/images/protocols/bontrager/rx-acetabulum-oblica-false-profile-method6-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.64 False proﬁle projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.64 False proﬁle projection.)</span></figcaption>
+<figcaption><strong>Fig. 7.64 False profile incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.64 False profile incidență.)</span></figcaption>
 
 </figure>
 

@@ -2,43 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: torace
-centering: Perpendicular pe centrul ariei de interes
+centering: perpendicular pe centrul ariei de interes
 clinical_indications:
-- Detection or evaluation of calcifications, cysts, carcinomas, or other abnormalities
-  or changes in the Mamografie (Sân) tissue indicating a possible pathologic condition
-- Breasts are imaged separately for comparison.
+- Detection sau evaluation de calcifications, cysts, carcinomas, sau other abnormalities
+  sau changes în Mamografie (Sân) tissue indicating possible pathologic condition
+- Breasts sunt imaged separately pentru comparison.
 images:
-- caption: 'Fig. 20.64 CC projection. (From Long BW, Rollins JH, Smith BJ:'
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 20.64 CC projection.
-    (From Long BW, Rollins JH, Smith BJ:)
+- caption: 'Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ:'
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 20.64 CC incidență.
+    (de la Long BW, Rollins JH, Smith BJ:)
   url: assets/images/protocols/bontrager/rx-mamografie-craniocaudal-cc-projection-bontrager/fig_1.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Ortostatism, if possible; Regiune anatomică: IR height is determined
-  by lifting the Mamografie (Sân) to achieve a 90° angle to the Torace wall. The IR
-  is at the level of the iMF at its upper limits. (The mammographer should always
-  position from the patient’s medial side to ensure that Mamografie (Sân) tissue is
-  parallel to the IR. Positioning from the lateral aspect of the Mamografie (Sân)
-  makes tasks more difficult. The Mamografie (Sân) is pulled forward onto the IR centrally
-  with the nipple in profile whenever possible (Figs. 20.64 and 20.65). The arm on
-  the side that is being imaged is relaxed at the side, and the Umăr is back out of
-  the way. The head is turned away from the side being imaged (facing the technologist).
-  Medial tissue of the opposite Mamografie (Sân) is draped on the corner of the IR.
-  Wrinkles and folds on the Mamografie (Sân) should be smoothed out and compression
-  applied until taut. The marker and patient identification information are always
-  placed on the axillary side. Positioning Tips For patients with a large, protruding
-  Abdomen—After placing the patient at the bucky, have the patient take a step backward,
-  keep the feet planted, and then lean forward and place the Mamografie (Sân) on the
-  IR. This allows all of the Mamografie (Sân) to reach the IR without blockage from
-  the Abdomen. Young, smallbreasted patients often have tissue that is difficult to
-  image on one projection. To avoid having to do three images (extra dose to the patient),
-  take the first CC image and concentrate on getting the medial tissue; on the second
-  image, make sure the lateral tissue is emphasized. Neither projection should be
-  an exaggerated view. This technique avoids the need to do a straighton CC and then
-  also having to do both exaggerated views (medial and lateral). Fig. 20.64 CC projection.
-  (From Long BW, Rollins JH, Smith BJ: Merrill’s atlas of radiographic positioning
-  and procedures, ed 13, St. Louis, 2016, Mosby.)'
+position: 'Pacient: Ortostatism, if possible; Regiune anatomică: receptorul de imagine
+  height este determined prin lifting Mamografie (Sân) la achieve a 90° angle la Torace
+  perete. receptorul de imagine este la nivelul iMF la its upper limits. (mammographer
+  trebuie să always poziție de la pacient’s medial side la ensure that Mamografie
+  (Sân) tissue este paralel cu receptorul de imagine (RI). Positioning de la lateral
+  aspect de Mamografie (Sân) makes tasks more difficult. Mamografie (Sân) este pulled
+  forward onto receptorul de imagine centrally cu nipple în profile whenever possible
+  (Figs. 20.64 și 20.65). braț pe side that este being imaged este relaxat la side,
+  și Umăr este back out de way. capul este turned away de la side being imaged (facing
+  technologist). medial tissue de opposite Mamografie (Sân) este draped pe corner
+  de receptorul de imagine. Wrinkles și folds pe Mamografie (Sân) trebuie să fie smoothed
+  out și compression applied until taut. marker și pacient identification information
+  sunt always plasat pe axillary side. Positioning Tips pentru pacienți cu large,
+  protruding Abdomen—After placing pacientul la bucky, Se instruiește pacientul să
+  take step backward, keep picioarele planted, și then lean forward și place Mamografie
+  (Sân) pe receptorul de imagine. This allows toate de Mamografie (Sân) la reach receptorul
+  de imagine fără blockage de la abdomenul. Young, smallbreasted pacienți often have
+  tissue that este difficult la imagine pe one incidență. la avoid having la do three
+  imagini (extra dose la pacientul), take first CC imagine și concentrate pe getting
+  medial tissue; pe second imagine, make sure lateral tissue este emphasized. Neither
+  incidență trebuie să fie exaggerated incidență. This technique avoids need la do
+  straighton CC și then also having la do ambele exaggerated incidențe (medial și
+  lateral). Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ: Merrill’s
+  atlas de radiographic positioning și procedures, ed 13, St. Louis, 2016, Mosby.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,10 +46,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 60 cm
 slug: rx-mamografie-craniocaudal-cc-projection-bontrager
 sources:
@@ -57,15 +56,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
+title: Rx Mamografie Cranio-Caudală (CC)
 ---
-# Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
+# Rx Mamografie Cranio-Caudală (CC)
 
 
 <div class="rx-meta-bar">
@@ -84,8 +83,8 @@ title: Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
 
     === "Indicații Clinice"
 
-        - Detection or evaluation of calcifications, cysts, carcinomas, or other abnormalities or changes in the Mamografie (Sân) tissue indicating a possible pathologic condition
-        - Breasts are imaged separately for comparison.
+        - Detection sau evaluation de calcifications, cysts, carcinomas, sau other abnormalities sau changes în Mamografie (Sân) tissue indicating possible pathologic condition
+        - Breasts sunt imaged separately pentru comparison.
 
     === "Ghid Național IRIS"
 
@@ -99,8 +98,8 @@ title: Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, if possible; Regiune anatomică: IR height is determined by lifting the Mamografie (Sân) to achieve a 90° angle to the Torace wall. The IR is at the level of the iMF at its upper limits. (The mammographer should always position from the patient’s medial side to ensure that Mamografie (Sân) tissue is parallel to the IR. Positioning from the lateral aspect of the Mamografie (Sân) makes tasks more difficult. The Mamografie (Sân) is pulled forward onto the IR centrally with the nipple in profile whenever possible (Figs. 20.64 and 20.65). The arm on the side that is being imaged is relaxed at the side, and the Umăr is back out of the way. The head is turned away from the side being imaged (facing the technologist). Medial tissue of the opposite Mamografie (Sân) is draped on the corner of the IR. Wrinkles and folds on the Mamografie (Sân) should be smoothed out and compression applied until taut. The marker and patient identification information are always placed on the axillary side. Positioning Tips For patients with a large, protruding Abdomen—After placing the patient at the bucky, have the patient take a step backward, keep the feet planted, and then lean forward and place the Mamografie (Sân) on the IR. This allows all of the Mamografie (Sân) to reach the IR without blockage from the Abdomen. Young, smallbreasted patients often have tissue that is difficult to image on one projection. To avoid having to do three images (extra dose to the patient), take the first CC image and concentrate on getting the medial tissue; on the second image, make sure the lateral tissue is emphasized. Neither projection should be an exaggerated view. This technique avoids the need to do a straighton CC and then also having to do both exaggerated views (medial and lateral). Fig. 20.64 CC projection. (From Long BW, Rollins JH, Smith BJ: Merrill’s atlas of radiographic positioning and procedures, ed 13, St. Louis, 2016, Mosby.)
-    - **Punct de Centrare Fascicul:** Perpendicular pe centrul ariei de interes
+    - **Poziție Pacient:** Pacient: Ortostatism, if possible; Regiune anatomică: receptorul de imagine height este determined prin lifting Mamografie (Sân) la achieve a 90° angle la Torace perete. receptorul de imagine este la nivelul iMF la its upper limits. (mammographer trebuie să always poziție de la pacient’s medial side la ensure that Mamografie (Sân) tissue este paralel cu receptorul de imagine (RI). Positioning de la lateral aspect de Mamografie (Sân) makes tasks more difficult. Mamografie (Sân) este pulled forward onto receptorul de imagine centrally cu nipple în profile whenever possible (Figs. 20.64 și 20.65). braț pe side that este being imaged este relaxat la side, și Umăr este back out de way. capul este turned away de la side being imaged (facing technologist). medial tissue de opposite Mamografie (Sân) este draped pe corner de receptorul de imagine. Wrinkles și folds pe Mamografie (Sân) trebuie să fie smoothed out și compression applied until taut. marker și pacient identification information sunt always plasat pe axillary side. Positioning Tips pentru pacienți cu large, protruding Abdomen—After placing pacientul la bucky, Se instruiește pacientul să take step backward, keep picioarele planted, și then lean forward și place Mamografie (Sân) pe receptorul de imagine. This allows toate de Mamografie (Sân) la reach receptorul de imagine fără blockage de la abdomenul. Young, smallbreasted pacienți often have tissue that este difficult la imagine pe one incidență. la avoid having la do three imagini (extra dose la pacientul), take first CC imagine și concentrate pe getting medial tissue; pe second imagine, make sure lateral tissue este emphasized. Neither incidență trebuie să fie exaggerated incidență. This technique avoids need la do straighton CC și then also having la do ambele exaggerated incidențe (medial și lateral). Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ: Merrill’s atlas de radiographic positioning și procedures, ed 13, St. Louis, 2016, Mosby.)
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul ariei de interes
     - **Distanță Focar-Film (DFF / SID):** 60 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -116,16 +115,16 @@ title: Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,9 +144,9 @@ title: Rx Mamografie CRANIOCAUDAL (CC) PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.64 CC projection. (From Long BW, Rollins JH, Smith BJ:](../../assets/images/protocols/bontrager/rx-mamografie-craniocaudal-cc-projection-bontrager/fig_1.jpeg)
+![Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ:](../../assets/images/protocols/bontrager/rx-mamografie-craniocaudal-cc-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 20.64 CC projection. (From Long BW, Rollins JH, Smith BJ:</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.64 CC projection. (From Long BW, Rollins JH, Smith BJ:)</span></figcaption>
+<figcaption><strong>Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ:</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.64 CC incidență. (de la Long BW, Rollins JH, Smith BJ:)</span></figcaption>
 
 </figure>
 

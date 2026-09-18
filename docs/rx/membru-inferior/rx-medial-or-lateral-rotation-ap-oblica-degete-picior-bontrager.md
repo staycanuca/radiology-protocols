@@ -2,40 +2,42 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed to MTP joint in question
+centering: perpendicular pe receptorul de imagine, orientat la articulații metatarsofalangiene
+  (MTF) în question
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of the phalanges of the
-  digits in question
-- Pathologies such as artroză / modificări degenerative articulare and gouty arthritis
-  (gout), especially in the first digit
+- suspiciune de fractură sau luxație / subluxație articulară de falange de falange
+  în question
+- Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis
+  (gout), especially în first falange
 images:
-- caption: Fig. 6.43 Medial oblique rotation—ﬁrst digit.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.43 Medial oblique
-    rotation—ﬁrst digit.)
+- caption: Fig. 6.43 medial oblic rotație—first falange.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.43 medial oblic
+    rotație—first falange.)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_1.jpeg
-- caption: Fig. 6.44 Lateral oblique rotation—fourth digit.
+- caption: Fig. 6.44 lateral oblic rotație—fourth falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.44
-    Lateral oblique rotation—fourth digit.)
+    lateral oblic rotație—fourth falange.)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_2.jpeg
-- caption: Fig. 6.45 Medial
+- caption: Fig. 6.45 medial
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.45
-    Medial)
+    medial)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_3.jpeg
-- caption: Fig. 6.46 Medial oblique—
+- caption: Fig. 6.46 medial oblic—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.46
-    Medial oblique—)
+    medial oblic—)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table; Genunchi
-  should be flexed with plantar surface of Picior resting on IR.; Regiune anatomică:
-  Center and align long axis of digit to CR and long axis of portion of IR being exposed.
-  Ensure that MTP joint of digit in question is centered to CR. Rotate the leg and
-  Picior 30° to 45° medially for the first, second, and third digits (Fig. 6.43) and
-  laterally for the fourth and fifth digits (Fig. 6.44). (See oblique Picior projections
-  for degree of obliquity.) Use 45° radiolucent support under elevated portion of
-  Picior to prevent motion.'
+position: 'Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi
+  trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.;
+  Regiune anatomică: Center și align axa longitudinală de falange la raza centrală
+  și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that
+  articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza
+  centrală. se rotește membru inferior și Picior 30° la 45° medially pentru first,
+  second, și third falange (Fig. 6.43) și laterally pentru fourth și fifth falange
+  (Fig. 6.44). (See oblic Picior incidențe pentru grade de obliquity.) Use 45° radiolucent
+  support under ridicat portion de Picior la prevent mișcare.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,20 +45,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Digits in question and distal half of metatarsals should be included without overlap
-  (superimposition) (Figs. 6.45 and 6.46). Position:'
-- Long axis of Picior is aligned to long axis of portion of IR being exposed.
-- Correct obliquity should be evident by increased concavity on one side of shafts
-  and by overlapping of soft tissues of digits.
-- Heads of metatarsals should appear directly side by side with no (or only minimal)
-  overlapping.4
-- 'Collimation to area of interest. Exposure:'
-- No motion as evidenced by sharply defined cortical margins of bone and detailed
+- 'falange în question și distal half de oase metatarsiene trebuie să fie included
+  fără overlap (superimposition) (Figs. 6.45 și 6.46). poziție:'
+- axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul
+  de imagine being exposed.
+- Correct obliquity trebuie să fie evident prin increased concavity pe one side de
+  shafts și prin overlapping de soft tissues de falange.
+- Heads de oase metatarsiene trebuie să appear directly side prin side cu fără (sau
+  only minimal) overlapping.4
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed
   bony trabeculae.
-- Optimal image receptor exposure and contrast to allow visualization of bony cortical
-  margins and trabeculae and soft tissue structures. Fig. 6.45 Medial oblique—second
-  digit. Distal phalanx Middle phalanx 2nd MTP joint (CR) Distal 2nd metatarsal Proximal
-  phalanx Fig. 6.46 Medial obliquesecond digit.
+- optim receptorul de imagine expunere și contrast la allow visualization de bony
+  cortical margins și trabeculae și părți moi structures. Fig. 6.45 medial oblic—second
+  falange. distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF)
+  (raza centrală) distal 2nd metatarsal proximal phalanx Fig. 6.46 medial obliquesecond
+  falange.
 sid_dff: 100 cm
 slug: rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager
 sources:
@@ -64,18 +68,18 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate on four sides to include phalanges and a minimum of distal
-    half of metatarsals. On side margins, include a minimum of one digit on each side
-    of digit in question. Degete Picior ROUTINE AP Oblique Lateral Fig. 6.43 Medial
-    oblique rotation—first digit. Fig. 6.44 Lateral oblique rotation—fourth digit.
+  collimation: Collimate pe four sides la include falange și minimum de distal half
+    de oase metatarsiene. pe side margins, include minimum de one falange pe fiecare
+    side de falange în question. Degete Picior ROUTINE AP oblic lateral Fig. 6.43
+    medial oblic rotație—first falange. Fig. 6.44 lateral oblic rotație—fourth falange.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 50-60
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
+title: Rx MEDIAL OR Rotație Externă (Laterală) AP Oblică (Degete Picior)
 ---
-# Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
+# Rx MEDIAL OR Rotație Externă (Laterală) AP Oblică (Degete Picior)
 
 
 <div class="rx-meta-bar">
@@ -94,8 +98,8 @@ title: Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of the phalanges of the digits in question
-        - Pathologies such as artroză / modificări degenerative articulare and gouty arthritis (gout), especially in the first digit
+        - suspiciune de fractură sau luxație / subluxație articulară de falange de falange în question
+        - Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis (gout), especially în first falange
 
     === "Ghid Național IRIS"
 
@@ -109,8 +113,8 @@ title: Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table; Genunchi should be flexed with plantar surface of Picior resting on IR.; Regiune anatomică: Center and align long axis of digit to CR and long axis of portion of IR being exposed. Ensure that MTP joint of digit in question is centered to CR. Rotate the leg and Picior 30° to 45° medially for the first, second, and third digits (Fig. 6.43) and laterally for the fourth and fifth digits (Fig. 6.44). (See oblique Picior projections for degree of obliquity.) Use 45° radiolucent support under elevated portion of Picior to prevent motion.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to MTP joint in question
+    - **Poziție Pacient:** Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.; Regiune anatomică: Center și align axa longitudinală de falange la raza centrală și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza centrală. se rotește membru inferior și Picior 30° la 45° medially pentru first, second, și third falange (Fig. 6.43) și laterally pentru fourth și fifth falange (Fig. 6.44). (See oblic Picior incidențe pentru grade de obliquity.) Use 45° radiolucent support under ridicat portion de Picior la prevent mișcare.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la articulații metatarsofalangiene (MTF) în question
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -126,20 +130,20 @@ title: Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate on four sides to include phalanges and a minimum of distal half of metatarsals. On side margins, include a minimum of one digit on each side of digit in question. Degete Picior ROUTINE AP Oblique Lateral Fig. 6.43 Medial oblique rotation—first digit. Fig. 6.44 Lateral oblique rotation—fourth digit. |
+    | **Colimare Fascicul** | Collimate pe four sides la include falange și minimum de distal half de oase metatarsiene. pe side margins, include minimum de one falange pe fiecare side de falange în question. Degete Picior ROUTINE AP oblic lateral Fig. 6.43 medial oblic rotație—first falange. Fig. 6.44 lateral oblic rotație—fourth falange. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Digits in question and distal half of metatarsals should be included without overlap (superimposition) (Figs. 6.45 and 6.46). Position:
-    - Long axis of Picior is aligned to long axis of portion of IR being exposed.
-    - Correct obliquity should be evident by increased concavity on one side of shafts and by overlapping of soft tissues of digits.
-    - Heads of metatarsals should appear directly side by side with no (or only minimal) overlapping.4
-    - Collimation to area of interest. Exposure:
-    - No motion as evidenced by sharply defined cortical margins of bone and detailed bony trabeculae.
-    - Optimal image receptor exposure and contrast to allow visualization of bony cortical margins and trabeculae and soft tissue structures. Fig. 6.45 Medial oblique—second digit. Distal phalanx Middle phalanx 2nd MTP joint (CR) Distal 2nd metatarsal Proximal phalanx Fig. 6.46 Medial obliquesecond digit.
+    - falange în question și distal half de oase metatarsiene trebuie să fie included fără overlap (superimposition) (Figs. 6.45 și 6.46). poziție:
+    - axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul de imagine being exposed.
+    - Correct obliquity trebuie să fie evident prin increased concavity pe one side de shafts și prin overlapping de soft tissues de falange.
+    - Heads de oase metatarsiene trebuie să appear directly side prin side cu fără (sau only minimal) overlapping.4
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed bony trabeculae.
+    - optim receptorul de imagine expunere și contrast la allow visualization de bony cortical margins și trabeculae și părți moi structures. Fig. 6.45 medial oblic—second falange. distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF) (raza centrală) distal 2nd metatarsal proximal phalanx Fig. 6.46 medial obliquesecond falange.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,33 +163,33 @@ title: Rx MEDIAL OR LATERAL ROTATION AP Oblică (Degete Picior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.43 Medial oblique rotation—ﬁrst digit.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_1.jpeg)
+![Fig. 6.43 medial oblic rotație—first falange.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.43 Medial oblique rotation—ﬁrst digit.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.43 Medial oblique rotation—ﬁrst digit.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.44 Lateral oblique rotation—fourth digit.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.44 Lateral oblique rotation—fourth digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.44 Lateral oblique rotation—fourth digit.)</span></figcaption>
+<figcaption><strong>Fig. 6.43 medial oblic rotație—first falange.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.43 medial oblic rotație—first falange.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.45 Medial](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_3.jpeg)
+![Fig. 6.44 lateral oblic rotație—fourth falange.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.45 Medial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.45 Medial)</span></figcaption>
+<figcaption><strong>Fig. 6.44 lateral oblic rotație—fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.44 lateral oblic rotație—fourth falange.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.46 Medial oblique—](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_4.jpeg)
+![Fig. 6.45 medial](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.46 Medial oblique—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.46 Medial oblique—)</span></figcaption>
+<figcaption><strong>Fig. 6.45 medial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.45 medial)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.46 medial oblic—](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-ap-oblica-degete-picior-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 6.46 medial oblic—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.46 medial oblic—)</span></figcaption>
 
 </figure>
 

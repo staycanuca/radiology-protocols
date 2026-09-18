@@ -1,43 +1,46 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee în inspir profund complet (după a doua inspirație).
+breathing: Apnee în inspir profund complet (după doua inspirație).
 category: torace
-centering: midway between midsagittal plane and lateral margin of thorax
+centering: midway între plan mediosagital și lateral margin de thorax
 clinical_indications:
-- Investigate pathology involving the lung fields, trachea, and mediastinal structures.
-- Determine the size and contours of the heart and great vessels.
+- Investigate pathology involving câmpuri pulmonare, trachea, și mediastinal structures.
+- Determine size și contours de cordul și great vessels.
 images:
-- caption: Fig. 2.74 45° LAO position.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.74 45° LAO position.)
+- caption: Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.74 45° poziție
+    oblică anterioară stângă (OAS / LAO).)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_1.jpeg
-- caption: Fig. 2.73 45° RAO position.
+- caption: Fig. 2.73 45° poziție oblică anterioară dreaptă (OAD / RAO).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.73
-    45° RAO position.)
+    45° poziție oblică anterioară dreaptă (OAD / RAO).)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_2.jpeg
-- caption: Fig. 2.75 45° RAO position.
+- caption: Fig. 2.75 45° poziție oblică anterioară dreaptă (OAD / RAO).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.75
-    45° RAO position.)
+    45° poziție oblică anterioară dreaptă (OAD / RAO).)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: For anterior oblique, the side of interest generally is the side farthest
-  from the IR. Thus, the RAO provides the best visualization of the left lung. Certain
-  positions for studies of the heart and great vessels require oblique positions with
-  an increase in rotation of 45 to 60 degrees (see Figs. 2.75 and 2.76). Less rotation
-  (15 to 20 degrees) may be valuable for better visualization of the various areas
-  of the lungs for possible pulmonary disease (Fig. 2.77). Exception Either Ortostatism
-  or Decubit posterior oblique projections can be taken if the patient cannot assume
-  an Ortostatism position for anterior oblique, or if supplementary projections are
-  required. Torace SPECIAL AP upright or semierect Lateral decubitus (AP) AP lordotic
-  Anterior oblique Fig. 2.74 45° LAO position. Fig. 2.73 45° RAO position. LAO RAO'
-position: 'Pacient: Patient Ortostatism, rotated 45 degrees with right anterior Umăr
-  against IR for RAO (Fig. 2.73) and 45 degrees with left anterior Umăr against IR
-  for LAO (Fig. 2.74) (see NOTES for 60 degrees LAO) Patient’s arm flexed nearest
-  IR and Mână placed on Șold, palm out Opposite arm raised to clear lung field and
-  Mână rested on head or on Torace unit for support, keeping arm raised as high as
-  possible Patient looking straight ahead; chin raised; Regiune anatomică: As viewed
-  from the xray tube, center the patient to CR and to IR, with top of IR about 1 inch
-  (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7).'
+notes: 'S: pentru anterior oblic, side de interest generally este side farthest de
+  la receptorul de imagine. Thus, RAO provides best visualization de stâng lung. Certain
+  poziții pentru studies de cordul și great vessels require oblic poziții cu increase
+  în rotație de 45 la 60 grade (see Figs. 2.75 și 2.76). Less rotație (15 la 20 grade)
+  poate fie valuable pentru better visualization de various areas de plămânii pentru
+  possible pulmonary disease (Fig. 2.77). Exception Either Ortostatism sau Decubit
+  posterior oblic incidențe poate fie taken if pacientul cannot assume Ortostatism
+  poziție pentru anterior oblic, sau if supplementary incidențe sunt required. Torace
+  SPECIAL AP în ortostatism sau semierect lateral decubit (AP) AP lordotic anterior
+  oblic Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO). Fig. 2.73 45°
+  poziție oblică anterioară dreaptă (OAD / RAO). LAO RAO'
+position: 'Pacient: pacient Ortostatism, rotit 45 grade cu drept anterior Umăr against
+  receptorul de imagine pentru RAO (Fig. 2.73) și 45 grade cu stâng anterior Umăr
+  against receptorul de imagine pentru LAO (Fig. 2.74) (see NOTES pentru 60 grade
+  LAO) pacient’s braț flectat nearest receptorul de imagine și Mână plasat pe Șold,
+  palm out Opposite braț raised la clear câmpuri pulmonare și Mână rested pe cap sau
+  pe Torace unit pentru support, keeping braț raised ca high ca possible pacient looking
+  straight ahead; chin raised; Regiune anatomică: ca viewed de la xray tube, se centrează
+  pacient la raza centrală și la receptorul de imagine, cu top de receptorul de imagine
+  about 1 inch (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,18 +48,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Both lungs from the apices to the costophrenic angles should be included.
-- Airfilled trachea, great vessels, and heart outlines are best visualized with 60degree
-  LAO position. Position
-- To evaluate for a 45degree rotation, the distance from the outer margin of the Coaste
-  (Grilaj Costal) to the vertebral column on the side farthest from the IR should
-  be approximately two times the distance of the side closest to the IR (Figs. 2.78
-  and 2.79).
-- CR centered at level of T7. Exposure
-- No motion; outline of the diaphragm and heart should appear sharp.
-- Optimal exposure and contrast allow visualization of vascular markings throughout
-  the lungs and rib outlines except through the densest regions of the heart. L Fig.
-  2.75 45° RAO position.
+- ambele plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+  trebuie să fie included.
+- Airfilled trachea, great vessels, și heart outlines sunt best visualized cu 60degree
+  poziție oblică anterioară stângă (OAS / LAO). poziție
+- la evaluate pentru a 45degree rotație, distance de la outer margin de Coaste (Grilaj
+  Costal) la coloană vertebrală pe side farthest de la receptorul de imagine trebuie
+  să fie approximately two times distance de side cel mai apropiat de receptorul de
+  imagine (Figs. 2.78 și 2.79).
+- raza centrală centrat la nivelul level de T7. expunere
+- fără mișcare; outline de cupole diafragmatice și heart trebuie să appear net.
+- optim expunere și contrast allow visualization de vascular markings throughout plămânii
+  și rib outlines except through densest regions de cordul. L Fig. 2.75 45° poziție
+  oblică anterioară dreaptă (OAD / RAO).
 sid_dff: 180 cm
 slug: rx-rao-and-lao-anterior-oblique-positions-torace-bontrager
 sources:
@@ -64,16 +68,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to area of lung fields (top border of light
-    field to level of vertebra proeminentă (apofiza spinoasă C7)).
+  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
+    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
+title: Rx Oblică Anterioară (OAD și OAS) (Torace)
 ---
-# Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
+# Rx Oblică Anterioară (OAD și OAS) (Torace)
 
 
 <div class="rx-meta-bar">
@@ -92,8 +96,8 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
 
     === "Indicații Clinice"
 
-        - Investigate pathology involving the lung fields, trachea, and mediastinal structures.
-        - Determine the size and contours of the heart and great vessels.
+        - Investigate pathology involving câmpuri pulmonare, trachea, și mediastinal structures.
+        - Determine size și contours de cordul și great vessels.
 
     === "Ghid Național IRIS"
 
@@ -107,10 +111,10 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Ortostatism, rotated 45 degrees with right anterior Umăr against IR for RAO (Fig. 2.73) and 45 degrees with left anterior Umăr against IR for LAO (Fig. 2.74) (see NOTES for 60 degrees LAO) Patient’s arm flexed nearest IR and Mână placed on Șold, palm out Opposite arm raised to clear lung field and Mână rested on head or on Torace unit for support, keeping arm raised as high as possible Patient looking straight ahead; chin raised; Regiune anatomică: As viewed from the xray tube, center the patient to CR and to IR, with top of IR about 1 inch (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7).
-    - **Punct de Centrare Fascicul:** midway between midsagittal plane and lateral margin of thorax
+    - **Poziție Pacient:** Pacient: pacient Ortostatism, rotit 45 grade cu drept anterior Umăr against receptorul de imagine pentru RAO (Fig. 2.73) și 45 grade cu stâng anterior Umăr against receptorul de imagine pentru LAO (Fig. 2.74) (see NOTES pentru 60 grade LAO) pacient’s braț flectat nearest receptorul de imagine și Mână plasat pe Șold, palm out Opposite braț raised la clear câmpuri pulmonare și Mână rested pe cap sau pe Torace unit pentru support, keeping braț raised ca high ca possible pacient looking straight ahead; chin raised; Regiune anatomică: ca viewed de la xray tube, se centrează pacient la raza centrală și la receptorul de imagine, cu top de receptorul de imagine about 1 inch (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7).
+    - **Punct de Centrare Fascicul:** midway între plan mediosagital și lateral margin de thorax
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -124,19 +128,19 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to area of lung fields (top border of light field to level of vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Both lungs from the apices to the costophrenic angles should be included.
-    - Airfilled trachea, great vessels, and heart outlines are best visualized with 60degree LAO position. Position
-    - To evaluate for a 45degree rotation, the distance from the outer margin of the Coaste (Grilaj Costal) to the vertebral column on the side farthest from the IR should be approximately two times the distance of the side closest to the IR (Figs. 2.78 and 2.79).
-    - CR centered at level of T7. Exposure
-    - No motion; outline of the diaphragm and heart should appear sharp.
-    - Optimal exposure and contrast allow visualization of vascular markings throughout the lungs and rib outlines except through the densest regions of the heart. L Fig. 2.75 45° RAO position.
+    - ambele plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice trebuie să fie included.
+    - Airfilled trachea, great vessels, și heart outlines sunt best visualized cu 60degree poziție oblică anterioară stângă (OAS / LAO). poziție
+    - la evaluate pentru a 45degree rotație, distance de la outer margin de Coaste (Grilaj Costal) la coloană vertebrală pe side farthest de la receptorul de imagine trebuie să fie approximately two times distance de side cel mai apropiat de receptorul de imagine (Figs. 2.78 și 2.79).
+    - raza centrală centrat la nivelul level de T7. expunere
+    - fără mișcare; outline de cupole diafragmatice și heart trebuie să appear net.
+    - optim expunere și contrast allow visualization de vascular markings throughout plămânii și rib outlines except through densest regions de cordul. L Fig. 2.75 45° poziție oblică anterioară dreaptă (OAD / RAO).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,7 +153,7 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: For anterior oblique, the side of interest generally is the side farthest from the IR. Thus, the RAO provides the best visualization of the left lung. Certain positions for studies of the heart and great vessels require oblique positions with an increase in rotation of 45 to 60 degrees (see Figs. 2.75 and 2.76). Less rotation (15 to 20 degrees) may be valuable for better visualization of the various areas of the lungs for possible pulmonary disease (Fig. 2.77). Exception Either Ortostatism or Decubit posterior oblique projections can be taken if the patient cannot assume an Ortostatism position for anterior oblique, or if supplementary projections are required. Torace SPECIAL AP upright or semierect Lateral decubitus (AP) AP lordotic Anterior oblique Fig. 2.74 45° LAO position. Fig. 2.73 45° RAO position. LAO RAO
+    S: pentru anterior oblic, side de interest generally este side farthest de la receptorul de imagine. Thus, RAO provides best visualization de stâng lung. Certain poziții pentru studies de cordul și great vessels require oblic poziții cu increase în rotație de 45 la 60 grade (see Figs. 2.75 și 2.76). Less rotație (15 la 20 grade) poate fie valuable pentru better visualization de various areas de plămânii pentru possible pulmonary disease (Fig. 2.77). Exception Either Ortostatism sau Decubit posterior oblic incidențe poate fie taken if pacientul cannot assume Ortostatism poziție pentru anterior oblic, sau if supplementary incidențe sunt required. Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP) AP lordotic anterior oblic Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO). Fig. 2.73 45° poziție oblică anterioară dreaptă (OAD / RAO). LAO RAO
 
 
 ### 🖼️ Imagini
@@ -158,25 +162,25 @@ title: Rx RAO AND LAO ANTERIOR OBLIQUE POSITIONS (Torace)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.74 45° LAO position.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_1.jpeg)
+![Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO).](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.74 45° LAO position.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.74 45° LAO position.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.73 45° RAO position.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.73 45° RAO position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.73 45° RAO position.)</span></figcaption>
+<figcaption><strong>Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.74 45° poziție oblică anterioară stângă (OAS / LAO).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.75 45° RAO position.](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_3.jpeg)
+![Fig. 2.73 45° poziție oblică anterioară dreaptă (OAD / RAO).](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.75 45° RAO position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.75 45° RAO position.)</span></figcaption>
+<figcaption><strong>Fig. 2.73 45° poziție oblică anterioară dreaptă (OAD / RAO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.73 45° poziție oblică anterioară dreaptă (OAD / RAO).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.75 45° poziție oblică anterioară dreaptă (OAD / RAO).](../../assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 2.75 45° poziție oblică anterioară dreaptă (OAD / RAO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.75 45° poziție oblică anterioară dreaptă (OAD / RAO).)</span></figcaption>
 
 </figure>
 

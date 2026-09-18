@@ -1,16 +1,17 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee în inspir profund complet (după a doua inspirație).
+breathing: Apnee în inspir profund complet (după doua inspirație).
 category: torace
-centering: to level of T7, 3 to 4 inches (8 to 10 cm) below incizura jugulară (manubriul
+centering: la level de T7, 3 la 4 inches (8 la 10 cm) below incizura jugulară (manubriul
   sternal)
 clinical_indications:
-- Demonstrates pathology involving the lungs, diaphragm, and mediastinum.
-- Determining airfluid levels (revărsat pleural (pleurezie)) requires a completely
-  Ortostatism position with a horizontal CR, as in a PA, AP, or decubitus Torace projection.
+- evidențiază pathology involving plămânii, cupole diafragmatice, și mediastinum.
+- Determining airfluid levels (revărsat pleural (pleurezie)) requires completely Ortostatism
+  poziție cu orizontal raza centrală, ca în PA, AP, sau decubit Torace incidență.
 images:
-- caption: Fig. 2.64 AP Decubit Dorsal.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.64 AP supine.)
+- caption: Fig. 2.64 AP Decubit dorsal.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.64 AP în decubit
+    dorsal.)
   url: assets/images/protocols/bontrager/rx-torace-ap-antero-posterior-bontrager/fig_1.jpeg
 - caption: Fig. 2.65 AP semierect.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.65
@@ -22,21 +23,24 @@ images:
   url: assets/images/protocols/bontrager/rx-torace-ap-antero-posterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Crosswise IR placement is recommended for large or hypersthenic or broadchested
-  patients to minimize chance of lateral cutoff. This requires accurate CR alignment
-  with center of IR with only minimal caudal angle to prevent grid cutoff if grid
-  is used. For semierect position, use 72inch (180cm) SID if possible. Always place
-  markers on the IR or label the image to indicate the SID used; also indicate the
-  projections obtained, such as AP semierect or AP upright (Fig. 2.65). Torace SPECIAL
-  AP upright semierect Fig. 2.64 AP Decubit Dorsal. Fig. 2.65 AP semierect.'
-position: 'Pacient: Patient is Decubit Dorsal on cart; if possible, the head end of
-  the cart or bed should be raised into a semierect position (see NOTES). Alternatively,
-  patient may be Poziție Șezândă Ortostatism, legs over the edge, back against the
-  IR. Roll patient’s shoulders forward by rotating arms medially or internally.; Regiune
-  anatomică: Place IR under or behind patient; align center of IR to CR (top of IR
-  about 1½ inches [4 to 5 cm] above shoulders) (Fig. 2.64). Center patient to CR and
-  to IR Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of the thorax by placing the midcoronal plane parallel to IR.'
+notes: 'S: transversal receptorul de imagine placement este recommended pentru large
+  sau hypersthenic sau broadchested pacienți la minimize chance de lateral cutoff.
+  This requires precis raza centrală alignment cu center de receptorul de imagine
+  cu only minimal caudal angle la prevent grilă cutoff if grilă este used. pentru
+  semierect poziție, use 72inch (180cm) SID if possible. Always place markeri pe receptorul
+  de imagine sau label imagine la indicate SID used; also indicate incidențe obtained,
+  such ca AP semierect sau AP în ortostatism (Fig. 2.65). Torace SPECIAL AP în ortostatism
+  semierect Fig. 2.64 AP Decubit dorsal. Fig. 2.65 AP semierect.'
+position: 'Pacient: pacient este Decubit dorsal pe cart; if possible, capul end de
+  cart sau bed trebuie să fie raised into semierect poziție (see NOTES). Alternatively,
+  pacient poate fie Poziție Șezândă Ortostatism, membre inferioare over edge, back
+  pe / sprijinit de receptorul de imagine. Roll pacient’s umeri forward prin rotating
+  brațe medially sau internally.; Regiune anatomică: Place receptorul de imagine under
+  sau behind pacient; align center de receptorul de imagine la raza centrală (top
+  de receptorul de imagine about 1½ inches [4 la 5 cm] above umeri) (Fig. 2.64). Center
+  pacient la raza centrală și la receptorul de imagine Ensure Absența rotației anatomice:
+  clavicule echidistante față de linia apofizelor spinoase de thorax prin placing
+  planul mediocoronal paralel cu receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,17 +48,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Criteria for Torace radiographs taken in semierect or upright positions should
-  be similar to criteria for Incidență Postero-Anterioară (PA) described earlier,
-  with three exceptions: The heart appears larger as a result of increased magnification
-  from a shorter SID and increased OID of the heart. For the semierect patient, possible
-  revărsat pleural (pleurezie) often obscures vascular lung markings compared with
-  a fully Ortostatism PA Torace projection. Without a horizontal beam, fluid levels
-  may not be demonstrated. Usually, inspiration is not as full, and only eight or
-  nine posterior Coaste (Grilaj Costal) are visualized above the diaphragm. The lungs
-  may appear denser because they are not as fully aerated (Fig. 2.66).'
-- 'Correct CR angle: The clavicles should be in the same horizontal plane with an
-  unobstructed view of the apical region.4 Fig. 2.66 AP semierect.'
+- 'Criteria pentru Torace radiografii taken în semierect sau în ortostatism poziții
+  trebuie să fie similar la criteria pentru Incidență Postero-Anterioară (PA) described
+  earlier, cu three exceptions: cordul appears larger ca result de increased magnification
+  de la shorter SID și increased OID de cordul. pentru semierect pacient, possible
+  revărsat pleural (pleurezie) often obscures vascular lung markings compared cu fully
+  Ortostatism PA Torace incidență. fără orizontal fascicul, nivele hidroaerice poate
+  nu fie evidențiat. Usually, inspiration este nu ca full, și only eight sau nine
+  posterior Coaste (Grilaj Costal) sunt visualized above cupole diafragmatice. plămânii
+  poate appear denser because they sunt nu ca fully aerated (Fig. 2.66).'
+- 'Correct raza centrală angle: clavicles trebuie să fie în same plan orizontal cu
+  unobstructed incidență de apical region.4 Fig. 2.66 AP semierect.'
 sid_dff: 180 cm
 slug: rx-torace-ap-antero-posterior-bontrager
 sources:
@@ -62,8 +66,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to area of lung fields (top border of light
-    field to level of vertebra proeminentă (apofiza spinoasă C7)).
+  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
+    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -90,8 +94,8 @@ title: Rx Torace AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Demonstrates pathology involving the lungs, diaphragm, and mediastinum.
-        - Determining airfluid levels (revărsat pleural (pleurezie)) requires a completely Ortostatism position with a horizontal CR, as in a PA, AP, or decubitus Torace projection.
+        - evidențiază pathology involving plămânii, cupole diafragmatice, și mediastinum.
+        - Determining airfluid levels (revărsat pleural (pleurezie)) requires completely Ortostatism poziție cu orizontal raza centrală, ca în PA, AP, sau decubit Torace incidență.
 
     === "Ghid Național IRIS"
 
@@ -105,10 +109,10 @@ title: Rx Torace AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient is Decubit Dorsal on cart; if possible, the head end of the cart or bed should be raised into a semierect position (see NOTES). Alternatively, patient may be Poziție Șezândă Ortostatism, legs over the edge, back against the IR. Roll patient’s shoulders forward by rotating arms medially or internally.; Regiune anatomică: Place IR under or behind patient; align center of IR to CR (top of IR about 1½ inches [4 to 5 cm] above shoulders) (Fig. 2.64). Center patient to CR and to IR Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the thorax by placing the midcoronal plane parallel to IR.
-    - **Punct de Centrare Fascicul:** to level of T7, 3 to 4 inches (8 to 10 cm) below incizura jugulară (manubriul sternal)
+    - **Poziție Pacient:** Pacient: pacient este Decubit dorsal pe cart; if possible, capul end de cart sau bed trebuie să fie raised into semierect poziție (see NOTES). Alternatively, pacient poate fie Poziție Șezândă Ortostatism, membre inferioare over edge, back pe / sprijinit de receptorul de imagine. Roll pacient’s umeri forward prin rotating brațe medially sau internally.; Regiune anatomică: Place receptorul de imagine under sau behind pacient; align center de receptorul de imagine la raza centrală (top de receptorul de imagine about 1½ inches [4 la 5 cm] above umeri) (Fig. 2.64). Center pacient la raza centrală și la receptorul de imagine Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de thorax prin placing planul mediocoronal paralel cu receptorul de imagine.
+    - **Punct de Centrare Fascicul:** la level de T7, 3 la 4 inches (8 la 10 cm) below incizura jugulară (manubriul sternal)
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -122,15 +126,15 @@ title: Rx Torace AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to area of lung fields (top border of light field to level of vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criteria for Torace radiographs taken in semierect or upright positions should be similar to criteria for Incidență Postero-Anterioară (PA) described earlier, with three exceptions: The heart appears larger as a result of increased magnification from a shorter SID and increased OID of the heart. For the semierect patient, possible revărsat pleural (pleurezie) often obscures vascular lung markings compared with a fully Ortostatism PA Torace projection. Without a horizontal beam, fluid levels may not be demonstrated. Usually, inspiration is not as full, and only eight or nine posterior Coaste (Grilaj Costal) are visualized above the diaphragm. The lungs may appear denser because they are not as fully aerated (Fig. 2.66).
-    - Correct CR angle: The clavicles should be in the same horizontal plane with an unobstructed view of the apical region.4 Fig. 2.66 AP semierect.
+    - Criteria pentru Torace radiografii taken în semierect sau în ortostatism poziții trebuie să fie similar la criteria pentru Incidență Postero-Anterioară (PA) described earlier, cu three exceptions: cordul appears larger ca result de increased magnification de la shorter SID și increased OID de cordul. pentru semierect pacient, possible revărsat pleural (pleurezie) often obscures vascular lung markings compared cu fully Ortostatism PA Torace incidență. fără orizontal fascicul, nivele hidroaerice poate nu fie evidențiat. Usually, inspiration este nu ca full, și only eight sau nine posterior Coaste (Grilaj Costal) sunt visualized above cupole diafragmatice. plămânii poate appear denser because they sunt nu ca fully aerated (Fig. 2.66).
+    - Correct raza centrală angle: clavicles trebuie să fie în same plan orizontal cu unobstructed incidență de apical region.4 Fig. 2.66 AP semierect.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +147,7 @@ title: Rx Torace AP (Antero-Posterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Crosswise IR placement is recommended for large or hypersthenic or broadchested patients to minimize chance of lateral cutoff. This requires accurate CR alignment with center of IR with only minimal caudal angle to prevent grid cutoff if grid is used. For semierect position, use 72inch (180cm) SID if possible. Always place markers on the IR or label the image to indicate the SID used; also indicate the projections obtained, such as AP semierect or AP upright (Fig. 2.65). Torace SPECIAL AP upright semierect Fig. 2.64 AP Decubit Dorsal. Fig. 2.65 AP semierect.
+    S: transversal receptorul de imagine placement este recommended pentru large sau hypersthenic sau broadchested pacienți la minimize chance de lateral cutoff. This requires precis raza centrală alignment cu center de receptorul de imagine cu only minimal caudal angle la prevent grilă cutoff if grilă este used. pentru semierect poziție, use 72inch (180cm) SID if possible. Always place markeri pe receptorul de imagine sau label imagine la indicate SID used; also indicate incidențe obtained, such ca AP semierect sau AP în ortostatism (Fig. 2.65). Torace SPECIAL AP în ortostatism semierect Fig. 2.64 AP Decubit dorsal. Fig. 2.65 AP semierect.
 
 
 ### 🖼️ Imagini
@@ -152,9 +156,9 @@ title: Rx Torace AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.64 AP Decubit Dorsal.](../../assets/images/protocols/bontrager/rx-torace-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 2.64 AP Decubit dorsal.](../../assets/images/protocols/bontrager/rx-torace-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.64 AP Decubit Dorsal.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.64 AP supine.)</span></figcaption>
+<figcaption><strong>Fig. 2.64 AP Decubit dorsal.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.64 AP în decubit dorsal.)</span></figcaption>
 
 </figure>
 

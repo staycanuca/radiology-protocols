@@ -2,30 +2,31 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to midforearm
+centering: perpendicular pe receptorul de imagine, orientat la midforearm
 clinical_indications:
-- suspiciune de fractură and luxație / subluxație articulară of the radius or ulna
-- Pathologic processes, such as osteomielită / leziuni inflamatorii osoase or arthritis
+- suspiciune de fractură și luxație / subluxație articulară de radius sau ulna
+- Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase sau arthritis
 images:
-- caption: Fig. 4.120 Lateral Antebraț (including both joints).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.120 Lateral
-    forearm (including both joints).)
+- caption: Fig. 4.120 lateral Antebraț (including ambele articulații).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.120 lateral
+    forearm (including ambele articulații).)
   url: assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_1.jpeg
-- caption: Fig. 4.121 Incidență de Profil (Lateral) of Antebraț (both joints).
+- caption: Fig. 4.121 Incidență de Profil (lateral) de Antebraț (ambele articulații).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.121
-    Lateral projection of forearm (both joints).)
+    lateral incidență de forearm (ambele articulații).)
   url: assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table, with Cot flexed 90°.; Regiune anatomică:
-  Drop Umăr to place entire upper limb on same horizontal plane. Align and center
-  Antebraț to long axis of IR; ensure that both Pumn (Articulație Radiocarpiană) and
-  Cot joints are included on IR (Fig. 4.120). Rotate Mână and Pumn (Articulație Radiocarpiană)
-  into true Incidență de Profil (Lateral), and support Mână to prevent motion, if
-  needed (ensure that distal radius and ulna are superimposed directly). For heavy
-  muscular forearms, place support under Mână and Pumn (Articulație Radiocarpiană)
-  as needed to place radius and ulna parallel to IR.'
+position: 'Pacient: Seat pacient la end de table, cu Cot flectat 90°.; Regiune anatomică:
+  Drop Umăr la place entire membru superior pe same plan orizontal. Align și center
+  Antebraț la axa longitudinală de receptorul de imagine; ensure that ambele Pumn
+  (Articulație Radiocarpiană) și Cot articulații sunt included pe receptorul de imagine
+  (Fig. 4.120). Rotate Mână și Pumn (Articulație Radiocarpiană) into true Incidență
+  de Profil (lateral), și support Mână la prevent mișcare, if needed (ensure that
+  distal radius și ulna sunt superimposed directly). pentru heavy muscular forearms,
+  place support under Mână și Pumn (Articulație Radiocarpiană) ca needed la place
+  radius și ulna paralel cu receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -33,22 +34,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Incidență de Profil (Lateral) of entire radius and ulna, proximal row of carpal
-  bones, Cot, and distal end of the Humerus are visible, in addition to pertinent
-  soft tissue, such as fat pads and stripes of the Pumn (Articulație Radiocarpiană)
-  and Cot joints (Fig. 4.121). Position:'
-- Long axis of Antebraț should be aligned with long axis of IR.
-- Cot should be flexed 90°.
+- 'Incidență de Profil (lateral) de entire radius și ulna, proximal row de oase carpiene,
+  Cot, și extremitatea distală Humerus sunt vizibil, în addition la pertinent părți
+  moi, such ca fat pads și stripes de Pumn (Articulație Radiocarpiană) și Cot articulații
+  (Fig. 4.121). poziție:'
+- axa longitudinală de Antebraț trebuie să fie aliniat cu axa longitudinală de receptorul
+  de imagine.
+- Cot trebuie să fie flectat 90°.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as evidenced by head of ulna being superimposed over the radius, and humeral epicondyles
-  should be superimposed.'
-- Radial head should superimpose coronoid process, with radial tuberosity demonstrated.
-- 'CR and center of collimation field size should be to midpoint of the radius and
-  ulna. Exposure:'
-- Optimal image receptor exposure and contrast with no motion should visualize sharp
-  cortical margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte
-  de mișcare and fat pads and stripes of the Pumn (Articulație Radiocarpiană) and
-  Cot joints. Fig. 4.121 Incidență de Profil (Lateral) of Antebraț (both joints).
+  ca evidenced prin cap de ulna being superimposed over radius, și humeral epicondyles
+  trebuie să fie superimposed.'
+- cap radial trebuie să superimpose proces coronoid, cu tuberozitate radială bicipitală
+  evidențiat.
+- 'raza centrală și center de collimation field size trebuie să fie la midpoint de
+  radius și ulna. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
+  net cortical margins și clear, Contururi osoase și travee trabeculare nete, fără
+  artefacte de mișcare și fat pads și stripes de Pumn (Articulație Radiocarpiană)
+  și Cot articulații. Fig. 4.121 Incidență de Profil (lateral) de Antebraț (ambele
+  articulații).
 sid_dff: 100 cm
 slug: rx-antebrat-lateromedial-projection-bontrager
 sources:
@@ -56,20 +60,21 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate both lateral borders to the actual Antebraț area.
-    Also, collimate at both ends to avoid excluding anatomy at either joint. Considering
-    divergence of the xray beam, ensure that a minimum of 1 to 1½ inches (3 to 4 cm)
-    distal to Pumn (Articulație Radiocarpiană) and Cot joints is included on IR. (3
-    5) No 11 x 14" IR called for this position (43) Antebraț ROUTINE AP Lateral Fig.
-    4.120 Lateral Antebraț (including both joints).
+  collimation: Field Size Collimate ambele lateral margini la actual Antebraț area.
+    Also, collimate la ambele ends la avoid excluding anatomy la either articulație.
+    Considering divergence de xray fascicul, ensure that minimum de 1 la 1½ inches
+    (3 la 4 cm) distal la Pumn (Articulație Radiocarpiană) și Cot articulații este
+    included pe receptorul de imagine. (3 5) fără 11 x 14" receptorul de imagine called
+    pentru this poziție (43) Antebraț ROUTINE AP lateral Fig. 4.120 lateral Antebraț
+    (including ambele articulații).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '65'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Antebraț LATEROMEDIAL PROJECTION
+title: Rx Antebraț Incidență Latero-Medială
 ---
-# Rx Antebraț LATEROMEDIAL PROJECTION
+# Rx Antebraț Incidență Latero-Medială
 
 
 <div class="rx-meta-bar">
@@ -88,8 +93,8 @@ title: Rx Antebraț LATEROMEDIAL PROJECTION
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and luxație / subluxație articulară of the radius or ulna
-        - Pathologic processes, such as osteomielită / leziuni inflamatorii osoase or arthritis
+        - suspiciune de fractură și luxație / subluxație articulară de radius sau ulna
+        - Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase sau arthritis
 
     === "Ghid Național IRIS"
 
@@ -103,8 +108,8 @@ title: Rx Antebraț LATEROMEDIAL PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with Cot flexed 90°.; Regiune anatomică: Drop Umăr to place entire upper limb on same horizontal plane. Align and center Antebraț to long axis of IR; ensure that both Pumn (Articulație Radiocarpiană) and Cot joints are included on IR (Fig. 4.120). Rotate Mână and Pumn (Articulație Radiocarpiană) into true Incidență de Profil (Lateral), and support Mână to prevent motion, if needed (ensure that distal radius and ulna are superimposed directly). For heavy muscular forearms, place support under Mână and Pumn (Articulație Radiocarpiană) as needed to place radius and ulna parallel to IR.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to midforearm
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat 90°.; Regiune anatomică: Drop Umăr la place entire membru superior pe same plan orizontal. Align și center Antebraț la axa longitudinală de receptorul de imagine; ensure that ambele Pumn (Articulație Radiocarpiană) și Cot articulații sunt included pe receptorul de imagine (Fig. 4.120). Rotate Mână și Pumn (Articulație Radiocarpiană) into true Incidență de Profil (lateral), și support Mână la prevent mișcare, if needed (ensure that distal radius și ulna sunt superimposed directly). pentru heavy muscular forearms, place support under Mână și Pumn (Articulație Radiocarpiană) ca needed la place radius și ulna paralel cu receptorul de imagine.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midforearm
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -120,20 +125,20 @@ title: Rx Antebraț LATEROMEDIAL PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate both lateral borders to the actual Antebraț area. Also, collimate at both ends to avoid excluding anatomy at either joint. Considering divergence of the xray beam, ensure that a minimum of 1 to 1½ inches (3 to 4 cm) distal to Pumn (Articulație Radiocarpiană) and Cot joints is included on IR. (3 5) No 11 x 14" IR called for this position (43) Antebraț ROUTINE AP Lateral Fig. 4.120 Lateral Antebraț (including both joints). |
+    | **Colimare Fascicul** | Field Size Collimate ambele lateral margini la actual Antebraț area. Also, collimate la ambele ends la avoid excluding anatomy la either articulație. Considering divergence de xray fascicul, ensure that minimum de 1 la 1½ inches (3 la 4 cm) distal la Pumn (Articulație Radiocarpiană) și Cot articulații este included pe receptorul de imagine. (3 5) fără 11 x 14" receptorul de imagine called pentru this poziție (43) Antebraț ROUTINE AP lateral Fig. 4.120 lateral Antebraț (including ambele articulații). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Incidență de Profil (Lateral) of entire radius and ulna, proximal row of carpal bones, Cot, and distal end of the Humerus are visible, in addition to pertinent soft tissue, such as fat pads and stripes of the Pumn (Articulație Radiocarpiană) and Cot joints (Fig. 4.121). Position:
-    - Long axis of Antebraț should be aligned with long axis of IR.
-    - Cot should be flexed 90°.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evidenced by head of ulna being superimposed over the radius, and humeral epicondyles should be superimposed.
-    - Radial head should superimpose coronoid process, with radial tuberosity demonstrated.
-    - CR and center of collimation field size should be to midpoint of the radius and ulna. Exposure:
-    - Optimal image receptor exposure and contrast with no motion should visualize sharp cortical margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and fat pads and stripes of the Pumn (Articulație Radiocarpiană) and Cot joints. Fig. 4.121 Incidență de Profil (Lateral) of Antebraț (both joints).
+    - Incidență de Profil (lateral) de entire radius și ulna, proximal row de oase carpiene, Cot, și extremitatea distală Humerus sunt vizibil, în addition la pertinent părți moi, such ca fat pads și stripes de Pumn (Articulație Radiocarpiană) și Cot articulații (Fig. 4.121). poziție:
+    - axa longitudinală de Antebraț trebuie să fie aliniat cu axa longitudinală de receptorul de imagine.
+    - Cot trebuie să fie flectat 90°.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin cap de ulna being superimposed over radius, și humeral epicondyles trebuie să fie superimposed.
+    - cap radial trebuie să superimpose proces coronoid, cu tuberozitate radială bicipitală evidențiat.
+    - raza centrală și center de collimation field size trebuie să fie la midpoint de radius și ulna. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize net cortical margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și fat pads și stripes de Pumn (Articulație Radiocarpiană) și Cot articulații. Fig. 4.121 Incidență de Profil (lateral) de Antebraț (ambele articulații).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,17 +158,17 @@ title: Rx Antebraț LATEROMEDIAL PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.120 Lateral Antebraț (including both joints).](../../assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_1.jpeg)
+![Fig. 4.120 lateral Antebraț (including ambele articulații).](../../assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.120 Lateral Antebraț (including both joints).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.120 Lateral forearm (including both joints).)</span></figcaption>
+<figcaption><strong>Fig. 4.120 lateral Antebraț (including ambele articulații).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.120 lateral forearm (including ambele articulații).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.121 Incidență de Profil (Lateral) of Antebraț (both joints).](../../assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_2.jpeg)
+![Fig. 4.121 Incidență de Profil (lateral) de Antebraț (ambele articulații).](../../assets/images/protocols/bontrager/rx-antebrat-lateromedial-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.121 Incidență de Profil (Lateral) of Antebraț (both joints).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.121 Lateral projection of forearm (both joints).)</span></figcaption>
+<figcaption><strong>Fig. 4.121 Incidență de Profil (lateral) de Antebraț (ambele articulații).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.121 lateral incidență de forearm (ambele articulații).)</span></figcaption>
 
 </figure>
 

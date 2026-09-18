@@ -1,45 +1,51 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Alternative 25° to 30° An alternative projection is
-  a 25° to 30° caudad tube angle (Fig. 11.114) that allows better visualization of
-  the superior orbital fissures (black arrows), the foramen rotundum (small white
-  arrows) (see Fig. 11.114), and the inferior orbital rim region. CR exits at level
-  of midorbit.
+breathing: Apnee pe durata expunerii. Alternative 25° la 30° alternative incidență
+  este a 25° la 30° caudal tube angle (Fig. 11.114) that allows better visualization
+  de superior orbital fissures (black arrows), foramen rotundum (small white arrows)
+  (see Fig. 11.114), și inferior orbital rim region. raza centrală exits la level
+  de midorbit.
 category: craniu-saf
-centering: Angle CR 15° caudad, and center to exit at nasion (Fig. 11.113). Alternative
-  with CR 25° to 30° caudad, and center to exit at nasion.
+centering: Raza centrală se înclină 15° caudal (spre picioare), și center la exit
+  la nazion (Fig. 11.113). Alternative cu raza centrală 25° la 30° caudal, și center
+  la exit la nazion.
 clinical_indications:
-- Craniu suspiciune de fractură, neoplastic processes, and Paget disease
+- Craniu suspiciune de fractură, neoplastic processes, și Paget disease
 images:
-- caption: Fig. 11.114 Alternative PA axial—30° caudad.
+- caption: Fig. 11.114 Alternative PA axial—30° caudal.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.114 Alternative
-    PA axial—30° caudad.)
+    PA axial—30° caudal.)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_1.jpeg
-- caption: Fig. 11.113 PA axial—CR 15° caudad, OML perpendicular; inset (solid
+- caption: Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM)
+    perpendicular; inset (solid
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.113
-    PA axial—CR 15° caudad, OML perpendicular; inset (solid)
+    PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular; inset
+    (solid)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_2.jpeg
-- caption: Fig. 11.115 PA axial—15° caudad (Incidență Occipito-Frontală (Metoda Caldwell)).
+- caption: Fig. 11.115 PA axial—15° caudal (Incidență Occipito-Frontală (Metoda Caldwell)).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.115
-    PA axial—15° caudad (Caldwell method).)
+    PA axial—15° caudal (Caldwell method).)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Decreased caudal angulation of the CR to 15° and/or increased neck flexion
-  (chin down) will result in projection of the petrous pyramids to the lower third
-  of the Orbite. Alternative Incidență AP Axială For patients who are unable to be
-  positioned for a Incidență Postero-Anterioară (PA) (e.g., traumatism acuttism /
-  Regim Urgență patients), an Incidență AP Axială may be obtained with the use of
-  a 15° cephalic angle, with OML positioned perpendicular to IR (see Chapter 15).
-  Fig. 11.114 Alternative PA axial—30° caudad. Fig. 11.113 PA axial—CR 15° caudad,
-  OML perpendicular; inset (solid arrow), and alternative CR 30° caudad (dotted arrow).
-  Craniu SERIES ROUTINE AP axial (Incidență AP Axială (Metoda Towne)) Lateral PA axial
-  15° (Incidență Occipito-Frontală (Metoda Caldwell)) or PA axial 25° to 30° PA
-position: 'Pacient: Remove all metallic or plastic objects from the patient’s head
-  and neck. Take radiograph with patient in the Ortostatism or Decubit Ventral position.;
-  Regiune anatomică: Rest patient’s nose and forehead against table/imaging device
-  surface. Flex neck as needed to align oMl perpendicular to IR. Align the MsP perpendicular
-  to the IR to prevent rotation and/or tilt. Center IR to CR.'
+notes: Decreased caudal angulation de raza centrală la 15° și/sau increased neck flexion
+  (chin down) will result în incidență de stânci temporale (piramide pietroase) la
+  lower third de Orbite. Alternative Incidență AP Axială pentru pacienți who sunt
+  unable la fie poziționat pentru Incidență Postero-Anterioară (PA) (e.g., traumatism
+  acuttism / Regim Urgență pacienți), Incidență AP Axială poate fie obtained cu use
+  de a 15° cephalic angle, cu linie orbitomeatală (LOM) poziționat perpendicular pe
+  receptorul de imagine (see Chapter 15). Fig. 11.114 Alternative PA axial—30° caudal.
+  Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular;
+  inset (solid arrow), și alternative raza centrală 30° caudal (dotted arrow). Craniu
+  SERIES ROUTINE AP axial (Incidență AP Axială (Metoda Towne)) lateral PA axial 15°
+  (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30° PA
+position: 'Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din
+  plastic) de la pacient’s cap și neck. Take radiografie cu pacient în Ortostatism
+  sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead
+  against table/imaging device surface. Flex neck ca needed la align linie orbitomeatală
+  (LOM) perpendicular pe receptorul de imagine. se aliniază MsP perpendicular pe receptorul
+  de imagine (RI) la prevent rotație și/sau tilt. Se centrează receptorul de imagine
+  pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,32 +53,33 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Frontal bone, greater and lesser sphenoid wings, superior orbital fissures, frontal
-  and anterior ethmoid sinuses, supraorbital margins, and crista galli are demonstrated
-  (Fig. 11.115). PA Axial 25° to 30° Caudad Angle
-- 'In addition to the structures mentioned previously, the foramen rotundum adjacent
-  to each IOM is visualized, and the superior orbital fissures (see Fig. 11.114, white
-  and black arrows) are visualized within the Orbite. Position:'
+- Frontal bone, greater și lesser sphenoid wings, superior orbital fissures, frontal
+  și anterior sinusuri etmoidale, supraorbital margins, și crista galli sunt evidențiat
+  (Fig. 11.115). PA axial 25° la 30° caudal Angle
+- 'în addition la structures mentioned previously, foramen rotundum adjacent la fiecare
+  IOM este visualized, și superior orbital fissures (see Fig. 11.114, white și black
+  arrows) sunt visualized within Orbite. poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as assessed by equal distance from the midlateral orbital margins to the lateral
-  cortex of the Craniu on each side and the superior orbital fissures symmetric within
-  the Orbite.'
-- 'Example: If the distance between the right lateral orbit and lateral cranial cortex
-  is greater than the left side, the face is rotated toward the right side (side rotated
-  toward the IR is wider).'
-- 'no tilt with the MsP perpendicular to iR. CR angle and OML alignment will impact
-  the location of the petrous ridges within the Orbite. PA Axial 15° Caudad Angle:'
-- Petrous pyramids are projected into the lower onethird of the Orbite.
-- 'Supraorbital margin is visualized without superimposition from the petrous ridges.
-  PA Axial 25° to 30° Caudad Angle:'
-- Petrous pyramids are projected at or just below the IOM to allow visualization of
-  the entire orbital base.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the frontal
-  bone and sellar structures without overexposure to perimeter regions of Craniu.
-- Sharp bony margins indicate no motion. Lambdoidal suture Supraorbital margin Petrous
-  ridge Sagittal suture Sphenoid bone Ethmoid sinus Infraorbital margin R Fig. 11.115
-  PA axial—15° caudad (Incidență Occipito-Frontală (Metoda Caldwell)).
+  ca assessed prin equal distance de la midlateral orbital margins la lateral cortex
+  de Craniu pe fiecare side și superior orbital fissures simetric within Orbite.'
+- 'Example: If distance între drept lateral orbit și lateral cranial cortex este greater
+  than stâng side, fața este rotit spre drept side (side rotit spre receptorul de
+  imagine este wider).'
+- 'fără tilt cu MsP perpendicular pe receptorul de imagine. raza centrală angle și
+  linie orbitomeatală (LOM) alignment will impact location de stânci temporale (piramide
+  pietroase) within Orbite. PA axial 15° caudal Angle:'
+- stânci temporale (piramide pietroase) sunt projected into lower onethird de Orbite.
+- 'Supraorbital margin este visualized fără superimposition de la stânci temporale
+  (piramide pietroase). PA axial 25° la 30° caudal Angle:'
+- stânci temporale (piramide pietroase) sunt projected la sau just below IOM la allow
+  visualization de entire orbital base.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal
+  bone și sellar structures fără overexposure la perimeter regions de Craniu.
+- net bony margins indicate fără mișcare. Lambdoidal suture Supraorbital margin stânci
+  temporale (piramide pietroase) Sagittal suture Sphenoid bone sinusuri etmoidale
+  Infraorbital margin R Fig. 11.115 PA axial—15° caudal (Incidență Occipito-Frontală
+  (Metoda Caldwell)).
 sid_dff: 100 cm
 slug: rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager
 sources:
@@ -80,7 +87,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -108,7 +115,7 @@ title: Rx Craniu SERIES PA Axială (15° CR (Incidență Occipito-Frontală (Met
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură, neoplastic processes, and Paget disease
+        - Craniu suspiciune de fractură, neoplastic processes, și Paget disease
 
     === "Ghid Național IRIS"
 
@@ -122,10 +129,10 @@ title: Rx Craniu SERIES PA Axială (15° CR (Incidență Occipito-Frontală (Met
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from the patient’s head and neck. Take radiograph with patient in the Ortostatism or Decubit Ventral position.; Regiune anatomică: Rest patient’s nose and forehead against table/imaging device surface. Flex neck as needed to align oMl perpendicular to IR. Align the MsP perpendicular to the IR to prevent rotation and/or tilt. Center IR to CR.
-    - **Punct de Centrare Fascicul:** Angle CR 15° caudad, and center to exit at nasion (Fig. 11.113). Alternative with CR 25° to 30° caudad, and center to exit at nasion.
+    - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din plastic) de la pacient’s cap și neck. Take radiografie cu pacient în Ortostatism sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead against table/imaging device surface. Flex neck ca needed la align linie orbitomeatală (LOM) perpendicular pe receptorul de imagine. se aliniază MsP perpendicular pe receptorul de imagine (RI) la prevent rotație și/sau tilt. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° caudal (spre picioare), și center la exit la nazion (Fig. 11.113). Alternative cu raza centrală 25° la 30° caudal, și center la exit la nazion.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Alternative 25° to 30° An alternative projection is a 25° to 30° caudad tube angle (Fig. 11.114) that allows better visualization of the superior orbital fissures (black arrows), the foramen rotundum (small white arrows) (see Fig. 11.114), and the inferior orbital rim region. CR exits at level of midorbit.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Alternative 25° la 30° alternative incidență este a 25° la 30° caudal tube angle (Fig. 11.114) that allows better visualization de superior orbital fissures (black arrows), foramen rotundum (small white arrows) (see Fig. 11.114), și inferior orbital rim region. raza centrală exits la level de midorbit.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -139,24 +146,24 @@ title: Rx Craniu SERIES PA Axială (15° CR (Incidență Occipito-Frontală (Met
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Frontal bone, greater and lesser sphenoid wings, superior orbital fissures, frontal and anterior ethmoid sinuses, supraorbital margins, and crista galli are demonstrated (Fig. 11.115). PA Axial 25° to 30° Caudad Angle
-    - In addition to the structures mentioned previously, the foramen rotundum adjacent to each IOM is visualized, and the superior orbital fissures (see Fig. 11.114, white and black arrows) are visualized within the Orbite. Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as assessed by equal distance from the midlateral orbital margins to the lateral cortex of the Craniu on each side and the superior orbital fissures symmetric within the Orbite.
-    - Example: If the distance between the right lateral orbit and lateral cranial cortex is greater than the left side, the face is rotated toward the right side (side rotated toward the IR is wider).
-    - no tilt with the MsP perpendicular to iR. CR angle and OML alignment will impact the location of the petrous ridges within the Orbite. PA Axial 15° Caudad Angle:
-    - Petrous pyramids are projected into the lower onethird of the Orbite.
-    - Supraorbital margin is visualized without superimposition from the petrous ridges. PA Axial 25° to 30° Caudad Angle:
-    - Petrous pyramids are projected at or just below the IOM to allow visualization of the entire orbital base.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the frontal bone and sellar structures without overexposure to perimeter regions of Craniu.
-    - Sharp bony margins indicate no motion. Lambdoidal suture Supraorbital margin Petrous ridge Sagittal suture Sphenoid bone Ethmoid sinus Infraorbital margin R Fig. 11.115 PA axial—15° caudad (Incidență Occipito-Frontală (Metoda Caldwell)).
+    - Frontal bone, greater și lesser sphenoid wings, superior orbital fissures, frontal și anterior sinusuri etmoidale, supraorbital margins, și crista galli sunt evidențiat (Fig. 11.115). PA axial 25° la 30° caudal Angle
+    - în addition la structures mentioned previously, foramen rotundum adjacent la fiecare IOM este visualized, și superior orbital fissures (see Fig. 11.114, white și black arrows) sunt visualized within Orbite. poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca assessed prin equal distance de la midlateral orbital margins la lateral cortex de Craniu pe fiecare side și superior orbital fissures simetric within Orbite.
+    - Example: If distance între drept lateral orbit și lateral cranial cortex este greater than stâng side, fața este rotit spre drept side (side rotit spre receptorul de imagine este wider).
+    - fără tilt cu MsP perpendicular pe receptorul de imagine. raza centrală angle și linie orbitomeatală (LOM) alignment will impact location de stânci temporale (piramide pietroase) within Orbite. PA axial 15° caudal Angle:
+    - stânci temporale (piramide pietroase) sunt projected into lower onethird de Orbite.
+    - Supraorbital margin este visualized fără superimposition de la stânci temporale (piramide pietroase). PA axial 25° la 30° caudal Angle:
+    - stânci temporale (piramide pietroase) sunt projected la sau just below IOM la allow visualization de entire orbital base.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal bone și sellar structures fără overexposure la perimeter regions de Craniu.
+    - net bony margins indicate fără mișcare. Lambdoidal suture Supraorbital margin stânci temporale (piramide pietroase) Sagittal suture Sphenoid bone sinusuri etmoidale Infraorbital margin R Fig. 11.115 PA axial—15° caudal (Incidență Occipito-Frontală (Metoda Caldwell)).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,7 +176,7 @@ title: Rx Craniu SERIES PA Axială (15° CR (Incidență Occipito-Frontală (Met
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Decreased caudal angulation of the CR to 15° and/or increased neck flexion (chin down) will result in projection of the petrous pyramids to the lower third of the Orbite. Alternative Incidență AP Axială For patients who are unable to be positioned for a Incidență Postero-Anterioară (PA) (e.g., traumatism acuttism / Regim Urgență patients), an Incidență AP Axială may be obtained with the use of a 15° cephalic angle, with OML positioned perpendicular to IR (see Chapter 15). Fig. 11.114 Alternative PA axial—30° caudad. Fig. 11.113 PA axial—CR 15° caudad, OML perpendicular; inset (solid arrow), and alternative CR 30° caudad (dotted arrow). Craniu SERIES ROUTINE AP axial (Incidență AP Axială (Metoda Towne)) Lateral PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) or PA axial 25° to 30° PA
+    Decreased caudal angulation de raza centrală la 15° și/sau increased neck flexion (chin down) will result în incidență de stânci temporale (piramide pietroase) la lower third de Orbite. Alternative Incidență AP Axială pentru pacienți who sunt unable la fie poziționat pentru Incidență Postero-Anterioară (PA) (e.g., traumatism acuttism / Regim Urgență pacienți), Incidență AP Axială poate fie obtained cu use de a 15° cephalic angle, cu linie orbitomeatală (LOM) poziționat perpendicular pe receptorul de imagine (see Chapter 15). Fig. 11.114 Alternative PA axial—30° caudal. Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular; inset (solid arrow), și alternative raza centrală 30° caudal (dotted arrow). Craniu SERIES ROUTINE AP axial (Incidență AP Axială (Metoda Towne)) lateral PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30° PA
 
 
 ### 🖼️ Imagini
@@ -178,25 +185,25 @@ title: Rx Craniu SERIES PA Axială (15° CR (Incidență Occipito-Frontală (Met
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.114 Alternative PA axial—30° caudad.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_1.jpeg)
+![Fig. 11.114 Alternative PA axial—30° caudal.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.114 Alternative PA axial—30° caudad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.114 Alternative PA axial—30° caudad.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.113 PA axial—CR 15° caudad, OML perpendicular; inset (solid](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.113 PA axial—CR 15° caudad, OML perpendicular; inset (solid</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.113 PA axial—CR 15° caudad, OML perpendicular; inset (solid)</span></figcaption>
+<figcaption><strong>Fig. 11.114 Alternative PA axial—30° caudal.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.114 Alternative PA axial—30° caudal.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.115 PA axial—15° caudad (Incidență Occipito-Frontală (Metoda Caldwell)).](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_3.jpeg)
+![Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular; inset (solid](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.115 PA axial—15° caudad (Incidență Occipito-Frontală (Metoda Caldwell)).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.115 PA axial—15° caudad (Caldwell method).)</span></figcaption>
+<figcaption><strong>Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular; inset (solid</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.113 PA axial—raza centrală 15° caudal, linie orbitomeatală (LOM) perpendicular; inset (solid)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.115 PA axial—15° caudal (Incidență Occipito-Frontală (Metoda Caldwell)).](../../assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.115 PA axial—15° caudal (Incidență Occipito-Frontală (Metoda Caldwell)).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.115 PA axial—15° caudal (Caldwell method).)</span></figcaption>
 
 </figure>
 

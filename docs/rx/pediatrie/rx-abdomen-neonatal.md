@@ -10,7 +10,7 @@ clinical_status: draft_not_for_clinical_use
 images: []
 last_updated: '2026-09-15'
 modality: rx
-notes: Reevaluarea nu are un interval universal. Se coordonează cu neonatologul și
+notes: Reevaluarea nu sunt un interval universal. Se coordonează cu neonatologul și
   se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică
   rapid.
 population: Nou-născut / prematur
@@ -40,6 +40,25 @@ source_mapping:
     section: 4.2.1 Investigations; Appendix 1
     source_id: 1bd214c4be5b5c87bc0bcc01c970e880
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.450265+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 1bd214c4be5b5c87bc0bcc01c970e880
+  institution: East of England Neonatal Operational Delivery Network
+  section: 4.2.1 Investigations; Appendix 1
+  title: East of England Neonatal ODN — NEC guideline, mai 2024
+  url: https://networks.nhs.uk/?attachment=17274&document_file=1985&document_type=document&download_document_file=1
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.450265+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Abdomenul și limitele necesare evaluării solicitate.
   condition: Parte a setului inițial justificat de radiolog
@@ -59,33 +78,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX abdomen neonatal — suspiciune de NEC / perforație
-sources:
-- id: 1bd214c4be5b5c87bc0bcc01c970e880
-  title: East of England Neonatal ODN — NEC guideline, mai 2024
-  url: https://networks.nhs.uk/?attachment=17274&document_file=1985&document_type=document&download_document_file=1
-  institution: East of England Neonatal Operational Delivery Network
-  section: 4.2.1 Investigations; Appendix 1
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.450265+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.450265+00:00'
+title: Rx RX abdomen neonatal — suspiciune de NEC / perforație
 workbench_transfer:
   draft_id: 31cc239cc15e5233a78c06f9f17853e7
-  transferred_at: '2026-09-15T08:50:31.351364+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.351364+00:00'
 ---
-
-# RX abdomen neonatal — suspiciune de NEC / perforație
+# Rx RX abdomen neonatal — suspiciune de NEC / perforație
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -158,7 +157,7 @@ workbench_transfer:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Reevaluarea nu are un interval universal. Se coordonează cu neonatologul și se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică rapid.
+    Reevaluarea nu sunt un interval universal. Se coordonează cu neonatologul și se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică rapid.
 
 ## Incidențe și criterii de acceptare
 
@@ -198,7 +197,8 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [East of England Neonatal ODN — NEC guideline, mai 2024](https://networks.nhs.uk/?attachment=17274&document_file=1985&document_type=document&download_document_file=1) — 4.2.1 Investigations; Appendix 1
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [East of England Neonatal ODN — NEC guideline, mai 2024](https://networks.nhs.uk/?attachment=17274&document_file=1985&document_type=document&download_document_file=1)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

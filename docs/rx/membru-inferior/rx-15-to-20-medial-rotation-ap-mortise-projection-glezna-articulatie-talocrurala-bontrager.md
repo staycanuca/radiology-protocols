@@ -2,45 +2,46 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed midway between malleoli
+centering: perpendicular pe receptorul de imagine, orientat midway între malleoli
 clinical_indications:
-- Evaluation of pathology involving the entire Gleznă (Articulație Talocrurală) mortise1
-  and the proximal fifth metatarsal, a common suspiciune de fractură site. This is
-  a common projection taken during open reduction surgery of the Gleznă (Articulație
-  Talocrurală) (see
+- Evaluation de pathology involving entire Gleznă (Articulație Talocrurală) mortise1
+  și proximal fifth metatarsal, common suspiciune de fractură site. This este common
+  incidență taken during open reduction surgery de Gleznă (Articulație Talocrurală)
+  (see
 images:
-- caption: Fig. 6.84 Mortise projection, demonstrating 15° to 20° medial
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.84 Mortise projection,
-    demonstrating 15° to 20° medial)
+- caption: Fig. 6.84 Mortise incidență, evidențiind 15° la 20° medial
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.84 Mortise incidență,
+    evidențiind 15° la 20° medial)
   url: assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg
-- caption: Fig. 6.85 Mortise projection.
+- caption: Fig. 6.85 Mortise incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.85
-    Mortise projection.)
+    Mortise incidență.)
   url: assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg
-- caption: Fig. 6.86 Mortise projection.
+- caption: Fig. 6.86 Mortise incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.86
-    Mortise projection.)
+    Mortise incidență.)
   url: assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This position should not be a substitute for either the Incidență Antero-Posterioară
-  (AP) or the oblique Gleznă (Articulație Talocrurală) position but rather should
-  be a separate projection of the Gleznă (Articulație Talocrurală) that is taken routinely
-  when potential traumatism acuttism / Regim Urgență or sprains of the Gleznă (Articulație
-  Talocrurală) joint are involved.1 Gleznă (Articulație Talocrurală) ROUTINE AP AP
-  mortise (15°) Lateral SPECIAL Oblique (45°) AP stress Fig. 6.84 Mortise projection,
-  demonstrating 15° to 20° medial rotation of Gambă and Picior. Fig. 6.85 Mortise
-  projection. Talus Medial malleolus Tibial plafond Distal tibiofibular joint Gleznă
-  (Articulație Talocrurală) mortise Lateral malleolus suspiciune de fractură at base
-  of 5th metatarsal Fig. 6.86 Mortise projection.
-position: 'Pacient: Place patient in the Decubit Dorsal position; place pillow under
-  patient’s head; legs should be fully extended.; Regiune anatomică: Center and align
-  Gleznă (Articulație Talocrurală) joint to CR and to long axis of portion of IR being
-  exposed (Fig. 6.84). Do not dorsiflex Picior; allow Picior to remain in natural
-  extended (plantar flexed) position (allows for visualization of base of fifth metatarsal,
-  a common suspiciune de fractură site).5 Internally rotate entire leg and Picior
-  approximately 15° to 20° until intermalleolar line is parallel to IR. Place support
-  against Picior if needed to prevent motion.'
+notes: This poziție trebuie să nu fie substitute pentru either Incidență Antero-Posterioară
+  (AP) sau oblic Gleznă (Articulație Talocrurală) poziție but rather trebuie să fie
+  separate incidență de Gleznă (Articulație Talocrurală) that este taken routinely
+  when potential traumatism acuttism / Regim Urgență sau sprains de Gleznă (Articulație
+  Talocrurală) articulație sunt involved.1 Gleznă (Articulație Talocrurală) ROUTINE
+  AP AP mortise (15°) lateral SPECIAL oblic (45°) AP stress Fig. 6.84 Mortise incidență,
+  evidențiind 15° la 20° rotație internă (medială) de Gambă și Picior. Fig. 6.85 Mortise
+  incidență. astragal (talus) maleolă medială (tibială) Tibial plafond distal tibiofibular
+  articulație Gleznă (Articulație Talocrurală) mortise maleolă laterală (fibulară)
+  suspiciune de fractură la base de 5th metatarsal Fig. 6.86 Mortise incidență.
+position: 'Pacient: Place pacient în Decubit dorsal poziție; place pillow under pacient’s
+  cap; membre inferioare trebuie să fie fully extins.; Regiune anatomică: Center și
+  align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală
+  de portion de receptorul de imagine being exposed (Fig. 6.84). Do nu dorsiflex Picior;
+  allow Picior la remain în natural extins (plantar flectat) poziție (allows pentru
+  visualization de base de fifth metatarsal, common suspiciune de fractură site).5
+  Internally rotate entire membru inferior și Picior approximately 15° la 20° until
+  intermalleolar line este paralel cu receptorul de imagine. Place support against
+  Picior if needed la prevent mișcare.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,19 +49,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal onethird of tibia and fibula, tibial plafond involving the epiphysis if present,
-  lateral and medial malleoli, talus, and proximal half of the metatarsals should
-  be demonstrated.
-- 'Entire Gleznă (Articulație Talocrurală) mortise should be open and well visualized
-  (3to 4mm space over entire talar surface is normal; an extra 2 mm of widening is
-  abnormal)2 (Figs. 6.85 and 6.86). Position:'
-- Proper obliquity for the mortise joint is evidenced by demonstration of open lateral
-  and medial mortise joints with malleoli demonstrated in profile.
-- Only minimal superimposition should exist at distal tibiofibular joint.
-- 'Collimation to area of interest. Exposure:'
-- No motion as demonstrated by sharp bony outlines and trabecular markings.
-- Optimal image receptor exposure and contrast to demonstrate soft tissue structures
-  and sufficient exposure for talus and distal tibia and fibula.
+- distal onethird de tibia și fibula, tibial plafond involving epiphysis if present,
+  lateral și medial malleoli, astragal (talus), și proximal half de oase metatarsiene
+  trebuie să fie evidențiat.
+- 'Entire Gleznă (Articulație Talocrurală) mortise trebuie să fie open și well visualized
+  (3to 4mm space over entire talar surface este normal; extra 2 mm de widening este
+  abnormal)2 (Figs. 6.85 și 6.86). poziție:'
+- corect obliquity pentru mortise articulație este evidenced prin demonstration de
+  open lateral și medial mortise articulații cu malleoli evidențiat în profile.
+- Only minimal superimposition trebuie să exist la distal tibiofibular articulație.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare ca evidențiat prin net bony outlines și trabecular markings.
+- optim receptorul de imagine expunere și contrast la evidențiază părți moi structures
+  și sufficient expunere pentru astragal (talus) și distal tibia și fibula.
 sid_dff: 100 cm
 slug: rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager
 sources:
@@ -68,16 +69,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate to lateral skin margins, including proximal metatarsals and
-    distal tibiafibula.
+  collimation: Collimate la lateral skin margins, including proximal oase metatarsiene
+    și distal tibiafibula.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articulație Talocrurală))
+title: Rx Gleznă (Articulație Talocrurală) — Morteză AP cu Rotație Medială 15°-20°
 ---
-# Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articulație Talocrurală))
+# Rx Gleznă (Articulație Talocrurală) — Morteză AP cu Rotație Medială 15°-20°
 
 
 <div class="rx-meta-bar">
@@ -96,7 +97,7 @@ title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articula�
 
     === "Indicații Clinice"
 
-        - Evaluation of pathology involving the entire Gleznă (Articulație Talocrurală) mortise1 and the proximal fifth metatarsal, a common suspiciune de fractură site. This is a common projection taken during open reduction surgery of the Gleznă (Articulație Talocrurală) (see
+        - Evaluation de pathology involving entire Gleznă (Articulație Talocrurală) mortise1 și proximal fifth metatarsal, common suspiciune de fractură site. This este common incidență taken during open reduction surgery de Gleznă (Articulație Talocrurală) (see
 
     === "Ghid Național IRIS"
 
@@ -110,8 +111,8 @@ title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articula�
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the Decubit Dorsal position; place pillow under patient’s head; legs should be fully extended.; Regiune anatomică: Center and align Gleznă (Articulație Talocrurală) joint to CR and to long axis of portion of IR being exposed (Fig. 6.84). Do not dorsiflex Picior; allow Picior to remain in natural extended (plantar flexed) position (allows for visualization of base of fifth metatarsal, a common suspiciune de fractură site).5 Internally rotate entire leg and Picior approximately 15° to 20° until intermalleolar line is parallel to IR. Place support against Picior if needed to prevent motion.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed midway between malleoli
+    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție; place pillow under pacient’s cap; membre inferioare trebuie să fie fully extins.; Regiune anatomică: Center și align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală de portion de receptorul de imagine being exposed (Fig. 6.84). Do nu dorsiflex Picior; allow Picior la remain în natural extins (plantar flectat) poziție (allows pentru visualization de base de fifth metatarsal, common suspiciune de fractură site).5 Internally rotate entire membru inferior și Picior approximately 15° la 20° until intermalleolar line este paralel cu receptorul de imagine. Place support against Picior if needed la prevent mișcare.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat midway între malleoli
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,20 +128,20 @@ title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articula�
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate to lateral skin margins, including proximal metatarsals and distal tibiafibula. |
+    | **Colimare Fascicul** | Collimate la lateral skin margins, including proximal oase metatarsiene și distal tibiafibula. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal onethird of tibia and fibula, tibial plafond involving the epiphysis if present, lateral and medial malleoli, talus, and proximal half of the metatarsals should be demonstrated.
-    - Entire Gleznă (Articulație Talocrurală) mortise should be open and well visualized (3to 4mm space over entire talar surface is normal; an extra 2 mm of widening is abnormal)2 (Figs. 6.85 and 6.86). Position:
-    - Proper obliquity for the mortise joint is evidenced by demonstration of open lateral and medial mortise joints with malleoli demonstrated in profile.
-    - Only minimal superimposition should exist at distal tibiofibular joint.
-    - Collimation to area of interest. Exposure:
-    - No motion as demonstrated by sharp bony outlines and trabecular markings.
-    - Optimal image receptor exposure and contrast to demonstrate soft tissue structures and sufficient exposure for talus and distal tibia and fibula.
+    - distal onethird de tibia și fibula, tibial plafond involving epiphysis if present, lateral și medial malleoli, astragal (talus), și proximal half de oase metatarsiene trebuie să fie evidențiat.
+    - Entire Gleznă (Articulație Talocrurală) mortise trebuie să fie open și well visualized (3to 4mm space over entire talar surface este normal; extra 2 mm de widening este abnormal)2 (Figs. 6.85 și 6.86). poziție:
+    - corect obliquity pentru mortise articulație este evidenced prin demonstration de open lateral și medial mortise articulații cu malleoli evidențiat în profile.
+    - Only minimal superimposition trebuie să exist la distal tibiofibular articulație.
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare ca evidențiat prin net bony outlines și trabecular markings.
+    - optim receptorul de imagine expunere și contrast la evidențiază părți moi structures și sufficient expunere pentru astragal (talus) și distal tibia și fibula.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +154,7 @@ title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articula�
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This position should not be a substitute for either the Incidență Antero-Posterioară (AP) or the oblique Gleznă (Articulație Talocrurală) position but rather should be a separate projection of the Gleznă (Articulație Talocrurală) that is taken routinely when potential traumatism acuttism / Regim Urgență or sprains of the Gleznă (Articulație Talocrurală) joint are involved.1 Gleznă (Articulație Talocrurală) ROUTINE AP AP mortise (15°) Lateral SPECIAL Oblique (45°) AP stress Fig. 6.84 Mortise projection, demonstrating 15° to 20° medial rotation of Gambă and Picior. Fig. 6.85 Mortise projection. Talus Medial malleolus Tibial plafond Distal tibiofibular joint Gleznă (Articulație Talocrurală) mortise Lateral malleolus suspiciune de fractură at base of 5th metatarsal Fig. 6.86 Mortise projection.
+    This poziție trebuie să nu fie substitute pentru either Incidență Antero-Posterioară (AP) sau oblic Gleznă (Articulație Talocrurală) poziție but rather trebuie să fie separate incidență de Gleznă (Articulație Talocrurală) that este taken routinely when potential traumatism acuttism / Regim Urgență sau sprains de Gleznă (Articulație Talocrurală) articulație sunt involved.1 Gleznă (Articulație Talocrurală) ROUTINE AP AP mortise (15°) lateral SPECIAL oblic (45°) AP stress Fig. 6.84 Mortise incidență, evidențiind 15° la 20° rotație internă (medială) de Gambă și Picior. Fig. 6.85 Mortise incidență. astragal (talus) maleolă medială (tibială) Tibial plafond distal tibiofibular articulație Gleznă (Articulație Talocrurală) mortise maleolă laterală (fibulară) suspiciune de fractură la base de 5th metatarsal Fig. 6.86 Mortise incidență.
 
 
 ### 🖼️ Imagini
@@ -162,25 +163,25 @@ title: Rx 15° TO 20° MEDIAL ROTATION AP MORTISE PROJECTION (Gleznă (Articula�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.84 Mortise projection, demonstrating 15° to 20° medial](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg)
+![Fig. 6.84 Mortise incidență, evidențiind 15° la 20° medial](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.84 Mortise projection, demonstrating 15° to 20° medial</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.84 Mortise projection, demonstrating 15° to 20° medial)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.85 Mortise projection.](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.85 Mortise projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.85 Mortise projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.84 Mortise incidență, evidențiind 15° la 20° medial</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.84 Mortise incidență, evidențiind 15° la 20° medial)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.86 Mortise projection.](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg)
+![Fig. 6.85 Mortise incidență.](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.86 Mortise projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.86 Mortise projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.85 Mortise incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.85 Mortise incidență.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.86 Mortise incidență.](../../assets/images/protocols/bontrager/rx-15-to-20-medial-rotation-ap-mortise-projection-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.86 Mortise incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.86 Mortise incidență.)</span></figcaption>
 
 </figure>
 

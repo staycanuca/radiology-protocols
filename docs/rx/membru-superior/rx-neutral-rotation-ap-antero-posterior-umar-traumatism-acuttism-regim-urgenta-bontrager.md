@@ -1,43 +1,44 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Umăr (traumatism acuttism / Regim
-  Urgență) ROUTINE AP (neutral rotation) Transthoracic lateral or PA oblique (scapular
-  Y lateral) Fig. 5.69 AP Ortostatism—neutral rotation. Fig. 5.70 AP Decubit Dorsal—neutral
-  rotation.
+breathing: Apnee pe durata expunerii. Umăr (traumatism acuttism / Regim Urgență) ROUTINE
+  AP (neutral rotație) Transthoracic lateral sau PA oblic (scapular Y lateral) Fig.
+  5.69 AP Ortostatism—neutral rotație. Fig. 5.70 AP Decubit dorsal—neutral rotație.
 category: membru-superior
-centering: perpendicular to IR, directed to midscapulohumeral joint, which is approximately
-  ¾ inch (2 cm) inferior and slightly lateral to coracoid process (see NOTE, p. 189).
+centering: perpendicular pe receptorul de imagine, orientat la midscapulohumeral articulație,
+  which este approximately ¾ inch (2 cm) inferior și slightly lateral la proces coracoid
+  (see NOTE, p. 189).
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and
+- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și
   Umăr girdle
-- Calcium deposits in muscles, tendons, or bursal structures may be evident, along
-  with degenerative diseases
+- Calcium deposits în muscles, tendons, sau bursal structures poate fie evident, along
+  cu degenerative diseases
 images:
-- caption: Fig. 5.69 AP Ortostatism—neutral rotation.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.69 AP erect—neutral
-    rotation.)
+- caption: Fig. 5.69 AP Ortostatism—neutral rotație.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.69 AP în ortostatism—neutral
+    rotație.)
   url: assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_1.jpeg
-- caption: Fig. 5.70 AP Decubit Dorsal—neutral rotation.
+- caption: Fig. 5.70 AP Decubit dorsal—neutral rotație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.70
-    AP supine—neutral rotation.)
+    AP în decubit dorsal—neutral rotație.)
   url: assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_2.jpeg
-- caption: Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotation.
+- caption: Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.71
-    AP projection—neutral rotation.)
+    AP incidență—neutral rotație.)
   url: assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_3.jpeg
-- caption: Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotation.
+- caption: Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotație.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.72
-    AP projection—neutral rotation.)
+    AP incidență—neutral rotație.)
   url: assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal
-  position. (The Ortostatism position is usually less painful for patient, if condition
-  allows.) Rotate body slightly toward affected side if necessary to place Umăr in
-  contact with IR or tabletop (Figs. 5.69 and 5.70).; Regiune anatomică: Position
-  patient to center scapulohumeral joint to IR. Place patient’s arm at side in “as
-  is” neutral rotation. (Epicondyles generally are approximately 45° to plane of IR.)'
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
+  poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition
+  allows.) Rotate corp slightly spre affected side if necessary la place Umăr în contact
+  cu receptorul de imagine sau tabletop (Figs. 5.69 și 5.70).; Regiune anatomică:
+  poziție pacient la center scapulohumeral articulație la receptorul de imagine. Place
+  pacient’s braț la side în “ca este” neutral rotație. (Epicondyles generally sunt
+  approximately 45° la plane de receptorul de imagine.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,20 +46,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'The proximal onethird of the Humerus and upper Omoplat (Scapulă) and the lateral
-  twothirds of the Claviculă are shown, including the relationship of the humeral
-  head to the glenoid cavity. Position:'
-- With neutral rotation, both the greater and the lesser tubercles most often are
-  superimposed by the humeral head (Figs. 5.71 and 5.72).
-- 'Collimation field size to area of interest Exposure:'
-- Optimal image receptor exposure and contrast with no motion visualize Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft
-  tissue anatomy.
-- The outline of the medial aspect of the humeral head is visible through the glenoid
-  cavity, and soft tissue detail should be visible to demonstrate possible calcium
-  deposits. Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotation. Coracoid
-  process Acromion Scapulohumeral joint Greater tubercle Lesser tubercle Omoplat (Scapulă)
-  Proximal Humerus Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotation.
+- 'proximal onethird de Humerus și upper Omoplat (Scapulă) și lateral twothirds de
+  Claviculă sunt vizualizat, including relationship de cap humeral la cavitate glenoidă.
+  poziție:'
+- cu neutral rotație, ambele greater și lesser tubercles most often sunt superimposed
+  prin cap humeral (Figs. 5.71 și 5.72).
+- 'Collimation field size la aria de interes diagnostic expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare visualize Contururi
+  osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent părți
+  moi anatomy.
+- outline de medial aspect de cap humeral este vizibil through cavitate glenoidă,
+  și părți moi detail trebuie să fie vizibil la evidențiază possible calcium deposits.
+  Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotație. proces coracoid acromion
+  Scapulohumeral articulație mare tuberozitate humerală (trohiter) mică tuberozitate
+  humerală (trohin) Omoplat (Scapulă) proximal Humerus Fig. 5.72 Incidență Antero-Posterioară
+  (AP)—neutral rotație.
 sid_dff: 100 cm
 slug: rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager
 sources:
@@ -66,8 +68,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides, with lateral and upper borders
-    adjusted to soft tissue margins.
+  collimation: Field Size Collimate pe four sides, cu lateral și upper margini ajustat
+    la părți moi margins.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,8 +97,8 @@ title: Rx NEUTRAL ROTATION AP (Antero-Posterior) (Umăr (traumatism acuttism / R
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and Umăr girdle
-        - Calcium deposits in muscles, tendons, or bursal structures may be evident, along with degenerative diseases
+        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și Umăr girdle
+        - Calcium deposits în muscles, tendons, sau bursal structures poate fie evident, along cu degenerative diseases
 
     === "Ghid Național IRIS"
 
@@ -110,10 +112,10 @@ title: Rx NEUTRAL ROTATION AP (Antero-Posterior) (Umăr (traumatism acuttism / R
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal position. (The Ortostatism position is usually less painful for patient, if condition allows.) Rotate body slightly toward affected side if necessary to place Umăr in contact with IR or tabletop (Figs. 5.69 and 5.70).; Regiune anatomică: Position patient to center scapulohumeral joint to IR. Place patient’s arm at side in “as is” neutral rotation. (Epicondyles generally are approximately 45° to plane of IR.)
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to midscapulohumeral joint, which is approximately ¾ inch (2 cm) inferior and slightly lateral to coracoid process (see NOTE, p. 189).
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition allows.) Rotate corp slightly spre affected side if necessary la place Umăr în contact cu receptorul de imagine sau tabletop (Figs. 5.69 și 5.70).; Regiune anatomică: poziție pacient la center scapulohumeral articulație la receptorul de imagine. Place pacient’s braț la side în “ca este” neutral rotație. (Epicondyles generally sunt approximately 45° la plane de receptorul de imagine.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midscapulohumeral articulație, which este approximately ¾ inch (2 cm) inferior și slightly lateral la proces coracoid (see NOTE, p. 189).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP (neutral rotation) Transthoracic lateral or PA oblique (scapular Y lateral) Fig. 5.69 AP Ortostatism—neutral rotation. Fig. 5.70 AP Decubit Dorsal—neutral rotation.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP (neutral rotație) Transthoracic lateral sau PA oblic (scapular Y lateral) Fig. 5.69 AP Ortostatism—neutral rotație. Fig. 5.70 AP Decubit dorsal—neutral rotație.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,18 +129,18 @@ title: Rx NEUTRAL ROTATION AP (Antero-Posterior) (Umăr (traumatism acuttism / R
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides, with lateral and upper borders adjusted to soft tissue margins. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides, cu lateral și upper margini ajustat la părți moi margins. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - The proximal onethird of the Humerus and upper Omoplat (Scapulă) and the lateral twothirds of the Claviculă are shown, including the relationship of the humeral head to the glenoid cavity. Position:
-    - With neutral rotation, both the greater and the lesser tubercles most often are superimposed by the humeral head (Figs. 5.71 and 5.72).
-    - Collimation field size to area of interest Exposure:
-    - Optimal image receptor exposure and contrast with no motion visualize Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and pertinent soft tissue anatomy.
-    - The outline of the medial aspect of the humeral head is visible through the glenoid cavity, and soft tissue detail should be visible to demonstrate possible calcium deposits. Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotation. Coracoid process Acromion Scapulohumeral joint Greater tubercle Lesser tubercle Omoplat (Scapulă) Proximal Humerus Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotation.
+    - proximal onethird de Humerus și upper Omoplat (Scapulă) și lateral twothirds de Claviculă sunt vizualizat, including relationship de cap humeral la cavitate glenoidă. poziție:
+    - cu neutral rotație, ambele greater și lesser tubercles most often sunt superimposed prin cap humeral (Figs. 5.71 și 5.72).
+    - Collimation field size la aria de interes diagnostic expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare visualize Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și pertinent părți moi anatomy.
+    - outline de medial aspect de cap humeral este vizibil through cavitate glenoidă, și părți moi detail trebuie să fie vizibil la evidențiază possible calcium deposits. Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotație. proces coracoid acromion Scapulohumeral articulație mare tuberozitate humerală (trohiter) mică tuberozitate humerală (trohin) Omoplat (Scapulă) proximal Humerus Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotație.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,33 +160,33 @@ title: Rx NEUTRAL ROTATION AP (Antero-Posterior) (Umăr (traumatism acuttism / R
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.69 AP Ortostatism—neutral rotation.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_1.jpeg)
+![Fig. 5.69 AP Ortostatism—neutral rotație.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.69 AP Ortostatism—neutral rotation.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.69 AP erect—neutral rotation.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.70 AP Decubit Dorsal—neutral rotation.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.70 AP Decubit Dorsal—neutral rotation.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.70 AP supine—neutral rotation.)</span></figcaption>
+<figcaption><strong>Fig. 5.69 AP Ortostatism—neutral rotație.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.69 AP în ortostatism—neutral rotație.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotation.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_3.jpeg)
+![Fig. 5.70 AP Decubit dorsal—neutral rotație.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotation.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.71 AP projection—neutral rotation.)</span></figcaption>
+<figcaption><strong>Fig. 5.70 AP Decubit dorsal—neutral rotație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.70 AP în decubit dorsal—neutral rotație.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotation.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_4.jpeg)
+![Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotație.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotation.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.72 AP projection—neutral rotation.)</span></figcaption>
+<figcaption><strong>Fig. 5.71 Incidență Antero-Posterioară (AP)—neutral rotație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.71 AP incidență—neutral rotație.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotație.](../../assets/images/protocols/bontrager/rx-neutral-rotation-ap-antero-posterior-umar-traumatism-acuttism-regim-urgenta-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 5.72 Incidență Antero-Posterioară (AP)—neutral rotație.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.72 AP incidență—neutral rotație.)</span></figcaption>
 
 </figure>
 

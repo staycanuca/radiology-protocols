@@ -39,6 +39,34 @@ source_mapping:
     section: 5. Radiological investigations
     source_id: f46dda9a758357dca9400eaa87aaafa2
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.427683+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: f46dda9a758357dca9400eaa87aaafa2
+  institution: Royal Children’s Hospital Melbourne
+  section: 5. Radiological investigations
+  title: RCH — Clavicle fractures, Emergency Department
+  url: https://www.rch.org.au/clinicalguide/guideline_index/fractures/Clavicle_fractures_Emergency_Department/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.427683+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 1788781fa4485e4c83b87b26a58ba20b
+  institution: Norfolk and Norwich University Hospitals NHS
+  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
+  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
+  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.427683+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Clavicula completă și extremitățile ei.
   condition: Parte a setului inițial justificat de radiolog
@@ -57,42 +85,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX claviculă
-sources:
-- id: f46dda9a758357dca9400eaa87aaafa2
-  title: RCH — Clavicle fractures, Emergency Department
-  url: https://www.rch.org.au/clinicalguide/guideline_index/fractures/Clavicle_fractures_Emergency_Department/
-  institution: Royal Children’s Hospital Melbourne
-  section: 5. Radiological investigations
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.427683+00:00'
-- id: 1788781fa4485e4c83b87b26a58ba20b
-  title: NNUH — Justification Criteria & Technique Guide, v8, februarie 2024
-  url: https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/
-  institution: Norfolk and Norwich University Hospitals NHS
-  section: Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.427683+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.427683+00:00'
+title: Rx RX claviculă
 workbench_transfer:
   draft_id: ceec29cab9fe514e98da2ff1d7daa745
-  transferred_at: '2026-09-15T08:50:31.255136+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.255136+00:00'
 ---
-
-# RX claviculă
+# Rx RX claviculă
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -205,8 +204,9 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [RCH — Clavicle fractures, Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Clavicle_fractures_Emergency_Department/) — 5. Radiological investigations
-- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/) — Secțiunile anatomice; coloană toracală p.36; Appendix 6 p.48
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [RCH — Clavicle fractures, Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Clavicle_fractures_Emergency_Department/)
+- [NNUH — Justification Criteria & Technique Guide, v8, februarie 2024](https://www.nnuh.nhs.uk/publication/download/justification-criteria-technique-guide-for-plain-radiological-examinations-version-8/)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

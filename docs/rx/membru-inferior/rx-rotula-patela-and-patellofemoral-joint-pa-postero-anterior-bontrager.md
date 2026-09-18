@@ -2,35 +2,36 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: is perpendicular to IR. Direct CR to midpatella area (which is usually
-  at approximately the midpopliteal crease).
+centering: este perpendicular pe receptorul de imagine. Raza centrală se orientează
+  spre midpatella area (which este usually la approximately midpopliteal crease).
 clinical_indications:
-- Evaluation of patellar suspiciune de fractură before Genunchi joint is flexed for
-  other projections
+- Evaluation de patellar suspiciune de fractură before Genunchi articulație este flectat
+  pentru other incidențe
 images:
-- caption: Fig. 6.130 PA Rotulă (Patelă)—CR 0° to midpatella.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.130 PA patella—CR
-    0° to midpatella.)
+- caption: Fig. 6.130 PA Rotulă (Patelă)—raza centrală 0° la midpatella.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.130 PA rotulă
+    (patelă)—raza centrală 0° la midpatella.)
   url: assets/images/protocols/bontrager/rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager/fig_1.jpeg
 - caption: Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.131
-    PA patella. (Courtesy Joss Wertz, DO.))
+    PA rotulă (patelă). (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: With potential suspiciune de fractură of the Rotulă (Patelă), extra care should
-  be taken not to flex Genunchi and provide support under thigh (Femur) so as not
-  to put direct pressure on patellar area. The projection also may be taken as an
-  Incidență Antero-Posterioară (AP) positioned similar to an AP Genunchi if patient
-  cannot assume a Decubit Ventral position. Rotulă (Patelă) PA Lateral Tangential
-  Fig. 6.130 PA Rotulă (Patelă)—CR 0° to midpatella. Fig. 6.131 PA Rotulă (Patelă).
-  (Courtesy Joss Wertz, DO.)
-position: 'Pacient: Place patient in Decubit Ventral position, legs extended; provide
-  a pillow for patient’s head; place support under Gleznă (Articulație Talocrurală)
-  and Gambă, with smaller support under Femur above Genunchi to prevent direct pressure
-  on Rotulă (Patelă).; Regiune anatomică: Align and center long axis of leg and Genunchi
-  to midline of table or IR (Fig. 6.130). True PA: Align interepicondylar line parallel
-  to plane of IR. (This usually requires about 5° internal rotation of anterior Genunchi.)'
+notes: cu potential suspiciune de fractură de Rotulă (Patelă), extra care trebuie
+  să fie taken nu la flex Genunchi și provide support under thigh (Femur) so ca nu
+  la put direct pressure pe patellar area. incidență also poate fie taken ca Incidență
+  Antero-Posterioară (AP) poziționat similar la AP Genunchi if pacient cannot assume
+  Decubit ventral poziție. Rotulă (Patelă) PA lateral tangențial Fig. 6.130 PA Rotulă
+  (Patelă)—raza centrală 0° la midpatella. Fig. 6.131 PA Rotulă (Patelă). (Courtesy
+  Joss Wertz, DO.)
+position: 'Pacient: Place pacient în Decubit ventral poziție, membre inferioare extins;
+  provide pillow pentru pacient’s cap; place support under Gleznă (Articulație Talocrurală)
+  și Gambă, cu smaller support under Femur above Genunchi la prevent direct pressure
+  pe Rotulă (Patelă).; Regiune anatomică: Align și center axa longitudinală de membru
+  inferior și Genunchi la linia mediană mesei sau receptorul de imagine (Fig. 6.130).
+  True PA: Align interepicondylar line paralel la plane de receptorul de imagine.
+  (This usually requires about 5° intern rotație de anterior Genunchi.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,18 +39,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Genunchi joint and Rotulă (Patelă) are shown, with optimal recorded detail of Rotulă
-  (Patelă) because of decreased OID if taken as Incidență Postero-Anterioară (PA)
-  (Fig. 6.131). Position:'
+- 'Genunchi articulație și Rotulă (Patelă) sunt vizualizat, cu optim recorded detail
+  de Rotulă (Patelă) because de decreased OID if taken ca Incidență Postero-Anterioară
+  (PA) (Fig. 6.131). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is present, as evidenced by symmetric appearance of condyles.'
-- Rotulă (Patelă) is centered to Femur with correct slight internal rotation of anterior
+  este present, ca evidenced prin simetric appearance de condyles.'
+- Rotulă (Patelă) este centrat pe Femur cu correct slight intern rotație de anterior
   Genunchi.
-- 'Rotulă (Patelă) is in center of collimated field. Exposure:'
-- Optimal image receptor exposure and contrast without motion visualizes soft tissue
-  in joint area and clearly visualizes Contururi osoase și travee trabeculare nete,
-  fără artefacte de mișcare and outline of Rotulă (Patelă) as seen through distal
-  Femur.
+- 'Rotulă (Patelă) este în center de câmp colimat. expunere:'
+- optim receptorul de imagine expunere și contrast fără estompare cinetică de mișcare
+  visualizes părți moi în articulație area și clearly visualizes Contururi osoase
+  și travee trabeculare nete, fără artefacte de mișcare și outline de Rotulă (Patelă)
+  ca seen through distal Femur.
 sid_dff: 100 cm
 slug: rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager
 sources:
@@ -57,8 +58,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate closely on four sides to include just the area of the Rotulă
-    (Patelă) and Genunchi joint.
+  collimation: Collimate closely pe four sides la include just area de Rotulă (Patelă)
+    și Genunchi articulație.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -85,7 +86,7 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Evaluation of patellar suspiciune de fractură before Genunchi joint is flexed for other projections
+        - Evaluation de patellar suspiciune de fractură before Genunchi articulație este flectat pentru other incidențe
 
     === "Ghid Național IRIS"
 
@@ -99,8 +100,8 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in Decubit Ventral position, legs extended; provide a pillow for patient’s head; place support under Gleznă (Articulație Talocrurală) and Gambă, with smaller support under Femur above Genunchi to prevent direct pressure on Rotulă (Patelă).; Regiune anatomică: Align and center long axis of leg and Genunchi to midline of table or IR (Fig. 6.130). True PA: Align interepicondylar line parallel to plane of IR. (This usually requires about 5° internal rotation of anterior Genunchi.)
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Direct CR to midpatella area (which is usually at approximately the midpopliteal crease).
+    - **Poziție Pacient:** Pacient: Place pacient în Decubit ventral poziție, membre inferioare extins; provide pillow pentru pacient’s cap; place support under Gleznă (Articulație Talocrurală) și Gambă, cu smaller support under Femur above Genunchi la prevent direct pressure pe Rotulă (Patelă).; Regiune anatomică: Align și center axa longitudinală de membru inferior și Genunchi la linia mediană mesei sau receptorul de imagine (Fig. 6.130). True PA: Align interepicondylar line paralel la plane de receptorul de imagine. (This usually requires about 5° intern rotație de anterior Genunchi.)
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Raza centrală se orientează spre midpatella area (which este usually la approximately midpopliteal crease).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -116,18 +117,18 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate closely on four sides to include just the area of the Rotulă (Patelă) and Genunchi joint. |
+    | **Colimare Fascicul** | Collimate closely pe four sides la include just area de Rotulă (Patelă) și Genunchi articulație. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Genunchi joint and Rotulă (Patelă) are shown, with optimal recorded detail of Rotulă (Patelă) because of decreased OID if taken as Incidență Postero-Anterioară (PA) (Fig. 6.131). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is present, as evidenced by symmetric appearance of condyles.
-    - Rotulă (Patelă) is centered to Femur with correct slight internal rotation of anterior Genunchi.
-    - Rotulă (Patelă) is in center of collimated field. Exposure:
-    - Optimal image receptor exposure and contrast without motion visualizes soft tissue in joint area and clearly visualizes Contururi osoase și travee trabeculare nete, fără artefacte de mișcare and outline of Rotulă (Patelă) as seen through distal Femur.
+    - Genunchi articulație și Rotulă (Patelă) sunt vizualizat, cu optim recorded detail de Rotulă (Patelă) because de decreased OID if taken ca Incidență Postero-Anterioară (PA) (Fig. 6.131). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este present, ca evidenced prin simetric appearance de condyles.
+    - Rotulă (Patelă) este centrat pe Femur cu correct slight intern rotație de anterior Genunchi.
+    - Rotulă (Patelă) este în center de câmp colimat. expunere:
+    - optim receptorul de imagine expunere și contrast fără estompare cinetică de mișcare visualizes părți moi în articulație area și clearly visualizes Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și outline de Rotulă (Patelă) ca seen through distal Femur.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -140,7 +141,7 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    With potential suspiciune de fractură of the Rotulă (Patelă), extra care should be taken not to flex Genunchi and provide support under thigh (Femur) so as not to put direct pressure on patellar area. The projection also may be taken as an Incidență Antero-Posterioară (AP) positioned similar to an AP Genunchi if patient cannot assume a Decubit Ventral position. Rotulă (Patelă) PA Lateral Tangential Fig. 6.130 PA Rotulă (Patelă)—CR 0° to midpatella. Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
+    cu potential suspiciune de fractură de Rotulă (Patelă), extra care trebuie să fie taken nu la flex Genunchi și provide support under thigh (Femur) so ca nu la put direct pressure pe patellar area. incidență also poate fie taken ca Incidență Antero-Posterioară (AP) poziționat similar la AP Genunchi if pacient cannot assume Decubit ventral poziție. Rotulă (Patelă) PA lateral tangențial Fig. 6.130 PA Rotulă (Patelă)—raza centrală 0° la midpatella. Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
 
 
 ### 🖼️ Imagini
@@ -149,9 +150,9 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.130 PA Rotulă (Patelă)—CR 0° to midpatella.](../../assets/images/protocols/bontrager/rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 6.130 PA Rotulă (Patelă)—raza centrală 0° la midpatella.](../../assets/images/protocols/bontrager/rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.130 PA Rotulă (Patelă)—CR 0° to midpatella.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.130 PA patella—CR 0° to midpatella.)</span></figcaption>
+<figcaption><strong>Fig. 6.130 PA Rotulă (Patelă)—raza centrală 0° la midpatella.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.130 PA rotulă (patelă)—raza centrală 0° la midpatella.)</span></figcaption>
 
 </figure>
 
@@ -159,7 +160,7 @@ title: Rx Rotulă (Patelă) AND PATELLOFEMORAL JOINT PA (Postero-Anterior)
 
 ![Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-rotula-patela-and-patellofemoral-joint-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.131 PA patella. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.131 PA Rotulă (Patelă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.131 PA rotulă (patelă). (Courtesy Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

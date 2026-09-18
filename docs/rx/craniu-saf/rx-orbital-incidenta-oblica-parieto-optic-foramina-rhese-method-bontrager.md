@@ -1,26 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: 37° 53° Fig. 11.152 Parietoorbital Incidență Oblică—53° rotation; AML perpendicular;
-  Raza centrală perpendiculară. Fig. 11.153 Bilateral parietoorbital Incidență Oblică.
-  Maxillary sinus Optic foramen and canal Lateral orbital margin Inferior orbital
-  rim Optical foramen and canal Frontal sinus Fig. 11.154 Bilateral parietoorbital
-  Incidență Oblică.
+centering: 37° 53° Fig. 11.152 Parietoorbital Incidență Oblică—53° rotație; linie
+  acantiomeatală (LAM) perpendicular; Raza centrală perpendiculară. Fig. 11.153 bilateral
+  parietoorbital Incidență Oblică. sinusuri maxilare gaură optică și canal lateral
+  orbital margin inferior orbital rim Optical foramen și canal sinusuri frontale Fig.
+  11.154 bilateral parietoorbital Incidență Oblică.
 clinical_indications:
-- Bony abnormalities of the optic foramen
-- Demonstrate lateral margins of Orbite and foreign bodies within eye (see NOTE)
+- Bony abnormalities de gaură optică
+- evidențiază lateral margins de Orbite și Corp străin / corpuri străine radio-opace
+  within eye (see NOTE)
 images:
 - caption: Fig. 11.152 Parieto-
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.152 Parieto-)
   url: assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_1.jpeg
-- caption: Fig. 11.153 Bilateral parieto-
+- caption: Fig. 11.153 bilateral parieto-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.153
-    Bilateral parieto-)
+    bilateral parieto-)
   url: assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_2.jpeg
-- caption: Fig. 11.154 Bilateral parieto-
+- caption: Fig. 11.154 bilateral parieto-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.154
-    Bilateral parieto-)
+    bilateral parieto-)
   url: assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,21 +29,22 @@ images:
   url: assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: CT is the preferred modality for a detailed investigation of the optic foramina.
-  Radiographs of both sides generally are taken for comparison. This projection can
-  also provide an excellent image of the midlateral and inferior orbital margins.
-  No AEC OPTIC FORAMINA ROUTINE Parietoorbital oblique (Rhese method) Parietoacanthial
+notes: CT este preferred modality pentru detailed investigation de gaură optică. radiografii
+  de ambele părți (bilateral) generally sunt taken pentru comparison. This incidență
+  poate also provide excellent imagine de midlateral și inferior orbital margins.
+  fără AEC gaură optică ROUTINE Parietoorbital oblic (Rhese method) Parietoacanthial
   (Incidență Occipito-Mentonieră (Metoda Waters)) SPECIAL Modified parietoacanthial
   (modified Incidență Occipito-Mentonieră (Metoda Waters))
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Position
-  patient Ortostatism or Decubit Dorsal.; Regiune anatomică: As a starting reference,
-  position patient’s head for a Incidență Postero-Anterioară (PA) with MSP perpendicular
-  to IR. Adjust flexion and extension so that AML is perpendicular to IR. Adjust the
-  patient’s head so that the chin, cheek, and nose touch the table/upright imaging
-  device surface (this position is historically known as the “3point landing”). Rotate
-  the head 37° toward the affected side. The angle formed between MSP and plane of
-  IR measures 53° (Fig. 11.152). (An angle indicator should be used to obtain an accurate
-  angle of 37° from CR to MSP.)'
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. poziție pacient Ortostatism sau Decubit dorsal.; Regiune anatomică:
+  ca starting reference, poziție pacient’s cap pentru Incidență Postero-Anterioară
+  (PA) cu MSP perpendicular pe receptorul de imagine. Adjust flexion și extension
+  so that linie acantiomeatală (LAM) este perpendicular pe receptorul de imagine.
+  se ajustează pacient’s cap astfel încât chin, cheek, și nose touch masa de examinare/în
+  ortostatism imaging device surface (this poziție este historically known ca “3point
+  landing”). se rotește cap 37° spre partea afectată. angle formed între MSP și plane
+  de receptorul de imagine measures 53° (Fig. 11.152). (angle indicator trebuie să
+  fie used la obtain precis angle de 37° de la raza centrală la MSP.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,16 +52,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Bilateral, nondistorted view of the optic foramen.
-- 'Lateral orbital margins are demonstrated (Figs. 11.153 and 11.154). Position:'
-- Accurate positioning projects the optic foramen into the lower outer quadrant of
-  the orbit.
-- Proper positioning results when AML is correctly placed perpendicular to IR and
-  correct rotation of Craniu.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the optic
-  foramen.
-- Sharp bony margins indicate no motion.
+- bilateral, nondistorted incidență de gaură optică.
+- 'lateral orbital margins sunt evidențiat (Figs. 11.153 și 11.154). poziție:'
+- precis positioning projects gaură optică into lower outer quadrant de orbit.
+- corect positioning results when linie acantiomeatală (LAM) este correctly plasat
+  perpendicular pe receptorul de imagine și correct rotație de Craniu.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize gaură
+  optică.
+- net bony margins indicate fără mișcare.
 sid_dff: 100 cm
 slug: rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager
 sources:
@@ -67,7 +68,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on all sides to yield a field size of approximately 3 inches
+  collimation: Collimate pe toate sides la yield field size de approximately 3 inches
     (7.5 cm) square.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
@@ -95,8 +96,8 @@ title: Rx ORBITAL Incidență Oblică PARIETO (OPTIC FORAMINA - RHESE METHOD)
 
     === "Indicații Clinice"
 
-        - Bony abnormalities of the optic foramen
-        - Demonstrate lateral margins of Orbite and foreign bodies within eye (see NOTE)
+        - Bony abnormalities de gaură optică
+        - evidențiază lateral margins de Orbite și Corp străin / corpuri străine radio-opace within eye (see NOTE)
 
     === "Ghid Național IRIS"
 
@@ -110,10 +111,10 @@ title: Rx ORBITAL Incidență Oblică PARIETO (OPTIC FORAMINA - RHESE METHOD)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Position patient Ortostatism or Decubit Dorsal.; Regiune anatomică: As a starting reference, position patient’s head for a Incidență Postero-Anterioară (PA) with MSP perpendicular to IR. Adjust flexion and extension so that AML is perpendicular to IR. Adjust the patient’s head so that the chin, cheek, and nose touch the table/upright imaging device surface (this position is historically known as the “3point landing”). Rotate the head 37° toward the affected side. The angle formed between MSP and plane of IR measures 53° (Fig. 11.152). (An angle indicator should be used to obtain an accurate angle of 37° from CR to MSP.)
-    - **Punct de Centrare Fascicul:** 37° 53° Fig. 11.152 Parietoorbital Incidență Oblică—53° rotation; AML perpendicular; Raza centrală perpendiculară. Fig. 11.153 Bilateral parietoorbital Incidență Oblică. Maxillary sinus Optic foramen and canal Lateral orbital margin Inferior orbital rim Optical foramen and canal Frontal sinus Fig. 11.154 Bilateral parietoorbital Incidență Oblică.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. poziție pacient Ortostatism sau Decubit dorsal.; Regiune anatomică: ca starting reference, poziție pacient’s cap pentru Incidență Postero-Anterioară (PA) cu MSP perpendicular pe receptorul de imagine. Adjust flexion și extension so that linie acantiomeatală (LAM) este perpendicular pe receptorul de imagine. se ajustează pacient’s cap astfel încât chin, cheek, și nose touch masa de examinare/în ortostatism imaging device surface (this poziție este historically known ca “3point landing”). se rotește cap 37° spre partea afectată. angle formed între MSP și plane de receptorul de imagine measures 53° (Fig. 11.152). (angle indicator trebuie să fie used la obtain precis angle de 37° de la raza centrală la MSP.)
+    - **Punct de Centrare Fascicul:** 37° 53° Fig. 11.152 Parietoorbital Incidență Oblică—53° rotație; linie acantiomeatală (LAM) perpendicular; Raza centrală perpendiculară. Fig. 11.153 bilateral parietoorbital Incidență Oblică. sinusuri maxilare gaură optică și canal lateral orbital margin inferior orbital rim Optical foramen și canal sinusuri frontale Fig. 11.154 bilateral parietoorbital Incidență Oblică.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,20 +128,20 @@ title: Rx ORBITAL Incidență Oblică PARIETO (OPTIC FORAMINA - RHESE METHOD)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on all sides to yield a field size of approximately 3 inches (7.5 cm) square. |
+    | **Colimare Fascicul** | Collimate pe toate sides la yield field size de approximately 3 inches (7.5 cm) square. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Bilateral, nondistorted view of the optic foramen.
-    - Lateral orbital margins are demonstrated (Figs. 11.153 and 11.154). Position:
-    - Accurate positioning projects the optic foramen into the lower outer quadrant of the orbit.
-    - Proper positioning results when AML is correctly placed perpendicular to IR and correct rotation of Craniu.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the optic foramen.
-    - Sharp bony margins indicate no motion.
+    - bilateral, nondistorted incidență de gaură optică.
+    - lateral orbital margins sunt evidențiat (Figs. 11.153 și 11.154). poziție:
+    - precis positioning projects gaură optică into lower outer quadrant de orbit.
+    - corect positioning results when linie acantiomeatală (LAM) este correctly plasat perpendicular pe receptorul de imagine și correct rotație de Craniu.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize gaură optică.
+    - net bony margins indicate fără mișcare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +154,7 @@ title: Rx ORBITAL Incidență Oblică PARIETO (OPTIC FORAMINA - RHESE METHOD)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    CT is the preferred modality for a detailed investigation of the optic foramina. Radiographs of both sides generally are taken for comparison. This projection can also provide an excellent image of the midlateral and inferior orbital margins. No AEC OPTIC FORAMINA ROUTINE Parietoorbital oblique (Rhese method) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) SPECIAL Modified parietoacanthial (modified Incidență Occipito-Mentonieră (Metoda Waters))
+    CT este preferred modality pentru detailed investigation de gaură optică. radiografii de ambele părți (bilateral) generally sunt taken pentru comparison. This incidență poate also provide excellent imagine de midlateral și inferior orbital margins. fără AEC gaură optică ROUTINE Parietoorbital oblic (Rhese method) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) SPECIAL Modified parietoacanthial (modified Incidență Occipito-Mentonieră (Metoda Waters))
 
 
 ### 🖼️ Imagini
@@ -170,17 +171,17 @@ title: Rx ORBITAL Incidență Oblică PARIETO (OPTIC FORAMINA - RHESE METHOD)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.153 Bilateral parieto-](../../assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_2.jpeg)
+![Fig. 11.153 bilateral parieto-](../../assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.153 Bilateral parieto-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.153 Bilateral parieto-)</span></figcaption>
+<figcaption><strong>Fig. 11.153 bilateral parieto-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.153 bilateral parieto-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.154 Bilateral parieto-](../../assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_3.jpeg)
+![Fig. 11.154 bilateral parieto-](../../assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 11.154 Bilateral parieto-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.154 Bilateral parieto-)</span></figcaption>
+<figcaption><strong>Fig. 11.154 bilateral parieto-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.154 bilateral parieto-)</span></figcaption>
 
 </figure>
 

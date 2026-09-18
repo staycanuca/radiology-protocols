@@ -1,28 +1,29 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on expiration.
+breathing: Apnee pe durata expunerii pe expiration.
 category: coloana
-centering: 'to level of creasta iliacă (corespunzător L4-L5) (L4–L5). This larger
-  IR will include lumbar vertebrae, Sacru, and possibly Coccis. Tighter collimation
-  11 × 14 inches (30 × 35 cm): Direct CR to level of L3, which may be localized by
-  palpation of the lower costal margin (1.5 inches [4 cm] above creasta iliacă (corespunzător
-  L4-L5)). This tighter collimation field size will include primarily the five lumbar
-  vertebrae and SI joints. Center IR to CR.'
+centering: 'la level de creasta iliacă (corespunzător L4-L5) (L4–L5). This larger
+  receptorul de imagine will include coloană lombară, Sacru, și possibly Coccis. Tighter
+  collimation 11 × 14 inches (30 × 35 cm): Raza centrală se orientează spre level
+  de L3, which poate fie localized prin palpation de lower costal margin (1.5 inches
+  [4 cm] above creasta iliacă (corespunzător L4-L5)). This tighter collimation field
+  size will include primarily five coloană lombară și SI articulații. Se centrează
+  receptorul de imagine pe raza centrală.'
 clinical_indications:
-- Pathology of the lumbar vertebrae, including suspiciune de fractură, scolioză /
-  vicii de postură ale coloanei, and neoplastic processes
+- Pathology de coloană lombară, including suspiciune de fractură, scolioză / vicii
+  de postură ale coloanei, și neoplastic processes
 images:
-- caption: Fig. 9.28 Incidență Antero-Posterioară (AP) (centered for 14 × 17-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.28 AP projection
-    (centered for 14 × 17-)
+- caption: Fig. 9.28 Incidență Antero-Posterioară (AP) (centrat pentru 14 × 17-
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.28 AP incidență
+    (centrat pentru 14 × 17-)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_1.jpeg
-- caption: Fig. 9.29 AP lumbar projection (centered for 14 × 17-
+- caption: Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.29
-    AP lumbar projection (centered for 14 × 17-)
+    AP lumbar incidență (centrat pentru 14 × 17-)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_2.jpeg
-- caption: Fig. 9.30 AP lumbar projection.
+- caption: Fig. 9.30 AP lumbar incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.30
-    AP lumbar projection.)
+    AP lumbar incidență.)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -30,20 +31,20 @@ images:
   url: assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Partial flexion of knees as shown straightens the spine, which helps open
-  intervertebral disk spaces. Radiograph may be done Decubit Ventral as a Incidență
-  Postero-Anterioară (PA), which places the intervertebral spaces more closely parallel
-  to the diverging rays. The Ortostatism position may be useful for demonstrating
-  the natural weightbearing stance of the spine. 35 (30) (35) Coloană Lombară ROUTINE
-  AP (or PA) Oblique—anterior or posterior Lateral Lateral L5–S1 Fig. 9.28 Incidență
-  Antero-Posterioară (AP) (centered for 14 × 17inch [35 × 43cm] IR). Inset, Alternative
-  Incidență Postero-Anterioară (PA).'
-position: 'Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms
-  at side and head on pillow (also may be done in Decubit Ventral or Ortostatism position;
-  see NOTES).; Regiune anatomică: Align midsagittal plane to CR and midline of table
-  and/or grid (Fig. 9.28). Flex knees and hips to reduce lordotic curvature. Ensure
-  that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of thorax or Bazin (Pelvis) exists.'
+notes: 'S: Partial flexion de genunchi ca vizualizat straightens coloană vertebrală,
+  which helps open intervertebral disk spaces. radiografie poate fie done Decubit
+  ventral ca Incidență Postero-Anterioară (PA), which places intervertebral spaces
+  more closely paralel cu diverging rays. Ortostatism poziție poate fie useful pentru
+  evidențiind natural weightbearing stance de coloană vertebrală. 35 (30) (35) Coloană
+  Lombară ROUTINE AP (sau PA) oblic—anterior sau posterior lateral lateral L5–S1 Fig.
+  9.28 Incidență Antero-Posterioară (AP) (centrat pentru 14 × 17inch [35 × 43cm] receptorul
+  de imagine). Inset, Alternative Incidență Postero-Anterioară (PA).'
+position: 'Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side
+  și cap pe pillow (also poate fie done în Decubit ventral sau Ortostatism poziție;
+  see NOTES).; Regiune anatomică: Align plan mediosagital la raza centrală și linia
+  mediană mesei și/sau grilă (Fig. 9.28). Flex genunchi și hips la reduce lordotic
+  curvature. Se verifică absența rotației: claviculele sunt riguros echidistante față
+  de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,8 +52,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Lumbar vertebral bodies, intervertebral joints, spinous and transverse processes,
-  SI joints, and Sacru are shown.
+- Lumbar vertebral corpuri, intervertebral articulații, spinous și procese transverse,
+  SI articulații, și Sacru sunt vizualizat.
 - 14 × 17inch (35 × 43 cm)
 sid_dff: 100 cm
 slug: rx-coloana-lombara-ap-or-pa-projection-bontrager
@@ -61,24 +62,25 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: field size—approximately T11 to the distal Sacru included. 11 × 14inch
-    (35 × 43 cm) collimation field size—T12 to S1 included (Figs. 9.29 and 9.30).
-    Position no patient rotation indicated by SI joints equidistant from spinous processes,
-    spinous processes in midline of vertebral column, and transverse processes of
-    equal length. Open intervertebral joint spaces. Collimation field size to area
-    of interest. Exposure Optimal image receptor exposure and contrast. Clear demonstration
-    of bony margins and trabecular markings of lumbar vertebrae. no motion. Fig. 9.29
-    AP lumbar projection (centered for 14 × 17inch [35 × 43cm] IR). Ala (wing) of
-    Sacru Intervertebral joint (L3-4) Spinous process (L2) Transverse process (L1)
-    R. sacroiliac joint Fig. 9.30 AP lumbar projection.
+  collimation: field size—approximately T11 la distal Sacru included. 11 × 14inch
+    (35 × 43 cm) collimation field size—T12 la S1 included (Figs. 9.29 și 9.30). poziție
+    fără pacient rotație indicated prin SI articulații echidistant față de procese
+    spinoase, procese spinoase în midline de coloană vertebrală, și procese transverse
+    de equal length. Open intervertebral spații articulare. Collimation field size
+    la aria de interes diagnostic. expunere optim receptorul de imagine expunere și
+    contrast. Clear demonstration de bony margins și trabecular markings de coloană
+    lombară. fără mișcare. Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17inch
+    [35 × 43cm] receptorul de imagine). Ala (wing) de Sacru Intervertebral articulație
+    (L3-4) Spinous process (L2) Transverse process (L1) R. sacroiliac articulație
+    Fig. 9.30 AP lumbar incidență.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx Coloană Lombară AP (OR PA) PROJECTION
+title: Rx Coloană Lombară AP (OR PA) Incidență
 ---
-# Rx Coloană Lombară AP (OR PA) PROJECTION
+# Rx Coloană Lombară AP (OR PA) Incidență
 
 
 <div class="rx-meta-bar">
@@ -97,7 +99,7 @@ title: Rx Coloană Lombară AP (OR PA) PROJECTION
 
     === "Indicații Clinice"
 
-        - Pathology of the lumbar vertebrae, including suspiciune de fractură, scolioză / vicii de postură ale coloanei, and neoplastic processes
+        - Pathology de coloană lombară, including suspiciune de fractură, scolioză / vicii de postură ale coloanei, și neoplastic processes
 
     === "Ghid Național IRIS"
 
@@ -111,10 +113,10 @@ title: Rx Coloană Lombară AP (OR PA) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal Position Position patient Decubit Dorsal with arms at side and head on pillow (also may be done in Decubit Ventral or Ortostatism position; see NOTES).; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or grid (Fig. 9.28). Flex knees and hips to reduce lordotic curvature. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis) exists.
-    - **Punct de Centrare Fascicul:** to level of creasta iliacă (corespunzător L4-L5) (L4–L5). This larger IR will include lumbar vertebrae, Sacru, and possibly Coccis. Tighter collimation 11 × 14 inches (30 × 35 cm): Direct CR to level of L3, which may be localized by palpation of the lower costal margin (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This tighter collimation field size will include primarily the five lumbar vertebrae and SI joints. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Decubit dorsal poziție pacient Decubit dorsal cu brațe la side și cap pe pillow (also poate fie done în Decubit ventral sau Ortostatism poziție; see NOTES).; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau grilă (Fig. 9.28). Flex genunchi și hips la reduce lordotic curvature. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
+    - **Punct de Centrare Fascicul:** la level de creasta iliacă (corespunzător L4-L5) (L4–L5). This larger receptorul de imagine will include coloană lombară, Sacru, și possibly Coccis. Tighter collimation 11 × 14 inches (30 × 35 cm): Raza centrală se orientează spre level de L3, which poate fie localized prin palpation de lower costal margin (1.5 inches [4 cm] above creasta iliacă (corespunzător L4-L5)). This tighter collimation field size will include primarily five coloană lombară și SI articulații. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on expiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,14 +130,14 @@ title: Rx Coloană Lombară AP (OR PA) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size—approximately T11 to the distal Sacru included. 11 × 14inch (35 × 43 cm) collimation field size—T12 to S1 included (Figs. 9.29 and 9.30). Position no patient rotation indicated by SI joints equidistant from spinous processes, spinous processes in midline of vertebral column, and transverse processes of equal length. Open intervertebral joint spaces. Collimation field size to area of interest. Exposure Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of lumbar vertebrae. no motion. Fig. 9.29 AP lumbar projection (centered for 14 × 17inch [35 × 43cm] IR). Ala (wing) of Sacru Intervertebral joint (L3-4) Spinous process (L2) Transverse process (L1) R. sacroiliac joint Fig. 9.30 AP lumbar projection. |
+    | **Colimare Fascicul** | field size—approximately T11 la distal Sacru included. 11 × 14inch (35 × 43 cm) collimation field size—T12 la S1 included (Figs. 9.29 și 9.30). poziție fără pacient rotație indicated prin SI articulații echidistant față de procese spinoase, procese spinoase în midline de coloană vertebrală, și procese transverse de equal length. Open intervertebral spații articulare. Collimation field size la aria de interes diagnostic. expunere optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de coloană lombară. fără mișcare. Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17inch [35 × 43cm] receptorul de imagine). Ala (wing) de Sacru Intervertebral articulație (L3-4) Spinous process (L2) Transverse process (L1) R. sacroiliac articulație Fig. 9.30 AP lumbar incidență. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lumbar vertebral bodies, intervertebral joints, spinous and transverse processes, SI joints, and Sacru are shown.
+    - Lumbar vertebral corpuri, intervertebral articulații, spinous și procese transverse, SI articulații, și Sacru sunt vizualizat.
     - 14 × 17inch (35 × 43 cm)
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -149,7 +151,7 @@ title: Rx Coloană Lombară AP (OR PA) PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Partial flexion of knees as shown straightens the spine, which helps open intervertebral disk spaces. Radiograph may be done Decubit Ventral as a Incidență Postero-Anterioară (PA), which places the intervertebral spaces more closely parallel to the diverging rays. The Ortostatism position may be useful for demonstrating the natural weightbearing stance of the spine. 35 (30) (35) Coloană Lombară ROUTINE AP (or PA) Oblique—anterior or posterior Lateral Lateral L5–S1 Fig. 9.28 Incidență Antero-Posterioară (AP) (centered for 14 × 17inch [35 × 43cm] IR). Inset, Alternative Incidență Postero-Anterioară (PA).
+    S: Partial flexion de genunchi ca vizualizat straightens coloană vertebrală, which helps open intervertebral disk spaces. radiografie poate fie done Decubit ventral ca Incidență Postero-Anterioară (PA), which places intervertebral spaces more closely paralel cu diverging rays. Ortostatism poziție poate fie useful pentru evidențiind natural weightbearing stance de coloană vertebrală. 35 (30) (35) Coloană Lombară ROUTINE AP (sau PA) oblic—anterior sau posterior lateral lateral L5–S1 Fig. 9.28 Incidență Antero-Posterioară (AP) (centrat pentru 14 × 17inch [35 × 43cm] receptorul de imagine). Inset, Alternative Incidență Postero-Anterioară (PA).
 
 
 ### 🖼️ Imagini
@@ -158,25 +160,25 @@ title: Rx Coloană Lombară AP (OR PA) PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.28 Incidență Antero-Posterioară (AP) (centered for 14 × 17-](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_1.jpeg)
+![Fig. 9.28 Incidență Antero-Posterioară (AP) (centrat pentru 14 × 17-](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.28 Incidență Antero-Posterioară (AP) (centered for 14 × 17-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.28 AP projection (centered for 14 × 17-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.29 AP lumbar projection (centered for 14 × 17-](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.29 AP lumbar projection (centered for 14 × 17-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.29 AP lumbar projection (centered for 14 × 17-)</span></figcaption>
+<figcaption><strong>Fig. 9.28 Incidență Antero-Posterioară (AP) (centrat pentru 14 × 17-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.28 AP incidență (centrat pentru 14 × 17-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.30 AP lumbar projection.](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_3.jpeg)
+![Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17-](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.30 AP lumbar projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.30 AP lumbar projection.)</span></figcaption>
+<figcaption><strong>Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.29 AP lumbar incidență (centrat pentru 14 × 17-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.30 AP lumbar incidență.](../../assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.30 AP lumbar incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.30 AP lumbar incidență.)</span></figcaption>
 
 </figure>
 

@@ -1,28 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Umăr (Nontraumatism acut) ROUTINE
-  AP external rotation (AP) AP internal rotation (lateral) Fig. 5.43 Internal rotation—lateral.
+breathing: Apnee pe durata expunerii. Umăr (Nontraumatism acut) ROUTINE AP extern
+  rotație (AP) AP intern rotație (lateral) Fig. 5.43 intern rotație—lateral.
 category: membru-superior
-centering: perpendicular to IR, directed to 1 inch (2.5 cm) inferior to coracoid process
-  (see NOTE on p. 189)
+centering: perpendicular pe receptorul de imagine, orientat la 1 inch (2.5 cm) inferior
+  la proces coracoid (see NOTE pe p. 189)
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and
+- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și
   Umăr girdle
-- Calcium deposits in muscles, tendons, or bursal structures
-- Degenerative conditions, including osteoporosis and artroză / modificări degenerative
+- Calcium deposits în muscles, tendons, sau bursal structures
+- Degenerative conditions, including osteoporosis și artroză / modificări degenerative
   articulare
 images:
-- caption: Fig. 5.43 Internal rotation—lateral.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.43 Internal
-    rotation—lateral.)
+- caption: Fig. 5.43 intern rotație—lateral.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.43 intern rotație—lateral.)
   url: assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_1.jpeg
-- caption: Fig. 5.44 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 5.44 intern rotație—lateral. (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.44
-    Internal rotation—lateral. (Courtesy Joss Wertz, DO.))
+    intern rotație—lateral. (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_2.jpeg
-- caption: Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.45
-    Internal rotation—lateral. (Courtesy Joss Wertz, DO.))
+    intern rotație—lateral. (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -31,13 +30,13 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Perform radiograph with patient in an Ortostatism or Decubit Dorsal
-  position. (The Ortostatism position is usually less painful for patient, if condition
-  allows.) Rotate body slightly toward affected side, if necessary, to place Umăr
-  in contact with IR or tabletop (Fig. 5.43).; Regiune anatomică: Position patient
-  to center scapulohumeral joint to center of IR. Abduct extended arm slightly; internally
-  rotate arm (pronate Mână) until epicondyles of distal Humerus are perpendicular
-  to IR.'
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
+  poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition
+  allows.) Rotate corp slightly spre affected side, if necessary, la place Umăr în
+  contact cu receptorul de imagine sau tabletop (Fig. 5.43).; Regiune anatomică: poziție
+  pacient la center scapulohumeral articulație la center de receptorul de imagine.
+  Abduct extins braț slightly; internally rotate braț (pronate Mână) until epicondyles
+  de distal Humerus sunt perpendicular pe receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,20 +44,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral view of proximal Humerus and lateral twothirds of Claviculă and upper Omoplat
-  (Scapulă) are shown, including the relationship of the humeral head to the glenoid
-  cavity (Figs. 5.44 and 5.45). Position:'
-- Full internal rotation position is evidenced by lesser tubercle visualized in full
-  profile on the medial aspect of the humeral head.
-- An outline of the greater tubercle should be visualized superimposed over the humeral
-  head.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi
-  osoase și travee trabeculare nete, fără artefacte de mișcare with soft tissue detail
-  visible for possible calcium deposits. Fig. 5.44 Internal rotation—lateral. (Courtesy
-  Joss Wertz, DO.) Acromion Proximal Humerus Coracoid process Greater tubercle Scapulohumeral
-  joint Lesser tubercle Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz,
-  DO.)
+- 'lateral incidență de proximal Humerus și lateral twothirds de Claviculă și upper
+  Omoplat (Scapulă) sunt vizualizat, including relationship de cap humeral la cavitate
+  glenoidă (Figs. 5.44 și 5.45). poziție:'
+- Full intern rotație poziție este evidenced prin mică tuberozitate humerală (trohin)
+  visualized în full profile pe medial aspect de cap humeral.
+- outline de mare tuberozitate humerală (trohiter) trebuie să fie visualized superimposed
+  over cap humeral.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear,
+  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare cu părți
+  moi detail vizibil pentru possible calcium deposits. Fig. 5.44 intern rotație—lateral.
+  (Courtesy Joss Wertz, DO.) acromion proximal Humerus proces coracoid mare tuberozitate
+  humerală (trohiter) Scapulohumeral articulație mică tuberozitate humerală (trohin)
+  Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager
 sources:
@@ -66,8 +65,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides, with lateral and upper borders
-    adjusted to soft tissue margins.
+  collimation: Field Size Collimate pe four sides, cu lateral și upper margini ajustat
+    la părți moi margins.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -95,9 +94,9 @@ title: Rx INTERNAL ROTATION AP (Antero-Posterior) (Umăr (NONtraumatism acut) - 
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of proximal Humerus and Umăr girdle
-        - Calcium deposits in muscles, tendons, or bursal structures
-        - Degenerative conditions, including osteoporosis and artroză / modificări degenerative articulare
+        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus și Umăr girdle
+        - Calcium deposits în muscles, tendons, sau bursal structures
+        - Degenerative conditions, including osteoporosis și artroză / modificări degenerative articulare
 
     === "Ghid Național IRIS"
 
@@ -111,10 +110,10 @@ title: Rx INTERNAL ROTATION AP (Antero-Posterior) (Umăr (NONtraumatism acut) - 
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in an Ortostatism or Decubit Dorsal position. (The Ortostatism position is usually less painful for patient, if condition allows.) Rotate body slightly toward affected side, if necessary, to place Umăr in contact with IR or tabletop (Fig. 5.43).; Regiune anatomică: Position patient to center scapulohumeral joint to center of IR. Abduct extended arm slightly; internally rotate arm (pronate Mână) until epicondyles of distal Humerus are perpendicular to IR.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to 1 inch (2.5 cm) inferior to coracoid process (see NOTE on p. 189)
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition allows.) Rotate corp slightly spre affected side, if necessary, la place Umăr în contact cu receptorul de imagine sau tabletop (Fig. 5.43).; Regiune anatomică: poziție pacient la center scapulohumeral articulație la center de receptorul de imagine. Abduct extins braț slightly; internally rotate braț (pronate Mână) until epicondyles de distal Humerus sunt perpendicular pe receptorul de imagine.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la 1 inch (2.5 cm) inferior la proces coracoid (see NOTE pe p. 189)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Umăr (Nontraumatism acut) ROUTINE AP external rotation (AP) AP internal rotation (lateral) Fig. 5.43 Internal rotation—lateral.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Umăr (Nontraumatism acut) ROUTINE AP extern rotație (AP) AP intern rotație (lateral) Fig. 5.43 intern rotație—lateral.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,18 +127,18 @@ title: Rx INTERNAL ROTATION AP (Antero-Posterior) (Umăr (NONtraumatism acut) - 
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides, with lateral and upper borders adjusted to soft tissue margins. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides, cu lateral și upper margini ajustat la părți moi margins. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of proximal Humerus and lateral twothirds of Claviculă and upper Omoplat (Scapulă) are shown, including the relationship of the humeral head to the glenoid cavity (Figs. 5.44 and 5.45). Position:
-    - Full internal rotation position is evidenced by lesser tubercle visualized in full profile on the medial aspect of the humeral head.
-    - An outline of the greater tubercle should be visualized superimposed over the humeral head.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare with soft tissue detail visible for possible calcium deposits. Fig. 5.44 Internal rotation—lateral. (Courtesy Joss Wertz, DO.) Acromion Proximal Humerus Coracoid process Greater tubercle Scapulohumeral joint Lesser tubercle Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)
+    - lateral incidență de proximal Humerus și lateral twothirds de Claviculă și upper Omoplat (Scapulă) sunt vizualizat, including relationship de cap humeral la cavitate glenoidă (Figs. 5.44 și 5.45). poziție:
+    - Full intern rotație poziție este evidenced prin mică tuberozitate humerală (trohin) visualized în full profile pe medial aspect de cap humeral.
+    - outline de mare tuberozitate humerală (trohiter) trebuie să fie visualized superimposed over cap humeral.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare cu părți moi detail vizibil pentru possible calcium deposits. Fig. 5.44 intern rotație—lateral. (Courtesy Joss Wertz, DO.) acromion proximal Humerus proces coracoid mare tuberozitate humerală (trohiter) Scapulohumeral articulație mică tuberozitate humerală (trohin) Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,25 +158,25 @@ title: Rx INTERNAL ROTATION AP (Antero-Posterior) (Umăr (NONtraumatism acut) - 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.43 Internal rotation—lateral.](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_1.jpeg)
+![Fig. 5.43 intern rotație—lateral.](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.43 Internal rotation—lateral.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.43 Internal rotation—lateral.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.44 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.44 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.44 Internal rotation—lateral. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 5.43 intern rotație—lateral.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.43 intern rotație—lateral.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_3.jpeg)
+![Fig. 5.44 intern rotație—lateral. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.45 Internal rotation—lateral. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 5.44 intern rotație—lateral. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.44 intern rotație—lateral. (Courtesy Joss Wertz, DO.))</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-internal-rotation-ap-antero-posterior-umar-nontraumatism-acut-lateral-proximal-humerus-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.45 intern rotație—lateral. (Courtesy Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

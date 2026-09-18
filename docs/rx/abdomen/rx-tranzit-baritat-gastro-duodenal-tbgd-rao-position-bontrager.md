@@ -1,38 +1,42 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration. Tranzit Baritat Gastro-Duodenal
-  (TBGD) ROUTINE RAO PA Right lateral LPO AP Fig. 12.93 RAO position.
+breathing: Apnee la sfârșitul expirului pe durata expunerii. Tranzit Baritat Gastro-Duodenal
+  (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.93 poziție oblică anterioară
+  dreaptă (OAD / RAO).
 category: abdomen
 centering: 'Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic
-  body type: Center CR and IR to duodenal bulb at level of l1 (1 to 2 inches [2.5
-  to 5 cm] above lower lateral rib margin), midway between spine and upside lateral
-  border of Abdomen, 45° to 55° oblique Asthenic body type: Center about 2 inches
-  (5 cm) below level of L1, 40° oblique Hypersthenic body type: Center about 2 inches
-  (5 cm) above level of L1 and nearer midline, 70° oblique Center IR to CR'
+  corp type: Center raza centrală și receptorul de imagine la duodenal bulb la level
+  de l1 (1 la 2 inches [2.5 la 5 cm] above lower lateral rib margin), midway între
+  coloană vertebrală și upside lateral margine de Abdomen, 45° la 55° oblic Asthenic
+  corp type: Center about 2 inches (5 cm) below level de L1, 40° oblic Hypersthenic
+  corp type: Center about 2 inches (5 cm) above level de L1 și nearer midline, 70°
+  oblic Se centrează receptorul de imagine pe raza centrală'
 clinical_indications:
-- Ideal position for demonstrating polyps and ulcers of the pylorus, duodenal bulb,
-  and Cloop of the duodenum
+- Ideal poziție pentru evidențiind polyps și ulcers de pylorus, duodenal bulb, și
+  Cloop de duodenum
 images:
-- caption: Fig. 12.93 RAO position.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.93 RAO position.)
+- caption: Fig. 12.93 poziție oblică anterioară dreaptă (OAD / RAO).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.93 poziție
+    oblică anterioară dreaptă (OAD / RAO).)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_1.jpeg
-- caption: Fig. 12.94 RAO upper GI position.
+- caption: Fig. 12.94 RAO upper GI poziție.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.94
-    RAO upper GI position.)
+    RAO upper GI poziție.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_2.jpeg
-- caption: Fig. 12.95 RAO upper GI position.
+- caption: Fig. 12.95 RAO upper GI poziție.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.95
-    RAO upper GI position.)
+    RAO upper GI poziție.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Position patient Decubit, with body partially rotated into an
-  RAO position; provide a support for patient’s head and upper torso (Fig. 12.93).;
-  Regiune anatomică: From a Decubit Ventral position, rotate 40° to 70°, with right
-  anterior body against IR or table (more rotation is often required for hypersthenic
-  patients, and less is required for asthenic patients). Place right arm down and
-  left arm flexed at Cot and up by the patient’s head. Flex left Genunchi for support.'
+position: 'Pacient: poziție pacient Decubit, cu corp partially rotit into poziție
+  oblică anterioară dreaptă (OAD / RAO); provide support pentru pacient’s cap și upper
+  torso (Fig. 12.93).; Regiune anatomică: de la Decubit ventral poziție, rotate 40°
+  la 70°, cu drept anterior corp against receptorul de imagine sau table (more rotație
+  este often required pentru hypersthenic pacienți, și less este required pentru asthenic
+  pacienți). Place drept braț down și stâng braț flectat la Cot și up prin pacientul’s
+  cap. Flex stâng Genunchi pentru support.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,16 +44,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire stomach and Cloop of duodenum are visible (Figs. 12.94 and 12.95). Position:'
-- Duodenal bulb is in profile.
-- Proper collimation field size is applied.
-- 'CR is centered to level of L1, with body of stomach and Cloop centered on radiograph.
-  Exposure:'
-- Optimal image receptor exposure and contrast to visualize clearly the gastric folds
-  without overexposing other pertinent anatomy.
-- Sharp structural margins indicate no motion. L Fig. 12.94 RAO upper GI position.
-  Fundus (air-filled) L Pylorus (barium-filled) Small intestine (jejunum) Duodenal
-  bulb L1 Fig. 12.95 RAO upper GI position.
+- 'Entire stomach și Cloop de duodenum sunt vizibil (Figs. 12.94 și 12.95). poziție:'
+- Duodenal bulb este în profile.
+- corect collimation field size este applied.
+- 'raza centrală este centrat pe level de L1, cu corp de stomach și Cloop centrat
+  pe radiografie. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize clearly gastric folds
+  fără overexposing other pertinent anatomy.
+- net structural margins indicate fără mișcare. L Fig. 12.94 RAO upper GI poziție.
+  Fundus (air-filled) L Pylorus (barium-filled) intestin subțire (jejunum) Duodenal
+  bulb L1 Fig. 12.95 RAO upper GI poziție.
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager
 sources:
@@ -57,15 +61,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
+title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Anterioară Dreaptă (OAD /
+  RAO)
 ---
-# Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
+# Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Anterioară Dreaptă (OAD / RAO)
 
 
 <div class="rx-meta-bar">
@@ -84,7 +89,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
 
     === "Indicații Clinice"
 
-        - Ideal position for demonstrating polyps and ulcers of the pylorus, duodenal bulb, and Cloop of the duodenum
+        - Ideal poziție pentru evidențiind polyps și ulcers de pylorus, duodenal bulb, și Cloop de duodenum
 
     === "Ghid Național IRIS"
 
@@ -98,10 +103,10 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit, with body partially rotated into an RAO position; provide a support for patient’s head and upper torso (Fig. 12.93).; Regiune anatomică: From a Decubit Ventral position, rotate 40° to 70°, with right anterior body against IR or table (more rotation is often required for hypersthenic patients, and less is required for asthenic patients). Place right arm down and left arm flexed at Cot and up by the patient’s head. Flex left Genunchi for support.
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic body type: Center CR and IR to duodenal bulb at level of l1 (1 to 2 inches [2.5 to 5 cm] above lower lateral rib margin), midway between spine and upside lateral border of Abdomen, 45° to 55° oblique Asthenic body type: Center about 2 inches (5 cm) below level of L1, 40° oblique Hypersthenic body type: Center about 2 inches (5 cm) above level of L1 and nearer midline, 70° oblique Center IR to CR
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit, cu corp partially rotit into poziție oblică anterioară dreaptă (OAD / RAO); provide support pentru pacient’s cap și upper torso (Fig. 12.93).; Regiune anatomică: de la Decubit ventral poziție, rotate 40° la 70°, cu drept anterior corp against receptorul de imagine sau table (more rotație este often required pentru hypersthenic pacienți, și less este required pentru asthenic pacienți). Place drept braț down și stâng braț flectat la Cot și up prin pacientul’s cap. Flex stâng Genunchi pentru support.
+    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic corp type: Center raza centrală și receptorul de imagine la duodenal bulb la level de l1 (1 la 2 inches [2.5 la 5 cm] above lower lateral rib margin), midway între coloană vertebrală și upside lateral margine de Abdomen, 45° la 55° oblic Asthenic corp type: Center about 2 inches (5 cm) below level de L1, 40° oblic Hypersthenic corp type: Center about 2 inches (5 cm) above level de L1 și nearer midline, 70° oblic Se centrează receptorul de imagine pe raza centrală
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA Right lateral LPO AP Fig. 12.93 RAO position.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.93 poziție oblică anterioară dreaptă (OAD / RAO).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -115,19 +120,19 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomach and Cloop of duodenum are visible (Figs. 12.94 and 12.95). Position:
-    - Duodenal bulb is in profile.
-    - Proper collimation field size is applied.
-    - CR is centered to level of L1, with body of stomach and Cloop centered on radiograph. Exposure:
-    - Optimal image receptor exposure and contrast to visualize clearly the gastric folds without overexposing other pertinent anatomy.
-    - Sharp structural margins indicate no motion. L Fig. 12.94 RAO upper GI position. Fundus (air-filled) L Pylorus (barium-filled) Small intestine (jejunum) Duodenal bulb L1 Fig. 12.95 RAO upper GI position.
+    - Entire stomach și Cloop de duodenum sunt vizibil (Figs. 12.94 și 12.95). poziție:
+    - Duodenal bulb este în profile.
+    - corect collimation field size este applied.
+    - raza centrală este centrat pe level de L1, cu corp de stomach și Cloop centrat pe radiografie. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize clearly gastric folds fără overexposing other pertinent anatomy.
+    - net structural margins indicate fără mișcare. L Fig. 12.94 RAO upper GI poziție. Fundus (air-filled) L Pylorus (barium-filled) intestin subțire (jejunum) Duodenal bulb L1 Fig. 12.95 RAO upper GI poziție.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,25 +152,25 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) RAO POSITION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.93 RAO position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_1.jpeg)
+![Fig. 12.93 poziție oblică anterioară dreaptă (OAD / RAO).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.93 RAO position.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.93 RAO position.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 12.94 RAO upper GI position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 12.94 RAO upper GI position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.94 RAO upper GI position.)</span></figcaption>
+<figcaption><strong>Fig. 12.93 poziție oblică anterioară dreaptă (OAD / RAO).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.93 poziție oblică anterioară dreaptă (OAD / RAO).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.95 RAO upper GI position.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_3.jpeg)
+![Fig. 12.94 RAO upper GI poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.95 RAO upper GI position.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.95 RAO upper GI position.)</span></figcaption>
+<figcaption><strong>Fig. 12.94 RAO upper GI poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.94 RAO upper GI poziție.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 12.95 RAO upper GI poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-rao-position-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 12.95 RAO upper GI poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.95 RAO upper GI poziție.)</span></figcaption>
 
 </figure>
 

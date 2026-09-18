@@ -4,34 +4,37 @@ breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
 centering: Fig. 4.63 AP axial projectionmodified Robert method.
 clinical_indications:
-- Base of first metacarpal is demonstrated for ruling out Bennett suspiciune de fractură.
-- This special projection demonstrates suspiciune de fractură, luxație / subluxație
-  articulară, or pathology of the base of the first metacarpal and trapezium
+- Base de first metacarpal este evidențiat pentru ruling out Bennett suspiciune de
+  fractură.
+- This incidență specială complementară evidențiază suspiciune de fractură, luxație
+  / subluxație articulară, sau pathology de base de first metacarpal și trapezium
 images:
-- caption: Fig. 4.61 Incidență AP Axială—Lewis modiﬁcation, CR 10° to15° to
+- caption: Fig. 4.61 Incidență AP Axială—Lewis modification, raza centrală 10° to15°
+    la
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.61 AP axial
-    projection—Lewis modiﬁcation, CR 10° to15° to)
+    incidență—Lewis modification, raza centrală 10° to15° la)
   url: assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_1.jpeg
 - caption: Fig. 4.62 Incidență AP Axială—Lewis
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.62
-    AP axial projection—Lewis)
+    AP axial incidență—Lewis)
   url: assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_2.jpeg
 - caption: Fig. 4.63 Incidență AP Axială—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.63
-    AP axial projection—)
+    AP axial incidență—)
   url: assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This projection was first described by P. Roberts in 1936 to demonstrate the
-  first CMC joint with the use of a perpendicular CR.7 The projection was later modified
-  to include 15° proximal CR angle to the first CMC joint. The Lewis modification
-  centers the CR to the first MCP joint with a 10° to 15° proximal angle8 (Fig. 4.61).
-  Police SPECIAL AP axial, modified Robert method Fig. 4.61 Incidență AP Axială—Lewis
-  modification, CR 10° to15° to MCP joint.
-position: 'Pacient: Seat patient parallel to end of table, with Mână and arm fully
-  extended.; Regiune anatomică: Rotate arm internally until posterior aspect of Police
-  rests on IR. Place Police in center of IR, parallel to side border of IR. Extend
-  Degete Mână.'
+notes: This incidență was first described prin P. Roberts în 1936 la evidențiază first
+  articulații carpometacarpiene (CMC) cu use de perpendicular raza centrală.7 incidență
+  was later modified la include 15° proximal raza centrală angle la first articulații
+  carpometacarpiene (CMC). Lewis modification centers raza centrală la first articulații
+  metacarpofalangiene (MCF) cu a 10° la 15° proximal angle8 (Fig. 4.61). Police SPECIAL
+  AP axial, modified Robert method Fig. 4.61 Incidență AP Axială—Lewis modification,
+  raza centrală 10° to15° la articulații metacarpofalangiene (MCF).
+position: 'Pacient: Seat pacient paralel la end de table, cu Mână și braț fully extins.;
+  Regiune anatomică: Rotate braț internally until posterior aspect de Police rests
+  pe receptorul de imagine. Place Police în center de receptorul de imagine, paralel
+  la side margine de receptorul de imagine. Extend Degete Mână.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,19 +42,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- An Incidență Antero-Posterioară (AP) of the Police and first CMC joint are visible
-  without superimposition.
-- 'Base of first metacarpal and trapezium should be well visualized (Figs. 4.62 and
-  4.63). Position:'
-- Long axis of the Police should be aligned with side border of IR.
+- Incidență Antero-Posterioară (AP) de Police și first articulații carpometacarpiene
+  (CMC) sunt vizibil fără superimposition.
+- 'Base de first metacarpal și trapezium trebuie să fie well visualized (Figs. 4.62
+  și 4.63). poziție:'
+- axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul
+  de imagine.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
-  as evidenced by the symmetric appearance of both concave sides of the phalanges
-  and by the equal amounts of soft tissue that appear on each side of the phalanges.'
-- First CMC and MCP joints should appear open.
-- 'CR and center of collimation field size should be at first CMC joint. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate soft tissue
-  margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de
-  mișcare. Fig. 4.62 Incidență AP Axială—Lewis modification.
+  ca evidenced prin simetric appearance de ambele concave sides de falange și prin
+  equal amounts de părți moi that appear pe fiecare side de falange.'
+- First CMC și articulații metacarpofalangiene (MCF) trebuie să appear open.
+- 'raza centrală și center de collimation field size trebuie să fie la first articulații
+  carpometacarpiene (CMC). expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
+  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+  de mișcare. Fig. 4.62 Incidență AP Axială—Lewis modification.
 sid_dff: 100 cm
 slug: rx-police-ap-axiala-modified-robert-method-6-bontrager
 sources:
@@ -59,8 +64,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to area of Police and first CMC
-    joint.
+  collimation: Field Size Collimate pe four sides la area de Police și first articulații
+    carpometacarpiene (CMC).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -87,8 +92,8 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 
     === "Indicații Clinice"
 
-        - Base of first metacarpal is demonstrated for ruling out Bennett suspiciune de fractură.
-        - This special projection demonstrates suspiciune de fractură, luxație / subluxație articulară, or pathology of the base of the first metacarpal and trapezium
+        - Base de first metacarpal este evidențiat pentru ruling out Bennett suspiciune de fractură.
+        - This incidență specială complementară evidențiază suspiciune de fractură, luxație / subluxație articulară, sau pathology de base de first metacarpal și trapezium
 
     === "Ghid Național IRIS"
 
@@ -102,7 +107,7 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient parallel to end of table, with Mână and arm fully extended.; Regiune anatomică: Rotate arm internally until posterior aspect of Police rests on IR. Place Police in center of IR, parallel to side border of IR. Extend Degete Mână.
+    - **Poziție Pacient:** Pacient: Seat pacient paralel la end de table, cu Mână și braț fully extins.; Regiune anatomică: Rotate braț internally until posterior aspect de Police rests pe receptorul de imagine. Place Police în center de receptorul de imagine, paralel la side margine de receptorul de imagine. Extend Degete Mână.
     - **Punct de Centrare Fascicul:** Fig. 4.63 AP axial projectionmodified Robert method.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
@@ -119,20 +124,20 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to area of Police and first CMC joint. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la area de Police și first articulații carpometacarpiene (CMC). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - An Incidență Antero-Posterioară (AP) of the Police and first CMC joint are visible without superimposition.
-    - Base of first metacarpal and trapezium should be well visualized (Figs. 4.62 and 4.63). Position:
-    - Long axis of the Police should be aligned with side border of IR.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, as evidenced by the symmetric appearance of both concave sides of the phalanges and by the equal amounts of soft tissue that appear on each side of the phalanges.
-    - First CMC and MCP joints should appear open.
-    - CR and center of collimation field size should be at first CMC joint. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate soft tissue margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.62 Incidență AP Axială—Lewis modification.
+    - Incidență Antero-Posterioară (AP) de Police și first articulații carpometacarpiene (CMC) sunt vizibil fără superimposition.
+    - Base de first metacarpal și trapezium trebuie să fie well visualized (Figs. 4.62 și 4.63). poziție:
+    - axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul de imagine.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, ca evidenced prin simetric appearance de ambele concave sides de falange și prin equal amounts de părți moi that appear pe fiecare side de falange.
+    - First CMC și articulații metacarpofalangiene (MCF) trebuie să appear open.
+    - raza centrală și center de collimation field size trebuie să fie la first articulații carpometacarpiene (CMC). expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.62 Incidență AP Axială—Lewis modification.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,7 +150,7 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This projection was first described by P. Roberts in 1936 to demonstrate the first CMC joint with the use of a perpendicular CR.7 The projection was later modified to include 15° proximal CR angle to the first CMC joint. The Lewis modification centers the CR to the first MCP joint with a 10° to 15° proximal angle8 (Fig. 4.61). Police SPECIAL AP axial, modified Robert method Fig. 4.61 Incidență AP Axială—Lewis modification, CR 10° to15° to MCP joint.
+    This incidență was first described prin P. Roberts în 1936 la evidențiază first articulații carpometacarpiene (CMC) cu use de perpendicular raza centrală.7 incidență was later modified la include 15° proximal raza centrală angle la first articulații carpometacarpiene (CMC). Lewis modification centers raza centrală la first articulații metacarpofalangiene (MCF) cu a 10° la 15° proximal angle8 (Fig. 4.61). Police SPECIAL AP axial, modified Robert method Fig. 4.61 Incidență AP Axială—Lewis modification, raza centrală 10° to15° la articulații metacarpofalangiene (MCF).
 
 
 ### 🖼️ Imagini
@@ -154,9 +159,9 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.61 Incidență AP Axială—Lewis modiﬁcation, CR 10° to15° to](../../assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_1.jpeg)
+![Fig. 4.61 Incidență AP Axială—Lewis modification, raza centrală 10° to15° la](../../assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.61 Incidență AP Axială—Lewis modiﬁcation, CR 10° to15° to</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.61 AP axial projection—Lewis modiﬁcation, CR 10° to15° to)</span></figcaption>
+<figcaption><strong>Fig. 4.61 Incidență AP Axială—Lewis modification, raza centrală 10° to15° la</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.61 AP axial incidență—Lewis modification, raza centrală 10° to15° la)</span></figcaption>
 
 </figure>
 
@@ -164,7 +169,7 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 
 ![Fig. 4.62 Incidență AP Axială—Lewis](../../assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.62 Incidență AP Axială—Lewis</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.62 AP axial projection—Lewis)</span></figcaption>
+<figcaption><strong>Fig. 4.62 Incidență AP Axială—Lewis</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.62 AP axial incidență—Lewis)</span></figcaption>
 
 </figure>
 
@@ -172,7 +177,7 @@ title: Rx Police AP Axială (MODIFIED ROBERT METHOD)6
 
 ![Fig. 4.63 Incidență AP Axială—](../../assets/images/protocols/bontrager/rx-police-ap-axiala-modified-robert-method-6-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.63 Incidență AP Axială—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.63 AP axial projection—)</span></figcaption>
+<figcaption><strong>Fig. 4.63 Incidență AP Axială—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.63 AP axial incidență—)</span></figcaption>
 
 </figure>
 

@@ -2,30 +2,31 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: craniu-saf
-centering: perpendicular to IR, centered midway between glabella and occipital protuberance
-  or inion, 2 inches (5 cm) above external acoustic meatus IR centered to CR
+centering: perpendicular pe receptorul de imagine, centrat midway între glabelă și
+  occipital protuberance sau inion, 2 inches (5 cm) above conduct auditiv extern (CAE)
+  receptorul de imagine centrat pe raza centrală
 clinical_indications:
-- are the same as shown for Incidență Antero-Posterioară (AP) on preceding page
+- sunt same ca vizualizat pentru Incidență Antero-Posterioară (AP) pe preceding page
 images:
-- caption: Fig. 16.56 Lateral Craniu.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.56 Lateral
+- caption: Fig. 16.56 lateral Craniu.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.56 lateral
     skull.)
   url: assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 16.57 Horizontal beam lateral with Tam-
+- caption: Fig. 16.57 orizontal fascicul lateral cu Tam-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.57
-    Horizontal beam lateral with Tam-)
+    orizontal fascicul lateral cu Tam-)
   url: assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 16.58 Lateral Craniu. (Case courtesy Dr. Ian Bickle,
+- caption: Fig. 16.58 lateral Craniu. (Case courtesy Dr. Ian Bickle,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.58
-    Lateral skull. (Case courtesy Dr. Ian Bickle,)
+    lateral skull. (Case courtesy Dr. Ian Bickle,)
   url: assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Immobilization techniques should be used when necessary. Patient
-  is in semiprone position, centered to midline of table.; Regiune anatomică: Rotate
-  head into true Incidență de Profil (Lateral), and maintain position by placing a
-  sponge or folded towel under Mandibulă (Figs. 16.56 and 16.57).'
+position: 'Pacient: imobilizare techniques trebuie să fie used when necessary. pacient
+  este în semiprone poziție, centrat pe linia mediană mesei.; Regiune anatomică: Rotate
+  cap into true Incidență de Profil (lateral), și maintain poziție prin placing sponge
+  sau folded towel under Mandibulă (Figs. 16.56 și 16.57).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -33,16 +34,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Craniu is demonstrated (Fig. 16.58). POSITION:'
+- 'Entire Craniu este evidențiat (Fig. 16.58). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is evidenced by superimposed rami of Mandibulă, orbital roofs, and greater and lesser
-  wings of sphenoid.'
-- Sella turcica and clivus are demonstrated in profile without rotation.
-- 'Collimation field size to area of interest. Exposure:'
-- No motion, as evidenced by sharp margins of bony structures.
-- 'Penetration and exposure are sufficient to visualize parietal region and lateral
-  view outline of sella turcica without overexposing perimeter margins of Craniu.
-  Fig. 16.57 Horizontal beam lateral with Tamem board. RT Fig. 16.58 Lateral Craniu.
+  este evidenced prin superimposed rami de Mandibulă, orbital roofs, și greater și
+  lesser wings de sphenoid.'
+- șa turcească și clivus sunt evidențiat în profile fără rotație.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- fără mișcare, ca evidenced prin net margins de bony structures.
+- 'Penetration și expunere sunt sufficient la visualize parietal region și lateral
+  incidență outline de șa turcească fără overexposing perimeter margins de Craniu.
+  Fig. 16.57 orizontal fascicul lateral cu Tamem board. RT Fig. 16.58 lateral Craniu.
   (Case courtesy Dr. Ian Bickle, Radiopaedia.org, rID: 46692.)'
 sid_dff: 100 cm
 slug: rx-craniu-head-profil-lateral-bontrager
@@ -51,8 +52,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate closely on four sides to outer margins of Craniu.
-    Fig. 16.56 Lateral Craniu. Craniu (Head) ROUTINE AP AP Caldwell AP Towne Lateral
+  collimation: Field Size Collimate closely pe four sides la outer margins de Craniu.
+    Fig. 16.56 lateral Craniu. Craniu (cap) ROUTINE AP AP Caldwell AP Towne lateral
     24 (30) (24)
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
@@ -80,7 +81,7 @@ title: Rx Craniu (HEAD) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - are the same as shown for Incidență Antero-Posterioară (AP) on preceding page
+        - sunt same ca vizualizat pentru Incidență Antero-Posterioară (AP) pe preceding page
 
     === "Ghid Național IRIS"
 
@@ -94,8 +95,8 @@ title: Rx Craniu (HEAD) Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Immobilization techniques should be used when necessary. Patient is in semiprone position, centered to midline of table.; Regiune anatomică: Rotate head into true Incidență de Profil (Lateral), and maintain position by placing a sponge or folded towel under Mandibulă (Figs. 16.56 and 16.57).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered midway between glabella and occipital protuberance or inion, 2 inches (5 cm) above external acoustic meatus IR centered to CR
+    - **Poziție Pacient:** Pacient: imobilizare techniques trebuie să fie used when necessary. pacient este în semiprone poziție, centrat pe linia mediană mesei.; Regiune anatomică: Rotate cap into true Incidență de Profil (lateral), și maintain poziție prin placing sponge sau folded towel under Mandibulă (Figs. 16.56 și 16.57).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat midway între glabelă și occipital protuberance sau inion, 2 inches (5 cm) above conduct auditiv extern (CAE) receptorul de imagine centrat pe raza centrală
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -111,19 +112,19 @@ title: Rx Craniu (HEAD) Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate closely on four sides to outer margins of Craniu. Fig. 16.56 Lateral Craniu. Craniu (Head) ROUTINE AP AP Caldwell AP Towne Lateral 24 (30) (24) |
+    | **Colimare Fascicul** | Field Size Collimate closely pe four sides la outer margins de Craniu. Fig. 16.56 lateral Craniu. Craniu (cap) ROUTINE AP AP Caldwell AP Towne lateral 24 (30) (24) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Craniu is demonstrated (Fig. 16.58). POSITION:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evidenced by superimposed rami of Mandibulă, orbital roofs, and greater and lesser wings of sphenoid.
-    - Sella turcica and clivus are demonstrated in profile without rotation.
-    - Collimation field size to area of interest. Exposure:
-    - No motion, as evidenced by sharp margins of bony structures.
-    - Penetration and exposure are sufficient to visualize parietal region and lateral view outline of sella turcica without overexposing perimeter margins of Craniu. Fig. 16.57 Horizontal beam lateral with Tamem board. RT Fig. 16.58 Lateral Craniu. (Case courtesy Dr. Ian Bickle, Radiopaedia.org, rID: 46692.)
+    - Entire Craniu este evidențiat (Fig. 16.58). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin superimposed rami de Mandibulă, orbital roofs, și greater și lesser wings de sphenoid.
+    - șa turcească și clivus sunt evidențiat în profile fără rotație.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - fără mișcare, ca evidenced prin net margins de bony structures.
+    - Penetration și expunere sunt sufficient la visualize parietal region și lateral incidență outline de șa turcească fără overexposing perimeter margins de Craniu. Fig. 16.57 orizontal fascicul lateral cu Tamem board. RT Fig. 16.58 lateral Craniu. (Case courtesy Dr. Ian Bickle, Radiopaedia.org, rID: 46692.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,25 +144,25 @@ title: Rx Craniu (HEAD) Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.56 Lateral Craniu.](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 16.56 lateral Craniu.](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 16.56 Lateral Craniu.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.56 Lateral skull.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 16.57 Horizontal beam lateral with Tam-](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 16.57 Horizontal beam lateral with Tam-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.57 Horizontal beam lateral with Tam-)</span></figcaption>
+<figcaption><strong>Fig. 16.56 lateral Craniu.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.56 lateral skull.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.58 Lateral Craniu. (Case courtesy Dr. Ian Bickle,](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 16.57 orizontal fascicul lateral cu Tam-](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 16.58 Lateral Craniu. (Case courtesy Dr. Ian Bickle,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.58 Lateral skull. (Case courtesy Dr. Ian Bickle,)</span></figcaption>
+<figcaption><strong>Fig. 16.57 orizontal fascicul lateral cu Tam-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.57 orizontal fascicul lateral cu Tam-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 16.58 lateral Craniu. (Case courtesy Dr. Ian Bickle,](../../assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 16.58 lateral Craniu. (Case courtesy Dr. Ian Bickle,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.58 lateral skull. (Case courtesy Dr. Ian Bickle,)</span></figcaption>
 
 </figure>
 

@@ -2,48 +2,51 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to midelbow joint, which is approximately
-  ¾ inch (2 cm) distal to midpoint of a line between epicondyles
+centering: perpendicular pe receptorul de imagine, orientat la midelbow articulație,
+  which este approximately ¾ inch (2 cm) distal la midpoint de line între epicondyles
 clinical_indications:
-- suspiciune de fractură and luxație / subluxație articulară of the Cot
-- Pathologic processes, such as osteomielită / leziuni inflamatorii osoase and arthritis
+- suspiciune de fractură și luxație / subluxație articulară de Cot
+- Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
 images:
-- caption: Fig. 4.125 AP Cot (partially ﬂexed); Humerus parallel to IR.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.125 AP elbow
-    (partially ﬂexed); humerus parallel to IR.)
+- caption: Fig. 4.125 AP Cot (partially flectat); Humerus paralel cu receptorul de
+    imagine.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.125 AP cot (partially
+    flectat); humerus paralel cu receptorul de imagine.)
   url: assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_1.jpeg
-- caption: Fig. 4.126 AP Cot (partially ﬂexed); Antebraț parallel to IR.
+- caption: Fig. 4.126 AP Cot (partially flectat); Antebraț paralel cu receptorul de
+    imagine.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.126
-    AP elbow (partially ﬂexed); forearm parallel to IR.)
+    AP cot (partially flectat); forearm paralel cu receptorul de imagine.)
   url: assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_2.jpeg
-- caption: Fig. 4.127 Humerus parallel.
+- caption: Fig. 4.127 Humerus paralel.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.127
-    Humerus parallel.)
+    Humerus paralel.)
   url: assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_3.jpeg
-- caption: Fig. 4.128 Antebraț parallel.
+- caption: Fig. 4.128 Antebraț paralel.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.128
-    Forearm parallel.)
+    Forearm paralel.)
   url: assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Structures in Cot joint region are partially obscured and slightly distorted,
-  depending on amount of Cot flexion possible. Position: Long axis of arm should be
-  aligned with side border of IR. Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase is evidenced by the epicondyles seen in profile
-  and radial head and neck separated or only slightly superimposed over ulna on Antebraț
-  parallel projection. CR and center of collimation field size should be to the midelbow
-  joint. Exposure: Optimal image receptor exposure and contrast with no motion should
-  visualize soft tissue detail; sharp, bony cortical margins; and clear, bony trabecular
-  markings. Distal Humerus, including epicondyles, should be demonstrated with sufficient
-  density on “Humerus parallel” projection. On “Antebraț parallel” projection, proximal
-  radius and ulna should be well visualized with density to allow visualization of
-  both soft tissue and bony detail. Fig. 4.127 Humerus parallel. Fig. 4.128 Antebraț
-  parallel.'
-position: 'Pacient: Seat patient at end of table, with Cot partially flexed.; Regiune
-  anatomică: Obtain two AP projections—one with Antebraț parallel to IR and one with
-  Humerus parallel to IR (Figs. 4.125 and 4.126). Place support under Pumn (Articulație
-  Radiocarpiană) and Antebraț for projection with Humerus parallel to IR, if needed,
-  to prevent motion.'
+notes: 'Structures în Cot articulație region sunt partially obscured și slightly distorted,
+  depending pe amount de Cot flexion possible. poziție: axa longitudinală de braț
+  trebuie să fie aliniat cu side margine de receptorul de imagine. Absența rotației
+  anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced
+  prin epicondyles seen în profile și cap radial și neck separated sau only slightly
+  superimposed over ulna pe Antebraț paralel incidență. raza centrală și center de
+  collimation field size trebuie să fie la midelbow articulație. expunere: optim receptorul
+  de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi detail;
+  net, bony cortical margins; și clear, bony trabecular markings. distal Humerus,
+  including epicondyles, trebuie să fie evidențiat cu sufficient densitate optică
+  pe “Humerus paralel” incidență. pe “Antebraț paralel” incidență, proximal radius
+  și ulna trebuie să fie well visualized cu densitate optică la allow visualization
+  de ambele părți moi și bony detail. Fig. 4.127 Humerus paralel. Fig. 4.128 Antebraț
+  paralel.'
+position: 'Pacient: Seat pacient la end de table, cu Cot partially flectat.; Regiune
+  anatomică: Obtain two AP incidențe—one cu Antebraț paralel cu receptorul de imagine
+  și one cu Humerus paralel cu receptorul de imagine (Figs. 4.125 și 4.126). Place
+  support under Pumn (Articulație Radiocarpiană) și Antebraț pentru incidență cu Humerus
+  paralel cu receptorul de imagine, if needed, la prevent mișcare.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,9 +54,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal Humerus is best visualized on “Humerus parallel” projection, and proximal
-  radius and ulna are best visualized on “Antebraț parallel” projection (Figs. 4.127
-  and 4.128).
+- distal Humerus este best visualized pe “Humerus paralel” incidență, și proximal
+  radius și ulna sunt best visualized pe “Antebraț paralel” incidență (Figs. 4.127
+  și 4.128).
 sid_dff: 100 cm
 slug: rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager
 sources:
@@ -61,7 +64,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to anatomy of interest.
+  collimation: Field Size Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -89,8 +92,8 @@ title: Rx ALTERNATE PARTIAL FLEXION AP (Antero-Posterior) (Cot - WHEN Cot CANNOT
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and luxație / subluxație articulară of the Cot
-        - Pathologic processes, such as osteomielită / leziuni inflamatorii osoase and arthritis
+        - suspiciune de fractură și luxație / subluxație articulară de Cot
+        - Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
 
     === "Ghid Național IRIS"
 
@@ -104,8 +107,8 @@ title: Rx ALTERNATE PARTIAL FLEXION AP (Antero-Posterior) (Cot - WHEN Cot CANNOT
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with Cot partially flexed.; Regiune anatomică: Obtain two AP projections—one with Antebraț parallel to IR and one with Humerus parallel to IR (Figs. 4.125 and 4.126). Place support under Pumn (Articulație Radiocarpiană) and Antebraț for projection with Humerus parallel to IR, if needed, to prevent motion.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to midelbow joint, which is approximately ¾ inch (2 cm) distal to midpoint of a line between epicondyles
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot partially flectat.; Regiune anatomică: Obtain two AP incidențe—one cu Antebraț paralel cu receptorul de imagine și one cu Humerus paralel cu receptorul de imagine (Figs. 4.125 și 4.126). Place support under Pumn (Articulație Radiocarpiană) și Antebraț pentru incidență cu Humerus paralel cu receptorul de imagine, if needed, la prevent mișcare.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midelbow articulație, which este approximately ¾ inch (2 cm) distal la midpoint de line între epicondyles
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -121,14 +124,14 @@ title: Rx ALTERNATE PARTIAL FLEXION AP (Antero-Posterior) (Cot - WHEN Cot CANNOT
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal Humerus is best visualized on “Humerus parallel” projection, and proximal radius and ulna are best visualized on “Antebraț parallel” projection (Figs. 4.127 and 4.128).
+    - distal Humerus este best visualized pe “Humerus paralel” incidență, și proximal radius și ulna sunt best visualized pe “Antebraț paralel” incidență (Figs. 4.127 și 4.128).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -141,7 +144,7 @@ title: Rx ALTERNATE PARTIAL FLEXION AP (Antero-Posterior) (Cot - WHEN Cot CANNOT
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Structures in Cot joint region are partially obscured and slightly distorted, depending on amount of Cot flexion possible. Position: Long axis of arm should be aligned with side border of IR. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evidenced by the epicondyles seen in profile and radial head and neck separated or only slightly superimposed over ulna on Antebraț parallel projection. CR and center of collimation field size should be to the midelbow joint. Exposure: Optimal image receptor exposure and contrast with no motion should visualize soft tissue detail; sharp, bony cortical margins; and clear, bony trabecular markings. Distal Humerus, including epicondyles, should be demonstrated with sufficient density on “Humerus parallel” projection. On “Antebraț parallel” projection, proximal radius and ulna should be well visualized with density to allow visualization of both soft tissue and bony detail. Fig. 4.127 Humerus parallel. Fig. 4.128 Antebraț parallel.
+    Structures în Cot articulație region sunt partially obscured și slightly distorted, depending pe amount de Cot flexion possible. poziție: axa longitudinală de braț trebuie să fie aliniat cu side margine de receptorul de imagine. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin epicondyles seen în profile și cap radial și neck separated sau only slightly superimposed over ulna pe Antebraț paralel incidență. raza centrală și center de collimation field size trebuie să fie la midelbow articulație. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi detail; net, bony cortical margins; și clear, bony trabecular markings. distal Humerus, including epicondyles, trebuie să fie evidențiat cu sufficient densitate optică pe “Humerus paralel” incidență. pe “Antebraț paralel” incidență, proximal radius și ulna trebuie să fie well visualized cu densitate optică la allow visualization de ambele părți moi și bony detail. Fig. 4.127 Humerus paralel. Fig. 4.128 Antebraț paralel.
 
 
 ### 🖼️ Imagini
@@ -150,33 +153,33 @@ title: Rx ALTERNATE PARTIAL FLEXION AP (Antero-Posterior) (Cot - WHEN Cot CANNOT
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.125 AP Cot (partially ﬂexed); Humerus parallel to IR.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_1.jpeg)
+![Fig. 4.125 AP Cot (partially flectat); Humerus paralel cu receptorul de imagine.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.125 AP Cot (partially ﬂexed); Humerus parallel to IR.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.125 AP elbow (partially ﬂexed); humerus parallel to IR.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.126 AP Cot (partially ﬂexed); Antebraț parallel to IR.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.126 AP Cot (partially ﬂexed); Antebraț parallel to IR.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.126 AP elbow (partially ﬂexed); forearm parallel to IR.)</span></figcaption>
+<figcaption><strong>Fig. 4.125 AP Cot (partially flectat); Humerus paralel cu receptorul de imagine.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.125 AP cot (partially flectat); humerus paralel cu receptorul de imagine.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.127 Humerus parallel.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_3.jpeg)
+![Fig. 4.126 AP Cot (partially flectat); Antebraț paralel cu receptorul de imagine.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.127 Humerus parallel.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.127 Humerus parallel.)</span></figcaption>
+<figcaption><strong>Fig. 4.126 AP Cot (partially flectat); Antebraț paralel cu receptorul de imagine.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.126 AP cot (partially flectat); forearm paralel cu receptorul de imagine.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.128 Antebraț parallel.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_4.jpeg)
+![Fig. 4.127 Humerus paralel.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.128 Antebraț parallel.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.128 Forearm parallel.)</span></figcaption>
+<figcaption><strong>Fig. 4.127 Humerus paralel.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.127 Humerus paralel.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.128 Antebraț paralel.](../../assets/images/protocols/bontrager/rx-alternate-partial-flexion-ap-antero-posterior-cot-when-cot-cannot-be-fully-extended-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.128 Antebraț paralel.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.128 Forearm paralel.)</span></figcaption>
 
 </figure>
 

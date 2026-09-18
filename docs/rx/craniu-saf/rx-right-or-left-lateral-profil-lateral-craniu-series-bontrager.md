@@ -1,46 +1,48 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
 centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center
-  to a point 2 inches (5 cm) superior to EAM or halfway between the glabella and the
-  inion for other types of Craniu morphologies. Center IR to CR.
+  la point 2 inches (5 cm) superior la conduct auditiv extern (CAE) sau halfway între
+  glabelă și inion pentru other types de Craniu morphologies. Se centrează receptorul
+  de imagine pe raza centrală.
 clinical_indications:
-- Craniu suspiciune de fractură, neoplastic processes, and Paget disease traumatism
-  acuttism / Regim Urgență Routine A horizontal beam projection is required to obtain
-  a lateral perspective for traumatism acuttism / Regim Urgență patients. This may
-  demonstrate airfluid levels in the sphenoid sinus—a sign of a basal Craniu suspiciune
-  de fractură if intracranial bleeding occurs. See Chapter 15 for details on traumatism
-  acuttism / Regim Urgență Craniu projections.
+- Craniu suspiciune de fractură, neoplastic processes, și Paget disease traumatism
+  acuttism / Regim Urgență Routine orizontal fascicul incidență este required la obtain
+  lateral perspective pentru traumatism acuttism / Regim Urgență pacienți. This poate
+  evidențiază airfluid levels în sinusuri sfenoidale—sign de basal Craniu suspiciune
+  de fractură if intracranial bleeding occurs. See Chapter 15 pentru details pe traumatism
+  acuttism / Regim Urgență Craniu incidențe.
 images:
-- caption: Fig. 11.110 Lateral Craniu—Ortostatism and Decubit (inset).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 Lateral
-    skull—erect and recumbent (inset).)
+- caption: Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 lateral
+    skull—în ortostatism și recumbent (inset).)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg
-- caption: Fig. 11.111 Lateral.
+- caption: Fig. 11.111 lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111
-    Lateral.)
+    lateral.)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg
-- caption: Fig. 11.112 Lateral.
+- caption: Fig. 11.112 lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112
-    Lateral.)
+    lateral.)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: For patients in the Decubit position, a radiolucent support placed under the
-  chin helps in maintaining a true Incidență de Profil (Lateral). A patient with a
-  broad Torace may require a radiolucent sponge under the entire head to prevent tilt,
-  and a thin patient may require support under the upper thorax. Fig. 11.110 Lateral
-  Craniu—Ortostatism and Decubit (inset).
-position: 'Pacient: Remove all metal, plastic, or other removable objects from the
-  patient’s head. Take radiograph with patient in the Ortostatism or Decubit semiprone
-  position.; Regiune anatomică: Place the head in a true Incidență de Profil (Lateral),
-  with the side of interest closest to IR and the patient’s body in a semiprone or
-  Ortostatism position as needed for comfort. Align MsP parallel to IR, ensuring Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or
-  tilt. Align iPl perpendicular to IR, ensuring no tilt of head (Fig. 11.110) (see
-  NOTE). Adjust neck flexion to align ioMl perpendicular to front edge of IR. (GAL
-  is parallel to front edge of IR.)'
+notes: pentru pacienți în Decubit poziție, radiolucent support plasat under bărbia
+  helps în maintaining true Incidență de Profil (lateral). pacient cu broad Torace
+  poate require radiolucent sponge under entire cap la prevent tilt, și thin pacient
+  poate require support under upper thorax. Fig. 11.110 lateral Craniu—Ortostatism
+  și Decubit (inset).
+position: 'Pacient: Remove toate metal, plastic, sau other removable objects de la
+  pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit semiprone
+  poziție.; Regiune anatomică: Place capul în true Incidență de Profil (lateral),
+  cu side de interest closest la receptorul de imagine și pacientul’s corp în semiprone
+  sau Ortostatism poziție ca needed pentru comfort. Align MsP paralel cu receptorul
+  de imagine, ensuring Absența rotației anatomice: clavicule echidistante față de
+  linia apofizelor spinoase sau tilt. Align linie interpupilară (LIP) perpendicular
+  pe receptorul de imagine, ensuring fără tilt de cap (Fig. 11.110) (see NOTE). Adjust
+  neck flexion la align linie infraorbitomeatală (LIOM) perpendicular la front edge
+  de receptorul de imagine. (GAL este paralel la front edge de receptorul de imagine.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,28 +50,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Craniu visualized and superimposed parietal bones of Craniu.
-- The entire sella turcica, including anterior and posterior clinoid processes and
-  dorsum sellae, is also demonstrated.
-- 'The sella turcica and clivus are demonstrated in profile (Figs. 11.111 and 11.112).
-  Position:'
+- Entire Craniu visualized și superimposed parietal bones de Craniu.
+- entire șa turcească, including anterior și posterior clinoid processes și dorsum
+  sellae, este also evidențiat.
+- 'șa turcească și clivus sunt evidențiat în profile (Figs. 11.111 și 11.112). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  or tilt of the Craniu is evident.'
-- Rotation is evident by anterior and posterior separation of symmetric vertical bilateral
-  structures such as the mandibular rami, and greater wings of the sphenoid.
-- Tilt is evident by superior and inferior separation of the orbital plates of the
-  frontal bones.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize bony detail
-  of bony structures and surrounding Craniu.
-- Sharp bony margins indicate no motion. 30 24 R Craniu SERIES ROUTINE
+  sau tilt de Craniu este evident.'
+- rotație este evident prin anterior și posterior separation de simetric vertical
+  bilateral structures such ca ramuri mandibulare, și greater wings de sphenoid.
+- Tilt este evident prin superior și inferior separation de orbital plates de frontal
+  bones.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize bony
+  detail de bony structures și surrounding Craniu.
+- net bony margins indicate fără mișcare. 30 24 R Craniu SERIES ROUTINE
 - AP axial (Incidență AP Axială (Metoda Towne))
-- Lateral
-- PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) or PA axial 25° to
+- lateral
+- PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la
   30°
-- PA Fig. 11.111 Lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital
-  plates Mandibular rami Parietal Greater wings of sphenoid Anterior clinoid processes
-  Posterior clinoid processes Fig. 11.112 Lateral.
+- PA Fig. 11.111 lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital
+  plates ramuri mandibulare Parietal Greater wings de sphenoid anterior clinoid processes
+  posterior clinoid processes Fig. 11.112 lateral.
 sid_dff: 100 cm
 slug: rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager
 sources:
@@ -77,7 +78,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -104,7 +105,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură, neoplastic processes, and Paget disease traumatism acuttism / Regim Urgență Routine A horizontal beam projection is required to obtain a lateral perspective for traumatism acuttism / Regim Urgență patients. This may demonstrate airfluid levels in the sphenoid sinus—a sign of a basal Craniu suspiciune de fractură if intracranial bleeding occurs. See Chapter 15 for details on traumatism acuttism / Regim Urgență Craniu projections.
+        - Craniu suspiciune de fractură, neoplastic processes, și Paget disease traumatism acuttism / Regim Urgență Routine orizontal fascicul incidență este required la obtain lateral perspective pentru traumatism acuttism / Regim Urgență pacienți. This poate evidențiază airfluid levels în sinusuri sfenoidale—sign de basal Craniu suspiciune de fractură if intracranial bleeding occurs. See Chapter 15 pentru details pe traumatism acuttism / Regim Urgență Craniu incidențe.
 
     === "Ghid Național IRIS"
 
@@ -118,10 +119,10 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metal, plastic, or other removable objects from the patient’s head. Take radiograph with patient in the Ortostatism or Decubit semiprone position.; Regiune anatomică: Place the head in a true Incidență de Profil (Lateral), with the side of interest closest to IR and the patient’s body in a semiprone or Ortostatism position as needed for comfort. Align MsP parallel to IR, ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt. Align iPl perpendicular to IR, ensuring no tilt of head (Fig. 11.110) (see NOTE). Adjust neck flexion to align ioMl perpendicular to front edge of IR. (GAL is parallel to front edge of IR.)
-    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center to a point 2 inches (5 cm) superior to EAM or halfway between the glabella and the inion for other types of Craniu morphologies. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Remove toate metal, plastic, sau other removable objects de la pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit semiprone poziție.; Regiune anatomică: Place capul în true Incidență de Profil (lateral), cu side de interest closest la receptorul de imagine și pacientul’s corp în semiprone sau Ortostatism poziție ca needed pentru comfort. Align MsP paralel cu receptorul de imagine, ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt. Align linie interpupilară (LIP) perpendicular pe receptorul de imagine, ensuring fără tilt de cap (Fig. 11.110) (see NOTE). Adjust neck flexion la align linie infraorbitomeatală (LIOM) perpendicular la front edge de receptorul de imagine. (GAL este paralel la front edge de receptorul de imagine.)
+    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center la point 2 inches (5 cm) superior la conduct auditiv extern (CAE) sau halfway între glabelă și inion pentru other types de Craniu morphologies. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -135,26 +136,26 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Craniu visualized and superimposed parietal bones of Craniu.
-    - The entire sella turcica, including anterior and posterior clinoid processes and dorsum sellae, is also demonstrated.
-    - The sella turcica and clivus are demonstrated in profile (Figs. 11.111 and 11.112). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt of the Craniu is evident.
-    - Rotation is evident by anterior and posterior separation of symmetric vertical bilateral structures such as the mandibular rami, and greater wings of the sphenoid.
-    - Tilt is evident by superior and inferior separation of the orbital plates of the frontal bones.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize bony detail of bony structures and surrounding Craniu.
-    - Sharp bony margins indicate no motion. 30 24 R Craniu SERIES ROUTINE
+    - Entire Craniu visualized și superimposed parietal bones de Craniu.
+    - entire șa turcească, including anterior și posterior clinoid processes și dorsum sellae, este also evidențiat.
+    - șa turcească și clivus sunt evidențiat în profile (Figs. 11.111 și 11.112). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt de Craniu este evident.
+    - rotație este evident prin anterior și posterior separation de simetric vertical bilateral structures such ca ramuri mandibulare, și greater wings de sphenoid.
+    - Tilt este evident prin superior și inferior separation de orbital plates de frontal bones.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize bony detail de bony structures și surrounding Craniu.
+    - net bony margins indicate fără mișcare. 30 24 R Craniu SERIES ROUTINE
     - AP axial (Incidență AP Axială (Metoda Towne))
-    - Lateral
-    - PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) or PA axial 25° to 30°
-    - PA Fig. 11.111 Lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital plates Mandibular rami Parietal Greater wings of sphenoid Anterior clinoid processes Posterior clinoid processes Fig. 11.112 Lateral.
+    - lateral
+    - PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30°
+    - PA Fig. 11.111 lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital plates ramuri mandibulare Parietal Greater wings de sphenoid anterior clinoid processes posterior clinoid processes Fig. 11.112 lateral.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -167,7 +168,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    For patients in the Decubit position, a radiolucent support placed under the chin helps in maintaining a true Incidență de Profil (Lateral). A patient with a broad Torace may require a radiolucent sponge under the entire head to prevent tilt, and a thin patient may require support under the upper thorax. Fig. 11.110 Lateral Craniu—Ortostatism and Decubit (inset).
+    pentru pacienți în Decubit poziție, radiolucent support plasat under bărbia helps în maintaining true Incidență de Profil (lateral). pacient cu broad Torace poate require radiolucent sponge under entire cap la prevent tilt, și thin pacient poate require support under upper thorax. Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).
 
 
 ### 🖼️ Imagini
@@ -176,25 +177,25 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.110 Lateral Craniu—Ortostatism and Decubit (inset).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg)
+![Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.110 Lateral Craniu—Ortostatism and Decubit (inset).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 Lateral skull—erect and recumbent (inset).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.111 Lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.111 Lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111 Lateral.)</span></figcaption>
+<figcaption><strong>Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 lateral skull—în ortostatism și recumbent (inset).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.112 Lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg)
+![Fig. 11.111 lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.112 Lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112 Lateral.)</span></figcaption>
+<figcaption><strong>Fig. 11.111 lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111 lateral.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.112 lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.112 lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112 lateral.)</span></figcaption>
 
 </figure>
 

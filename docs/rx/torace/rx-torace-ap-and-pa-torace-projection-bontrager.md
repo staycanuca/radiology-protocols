@@ -1,14 +1,14 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: and make exposure immediately after the child fully inhales. A B Fig. 16.23
-  (A) Tamem board. (B) Decubit Dorsal AP using immobilizer. (A Courtesy Cone Instruments.)
-  Torace ROUTINE AP or PA Lateral
+breathing: și make expunere immediately after child fully inhales. B Fig. 16.23 (A)
+  Tamem board. (B) Decubit dorsal AP using immobilizer. (Courtesy Cone Instruments.)
+  Torace ROUTINE AP sau PA lateral
 category: torace
-centering: perpendicular to IR, centered to the midsagittal plane at the level of
-  midthorax, which is approximately at the mammillary (nipple) line
+centering: perpendicular pe receptorul de imagine, centrat pe planul mediosagital
+  la nivelul midthorax, which este approximately la mammillary (nipple) line
 clinical_indications:
-- Pathology involving lung fields, diaphragm, Grilaj Costal și Stern, and mediastinum,
-  including the heart and major vessels
+- Pathology involving câmpuri pulmonare, cupole diafragmatice, Grilaj Costal și Stern,
+  și mediastinum, including cordul și major vessels
 images:
 - caption: Fig. 16.23 (A) Tam-
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.23 (A) Tam-)
@@ -19,25 +19,26 @@ images:
   url: assets/images/protocols/bontrager/rx-torace-ap-and-pa-torace-projection-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Patient should be Ortostatism, if possible, to demonstrate air/fluid levels.
-  Generally, pediatric patients, if old enough, should be examined in an Ortostatism
-  position with the use of a PiggO- Stat or similar Ortostatism immobilization device
-  (Fig. 16.24). Exceptions are infants in an isolette and infants too young to support
-  their heads.
-position: 'Pacient: Patient Decubit Dorsal Immobilization techniques should be used
-  when necessary (Fig. 16.23). Patient is Decubit Dorsal, and arms are extended to
-  remove Omoplat (Scapulă) from the lung fields. Legs are extended to prevent rotation
-  of the Bazin (Pelvis). With parental assistance (if parent is not pregnant), do
-  the following: 1. Have parent remove child’s Torace clothing. 2. Provide parent
-  with lead apron and gloves or shield. 3. Place child on IR. 4. Parent should extend
-  child’s arms over head with one Mână while keeping head tilted back to prevent superimposing
-  upper lungs. With other Mână, parent holds child’s legs at level of the knees, applying
-  pressure as necessary to prevent movement. 5. Place parent in a position that does
-  not obstruct technologist’s view of patient while exposure is made. 6. Place lead
-  gloves or lead shield over the top of parent’s hands if parent is not wearing the
-  gloves. (It may be easier to hold on to the patient if not wearing the lead gloves.);
-  Regiune anatomică: Place patient in the middle of IR with shoulders 2 inches (5
-  cm) below top of IR. Ensure that thorax is not rotated.'
+notes: pacient trebuie să fie Ortostatism, if possible, la evidențiază air/nivele
+  hidroaerice. Generally, pediatric pacienți, if old enough, trebuie să fie examined
+  în Ortostatism poziție cu use de PiggO- Stat sau similar Ortostatism imobilizare
+  device (Fig. 16.24). Exceptions sunt infants în isolette și infants too young la
+  support their heads.
+position: 'Pacient: pacient Decubit dorsal imobilizare techniques trebuie să fie used
+  when necessary (Fig. 16.23). pacient este Decubit dorsal, și brațe sunt extins la
+  remove Omoplat (Scapulă) de la câmpuri pulmonare. membre inferioare sunt extins
+  la prevent rotație de Bazin (bazin (pelvis)). cu parental assistance (if parent
+  este nu pregnant), do following: 1. Have parent remove child’s Torace clothing.
+  2. Provide parent cu lead apron și gloves sau shield. 3. Place child pe receptorul
+  de imagine. 4. Parent trebuie să extend child’s brațe over cap cu one Mână while
+  keeping cap tilted back la prevent superimposing upper plămâni. cu other Mână, parent
+  holds child’s membre inferioare la level de genunchii, applying pressure ca necessary
+  la prevent movement. 5. Place parent în poziție that does nu obstruct technologist’s
+  incidență de pacient while expunere este made. 6. Place lead gloves sau lead shield
+  over top de parent’s mâini if parent este nu wearing gloves. (It poate fie easier
+  la hold pe la pacientul if nu wearing lead gloves.); Regiune anatomică: Place pacient
+  în middle de receptorul de imagine cu umeri 2 inches (5 cm) below top de receptorul
+  de imagine. Ensure that thorax este nu rotit.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,10 +46,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 150 cm
 slug: rx-torace-ap-and-pa-torace-projection-bontrager
 sources:
@@ -56,15 +56,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Closely collimate on four sides to outer Torace margins.
+  collimation: Field Size Closely collimate pe four sides la outer Torace margins.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Torace AP AND PA Torace PROJECTION
+title: Rx Torace AP AND PA Torace Incidență
 ---
-# Rx Torace AP AND PA Torace PROJECTION
+# Rx Torace AP AND PA Torace Incidență
 
 
 <div class="rx-meta-bar">
@@ -83,7 +83,7 @@ title: Rx Torace AP AND PA Torace PROJECTION
 
     === "Indicații Clinice"
 
-        - Pathology involving lung fields, diaphragm, Grilaj Costal și Stern, and mediastinum, including the heart and major vessels
+        - Pathology involving câmpuri pulmonare, cupole diafragmatice, Grilaj Costal și Stern, și mediastinum, including cordul și major vessels
 
     === "Ghid Național IRIS"
 
@@ -97,10 +97,10 @@ title: Rx Torace AP AND PA Torace PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Decubit Dorsal Immobilization techniques should be used when necessary (Fig. 16.23). Patient is Decubit Dorsal, and arms are extended to remove Omoplat (Scapulă) from the lung fields. Legs are extended to prevent rotation of the Bazin (Pelvis). With parental assistance (if parent is not pregnant), do the following: 1. Have parent remove child’s Torace clothing. 2. Provide parent with lead apron and gloves or shield. 3. Place child on IR. 4. Parent should extend child’s arms over head with one Mână while keeping head tilted back to prevent superimposing upper lungs. With other Mână, parent holds child’s legs at level of the knees, applying pressure as necessary to prevent movement. 5. Place parent in a position that does not obstruct technologist’s view of patient while exposure is made. 6. Place lead gloves or lead shield over the top of parent’s hands if parent is not wearing the gloves. (It may be easier to hold on to the patient if not wearing the lead gloves.); Regiune anatomică: Place patient in the middle of IR with shoulders 2 inches (5 cm) below top of IR. Ensure that thorax is not rotated.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered to the midsagittal plane at the level of midthorax, which is approximately at the mammillary (nipple) line
+    - **Poziție Pacient:** Pacient: pacient Decubit dorsal imobilizare techniques trebuie să fie used when necessary (Fig. 16.23). pacient este Decubit dorsal, și brațe sunt extins la remove Omoplat (Scapulă) de la câmpuri pulmonare. membre inferioare sunt extins la prevent rotație de Bazin (bazin (pelvis)). cu parental assistance (if parent este nu pregnant), do following: 1. Have parent remove child’s Torace clothing. 2. Provide parent cu lead apron și gloves sau shield. 3. Place child pe receptorul de imagine. 4. Parent trebuie să extend child’s brațe over cap cu one Mână while keeping cap tilted back la prevent superimposing upper plămâni. cu other Mână, parent holds child’s membre inferioare la level de genunchii, applying pressure ca necessary la prevent movement. 5. Place parent în poziție that does nu obstruct technologist’s incidență de pacient while expunere este made. 6. Place lead gloves sau lead shield over top de parent’s mâini if parent este nu wearing gloves. (It poate fie easier la hold pe la pacientul if nu wearing lead gloves.); Regiune anatomică: Place pacient în middle de receptorul de imagine cu umeri 2 inches (5 cm) below top de receptorul de imagine. Ensure that thorax este nu rotit.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe planul mediosagital la nivelul midthorax, which este approximately la mammillary (nipple) line
     - **Distanță Focar-Film (DFF / SID):** 150 cm
-    - **Comandă Respiratorie:** and make exposure immediately after the child fully inhales. A B Fig. 16.23 (A) Tamem board. (B) Decubit Dorsal AP using immobilizer. (A Courtesy Cone Instruments.) Torace ROUTINE AP or PA Lateral
+    - **Comandă Respiratorie:** și make expunere immediately after child fully inhales. B Fig. 16.23 (A) Tamem board. (B) Decubit dorsal AP using immobilizer. (Courtesy Cone Instruments.) Torace ROUTINE AP sau PA lateral
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,16 +114,16 @@ title: Rx Torace AP AND PA Torace PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Closely collimate on four sides to outer Torace margins. |
+    | **Colimare Fascicul** | Field Size Closely collimate pe four sides la outer Torace margins. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -136,7 +136,7 @@ title: Rx Torace AP AND PA Torace PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Patient should be Ortostatism, if possible, to demonstrate air/fluid levels. Generally, pediatric patients, if old enough, should be examined in an Ortostatism position with the use of a PiggO- Stat or similar Ortostatism immobilization device (Fig. 16.24). Exceptions are infants in an isolette and infants too young to support their heads.
+    pacient trebuie să fie Ortostatism, if possible, la evidențiază air/nivele hidroaerice. Generally, pediatric pacienți, if old enough, trebuie să fie examined în Ortostatism poziție cu use de PiggO- Stat sau similar Ortostatism imobilizare device (Fig. 16.24). Exceptions sunt infants în isolette și infants too young la support their heads.
 
 
 ### 🖼️ Imagini

@@ -2,51 +2,52 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to pIp joint
+centering: perpendicular pe receptorul de imagine, orientat la pIp articulație
 clinical_indications:
-- suspiciune de fractură and luxație / subluxație articulară of the distal, middle,
-  and proximal phalanges; distal metacarpal; and associated joints
-- Pathologic processes, such as osteoporosis and artroză / modificări degenerative
+- suspiciune de fractură și luxație / subluxație articulară de distal, middle, și
+  proximal falange; distal metacarpal; și associated articulații
+- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
   articulare
 images:
-- caption: Fig. 4.45 Second digit
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.45 Second digit)
+- caption: Fig. 4.45 Second falange
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.45 Second falange)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_1.jpeg
-- caption: Fig. 4.46 Third digit (lateromedial).
+- caption: Fig. 4.46 Third falange (lateromedial).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.46
-    Third digit (lateromedial).)
+    Third falange (lateromedial).)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_2.jpeg
-- caption: Fig. 4.47 Fourth digit
+- caption: Fig. 4.47 Fourth falange
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.47
-    Fourth digit)
+    Fourth falange)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_3.jpeg
-- caption: Fig. 4.48 Fourth digit
+- caption: Fig. 4.48 Fourth falange
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.48
-    Fourth digit)
+    Fourth falange)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_4.jpeg
-- caption: Fig. 4.49 Fourth digit.
+- caption: Fig. 4.49 Fourth falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.49
-    Fourth digit.)
+    Fourth falange.)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_5.jpeg
-- caption: Fig. 4.50 Fourth digit.
+- caption: Fig. 4.50 Fourth falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.50
-    Fourth digit.)
+    Fourth falange.)
   url: assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_6.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: For second digit, a mediolateral is advised (see Fig. 4.45) if the patient
-  can assume this position. Place the second digit in contact with IR. (Definition
-  is improved with less object–image receptor distance [OID].) Fig. 4.45 Second digit
-  (mediolateral). Fig. 4.46 Third digit (lateromedial). Fig. 4.47 Fourth digit (lateromedial).
-  Fig. 4.48 Fourth digit (lateromedial).
-position: 'Pacient: Seat patient at end of table, with Cot flexed about 90° with Mână
-  and Pumn (Articulație Radiocarpiană) resting on IR and Degete Mână extended.; Regiune
-  anatomică: Place Mână in Incidență de Profil (Lateral) (Police side up) with finger
-  to be examined fully extended and centered to portion of IR being exposed (see NOTE
-  for second digit lateral). Align and center finger to long axis of IR and to CR.
-  Use sponge block or other radiolucent device to support finger and prevent motion.
-  Flex unaffected Degete Mână (Fig. 4.45). Ensure that long axis of finger is parallel
-  to IR (Figs. 4.46 to 4.48).'
+notes: pentru second falange, mediolateral este advised (see Fig. 4.45) if pacientul
+  poate assume this poziție. Place second falange în contact cu receptorul de imagine.
+  (Definition este improved cu less object–receptorul de imagine distance [OID].)
+  Fig. 4.45 Second falange (mediolateral). Fig. 4.46 Third falange (lateromedial).
+  Fig. 4.47 Fourth falange (lateromedial). Fig. 4.48 Fourth falange (lateromedial).
+position: 'Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână
+  și Pumn (Articulație Radiocarpiană) resting pe receptorul de imagine și Degete Mână
+  extins.; Regiune anatomică: Place Mână în Incidență de Profil (lateral) (Police
+  side up) cu finger la fie examined fully extins și centrat pe portion de receptorul
+  de imagine being exposed (see NOTE pentru second falange lateral). Align și center
+  finger la axa longitudinală de receptorul de imagine și la raza centrală. Use sponge
+  block sau other radiolucent device la support finger și prevent mișcare. Flex unaffected
+  Degete Mână (Fig. 4.45). Ensure that axa longitudinală de finger este paralel cu
+  receptorul de imagine (Figs. 4.46 la 4.48).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -54,21 +55,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral views of distal, middle, and proximal phalanges; distal metacarpal; and
-  associated joints are visible (Figs. 4.49 and 4.50). Position:'
-- Long axis of finger should be aligned with the side border of IR.
-- Finger should be in true Incidență de Profil (Lateral), as indicated by the concave
-  appearance of the anterior surface of the shaft of the phalanges.
-- Interphalangeal and metacarpophalangeal joint spaces should be open, indicating
-  correct CR location and that the phalanges are parallel to the IR.
-- 'CR and center of collimation field size should be to the pIp joint. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate soft tissue
-  margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de
-  mișcare. Degete Mână ROUTINE
+- 'lateral incidențe de distal, middle, și proximal falange; distal metacarpal; și
+  associated articulații sunt vizibil (Figs. 4.49 și 4.50). poziție:'
+- axa longitudinală de finger trebuie să fie aliniat cu side margine de receptorul
+  de imagine.
+- Finger trebuie să fie în true Incidență de Profil (lateral), ca indicated prin concave
+  appearance de anterior surface de shaft de falange.
+- Interphalangeal și articulații metacarpofalangiene (MCF) spaces trebuie să fie open,
+  indicating correct raza centrală location și that falange sunt paralel cu receptorul
+  de imagine (RI).
+- 'raza centrală și center de collimation field size trebuie să fie la pIp articulație.
+  expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
+  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+  de mișcare. Degete Mână ROUTINE
 - PA
-- PA oblique
-- Lateral R Fig. 4.49 Fourth digit. Distal phalanx Middle phalanx PIP joint (CR) Proximal
-  phalanx R Fig. 4.50 Fourth digit.
+- PA oblic
+- lateral R Fig. 4.49 Fourth falange. distal phalanx Middle phalanx PIP articulație
+  (raza centrală) proximal phalanx R Fig. 4.50 Fourth falange.
 sid_dff: 100 cm
 slug: rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager
 sources:
@@ -76,16 +80,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to affected finger and distal aspect
-    of metacarpal.
+  collimation: Field Size Collimate pe four sides la affected finger și distal aspect
+    de metacarpal.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
+title: Rx Degete Mână Latero-Medial sau Medio-Lateral Incidență
 ---
-# Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
+# Rx Degete Mână Latero-Medial sau Medio-Lateral Incidență
 
 
 <div class="rx-meta-bar">
@@ -104,8 +108,8 @@ title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and luxație / subluxație articulară of the distal, middle, and proximal phalanges; distal metacarpal; and associated joints
-        - Pathologic processes, such as osteoporosis and artroză / modificări degenerative articulare
+        - suspiciune de fractură și luxație / subluxație articulară de distal, middle, și proximal falange; distal metacarpal; și associated articulații
+        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare
 
     === "Ghid Național IRIS"
 
@@ -119,8 +123,8 @@ title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table, with Cot flexed about 90° with Mână and Pumn (Articulație Radiocarpiană) resting on IR and Degete Mână extended.; Regiune anatomică: Place Mână in Incidență de Profil (Lateral) (Police side up) with finger to be examined fully extended and centered to portion of IR being exposed (see NOTE for second digit lateral). Align and center finger to long axis of IR and to CR. Use sponge block or other radiolucent device to support finger and prevent motion. Flex unaffected Degete Mână (Fig. 4.45). Ensure that long axis of finger is parallel to IR (Figs. 4.46 to 4.48).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to pIp joint
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână și Pumn (Articulație Radiocarpiană) resting pe receptorul de imagine și Degete Mână extins.; Regiune anatomică: Place Mână în Incidență de Profil (lateral) (Police side up) cu finger la fie examined fully extins și centrat pe portion de receptorul de imagine being exposed (see NOTE pentru second falange lateral). Align și center finger la axa longitudinală de receptorul de imagine și la raza centrală. Use sponge block sau other radiolucent device la support finger și prevent mișcare. Flex unaffected Degete Mână (Fig. 4.45). Ensure that axa longitudinală de finger este paralel cu receptorul de imagine (Figs. 4.46 la 4.48).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la pIp articulație
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -136,22 +140,22 @@ title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to affected finger and distal aspect of metacarpal. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la affected finger și distal aspect de metacarpal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral views of distal, middle, and proximal phalanges; distal metacarpal; and associated joints are visible (Figs. 4.49 and 4.50). Position:
-    - Long axis of finger should be aligned with the side border of IR.
-    - Finger should be in true Incidență de Profil (Lateral), as indicated by the concave appearance of the anterior surface of the shaft of the phalanges.
-    - Interphalangeal and metacarpophalangeal joint spaces should be open, indicating correct CR location and that the phalanges are parallel to the IR.
-    - CR and center of collimation field size should be to the pIp joint. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate soft tissue margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Degete Mână ROUTINE
+    - lateral incidențe de distal, middle, și proximal falange; distal metacarpal; și associated articulații sunt vizibil (Figs. 4.49 și 4.50). poziție:
+    - axa longitudinală de finger trebuie să fie aliniat cu side margine de receptorul de imagine.
+    - Finger trebuie să fie în true Incidență de Profil (lateral), ca indicated prin concave appearance de anterior surface de shaft de falange.
+    - Interphalangeal și articulații metacarpofalangiene (MCF) spaces trebuie să fie open, indicating correct raza centrală location și that falange sunt paralel cu receptorul de imagine (RI).
+    - raza centrală și center de collimation field size trebuie să fie la pIp articulație. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Degete Mână ROUTINE
     - PA
-    - PA oblique
-    - Lateral R Fig. 4.49 Fourth digit. Distal phalanx Middle phalanx PIP joint (CR) Proximal phalanx R Fig. 4.50 Fourth digit.
+    - PA oblic
+    - lateral R Fig. 4.49 Fourth falange. distal phalanx Middle phalanx PIP articulație (raza centrală) proximal phalanx R Fig. 4.50 Fourth falange.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,7 +168,7 @@ title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    For second digit, a mediolateral is advised (see Fig. 4.45) if the patient can assume this position. Place the second digit in contact with IR. (Definition is improved with less object–image receptor distance [OID].) Fig. 4.45 Second digit (mediolateral). Fig. 4.46 Third digit (lateromedial). Fig. 4.47 Fourth digit (lateromedial). Fig. 4.48 Fourth digit (lateromedial).
+    pentru second falange, mediolateral este advised (see Fig. 4.45) if pacientul poate assume this poziție. Place second falange în contact cu receptorul de imagine. (Definition este improved cu less object–receptorul de imagine distance [OID].) Fig. 4.45 Second falange (mediolateral). Fig. 4.46 Third falange (lateromedial). Fig. 4.47 Fourth falange (lateromedial). Fig. 4.48 Fourth falange (lateromedial).
 
 
 ### 🖼️ Imagini
@@ -173,49 +177,49 @@ title: Rx Degete Mână LATEROMEDIAL OR MEDIOLATERAL PROJECTIONS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.45 Second digit](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_1.jpeg)
+![Fig. 4.45 Second falange](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.45 Second digit</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.45 Second digit)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.46 Third digit (lateromedial).](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.46 Third digit (lateromedial).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.46 Third digit (lateromedial).)</span></figcaption>
+<figcaption><strong>Fig. 4.45 Second falange</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.45 Second falange)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.47 Fourth digit](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_3.jpeg)
+![Fig. 4.46 Third falange (lateromedial).](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.47 Fourth digit</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.47 Fourth digit)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.48 Fourth digit](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.48 Fourth digit</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.48 Fourth digit)</span></figcaption>
+<figcaption><strong>Fig. 4.46 Third falange (lateromedial).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.46 Third falange (lateromedial).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.49 Fourth digit.](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_5.jpeg)
+![Fig. 4.47 Fourth falange](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.49 Fourth digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.49 Fourth digit.)</span></figcaption>
+<figcaption><strong>Fig. 4.47 Fourth falange</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.47 Fourth falange)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.50 Fourth digit.](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_6.jpeg)
+![Fig. 4.48 Fourth falange](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.50 Fourth digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.50 Fourth digit.)</span></figcaption>
+<figcaption><strong>Fig. 4.48 Fourth falange</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.48 Fourth falange)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.49 Fourth falange.](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.49 Fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.49 Fourth falange.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.50 Fourth falange.](../../assets/images/protocols/bontrager/rx-degete-mana-lateromedial-or-mediolateral-projections-bontrager/fig_6.jpeg)
+
+<figcaption><strong>Fig. 4.50 Fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.50 Fourth falange.)</span></figcaption>
 
 </figure>
 

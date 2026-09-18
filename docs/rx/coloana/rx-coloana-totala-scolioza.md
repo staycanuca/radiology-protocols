@@ -9,7 +9,7 @@ clinical_status: draft_not_for_clinical_use
 images: []
 last_updated: '2026-09-15'
 modality: rx
-notes: Înregistrarea poziției, a suporturilor și a utilizării corsetului permite comparații.
+notes: Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații.
   Se validează tehnica de stitching/EOS înainte de utilizare.
 population: Copil / adolescent; extensia la adult necesită validare locală
 position: Poziționare diferențiată pe incidențe; vezi lista de achiziții.
@@ -38,6 +38,25 @@ source_mapping:
     section: Investigations
     source_id: 894271e2dea1539cb816dec4efa8b64c
     status: adaptare pentru revizuire
+sources:
+- checked_at: '2026-09-15T08:37:11.431494+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: 894271e2dea1539cb816dec4efa8b64c
+  institution: Royal Children’s Hospital Melbourne
+  section: Investigations
+  title: RCH — Scoliosis, referral guideline
+  url: https://www.rch.org.au/ortho/for_health_professionals/Scoliosis/
+  verification_method: Web consultation; no downloaded content hash
+- checked_at: '2026-09-15T08:37:11.431494+00:00'
+  consulted_on: '2026-09-15'
+  excerpt_kind: authored_summary
+  id: ec17b15b8ee75a3c9b841fd6023b1b45
+  institution: AAPM
+  section: Policy text
+  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
+  url: https://www.aapm.org/org/policies/details.asp?id=2552
+  verification_method: Web consultation; no downloaded content hash
 standard_views:
 - centering: Coloana completă și reperele necesare măsurătorilor solicitate.
   condition: Parte a setului inițial justificat de radiolog
@@ -56,33 +75,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: RX coloană totală în ortostatism — scolioză
-sources:
-- id: 894271e2dea1539cb816dec4efa8b64c
-  title: RCH — Scoliosis, referral guideline
-  url: https://www.rch.org.au/ortho/for_health_professionals/Scoliosis/
-  institution: Royal Children’s Hospital Melbourne
-  section: Investigations
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.431494+00:00'
-- id: ec17b15b8ee75a3c9b841fd6023b1b45
-  title: AAPM PS 8-A — Patient Gonadal and Fetal Shielding
-  url: https://www.aapm.org/org/policies/details.asp?id=2552
-  institution: AAPM
-  section: Policy text
-  excerpt_kind: authored_summary
-  verification_method: Web consultation; no downloaded content hash
-  consulted_on: '2026-09-15'
-  checked_at: '2026-09-15T08:37:11.431494+00:00'
+title: Rx RX coloană totală în ortostatism — scolioză
 workbench_transfer:
   draft_id: 12bdc5a3fcc25192a99c9b897931c4e0
-  transferred_at: '2026-09-15T08:50:31.276506+00:00'
   purpose: review_in_main_application
+  transferred_at: '2026-09-15T08:50:31.276506+00:00'
 ---
-
-# RX coloană totală în ortostatism — scolioză
+# Rx RX coloană totală în ortostatism — scolioză
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -155,7 +154,7 @@ workbench_transfer:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Înregistrarea poziției, a suporturilor și a utilizării corsetului permite comparații. Se validează tehnica de stitching/EOS înainte de utilizare.
+    Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații. Se validează tehnica de stitching/EOS înainte de utilizare.
 
 ## Incidențe și criterii de acceptare
 
@@ -195,7 +194,8 @@ workbench_transfer:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
+
 ## Surse de documentare
 
-- [RCH — Scoliosis, referral guideline](https://www.rch.org.au/ortho/for_health_professionals/Scoliosis/) — Investigations
-- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552) — Policy text
+- [RCH — Scoliosis, referral guideline](https://www.rch.org.au/ortho/for_health_professionals/Scoliosis/)
+- [AAPM PS 8-A — Patient Gonadal and Fetal Shielding](https://www.aapm.org/org/policies/details.asp?id=2552)

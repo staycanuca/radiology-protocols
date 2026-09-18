@@ -2,49 +2,49 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Perpendicular pe centrul ariei de interes
+centering: perpendicular pe centrul ariei de interes
 clinical_indications:
-- Intercondylar fossa, femoral condyles, tibial plateaus, and intercondylar eminence
-  demonstrated
-- Evidence of bony or cartilaginous pathology, osteochondral defects, or narrowing
-  of joint space
+- Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence
+  evidențiat
+- Evidence de bony sau cartilaginous pathology, osteochondral defects, sau narrowing
+  de spații articulare
 images:
-- caption: Fig. 6.121 Metoda Camp-Coventry—Decubit Ventral position (40° to 50°
+- caption: Fig. 6.121 Metoda Camp-Coventry—Decubit ventral poziție (40° la 50°
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.121 Camp Coventry
-    method—prone position (40° to 50°)
+    method—decubit ventral (40° la 50°)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_1.jpeg
-- caption: Fig. 6.122 Metoda Holmblad—kneeling position (60° to 70° ﬂexion).
+- caption: Fig. 6.122 Metoda Holmblad—kneeling poziție (60° la 70° flexion).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.122
-    Holmblad method—kneeling position (60° to 70° ﬂexion).)
+    Holmblad method—kneeling poziție (60° la 70° flexion).)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_2.jpeg
 - caption: Fig. 6.123 Incidență PA Axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.123
-    PA axial projection.)
+    PA axial incidență.)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_3.jpeg
 - caption: Fig. 6.124 Incidență PA Axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.124
-    PA axial projection.)
+    PA axial incidență.)
   url: assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Several methods are described for demonstrating these structures. The Decubit
-  Ventral position (Fig. 6.121) is an easier position for the patient to assume. The
-  Holmblad kneeling method provides another option with a slightly different projection
-  of these structures (Fig. 6.122). The disadvantage is that this position is sometimes
-  uncomfortable for the patient. As a result of the advent of xray tables that can
-  be raised and lowered, several Holmblad variations can be used to alleviate the
-  pain of kneeling on both knees. These methods do not require a complete kneeling
-  position, but they do require a cooperative Pacient Mobil / Cooperant (Ortostatism).
-position: 'Pacient: 1. Place patient Decubit Ventral; provide a pillow for patient’s
-  head (Metoda Camp-Coventry). 2. Have patient kneel on xray table (Metoda Holmblad).
-  3. Have patient partially standing, straddling xray table with one leg (Holmblad
-  variation, requires elevation of examination table). 4. Have patient partially standing
-  with affected leg on a stool or chair (Holmblad variation). Genunchi—Intercondylar
-  Fossa Projections ROUTINE PA axial Fig. 6.121 Metoda Camp-Coventry—Decubit Ventral
-  position (40° to 50° flexion). (Position credited to Rosenberg TD, Paulos LE, Parker
-  RD, et al: The 45° posteroanterior flexion weightbearing radiograph of the Genunchi.
-  J Bone Joint Surg Am 70:1479, 1988.) Fig. 6.122 Metoda Holmblad—kneeling position
-  (60° to 70° flexion).'
+notes: Several methods sunt described pentru evidențiind these structures. Decubit
+  ventral poziție (Fig. 6.121) este easier poziție pentru pacientul la assume. Holmblad
+  kneeling method provides another option cu slightly different incidență de these
+  structures (Fig. 6.122). disadvantage este that this poziție este sometimes uncomfortable
+  pentru pacientul. ca result de advent de xray tables that poate fie raised și lowered,
+  several Holmblad variations poate fie used la alleviate pain de kneeling pe ambele
+  genunchi. These methods do nu require complete kneeling poziție, but they do require
+  cooperative Pacient Mobil / Cooperant (Ortostatism).
+position: 'Pacient: 1. Place pacient Decubit ventral; provide pillow pentru pacient’s
+  cap (Metoda Camp-Coventry). 2. Have pacient kneel pe xray table (Metoda Holmblad).
+  3. Have pacient partially în ortostatism, straddling xray table cu one membru inferior
+  (Holmblad variation, requires elevation de examination table). 4. Have pacient partially
+  în ortostatism cu affected membru inferior pe stool sau chair (Holmblad variation).
+  Genunchi—Intercondylar Fossa incidențe ROUTINE PA axial Fig. 6.121 Metoda Camp-Coventry—Decubit
+  ventral poziție (40° la 50° flexion). (poziție credited la Rosenberg TD, Paulos
+  LE, Parker RD, et al: 45° posteroanterior flexion weightbearing radiografie de Genunchi.
+  J Bone articulație Surg Am 70:1479, 1988.) Fig. 6.122 Metoda Holmblad—kneeling poziție
+  (60° la 70° flexion).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -52,21 +52,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Intercondylar fossa, articular facets (tibial plateaus), and Genunchi joint space
-  are demonstrated clearly (Figs. 6.123 and 6.124). Position:'
-- Intercondylar fossa should appear in profile, open without superimposition by Rotulă
-  (Patelă).
+- 'Intercondylar fossa, articular facets (tibial plateaus), și Genunchi spații articulare
+  sunt clar evidențiat(e) (Figs. 6.123 și 6.124). poziție:'
+- Intercondylar fossa trebuie să appear în profile, open fără superimposition prin
+  Rotulă (Patelă).
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  is evidenced by symmetric appearance of distal posterior femoral condyles and superimposition
-  of approximately half of fibular head by tibia.'
-- 'Articular facets and intercondylar eminence of tibia should be well visualized
-  without superimposition. Exposure:'
-- Optimal image receptor exposure and contrast to visualize soft tissue in Genunchi
-  joint space and an outline of the Rotulă (Patelă) through the Femur.
-- Trabecular markings of femoral condyles and proximal tibia should appear clear and
-  sharp, with no motion. Fig. 6.123 Incidență PA Axială. Rotulă (Patelă) L Intercondylar
-  fossa Medial femoral condyle Lateral femoral condyle Articular facet Fibular head
-  Tibia Intercondylar eminence Articular facet Fig. 6.124 Incidență PA Axială.
+  este evidenced prin simetric appearance de distal posterior femoral condyles și
+  superimposition de approximately half de cap peronier (fibular) prin tibia.'
+- 'Articular facets și intercondylar eminence de tibia trebuie să fie well visualized
+  fără superimposition. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize părți moi în Genunchi
+  spații articulare și outline de Rotulă (Patelă) through Femur.
+- Trabecular markings de femoral condyles și proximal tibia trebuie să appear clear
+  și net, cu fără mișcare. Fig. 6.123 Incidență PA Axială. Rotulă (Patelă) L Intercondylar
+  fossa medial femoral condyle lateral femoral condyle Articular facet cap peronier
+  (fibular) Tibia Intercondylar eminence Articular facet Fig. 6.124 Incidență PA Axială.
 sid_dff: 100 cm
 slug: rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager
 sources:
@@ -74,16 +74,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSSA - Metoda
-  Camp-Coventry AND Metoda Holmblad (PLUS VARIATIONS))
+title: Rx Genunchi PA AXIAL Incidență (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA -
+  Metoda Camp-Coventry AND Metoda Holmblad (PLUS VARIATIONS))
 ---
-# Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSSA - Metoda Camp-Coventry AND Metoda Holmblad (PLUS VARIATIONS))
+# Rx Genunchi PA AXIAL Incidență (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - Metoda Camp-Coventry AND Metoda Holmblad (PLUS VARIATIONS))
 
 
 <div class="rx-meta-bar">
@@ -102,8 +102,8 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 
     === "Indicații Clinice"
 
-        - Intercondylar fossa, femoral condyles, tibial plateaus, and intercondylar eminence demonstrated
-        - Evidence of bony or cartilaginous pathology, osteochondral defects, or narrowing of joint space
+        - Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence evidențiat
+        - Evidence de bony sau cartilaginous pathology, osteochondral defects, sau narrowing de spații articulare
 
     === "Ghid Național IRIS"
 
@@ -117,8 +117,8 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 
     ---
 
-    - **Poziție Pacient:** Pacient: 1. Place patient Decubit Ventral; provide a pillow for patient’s head (Metoda Camp-Coventry). 2. Have patient kneel on xray table (Metoda Holmblad). 3. Have patient partially standing, straddling xray table with one leg (Holmblad variation, requires elevation of examination table). 4. Have patient partially standing with affected leg on a stool or chair (Holmblad variation). Genunchi—Intercondylar Fossa Projections ROUTINE PA axial Fig. 6.121 Metoda Camp-Coventry—Decubit Ventral position (40° to 50° flexion). (Position credited to Rosenberg TD, Paulos LE, Parker RD, et al: The 45° posteroanterior flexion weightbearing radiograph of the Genunchi. J Bone Joint Surg Am 70:1479, 1988.) Fig. 6.122 Metoda Holmblad—kneeling position (60° to 70° flexion).
-    - **Punct de Centrare Fascicul:** Perpendicular pe centrul ariei de interes
+    - **Poziție Pacient:** Pacient: 1. Place pacient Decubit ventral; provide pillow pentru pacient’s cap (Metoda Camp-Coventry). 2. Have pacient kneel pe xray table (Metoda Holmblad). 3. Have pacient partially în ortostatism, straddling xray table cu one membru inferior (Holmblad variation, requires elevation de examination table). 4. Have pacient partially în ortostatism cu affected membru inferior pe stool sau chair (Holmblad variation). Genunchi—Intercondylar Fossa incidențe ROUTINE PA axial Fig. 6.121 Metoda Camp-Coventry—Decubit ventral poziție (40° la 50° flexion). (poziție credited la Rosenberg TD, Paulos LE, Parker RD, et al: 45° posteroanterior flexion weightbearing radiografie de Genunchi. J Bone articulație Surg Am 70:1479, 1988.) Fig. 6.122 Metoda Holmblad—kneeling poziție (60° la 70° flexion).
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul ariei de interes
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -134,19 +134,19 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Intercondylar fossa, articular facets (tibial plateaus), and Genunchi joint space are demonstrated clearly (Figs. 6.123 and 6.124). Position:
-    - Intercondylar fossa should appear in profile, open without superimposition by Rotulă (Patelă).
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase is evidenced by symmetric appearance of distal posterior femoral condyles and superimposition of approximately half of fibular head by tibia.
-    - Articular facets and intercondylar eminence of tibia should be well visualized without superimposition. Exposure:
-    - Optimal image receptor exposure and contrast to visualize soft tissue in Genunchi joint space and an outline of the Rotulă (Patelă) through the Femur.
-    - Trabecular markings of femoral condyles and proximal tibia should appear clear and sharp, with no motion. Fig. 6.123 Incidență PA Axială. Rotulă (Patelă) L Intercondylar fossa Medial femoral condyle Lateral femoral condyle Articular facet Fibular head Tibia Intercondylar eminence Articular facet Fig. 6.124 Incidență PA Axială.
+    - Intercondylar fossa, articular facets (tibial plateaus), și Genunchi spații articulare sunt clar evidențiat(e) (Figs. 6.123 și 6.124). poziție:
+    - Intercondylar fossa trebuie să appear în profile, open fără superimposition prin Rotulă (Patelă).
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin simetric appearance de distal posterior femoral condyles și superimposition de approximately half de cap peronier (fibular) prin tibia.
+    - Articular facets și intercondylar eminence de tibia trebuie să fie well visualized fără superimposition. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize părți moi în Genunchi spații articulare și outline de Rotulă (Patelă) through Femur.
+    - Trabecular markings de femoral condyles și proximal tibia trebuie să appear clear și net, cu fără mișcare. Fig. 6.123 Incidență PA Axială. Rotulă (Patelă) L Intercondylar fossa medial femoral condyle lateral femoral condyle Articular facet cap peronier (fibular) Tibia Intercondylar eminence Articular facet Fig. 6.124 Incidență PA Axială.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,7 +159,7 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Several methods are described for demonstrating these structures. The Decubit Ventral position (Fig. 6.121) is an easier position for the patient to assume. The Holmblad kneeling method provides another option with a slightly different projection of these structures (Fig. 6.122). The disadvantage is that this position is sometimes uncomfortable for the patient. As a result of the advent of xray tables that can be raised and lowered, several Holmblad variations can be used to alleviate the pain of kneeling on both knees. These methods do not require a complete kneeling position, but they do require a cooperative Pacient Mobil / Cooperant (Ortostatism).
+    Several methods sunt described pentru evidențiind these structures. Decubit ventral poziție (Fig. 6.121) este easier poziție pentru pacientul la assume. Holmblad kneeling method provides another option cu slightly different incidență de these structures (Fig. 6.122). disadvantage este that this poziție este sometimes uncomfortable pentru pacientul. ca result de advent de xray tables that poate fie raised și lowered, several Holmblad variations poate fie used la alleviate pain de kneeling pe ambele genunchi. These methods do nu require complete kneeling poziție, but they do require cooperative Pacient Mobil / Cooperant (Ortostatism).
 
 
 ### 🖼️ Imagini
@@ -168,17 +168,17 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.121 Metoda Camp-Coventry—Decubit Ventral position (40° to 50°](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_1.jpeg)
+![Fig. 6.121 Metoda Camp-Coventry—Decubit ventral poziție (40° la 50°](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.121 Metoda Camp-Coventry—Decubit Ventral position (40° to 50°</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.121 Camp Coventry method—prone position (40° to 50°)</span></figcaption>
+<figcaption><strong>Fig. 6.121 Metoda Camp-Coventry—Decubit ventral poziție (40° la 50°</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.121 Camp Coventry method—decubit ventral (40° la 50°)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.122 Metoda Holmblad—kneeling position (60° to 70° ﬂexion).](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_2.jpeg)
+![Fig. 6.122 Metoda Holmblad—kneeling poziție (60° la 70° flexion).](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.122 Metoda Holmblad—kneeling position (60° to 70° ﬂexion).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.122 Holmblad method—kneeling position (60° to 70° ﬂexion).)</span></figcaption>
+<figcaption><strong>Fig. 6.122 Metoda Holmblad—kneeling poziție (60° la 70° flexion).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.122 Holmblad method—kneeling poziție (60° la 70° flexion).)</span></figcaption>
 
 </figure>
 
@@ -186,7 +186,7 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 
 ![Fig. 6.123 Incidență PA Axială.](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.123 Incidență PA Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.123 PA axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.123 Incidență PA Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.123 PA axial incidență.)</span></figcaption>
 
 </figure>
 
@@ -194,7 +194,7 @@ title: Rx Genunchi PA AXIAL PROJECTIONS (“TUNNEL VIEWS”) (INTERCONDYLAR FOSS
 
 ![Fig. 6.124 Incidență PA Axială.](../../assets/images/protocols/bontrager/rx-genunchi-pa-axial-projections-tunnel-views-intercondylar-fossa-metoda-camp-coventry-and-metoda-holmblad-plus-variations-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 6.124 Incidență PA Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.124 PA axial projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.124 Incidență PA Axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.124 PA axial incidență.)</span></figcaption>
 
 </figure>
 

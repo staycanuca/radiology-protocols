@@ -16,7 +16,7 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite
-  vizualizarea optimă a ventriculului stâng și aortei descendente.
+  vizualizarea optimă ventriculului stâng și aortei descendente.
 position: Ortostatism cu hemitracele stâng lipit de stativul Bucky (profil stâng standard),
   brațele ridicate deasupra capului sau încrucișate pe creștet
 protection:
@@ -24,12 +24,34 @@ protection:
   automată din template.
 - Colimare precisă anterior și posterior
 quality_criteria:
-- Suprapunerea precisă a arcurilor costale posterioare (rotație minimă < 1 cm)
-- Vizualizarea clară a recesurilor costodiafragmatice posterioare
+- Suprapunerea precisă arcurilor costale posterioare (rotație minimă < 1 cm)
+- Vizualizarea clară recesurilor costodiafragmatice posterioare
 - Brațele sunt complet ridicate, fără artefacte peste apexurile pulmonare
-- Penetrare clară a spațiului retrosternal și retrocardiac
+- Penetrare clară spațiului retrosternal și retrocardiac
 sid_dff: 180 cm
 slug: rx-torace-lateral
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial (EUR 16260)
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR
+  kind: Standard de practică clinică
+  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
+  source_region: US
+  title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Radiopaedia
+  kind: Ghid tehnic de poziționare
+  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
+  source_region: Internațional
+  title: Radiopaedia — X-ray Positioning and Projections Reference
+  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Camera centrală de ionizare activată
   collimation: Inclusiv coloana toracală posterior și peretele toracic anterior
@@ -39,35 +61,13 @@ tech_params:
   kv: 125 - 130
   mas: 4 - 8 (AEC)
 title: Rx Torace Profil (Lateral Stâng)
-sources:
-- title: Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial (EUR 16260)
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
-- title: ACR-SPR Practice Parameter for General Radiography (Digital Radiography)
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf
-  institution: ACR
-  source_region: US
-  kind: Standard de practică clinică
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 0a11fb7661ff20ad1597e512c599b552eda36e2b24175ba21b383c03eb150c37
-- title: Radiopaedia — X-ray Positioning and Projections Reference
-  url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
-  institution: Radiopaedia
-  source_region: Internațional
-  kind: Ghid tehnic de poziționare
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: d8a14c567fb463d2be8d090240740cabecb3c56eb3285d716d56ce8c6fe9e512
 ---
-
 # Rx Torace Profil (Lateral Stâng)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -122,10 +122,10 @@ sources:
 
     ---
 
-    - Suprapunerea precisă a arcurilor costale posterioare (rotație minimă < 1 cm)
-    - Vizualizarea clară a recesurilor costodiafragmatice posterioare
+    - Suprapunerea precisă arcurilor costale posterioare (rotație minimă < 1 cm)
+    - Vizualizarea clară recesurilor costodiafragmatice posterioare
     - Brațele sunt complet ridicate, fără artefacte peste apexurile pulmonare
-    - Penetrare clară a spațiului retrosternal și retrocardiac
+    - Penetrare clară spațiului retrosternal și retrocardiac
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -137,7 +137,7 @@ sources:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite vizualizarea optimă a ventriculului stâng și aortei descendente.
+    Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite vizualizarea optimă ventriculului stâng și aortei descendente.
 
 === "Ghid Rapid de Execuție"
 
@@ -147,8 +147,9 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
-- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf) — *ACR* (US)
-- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1) — *Radiopaedia* (Internațional)
+## Surse de documentare
+
+- [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)
+- [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf)
+- [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1)

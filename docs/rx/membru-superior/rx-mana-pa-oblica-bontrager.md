@@ -2,42 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR, directed to a treia articulație metacarpofalangiană
+centering: perpendicular pe receptorul de imagine, orientat la treia articulație metacarpofalangiană
   (MCP 3)
 clinical_indications:
-- suspiciune de fractură and luxație / subluxație articulară of the phalanges, metacarpals,
-  and all joints of the Mână
-- Pathologic processes, such as osteoporosis and artroză / modificări degenerative
+- suspiciune de fractură și luxație / subluxație articulară de falange, oase metacarpiene,
+  și toate articulații de Mână
+- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
   articulare
 images:
-- caption: Fig. 4.70 Routine oblique Mână
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.70 Routine oblique
-    hand)
+- caption: Fig. 4.70 Routine oblic Mână
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.70 Routine oblic
+    mână)
   url: assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_1.jpeg
-- caption: 'Fig. 4.71 Exception: Oblique'
+- caption: 'Fig. 4.71 Exception: oblic'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.71
-    Exception: Oblique)'
+    Exception: oblic)'
   url: assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_2.jpeg
-- caption: Fig. 4.72 PA oblique Mână (digits
+- caption: Fig. 4.72 PA oblic Mână (falange
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.72
-    PA oblique hand (digits)
+    PA oblic mână (falange)
   url: assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_3.jpeg
-- caption: Fig. 4.73 PA oblique Mână (digits
+- caption: Fig. 4.73 PA oblic Mână (falange
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.73
-    PA oblique hand (digits)
+    PA oblic mână (falange)
   url: assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_4.jpeg
-- caption: Fig. 4.74 PA oblique Mână (digits parallel).
+- caption: Fig. 4.74 PA oblic Mână (falange paralel).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.74
-    PA oblique hand (digits parallel).)
+    PA oblic mână (falange paralel).)
   url: assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_5.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table with Mână and Antebraț extended.;
-  Regiune anatomică: Pronate Mână on IR; center and align long axis of Mână with long
-  axis of IR. Rotate entire Mână and Pumn (Articulație Radiocarpiană) laterally 45°
-  and support with radiolucent wedge or step block, as shown, so that all digits are
-  separated and parallel to IR (see Exception).'
+position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune
+  anatomică: Pronate Mână pe receptorul de imagine; center și align axa longitudinală
+  de Mână cu axa longitudinală de receptorul de imagine. Rotate entire Mână și Pumn
+  (Articulație Radiocarpiană) laterally 45° și support cu radiolucent wedge sau step
+  block, ca vizualizat, so that toate falange sunt separated și paralel cu receptorul
+  de imagine (see Exception).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,22 +46,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Incidență Oblică of the entire Mână and Pumn (Articulație Radiocarpiană) and about
-  1 inch (2.5 cm) of distal Antebraț are visible. Position:'
-- Long axis of Mână and Pumn (Articulație Radiocarpiană) should be aligned with IR.
-- '45° oblique is evidenced by: treimea medie a diafizeis of metacarpals should not
-  overlap; some overlap of distal heads of third, fourth, and fifth metacarpals but
-  no overlap of distal second and third metacarpals should occur; excessive overlap
-  of metacarpals indicates overrotation, and too much separation indicates underrotation.'
-- MCP and IP joints are open without foreshortening of midphalanges or distal phalanges,
-  indicating that Degete Mână are parallel to IR (Fig. 4.74).
-- 'CR and center of collimation field size should be at a treia articulație metacarpofalangiană
-  (MCP 3). Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate soft tissue
-  margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de
-  mișcare. R Fig. 4.73 PA oblique Mână (digits not parallel)—joint spaces not open.
-  Carpals Head of 5th metacarpal Ulna Radius 1st digit (Police) 1st metacarpal 2nd
-  3rd 4th 5th R Fig. 4.74 PA oblique Mână (digits parallel).
+- 'Incidență Oblică de entire Mână și Pumn (Articulație Radiocarpiană) și about 1
+  inch (2.5 cm) de distal Antebraț sunt vizibil. poziție:'
+- axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) trebuie să fie aliniat
+  cu receptorul de imagine.
+- '45° oblic este evidenced prin: treimea medie diafizeis de oase metacarpiene trebuie
+  să nu overlap; some overlap de distal heads de third, fourth, și fifth oase metacarpiene
+  but fără overlap de distal second și third oase metacarpiene trebuie să occur; excessive
+  overlap de oase metacarpiene indicates overrotation, și too much separation indicates
+  underrotation.'
+- MCP și articulații interfalangiene (IF) sunt open fără foreshortening de midphalanges
+  sau distal falange, indicating that Degete Mână sunt paralel cu receptorul de imagine
+  (Fig. 4.74).
+- 'raza centrală și center de collimation field size trebuie să fie la treia articulație
+  metacarpofalangiană (MCP 3). expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
+  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+  de mișcare. R Fig. 4.73 PA oblic Mână (falange nu paralel)—spații articulare nu
+  open. oase carpiene cap de 5th metacarpal Ulna Radius 1st falange (Police) 1st metacarpal
+  2nd 3rd 4th 5th R Fig. 4.74 PA oblic Mână (falange paralel).
 sid_dff: 100 cm
 slug: rx-mana-pa-oblica-bontrager
 sources:
@@ -68,14 +72,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'Field Size Collimate on four sides to Mână and Pumn (Articulație Radiocarpiană).
-    Exception For a routine oblique Mână, use a support block to place digits parallel
-    to IR (Figs. 4.70 and 4.72). This block prevents foreshortening of phalanges and
-    obscuring of interphalangeal joints. If the metacarpals only are of interest,
-    the image can be taken with Police and fingertips touching IR (Figs. 4.71 and
-    4.73). Mână ROUTINE PA PA oblique Lateral Fig. 4.70 Routine oblique Mână (digits
-    parallel). Fig. 4.71 Exception: Oblique Mână for metacarpals (digits not parallel)—not
-    recommended for digits. Fig. 4.72 PA oblique Mână (digits parallel).'
+  collimation: 'Field Size Collimate pe four sides la Mână și Pumn (Articulație Radiocarpiană).
+    Exception pentru routine oblic Mână, use support block la place falange paralel
+    cu receptorul de imagine (Figs. 4.70 și 4.72). This block prevents foreshortening
+    de falange și obscuring de articulații interfalangiene (IF). If oase metacarpiene
+    only sunt de interest, imagine poate fie taken cu Police și fingertips touching
+    receptorul de imagine (Figs. 4.71 și 4.73). Mână ROUTINE PA PA oblic lateral Fig.
+    4.70 Routine oblic Mână (falange paralel). Fig. 4.71 Exception: oblic Mână pentru
+    oase metacarpiene (falange nu paralel)—nu recommended pentru falange. Fig. 4.72
+    PA oblic Mână (falange paralel).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -102,8 +107,8 @@ title: Rx Mână PA Oblică
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură and luxație / subluxație articulară of the phalanges, metacarpals, and all joints of the Mână
-        - Pathologic processes, such as osteoporosis and artroză / modificări degenerative articulare
+        - suspiciune de fractură și luxație / subluxație articulară de falange, oase metacarpiene, și toate articulații de Mână
+        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare
 
     === "Ghid Național IRIS"
 
@@ -117,8 +122,8 @@ title: Rx Mână PA Oblică
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table with Mână and Antebraț extended.; Regiune anatomică: Pronate Mână on IR; center and align long axis of Mână with long axis of IR. Rotate entire Mână and Pumn (Articulație Radiocarpiană) laterally 45° and support with radiolucent wedge or step block, as shown, so that all digits are separated and parallel to IR (see Exception).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to a treia articulație metacarpofalangiană (MCP 3)
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune anatomică: Pronate Mână pe receptorul de imagine; center și align axa longitudinală de Mână cu axa longitudinală de receptorul de imagine. Rotate entire Mână și Pumn (Articulație Radiocarpiană) laterally 45° și support cu radiolucent wedge sau step block, ca vizualizat, so that toate falange sunt separated și paralel cu receptorul de imagine (see Exception).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la treia articulație metacarpofalangiană (MCP 3)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -134,19 +139,19 @@ title: Rx Mână PA Oblică
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to Mână and Pumn (Articulație Radiocarpiană). Exception For a routine oblique Mână, use a support block to place digits parallel to IR (Figs. 4.70 and 4.72). This block prevents foreshortening of phalanges and obscuring of interphalangeal joints. If the metacarpals only are of interest, the image can be taken with Police and fingertips touching IR (Figs. 4.71 and 4.73). Mână ROUTINE PA PA oblique Lateral Fig. 4.70 Routine oblique Mână (digits parallel). Fig. 4.71 Exception: Oblique Mână for metacarpals (digits not parallel)—not recommended for digits. Fig. 4.72 PA oblique Mână (digits parallel). |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la Mână și Pumn (Articulație Radiocarpiană). Exception pentru routine oblic Mână, use support block la place falange paralel cu receptorul de imagine (Figs. 4.70 și 4.72). This block prevents foreshortening de falange și obscuring de articulații interfalangiene (IF). If oase metacarpiene only sunt de interest, imagine poate fie taken cu Police și fingertips touching receptorul de imagine (Figs. 4.71 și 4.73). Mână ROUTINE PA PA oblic lateral Fig. 4.70 Routine oblic Mână (falange paralel). Fig. 4.71 Exception: oblic Mână pentru oase metacarpiene (falange nu paralel)—nu recommended pentru falange. Fig. 4.72 PA oblic Mână (falange paralel). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Incidență Oblică of the entire Mână and Pumn (Articulație Radiocarpiană) and about 1 inch (2.5 cm) of distal Antebraț are visible. Position:
-    - Long axis of Mână and Pumn (Articulație Radiocarpiană) should be aligned with IR.
-    - 45° oblique is evidenced by: treimea medie a diafizeis of metacarpals should not overlap; some overlap of distal heads of third, fourth, and fifth metacarpals but no overlap of distal second and third metacarpals should occur; excessive overlap of metacarpals indicates overrotation, and too much separation indicates underrotation.
-    - MCP and IP joints are open without foreshortening of midphalanges or distal phalanges, indicating that Degete Mână are parallel to IR (Fig. 4.74).
-    - CR and center of collimation field size should be at a treia articulație metacarpofalangiană (MCP 3). Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate soft tissue margins and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. R Fig. 4.73 PA oblique Mână (digits not parallel)—joint spaces not open. Carpals Head of 5th metacarpal Ulna Radius 1st digit (Police) 1st metacarpal 2nd 3rd 4th 5th R Fig. 4.74 PA oblique Mână (digits parallel).
+    - Incidență Oblică de entire Mână și Pumn (Articulație Radiocarpiană) și about 1 inch (2.5 cm) de distal Antebraț sunt vizibil. poziție:
+    - axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) trebuie să fie aliniat cu receptorul de imagine.
+    - 45° oblic este evidenced prin: treimea medie diafizeis de oase metacarpiene trebuie să nu overlap; some overlap de distal heads de third, fourth, și fifth oase metacarpiene but fără overlap de distal second și third oase metacarpiene trebuie să occur; excessive overlap de oase metacarpiene indicates overrotation, și too much separation indicates underrotation.
+    - MCP și articulații interfalangiene (IF) sunt open fără foreshortening de midphalanges sau distal falange, indicating that Degete Mână sunt paralel cu receptorul de imagine (Fig. 4.74).
+    - raza centrală și center de collimation field size trebuie să fie la treia articulație metacarpofalangiană (MCP 3). expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. R Fig. 4.73 PA oblic Mână (falange nu paralel)—spații articulare nu open. oase carpiene cap de 5th metacarpal Ulna Radius 1st falange (Police) 1st metacarpal 2nd 3rd 4th 5th R Fig. 4.74 PA oblic Mână (falange paralel).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,41 +171,41 @@ title: Rx Mână PA Oblică
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.70 Routine oblique Mână](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_1.jpeg)
+![Fig. 4.70 Routine oblic Mână](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.70 Routine oblique Mână</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.70 Routine oblique hand)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.71 Exception: Oblique](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.71 Exception: Oblique</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.71 Exception: Oblique)</span></figcaption>
+<figcaption><strong>Fig. 4.70 Routine oblic Mână</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.70 Routine oblic mână)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.72 PA oblique Mână (digits](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_3.jpeg)
+![Fig. 4.71 Exception: oblic](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.72 PA oblique Mână (digits</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.72 PA oblique hand (digits)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.73 PA oblique Mână (digits](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.73 PA oblique Mână (digits</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.73 PA oblique hand (digits)</span></figcaption>
+<figcaption><strong>Fig. 4.71 Exception: oblic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.71 Exception: oblic)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.74 PA oblique Mână (digits parallel).](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_5.jpeg)
+![Fig. 4.72 PA oblic Mână (falange](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.74 PA oblique Mână (digits parallel).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.74 PA oblique hand (digits parallel).)</span></figcaption>
+<figcaption><strong>Fig. 4.72 PA oblic Mână (falange</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.72 PA oblic mână (falange)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.73 PA oblic Mână (falange](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.73 PA oblic Mână (falange</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.73 PA oblic mână (falange)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.74 PA oblic Mână (falange paralel).](../../assets/images/protocols/bontrager/rx-mana-pa-oblica-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.74 PA oblic Mână (falange paralel).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.74 PA oblic mână (falange paralel).)</span></figcaption>
 
 </figure>
 

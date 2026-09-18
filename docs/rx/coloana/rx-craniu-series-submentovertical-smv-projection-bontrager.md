@@ -1,19 +1,21 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration. Fig. 11.119 SMV tabletop with grid cassette (inset
-  demonstrates use of upright imaging device). Raza centrală perpendiculară to IOML.
-  Craniu SERIES SPECIAL SMV
+breathing: Apnee pe durata expunerii. Fig. 11.119 SMV tabletop cu casetă cu grilă
+  antidifuzoare (inset evidențiază use de în ortostatism imaging device). Raza centrală
+  perpendiculară la linie infraorbitomeatală (LIOM). Craniu SERIES SPECIAL SMV
 category: coloana
-centering: is perpendicular to the infraorbitomeatal line (IOML). Center 1½ inch (4
-  cm) inferior to mandibular symphysis, or midway between the gonions (approximately
-  ¾ inch [2 cm] anterior to level of EAM). Center IR to CR.
+centering: este perpendicular pe linie infraorbitomeatală (LIOM) (linie infraorbitomeatală
+  (LIOM)). Center 1½ inch (4 cm) inferior la mandibular simfiză, sau midway între
+  gonions (approximately ¾ inch [2 cm] anterior la level de conduct auditiv extern
+  (CAE)). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Advanced bony pathology of the inner temporal bone structures (Craniu base)
+- Advanced bony pathology de inner temporal bone structures (Craniu base)
 - Possible basal Craniu suspiciune de fractură
 images:
-- caption: Fig. 11.119 SMV tabletop with grid cassette (inset demonstrates use
+- caption: Fig. 11.119 SMV tabletop cu casetă cu grilă antidifuzoare (inset evidențiază
+    use
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.119 SMV tabletop
-    with grid cassette (inset demonstrates use)
+    cu casetă cu grilă antidifuzoare (inset evidențiază use)
   url: assets/images/protocols/bontrager/rx-craniu-series-submentovertical-smv-projection-bontrager/fig_1.jpeg
 - caption: Fig. 11.121 SMV.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.121
@@ -25,24 +27,26 @@ images:
   url: assets/images/protocols/bontrager/rx-craniu-series-submentovertical-smv-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This position is uncomfortable for patients in the Ortostatism or the Decubit
-  Dorsal position; perform it as quickly as possible.
-position: 'Pacient: Remove all metal, plastic, and other removable objects from patient’s
-  head. Take radiograph with patient in an Ortostatism or Decubit Dorsal position.
-  The Ortostatism position is recommended using an Ortostatism table or an upright
-  imaging device (Fig. 11.119, inset). A wheelchair can also be used. A wheelchair
-  offers support for the back and provides greater stability in maintaining the position.
-  (Ensure wheels are locked before positioning patient.); Regiune anatomică: Raise
-  the patient’s chin and hyperextend the neck if possible until ioMl is parallel to
-  iR (see NOTE). Rest patient’s head on vertex. Align MsP perpendicular to the midline
-  of the grid or table/ imaging device surface, avoiding tilt or rotation. Decubit
-  Dorsal With the patient in the Decubit Dorsal position, extend patient’s head over
-  end of table and support grid cassette and head as shown in Fig. 11.119, keeping
-  ioMl parallel to iR and perpendicular to CR. Place a positioning sponge/pillow under
-  the patient’s back to support neck extension. Ortostatism If patient is unable to
-  extend the neck sufficiently, compensate by angling CR to remain perpendicular to
-  ioMl. Depending on the equipment used, IR also may be angled to maintain the perpendicular
-  relationship with CR (e.g., with an adjustable upright imaging device).'
+notes: This poziție este uncomfortable pentru pacienți în Ortostatism sau Decubit
+  dorsal poziție; perform it ca quickly ca possible.
+position: 'Pacient: Remove toate metal, plastic, și other removable objects de la
+  pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit dorsal poziție.
+  Ortostatism poziție este recommended using Ortostatism table sau în ortostatism
+  imaging device (Fig. 11.119, inset). wheelchair poate also fie used. wheelchair
+  offers support pentru back și provides greater stability în maintaining poziție.
+  (Ensure wheels sunt locked before positioning pacient.); Regiune anatomică: Raise
+  pacientul’s chin și hyperextend gâtul if possible until linie infraorbitomeatală
+  (LIOM) este paralel cu receptorul de imagine (see NOTE). Rest pacient’s cap pe vertex.
+  Align MsP perpendicular pe linia mediană grilă sau table/ imaging device surface,
+  avoiding tilt sau rotație. Decubit dorsal cu pacientul în Decubit dorsal poziție,
+  extend pacient’s cap over end de table și support casetă cu grilă antidifuzoare
+  și cap ca vizualizat în Fig. 11.119, keeping linie infraorbitomeatală (LIOM) paralel
+  cu receptorul de imagine și perpendicular la raza centrală. Place positioning sponge/pillow
+  under pacientul’s back la support neck extension. Ortostatism If pacient este unable
+  la se extinde neck sufficiently, compensate prin angling raza centrală la remain
+  perpendicular la linie infraorbitomeatală (LIOM). Depending pe equipment used, receptorul
+  de imagine also poate fie înclinat la maintain perpendicular relationship cu raza
+  centrală (e.g., cu adjustable în ortostatism imaging device).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,23 +54,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Foramen ovale and spinosum, Mandibulă, sphenoid and posterior ethmoid sinuses,
-  mastoid processes, petrous ridges, hard palate, foramen magnum, and occipital bone
-  are demonstrated (Figs. 11.120 and 11.121). Position:'
-- Correct extension of neck and relationship between IOML and CR as indicated by mandibular
-  mentum anterior to the ethmoid sinuses.
+- 'Foramen ovale și spinosum, Mandibulă, sphenoid și posterior sinusuri etmoidale,
+  mastoid processes, stânci temporale (piramide pietroase), hard palate, gaură occipitală
+  mare (foramen magnum), și occipital bone sunt evidențiat (Figs. 11.120 și 11.121).
+  poziție:'
+- Correct extension de neck și relationship între linie infraorbitomeatală (LIOM)
+  și raza centrală ca indicated prin mandibular mentum anterior la sinusuri etmoidale.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  evidenced by the MSP parallel to edge of IR.'
-- no tilt evidenced by equal distance between mandibular ramus and lateral cranial
+  evidenced prin MSP paralel la edge de receptorul de imagine.'
+- fără tilt evidenced prin equal distance între ramuri mandibulare și lateral cranial
   cortex.
-- 'Example: If the distance on the left side between the ramus and lateral Craniu
-  is greater on the left than the right, the cranial vertex is tilted to the left.'
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize clearly
-  outline of ethmoid and sphenoid sinuses and cranial foramen.
-- Sharp bony margins indicate no motion. Sphenoid and ethmoid sinuses Occipital bone
-  R Mastoid process Mandibular condyle Foramen ovale and spinosum Foramen magnum Mentum
-  Petrous pyramids Fig. 11.121 SMV. R Fig. 11.120 SMV.
+- 'Example: If distance pe stâng side între ramus și lateral Craniu este greater pe
+  stâng than drept, cranial vertex este tilted la stâng.'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize clearly
+  outline de ethmoid și sinusuri sfenoidale și cranial foramen.
+- net bony margins indicate fără mișcare. Sphenoid și sinusuri etmoidale Occipital
+  bone R proces mastoidian condil mandibular Foramen ovale și spinosum gaură occipitală
+  mare (foramen magnum) Mentum stânci temporale (piramide pietroase) Fig. 11.121 SMV.
+  R Fig. 11.120 SMV.
 sid_dff: 100 cm
 slug: rx-craniu-series-submentovertical-smv-projection-bontrager
 sources:
@@ -74,15 +80,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
+title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) Incidență
 ---
-# Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
+# Rx Craniu SERIES SUBMENTOVERTICAL (SMV) Incidență
 
 
 <div class="rx-meta-bar">
@@ -101,7 +107,7 @@ title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
 
     === "Indicații Clinice"
 
-        - Advanced bony pathology of the inner temporal bone structures (Craniu base)
+        - Advanced bony pathology de inner temporal bone structures (Craniu base)
         - Possible basal Craniu suspiciune de fractură
 
     === "Ghid Național IRIS"
@@ -116,10 +122,10 @@ title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metal, plastic, and other removable objects from patient’s head. Take radiograph with patient in an Ortostatism or Decubit Dorsal position. The Ortostatism position is recommended using an Ortostatism table or an upright imaging device (Fig. 11.119, inset). A wheelchair can also be used. A wheelchair offers support for the back and provides greater stability in maintaining the position. (Ensure wheels are locked before positioning patient.); Regiune anatomică: Raise the patient’s chin and hyperextend the neck if possible until ioMl is parallel to iR (see NOTE). Rest patient’s head on vertex. Align MsP perpendicular to the midline of the grid or table/ imaging device surface, avoiding tilt or rotation. Decubit Dorsal With the patient in the Decubit Dorsal position, extend patient’s head over end of table and support grid cassette and head as shown in Fig. 11.119, keeping ioMl parallel to iR and perpendicular to CR. Place a positioning sponge/pillow under the patient’s back to support neck extension. Ortostatism If patient is unable to extend the neck sufficiently, compensate by angling CR to remain perpendicular to ioMl. Depending on the equipment used, IR also may be angled to maintain the perpendicular relationship with CR (e.g., with an adjustable upright imaging device).
-    - **Punct de Centrare Fascicul:** is perpendicular to the infraorbitomeatal line (IOML). Center 1½ inch (4 cm) inferior to mandibular symphysis, or midway between the gonions (approximately ¾ inch [2 cm] anterior to level of EAM). Center IR to CR.
+    - **Poziție Pacient:** Pacient: Remove toate metal, plastic, și other removable objects de la pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. Ortostatism poziție este recommended using Ortostatism table sau în ortostatism imaging device (Fig. 11.119, inset). wheelchair poate also fie used. wheelchair offers support pentru back și provides greater stability în maintaining poziție. (Ensure wheels sunt locked before positioning pacient.); Regiune anatomică: Raise pacientul’s chin și hyperextend gâtul if possible until linie infraorbitomeatală (LIOM) este paralel cu receptorul de imagine (see NOTE). Rest pacient’s cap pe vertex. Align MsP perpendicular pe linia mediană grilă sau table/ imaging device surface, avoiding tilt sau rotație. Decubit dorsal cu pacientul în Decubit dorsal poziție, extend pacient’s cap over end de table și support casetă cu grilă antidifuzoare și cap ca vizualizat în Fig. 11.119, keeping linie infraorbitomeatală (LIOM) paralel cu receptorul de imagine și perpendicular la raza centrală. Place positioning sponge/pillow under pacientul’s back la support neck extension. Ortostatism If pacient este unable la se extinde neck sufficiently, compensate prin angling raza centrală la remain perpendicular la linie infraorbitomeatală (LIOM). Depending pe equipment used, receptorul de imagine also poate fie înclinat la maintain perpendicular relationship cu raza centrală (e.g., cu adjustable în ortostatism imaging device).
+    - **Punct de Centrare Fascicul:** este perpendicular pe linie infraorbitomeatală (LIOM) (linie infraorbitomeatală (LIOM)). Center 1½ inch (4 cm) inferior la mandibular simfiză, sau midway între gonions (approximately ¾ inch [2 cm] anterior la level de conduct auditiv extern (CAE)). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration. Fig. 11.119 SMV tabletop with grid cassette (inset demonstrates use of upright imaging device). Raza centrală perpendiculară to IOML. Craniu SERIES SPECIAL SMV
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.119 SMV tabletop cu casetă cu grilă antidifuzoare (inset evidențiază use de în ortostatism imaging device). Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). Craniu SERIES SPECIAL SMV
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -133,21 +139,21 @@ title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Foramen ovale and spinosum, Mandibulă, sphenoid and posterior ethmoid sinuses, mastoid processes, petrous ridges, hard palate, foramen magnum, and occipital bone are demonstrated (Figs. 11.120 and 11.121). Position:
-    - Correct extension of neck and relationship between IOML and CR as indicated by mandibular mentum anterior to the ethmoid sinuses.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase evidenced by the MSP parallel to edge of IR.
-    - no tilt evidenced by equal distance between mandibular ramus and lateral cranial cortex.
-    - Example: If the distance on the left side between the ramus and lateral Craniu is greater on the left than the right, the cranial vertex is tilted to the left.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize clearly outline of ethmoid and sphenoid sinuses and cranial foramen.
-    - Sharp bony margins indicate no motion. Sphenoid and ethmoid sinuses Occipital bone R Mastoid process Mandibular condyle Foramen ovale and spinosum Foramen magnum Mentum Petrous pyramids Fig. 11.121 SMV. R Fig. 11.120 SMV.
+    - Foramen ovale și spinosum, Mandibulă, sphenoid și posterior sinusuri etmoidale, mastoid processes, stânci temporale (piramide pietroase), hard palate, gaură occipitală mare (foramen magnum), și occipital bone sunt evidențiat (Figs. 11.120 și 11.121). poziție:
+    - Correct extension de neck și relationship între linie infraorbitomeatală (LIOM) și raza centrală ca indicated prin mandibular mentum anterior la sinusuri etmoidale.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase evidenced prin MSP paralel la edge de receptorul de imagine.
+    - fără tilt evidenced prin equal distance între ramuri mandibulare și lateral cranial cortex.
+    - Example: If distance pe stâng side între ramus și lateral Craniu este greater pe stâng than drept, cranial vertex este tilted la stâng.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize clearly outline de ethmoid și sinusuri sfenoidale și cranial foramen.
+    - net bony margins indicate fără mișcare. Sphenoid și sinusuri etmoidale Occipital bone R proces mastoidian condil mandibular Foramen ovale și spinosum gaură occipitală mare (foramen magnum) Mentum stânci temporale (piramide pietroase) Fig. 11.121 SMV. R Fig. 11.120 SMV.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,7 +166,7 @@ title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This position is uncomfortable for patients in the Ortostatism or the Decubit Dorsal position; perform it as quickly as possible.
+    This poziție este uncomfortable pentru pacienți în Ortostatism sau Decubit dorsal poziție; perform it ca quickly ca possible.
 
 
 ### 🖼️ Imagini
@@ -169,9 +175,9 @@ title: Rx Craniu SERIES SUBMENTOVERTICAL (SMV) PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.119 SMV tabletop with grid cassette (inset demonstrates use](../../assets/images/protocols/bontrager/rx-craniu-series-submentovertical-smv-projection-bontrager/fig_1.jpeg)
+![Fig. 11.119 SMV tabletop cu casetă cu grilă antidifuzoare (inset evidențiază use](../../assets/images/protocols/bontrager/rx-craniu-series-submentovertical-smv-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.119 SMV tabletop with grid cassette (inset demonstrates use</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.119 SMV tabletop with grid cassette (inset demonstrates use)</span></figcaption>
+<figcaption><strong>Fig. 11.119 SMV tabletop cu casetă cu grilă antidifuzoare (inset evidențiază use</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.119 SMV tabletop cu casetă cu grilă antidifuzoare (inset evidențiază use)</span></figcaption>
 
 </figure>
 

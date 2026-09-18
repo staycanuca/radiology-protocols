@@ -841,6 +841,45 @@ html {
   transition: margin-right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* Long protocol catalogs: keep navigation within the viewport, above the footer. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    position: sticky;
+    top: 3.2rem;
+    align-self: flex-start;
+    height: auto !important;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    height: auto !important;
+    max-height: calc(100dvh - 5.6rem);
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+  }
+}
+
+.md-main {
+  padding-bottom: 2rem;
+}
+
+.md-footer {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+
+.md-footer-meta {
+  background: transparent;
+}
+
+.md-footer .md-copyright,
+.md-footer .md-copyright a,
+.md-footer .md-copyright a:not(:hover) {
+  color: var(--md-default-fg-color--light);
+}
+
 .md-container.chat-open {
   margin-right: 480px;
 }
@@ -3076,6 +3115,4 @@ html {
 [data-md-color-scheme="slate"] .protocol-image-card figcaption span {
   color: #94a3b8;
 }
-
-
 

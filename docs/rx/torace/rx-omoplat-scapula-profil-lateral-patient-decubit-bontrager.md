@@ -1,36 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Omoplat (Scapulă) ROUTINE AP Lateral
-  Fig. 5.106 Decubit lateral Omoplat (Scapulă) position. Inset shows palpating the
-  borders of the Omoplat (Scapulă).
+breathing: Apnee pe durata expunerii. Omoplat (Scapulă) ROUTINE AP lateral Fig. 5.106
+  Decubit lateral Omoplat (Scapulă) poziție. Inset shows palpating margini de Omoplat
+  (Scapulă).
 category: torace
-centering: to midscapula lateral border
+centering: la midscapula lateral margine
 clinical_indications:
-- suspiciune de fractură of the Omoplat (Scapulă)
+- suspiciune de fractură de Omoplat (Scapulă)
 images:
-- caption: Fig. 5.106 Decubit lateral Omoplat (Scapulă) position. Inset shows palpating
+- caption: Fig. 5.106 Decubit lateral Omoplat (Scapulă) poziție. Inset shows palpating
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.106 Recumbent
-    lateral scapula position. Inset shows palpating)
+    lateral scapula poziție. Inset shows palpating)
   url: assets/images/protocols/bontrager/rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager/fig_1.jpeg
 - caption: Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz,
     DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.107
-    Erect lateral scapula. (Courtesy Joss Wertz, DO.))
+    în ortostatism lateral scapula. (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This position results in a magnified image because of increased OID.
-position: 'Pacient: Perform radiograph with patient in a Decubit Dorsal position,
-  and place affected arm across Torace. Palpate AC joint articulation and superior
-  border of the Omoplat (Scapulă) and rotate patient until an imaginary line between
-  these two points is perpendicular to the IR; this elevates the affected Umăr until
-  body of Omoplat (Scapulă) is in a true Incidență de Profil (Lateral). Flex Genunchi
-  of affected side to help patient maintain this oblique body position.; Regiune anatomică:
-  Align patient on tabletop so that center of the midlateral (axillary) border of
-  Omoplat (Scapulă) is centered to CR and IR (Fig. 5.106). Palpate borders of Omoplat
-  (Scapulă) by grasping medial and lateral borders of body of Omoplat (Scapulă) with
-  Degete Mână and Police (see Fig. 5.106, inset). Carefully adjust body rotation as
-  needed to bring the plane of the scapular body perpendicular to the iR.'
+notes: This poziție results în magnified imagine because de increased OID.
+position: 'Pacient: Perform radiografie cu pacient în Decubit dorsal poziție, și place
+  affected braț across Torace. Palpate articulații acromioclaviculare articulation
+  și superior margine de Omoplat (Scapulă) și rotate pacient until imaginary line
+  între these two points este perpendicular pe receptorul de imagine (RI); this elevates
+  affected Umăr until corp de Omoplat (Scapulă) este în true Incidență de Profil (lateral).
+  Flex Genunchi de affected side la help pacient maintain this oblic corp poziție.;
+  Regiune anatomică: Align pacient pe tabletop so that center de midlateral (axillary)
+  margine de Omoplat (Scapulă) este centrat pe raza centrală și receptorul de imagine
+  (Fig. 5.106). Palpate margini de Omoplat (Scapulă) prin grasping medial și lateral
+  margini de corp de Omoplat (Scapulă) cu Degete Mână și Police (see Fig. 5.106, inset).
+  Carefully adjust corp rotație ca needed la bring plane de scapular corp perpendicular
+  pe receptorul de imagine (RI).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -38,21 +39,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Omoplat (Scapulă) should be visualized in a Incidență de Profil (Lateral).
-  Position:'
-- True lateral is shown by direct superimposition of vertebral and lateral borders
-  (Fig. 5.107).
-- Body of Omoplat (Scapulă) should be seen in profile, free of superimposition by
-  Coaste (Grilaj Costal).
-- As much as possible, the Humerus should not superimpose area of interest of the
-  Omoplat (Scapulă).
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal exposure with no motion demonstrates sharp bony borders and trabecular markings.
-- Entire Omoplat (Scapulă) should be visualized without decreased image quality in
-  area of inferior angle.
-- Bony borders of both acromion and coracoid processes should be seen through the
-  head of the Humerus. Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy
-  Joss Wertz, DO.)
+- 'Entire Omoplat (Scapulă) trebuie să fie visualized în Incidență de Profil (lateral).
+  poziție:'
+- True lateral este vizualizat prin direct superimposition de vertebral și lateral
+  margini (Fig. 5.107).
+- corp de Omoplat (Scapulă) trebuie să fie seen în profile, liber de superimposition
+  prin Coaste (Grilaj Costal).
+- ca much ca possible, Humerus trebuie să nu superimpose aria de interes diagnostic
+  de Omoplat (Scapulă).
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim expunere cu fără mișcare evidențiază net bony margini și trabecular markings.
+- Entire Omoplat (Scapulă) trebuie să fie visualized fără decreased imagine quality
+  în area de inferior angle.
+- Bony margini de ambele acromion și coracoid processes trebuie să fie seen through
+  capul de Humerus. Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss
+  Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager
 sources:
@@ -60,7 +61,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Closely collimate to area of Omoplat (Scapulă).
+  collimation: Field Size Closely collimate la area de Omoplat (Scapulă).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -87,7 +88,7 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură of the Omoplat (Scapulă)
+        - suspiciune de fractură de Omoplat (Scapulă)
 
     === "Ghid Național IRIS"
 
@@ -101,10 +102,10 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in a Decubit Dorsal position, and place affected arm across Torace. Palpate AC joint articulation and superior border of the Omoplat (Scapulă) and rotate patient until an imaginary line between these two points is perpendicular to the IR; this elevates the affected Umăr until body of Omoplat (Scapulă) is in a true Incidență de Profil (Lateral). Flex Genunchi of affected side to help patient maintain this oblique body position.; Regiune anatomică: Align patient on tabletop so that center of the midlateral (axillary) border of Omoplat (Scapulă) is centered to CR and IR (Fig. 5.106). Palpate borders of Omoplat (Scapulă) by grasping medial and lateral borders of body of Omoplat (Scapulă) with Degete Mână and Police (see Fig. 5.106, inset). Carefully adjust body rotation as needed to bring the plane of the scapular body perpendicular to the iR.
-    - **Punct de Centrare Fascicul:** to midscapula lateral border
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Decubit dorsal poziție, și place affected braț across Torace. Palpate articulații acromioclaviculare articulation și superior margine de Omoplat (Scapulă) și rotate pacient until imaginary line între these two points este perpendicular pe receptorul de imagine (RI); this elevates affected Umăr until corp de Omoplat (Scapulă) este în true Incidență de Profil (lateral). Flex Genunchi de affected side la help pacient maintain this oblic corp poziție.; Regiune anatomică: Align pacient pe tabletop so that center de midlateral (axillary) margine de Omoplat (Scapulă) este centrat pe raza centrală și receptorul de imagine (Fig. 5.106). Palpate margini de Omoplat (Scapulă) prin grasping medial și lateral margini de corp de Omoplat (Scapulă) cu Degete Mână și Police (see Fig. 5.106, inset). Carefully adjust corp rotație ca needed la bring plane de scapular corp perpendicular pe receptorul de imagine (RI).
+    - **Punct de Centrare Fascicul:** la midscapula lateral margine
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Omoplat (Scapulă) ROUTINE AP Lateral Fig. 5.106 Decubit lateral Omoplat (Scapulă) position. Inset shows palpating the borders of the Omoplat (Scapulă).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Omoplat (Scapulă) ROUTINE AP lateral Fig. 5.106 Decubit lateral Omoplat (Scapulă) poziție. Inset shows palpating margini de Omoplat (Scapulă).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -118,21 +119,21 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Closely collimate to area of Omoplat (Scapulă). |
+    | **Colimare Fascicul** | Field Size Closely collimate la area de Omoplat (Scapulă). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Omoplat (Scapulă) should be visualized in a Incidență de Profil (Lateral). Position:
-    - True lateral is shown by direct superimposition of vertebral and lateral borders (Fig. 5.107).
-    - Body of Omoplat (Scapulă) should be seen in profile, free of superimposition by Coaste (Grilaj Costal).
-    - As much as possible, the Humerus should not superimpose area of interest of the Omoplat (Scapulă).
-    - Collimation field size to area of interest. Exposure:
-    - Optimal exposure with no motion demonstrates sharp bony borders and trabecular markings.
-    - Entire Omoplat (Scapulă) should be visualized without decreased image quality in area of inferior angle.
-    - Bony borders of both acromion and coracoid processes should be seen through the head of the Humerus. Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)
+    - Entire Omoplat (Scapulă) trebuie să fie visualized în Incidență de Profil (lateral). poziție:
+    - True lateral este vizualizat prin direct superimposition de vertebral și lateral margini (Fig. 5.107).
+    - corp de Omoplat (Scapulă) trebuie să fie seen în profile, liber de superimposition prin Coaste (Grilaj Costal).
+    - ca much ca possible, Humerus trebuie să nu superimpose aria de interes diagnostic de Omoplat (Scapulă).
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim expunere cu fără mișcare evidențiază net bony margini și trabecular markings.
+    - Entire Omoplat (Scapulă) trebuie să fie visualized fără decreased imagine quality în area de inferior angle.
+    - Bony margini de ambele acromion și coracoid processes trebuie să fie seen through capul de Humerus. Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,7 +146,7 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This position results in a magnified image because of increased OID.
+    This poziție results în magnified imagine because de increased OID.
 
 
 ### 🖼️ Imagini
@@ -154,9 +155,9 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.106 Decubit lateral Omoplat (Scapulă) position. Inset shows palpating](../../assets/images/protocols/bontrager/rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager/fig_1.jpeg)
+![Fig. 5.106 Decubit lateral Omoplat (Scapulă) poziție. Inset shows palpating](../../assets/images/protocols/bontrager/rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.106 Decubit lateral Omoplat (Scapulă) position. Inset shows palpating</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.106 Recumbent lateral scapula position. Inset shows palpating)</span></figcaption>
+<figcaption><strong>Fig. 5.106 Decubit lateral Omoplat (Scapulă) poziție. Inset shows palpating</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.106 Recumbent lateral scapula poziție. Inset shows palpating)</span></figcaption>
 
 </figure>
 
@@ -164,7 +165,7 @@ title: Rx Omoplat (Scapulă) Profil (Lateral) (PATIENT Decubit)
 
 ![Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-omoplat-scapula-profil-lateral-patient-decubit-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.107 Erect lateral scapula. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 5.107 Ortostatism lateral Omoplat (Scapulă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.107 în ortostatism lateral scapula. (Courtesy Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

@@ -2,32 +2,34 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed to midpoint of Gambă
+centering: perpendicular pe receptorul de imagine, orientat la midpoint de Gambă
 clinical_indications:
-- Localization of lesions and foreign bodies and determination of extent
-- Alignment of suspiciune de fractură demonstrated
+- Localization de lesions și Corp străin / corpuri străine radio-opace și determination
+  de extent
+- Alignment de suspiciune de fractură evidențiat
 images:
-- caption: Fig. 6.101 Mediolateral Gambă—include both joints.
+- caption: Fig. 6.101 Mediolateral Gambă—include ambele articulații.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.101 Mediolateral
-    lower leg—include both joints.)
+    lower membru inferior—include ambele articulații.)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_1.jpeg
-- caption: Fig. 6.102 Mediolateral Gambă projection. Inset shows proximal
+- caption: Fig. 6.102 Mediolateral Gambă incidență. Inset shows proximal
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.102
-    Mediolateral lower leg projection. Inset shows proximal)
+    Mediolateral lower membru inferior incidență. Inset shows proximal)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient in the lateral Decubit position, injured side down;
-  the opposite leg may be placed behind the affected leg and supported with a pillow
-  or sandbags.; Regiune anatomică: Ensure that leg is in true Incidență de Profil
-  (Lateral) (plane of Rotulă (Patelă) should be perpendicular to IR) (Fig. 6.101).
-  Ensure that both Gleznă (Articulație Talocrurală) and Genunchi joints are 1 to 2
-  inches (2.5 to 5 cm) from ends of IR so that divergent rays do not project either
-  joint off IR. If limb is too long, place the Gambă diagonally (corner to corner)
-  on one 14 × 17- inch (35 × 43- cm) IR to ensure that both joints are included (Fig.
-  6.102, inset). (Also, if needed, a second, smaller IR may be taken of the joint
-  furthest from the injury site.)'
+position: 'Pacient: Place pacient în lateral Decubit poziție, injured side down; opposite
+  membru inferior poate fie plasat behind membrul inferior afectat și sprijinit cu
+  pillow sau săculeți cu nisip.; Regiune anatomică: Ensure that membru inferior este
+  în true Incidență de Profil (lateral) (plane de Rotulă (Patelă) trebuie să fie perpendicular
+  pe receptorul de imagine) (Fig. 6.101). Ensure that ambele Gleznă (Articulație Talocrurală)
+  și Genunchi articulații sunt 1 la 2 inches (2.5 la 5 cm) de la ends de receptorul
+  de imagine so that divergent rays do nu project either articulație off receptorul
+  de imagine. If limb este too long, place Gambă diagonally (corner la corner) pe
+  one 14 × 17- inch (35 × 43- cm) receptorul de imagine la ensure that ambele articulații
+  sunt included (Fig. 6.102, inset). (Also, if needed, second, smaller receptorul
+  de imagine poate fie taken de articulație cel mai depărtat de injury site.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -35,19 +37,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire tibia and fibula must include Gleznă (Articulație Talocrurală) and Genunchi
-  joints on this projection (or two if needed).
-- 'Exception is alternative routine on followup examinations (Fig. 6.102). Position:'
-- True lateral of tibia and fibula without rotation demonstrates tibial tuberosity
-  in profile, a portion of the proximal head of the fibula superimposed by the tibia,
-  and outlines of the distal fibula seen through posterior half of the tibia.
-- Posterior borders of femoral condyles should appear superimposed.
-- 'Collimation to area of interest. Exposure:'
-- No motion is present, as evidenced by sharp cortical margins and trabecular patterns.
-- Correct use of the anode heel effect results in nearequal visualization of anatomy
-  at both ends of the image.
-- Optimal image receptor exposure and contrast should be optimum to visualize soft
-  tissue and bony trabecular markings.
+- Entire tibia și fibula trebuie să include Gleznă (Articulație Talocrurală) și Genunchi
+  articulații pe this incidență (sau two if needed).
+- 'Exception este alternative routine pe followup examinations (Fig. 6.102). poziție:'
+- True lateral de tibia și fibula fără rotație evidențiază tuberozitate tibială anterioară
+  (TTA) în profile, portion de proximal cap de fibula superimposed prin tibia, și
+  outlines de distal fibula seen through posterior half de tibia.
+- posterior margini de femoral condyles trebuie să appear superimposed.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare este present, ca evidenced prin net cortical margins și trabecular
+  patterns.
+- Correct use de anode heel effect results în nearequal visualization de anatomy la
+  ambele ends de imagine.
+- optim receptorul de imagine expunere și contrast trebuie să fie optimum la visualize
+  părți moi și bony trabecular markings.
 sid_dff: 100 cm
 slug: rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager
 sources:
@@ -55,28 +58,30 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate on both sides to skin margins, with full collimation at ends
-    to include maximum Genunchi and Gleznă (Articulație Talocrurală) joints. Alternative
-    FollowUp Examination Routine The routine for followup examinations of long bones
-    in some departments is to include only the one joint nearest the site of injury
-    and to place this joint a minimum of 2 inches (5 cm) from the end of the IR for
-    better demonstration of the joint. However, for initial examinations, it is especially
-    important when the injury site is in the distal Gambă to include the proximal
-    tibiofibular joint area because it is common to have a second suspiciune de fractură
-    at this site. Horizontal Beam (CrossTable) Lateral If patient cannot be turned,
-    this image can be taken crosstable with IR placed on edge between lower legs.
-    Place a support under injured leg to center the Gambă to IR, and direct horizontal
-    beam from lateral side of patient. Diagonal placement Gambă AP Lateral Fig. 6.101
-    Mediolateral Gambă—include both joints. Fig. 6.102 Mediolateral Gambă projection.
-    Inset shows proximal Gambă to show both joints are included.
+  collimation: Collimate pe ambele părți (bilateral) la skin margins, cu full collimation
+    la ends la include maximum Genunchi și Gleznă (Articulație Talocrurală) articulații.
+    Alternative FollowUp Examination Routine routine pentru followup examinations
+    de long bones în some departments este la include only one articulație nearest
+    site de injury și la place this articulație minimum de 2 inches (5 cm) de la end
+    de receptorul de imagine pentru better demonstration de articulație. However,
+    pentru initial examinations, it este especially important when injury site este
+    în distal Gambă pentru include proximal tibiofibular articulație area because
+    it este common la have second suspiciune de fractură la this site. orizontal fascicul
+    (CrossTable) lateral If pacient cannot fie turned, this imagine poate fie taken
+    crosstable cu receptorul de imagine plasat pe edge între lower membre inferioare.
+    Place support under injured membru inferior la se centrează Gambă la receptorul
+    de imagine, și direct orizontal fascicul de la lateral side de pacient. Diagonal
+    placement Gambă AP lateral Fig. 6.101 Mediolateral Gambă—include ambele articulații.
+    Fig. 6.102 Mediolateral Gambă incidență. Inset shows proximal Gambă la show ambele
+    articulații sunt included.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
+title: Rx Medio-Lateral Incidență LATERAL (Gambă (TIBIA AND FIBULA))
 ---
-# Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
+# Rx Medio-Lateral Incidență LATERAL (Gambă (TIBIA AND FIBULA))
 
 
 <div class="rx-meta-bar">
@@ -95,8 +100,8 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
 
     === "Indicații Clinice"
 
-        - Localization of lesions and foreign bodies and determination of extent
-        - Alignment of suspiciune de fractură demonstrated
+        - Localization de lesions și Corp străin / corpuri străine radio-opace și determination de extent
+        - Alignment de suspiciune de fractură evidențiat
 
     === "Ghid Național IRIS"
 
@@ -110,8 +115,8 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the lateral Decubit position, injured side down; the opposite leg may be placed behind the affected leg and supported with a pillow or sandbags.; Regiune anatomică: Ensure that leg is in true Incidență de Profil (Lateral) (plane of Rotulă (Patelă) should be perpendicular to IR) (Fig. 6.101). Ensure that both Gleznă (Articulație Talocrurală) and Genunchi joints are 1 to 2 inches (2.5 to 5 cm) from ends of IR so that divergent rays do not project either joint off IR. If limb is too long, place the Gambă diagonally (corner to corner) on one 14 × 17- inch (35 × 43- cm) IR to ensure that both joints are included (Fig. 6.102, inset). (Also, if needed, a second, smaller IR may be taken of the joint furthest from the injury site.)
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to midpoint of Gambă
+    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, injured side down; opposite membru inferior poate fie plasat behind membrul inferior afectat și sprijinit cu pillow sau săculeți cu nisip.; Regiune anatomică: Ensure that membru inferior este în true Incidență de Profil (lateral) (plane de Rotulă (Patelă) trebuie să fie perpendicular pe receptorul de imagine) (Fig. 6.101). Ensure that ambele Gleznă (Articulație Talocrurală) și Genunchi articulații sunt 1 la 2 inches (2.5 la 5 cm) de la ends de receptorul de imagine so that divergent rays do nu project either articulație off receptorul de imagine. If limb este too long, place Gambă diagonally (corner la corner) pe one 14 × 17- inch (35 × 43- cm) receptorul de imagine la ensure that ambele articulații sunt included (Fig. 6.102, inset). (Also, if needed, second, smaller receptorul de imagine poate fie taken de articulație cel mai depărtat de injury site.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midpoint de Gambă
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,21 +132,21 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate on both sides to skin margins, with full collimation at ends to include maximum Genunchi and Gleznă (Articulație Talocrurală) joints. Alternative FollowUp Examination Routine The routine for followup examinations of long bones in some departments is to include only the one joint nearest the site of injury and to place this joint a minimum of 2 inches (5 cm) from the end of the IR for better demonstration of the joint. However, for initial examinations, it is especially important when the injury site is in the distal Gambă to include the proximal tibiofibular joint area because it is common to have a second suspiciune de fractură at this site. Horizontal Beam (CrossTable) Lateral If patient cannot be turned, this image can be taken crosstable with IR placed on edge between lower legs. Place a support under injured leg to center the Gambă to IR, and direct horizontal beam from lateral side of patient. Diagonal placement Gambă AP Lateral Fig. 6.101 Mediolateral Gambă—include both joints. Fig. 6.102 Mediolateral Gambă projection. Inset shows proximal Gambă to show both joints are included. |
+    | **Colimare Fascicul** | Collimate pe ambele părți (bilateral) la skin margins, cu full collimation la ends la include maximum Genunchi și Gleznă (Articulație Talocrurală) articulații. Alternative FollowUp Examination Routine routine pentru followup examinations de long bones în some departments este la include only one articulație nearest site de injury și la place this articulație minimum de 2 inches (5 cm) de la end de receptorul de imagine pentru better demonstration de articulație. However, pentru initial examinations, it este especially important when injury site este în distal Gambă pentru include proximal tibiofibular articulație area because it este common la have second suspiciune de fractură la this site. orizontal fascicul (CrossTable) lateral If pacient cannot fie turned, this imagine poate fie taken crosstable cu receptorul de imagine plasat pe edge între lower membre inferioare. Place support under injured membru inferior la se centrează Gambă la receptorul de imagine, și direct orizontal fascicul de la lateral side de pacient. Diagonal placement Gambă AP lateral Fig. 6.101 Mediolateral Gambă—include ambele articulații. Fig. 6.102 Mediolateral Gambă incidență. Inset shows proximal Gambă la show ambele articulații sunt included. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire tibia and fibula must include Gleznă (Articulație Talocrurală) and Genunchi joints on this projection (or two if needed).
-    - Exception is alternative routine on followup examinations (Fig. 6.102). Position:
-    - True lateral of tibia and fibula without rotation demonstrates tibial tuberosity in profile, a portion of the proximal head of the fibula superimposed by the tibia, and outlines of the distal fibula seen through posterior half of the tibia.
-    - Posterior borders of femoral condyles should appear superimposed.
-    - Collimation to area of interest. Exposure:
-    - No motion is present, as evidenced by sharp cortical margins and trabecular patterns.
-    - Correct use of the anode heel effect results in nearequal visualization of anatomy at both ends of the image.
-    - Optimal image receptor exposure and contrast should be optimum to visualize soft tissue and bony trabecular markings.
+    - Entire tibia și fibula trebuie să include Gleznă (Articulație Talocrurală) și Genunchi articulații pe this incidență (sau two if needed).
+    - Exception este alternative routine pe followup examinations (Fig. 6.102). poziție:
+    - True lateral de tibia și fibula fără rotație evidențiază tuberozitate tibială anterioară (TTA) în profile, portion de proximal cap de fibula superimposed prin tibia, și outlines de distal fibula seen through posterior half de tibia.
+    - posterior margini de femoral condyles trebuie să appear superimposed.
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare este present, ca evidenced prin net cortical margins și trabecular patterns.
+    - Correct use de anode heel effect results în nearequal visualization de anatomy la ambele ends de imagine.
+    - optim receptorul de imagine expunere și contrast trebuie să fie optimum la visualize părți moi și bony trabecular markings.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -161,17 +166,17 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Gambă (TIBIA AND FIBULA))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.101 Mediolateral Gambă—include both joints.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_1.jpeg)
+![Fig. 6.101 Mediolateral Gambă—include ambele articulații.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.101 Mediolateral Gambă—include both joints.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.101 Mediolateral lower leg—include both joints.)</span></figcaption>
+<figcaption><strong>Fig. 6.101 Mediolateral Gambă—include ambele articulații.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.101 Mediolateral lower membru inferior—include ambele articulații.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.102 Mediolateral Gambă projection. Inset shows proximal](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_2.jpeg)
+![Fig. 6.102 Mediolateral Gambă incidență. Inset shows proximal](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-gamba-tibia-and-fibula-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.102 Mediolateral Gambă projection. Inset shows proximal</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.102 Mediolateral lower leg projection. Inset shows proximal)</span></figcaption>
+<figcaption><strong>Fig. 6.102 Mediolateral Gambă incidență. Inset shows proximal</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.102 Mediolateral lower membru inferior incidență. Inset shows proximal)</span></figcaption>
 
 </figure>
 

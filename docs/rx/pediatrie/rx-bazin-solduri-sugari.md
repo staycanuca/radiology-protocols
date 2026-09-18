@@ -4,7 +4,7 @@ breathing: Nemodificată
 category: pediatrie
 centering: Pe linia mediană, la nivelul simfizei pubiene
 clinical_indications:
-- Depistarea și evaluarea displaziei de dezvoltare a șoldului (DDH) la sugari peste
+- Depistarea și evaluarea displaziei de dezvoltare șoldului (DDH) la sugari peste
   4-6 luni (după debutul osificării capului femural)
 - Monitorizare post-tratament cu ham Pavlik sau atelă de abducție
 - Luxație congenitală de șold confirmată
@@ -24,13 +24,29 @@ protection:
   automată din template.
 - Însoțitorul este protejat cu șorț și mănuși de plumb
 quality_criteria:
-- Simetrie perfectă a inelului pelvin (absența înclinației pelvine)
+- Simetrie perfectă inelului pelvin (absența înclinației pelvine)
 - Găurile obturatoare simetrice ca dimensiune
-- 'Trasarea clară a reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele
+- 'Trasarea clară reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele
   triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton'
 - Calculul unghiului acetabular (normal < 30° la nou-născut, < 25° la 6 luni)
 sid_dff: 100 cm
 slug: rx-bazin-solduri-sugari
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Image Gently Alliance
+  kind: Ghid pediatric de reducere a dozei
+  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
+  source_region: US
+  title: Image Gently — Pediatric Digital Radiography Protocols
+  url: https://www.imagegently.org/Procedures/Digital-Radiography
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
+    pediatrică
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
 tech_params:
   aec_chambers: Manual
   collimation: De la crestele iliace la treimea superioară femurală
@@ -40,29 +56,13 @@ tech_params:
   kv: 55 - 60
   mas: 3 - 5
 title: Rx Bazin & Șolduri Sugari (Displazie de Șold)
-sources:
-- title: Image Gently — Pediatric Digital Radiography Protocols
-  url: https://www.imagegently.org/Procedures/Digital-Radiography
-  institution: Image Gently Alliance
-  source_region: US
-  kind: Ghid pediatric de reducere a dozei
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
-- title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
-    pediatrică
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
 ---
-
 # Rx Bazin & Șolduri Sugari (Displazie de Șold)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -76,7 +76,7 @@ sources:
 
     === "Indicații Clinice"
 
-        - Depistarea și evaluarea displaziei de dezvoltare a șoldului (DDH) la sugari peste 4-6 luni (după debutul osificării capului femural)
+        - Depistarea și evaluarea displaziei de dezvoltare șoldului (DDH) la sugari peste 4-6 luni (după debutul osificării capului femural)
         - Monitorizare post-tratament cu ham Pavlik sau atelă de abducție
         - Luxație congenitală de șold confirmată
 
@@ -116,9 +116,9 @@ sources:
 
     ---
 
-    - Simetrie perfectă a inelului pelvin (absența înclinației pelvine)
+    - Simetrie perfectă inelului pelvin (absența înclinației pelvine)
     - Găurile obturatoare simetrice ca dimensiune
-    - Trasarea clară a reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton
+    - Trasarea clară reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton
     - Calculul unghiului acetabular (normal < 30° la nou-născut, < 25° la 6 luni)
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -141,7 +141,8 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography) — *Image Gently Alliance* (US)
-- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
+## Surse de documentare
+
+- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography)
+- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)

@@ -1,0 +1,24 @@
+{
+  "categories": {
+    "abdomen": 71,
+    "coloana": 60,
+    "craniu-saf": 56,
+    "membru-inferior": 113,
+    "membru-superior": 120,
+    "neclasificat": 2,
+    "pediatrie": 6,
+    "torace": 64
+  },
+  "sidebar_matches_main_titles_and_order": true,
+  "desktop_horizontal_overflow": false,
+  "mobile_horizontal_overflow": false,
+  "footer_overlap": false,
+  "search_index_http_status": 200,
+  "search_index_bytes": 5487230,
+  "search_query": "Merrill",
+  "search_results": 254,
+  "search_worker_http_status": 200,
+  "clean_browser_search_errors": [],
+  "browser": "Microsoft Edge headless, fresh profile",
+  "build": "passed; pre-existing link warnings remain"
+}

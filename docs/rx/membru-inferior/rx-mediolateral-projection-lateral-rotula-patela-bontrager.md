@@ -2,33 +2,35 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: is perpendicular to IR. Direct CR to midpatellofemoral joint.
+centering: este perpendicular pe receptorul de imagine. Raza centrală se orientează
+  spre midpatellofemoral articulație.
 clinical_indications:
-- Evaluation of patellar suspiciune de fractură in conjunction with the PA
-- Abnormalities of patellofemoral and femorotibial joints
+- Evaluation de patellar suspiciune de fractură în conjunction cu PA
+- Abnormalities de patellofemoral și femorotibial articulații
 images:
-- caption: Fig. 6.132 Lateral Rotulă (Patelă).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.132 Lateral
-    patella.)
+- caption: Fig. 6.132 lateral Rotulă (Patelă).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.132 lateral
+    rotulă (patelă).)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_1.jpeg
-- caption: Fig. 6.133 Lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
+- caption: Fig. 6.133 lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.133
-    Lateral patella. (Courtesy Joss Wertz, DO.))
+    lateral rotulă (patelă). (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This also can be taken as a horizontal beam lateral with no Genunchi flexion
-  on a patient with severe traumatism acuttism / Regim Urgență, as described in Chapter
-  15. Rotulă (Patelă) PA Lateral Tangential Fig. 6.132 Lateral Rotulă (Patelă). Fig.
-  6.133 Lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
-position: 'Pacient: Place patient in lateral Decubit position, affected side down;
-  provide a pillow for patient’s head; provide support for Genunchi of opposite limb
-  placed behind affected Genunchi.; Regiune anatomică: Adjust rotation of body and
-  leg until Genunchi is in true Incidență de Profil (Lateral) (femoral epicondyles
-  directly superimposed and plane of Rotulă (Patelă) perpendicular to plane of IR).
-  Flex Genunchi only 5° or 10°. (Additional flexion may separate suspiciune de fractură
-  fragments if present.) Align and center long axis of Rotulă (Patelă) to CR and to
-  centerline of table or IR (Fig. 6.132).'
+notes: This also poate fie taken ca orizontal fascicul lateral cu fără Genunchi flexion
+  pe pacient cu severe traumatism acuttism / Regim Urgență, ca described în Chapter
+  15. Rotulă (Patelă) PA lateral tangențial Fig. 6.132 lateral Rotulă (Patelă). Fig.
+  6.133 lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
+position: 'Pacient: Place pacient în lateral Decubit poziție, affected side down;
+  provide pillow pentru pacient’s cap; provide support pentru Genunchi de opposite
+  limb plasat behind affected Genunchi.; Regiune anatomică: Adjust rotație de corp
+  și membru inferior until Genunchi este în true Incidență de Profil (lateral) (femoral
+  epicondyles directly superimposed și plane de Rotulă (Patelă) perpendicular la plane
+  de receptorul de imagine). Flex Genunchi only 5° sau 10°. (Additional flexion poate
+  separate suspiciune de fractură fragments if present.) Align și center axa longitudinală
+  de Rotulă (Patelă) la raza centrală și la centerline de table sau receptorul de
+  imagine (Fig. 6.132).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -36,15 +38,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Profile images of Rotulă (Patelă), patellofemoral joint, and femorotibial joint
-  are demonstrated (Fig. 6.133). Position:'
-- 'True lateral: Anterior and posterior borders of medial and lateral femoral condyles
-  should be directly superimposed, and patellofemoral joint space should appear open.'
-- 'Centering and angulation are correct if Rotulă (Patelă) is in center of the film
-  and collimated field with joint spaces open. Exposure:'
-- Optimal image receptor exposure and contrast to visualize soft tissue detail and
-  Rotulă (Patelă) well without overexposure.
-- Trabecular markings of Rotulă (Patelă) and other bones should appear clear and sharp.
+- 'Profile imagini de Rotulă (Patelă), patellofemoral articulație, și femorotibial
+  articulație sunt evidențiat (Fig. 6.133). poziție:'
+- 'True lateral: anterior și posterior margini de medial și lateral femoral condyles
+  trebuie să fie directly superimposed, și patellofemoral spații articulare trebuie
+  să appear open.'
+- 'Centering și angulation sunt correct if Rotulă (Patelă) este în center de film
+  radiologic și câmp colimat cu spații articulare open. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize părți moi detail și
+  Rotulă (Patelă) well fără overexposure.
+- Trabecular markings de Rotulă (Patelă) și other bones trebuie să appear clear și
+  net.
 sid_dff: 100 cm
 slug: rx-mediolateral-projection-lateral-rotula-patela-bontrager
 sources:
@@ -52,16 +56,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate closely on four sides to include just the area of the Rotulă
-    (Patelă) and Genunchi joint.
+  collimation: Collimate closely pe four sides la include just area de Rotulă (Patelă)
+    și Genunchi articulație.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
+title: Rx Medio-Lateral Incidență LATERAL (Rotulă (Patelă))
 ---
-# Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
+# Rx Medio-Lateral Incidență LATERAL (Rotulă (Patelă))
 
 
 <div class="rx-meta-bar">
@@ -80,8 +84,8 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
 
     === "Indicații Clinice"
 
-        - Evaluation of patellar suspiciune de fractură in conjunction with the PA
-        - Abnormalities of patellofemoral and femorotibial joints
+        - Evaluation de patellar suspiciune de fractură în conjunction cu PA
+        - Abnormalities de patellofemoral și femorotibial articulații
 
     === "Ghid Național IRIS"
 
@@ -95,8 +99,8 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in lateral Decubit position, affected side down; provide a pillow for patient’s head; provide support for Genunchi of opposite limb placed behind affected Genunchi.; Regiune anatomică: Adjust rotation of body and leg until Genunchi is in true Incidență de Profil (Lateral) (femoral epicondyles directly superimposed and plane of Rotulă (Patelă) perpendicular to plane of IR). Flex Genunchi only 5° or 10°. (Additional flexion may separate suspiciune de fractură fragments if present.) Align and center long axis of Rotulă (Patelă) to CR and to centerline of table or IR (Fig. 6.132).
-    - **Punct de Centrare Fascicul:** is perpendicular to IR. Direct CR to midpatellofemoral joint.
+    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, affected side down; provide pillow pentru pacient’s cap; provide support pentru Genunchi de opposite limb plasat behind affected Genunchi.; Regiune anatomică: Adjust rotație de corp și membru inferior until Genunchi este în true Incidență de Profil (lateral) (femoral epicondyles directly superimposed și plane de Rotulă (Patelă) perpendicular la plane de receptorul de imagine). Flex Genunchi only 5° sau 10°. (Additional flexion poate separate suspiciune de fractură fragments if present.) Align și center axa longitudinală de Rotulă (Patelă) la raza centrală și la centerline de table sau receptorul de imagine (Fig. 6.132).
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Raza centrală se orientează spre midpatellofemoral articulație.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -112,18 +116,18 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate closely on four sides to include just the area of the Rotulă (Patelă) and Genunchi joint. |
+    | **Colimare Fascicul** | Collimate closely pe four sides la include just area de Rotulă (Patelă) și Genunchi articulație. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Profile images of Rotulă (Patelă), patellofemoral joint, and femorotibial joint are demonstrated (Fig. 6.133). Position:
-    - True lateral: Anterior and posterior borders of medial and lateral femoral condyles should be directly superimposed, and patellofemoral joint space should appear open.
-    - Centering and angulation are correct if Rotulă (Patelă) is in center of the film and collimated field with joint spaces open. Exposure:
-    - Optimal image receptor exposure and contrast to visualize soft tissue detail and Rotulă (Patelă) well without overexposure.
-    - Trabecular markings of Rotulă (Patelă) and other bones should appear clear and sharp.
+    - Profile imagini de Rotulă (Patelă), patellofemoral articulație, și femorotibial articulație sunt evidențiat (Fig. 6.133). poziție:
+    - True lateral: anterior și posterior margini de medial și lateral femoral condyles trebuie să fie directly superimposed, și patellofemoral spații articulare trebuie să appear open.
+    - Centering și angulation sunt correct if Rotulă (Patelă) este în center de film radiologic și câmp colimat cu spații articulare open. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize părți moi detail și Rotulă (Patelă) well fără overexposure.
+    - Trabecular markings de Rotulă (Patelă) și other bones trebuie să appear clear și net.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -136,7 +140,7 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This also can be taken as a horizontal beam lateral with no Genunchi flexion on a patient with severe traumatism acuttism / Regim Urgență, as described in Chapter 15. Rotulă (Patelă) PA Lateral Tangential Fig. 6.132 Lateral Rotulă (Patelă). Fig. 6.133 Lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
+    This also poate fie taken ca orizontal fascicul lateral cu fără Genunchi flexion pe pacient cu severe traumatism acuttism / Regim Urgență, ca described în Chapter 15. Rotulă (Patelă) PA lateral tangențial Fig. 6.132 lateral Rotulă (Patelă). Fig. 6.133 lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)
 
 
 ### 🖼️ Imagini
@@ -145,17 +149,17 @@ title: Rx MEDIOLATERAL PROJECTION LATERAL (Rotulă (Patelă))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.132 Lateral Rotulă (Patelă).](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_1.jpeg)
+![Fig. 6.132 lateral Rotulă (Patelă).](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.132 Lateral Rotulă (Patelă).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.132 Lateral patella.)</span></figcaption>
+<figcaption><strong>Fig. 6.132 lateral Rotulă (Patelă).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.132 lateral rotulă (patelă).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.133 Lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_2.jpeg)
+![Fig. 6.133 lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-rotula-patela-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.133 Lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.133 Lateral patella. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.133 lateral Rotulă (Patelă). (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.133 lateral rotulă (patelă). (Courtesy Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

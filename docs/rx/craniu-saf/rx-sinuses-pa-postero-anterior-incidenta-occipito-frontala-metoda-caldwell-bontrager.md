@@ -1,46 +1,50 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align CR horizontal, parallel with floor (see NOTE). Center CR to exit
-  at nasion.
+centering: Align raza centrală orizontal, paralel cu floor (see NOTE). Center raza
+  centrală la exit la nazion.
 clinical_indications:
 - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii
   osoase)
 - Sinus exudate
-- Sinus polyps or cysts
+- Sinus polyps sau cysts
 images:
-- caption: Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted). Inset,
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.189 CR horizontal,
-    OML 15° to CR (if cannot be tilted). Inset,)
+- caption: Fig. 11.189 raza centrală orizontal, linie orbitomeatală (LOM) 15° la raza
+    centrală (if cannot fie tilted). Inset,
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.189 raza centrală
+    orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie tilted).
+    Inset,)
   url: assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg
 - caption: Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.190
-    PA projection—sinuses.)
+    PA incidență—sinuses.)
   url: assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg
 - caption: Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.191
-    PA projection—sinuses.)
+    PA incidență—sinuses.)
   url: assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To assess airfluid levels accurately, CR must be horizontal, and the patient
-  must be Ortostatism. Alternative Method An alternative method if the imaging device
-  can be tilted 15° is shown (see Fig. 11.189, inset). The patient’s forehead and
-  nose can be supported directly against the imaging device with oMl perpendicular
-  to imaging device surface and 15° to horizontal CR. SINUSES ROUTINE Lateral PA (Incidență
-  Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră
-  (Metoda Waters)) Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted).
-  Inset, If upright, imaging device can be tilted 15°.
-position: 'Pacient: Remove all metallic or plastic objects from head and neck. Position
-  patient Ortostatism (see NOTE).; Regiune anatomică: Place patient’s nose and forehead
-  against upright imaging device or table with neck extended to elevate oMl 15° from
-  horizontal. A radiolucent support between forehead and upright imaging device or
-  table may be used to maintain this position (Fig. 11.189). CR remains horizontal.
-  (See alternative method if imaging device can be tilted 15°.) Align MsP perpendicular
-  to midline of grid or upright imaging device surface. Center IR to CR and to nasion,
-  ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase.'
+notes: la assess airfluid levels accurately, raza centrală trebuie să fie orizontal,
+  și pacientul trebuie să fie Ortostatism. Alternative Method alternative method if
+  imaging device poate fie tilted 15° este vizualizat (see Fig. 11.189, inset). pacientul’s
+  forehead și nose poate fie sprijinit directly pe / sprijinit de imaging device cu
+  linie orbitomeatală (LOM) perpendicular la imaging device surface și 15° la orizontal
+  raza centrală. SINUSES ROUTINE lateral PA (Incidență Occipito-Frontală (Metoda Caldwell))
+  Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.189 raza
+  centrală orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie
+  tilted). Inset, If în ortostatism, imaging device poate fie tilted 15°.
+position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
+  capului și gâtului. poziție pacient Ortostatism (see NOTE).; Regiune anatomică:
+  Place pacient’s nose și forehead against în ortostatism imaging device sau table
+  cu neck extins la elevate linie orbitomeatală (LOM) 15° de la orizontal. radiolucent
+  support între forehead și în ortostatism imaging device sau table poate fie used
+  la maintain this poziție (Fig. 11.189). raza centrală remains orizontal. (See alternative
+  method if imaging device poate fie tilted 15°.) Align MsP perpendicular la midline
+  de grilă sau în ortostatism imaging device surface. Se centrează receptorul de imagine
+  pe raza centrală și la nazion, ensuring Absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,23 +52,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Frontal sinuses projected above the frontonasal suture are demonstrated.
-- 'Anterior ethmoid air cells are visualized lateral to each nasal bone, directly
-  below the frontal sinuses (Figs. 11.190 and 11.191). Position:'
-- 'Accurately positioned Craniu with Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase or tilt is indicated by the following: equal distance
-  from the lateral margin of the orbit to the lateral cortex of the Craniu on both
-  sides (side rotated toward IR will appear wider); equal distance from the MSP (identified
-  by the crista galli) to the lateral orbital margin on both sides; superior orbital
-  fissures symmetrically visualized within the Orbite.'
-- Correct alignment of OML and CR projects petrous ridges into lower onethird of Orbite
-  (black arrows).
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast are sufficient to visualize the frontal
-  and ethmoid sinuses.
-- Sharp bony margins indicate no motion. Fig. 11.190 Incidență Postero-Anterioară
-  (PA)—sinuses. Frontal sinus Ethmoid sinus Crista galli Superior orbital fissure
-  Bony nasal septum Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.
+- sinusuri frontale projected above frontonasal suture sunt evidențiat.
+- 'anterior ethmoid air cells sunt visualized lateral la fiecare nasal bone, directly
+  below sinusuri frontale (Figs. 11.190 și 11.191). poziție:'
+- 'Accurately poziționat Craniu cu Absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase sau tilt este indicated prin following: equal
+  distance de la lateral margin de orbit la lateral cortex de Craniu pe ambele părți
+  (bilateral) (side rotit spre receptorul de imagine will appear wider); equal distance
+  de la MSP (identified prin crista galli) la lateral orbital margin pe ambele părți
+  (bilateral); superior orbital fissures symmetrically visualized within Orbite.'
+- Correct alignment de linie orbitomeatală (LOM) și raza centrală projects stânci
+  temporale (piramide pietroase) into lower onethird de Orbite (black arrows).
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal
+  și sinusuri etmoidale.
+- net bony margins indicate fără mișcare. Fig. 11.190 Incidență Postero-Anterioară
+  (PA)—sinuses. sinusuri frontale sinusuri etmoidale Crista galli superior orbital
+  fissure Bony nasal septum Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.
 sid_dff: 100 cm
 slug: rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager
 sources:
@@ -72,7 +76,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -101,7 +105,7 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 
         - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii osoase)
         - Sinus exudate
-        - Sinus polyps or cysts
+        - Sinus polyps sau cysts
 
     === "Ghid Național IRIS"
 
@@ -115,10 +119,10 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove all metallic or plastic objects from head and neck. Position patient Ortostatism (see NOTE).; Regiune anatomică: Place patient’s nose and forehead against upright imaging device or table with neck extended to elevate oMl 15° from horizontal. A radiolucent support between forehead and upright imaging device or table may be used to maintain this position (Fig. 11.189). CR remains horizontal. (See alternative method if imaging device can be tilted 15°.) Align MsP perpendicular to midline of grid or upright imaging device surface. Center IR to CR and to nasion, ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
-    - **Punct de Centrare Fascicul:** Align CR horizontal, parallel with floor (see NOTE). Center CR to exit at nasion.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. poziție pacient Ortostatism (see NOTE).; Regiune anatomică: Place pacient’s nose și forehead against în ortostatism imaging device sau table cu neck extins la elevate linie orbitomeatală (LOM) 15° de la orizontal. radiolucent support între forehead și în ortostatism imaging device sau table poate fie used la maintain this poziție (Fig. 11.189). raza centrală remains orizontal. (See alternative method if imaging device poate fie tilted 15°.) Align MsP perpendicular la midline de grilă sau în ortostatism imaging device surface. Se centrează receptorul de imagine pe raza centrală și la nazion, ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
+    - **Punct de Centrare Fascicul:** Align raza centrală orizontal, paralel cu floor (see NOTE). Center raza centrală la exit la nazion.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -132,20 +136,20 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Frontal sinuses projected above the frontonasal suture are demonstrated.
-    - Anterior ethmoid air cells are visualized lateral to each nasal bone, directly below the frontal sinuses (Figs. 11.190 and 11.191). Position:
-    - Accurately positioned Craniu with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase or tilt is indicated by the following: equal distance from the lateral margin of the orbit to the lateral cortex of the Craniu on both sides (side rotated toward IR will appear wider); equal distance from the MSP (identified by the crista galli) to the lateral orbital margin on both sides; superior orbital fissures symmetrically visualized within the Orbite.
-    - Correct alignment of OML and CR projects petrous ridges into lower onethird of Orbite (black arrows).
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast are sufficient to visualize the frontal and ethmoid sinuses.
-    - Sharp bony margins indicate no motion. Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses. Frontal sinus Ethmoid sinus Crista galli Superior orbital fissure Bony nasal septum Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.
+    - sinusuri frontale projected above frontonasal suture sunt evidențiat.
+    - anterior ethmoid air cells sunt visualized lateral la fiecare nasal bone, directly below sinusuri frontale (Figs. 11.190 și 11.191). poziție:
+    - Accurately poziționat Craniu cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt este indicated prin following: equal distance de la lateral margin de orbit la lateral cortex de Craniu pe ambele părți (bilateral) (side rotit spre receptorul de imagine will appear wider); equal distance de la MSP (identified prin crista galli) la lateral orbital margin pe ambele părți (bilateral); superior orbital fissures symmetrically visualized within Orbite.
+    - Correct alignment de linie orbitomeatală (LOM) și raza centrală projects stânci temporale (piramide pietroase) into lower onethird de Orbite (black arrows).
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal și sinusuri etmoidale.
+    - net bony margins indicate fără mișcare. Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses. sinusuri frontale sinusuri etmoidale Crista galli superior orbital fissure Bony nasal septum Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,7 +162,7 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To assess airfluid levels accurately, CR must be horizontal, and the patient must be Ortostatism. Alternative Method An alternative method if the imaging device can be tilted 15° is shown (see Fig. 11.189, inset). The patient’s forehead and nose can be supported directly against the imaging device with oMl perpendicular to imaging device surface and 15° to horizontal CR. SINUSES ROUTINE Lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted). Inset, If upright, imaging device can be tilted 15°.
+    la assess airfluid levels accurately, raza centrală trebuie să fie orizontal, și pacientul trebuie să fie Ortostatism. Alternative Method alternative method if imaging device poate fie tilted 15° este vizualizat (see Fig. 11.189, inset). pacientul’s forehead și nose poate fie sprijinit directly pe / sprijinit de imaging device cu linie orbitomeatală (LOM) perpendicular la imaging device surface și 15° la orizontal raza centrală. SINUSES ROUTINE lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.189 raza centrală orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie tilted). Inset, If în ortostatism, imaging device poate fie tilted 15°.
 
 
 ### 🖼️ Imagini
@@ -167,9 +171,9 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted). Inset,](../../assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
+![Fig. 11.189 raza centrală orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie tilted). Inset,](../../assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted). Inset,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.189 CR horizontal, OML 15° to CR (if cannot be tilted). Inset,)</span></figcaption>
+<figcaption><strong>Fig. 11.189 raza centrală orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie tilted). Inset,</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.189 raza centrală orizontal, linie orbitomeatală (LOM) 15° la raza centrală (if cannot fie tilted). Inset,)</span></figcaption>
 
 </figure>
 
@@ -177,7 +181,7 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 
 ![Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses.](../../assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.190 PA projection—sinuses.)</span></figcaption>
+<figcaption><strong>Fig. 11.190 Incidență Postero-Anterioară (PA)—sinuses.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.190 PA incidență—sinuses.)</span></figcaption>
 
 </figure>
 
@@ -185,7 +189,7 @@ title: Rx SINUSES PA (Postero-Anterior) (Incidență Occipito-Frontală (Metoda 
 
 ![Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.](../../assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.191 PA projection—sinuses.)</span></figcaption>
+<figcaption><strong>Fig. 11.191 Incidență Postero-Anterioară (PA)—sinuses.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.191 PA incidență—sinuses.)</span></figcaption>
 
 </figure>
 

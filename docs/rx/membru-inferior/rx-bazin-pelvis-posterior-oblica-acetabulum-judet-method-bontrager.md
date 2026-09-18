@@ -1,31 +1,34 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration for the exposure. Bazin (Pelvis) SPECIAL AP axial outlet
-  AP axial inlet Posterior oblique acetabulum (Judet method) Posterior axial oblique
-  acetabulum (Teufel method) Oblique (false profile method) Fig. 7.53 RPO—centered
-  for right (downside) acetabulum. Fig. 7.54 LPO—centered for right (upside) acetabulum.
+breathing: Apnee pe durata expunerii pentru expunere. Bazin (bazin (pelvis)) SPECIAL
+  AP axial outlet AP axial inlet posterior oblic cotil (acetabul) (Judet method) posterior
+  axial oblic cotil (acetabul) (Teufel method) oblic (false profile method) Fig. 7.53
+  RPO—centrat pentru drept (downside) cotil (acetabul). Fig. 7.54 LPO—centrat pentru
+  drept (upside) cotil (acetabul).
 category: membru-inferior
-centering: 'Acetabulum Affected side down: direct Raza centrală perpendiculară and
-  centered to 2 inches (5 cm) distal and 2 inches (5 cm) medial to downside ASiS (Fig.
-  7.53, insert). Affected side up: direct perpendicular and centered to 2 inches (5
-  cm) directly distal to upside ASiS (Fig. 7.54, insert). Pelvic Ring Direct Raza
-  centrală perpendiculară and centered to 2 inches (5 cm) inferior from level of ASIS
-  and 2 inches (5 cm) medial to upside ASIS (see Figs. 7.53 and 7.54).'
+centering: 'cotil (acetabul) Affected side down: direct Raza centrală perpendiculară
+  și centrat pe 2 inches (5 cm) distal și 2 inches (5 cm) medial la downside spină
+  iliacă antero-superioară (SIAS) (Fig. 7.53, insert). Affected side up: direct perpendicular
+  și centrat pe 2 inches (5 cm) directly distal la upside spină iliacă antero-superioară
+  (SIAS) (Fig. 7.54, insert). Pelvic Ring Direct Raza centrală perpendiculară și centrat
+  pe 2 inches (5 cm) inferior de la level de spină iliacă antero-superioară (SIAS)
+  și 2 inches (5 cm) medial la upside spină iliacă antero-superioară (SIAS) (see Figs.
+  7.53 și 7.54).'
 clinical_indications:
 - Acetabular suspiciune de fractură
-- Pelvic ring suspiciune de fractură Generally, right and left oblique projections
-  are taken for comparison, with both centered for upside or both for downside acetabulum.
-  With possible pelvic ring suspiciune de fractură due to a contrecoup injury, the
-  entire Bazin (Pelvis) must be included. In this case, centering should be adjusted
-  to include both hips.
+- Pelvic ring suspiciune de fractură Generally, drept și stâng oblic incidențe sunt
+  taken pentru comparison, cu ambele centrat pentru upside sau ambele pentru downside
+  cotil (acetabul). cu possible pelvic ring suspiciune de fractură due la contrecoup
+  injury, entire Bazin (bazin (pelvis)) trebuie să fie included. în this case, centering
+  trebuie să fie ajustat la include ambele hips.
 images:
-- caption: Fig. 7.53 RPO—centered for
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.53 RPO—centered
-    for)
+- caption: Fig. 7.53 RPO—centrat pentru
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.53 RPO—centrat
+    pentru)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_1.jpeg
-- caption: Fig. 7.54 LPO—centered for right
+- caption: Fig. 7.54 LPO—centrat pentru drept
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.54
-    LPO—centered for right)
+    LPO—centrat pentru drept)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_2.jpeg
 - caption: Fig. 7.55 RPO—downside
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.55
@@ -38,12 +41,13 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Posterior Oblique Positions With patient semisupine, provide pillow
-  for head and position for affected side up or down, depending on anatomy to be demonstrated.;
-  Regiune anatomică: Place patient in 45 degrees posterior oblique, with both Bazin
-  (Pelvis) and thorax 45 degrees from tabletop. Support with wedge sponge. Align femoral
-  head and acetabulum of interest to midline of tabletop and/or IR. Center IR longitudinally
-  to CR at level of femoral head.'
+position: 'Pacient: posterior oblic poziții cu pacient semisupine, provide pillow
+  pentru cap și poziție pentru affected side up sau down, depending pe anatomy la
+  fie evidențiat.; Regiune anatomică: Place pacient în 45 grade posterior oblic, cu
+  ambele Bazin (bazin (pelvis)) și thorax 45 grade de la tabletop. Support cu wedge
+  sponge. Align cap femural și cotil (acetabul) de interest la midline de tabletop
+  și/sau receptorul de imagine. Center receptorul de imagine longitudinally la raza
+  centrală la level de cap femural.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,27 +55,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Acetabulum:'
-- When centered to the downside acetabulum, the anterior rim of the acetabulum and
-  posterior (ilioischial) column are demonstrated. The iliac wing is also well visualized
-  (Figs. 7.55 and 7.56).
-- 'When centered to the upside acetabulum, the posterior rim of the acetabulum and
-  anterior (iliopubic) column are demonstrated. The obturator foramen is also visualized
-  (Figs. 7.57 and 7.58). Pelvic Ring:'
-- 'Projections will demonstrate the ilioischial and iliopubic columns, along with
-  other aspects of the pelvic ring (Figs. 7.59 and 7.60). Position:'
-- Proper degree of obliquity is evidenced by an open and uniform Șold joint space
-  at the rim of acetabulum femoral head.
-- The obturator foramen should be open, if rotated correctly, for the upside oblique,
-  and should appear closed on downside oblique. Acetabulum (or Bazin (Pelvis)) should
-  be centered to IR and to collimation field size.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast of the bony margins and trabecular
-  markings of the acetabulum and femoral head regions; such markings should appear
-  sharp, indicating no motion. R Fig. 7.55 RPO—downside (anterior rim and posterior
-  [ilioischial] column). Iliac wing (elongated) R Posterior ilioischial column Femoral
-  head Area of anterior rim of acetabulum, partially superimposed by femoral head
-  Fig. 7.56 RPO—downside acetabulum.
+- 'cotil (acetabul):'
+- When centrat pe downside cotil (acetabul), anterior rim de cotil (acetabul) și posterior
+  (ilioischial) column sunt evidențiat. iliac wing este also well visualized (Figs.
+  7.55 și 7.56).
+- 'When centrat pe upside cotil (acetabul), posterior rim de cotil (acetabul) și anterior
+  (iliopubic) column sunt evidențiat. găuri obturatoare este also visualized (Figs.
+  7.57 și 7.58). Pelvic Ring:'
+- 'incidențe will evidențiază ilioischial și iliopubic columns, along cu other aspects
+  de pelvic ring (Figs. 7.59 și 7.60). poziție:'
+- corect grade de obliquity este evidenced prin open și uniform Șold spații articulare
+  la rim de cotil (acetabul) cap femural.
+- găuri obturatoare trebuie să fie open, if rotit correctly, pentru upside oblic,
+  și trebuie să appear closed pe downside oblic. cotil (acetabul) (sau Bazin (bazin
+  (pelvis))) trebuie să fie centrat pe receptorul de imagine și la collimation field
+  size.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast de bony margins și trabecular markings
+  de cotil (acetabul) și cap femural regions; such markings trebuie să appear net,
+  indicating fără mișcare. R Fig. 7.55 RPO—downside (anterior rim și posterior [ilioischial]
+  column). Iliac wing (elongated) R posterior ilioischial column cap femural Area
+  de anterior rim de cotil (acetabul), partially superimposed prin cap femural Fig.
+  7.56 RPO—downside cotil (acetabul).
 sid_dff: 100 cm
 slug: rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager
 sources:
@@ -79,7 +84,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -107,7 +112,7 @@ title: Rx Bazin (Pelvis) POSTERIOR Oblică (ACETABULUM - JUDET METHOD)
     === "Indicații Clinice"
 
         - Acetabular suspiciune de fractură
-        - Pelvic ring suspiciune de fractură Generally, right and left oblique projections are taken for comparison, with both centered for upside or both for downside acetabulum. With possible pelvic ring suspiciune de fractură due to a contrecoup injury, the entire Bazin (Pelvis) must be included. In this case, centering should be adjusted to include both hips.
+        - Pelvic ring suspiciune de fractură Generally, drept și stâng oblic incidențe sunt taken pentru comparison, cu ambele centrat pentru upside sau ambele pentru downside cotil (acetabul). cu possible pelvic ring suspiciune de fractură due la contrecoup injury, entire Bazin (bazin (pelvis)) trebuie să fie included. în this case, centering trebuie să fie ajustat la include ambele hips.
 
     === "Ghid Național IRIS"
 
@@ -121,10 +126,10 @@ title: Rx Bazin (Pelvis) POSTERIOR Oblică (ACETABULUM - JUDET METHOD)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Posterior Oblique Positions With patient semisupine, provide pillow for head and position for affected side up or down, depending on anatomy to be demonstrated.; Regiune anatomică: Place patient in 45 degrees posterior oblique, with both Bazin (Pelvis) and thorax 45 degrees from tabletop. Support with wedge sponge. Align femoral head and acetabulum of interest to midline of tabletop and/or IR. Center IR longitudinally to CR at level of femoral head.
-    - **Punct de Centrare Fascicul:** Acetabulum Affected side down: direct Raza centrală perpendiculară and centered to 2 inches (5 cm) distal and 2 inches (5 cm) medial to downside ASiS (Fig. 7.53, insert). Affected side up: direct perpendicular and centered to 2 inches (5 cm) directly distal to upside ASiS (Fig. 7.54, insert). Pelvic Ring Direct Raza centrală perpendiculară and centered to 2 inches (5 cm) inferior from level of ASIS and 2 inches (5 cm) medial to upside ASIS (see Figs. 7.53 and 7.54).
+    - **Poziție Pacient:** Pacient: posterior oblic poziții cu pacient semisupine, provide pillow pentru cap și poziție pentru affected side up sau down, depending pe anatomy la fie evidențiat.; Regiune anatomică: Place pacient în 45 grade posterior oblic, cu ambele Bazin (bazin (pelvis)) și thorax 45 grade de la tabletop. Support cu wedge sponge. Align cap femural și cotil (acetabul) de interest la midline de tabletop și/sau receptorul de imagine. Center receptorul de imagine longitudinally la raza centrală la level de cap femural.
+    - **Punct de Centrare Fascicul:** cotil (acetabul) Affected side down: direct Raza centrală perpendiculară și centrat pe 2 inches (5 cm) distal și 2 inches (5 cm) medial la downside spină iliacă antero-superioară (SIAS) (Fig. 7.53, insert). Affected side up: direct perpendicular și centrat pe 2 inches (5 cm) directly distal la upside spină iliacă antero-superioară (SIAS) (Fig. 7.54, insert). Pelvic Ring Direct Raza centrală perpendiculară și centrat pe 2 inches (5 cm) inferior de la level de spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) medial la upside spină iliacă antero-superioară (SIAS) (see Figs. 7.53 și 7.54).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration for the exposure. Bazin (Pelvis) SPECIAL AP axial outlet AP axial inlet Posterior oblique acetabulum (Judet method) Posterior axial oblique acetabulum (Teufel method) Oblique (false profile method) Fig. 7.53 RPO—centered for right (downside) acetabulum. Fig. 7.54 LPO—centered for right (upside) acetabulum.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pentru expunere. Bazin (bazin (pelvis)) SPECIAL AP axial outlet AP axial inlet posterior oblic cotil (acetabul) (Judet method) posterior axial oblic cotil (acetabul) (Teufel method) oblic (false profile method) Fig. 7.53 RPO—centrat pentru drept (downside) cotil (acetabul). Fig. 7.54 LPO—centrat pentru drept (upside) cotil (acetabul).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -138,21 +143,21 @@ title: Rx Bazin (Pelvis) POSTERIOR Oblică (ACETABULUM - JUDET METHOD)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Acetabulum:
-    - When centered to the downside acetabulum, the anterior rim of the acetabulum and posterior (ilioischial) column are demonstrated. The iliac wing is also well visualized (Figs. 7.55 and 7.56).
-    - When centered to the upside acetabulum, the posterior rim of the acetabulum and anterior (iliopubic) column are demonstrated. The obturator foramen is also visualized (Figs. 7.57 and 7.58). Pelvic Ring:
-    - Projections will demonstrate the ilioischial and iliopubic columns, along with other aspects of the pelvic ring (Figs. 7.59 and 7.60). Position:
-    - Proper degree of obliquity is evidenced by an open and uniform Șold joint space at the rim of acetabulum femoral head.
-    - The obturator foramen should be open, if rotated correctly, for the upside oblique, and should appear closed on downside oblique. Acetabulum (or Bazin (Pelvis)) should be centered to IR and to collimation field size.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast of the bony margins and trabecular markings of the acetabulum and femoral head regions; such markings should appear sharp, indicating no motion. R Fig. 7.55 RPO—downside (anterior rim and posterior [ilioischial] column). Iliac wing (elongated) R Posterior ilioischial column Femoral head Area of anterior rim of acetabulum, partially superimposed by femoral head Fig. 7.56 RPO—downside acetabulum.
+    - cotil (acetabul):
+    - When centrat pe downside cotil (acetabul), anterior rim de cotil (acetabul) și posterior (ilioischial) column sunt evidențiat. iliac wing este also well visualized (Figs. 7.55 și 7.56).
+    - When centrat pe upside cotil (acetabul), posterior rim de cotil (acetabul) și anterior (iliopubic) column sunt evidențiat. găuri obturatoare este also visualized (Figs. 7.57 și 7.58). Pelvic Ring:
+    - incidențe will evidențiază ilioischial și iliopubic columns, along cu other aspects de pelvic ring (Figs. 7.59 și 7.60). poziție:
+    - corect grade de obliquity este evidenced prin open și uniform Șold spații articulare la rim de cotil (acetabul) cap femural.
+    - găuri obturatoare trebuie să fie open, if rotit correctly, pentru upside oblic, și trebuie să appear closed pe downside oblic. cotil (acetabul) (sau Bazin (bazin (pelvis))) trebuie să fie centrat pe receptorul de imagine și la collimation field size.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast de bony margins și trabecular markings de cotil (acetabul) și cap femural regions; such markings trebuie să appear net, indicating fără mișcare. R Fig. 7.55 RPO—downside (anterior rim și posterior [ilioischial] column). Iliac wing (elongated) R posterior ilioischial column cap femural Area de anterior rim de cotil (acetabul), partially superimposed prin cap femural Fig. 7.56 RPO—downside cotil (acetabul).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -172,17 +177,17 @@ title: Rx Bazin (Pelvis) POSTERIOR Oblică (ACETABULUM - JUDET METHOD)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.53 RPO—centered for](../../assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_1.jpeg)
+![Fig. 7.53 RPO—centrat pentru](../../assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.53 RPO—centered for</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.53 RPO—centered for)</span></figcaption>
+<figcaption><strong>Fig. 7.53 RPO—centrat pentru</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.53 RPO—centrat pentru)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.54 LPO—centered for right](../../assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_2.jpeg)
+![Fig. 7.54 LPO—centrat pentru drept](../../assets/images/protocols/bontrager/rx-bazin-pelvis-posterior-oblica-acetabulum-judet-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.54 LPO—centered for right</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.54 LPO—centered for right)</span></figcaption>
+<figcaption><strong>Fig. 7.54 LPO—centrat pentru drept</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.54 LPO—centrat pentru drept)</span></figcaption>
 
 </figure>
 

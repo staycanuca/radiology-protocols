@@ -2,34 +2,37 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular to IR directed to midway between MCP joints
+centering: perpendicular pe receptorul de imagine orientat la midway între articulații
+  metacarpofalangiene (MCF)
 clinical_indications:
-- Sprain or tearing of ulnar collateral ligament of Police at MCP joint as a result
-  of acute hyperextension of Police; also referred to as a “skier’s Police” injury
+- Sprain sau tearing de ulnar collateral ligament de Police la articulații metacarpofalangiene
+  (MCF) ca result de acute hyperextension de Police; also referred la ca a “skier’s
+  Police” injury
 images:
-- caption: Fig. 4.64 PA stress projection of bilateral thumbs; Raza centrală perpendiculară
-    to
+- caption: Fig. 4.64 PA stress incidență de bilateral thumbs; Raza centrală perpendiculară
+    la
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.64 PA stress
-    projection of bilateral thumbs; CR perpendicular to)
+    incidență de bilateral thumbs; raza centrală perpendicular la)
   url: assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_1.jpeg
-- caption: Fig. 4.65 PA stress projection of bilateral thumbs with tension
+- caption: Fig. 4.65 PA stress incidență de bilateral thumbs cu tension
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.65
-    PA stress projection of bilateral thumbs with tension)
+    PA stress incidență de bilateral thumbs cu tension)
   url: assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Explain procedure carefully to patient and observe patient while applying tension
-  on rubber band without motion before initiating exposure. Work quickly because this
-  can be painful for patient.
-position: 'Pacient: Seat patient at end of table with both hands extended and pronated
-  on IR.; Regiune anatomică: Position both hands side by side to center of IR, rotated
-  laterally into ±45° Incidență Oblică, resulting in Incidență Postero-Anterioară
-  (PA) of both thumbs. Place supports as needed under both Pumn (Articulație Radiocarpiană)
-  and proximal Police regions to prevent motion. Ensure that hands are rotated enough
-  to place thumbs parallel to IR for Incidență Postero-Anterioară (PA) of both thumbs.
-  Place round spacer, such as a roll of medical tape, between proximal Police regions;
-  wrap rubber bands around distal thumbs (Fig. 4.64). Immediately before exposure,
-  ask patient to pull thumbs apart firmly and hold.'
+notes: Explain procedure carefully la pacient și observe pacient while applying tension
+  pe rubber band fără estompare cinetică de mișcare before initiating expunere. Work
+  quickly because this poate fie painful pentru pacient.
+position: 'Pacient: Seat pacient la end de table cu ambele mâini extins și în pronație
+  pe receptorul de imagine.; Regiune anatomică: poziție ambele mâini side prin side
+  la center de receptorul de imagine, rotit laterally into ±45° Incidență Oblică,
+  resulting în Incidență Postero-Anterioară (PA) de ambele thumbs. Place supports
+  ca needed under ambele Pumn (Articulație Radiocarpiană) și proximal Police regions
+  la prevent mișcare. Ensure that mâini sunt rotit enough la place thumbs paralel
+  cu receptorul de imagine pentru Incidență Postero-Anterioară (PA) de ambele thumbs.
+  Place round spacer, such ca roll de medical tape, între proximal Police regions;
+  wrap rubber bands around distal thumbs (Fig. 4.64). Immediately before expunere,
+  ask pacient la pull thumbs apart firmly și hold.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -37,27 +40,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire thumbs from first metacarpals to distal phalanges (Fig. 4.65).
-- 'Demonstrates metacarpophalangeal angles and joint spaces at MCP joints (Fig. 4.66).
-  Position:'
+- Entire thumbs de la first oase metacarpiene la distal falange (Fig. 4.65).
+- 'evidențiază metacarpophalangeal angles și spații articulare la articulații metacarpofalangiene
+  (MCF) (Fig. 4.66). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of thumbs as evidenced by symmetric appearance of concavities of shafts of first
-  metacarpals and phalanges.'
-- Distal phalanges should appear to be pulled together, indicating that tension was
-  applied.
-- MCP and IP joints should appear open, indicating that thumbs were parallel to IR
-  and perpendicular to CR.
-- 'CR and center of collimation field size should be midway between the two MCp joints.
-  Exposure:'
-- 'Optimal image receptor exposure and contrast with no motion demonstrates soft tissue
-  margins and clear, sharp bony edges and trabecular markings. 20° 7° R Fig. 4.65
-  PA stress projection of bilateral thumbs with tension applied. 20° MCP angle on
-  left indicates sprain or torn ulnar collateral ligament. (From Frank ED, Long BW,
-  Smith BJ: Merrill’s atlas of radiographic positions and radiologic procedures, ed
-  11, St Louis, 2007, Mosby.) 20° 7° Distal phalanx IP joint Torn ulnar collateral
-  ligament Metacarpophalangeal angle Proximal phalanx MCP joint 1st metacarpal Fig.
-  4.66 PA stress projection of bilateral thumbs with tension applied (demonstrates
-  torn ulnar collateral ligament on left).'
+  de thumbs ca evidenced prin simetric appearance de concavities de shafts de first
+  oase metacarpiene și falange.'
+- distal falange trebuie să appear la fie pulled together, indicating that tension
+  was applied.
+- MCP și articulații interfalangiene (IF) trebuie să appear open, indicating that
+  thumbs were paralel cu receptorul de imagine și perpendicular la raza centrală.
+- 'raza centrală și center de collimation field size trebuie să fie midway între two
+  articulații metacarpofalangiene (MCF). expunere:'
+- 'optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
+  moi margins și clear, net bony edges și trabecular markings. 20° 7° R Fig. 4.65
+  PA stress incidență de bilateral thumbs cu tension applied. 20° MCP angle pe stâng
+  indicates sprain sau torn ulnar collateral ligament. (de la Frank ED, Long BW, Smith
+  BJ: Merrill’s atlas de radiographic poziții și radiologic procedures, ed 11, St
+  Louis, 2007, Mosby.) 20° 7° distal phalanx articulații interfalangiene (IF) Torn
+  ulnar collateral ligament Metacarpophalangeal angle proximal phalanx articulații
+  metacarpofalangiene (MCF) 1st metacarpal Fig. 4.66 PA stress incidență de bilateral
+  thumbs cu tension applied (evidențiază torn ulnar collateral ligament pe stâng).'
 sid_dff: 100 cm
 slug: rx-folio-method9-pa-stress-police-projection-bontrager
 sources:
@@ -65,19 +68,19 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate on four sides to include second metacarpals and
-    entire thumbs, from CMC joints proximally to distal phalanges distally. Police
-    SPECIAL AP axial, modified Robert method PA stress (Folio method) Fig. 4.64 PA
-    stress projection of bilateral thumbs; Raza centrală perpendiculară to midway
-    between MCP joints, firm tension applied.
+  collimation: Field Size Collimate pe four sides la include second oase metacarpiene
+    și entire thumbs, de la articulații carpometacarpiene (CMC) proximally la distal
+    falange distally. Police SPECIAL AP axial, modified Robert method PA stress (Folio
+    method) Fig. 4.64 PA stress incidență de bilateral thumbs; Raza centrală perpendiculară
+    la midway între articulații metacarpofalangiene (MCF), firm tension applied.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
+title: Rx FOLIO METHOD9 PA STRESS Police Incidență
 ---
-# Rx FOLIO METHOD9 PA STRESS Police PROJECTION
+# Rx FOLIO METHOD9 PA STRESS Police Incidență
 
 
 <div class="rx-meta-bar">
@@ -96,7 +99,7 @@ title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
 
     === "Indicații Clinice"
 
-        - Sprain or tearing of ulnar collateral ligament of Police at MCP joint as a result of acute hyperextension of Police; also referred to as a “skier’s Police” injury
+        - Sprain sau tearing de ulnar collateral ligament de Police la articulații metacarpofalangiene (MCF) ca result de acute hyperextension de Police; also referred la ca a “skier’s Police” injury
 
     === "Ghid Național IRIS"
 
@@ -110,8 +113,8 @@ title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table with both hands extended and pronated on IR.; Regiune anatomică: Position both hands side by side to center of IR, rotated laterally into ±45° Incidență Oblică, resulting in Incidență Postero-Anterioară (PA) of both thumbs. Place supports as needed under both Pumn (Articulație Radiocarpiană) and proximal Police regions to prevent motion. Ensure that hands are rotated enough to place thumbs parallel to IR for Incidență Postero-Anterioară (PA) of both thumbs. Place round spacer, such as a roll of medical tape, between proximal Police regions; wrap rubber bands around distal thumbs (Fig. 4.64). Immediately before exposure, ask patient to pull thumbs apart firmly and hold.
-    - **Punct de Centrare Fascicul:** perpendicular to IR directed to midway between MCP joints
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu ambele mâini extins și în pronație pe receptorul de imagine.; Regiune anatomică: poziție ambele mâini side prin side la center de receptorul de imagine, rotit laterally into ±45° Incidență Oblică, resulting în Incidență Postero-Anterioară (PA) de ambele thumbs. Place supports ca needed under ambele Pumn (Articulație Radiocarpiană) și proximal Police regions la prevent mișcare. Ensure that mâini sunt rotit enough la place thumbs paralel cu receptorul de imagine pentru Incidență Postero-Anterioară (PA) de ambele thumbs. Place round spacer, such ca roll de medical tape, între proximal Police regions; wrap rubber bands around distal thumbs (Fig. 4.64). Immediately before expunere, ask pacient la pull thumbs apart firmly și hold.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine orientat la midway între articulații metacarpofalangiene (MCF)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,20 +130,20 @@ title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to include second metacarpals and entire thumbs, from CMC joints proximally to distal phalanges distally. Police SPECIAL AP axial, modified Robert method PA stress (Folio method) Fig. 4.64 PA stress projection of bilateral thumbs; Raza centrală perpendiculară to midway between MCP joints, firm tension applied. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la include second oase metacarpiene și entire thumbs, de la articulații carpometacarpiene (CMC) proximally la distal falange distally. Police SPECIAL AP axial, modified Robert method PA stress (Folio method) Fig. 4.64 PA stress incidență de bilateral thumbs; Raza centrală perpendiculară la midway între articulații metacarpofalangiene (MCF), firm tension applied. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire thumbs from first metacarpals to distal phalanges (Fig. 4.65).
-    - Demonstrates metacarpophalangeal angles and joint spaces at MCP joints (Fig. 4.66). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thumbs as evidenced by symmetric appearance of concavities of shafts of first metacarpals and phalanges.
-    - Distal phalanges should appear to be pulled together, indicating that tension was applied.
-    - MCP and IP joints should appear open, indicating that thumbs were parallel to IR and perpendicular to CR.
-    - CR and center of collimation field size should be midway between the two MCp joints. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrates soft tissue margins and clear, sharp bony edges and trabecular markings. 20° 7° R Fig. 4.65 PA stress projection of bilateral thumbs with tension applied. 20° MCP angle on left indicates sprain or torn ulnar collateral ligament. (From Frank ED, Long BW, Smith BJ: Merrill’s atlas of radiographic positions and radiologic procedures, ed 11, St Louis, 2007, Mosby.) 20° 7° Distal phalanx IP joint Torn ulnar collateral ligament Metacarpophalangeal angle Proximal phalanx MCP joint 1st metacarpal Fig. 4.66 PA stress projection of bilateral thumbs with tension applied (demonstrates torn ulnar collateral ligament on left).
+    - Entire thumbs de la first oase metacarpiene la distal falange (Fig. 4.65).
+    - evidențiază metacarpophalangeal angles și spații articulare la articulații metacarpofalangiene (MCF) (Fig. 4.66). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de thumbs ca evidenced prin simetric appearance de concavities de shafts de first oase metacarpiene și falange.
+    - distal falange trebuie să appear la fie pulled together, indicating that tension was applied.
+    - MCP și articulații interfalangiene (IF) trebuie să appear open, indicating that thumbs were paralel cu receptorul de imagine și perpendicular la raza centrală.
+    - raza centrală și center de collimation field size trebuie să fie midway între two articulații metacarpofalangiene (MCF). expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, net bony edges și trabecular markings. 20° 7° R Fig. 4.65 PA stress incidență de bilateral thumbs cu tension applied. 20° MCP angle pe stâng indicates sprain sau torn ulnar collateral ligament. (de la Frank ED, Long BW, Smith BJ: Merrill’s atlas de radiographic poziții și radiologic procedures, ed 11, St Louis, 2007, Mosby.) 20° 7° distal phalanx articulații interfalangiene (IF) Torn ulnar collateral ligament Metacarpophalangeal angle proximal phalanx articulații metacarpofalangiene (MCF) 1st metacarpal Fig. 4.66 PA stress incidență de bilateral thumbs cu tension applied (evidențiază torn ulnar collateral ligament pe stâng).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +156,7 @@ title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Explain procedure carefully to patient and observe patient while applying tension on rubber band without motion before initiating exposure. Work quickly because this can be painful for patient.
+    Explain procedure carefully la pacient și observe pacient while applying tension pe rubber band fără estompare cinetică de mișcare before initiating expunere. Work quickly because this poate fie painful pentru pacient.
 
 
 ### 🖼️ Imagini
@@ -162,17 +165,17 @@ title: Rx FOLIO METHOD9 PA STRESS Police PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.64 PA stress projection of bilateral thumbs; Raza centrală perpendiculară to](../../assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_1.jpeg)
+![Fig. 4.64 PA stress incidență de bilateral thumbs; Raza centrală perpendiculară la](../../assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.64 PA stress projection of bilateral thumbs; Raza centrală perpendiculară to</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.64 PA stress projection of bilateral thumbs; CR perpendicular to)</span></figcaption>
+<figcaption><strong>Fig. 4.64 PA stress incidență de bilateral thumbs; Raza centrală perpendiculară la</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.64 PA stress incidență de bilateral thumbs; raza centrală perpendicular la)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.65 PA stress projection of bilateral thumbs with tension](../../assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_2.jpeg)
+![Fig. 4.65 PA stress incidență de bilateral thumbs cu tension](../../assets/images/protocols/bontrager/rx-folio-method9-pa-stress-police-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.65 PA stress projection of bilateral thumbs with tension</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.65 PA stress projection of bilateral thumbs with tension)</span></figcaption>
+<figcaption><strong>Fig. 4.65 PA stress incidență de bilateral thumbs cu tension</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.65 PA stress incidență de bilateral thumbs cu tension)</span></figcaption>
 
 </figure>
 

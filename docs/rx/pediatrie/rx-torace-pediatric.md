@@ -27,13 +27,29 @@ protection:
   imobilizării
 - 'Principiul ALARA strict respectat: zero repetări nejustificate'
 quality_criteria:
-- Simetrie a hemitoracelor (absența rotației)
+- Simetrie hemitoracelor (absența rotației)
 - Inspir corect (minim 8-9 arcuri costale posterioare)
 - Absența artefactelor de mișcare
 - Recunoașterea umbrei timusului la sugar (semnul pânzei de barcă / velar — aspect
   fiziologic normal)
 sid_dff: 100 - 150 cm
 slug: rx-torace-pediatric
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Image Gently Alliance
+  kind: Ghid pediatric de reducere a dozei
+  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
+  source_region: US
+  title: Image Gently — Pediatric Digital Radiography Protocols
+  url: https://www.imagegently.org/Procedures/Digital-Radiography
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
+    pediatrică
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
 tech_params:
   aec_chambers: Manual sau AEC pediatric calibrat
   collimation: Strictă pe cutia toracică (fără abdomen)
@@ -44,29 +60,13 @@ tech_params:
   mas: 1.0 - 2.0 (timp de expunere ultra-scurt < 5-10 ms pentru evitarea neclarității
     cinetice)
 title: Rx Torace Pediatric (Sugar & Copil)
-sources:
-- title: Image Gently — Pediatric Digital Radiography Protocols
-  url: https://www.imagegently.org/Procedures/Digital-Radiography
-  institution: Image Gently Alliance
-  source_region: US
-  kind: Ghid pediatric de reducere a dozei
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
-- title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
-    pediatrică
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
 ---
-
 # Rx Torace Pediatric (Sugar & Copil)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -121,7 +121,7 @@ sources:
 
     ---
 
-    - Simetrie a hemitoracelor (absența rotației)
+    - Simetrie hemitoracelor (absența rotației)
     - Inspir corect (minim 8-9 arcuri costale posterioare)
     - Absența artefactelor de mișcare
     - Recunoașterea umbrei timusului la sugar (semnul pânzei de barcă / velar — aspect fiziologic normal)
@@ -147,7 +147,8 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography) — *Image Gently Alliance* (US)
-- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
+## Surse de documentare
+
+- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography)
+- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)

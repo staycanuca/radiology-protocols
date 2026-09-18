@@ -1,44 +1,47 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration.
+breathing: Apnee pe durata expunerii.
 category: coloana
-centering: Anterior oblique (RAO, LAO) Direct CR 15° to 20° caudad to C4 (level of
-  upper margin of thyroid cartilage). Posterior oblique (RPO, LPO) Direct CR 15° to
-  20° cephalad to C4. Center IR to CR.
+centering: anterior oblic (RAO, LAO) Direct raza centrală 15° la 20° caudal la C4
+  (level de upper margin de cartilaj tiroid (mărul lui Adam)). posterior oblic (RPO,
+  LPO) Direct raza centrală 15° la 20° cranial la C4. Se centrează receptorul de imagine
+  pe raza centrală.
 clinical_indications:
-- Pathology involving the Coloană Cervicală and adjacent soft tissue structures, including
-  stenosis involving the intervertebral foramen
-- Both right and left oblique projections should be taken for comparison purposes.
-  Anterior oblique positions—RAO, LAO—are preferred because of reduced thyroid doses.
+- Pathology involving Coloană Cervicală și adjacent părți moi structures, including
+  stenosis involving intervertebral foramen
+- ambele drept și stâng oblic incidențe trebuie să fie taken pentru comparison purposes.
+  anterior oblic poziții—RAO, LAO—sunt preferred because de reduced thyroid doses.
 images:
-- caption: Fig. 8.52 Ortostatism RAO position—CR
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.52 Erect RAO
-    position—CR)
+- caption: Fig. 8.52 Ortostatism poziție oblică anterioară dreaptă (OAD / RAO)—raza
+    centrală
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.52 în ortostatism
+    poziție oblică anterioară dreaptă (OAD / RAO)—raza centrală)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_1.jpeg
-- caption: Fig. 8.53 Optional AP oblique,
+- caption: Fig. 8.53 Optional AP oblic,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.53
-    Optional AP oblique,)
+    Optional AP oblic,)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_2.jpeg
-- caption: Fig. 8.54 Right posterior oblique.
+- caption: Fig. 8.54 drept posterior oblic.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.54
-    Right posterior oblique.)
+    drept posterior oblic.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_3.jpeg
-- caption: Fig. 8.55 Left posterior oblique.
+- caption: Fig. 8.55 stâng posterior oblic.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.55
-    Left posterior oblique.)
+    stâng posterior oblic.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Head may be turned to a near Incidență de Profil (Lateral).
-position: 'Pacient: Ortostatism or Decubit Position The Ortostatism position preferred
-  (sitting or standing), but Decubit is possible if the patient’s condition requires.;
-  Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR.
-  Place patient’s arms at side; if patient is Decubit, place arms as needed to help
-  maintain position. Rotate body and head into 45° Incidență Oblică. Use protractor
-  or other angle gauge as needed to ensure 45° angle (see NOTE) (Figs. 8.52 and 8.53).
-  Protract chin to prevent Mandibulă from superimposing vertebrae. Elevate chin to
-  place acanthiomeatal line (AML) parallel with floor (insert). Excessive Craniu and
-  neck extension will superimpose base of Craniu over posterior arch of C1.'
+notes: cap poate fie turned la near Incidență de Profil (lateral).
+position: 'Pacient: Ortostatism sau Decubit poziție Ortostatism poziție preferred
+  (așezat sau în ortostatism), but Decubit este possible if pacientul’s condition
+  requires.; Regiune anatomică: Align plan mediosagital la raza centrală și linia
+  mediană mesei și/sau receptorul de imagine. Place pacient’s brațe la side; if pacient
+  este Decubit, place brațe ca needed la help maintain poziție. Rotate corp și cap
+  into 45° Incidență Oblică. Use protractor sau other angle gauge ca needed la ensure
+  45° angle (see NOTE) (Figs. 8.52 și 8.53). Protract chin la prevent Mandibulă de
+  la superimposing vertebre. Elevate chin la place linie acantiomeatală (LAM) (linie
+  acantiomeatală (LAM)) paralel cu floor (insert). Excessive Craniu și neck extension
+  will superimpose base de Craniu over posterior arch de C1.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,28 +49,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Anterior: Oblique (RAO and LAO): intervertebral foramina and pedicles on the side
-  of the patient closest to the iR (right and left pedicles respectively).'
-- 'posterior: Oblique (RPO and LPO): intervertebral foramina and pedicles on the side
-  of the patient farthest from the iR (left and right pedicles, respectively) (Figs.
-  8.54 and 8.55). POSITION'
-- Intervertebral disk spaces and intervertebral foramina of interest (C2 through C7)
-  should be open and uniform in size and shape. The pedicles of interest should be
-  demonstrated in full profile and the opposite, onend pedicles should be aligned
-  along the anterior cervical body.
-- Onend pedicles aligned at the midline of the cervical body and visualization of
-  zygapophyseal joints indicate overrotation.
-- Obscured intervertebral foramina and pedicles indicate underrotation.
-- The mandibular rami should not superimpose the upper cervical vertebrae, and the
-  base of the Craniu should not superimpose C1.
-- Collimation to area of interest. EXPOSURE
-- Optimal image receptor exposure and contrast. Clear demonstration of soft tissue
-  margins and of bony margins and trabecular markings of cervical vertebrae.
-- no motion. Coloană Cervicală ROUTINE
-- AP open mouth (C1 and C2)
+- 'anterior: oblic (RAO și LAO): intervertebral foramina și pedicles pe side de pacientul
+  cel mai apropiat de receptorul de imagine (drept și stâng pedicles respectively).'
+- 'posterior: oblic (RPO și LPO): intervertebral foramina și pedicles pe side de pacientul
+  farthest de la receptorul de imagine (stâng și drept pedicles, respectively) (Figs.
+  8.54 și 8.55). poziție'
+- Intervertebral disk spaces și intervertebral foramina de interest (C2 through C7)
+  trebuie să fie open și uniform în size și shape. pedicles de interest trebuie să
+  fie evidențiat în full profile și opposite, onend pedicles trebuie să fie aliniat
+  along anterior cervical corp.
+- Onend pedicles aliniat la linia mediană cervical corp și visualization de zygapophyseal
+  articulații indicate overrotation.
+- Obscured intervertebral foramina și pedicles indicate underrotation.
+- ramuri mandibulare trebuie să nu superimpose upper coloană cervicală, și base de
+  Craniu trebuie să nu superimpose C1.
+- Collimation la aria de interes diagnostic. expunere
+- optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi
+  margins și de bony margins și trabecular markings de coloană cervicală.
+- fără mișcare. Coloană Cervicală ROUTINE
+- AP gură deschisă (transorală) (C1 și C2)
 - AP axial
-- Oblique
-- Lateral Fig. 8.54 Right posterior oblique.
+- oblic
+- lateral Fig. 8.54 drept posterior oblic.
 sid_dff: 180 cm
 slug: rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager
 sources:
@@ -75,15 +78,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
+title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE Poziționare
 ---
-# Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
+# Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE Poziționare
 
 
 <div class="rx-meta-bar">
@@ -102,8 +105,8 @@ title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
 
     === "Indicații Clinice"
 
-        - Pathology involving the Coloană Cervicală and adjacent soft tissue structures, including stenosis involving the intervertebral foramen
-        - Both right and left oblique projections should be taken for comparison purposes. Anterior oblique positions—RAO, LAO—are preferred because of reduced thyroid doses.
+        - Pathology involving Coloană Cervicală și adjacent părți moi structures, including stenosis involving intervertebral foramen
+        - ambele drept și stâng oblic incidențe trebuie să fie taken pentru comparison purposes. anterior oblic poziții—RAO, LAO—sunt preferred because de reduced thyroid doses.
 
     === "Ghid Național IRIS"
 
@@ -117,10 +120,10 @@ title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism or Decubit Position The Ortostatism position preferred (sitting or standing), but Decubit is possible if the patient’s condition requires.; Regiune anatomică: Align midsagittal plane to CR and midline of table and/or IR. Place patient’s arms at side; if patient is Decubit, place arms as needed to help maintain position. Rotate body and head into 45° Incidență Oblică. Use protractor or other angle gauge as needed to ensure 45° angle (see NOTE) (Figs. 8.52 and 8.53). Protract chin to prevent Mandibulă from superimposing vertebrae. Elevate chin to place acanthiomeatal line (AML) parallel with floor (insert). Excessive Craniu and neck extension will superimpose base of Craniu over posterior arch of C1.
-    - **Punct de Centrare Fascicul:** Anterior oblique (RAO, LAO) Direct CR 15° to 20° caudad to C4 (level of upper margin of thyroid cartilage). Posterior oblique (RPO, LPO) Direct CR 15° to 20° cephalad to C4. Center IR to CR.
+    - **Poziție Pacient:** Pacient: Ortostatism sau Decubit poziție Ortostatism poziție preferred (așezat sau în ortostatism), but Decubit este possible if pacientul’s condition requires.; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine. Place pacient’s brațe la side; if pacient este Decubit, place brațe ca needed la help maintain poziție. Rotate corp și cap into 45° Incidență Oblică. Use protractor sau other angle gauge ca needed la ensure 45° angle (see NOTE) (Figs. 8.52 și 8.53). Protract chin la prevent Mandibulă de la superimposing vertebre. Elevate chin la place linie acantiomeatală (LAM) (linie acantiomeatală (LAM)) paralel cu floor (insert). Excessive Craniu și neck extension will superimpose base de Craniu over posterior arch de C1.
+    - **Punct de Centrare Fascicul:** anterior oblic (RAO, LAO) Direct raza centrală 15° la 20° caudal la C4 (level de upper margin de cartilaj tiroid (mărul lui Adam)). posterior oblic (RPO, LPO) Direct raza centrală 15° la 20° cranial la C4. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Suspend respiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -134,26 +137,26 @@ title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Anterior: Oblique (RAO and LAO): intervertebral foramina and pedicles on the side of the patient closest to the iR (right and left pedicles respectively).
-    - posterior: Oblique (RPO and LPO): intervertebral foramina and pedicles on the side of the patient farthest from the iR (left and right pedicles, respectively) (Figs. 8.54 and 8.55). POSITION
-    - Intervertebral disk spaces and intervertebral foramina of interest (C2 through C7) should be open and uniform in size and shape. The pedicles of interest should be demonstrated in full profile and the opposite, onend pedicles should be aligned along the anterior cervical body.
-    - Onend pedicles aligned at the midline of the cervical body and visualization of zygapophyseal joints indicate overrotation.
-    - Obscured intervertebral foramina and pedicles indicate underrotation.
-    - The mandibular rami should not superimpose the upper cervical vertebrae, and the base of the Craniu should not superimpose C1.
-    - Collimation to area of interest. EXPOSURE
-    - Optimal image receptor exposure and contrast. Clear demonstration of soft tissue margins and of bony margins and trabecular markings of cervical vertebrae.
-    - no motion. Coloană Cervicală ROUTINE
-    - AP open mouth (C1 and C2)
+    - anterior: oblic (RAO și LAO): intervertebral foramina și pedicles pe side de pacientul cel mai apropiat de receptorul de imagine (drept și stâng pedicles respectively).
+    - posterior: oblic (RPO și LPO): intervertebral foramina și pedicles pe side de pacientul farthest de la receptorul de imagine (stâng și drept pedicles, respectively) (Figs. 8.54 și 8.55). poziție
+    - Intervertebral disk spaces și intervertebral foramina de interest (C2 through C7) trebuie să fie open și uniform în size și shape. pedicles de interest trebuie să fie evidențiat în full profile și opposite, onend pedicles trebuie să fie aliniat along anterior cervical corp.
+    - Onend pedicles aliniat la linia mediană cervical corp și visualization de zygapophyseal articulații indicate overrotation.
+    - Obscured intervertebral foramina și pedicles indicate underrotation.
+    - ramuri mandibulare trebuie să nu superimpose upper coloană cervicală, și base de Craniu trebuie să nu superimpose C1.
+    - Collimation la aria de interes diagnostic. expunere
+    - optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi margins și de bony margins și trabecular markings de coloană cervicală.
+    - fără mișcare. Coloană Cervicală ROUTINE
+    - AP gură deschisă (transorală) (C1 și C2)
     - AP axial
-    - Oblique
-    - Lateral Fig. 8.54 Right posterior oblique.
+    - oblic
+    - lateral Fig. 8.54 drept posterior oblic.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,7 +169,7 @@ title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Head may be turned to a near Incidență de Profil (Lateral).
+    cap poate fie turned la near Incidență de Profil (lateral).
 
 
 ### 🖼️ Imagini
@@ -175,33 +178,33 @@ title: Rx Coloană Cervicală ANTERIOR AND POSTERIOR OBLIQUE POSITIONS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.52 Ortostatism RAO position—CR](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_1.jpeg)
+![Fig. 8.52 Ortostatism poziție oblică anterioară dreaptă (OAD / RAO)—raza centrală](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.52 Ortostatism RAO position—CR</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.52 Erect RAO position—CR)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 8.53 Optional AP oblique,](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 8.53 Optional AP oblique,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.53 Optional AP oblique,)</span></figcaption>
+<figcaption><strong>Fig. 8.52 Ortostatism poziție oblică anterioară dreaptă (OAD / RAO)—raza centrală</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.52 în ortostatism poziție oblică anterioară dreaptă (OAD / RAO)—raza centrală)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.54 Right posterior oblique.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_3.jpeg)
+![Fig. 8.53 Optional AP oblic,](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 8.54 Right posterior oblique.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.54 Right posterior oblique.)</span></figcaption>
+<figcaption><strong>Fig. 8.53 Optional AP oblic,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.53 Optional AP oblic,)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.55 Left posterior oblique.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_4.jpeg)
+![Fig. 8.54 drept posterior oblic.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 8.55 Left posterior oblique.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.55 Left posterior oblique.)</span></figcaption>
+<figcaption><strong>Fig. 8.54 drept posterior oblic.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.54 drept posterior oblic.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 8.55 stâng posterior oblic.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-anterior-and-posterior-oblique-positions-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 8.55 stâng posterior oblic.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.55 stâng posterior oblic.)</span></figcaption>
 
 </figure>
 

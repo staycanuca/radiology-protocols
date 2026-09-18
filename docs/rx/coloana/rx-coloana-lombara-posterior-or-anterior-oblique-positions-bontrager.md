@@ -1,26 +1,27 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on expiration. Coloană Lombară ROUTINE AP (or PA) Oblique—posterior
-  or anterior Lateral Lateral L5–S1
+breathing: Apnee pe durata expunerii pe expiration. Coloană Lombară ROUTINE AP (sau
+  PA) oblic—posterior sau anterior lateral lateral L5–S1
 category: coloana
-centering: perpendicular to IR. Direct CR to L3 at the level of the lower costal margin
-  (1 to 2 inches [2.5 to 5 cm]) above creasta iliacă (corespunzător L4-L5) and 2 inches
-  (5 cm) medial to upside ASIS. Center IR to CR.
+centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
+  L3 la nivelul lower costal margin (1 la 2 inches [2.5 la 5 cm]) above creasta iliacă
+  (corespunzător L4-L5) și 2 inches (5 cm) medial la upside spină iliacă antero-superioară
+  (SIAS). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Defects of the pars interarticularis (e.g., spondylolysis) both right and left oblique
-  projections are obtained.
+- Defects de pars interarticularis (e.g., spondylolysis) ambele drept și stâng oblic
+  incidențe sunt obtained.
 images:
-- caption: Fig. 9.32 45° RPO of Coloană Lombară.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.32 45° RPO of
-    lumbar spine.)
+- caption: Fig. 9.32 45° RPO de Coloană Lombară.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.32 45° RPO de
+    lumbar coloană vertebrală.)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_1.jpeg
-- caption: Fig. 9.33 45° RPO of Coloană Lombară.
+- caption: Fig. 9.33 45° RPO de Coloană Lombară.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.33
-    45° RPO of lumbar spine.)
+    45° RPO de lumbar coloană vertebrală.)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_2.jpeg
-- caption: Fig. 9.31 Ortostatism 45° RPO of Coloană Lombară, visualizing right (inset)
+- caption: Fig. 9.31 Ortostatism 45° RPO de Coloană Lombară, visualizing drept (inset)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.31
-    Erect 45° RPO of lumbar spine, visualizing right (inset))
+    în ortostatism 45° RPO de lumbar coloană vertebrală, visualizing drept (inset))
   url: assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -29,16 +30,16 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Posterior or Anterior Oblique Positions Position patient semisupine
-  (right posterior oblique [RPO] and left posterior oblique [LPO]) or semiprone ((right
-  anterior oblique [RAO] and left anterior oblique [LAO]), with arms extended and
-  head on pillow.; Regiune anatomică: Rotate body 45° and align spinal column to midline
-  of table and/or IR; 50° oblique is best for L1–L2 zygapophyseal joints. Ensure equal
-  rotation of shoulders and Bazin (Pelvis). Flex Genunchi for stability and bring
-  arm farthest from IR across Torace (Fig. 9.31). Support shoulders and Bazin (Pelvis)
-  with radiolucent sponges to maintain position. This support is strongly recommended
-  to prevent patients from grasping the edge of the table, which may result in their
-  Degete Mână being pinched.'
+position: 'Pacient: posterior sau anterior oblic poziții poziție pacient semisupine
+  (drept posterior oblic [RPO] și stâng posterior oblic [LPO]) sau semiprone ((drept
+  anterior oblic [RAO] și stâng anterior oblic [LAO]), cu brațe extins și cap pe pillow.;
+  Regiune anatomică: Rotate corp 45° și align spinal column la linia mediană mesei
+  și/sau receptorul de imagine; 50° oblic este best pentru L1–L2 zygapophyseal articulații.
+  Ensure equal rotație de umeri și Bazin (bazin (pelvis)). Flex Genunchi pentru stability
+  și bring braț farthest de la receptorul de imagine across Torace (Fig. 9.31). Support
+  umeri și Bazin (bazin (pelvis)) cu radiolucent sponges la maintain poziție. This
+  support este strongly recommended la prevent pacienți de la grasping edge de masa
+  de examinare, which poate result în their Degete Mână being pinched.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,15 +47,14 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Visualization of zygapophyseal joints (RPO and LPO show downside; RAO and LAO show
-  upside) (Figs. 9.32 and 9.33). Position
-- Accurate 45° patient rotation as indicated by open zygapophyseal joints and the
-  pedicle (eye of the Scottie dog) between the midline and lateral aspect of the vertebral
-  border.
-- If the pedicle is demonstrated closer to the midline of the vertebral border and
-  less of the pedicle is seen, this indicates overrotation. If the pedicle is demonstrated
-  laterally on the vertebral body border with more of the lamina (body of Scottie
-  dog) demonstrated, this indicates underrotation.2
+- Visualization de zygapophyseal articulații (RPO și LPO show downside; RAO și LAO
+  show upside) (Figs. 9.32 și 9.33). poziție
+- precis 45° pacient rotație ca indicated prin open zygapophyseal articulații și pedicle
+  (eye de Scottie dog) între midline și lateral aspect de vertebral margine.
+- If pedicle este evidențiat closer la linia mediană vertebral margine și less de
+  pedicle este seen, this indicates overrotation. If pedicle este evidențiat laterally
+  pe vertebral corp margine cu more de lamina (corp de Scottie dog) evidențiat, this
+  indicates underrotation.2
 sid_dff: 100 cm
 slug: rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager
 sources:
@@ -62,22 +62,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: field size to area of interest. Exposure Optimal image receptor exposure
-    and contrast. Clear demonstration of bony margins and trabecular markings of lumbar
-    vertebrae. no motion. Fig. 9.32 45° RPO of Coloană Lombară. Pedicle (L2) Pars
-    interarticularis (L3) Zygapophyseal joint (L3-4) Superior articular process (L5)
-    Inferior articular process (L4) Body (L2) Transverse process (L3) Fig. 9.33 45°
-    RPO of Coloană Lombară. Fig. 9.31 Ortostatism 45° RPO of Coloană Lombară, visualizing
-    right (inset) zygapophyseal joints. LPO demonstrates left zygapophyseal joints.
-    30 (24) (30)
+  collimation: field size la aria de interes diagnostic. expunere optim receptorul
+    de imagine expunere și contrast. Clear demonstration de bony margins și trabecular
+    markings de coloană lombară. fără mișcare. Fig. 9.32 45° RPO de Coloană Lombară.
+    Pedicle (L2) Pars interarticularis (L3) Zygapophyseal articulație (L3-4) superior
+    articular process (L5) inferior articular process (L4) corp (L2) Transverse process
+    (L3) Fig. 9.33 45° RPO de Coloană Lombară. Fig. 9.31 Ortostatism 45° RPO de Coloană
+    Lombară, visualizing drept (inset) zygapophyseal articulații. LPO evidențiază
+    stâng zygapophyseal articulații. 30 (24) (30)
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
+title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE Poziționare
 ---
-# Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
+# Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE Poziționare
 
 
 <div class="rx-meta-bar">
@@ -96,7 +96,7 @@ title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
 
     === "Indicații Clinice"
 
-        - Defects of the pars interarticularis (e.g., spondylolysis) both right and left oblique projections are obtained.
+        - Defects de pars interarticularis (e.g., spondylolysis) ambele drept și stâng oblic incidențe sunt obtained.
 
     === "Ghid Național IRIS"
 
@@ -110,10 +110,10 @@ title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
 
     ---
 
-    - **Poziție Pacient:** Pacient: Posterior or Anterior Oblique Positions Position patient semisupine (right posterior oblique [RPO] and left posterior oblique [LPO]) or semiprone ((right anterior oblique [RAO] and left anterior oblique [LAO]), with arms extended and head on pillow.; Regiune anatomică: Rotate body 45° and align spinal column to midline of table and/or IR; 50° oblique is best for L1–L2 zygapophyseal joints. Ensure equal rotation of shoulders and Bazin (Pelvis). Flex Genunchi for stability and bring arm farthest from IR across Torace (Fig. 9.31). Support shoulders and Bazin (Pelvis) with radiolucent sponges to maintain position. This support is strongly recommended to prevent patients from grasping the edge of the table, which may result in their Degete Mână being pinched.
-    - **Punct de Centrare Fascicul:** perpendicular to IR. Direct CR to L3 at the level of the lower costal margin (1 to 2 inches [2.5 to 5 cm]) above creasta iliacă (corespunzător L4-L5) and 2 inches (5 cm) medial to upside ASIS. Center IR to CR.
+    - **Poziție Pacient:** Pacient: posterior sau anterior oblic poziții poziție pacient semisupine (drept posterior oblic [RPO] și stâng posterior oblic [LPO]) sau semiprone ((drept anterior oblic [RAO] și stâng anterior oblic [LAO]), cu brațe extins și cap pe pillow.; Regiune anatomică: Rotate corp 45° și align spinal column la linia mediană mesei și/sau receptorul de imagine; 50° oblic este best pentru L1–L2 zygapophyseal articulații. Ensure equal rotație de umeri și Bazin (bazin (pelvis)). Flex Genunchi pentru stability și bring braț farthest de la receptorul de imagine across Torace (Fig. 9.31). Support umeri și Bazin (bazin (pelvis)) cu radiolucent sponges la maintain poziție. This support este strongly recommended la prevent pacienți de la grasping edge de masa de examinare, which poate result în their Degete Mână being pinched.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre L3 la nivelul lower costal margin (1 la 2 inches [2.5 la 5 cm]) above creasta iliacă (corespunzător L4-L5) și 2 inches (5 cm) medial la upside spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on expiration. Coloană Lombară ROUTINE AP (or PA) Oblique—posterior or anterior Lateral Lateral L5–S1
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration. Coloană Lombară ROUTINE AP (sau PA) oblic—posterior sau anterior lateral lateral L5–S1
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,16 +127,16 @@ title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size to area of interest. Exposure Optimal image receptor exposure and contrast. Clear demonstration of bony margins and trabecular markings of lumbar vertebrae. no motion. Fig. 9.32 45° RPO of Coloană Lombară. Pedicle (L2) Pars interarticularis (L3) Zygapophyseal joint (L3-4) Superior articular process (L5) Inferior articular process (L4) Body (L2) Transverse process (L3) Fig. 9.33 45° RPO of Coloană Lombară. Fig. 9.31 Ortostatism 45° RPO of Coloană Lombară, visualizing right (inset) zygapophyseal joints. LPO demonstrates left zygapophyseal joints. 30 (24) (30) |
+    | **Colimare Fascicul** | field size la aria de interes diagnostic. expunere optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de coloană lombară. fără mișcare. Fig. 9.32 45° RPO de Coloană Lombară. Pedicle (L2) Pars interarticularis (L3) Zygapophyseal articulație (L3-4) superior articular process (L5) inferior articular process (L4) corp (L2) Transverse process (L3) Fig. 9.33 45° RPO de Coloană Lombară. Fig. 9.31 Ortostatism 45° RPO de Coloană Lombară, visualizing drept (inset) zygapophyseal articulații. LPO evidențiază stâng zygapophyseal articulații. 30 (24) (30) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Visualization of zygapophyseal joints (RPO and LPO show downside; RAO and LAO show upside) (Figs. 9.32 and 9.33). Position
-    - Accurate 45° patient rotation as indicated by open zygapophyseal joints and the pedicle (eye of the Scottie dog) between the midline and lateral aspect of the vertebral border.
-    - If the pedicle is demonstrated closer to the midline of the vertebral border and less of the pedicle is seen, this indicates overrotation. If the pedicle is demonstrated laterally on the vertebral body border with more of the lamina (body of Scottie dog) demonstrated, this indicates underrotation.2
+    - Visualization de zygapophyseal articulații (RPO și LPO show downside; RAO și LAO show upside) (Figs. 9.32 și 9.33). poziție
+    - precis 45° pacient rotație ca indicated prin open zygapophyseal articulații și pedicle (eye de Scottie dog) între midline și lateral aspect de vertebral margine.
+    - If pedicle este evidențiat closer la linia mediană vertebral margine și less de pedicle este seen, this indicates overrotation. If pedicle este evidențiat laterally pe vertebral corp margine cu more de lamina (corp de Scottie dog) evidențiat, this indicates underrotation.2
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,25 +156,25 @@ title: Rx Coloană Lombară POSTERIOR (OR ANTERIOR) OBLIQUE POSITIONS
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.32 45° RPO of Coloană Lombară.](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_1.jpeg)
+![Fig. 9.32 45° RPO de Coloană Lombară.](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.32 45° RPO of Coloană Lombară.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.32 45° RPO of lumbar spine.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.33 45° RPO of Coloană Lombară.](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.33 45° RPO of Coloană Lombară.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.33 45° RPO of lumbar spine.)</span></figcaption>
+<figcaption><strong>Fig. 9.32 45° RPO de Coloană Lombară.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.32 45° RPO de lumbar coloană vertebrală.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.31 Ortostatism 45° RPO of Coloană Lombară, visualizing right (inset)](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_3.jpeg)
+![Fig. 9.33 45° RPO de Coloană Lombară.](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.31 Ortostatism 45° RPO of Coloană Lombară, visualizing right (inset)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.31 Erect 45° RPO of lumbar spine, visualizing right (inset))</span></figcaption>
+<figcaption><strong>Fig. 9.33 45° RPO de Coloană Lombară.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.33 45° RPO de lumbar coloană vertebrală.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.31 Ortostatism 45° RPO de Coloană Lombară, visualizing drept (inset)](../../assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.31 Ortostatism 45° RPO de Coloană Lombară, visualizing drept (inset)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.31 în ortostatism 45° RPO de lumbar coloană vertebrală, visualizing drept (inset))</span></figcaption>
 
 </figure>
 

@@ -1,48 +1,49 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Expose on Inspir profund adecvat: minim 9-10 arcuri costale posterioare
-  vizibile. orthostatic (breathing) technique is preferred if patient can cooperate.
-  Patient should be asked to breathe gently short, shallow breaths without moving
-  affected arm or Umăr. (This best visualizes proximal Humerus by blurring out Coaste
-  (Grilaj Costal) and lung structures.)'
+breathing: 'Expose pe Inspir profund adecvat: minim 9-10 arcuri costale posterioare
+  vizibile. orthostatic (respirație) technique este preferred if pacient poate cooperate.
+  pacient trebuie să fie asked la breathe gently short, shallow breaths fără moving
+  affected braț sau Umăr. (This best visualizes proximal Humerus prin blurring out
+  Coaste (Grilaj Costal) și lung structures.)'
 category: membru-superior
-centering: perpendicular to IR, directed through thorax to level of affected surgical
-  neck (see NOTE)
+centering: perpendicular pe receptorul de imagine, orientat through thorax la level
+  de affected surgical neck (see NOTE)
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of proximal Humerus
+- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
 images:
 - caption: Fig. 5.73 Ortostatism transthoracic
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.73 Erect transthoracic)
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.73 în ortostatism
+    transthoracic)
   url: assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_1.jpeg
-- caption: Fig. 5.74 Decubit Dorsal transthoracic
+- caption: Fig. 5.74 Decubit dorsal transthoracic
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.74
-    Supine transthoracic)
+    în decubit dorsal transthoracic)
   url: assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_2.jpeg
 - caption: Fig. 5.75 Ortostatism transthoracic lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.75
-    Erect transthoracic lateral.)
+    în ortostatism transthoracic lateral.)
   url: assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_3.jpeg
 - caption: Fig. 5.76 Ortostatism transthoracic lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.76
-    Erect transthoracic lateral.)
+    în ortostatism transthoracic lateral.)
   url: assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If patient is in too much pain to drop injured Umăr and elevate uninjured arm
-  and Umăr fully to prevent superimposition of shoulders, angle CR 10° to 15° cephalad.
-  Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP (neutral rotation) Transthoracic
-  lateral or PA oblique (scapular Y lateral)
-position: 'Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal
-  position. (The Ortostatism position is preferred and may be more comfortable for
-  patient.) Place patient in Incidență de Profil (Lateral) with side of interest against
-  IR. With patient Decubit Dorsal, place grid lines vertically and center CR to centerline
-  to prevent grid cutoff (Figs. 5.73 and 5.74).; Regiune anatomică: Place affected
-  arm at patient’s side in neutral rotation; drop Umăr if possible. Raise opposite
-  arm and place Mână over top of head; elevate Umăr as much as possible to prevent
-  superimposition of affected Umăr. Center surgical neck and center of IR to CR as
-  projected through thorax. Ensure that thorax is in a true Incidență de Profil (Lateral)
-  or has slight anterior rotation of unaffected Umăr to minimize superimposition of
-  Humerus by thoracic vertebrae.'
+notes: If pacient este în too much pain la drop injured Umăr și elevate uninjured
+  braț și Umăr fully la prevent superimposition de umeri, Raza centrală se înclină
+  10°–15° cranial (spre cap). Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP
+  (neutral rotație) Transthoracic lateral sau PA oblic (scapular Y lateral)
+position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
+  poziție. (Ortostatism poziție este preferred și poate fie more comfortable pentru
+  pacient.) Place pacient în Incidență de Profil (lateral) cu side de interest against
+  receptorul de imagine. cu pacient Decubit dorsal, place grilă lines vertically și
+  center raza centrală la centerline la prevent grilă cutoff (Figs. 5.73 și 5.74).;
+  Regiune anatomică: Place affected braț la pacient’s side în neutral rotație; drop
+  Umăr if possible. Raise opposite braț și place Mână over top de cap; elevate Umăr
+  ca much ca possible la prevent superimposition de affected Umăr. Center surgical
+  neck și center de receptorul de imagine la raza centrală ca projected through thorax.
+  Ensure that thorax este în true Incidență de Profil (lateral) sau has slight anterior
+  rotație de unaffected Umăr la minimize superimposition de Humerus prin coloană toracală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,22 +51,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Lateral view of proximal half of the Humerus and scapulohumeral joint should be
-  visualized through the thorax without superimposition of the opposite Umăr (Figs.
-  5.75 and 5.76). Position:'
-- Outline of the shaft of the proximal Humerus should be clearly visualized anterior
-  to the thoracic vertebrae.
-- Relationship of the humeral head and the glenoid cavity should be demonstrated.
-- 'Collimation field size to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast demonstrate entire outline of the humeral
-  head and the proximal half of the Humerus.
-- Overlying Coaste (Grilaj Costal) and lung markings should appear blurred because
-  of breathing technique, but bony outlines of the Humerus should appear sharp, indicating
-  no motion of the arm during the exposure. Fig. 5.73 Ortostatism transthoracic Incidență
-  de Profil (Lateral) (R lateral). Fig. 5.74 Decubit Dorsal transthoracic Incidență
-  de Profil (Lateral) (R lateral). Fig. 5.75 Ortostatism transthoracic lateral. Head
-  of Humerus Claviculă R Greater tubercle Intertubercle groove Lesser tubercle Shaft
-  of the Humerus Omoplat (Scapulă) Fig. 5.76 Ortostatism transthoracic lateral.
+- 'lateral incidență de proximal half de Humerus și scapulohumeral articulație trebuie
+  să fie visualized through thorax fără superimposition de opposite Umăr (Figs. 5.75
+  și 5.76). poziție:'
+- Outline de shaft de proximal Humerus trebuie să fie clearly visualized anterior
+  la coloană toracală.
+- Relationship de cap humeral și cavitate glenoidă trebuie să fie evidențiat.
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast evidențiază entire outline de cap
+  humeral și proximal half de Humerus.
+- Overlying Coaste (Grilaj Costal) și lung markings trebuie să appear blurred because
+  de Tehnică de estompare prin respirație superficială (respirație technique), but
+  bony outlines de Humerus trebuie să appear net, indicating fără mișcare de braț
+  during expunere. Fig. 5.73 Ortostatism transthoracic Incidență de Profil (lateral)
+  (R lateral). Fig. 5.74 Decubit dorsal transthoracic Incidență de Profil (lateral)
+  (R lateral). Fig. 5.75 Ortostatism transthoracic lateral. cap de Humerus Claviculă
+  R mare tuberozitate humerală (trohiter) Intertubercle groove mică tuberozitate humerală
+  (trohin) Shaft de Humerus Omoplat (Scapulă) Fig. 5.76 Ortostatism transthoracic
+  lateral.
 sid_dff: 100 cm
 slug: rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager
 sources:
@@ -73,7 +76,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate on four sides to area of interest.
+  collimation: Field Size Collimate pe four sides la aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -101,7 +104,7 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of proximal Humerus
+        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
 
     === "Ghid Național IRIS"
 
@@ -115,10 +118,10 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiograph with patient in Ortostatism or Decubit Dorsal position. (The Ortostatism position is preferred and may be more comfortable for patient.) Place patient in Incidență de Profil (Lateral) with side of interest against IR. With patient Decubit Dorsal, place grid lines vertically and center CR to centerline to prevent grid cutoff (Figs. 5.73 and 5.74).; Regiune anatomică: Place affected arm at patient’s side in neutral rotation; drop Umăr if possible. Raise opposite arm and place Mână over top of head; elevate Umăr as much as possible to prevent superimposition of affected Umăr. Center surgical neck and center of IR to CR as projected through thorax. Ensure that thorax is in a true Incidență de Profil (Lateral) or has slight anterior rotation of unaffected Umăr to minimize superimposition of Humerus by thoracic vertebrae.
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed through thorax to level of affected surgical neck (see NOTE)
+    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. (Ortostatism poziție este preferred și poate fie more comfortable pentru pacient.) Place pacient în Incidență de Profil (lateral) cu side de interest against receptorul de imagine. cu pacient Decubit dorsal, place grilă lines vertically și center raza centrală la centerline la prevent grilă cutoff (Figs. 5.73 și 5.74).; Regiune anatomică: Place affected braț la pacient’s side în neutral rotație; drop Umăr if possible. Raise opposite braț și place Mână over top de cap; elevate Umăr ca much ca possible la prevent superimposition de affected Umăr. Center surgical neck și center de receptorul de imagine la raza centrală ca projected through thorax. Ensure that thorax este în true Incidență de Profil (lateral) sau has slight anterior rotație de unaffected Umăr la minimize superimposition de Humerus prin coloană toracală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat through thorax la level de affected surgical neck (see NOTE)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Expose on Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile. orthostatic (breathing) technique is preferred if patient can cooperate. Patient should be asked to breathe gently short, shallow breaths without moving affected arm or Umăr. (This best visualizes proximal Humerus by blurring out Coaste (Grilaj Costal) and lung structures.)
+    - **Comandă Respiratorie:** Expose pe Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile. orthostatic (respirație) technique este preferred if pacient poate cooperate. pacient trebuie să fie asked la breathe gently short, shallow breaths fără moving affected braț sau Umăr. (This best visualizes proximal Humerus prin blurring out Coaste (Grilaj Costal) și lung structures.)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -132,19 +135,19 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to area of interest. |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of proximal half of the Humerus and scapulohumeral joint should be visualized through the thorax without superimposition of the opposite Umăr (Figs. 5.75 and 5.76). Position:
-    - Outline of the shaft of the proximal Humerus should be clearly visualized anterior to the thoracic vertebrae.
-    - Relationship of the humeral head and the glenoid cavity should be demonstrated.
-    - Collimation field size to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast demonstrate entire outline of the humeral head and the proximal half of the Humerus.
-    - Overlying Coaste (Grilaj Costal) and lung markings should appear blurred because of breathing technique, but bony outlines of the Humerus should appear sharp, indicating no motion of the arm during the exposure. Fig. 5.73 Ortostatism transthoracic Incidență de Profil (Lateral) (R lateral). Fig. 5.74 Decubit Dorsal transthoracic Incidență de Profil (Lateral) (R lateral). Fig. 5.75 Ortostatism transthoracic lateral. Head of Humerus Claviculă R Greater tubercle Intertubercle groove Lesser tubercle Shaft of the Humerus Omoplat (Scapulă) Fig. 5.76 Ortostatism transthoracic lateral.
+    - lateral incidență de proximal half de Humerus și scapulohumeral articulație trebuie să fie visualized through thorax fără superimposition de opposite Umăr (Figs. 5.75 și 5.76). poziție:
+    - Outline de shaft de proximal Humerus trebuie să fie clearly visualized anterior la coloană toracală.
+    - Relationship de cap humeral și cavitate glenoidă trebuie să fie evidențiat.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast evidențiază entire outline de cap humeral și proximal half de Humerus.
+    - Overlying Coaste (Grilaj Costal) și lung markings trebuie să appear blurred because de Tehnică de estompare prin respirație superficială (respirație technique), but bony outlines de Humerus trebuie să appear net, indicating fără mișcare de braț during expunere. Fig. 5.73 Ortostatism transthoracic Incidență de Profil (lateral) (R lateral). Fig. 5.74 Decubit dorsal transthoracic Incidență de Profil (lateral) (R lateral). Fig. 5.75 Ortostatism transthoracic lateral. cap de Humerus Claviculă R mare tuberozitate humerală (trohiter) Intertubercle groove mică tuberozitate humerală (trohin) Shaft de Humerus Omoplat (Scapulă) Fig. 5.76 Ortostatism transthoracic lateral.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,7 +160,7 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If patient is in too much pain to drop injured Umăr and elevate uninjured arm and Umăr fully to prevent superimposition of shoulders, angle CR 10° to 15° cephalad. Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP (neutral rotation) Transthoracic lateral or PA oblique (scapular Y lateral)
+    If pacient este în too much pain la drop injured Umăr și elevate uninjured braț și Umăr fully la prevent superimposition de umeri, Raza centrală se înclină 10°–15° cranial (spre cap). Umăr (traumatism acuttism / Regim Urgență) ROUTINE AP (neutral rotație) Transthoracic lateral sau PA oblic (scapular Y lateral)
 
 
 ### 🖼️ Imagini
@@ -168,15 +171,15 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 
 ![Fig. 5.73 Ortostatism transthoracic](../../assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.73 Ortostatism transthoracic</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.73 Erect transthoracic)</span></figcaption>
+<figcaption><strong>Fig. 5.73 Ortostatism transthoracic</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.73 în ortostatism transthoracic)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.74 Decubit Dorsal transthoracic](../../assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_2.jpeg)
+![Fig. 5.74 Decubit dorsal transthoracic](../../assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.74 Decubit Dorsal transthoracic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.74 Supine transthoracic)</span></figcaption>
+<figcaption><strong>Fig. 5.74 Decubit dorsal transthoracic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.74 în decubit dorsal transthoracic)</span></figcaption>
 
 </figure>
 
@@ -184,7 +187,7 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 
 ![Fig. 5.75 Ortostatism transthoracic lateral.](../../assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.75 Ortostatism transthoracic lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.75 Erect transthoracic lateral.)</span></figcaption>
+<figcaption><strong>Fig. 5.75 Ortostatism transthoracic lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.75 în ortostatism transthoracic lateral.)</span></figcaption>
 
 </figure>
 
@@ -192,7 +195,7 @@ title: Rx PROXIMAL Humerus (traumatism acuttism / Regim Urgență) TRANSTHORACIC
 
 ![Fig. 5.76 Ortostatism transthoracic lateral.](../../assets/images/protocols/bontrager/rx-proximal-humerus-traumatism-acuttism-regim-urgenta-transthoracic-profil-lateral-metoda-lawrence-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 5.76 Ortostatism transthoracic lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.76 Erect transthoracic lateral.)</span></figcaption>
+<figcaption><strong>Fig. 5.76 Ortostatism transthoracic lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.76 în ortostatism transthoracic lateral.)</span></figcaption>
 
 </figure>
 

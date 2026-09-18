@@ -1,33 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: With infants and children, watch the breathing pattern. When the Abdomen
-  is still, make the exposure. If the patient is crying, make the exposure as the
-  patient takes a breath in to let out a cry. Children older than 5 years usually
-  can hold their breath after a practice session. Fig. 16.61 Ortostatism AP Abdomen.
-  (Parent holding child should be wearing lead apron and gloves.) Abdomen ROUTINE
-  AP (KUB) SPECIAL AP Ortostatism Lateral and dorsal decubitus
+breathing: La sugari și copii mici, se monitorizează dinamica respiratorie; expunerea
+  se efectuează când toracele/abdomenul este imobil. When abdomenul este still, Se
+  declanșează expunerea. Dacă pacientul plânge, expunerea se efectuează în momentul
+  în care copilul inspiră adânc înainte de plânge. Copiii cu vârsta peste 5 ani pot
+  menține de regulă apneea după o scurtă simulare/exersare prealabilă. Fig. 16.61
+  Ortostatism AP Abdomen. (Parent menținerea child trebuie să fie wearing lead apron
+  și gloves.) Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism lateral și dorsal decubit
 category: abdomen
-centering: With infants and small children, center CR and IR 1 inch (2.5 cm) above
-  umbilicus. With older children and adolescents, center CR at approximately 1 inch
-  (2.5 cm) to 2 inches (5 cm) (depending on the height of the child) above the level
-  of the creasta iliacă (corespunzător L4-L5), which should place top collimation
-  border and top of film at level of the axilla to include the diaphragm on IR.
+centering: cu infants și small children, center raza centrală și receptorul de imagine
+  1 inch (2.5 cm) above ombilic. cu older children și adolescents, center raza centrală
+  la approximately 1 inch (2.5 cm) la 2 inches (5 cm) (depending pe height de child)
+  deasupra nivelului creasta iliacă (corespunzător L4-L5), which trebuie să place
+  top collimation margine și top de film radiologic la level de axilla pentru include
+  cupole diafragmatice pe receptorul de imagine.
 clinical_indications:
-- Pathology of the Abdomen, including possible intestinal obstruction by demonstration
-  of airfluid levels or free intraabdominal air. Generally, this projection is part
-  of a threeway or acute Abdomen series (Decubit Dorsal, Ortostatism, and decubitus).
+- Pathology de abdomenul, including possible Ocluzie intestinală (nivele hidroaerice)
+  prin demonstration de airfluid levels sau liber intraabdominal air. Generally, this
+  incidență este part de threeway sau abdomen acut series (Decubit dorsal, Ortostatism,
+  și decubit).
 images:
-- caption: Fig. 16.61 Ortostatism AP Abdomen. (Parent holding child should be
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.61 Erect AP
-    abdomen. (Parent holding child should be)
+- caption: Fig. 16.61 Ortostatism AP Abdomen. (Parent menținerea child trebuie să
+    fie
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.61 în ortostatism
+    AP abdomen. (Parent menținerea child trebuie să fie)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_1.jpeg
-- caption: Fig. 16.62 Ortostatism AP Abdomen with Pigg-
+- caption: Fig. 16.62 Ortostatism AP Abdomen cu Pigg-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.62
-    Erect AP abdomen with Pigg-)
+    în ortostatism AP abdomen cu Pigg-)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_2.jpeg
-- caption: Fig. 16.63 Ortostatism AP Abdomen (demonstrates ﬂuid levels and
+- caption: Fig. 16.63 Ortostatism AP Abdomen (evidențiază nivele hidroaerice și
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.63
-    Erect AP abdomen (demonstrates ﬂuid levels and)
+    în ortostatism AP abdomen (evidențiază nivele hidroaerice și)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
@@ -40,19 +44,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire contents of Abdomen are shown, including gas patterns and airfluid levels
-  and soft tissue if not obscured by excessive fluid in distended Abdomen, as shown
-  in Fig. 16.63. POSITION:'
-- Vertebral column is aligned to center of radiograph.
+- 'Entire contents de Abdomen sunt vizualizat, including gas patterns și airfluid
+  levels și părți moi if nu obscured prin excessive lichid în distended Abdomen, ca
+  vizualizat în Fig. 16.63. poziție:'
+- coloană vertebrală este aliniat la center de radiografie.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  exists; Bazin (Pelvis) and hips should be symmetric.'
-- 'Collimation to area of interest. EXPOSURE:'
-- No motion is evident, and diaphragm and gas pattern borders appear sharp.
-- Bony Bazin (Pelvis) and vertebral body outlines are evident through abdominal contents
-  without overexposing airfilled structures. Five year old Fig. 16.62 Ortostatism
-  AP Abdomen with PiggO- Stat. Note top of IR (if such a designation) at axilla to
-  include diaphragm. Inset, A 5year- old child in front of the IR. R Fig. 16.63 Ortostatism
-  AP Abdomen (demonstrates fluid levels and distended airfilled large bowel).
+  exists; Bazin (bazin (pelvis)) și hips trebuie să fie simetric.'
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare este evident, și cupole diafragmatice și gas pattern margini appear
+  net.
+- Bony Bazin (bazin (pelvis)) și vertebral corp outlines sunt evident through abdominal
+  contents fără overexposing airfilled structures. Five year old Fig. 16.62 Ortostatism
+  AP Abdomen cu PiggO- Stat. Note top de receptorul de imagine (if such designation)
+  la axilla la include cupole diafragmatice. Inset, A 5year- old child în front de
+  receptorul de imagine. R Fig. 16.63 Ortostatism AP Abdomen (evidențiază nivele hidroaerice
+  și distended airfilled intestin gros (colon)).
 sid_dff: 100 cm
 slug: rx-abdomen-ap-ortostatism-projection-bontrager
 sources:
@@ -60,17 +66,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: field size—determined by size of patient, portrait Grid if larger than
-    4 to 4½ inches (10 to 12 cm) in thickness Shortest exposure time possible kVp
-    range—60–75
+  collimation: field size—determined prin size de pacient, portrait grilă if larger
+    than 4 la 4½ inches (10 la 12 cm) în thickness Shortest expunere time possible
+    kVp range—60–75
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx Abdomen AP Ortostatism PROJECTION
+title: Rx Abdomen AP în Ortostatism
 ---
-# Rx Abdomen AP Ortostatism PROJECTION
+# Rx Abdomen AP în Ortostatism
 
 
 <div class="rx-meta-bar">
@@ -89,7 +95,7 @@ title: Rx Abdomen AP Ortostatism PROJECTION
 
     === "Indicații Clinice"
 
-        - Pathology of the Abdomen, including possible intestinal obstruction by demonstration of airfluid levels or free intraabdominal air. Generally, this projection is part of a threeway or acute Abdomen series (Decubit Dorsal, Ortostatism, and decubitus).
+        - Pathology de abdomenul, including possible Ocluzie intestinală (nivele hidroaerice) prin demonstration de airfluid levels sau liber intraabdominal air. Generally, this incidență este part de threeway sau abdomen acut series (Decubit dorsal, Ortostatism, și decubit).
 
     === "Ghid Național IRIS"
 
@@ -104,9 +110,9 @@ title: Rx Abdomen AP Ortostatism PROJECTION
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** With infants and small children, center CR and IR 1 inch (2.5 cm) above umbilicus. With older children and adolescents, center CR at approximately 1 inch (2.5 cm) to 2 inches (5 cm) (depending on the height of the child) above the level of the creasta iliacă (corespunzător L4-L5), which should place top collimation border and top of film at level of the axilla to include the diaphragm on IR.
+    - **Punct de Centrare Fascicul:** cu infants și small children, center raza centrală și receptorul de imagine 1 inch (2.5 cm) above ombilic. cu older children și adolescents, center raza centrală la approximately 1 inch (2.5 cm) la 2 inches (5 cm) (depending pe height de child) deasupra nivelului creasta iliacă (corespunzător L4-L5), which trebuie să place top collimation margine și top de film radiologic la level de axilla pentru include cupole diafragmatice pe receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** With infants and children, watch the breathing pattern. When the Abdomen is still, make the exposure. If the patient is crying, make the exposure as the patient takes a breath in to let out a cry. Children older than 5 years usually can hold their breath after a practice session. Fig. 16.61 Ortostatism AP Abdomen. (Parent holding child should be wearing lead apron and gloves.) Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism Lateral and dorsal decubitus
+    - **Comandă Respiratorie:** La sugari și copii mici, se monitorizează dinamica respiratorie; expunerea se efectuează când toracele/abdomenul este imobil. When abdomenul este still, Se declanșează expunerea. Dacă pacientul plânge, expunerea se efectuează în momentul în care copilul inspiră adânc înainte de plânge. Copiii cu vârsta peste 5 ani pot menține de regulă apneea după o scurtă simulare/exersare prealabilă. Fig. 16.61 Ortostatism AP Abdomen. (Parent menținerea child trebuie să fie wearing lead apron și gloves.) Abdomen ROUTINE AP (KUB) SPECIAL AP Ortostatism lateral și dorsal decubit
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -120,19 +126,19 @@ title: Rx Abdomen AP Ortostatism PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | field size—determined by size of patient, portrait Grid if larger than 4 to 4½ inches (10 to 12 cm) in thickness Shortest exposure time possible kVp range—60–75 |
+    | **Colimare Fascicul** | field size—determined prin size de pacient, portrait grilă if larger than 4 la 4½ inches (10 la 12 cm) în thickness Shortest expunere time possible kVp range—60–75 |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire contents of Abdomen are shown, including gas patterns and airfluid levels and soft tissue if not obscured by excessive fluid in distended Abdomen, as shown in Fig. 16.63. POSITION:
-    - Vertebral column is aligned to center of radiograph.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase exists; Bazin (Pelvis) and hips should be symmetric.
-    - Collimation to area of interest. EXPOSURE:
-    - No motion is evident, and diaphragm and gas pattern borders appear sharp.
-    - Bony Bazin (Pelvis) and vertebral body outlines are evident through abdominal contents without overexposing airfilled structures. Five year old Fig. 16.62 Ortostatism AP Abdomen with PiggO- Stat. Note top of IR (if such a designation) at axilla to include diaphragm. Inset, A 5year- old child in front of the IR. R Fig. 16.63 Ortostatism AP Abdomen (demonstrates fluid levels and distended airfilled large bowel).
+    - Entire contents de Abdomen sunt vizualizat, including gas patterns și airfluid levels și părți moi if nu obscured prin excessive lichid în distended Abdomen, ca vizualizat în Fig. 16.63. poziție:
+    - coloană vertebrală este aliniat la center de radiografie.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase exists; Bazin (bazin (pelvis)) și hips trebuie să fie simetric.
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare este evident, și cupole diafragmatice și gas pattern margini appear net.
+    - Bony Bazin (bazin (pelvis)) și vertebral corp outlines sunt evident through abdominal contents fără overexposing airfilled structures. Five year old Fig. 16.62 Ortostatism AP Abdomen cu PiggO- Stat. Note top de receptorul de imagine (if such designation) la axilla la include cupole diafragmatice. Inset, A 5year- old child în front de receptorul de imagine. R Fig. 16.63 Ortostatism AP Abdomen (evidențiază nivele hidroaerice și distended airfilled intestin gros (colon)).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -152,25 +158,25 @@ title: Rx Abdomen AP Ortostatism PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.61 Ortostatism AP Abdomen. (Parent holding child should be](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_1.jpeg)
+![Fig. 16.61 Ortostatism AP Abdomen. (Parent menținerea child trebuie să fie](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 16.61 Ortostatism AP Abdomen. (Parent holding child should be</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.61 Erect AP abdomen. (Parent holding child should be)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 16.62 Ortostatism AP Abdomen with Pigg-](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 16.62 Ortostatism AP Abdomen with Pigg-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.62 Erect AP abdomen with Pigg-)</span></figcaption>
+<figcaption><strong>Fig. 16.61 Ortostatism AP Abdomen. (Parent menținerea child trebuie să fie</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.61 în ortostatism AP abdomen. (Parent menținerea child trebuie să fie)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.63 Ortostatism AP Abdomen (demonstrates ﬂuid levels and](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_3.jpeg)
+![Fig. 16.62 Ortostatism AP Abdomen cu Pigg-](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 16.63 Ortostatism AP Abdomen (demonstrates ﬂuid levels and</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.63 Erect AP abdomen (demonstrates ﬂuid levels and)</span></figcaption>
+<figcaption><strong>Fig. 16.62 Ortostatism AP Abdomen cu Pigg-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.62 în ortostatism AP abdomen cu Pigg-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 16.63 Ortostatism AP Abdomen (evidențiază nivele hidroaerice și](../../assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 16.63 Ortostatism AP Abdomen (evidențiază nivele hidroaerice și</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.63 în ortostatism AP abdomen (evidențiază nivele hidroaerice și)</span></figcaption>
 
 </figure>
 

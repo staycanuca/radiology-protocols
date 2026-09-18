@@ -2,13 +2,13 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR (averagesized patient), or 5° to 10° caudad on thin
-  patient, directed to midpoint between Genunchi joints at a level ½ inch (1.25 cm)
-  below apex of patellae.
+centering: perpendicular pe receptorul de imagine (averagesized pacient), sau 5° la
+  10° caudal pe thin pacient, orientat la midpoint între Genunchi articulații la level
+  ½ inch (1.25 cm) below apex de patellae.
 clinical_indications:
-- Femorotibial joint spaces of the knees demonstrated for possible cartilage degeneration
-  or other Genunchi joint pathologies
-- Bilateral knees included on same exposure for comparison
+- Femorotibial spații articulare de genunchii evidențiat pentru possible cartilage
+  degeneration sau other Genunchi articulație pathologies
+- bilateral genunchi included pe same expunere pentru comparison
 images:
 - caption: Fig. 6.115 AP bilateral weight-
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.115 AP bilateral
@@ -20,10 +20,10 @@ images:
   url: assets/images/protocols/bontrager/rx-genunchi-ap-in-incarcare-ortostatism-bilateral-genunchi-projection-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This projection most commonly is taken AP but may be taken PA with a cephalic
-  CR angle rather than caudal as with an AP. (This may be easier for patients who
-  are unable to straighten their Genunchi joints fully, such as patients with arthritic
-  conditions or with certain neuromuscular disorders involving the lower limbs.)
+notes: This incidență most commonly este taken AP but poate fie taken PA cu cephalic
+  raza centrală angle rather than caudal ca cu AP. (This poate fie easier pentru pacienți
+  who sunt unable la straighten their Genunchi articulații fully, such ca pacienți
+  cu arthritic conditions sau cu certain neuromuscular disorders involving lower limbs.)
 position: Conform incidenței standard descrise
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
@@ -32,20 +32,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Distal Femur, proximal tibia, and fibula and femorotibial joint spaces are demonstrated
-  bilaterally (Fig. 6.116). Position:'
+- 'distal Femur, proximal tibia, și fibula și femorotibial spații articulare sunt
+  evidențiat bilaterally (Fig. 6.116). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of both knees is evident by symmetric appearance of femoral and tibial condyles.'
-- Approximately onehalf of proximal fibula is superimposed by tibia.
-- 'Collimation field should be centered to Genunchi joint spaces and should include
-  sufficient Femur and tibia to determine long axes of these long bones for alignment.
-  Exposure:'
-- Optimal image receptor exposure and contrast to visualize faint outlines of patellae
-  through femora.
-- Soft tissue should be visible, and trabecular markings of all bones should appear
-  clear and sharp, indicating no motion. Articular facets (Tibial plateau) Articular
-  facets (Tibial plateau) Intercondylar fossa Fig. 6.116 AP bilateral weightbearing—CR
-  10° caudad. (Courtesy Joss Wertz, DO.)
+  de ambele genunchi este evident prin simetric appearance de femoral și tibial condyles.'
+- Approximately onehalf de proximal fibula este superimposed prin tibia.
+- 'Collimation field trebuie să fie centrat pe Genunchi spații articulare și trebuie
+  să include sufficient Femur și tibia la determine long axes de these long bones
+  pentru alignment. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize faint outlines de
+  patellae through femora.
+- părți moi trebuie să fie vizibil, și trabecular markings de toate bones trebuie
+  să appear clear și net, indicating fără mișcare. Articular facets (platou tibial)
+  Articular facets (platou tibial) Intercondylar fossa Fig. 6.116 AP bilateral weightbearing—raza
+  centrală 10° caudal. (Courtesy Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-genunchi-ap-in-incarcare-ortostatism-bilateral-genunchi-projection-bontrager
 sources:
@@ -53,22 +53,23 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to bilateral Genunchi joint region, including some distal
-    femurs and proximal tibia for alignment purposes. Alternative PA If requested,
-    an alternative PA may be performed with patient facing the table or IR holder,
-    knees flexed at approximately 20°, feet straight ahead, and thighs against tabletop
-    or IR holder. Direct CR 10° caudad (parallel to articular facets) to level of
-    Genunchi joints for Incidență Postero-Anterioară (PA). Genunchi SPECIAL AP bilateral
-    weightbearing Fig. 6.115 AP bilateral weightbearing—Raza centrală (RC) perpendiculară
-    pe receptorul de imagine.
+  collimation: Collimate la bilateral Genunchi articulație region, including some
+    distal femurs și proximal tibia pentru alignment purposes. Alternative PA If requested,
+    alternative PA poate fie performed cu pacient facing masa de examinare sau receptorul
+    de imagine holder, genunchi flectat la approximately 20°, picioare straight ahead,
+    și thighs against tabletop sau receptorul de imagine holder. Direct raza centrală
+    10° caudal (paralel la articular facets) la level de Genunchi articulații pentru
+    Incidență Postero-Anterioară (PA). Genunchi SPECIAL AP bilateral weightbearing
+    Fig. 6.115 AP bilateral weightbearing—Raza centrală (RC) perpendiculară pe receptorul
+    de imagine.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTION
+title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi Incidență
 ---
-# Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTION
+# Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi Incidență
 
 
 <div class="rx-meta-bar">
@@ -87,8 +88,8 @@ title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTIO
 
     === "Indicații Clinice"
 
-        - Femorotibial joint spaces of the knees demonstrated for possible cartilage degeneration or other Genunchi joint pathologies
-        - Bilateral knees included on same exposure for comparison
+        - Femorotibial spații articulare de genunchii evidențiat pentru possible cartilage degeneration sau other Genunchi articulație pathologies
+        - bilateral genunchi included pe same expunere pentru comparison
 
     === "Ghid Național IRIS"
 
@@ -103,7 +104,7 @@ title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTIO
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** perpendicular to IR (averagesized patient), or 5° to 10° caudad on thin patient, directed to midpoint between Genunchi joints at a level ½ inch (1.25 cm) below apex of patellae.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (averagesized pacient), sau 5° la 10° caudal pe thin pacient, orientat la midpoint între Genunchi articulații la level ½ inch (1.25 cm) below apex de patellae.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -119,19 +120,19 @@ title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTIO
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to bilateral Genunchi joint region, including some distal femurs and proximal tibia for alignment purposes. Alternative PA If requested, an alternative PA may be performed with patient facing the table or IR holder, knees flexed at approximately 20°, feet straight ahead, and thighs against tabletop or IR holder. Direct CR 10° caudad (parallel to articular facets) to level of Genunchi joints for Incidență Postero-Anterioară (PA). Genunchi SPECIAL AP bilateral weightbearing Fig. 6.115 AP bilateral weightbearing—Raza centrală (RC) perpendiculară pe receptorul de imagine. |
+    | **Colimare Fascicul** | Collimate la bilateral Genunchi articulație region, including some distal femurs și proximal tibia pentru alignment purposes. Alternative PA If requested, alternative PA poate fie performed cu pacient facing masa de examinare sau receptorul de imagine holder, genunchi flectat la approximately 20°, picioare straight ahead, și thighs against tabletop sau receptorul de imagine holder. Direct raza centrală 10° caudal (paralel la articular facets) la level de Genunchi articulații pentru Incidență Postero-Anterioară (PA). Genunchi SPECIAL AP bilateral weightbearing Fig. 6.115 AP bilateral weightbearing—Raza centrală (RC) perpendiculară pe receptorul de imagine. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal Femur, proximal tibia, and fibula and femorotibial joint spaces are demonstrated bilaterally (Fig. 6.116). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of both knees is evident by symmetric appearance of femoral and tibial condyles.
-    - Approximately onehalf of proximal fibula is superimposed by tibia.
-    - Collimation field should be centered to Genunchi joint spaces and should include sufficient Femur and tibia to determine long axes of these long bones for alignment. Exposure:
-    - Optimal image receptor exposure and contrast to visualize faint outlines of patellae through femora.
-    - Soft tissue should be visible, and trabecular markings of all bones should appear clear and sharp, indicating no motion. Articular facets (Tibial plateau) Articular facets (Tibial plateau) Intercondylar fossa Fig. 6.116 AP bilateral weightbearing—CR 10° caudad. (Courtesy Joss Wertz, DO.)
+    - distal Femur, proximal tibia, și fibula și femorotibial spații articulare sunt evidențiat bilaterally (Fig. 6.116). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de ambele genunchi este evident prin simetric appearance de femoral și tibial condyles.
+    - Approximately onehalf de proximal fibula este superimposed prin tibia.
+    - Collimation field trebuie să fie centrat pe Genunchi spații articulare și trebuie să include sufficient Femur și tibia la determine long axes de these long bones pentru alignment. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize faint outlines de patellae through femora.
+    - părți moi trebuie să fie vizibil, și trabecular markings de toate bones trebuie să appear clear și net, indicating fără mișcare. Articular facets (platou tibial) Articular facets (platou tibial) Intercondylar fossa Fig. 6.116 AP bilateral weightbearing—raza centrală 10° caudal. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -144,7 +145,7 @@ title: Rx Genunchi AP În Încărcare (Ortostatism) BILATERAL Genunchi PROJECTIO
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This projection most commonly is taken AP but may be taken PA with a cephalic CR angle rather than caudal as with an AP. (This may be easier for patients who are unable to straighten their Genunchi joints fully, such as patients with arthritic conditions or with certain neuromuscular disorders involving the lower limbs.)
+    This incidență most commonly este taken AP but poate fie taken PA cu cephalic raza centrală angle rather than caudal ca cu AP. (This poate fie easier pentru pacienți who sunt unable la straighten their Genunchi articulații fully, such ca pacienți cu arthritic conditions sau cu certain neuromuscular disorders involving lower limbs.)
 
 
 ### 🖼️ Imagini

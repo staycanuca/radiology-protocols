@@ -2,37 +2,38 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular to IR, directed to midpoint of Gambă
+centering: perpendicular pe receptorul de imagine, orientat la midpoint de Gambă
 clinical_indications:
-- Pathologies involving suspiciune de fractură, foreign bodies, or lesions of the
-  bone
+- Pathologies involving suspiciune de fractură, Corp străin / corpuri străine radio-opace,
+  sau lesions de bone
 images:
-- caption: Fig. 6.100 AP Gambă—both joints.
+- caption: Fig. 6.100 AP Gambă—ambele articulații.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.100 AP lower
-    leg—both joints.)
+    membru inferior—ambele articulații.)
   url: assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_1.jpeg
 - caption: Fig. 6.99 AP Gambă—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.99
-    AP lower leg—)
+    AP lower membru inferior—)
   url: assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 6.98 AP Gambă—include both joints.
+- caption: Fig. 6.98 AP Gambă—include ambele articulații.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.98
-    AP lower leg—include both joints.)
+    AP lower membru inferior—include ambele articulații.)
   url: assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place patient in the Decubit Dorsal position; provide a pillow
-  for patient’s head; entire leg should be fully extended.; Regiune anatomică: Adjust
-  Bazin (Pelvis), Genunchi, and leg into true AP with Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase (Fig. 6.98). Place sandbag
-  against Picior if needed for stabilization, and dorsiflex Picior to 90° to Gambă
-  if possible. Ensure that both Gleznă (Articulație Talocrurală) and Genunchi joints
-  are 1 to 2 inches (2.5 to 5 cm) from ends of IR (so that divergent rays do not project
-  either joint off IR). If limb is too long, place the Gambă diagonally (corner to
-  corner) on one 14 × 17inch (35 × 43- cm) IR to ensure that both joints are included.
-  (Also, if needed, a second smaller IR may be taken of the joint farthest from the
-  injury site.)'
+position: 'Pacient: Place pacient în Decubit dorsal poziție; provide pillow pentru
+  pacient’s cap; entire membru inferior trebuie să fie fully extins.; Regiune anatomică:
+  Adjust Bazin (bazin (pelvis)), Genunchi, și membru inferior into true AP cu Absența
+  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase (Fig.
+  6.98). Place săculeți cu nisip against Picior if needed pentru stabilization, și
+  dorsiflex Picior la 90° la Gambă if possible. Ensure that ambele Gleznă (Articulație
+  Talocrurală) și Genunchi articulații sunt 1 la 2 inches (2.5 la 5 cm) de la ends
+  de receptorul de imagine (so that divergent rays do nu project either articulație
+  off receptorul de imagine). If limb este too long, place Gambă diagonally (corner
+  la corner) pe one 14 × 17inch (35 × 43- cm) receptorul de imagine la ensure that
+  ambele articulații sunt included. (Also, if needed, second smaller receptorul de
+  imagine poate fie taken de articulație farthest de la injury site.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,20 +41,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire tibia and fibula must include Gleznă (Articulație Talocrurală) and Genunchi
-  joints on this projection (or two if needed).
-- 'The exception is an alternative routine on followup examinations (Figs. 6.99 and
-  6.100). Position:'
+- Entire tibia și fibula trebuie să include Gleznă (Articulație Talocrurală) și Genunchi
+  articulații pe this incidență (sau two if needed).
+- 'exception este alternative routine pe followup examinations (Figs. 6.99 și 6.100).
+  poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as evidenced by demonstration of femoral and tibial condyles in profile with intercondylar
-  eminence centered within intercondylar fossa.'
-- Some overlap of the fibula and tibia is visible at both proximal and distal ends.
-- 'Collimation to area of interest. Exposure:'
-- Correct use of anode heel effect results in an image with nearerequal visualization
-  of anatomy at both ends of IR.
-- No motion is present, as evidenced by sharp cortical margins and trabecular patterns.
-- Optimal image receptor exposure and contrast should be optimum to visualize soft
-  tissue and bony trabecular markings at both ends of tibia.
+  ca evidenced prin demonstration de femoral și tibial condyles în profile cu intercondylar
+  eminence centrat within intercondylar fossa.'
+- Some overlap de fibula și tibia este vizibil la ambele proximal și distal ends.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- Correct use de anode heel effect results în imagine cu nearerequal visualization
+  de anatomy la ambele ends de receptorul de imagine.
+- fără mișcare este present, ca evidenced prin net cortical margins și trabecular
+  patterns.
+- optim receptorul de imagine expunere și contrast trebuie să fie optimum la visualize
+  părți moi și bony trabecular markings la ambele ends de tibia.
 sid_dff: 100 cm
 slug: rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager
 sources:
@@ -61,20 +63,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate on both sides to skin margins, with full collimation at ends
-    of IR borders to include maximum Genunchi and Gleznă (Articulație Talocrurală)
-    joints. Alternative FollowUp Examination Routine The routine for followup examinations
-    of long bones in some departments is to include only the joint that is nearest
-    the site of injury and to place this joint a minimum of 2 inches (5 cm) from the
-    end of the IR for better demonstration of the joint. However, for initial examinations,
-    it is important, especially when the injury site is in the distal leg, to include
-    the proximal tibiofibular joint area because it is common to have a second suspiciune
-    de fractură at this site. For large patients, a second Incidență Antero-Posterioară
-    (AP) of the Genunchi and proximal Gambă may be needed on a smaller IR. Lateral
-    condyle Head of fibula Fibula Lateral malleolus Talus Medial malleolus Tibia Medial
-    condyle Femur Intercondylar eminence Fig. 6.100 AP Gambă—both joints. (Courtesy
-    J. Sanderson, RT.) Fig. 6.99 AP lower legboth joints. (Courtesy J. Sanderson,
-    RT.) Gambă AP Lateral Fig. 6.98 AP Gambă—include both joints.
+  collimation: Collimate pe ambele părți (bilateral) la skin margins, cu full collimation
+    la ends de receptorul de imagine margini la include maximum Genunchi și Gleznă
+    (Articulație Talocrurală) articulații. Alternative FollowUp Examination Routine
+    routine pentru followup examinations de long bones în some departments este la
+    include only articulație that este nearest site de injury și la place this articulație
+    minimum de 2 inches (5 cm) de la end de receptorul de imagine pentru better demonstration
+    de articulație. However, pentru initial examinations, it este important, especially
+    when injury site este în distal membru inferior, pentru include proximal tibiofibular
+    articulație area because it este common la have second suspiciune de fractură
+    la this site. pentru large pacienți, second Incidență Antero-Posterioară (AP)
+    de Genunchi și proximal Gambă poate fie needed pe smaller receptorul de imagine.
+    lateral condyle cap de fibula Fibula maleolă laterală (fibulară) astragal (talus)
+    maleolă medială (tibială) Tibia medial condyle Femur Intercondylar eminence Fig.
+    6.100 AP Gambă—ambele articulații. (Courtesy J. Sanderson, RT.) Fig. 6.99 AP lower
+    legboth articulații. (Courtesy J. Sanderson, RT.) Gambă AP lateral Fig. 6.98 AP
+    Gambă—include ambele articulații.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -101,7 +105,7 @@ title: Rx Gambă (TIBIA AND FIBULA) AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Pathologies involving suspiciune de fractură, foreign bodies, or lesions of the bone
+        - Pathologies involving suspiciune de fractură, Corp străin / corpuri străine radio-opace, sau lesions de bone
 
     === "Ghid Național IRIS"
 
@@ -115,8 +119,8 @@ title: Rx Gambă (TIBIA AND FIBULA) AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient in the Decubit Dorsal position; provide a pillow for patient’s head; entire leg should be fully extended.; Regiune anatomică: Adjust Bazin (Pelvis), Genunchi, and leg into true AP with Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase (Fig. 6.98). Place sandbag against Picior if needed for stabilization, and dorsiflex Picior to 90° to Gambă if possible. Ensure that both Gleznă (Articulație Talocrurală) and Genunchi joints are 1 to 2 inches (2.5 to 5 cm) from ends of IR (so that divergent rays do not project either joint off IR). If limb is too long, place the Gambă diagonally (corner to corner) on one 14 × 17inch (35 × 43- cm) IR to ensure that both joints are included. (Also, if needed, a second smaller IR may be taken of the joint farthest from the injury site.)
-    - **Punct de Centrare Fascicul:** perpendicular to IR, directed to midpoint of Gambă
+    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție; provide pillow pentru pacient’s cap; entire membru inferior trebuie să fie fully extins.; Regiune anatomică: Adjust Bazin (bazin (pelvis)), Genunchi, și membru inferior into true AP cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase (Fig. 6.98). Place săculeți cu nisip against Picior if needed pentru stabilization, și dorsiflex Picior la 90° la Gambă if possible. Ensure that ambele Gleznă (Articulație Talocrurală) și Genunchi articulații sunt 1 la 2 inches (2.5 la 5 cm) de la ends de receptorul de imagine (so that divergent rays do nu project either articulație off receptorul de imagine). If limb este too long, place Gambă diagonally (corner la corner) pe one 14 × 17inch (35 × 43- cm) receptorul de imagine la ensure that ambele articulații sunt included. (Also, if needed, second smaller receptorul de imagine poate fie taken de articulație farthest de la injury site.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midpoint de Gambă
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -132,21 +136,21 @@ title: Rx Gambă (TIBIA AND FIBULA) AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate on both sides to skin margins, with full collimation at ends of IR borders to include maximum Genunchi and Gleznă (Articulație Talocrurală) joints. Alternative FollowUp Examination Routine The routine for followup examinations of long bones in some departments is to include only the joint that is nearest the site of injury and to place this joint a minimum of 2 inches (5 cm) from the end of the IR for better demonstration of the joint. However, for initial examinations, it is important, especially when the injury site is in the distal leg, to include the proximal tibiofibular joint area because it is common to have a second suspiciune de fractură at this site. For large patients, a second Incidență Antero-Posterioară (AP) of the Genunchi and proximal Gambă may be needed on a smaller IR. Lateral condyle Head of fibula Fibula Lateral malleolus Talus Medial malleolus Tibia Medial condyle Femur Intercondylar eminence Fig. 6.100 AP Gambă—both joints. (Courtesy J. Sanderson, RT.) Fig. 6.99 AP lower legboth joints. (Courtesy J. Sanderson, RT.) Gambă AP Lateral Fig. 6.98 AP Gambă—include both joints. |
+    | **Colimare Fascicul** | Collimate pe ambele părți (bilateral) la skin margins, cu full collimation la ends de receptorul de imagine margini la include maximum Genunchi și Gleznă (Articulație Talocrurală) articulații. Alternative FollowUp Examination Routine routine pentru followup examinations de long bones în some departments este la include only articulație that este nearest site de injury și la place this articulație minimum de 2 inches (5 cm) de la end de receptorul de imagine pentru better demonstration de articulație. However, pentru initial examinations, it este important, especially when injury site este în distal membru inferior, pentru include proximal tibiofibular articulație area because it este common la have second suspiciune de fractură la this site. pentru large pacienți, second Incidență Antero-Posterioară (AP) de Genunchi și proximal Gambă poate fie needed pe smaller receptorul de imagine. lateral condyle cap de fibula Fibula maleolă laterală (fibulară) astragal (talus) maleolă medială (tibială) Tibia medial condyle Femur Intercondylar eminence Fig. 6.100 AP Gambă—ambele articulații. (Courtesy J. Sanderson, RT.) Fig. 6.99 AP lower legboth articulații. (Courtesy J. Sanderson, RT.) Gambă AP lateral Fig. 6.98 AP Gambă—include ambele articulații. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire tibia and fibula must include Gleznă (Articulație Talocrurală) and Genunchi joints on this projection (or two if needed).
-    - The exception is an alternative routine on followup examinations (Figs. 6.99 and 6.100). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evidenced by demonstration of femoral and tibial condyles in profile with intercondylar eminence centered within intercondylar fossa.
-    - Some overlap of the fibula and tibia is visible at both proximal and distal ends.
-    - Collimation to area of interest. Exposure:
-    - Correct use of anode heel effect results in an image with nearerequal visualization of anatomy at both ends of IR.
-    - No motion is present, as evidenced by sharp cortical margins and trabecular patterns.
-    - Optimal image receptor exposure and contrast should be optimum to visualize soft tissue and bony trabecular markings at both ends of tibia.
+    - Entire tibia și fibula trebuie să include Gleznă (Articulație Talocrurală) și Genunchi articulații pe this incidență (sau two if needed).
+    - exception este alternative routine pe followup examinations (Figs. 6.99 și 6.100). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin demonstration de femoral și tibial condyles în profile cu intercondylar eminence centrat within intercondylar fossa.
+    - Some overlap de fibula și tibia este vizibil la ambele proximal și distal ends.
+    - Collimation la aria de interes diagnostic. expunere:
+    - Correct use de anode heel effect results în imagine cu nearerequal visualization de anatomy la ambele ends de receptorul de imagine.
+    - fără mișcare este present, ca evidenced prin net cortical margins și trabecular patterns.
+    - optim receptorul de imagine expunere și contrast trebuie să fie optimum la visualize părți moi și bony trabecular markings la ambele ends de tibia.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,9 +170,9 @@ title: Rx Gambă (TIBIA AND FIBULA) AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.100 AP Gambă—both joints.](../../assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 6.100 AP Gambă—ambele articulații.](../../assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.100 AP Gambă—both joints.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.100 AP lower leg—both joints.)</span></figcaption>
+<figcaption><strong>Fig. 6.100 AP Gambă—ambele articulații.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.100 AP lower membru inferior—ambele articulații.)</span></figcaption>
 
 </figure>
 
@@ -176,15 +180,15 @@ title: Rx Gambă (TIBIA AND FIBULA) AP (Antero-Posterior)
 
 ![Fig. 6.99 AP Gambă—](../../assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.99 AP Gambă—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.99 AP lower leg—)</span></figcaption>
+<figcaption><strong>Fig. 6.99 AP Gambă—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.99 AP lower membru inferior—)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.98 AP Gambă—include both joints.](../../assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 6.98 AP Gambă—include ambele articulații.](../../assets/images/protocols/bontrager/rx-gamba-tibia-and-fibula-ap-antero-posterior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.98 AP Gambă—include both joints.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.98 AP lower leg—include both joints.)</span></figcaption>
+<figcaption><strong>Fig. 6.98 AP Gambă—include ambele articulații.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.98 AP lower membru inferior—include ambele articulații.)</span></figcaption>
 
 </figure>
 

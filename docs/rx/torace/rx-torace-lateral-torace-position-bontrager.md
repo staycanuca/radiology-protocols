@@ -1,44 +1,45 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: and make exposure when the child fully inhales. Torace ROUTINE AP or PA
-  Lateral Fig. 16.27 Decubit Dorsal horizontal beam lateral Torace (using child immobilizer).
-  Fig. 16.26 Decubit lateral Torace (with immobilization aids).
+breathing: și make expunere when child fully inhales. Torace ROUTINE AP sau PA lateral
+  Fig. 16.27 Decubit dorsal orizontal fascicul lateral Torace (using child immobilizer).
+  Fig. 16.26 Decubit lateral Torace (cu imobilizare aids).
 category: torace
-centering: perpendicular to IR centered to the midcoronal plane at the level of the
-  mammillary (nipple) line
+centering: perpendicular pe receptorul de imagine centrat pe planul mediocoronal la
+  nivelul mammillary (nipple) line
 clinical_indications:
-- Pathology involving lung fields, trachea, diaphragm, heart, and Grilaj Costal și
-  Stern
-- Hemothorax or edem pulmonar acut / congestie; horizontal beam projection is needed
-  to visualize airfluid levels
+- Pathology involving câmpuri pulmonare, trachea, cupole diafragmatice, heart, și
+  Grilaj Costal și Stern
+- Hemothorax sau edem pulmonar acut / congestie; orizontal fascicul incidență este
+  needed la visualize airfluid levels
 images:
-- caption: Fig. 16.27 Decubit Dorsal horizontal beam lateral Torace (using child
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.27 Supine horizontal
-    beam lateral chest (using child)
+- caption: Fig. 16.27 Decubit dorsal orizontal fascicul lateral Torace (using child
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 16.27 în decubit
+    dorsal orizontal fascicul lateral chest (using child)
   url: assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_1.jpeg
-- caption: Fig. 16.26 Decubit lateral Torace (with immobilization aids).
+- caption: Fig. 16.26 Decubit lateral Torace (cu imobilizare aids).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.26
-    Recumbent lateral chest (with immobilization aids).)
+    Recumbent lateral chest (cu imobilizare aids).)
   url: assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Patient Decubit Immobilization techniques should be used when
-  necessary. Patient is lying on side in true lateral (generally left lateral) position
-  (Fig. 16.26) with arms extended above head to remove arms from lung field. Bend
-  arms at the elbows for patient comfort and stability with head placed between arms.
-  If immobilizer is used, patient position does not change from Incidență Antero-Posterioară
-  (AP). Turn xray tube into horizontal beam projection. Place immobilized child adjacent
-  to IR (Fig. 16.27). If parental assistance is required, perform the following steps:
-  1. Place patient on IR in left Incidență de Profil (Lateral) (unless right lateral
-  is indicated). 2. Bring arms above the head and hold with one Mână. Place the other
-  Mână across patient’s lateral hips to prevent child from rotating or twisting. 3.
-  Place parent in a position that does not obstruct technologist’s view of patient
-  while exposure is made. 4. Place lead gloves or shield over top of parent’s hands
-  if parent is not wearing the gloves.; Regiune anatomică: Place the patient in the
-  middle of IR with the shoulders about 2 inches (5 cm) below top of IR. Absența rotației
-  anatomice: clavicule echidistante față de linia apofizelor spinoase should exist;
-  ensure a true Incidență de Profil (Lateral).'
+position: 'Pacient: pacient Decubit imobilizare techniques trebuie să fie used when
+  necessary. pacient este culcat pe side în true lateral (generally stâng lateral)
+  poziție (Fig. 16.26) cu brațe extins above cap la remove brațe de la câmpuri pulmonare.
+  Bend brațe la coate pentru pacient comfort și stability cu cap plasat între brațe.
+  If immobilizer este used, pacient poziție does nu change de la Incidență Antero-Posterioară
+  (AP). Turn xray tube into orizontal fascicul incidență. Place imobilizat child adjacent
+  la receptorul de imagine (Fig. 16.27). If parental assistance este required, perform
+  following steps: 1. Place pacient pe receptorul de imagine în stâng Incidență de
+  Profil (lateral) (unless drept lateral este indicated). 2. Bring brațe above capul
+  și hold cu one Mână. Place other Mână across pacient’s lateral hips la prevent child
+  de la rotating sau twisting. 3. Place parent în poziție that does nu obstruct technologist’s
+  incidență de pacient while expunere este made. 4. Place lead gloves sau shield over
+  top de parent’s mâini if parent este nu wearing gloves.; Regiune anatomică: se așază
+  pacientul în middle de receptorul de imagine cu umerii about 2 inches (5 cm) below
+  top de receptorul de imagine. Absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase trebuie să exist; ensure true Incidență de Profil
+  (lateral).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,10 +47,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 150 cm
 slug: rx-torace-lateral-torace-position-bontrager
 sources:
@@ -57,15 +57,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Closely collimate on four sides to outer Torace margins.
+  collimation: Field Size Closely collimate pe four sides la outer Torace margins.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Torace LATERAL Torace POSITION
+title: Rx Torace Profil (Lateral) Torace
 ---
-# Rx Torace LATERAL Torace POSITION
+# Rx Torace Profil (Lateral) Torace
 
 
 <div class="rx-meta-bar">
@@ -84,8 +84,8 @@ title: Rx Torace LATERAL Torace POSITION
 
     === "Indicații Clinice"
 
-        - Pathology involving lung fields, trachea, diaphragm, heart, and Grilaj Costal și Stern
-        - Hemothorax or edem pulmonar acut / congestie; horizontal beam projection is needed to visualize airfluid levels
+        - Pathology involving câmpuri pulmonare, trachea, cupole diafragmatice, heart, și Grilaj Costal și Stern
+        - Hemothorax sau edem pulmonar acut / congestie; orizontal fascicul incidență este needed la visualize airfluid levels
 
     === "Ghid Național IRIS"
 
@@ -99,10 +99,10 @@ title: Rx Torace LATERAL Torace POSITION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Decubit Immobilization techniques should be used when necessary. Patient is lying on side in true lateral (generally left lateral) position (Fig. 16.26) with arms extended above head to remove arms from lung field. Bend arms at the elbows for patient comfort and stability with head placed between arms. If immobilizer is used, patient position does not change from Incidență Antero-Posterioară (AP). Turn xray tube into horizontal beam projection. Place immobilized child adjacent to IR (Fig. 16.27). If parental assistance is required, perform the following steps: 1. Place patient on IR in left Incidență de Profil (Lateral) (unless right lateral is indicated). 2. Bring arms above the head and hold with one Mână. Place the other Mână across patient’s lateral hips to prevent child from rotating or twisting. 3. Place parent in a position that does not obstruct technologist’s view of patient while exposure is made. 4. Place lead gloves or shield over top of parent’s hands if parent is not wearing the gloves.; Regiune anatomică: Place the patient in the middle of IR with the shoulders about 2 inches (5 cm) below top of IR. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase should exist; ensure a true Incidență de Profil (Lateral).
-    - **Punct de Centrare Fascicul:** perpendicular to IR centered to the midcoronal plane at the level of the mammillary (nipple) line
+    - **Poziție Pacient:** Pacient: pacient Decubit imobilizare techniques trebuie să fie used when necessary. pacient este culcat pe side în true lateral (generally stâng lateral) poziție (Fig. 16.26) cu brațe extins above cap la remove brațe de la câmpuri pulmonare. Bend brațe la coate pentru pacient comfort și stability cu cap plasat între brațe. If immobilizer este used, pacient poziție does nu change de la Incidență Antero-Posterioară (AP). Turn xray tube into orizontal fascicul incidență. Place imobilizat child adjacent la receptorul de imagine (Fig. 16.27). If parental assistance este required, perform following steps: 1. Place pacient pe receptorul de imagine în stâng Incidență de Profil (lateral) (unless drept lateral este indicated). 2. Bring brațe above capul și hold cu one Mână. Place other Mână across pacient’s lateral hips la prevent child de la rotating sau twisting. 3. Place parent în poziție that does nu obstruct technologist’s incidență de pacient while expunere este made. 4. Place lead gloves sau shield over top de parent’s mâini if parent este nu wearing gloves.; Regiune anatomică: se așază pacientul în middle de receptorul de imagine cu umerii about 2 inches (5 cm) below top de receptorul de imagine. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase trebuie să exist; ensure true Incidență de Profil (lateral).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine centrat pe planul mediocoronal la nivelul mammillary (nipple) line
     - **Distanță Focar-Film (DFF / SID):** 150 cm
-    - **Comandă Respiratorie:** and make exposure when the child fully inhales. Torace ROUTINE AP or PA Lateral Fig. 16.27 Decubit Dorsal horizontal beam lateral Torace (using child immobilizer). Fig. 16.26 Decubit lateral Torace (with immobilization aids).
+    - **Comandă Respiratorie:** și make expunere when child fully inhales. Torace ROUTINE AP sau PA lateral Fig. 16.27 Decubit dorsal orizontal fascicul lateral Torace (using child immobilizer). Fig. 16.26 Decubit lateral Torace (cu imobilizare aids).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,16 +116,16 @@ title: Rx Torace LATERAL Torace POSITION
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Closely collimate on four sides to outer Torace margins. |
+    | **Colimare Fascicul** | Field Size Closely collimate pe four sides la outer Torace margins. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -145,17 +145,17 @@ title: Rx Torace LATERAL Torace POSITION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.27 Decubit Dorsal horizontal beam lateral Torace (using child](../../assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_1.jpeg)
+![Fig. 16.27 Decubit dorsal orizontal fascicul lateral Torace (using child](../../assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 16.27 Decubit Dorsal horizontal beam lateral Torace (using child</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.27 Supine horizontal beam lateral chest (using child)</span></figcaption>
+<figcaption><strong>Fig. 16.27 Decubit dorsal orizontal fascicul lateral Torace (using child</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 16.27 în decubit dorsal orizontal fascicul lateral chest (using child)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 16.26 Decubit lateral Torace (with immobilization aids).](../../assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_2.jpeg)
+![Fig. 16.26 Decubit lateral Torace (cu imobilizare aids).](../../assets/images/protocols/bontrager/rx-torace-lateral-torace-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 16.26 Decubit lateral Torace (with immobilization aids).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.26 Recumbent lateral chest (with immobilization aids).)</span></figcaption>
+<figcaption><strong>Fig. 16.26 Decubit lateral Torace (cu imobilizare aids).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.26 Recumbent lateral chest (cu imobilizare aids).)</span></figcaption>
 
 </figure>
 

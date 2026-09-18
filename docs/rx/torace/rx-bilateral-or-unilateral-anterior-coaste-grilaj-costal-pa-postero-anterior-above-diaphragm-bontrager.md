@@ -1,51 +1,51 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on inspiration.
+breathing: Apnee pe durata expunerii pe inspiration.
 category: torace
-centering: perpendicular to IR, centered to midsagittal plane, at the level of T7
-  (7 to 8 inches [18 to 20 cm] below vertebra proeminentă (apofiza spinoasă C7) as
-  for PA Torace). See NOTE 2 for unilateral projections.
+centering: perpendicular pe receptorul de imagine, centrat pe plan mediosagital, la
+  nivelul T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă (apofiza spinoasă
+  C7) ca pentru PA Torace). See NOTE 2 pentru unilateral incidențe.
 clinical_indications:
-- Pathology of the anterior Coaste (Grilaj Costal), including suspiciune de fractură
-  or neoplastic processes Injuries to Coaste (Grilaj Costal) below the diaphragm are
-  generally to posterior Coaste (Grilaj Costal). For injuries to those Coaste (Grilaj
-  Costal), only AP projections are indicated.
+- Pathology de anterior Coaste (Grilaj Costal), including suspiciune de fractură sau
+  neoplastic processes Injuries la Coaste (Grilaj Costal) below cupole diafragmatice
+  sunt generally la posterior Coaste (Grilaj Costal). pentru injuries la those Coaste
+  (Grilaj Costal), only AP incidențe sunt indicated.
 images:
-- caption: Fig. 10.36 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.36 Bilateral
-    PA ribs—above diaphragm.)
+- caption: Fig. 10.36 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.36 bilateral
+    PA coaste—above cupole diafragmatice.)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_1.jpeg
-- caption: Fig. 10.37 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.
+- caption: Fig. 10.37 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.37
-    Bilateral PA ribs—above diaphragm.)
+    bilateral PA coaste—above cupole diafragmatice.)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_2.jpeg
-- caption: Fig. 10.38 PA Ortostatism Torace (Torace technique). This demonstrates
-    a
+- caption: Fig. 10.38 PA Ortostatism Torace (Torace technique). This evidențiază a
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.38
-    PA erect chest (chest technique). This demonstrates a)
+    PA în ortostatism chest (chest technique). This evidențiază a)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To demonstrate specific traumatism acuttism / Regim Urgență to the anterior
-  Coaste (Grilaj Costal) along one side of the thoracic cavity, perform a unilateral
-  rib study. Instead of aligning the midsagittal plane to the IR, center the side
-  of interest to the center of the IR midway between the midsagittal plane and the
-  lateral margin of the thorax. The CR is perpendicular to the IR at a level 3 to
-  4 inches (8 to 10 cm) below the incizura jugulară (manubriul sternal). Collimate
-  to the Coaste (Grilaj Costal) of side of interest, and include the Coloană Toracală.
-  PA Ortostatism and Lateral Torace Study A common rib routine series typically includes
-  an Ortostatism PA and (sometimes) lateral Torace projections with lung exposure
-  techniques to rule out respiratory traumatism acuttism / Regim Urgență or dysfunctions
-  such as pneumotorax (white arrows) or hemothorax (black arrows), which may accompany
-  rib injuries (Fig. 10.37). Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj
-  Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)—bilateral or unilateral study
-  Axillary Coaste (Grilaj Costal) (anterior or posterior oblique) PA Torace (see Chapter
+notes: la evidențiază specific traumatism acuttism / Regim Urgență la anterior Coaste
+  (Grilaj Costal) along one side de thoracic cavity, perform unilateral rib study.
+  Instead de aligning planul mediosagital la receptorul de imagine, se centrează side
+  de interest la center de receptorul de imagine midway între plan mediosagital și
+  lateral margin de thorax. raza centrală este perpendicular pe receptorul de imagine
+  (RI) la level 3 la 4 inches (8 la 10 cm) below incizura jugulară (manubriul sternal).
+  Collimate la Coaste (Grilaj Costal) de side de interest, și include Coloană Toracală.
+  PA Ortostatism și lateral Torace Study common rib routine series typically includes
+  Ortostatism PA și (sometimes) lateral Torace incidențe cu lung expunere techniques
+  la rule out respiratory traumatism acuttism / Regim Urgență sau dysfunctions such
+  ca pneumotorax (white arrows) sau hemothorax (black arrows), which poate accompany
+  rib injuries (Fig. 10.37). Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj
+  Costal) (AP) sau anterior Coaste (Grilaj Costal) (PA)—bilateral sau unilateral study
+  Axillary Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter
   2)
-position: 'Pacient: Ortostatism, facing the IR (Fig. 10.36). Exam may be performed
-  Decubit Ventral, if necessary, with arms slightly abducted from side.; Regiune anatomică:
-  Align midsagittal plane to midline of IR, Rotate shoulders anteriorly to remove
-  scapulae from lung fields. Allow Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase of thorax or Bazin (Pelvis).'
+position: 'Pacient: Ortostatism, facing receptorul de imagine (Fig. 10.36). Exam poate
+  fie performed Decubit ventral, if necessary, cu brațe slightly în abducție de la
+  side.; Regiune anatomică: Align plan mediosagital la midline de receptorul de imagine,
+  Rotate umeri anteriorly la remove scapulae de la câmpuri pulmonare. Allow Absența
+  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de
+  thorax sau Bazin (bazin (pelvis)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,18 +53,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Optimally, Coaste (Grilaj Costal) 1 through 9 visualized above the diaphragm (Fig.
-  10.38). Position:'
+- 'Optimally, Coaste (Grilaj Costal) 1 through 9 visualized above cupole diafragmatice
+  (Fig. 10.38). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  width of Coaste (Grilaj Costal) is equidistant on both sides of the Coloană Toracală.
-  Exposure:'
-- Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal)
-  through the lungs and heart.
-- no motion, as demonstrated by sharp bony markings. Fig. 10.36 Bilateral PA Coaste
-  (Grilaj Costal)—above diaphragm. L Fig. 10.37 Bilateral PA Coaste (Grilaj Costal)—above
-  diaphragm. L Fig. 10.38 PA Ortostatism Torace (Torace technique). This demonstrates
-  a combination hemothorax (black arrows) and pneumotorax (white arrows) on the left
-  side.
+  width de Coaste (Grilaj Costal) este equidistant pe ambele părți (bilateral) de
+  Coloană Toracală. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal)
+  through plămânii și heart.
+- fără mișcare, ca evidențiat prin net bony markings. Fig. 10.36 bilateral PA Coaste
+  (Grilaj Costal)—above cupole diafragmatice. L Fig. 10.37 bilateral PA Coaste (Grilaj
+  Costal)—above cupole diafragmatice. L Fig. 10.38 PA Ortostatism Torace (Torace technique).
+  This evidențiază combination hemothorax (black arrows) și pneumotorax (white arrows)
+  pe stâng side.
 sid_dff: 100 cm
 slug: rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager
 sources:
@@ -72,16 +72,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to region of interest.
+  collimation: Collimate la region de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-Anterior)
-  (ABOVE DIAPHRAGM)
+title: Rx BILATERAL OR UNILATERAL Grilaj Costal Anterior PA (Postero-Anterior) (ABOVE
+  DIAPHRAGM)
 ---
-# Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-Anterior) (ABOVE DIAPHRAGM)
+# Rx BILATERAL OR UNILATERAL Grilaj Costal Anterior PA (Postero-Anterior) (ABOVE DIAPHRAGM)
 
 
 <div class="rx-meta-bar">
@@ -100,7 +100,7 @@ title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-An
 
     === "Indicații Clinice"
 
-        - Pathology of the anterior Coaste (Grilaj Costal), including suspiciune de fractură or neoplastic processes Injuries to Coaste (Grilaj Costal) below the diaphragm are generally to posterior Coaste (Grilaj Costal). For injuries to those Coaste (Grilaj Costal), only AP projections are indicated.
+        - Pathology de anterior Coaste (Grilaj Costal), including suspiciune de fractură sau neoplastic processes Injuries la Coaste (Grilaj Costal) below cupole diafragmatice sunt generally la posterior Coaste (Grilaj Costal). pentru injuries la those Coaste (Grilaj Costal), only AP incidențe sunt indicated.
 
     === "Ghid Național IRIS"
 
@@ -114,10 +114,10 @@ title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-An
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, facing the IR (Fig. 10.36). Exam may be performed Decubit Ventral, if necessary, with arms slightly abducted from side.; Regiune anatomică: Align midsagittal plane to midline of IR, Rotate shoulders anteriorly to remove scapulae from lung fields. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis).
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered to midsagittal plane, at the level of T7 (7 to 8 inches [18 to 20 cm] below vertebra proeminentă (apofiza spinoasă C7) as for PA Torace). See NOTE 2 for unilateral projections.
+    - **Poziție Pacient:** Pacient: Ortostatism, facing receptorul de imagine (Fig. 10.36). Exam poate fie performed Decubit ventral, if necessary, cu brațe slightly în abducție de la side.; Regiune anatomică: Align plan mediosagital la midline de receptorul de imagine, Rotate umeri anteriorly la remove scapulae de la câmpuri pulmonare. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de thorax sau Bazin (bazin (pelvis)).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe plan mediosagital, la nivelul T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă (apofiza spinoasă C7) ca pentru PA Torace). See NOTE 2 pentru unilateral incidențe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on inspiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe inspiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -131,17 +131,17 @@ title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-An
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to region of interest. |
+    | **Colimare Fascicul** | Collimate la region de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Optimally, Coaste (Grilaj Costal) 1 through 9 visualized above the diaphragm (Fig. 10.38). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: width of Coaste (Grilaj Costal) is equidistant on both sides of the Coloană Toracală. Exposure:
-    - Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal) through the lungs and heart.
-    - no motion, as demonstrated by sharp bony markings. Fig. 10.36 Bilateral PA Coaste (Grilaj Costal)—above diaphragm. L Fig. 10.37 Bilateral PA Coaste (Grilaj Costal)—above diaphragm. L Fig. 10.38 PA Ortostatism Torace (Torace technique). This demonstrates a combination hemothorax (black arrows) and pneumotorax (white arrows) on the left side.
+    - Optimally, Coaste (Grilaj Costal) 1 through 9 visualized above cupole diafragmatice (Fig. 10.38). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: width de Coaste (Grilaj Costal) este equidistant pe ambele părți (bilateral) de Coloană Toracală. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal) through plămânii și heart.
+    - fără mișcare, ca evidențiat prin net bony markings. Fig. 10.36 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice. L Fig. 10.37 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice. L Fig. 10.38 PA Ortostatism Torace (Torace technique). This evidențiază combination hemothorax (black arrows) și pneumotorax (white arrows) pe stâng side.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,7 +154,7 @@ title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-An
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To demonstrate specific traumatism acuttism / Regim Urgență to the anterior Coaste (Grilaj Costal) along one side of the thoracic cavity, perform a unilateral rib study. Instead of aligning the midsagittal plane to the IR, center the side of interest to the center of the IR midway between the midsagittal plane and the lateral margin of the thorax. The CR is perpendicular to the IR at a level 3 to 4 inches (8 to 10 cm) below the incizura jugulară (manubriul sternal). Collimate to the Coaste (Grilaj Costal) of side of interest, and include the Coloană Toracală. PA Ortostatism and Lateral Torace Study A common rib routine series typically includes an Ortostatism PA and (sometimes) lateral Torace projections with lung exposure techniques to rule out respiratory traumatism acuttism / Regim Urgență or dysfunctions such as pneumotorax (white arrows) or hemothorax (black arrows), which may accompany rib injuries (Fig. 10.37). Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)—bilateral or unilateral study Axillary Coaste (Grilaj Costal) (anterior or posterior oblique) PA Torace (see Chapter 2)
+    la evidențiază specific traumatism acuttism / Regim Urgență la anterior Coaste (Grilaj Costal) along one side de thoracic cavity, perform unilateral rib study. Instead de aligning planul mediosagital la receptorul de imagine, se centrează side de interest la center de receptorul de imagine midway între plan mediosagital și lateral margin de thorax. raza centrală este perpendicular pe receptorul de imagine (RI) la level 3 la 4 inches (8 la 10 cm) below incizura jugulară (manubriul sternal). Collimate la Coaste (Grilaj Costal) de side de interest, și include Coloană Toracală. PA Ortostatism și lateral Torace Study common rib routine series typically includes Ortostatism PA și (sometimes) lateral Torace incidențe cu lung expunere techniques la rule out respiratory traumatism acuttism / Regim Urgență sau dysfunctions such ca pneumotorax (white arrows) sau hemothorax (black arrows), which poate accompany rib injuries (Fig. 10.37). Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal) (AP) sau anterior Coaste (Grilaj Costal) (PA)—bilateral sau unilateral study Axillary Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2)
 
 
 ### 🖼️ Imagini
@@ -163,25 +163,25 @@ title: Rx BILATERAL OR UNILATERAL ANTERIOR Coaste (Grilaj Costal) PA (Postero-An
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.36 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_1.jpeg)
+![Fig. 10.36 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.36 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.36 Bilateral PA ribs—above diaphragm.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 10.37 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 10.37 Bilateral PA Coaste (Grilaj Costal)—above diaphragm.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.37 Bilateral PA ribs—above diaphragm.)</span></figcaption>
+<figcaption><strong>Fig. 10.36 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.36 bilateral PA coaste—above cupole diafragmatice.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.38 PA Ortostatism Torace (Torace technique). This demonstrates a](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_3.jpeg)
+![Fig. 10.37 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.38 PA Ortostatism Torace (Torace technique). This demonstrates a</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.38 PA erect chest (chest technique). This demonstrates a)</span></figcaption>
+<figcaption><strong>Fig. 10.37 bilateral PA Coaste (Grilaj Costal)—above cupole diafragmatice.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.37 bilateral PA coaste—above cupole diafragmatice.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 10.38 PA Ortostatism Torace (Torace technique). This evidențiază a](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 10.38 PA Ortostatism Torace (Torace technique). This evidențiază a</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.38 PA în ortostatism chest (chest technique). This evidențiază a)</span></figcaption>
 
 </figure>
 

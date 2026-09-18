@@ -1,44 +1,50 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Craniu traumatism acuttism / Regim
-  Urgență Lateral, horizontal beam AP AP axial Fig. 15.77 AP CR parallel to OML, centered
-  to glabella. Fig. 15.78 AP axial 15 degrees reverse Incidență Occipito-Frontală
-  (Metoda Caldwell)—CR 15 degrees cephalad to OML, centered to nasion.
+breathing: Apnee pe durata expunerii. Craniu traumatism acuttism / Regim Urgență lateral,
+  orizontal fascicul AP AP axial Fig. 15.77 AP raza centrală paralel la linie orbitomeatală
+  (LOM), centrat pe glabelă. Fig. 15.78 AP axial 15 grade reverse Incidență Occipito-Frontală
+  (Metoda Caldwell)—raza centrală 15 grade cranial la linie orbitomeatală (LOM), centrat
+  pe nazion.
 category: coloana
-centering: 'AP to Orbitomeatal Line Projection (Fig. 15.77) Angle CR parallel to orbitomeatal
-  line (oMl): With patient in a cervical collar, this often occurs approximately 10
-  to 15 degrees caudad, but each patient and situation will be different. Center CR
-  to glabella; then center IR to projected CR. AP Axial 15 Degrees Reverse Incidență
-  Occipito-Frontală (Metoda Caldwell) Projection (Fig. 15.78) Angle CR 15 degrees
-  cephalad to oMl: To accomplish this, first find the OML on the patient; this varies
-  in patients in cervical collars with the neck extended. Next, angle the CR 15 degrees
-  cephalic to the patient’s OML. Center CR to nasion; then center IR to projected
-  CR. Radiation Safety Exposure factor selection should be optimized in accordance
-  with the ALARA. Collimate on four sides to anatomy of interest. Follow local regulations,
-  department policy and protocol in the use of shielding.'
+centering: 'AP la Orbitomeatal Line incidență (Fig. 15.77) Angle raza centrală paralel
+  la orbitomeatal line (linie orbitomeatală (LOM)): cu pacient în cervical collar,
+  this often occurs approximately 10 la 15 grade caudal, but fiecare pacient și situation
+  will fie different. Center raza centrală la glabelă; then Se centrează receptorul
+  de imagine pe proiecția razei centrale. AP axial 15 grade Reverse Incidență Occipito-Frontală
+  (Metoda Caldwell) incidență (Fig. 15.78) Angle raza centrală 15 grade cranial la
+  linie orbitomeatală (LOM): la accomplish this, first find linie orbitomeatală (LOM)
+  pe pacientul; this varies în pacienți în cervical collars cu gâtul extins. Next,
+  angle raza centrală 15 grade cephalic la pacientul’s linie orbitomeatală (LOM).
+  Center raza centrală la nazion; then Se centrează receptorul de imagine pe proiecția
+  razei centrale. Radiation Safety expunere factor selection trebuie să fie optimized
+  în accordance cu ALARA. Collimate pe four sides la anatomy de interest. Follow local
+  regulations, department policy și protocol în use de shielding.'
 clinical_indications:
-- Calvarial suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+- Calvarial suspiciune de fractură, penetrating injuries, și radiopaque Corp străin
+  / corpuri străine radio-opace
 images:
-- caption: Fig. 15.77 AP CR parallel to OML, centered to glabella.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 15.77 AP CR parallel
-    to OML, centered to glabella.)
+- caption: Fig. 15.77 AP raza centrală paralel la linie orbitomeatală (LOM), centrat
+    pe glabelă.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 15.77 AP raza
+    centrală paralel la linie orbitomeatală (LOM), centrat pe glabelă.)
   url: assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg
-- caption: Fig. 15.78 AP axial 15 degrees reverse Incidență Occipito-Frontală (Metoda
-    Caldwell)—CR 15 degrees
+- caption: Fig. 15.78 AP axial 15 grade reverse Incidență Occipito-Frontală (Metoda
+    Caldwell)—raza centrală 15 grade
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.78
-    AP axial 15 degrees reverse Caldwell method—CR 15 degrees)
+    AP axial 15 grade reverse Caldwell method—raza centrală 15 grade)
   url: assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Dynamic CT scanning is readily available in most hospitals that treat patients
-  with head injuries; thus, the routine use of CT has been advocated as a screening
-  tool to triage patients with minor or mild head injuries who require hospital admission
-  or surgical intervention from those who can be safely discharged without hospital
+notes: Dynamic CT scanning este readily available în most hospitals that treat pacienți
+  cu cap injuries; thus, routine use de CT has been advocated ca screening tool la
+  triage pacienți cu minor sau mild cap injuries who require hospital admission sau
+  surgical intervention de la those who poate fie safely discharged fără hospital
   admission.13
-position: 'Pacient: Patient Decubit Dorsal; remove all metal, plastic, and other removable
-  objects from head. Do not remove cervical collar unless approved by attending physician.;
-  Regiune anatomică: AP and AP Axial 15 Degrees Align MSP perpendicular to midline
-  of grid or table (see previous WARNING). Center IR to CR.'
+position: 'Pacient: pacient Decubit dorsal; remove toate metal, plastic, și other
+  removable objects de la cap. Do nu remove cervical collar unless approved prin attending
+  physician.; Regiune anatomică: AP și AP axial 15 grade Align MSP perpendicular la
+  midline de grilă sau table (see previous WARNING). Se centrează receptorul de imagine
+  pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,10 +52,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 100 cm
 slug: rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager
 sources:
@@ -57,7 +62,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -85,7 +90,7 @@ title: Rx Craniu AP, AP AXIAL 15 DEGREES (REVERSE Incidență Occipito-Frontală
 
     === "Indicații Clinice"
 
-        - Calvarial suspiciune de fractură, penetrating injuries, and radiopaque foreign bodies
+        - Calvarial suspiciune de fractură, penetrating injuries, și radiopaque Corp străin / corpuri străine radio-opace
 
     === "Ghid Național IRIS"
 
@@ -99,10 +104,10 @@ title: Rx Craniu AP, AP AXIAL 15 DEGREES (REVERSE Incidență Occipito-Frontală
 
     ---
 
-    - **Poziție Pacient:** Pacient: Patient Decubit Dorsal; remove all metal, plastic, and other removable objects from head. Do not remove cervical collar unless approved by attending physician.; Regiune anatomică: AP and AP Axial 15 Degrees Align MSP perpendicular to midline of grid or table (see previous WARNING). Center IR to CR.
-    - **Punct de Centrare Fascicul:** AP to Orbitomeatal Line Projection (Fig. 15.77) Angle CR parallel to orbitomeatal line (oMl): With patient in a cervical collar, this often occurs approximately 10 to 15 degrees caudad, but each patient and situation will be different. Center CR to glabella; then center IR to projected CR. AP Axial 15 Degrees Reverse Incidență Occipito-Frontală (Metoda Caldwell) Projection (Fig. 15.78) Angle CR 15 degrees cephalad to oMl: To accomplish this, first find the OML on the patient; this varies in patients in cervical collars with the neck extended. Next, angle the CR 15 degrees cephalic to the patient’s OML. Center CR to nasion; then center IR to projected CR. Radiation Safety Exposure factor selection should be optimized in accordance with the ALARA. Collimate on four sides to anatomy of interest. Follow local regulations, department policy and protocol in the use of shielding.
+    - **Poziție Pacient:** Pacient: pacient Decubit dorsal; remove toate metal, plastic, și other removable objects de la cap. Do nu remove cervical collar unless approved prin attending physician.; Regiune anatomică: AP și AP axial 15 grade Align MSP perpendicular la midline de grilă sau table (see previous WARNING). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** AP la Orbitomeatal Line incidență (Fig. 15.77) Angle raza centrală paralel la orbitomeatal line (linie orbitomeatală (LOM)): cu pacient în cervical collar, this often occurs approximately 10 la 15 grade caudal, but fiecare pacient și situation will fie different. Center raza centrală la glabelă; then Se centrează receptorul de imagine pe proiecția razei centrale. AP axial 15 grade Reverse Incidență Occipito-Frontală (Metoda Caldwell) incidență (Fig. 15.78) Angle raza centrală 15 grade cranial la linie orbitomeatală (LOM): la accomplish this, first find linie orbitomeatală (LOM) pe pacientul; this varies în pacienți în cervical collars cu gâtul extins. Next, angle raza centrală 15 grade cephalic la pacientul’s linie orbitomeatală (LOM). Center raza centrală la nazion; then Se centrează receptorul de imagine pe proiecția razei centrale. Radiation Safety expunere factor selection trebuie să fie optimized în accordance cu ALARA. Collimate pe four sides la anatomy de interest. Follow local regulations, department policy și protocol în use de shielding.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Craniu traumatism acuttism / Regim Urgență Lateral, horizontal beam AP AP axial Fig. 15.77 AP CR parallel to OML, centered to glabella. Fig. 15.78 AP axial 15 degrees reverse Incidență Occipito-Frontală (Metoda Caldwell)—CR 15 degrees cephalad to OML, centered to nasion.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Craniu traumatism acuttism / Regim Urgență lateral, orizontal fascicul AP AP axial Fig. 15.77 AP raza centrală paralel la linie orbitomeatală (LOM), centrat pe glabelă. Fig. 15.78 AP axial 15 grade reverse Incidență Occipito-Frontală (Metoda Caldwell)—raza centrală 15 grade cranial la linie orbitomeatală (LOM), centrat pe nazion.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,16 +121,16 @@ title: Rx Craniu AP, AP AXIAL 15 DEGREES (REVERSE Incidență Occipito-Frontală
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -138,7 +143,7 @@ title: Rx Craniu AP, AP AXIAL 15 DEGREES (REVERSE Incidență Occipito-Frontală
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Dynamic CT scanning is readily available in most hospitals that treat patients with head injuries; thus, the routine use of CT has been advocated as a screening tool to triage patients with minor or mild head injuries who require hospital admission or surgical intervention from those who can be safely discharged without hospital admission.13
+    Dynamic CT scanning este readily available în most hospitals that treat pacienți cu cap injuries; thus, routine use de CT has been advocated ca screening tool la triage pacienți cu minor sau mild cap injuries who require hospital admission sau surgical intervention de la those who poate fie safely discharged fără hospital admission.13
 
 
 ### 🖼️ Imagini
@@ -147,17 +152,17 @@ title: Rx Craniu AP, AP AXIAL 15 DEGREES (REVERSE Incidență Occipito-Frontală
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.77 AP CR parallel to OML, centered to glabella.](../../assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
+![Fig. 15.77 AP raza centrală paralel la linie orbitomeatală (LOM), centrat pe glabelă.](../../assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 15.77 AP CR parallel to OML, centered to glabella.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.77 AP CR parallel to OML, centered to glabella.)</span></figcaption>
+<figcaption><strong>Fig. 15.77 AP raza centrală paralel la linie orbitomeatală (LOM), centrat pe glabelă.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 15.77 AP raza centrală paralel la linie orbitomeatală (LOM), centrat pe glabelă.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 15.78 AP axial 15 degrees reverse Incidență Occipito-Frontală (Metoda Caldwell)—CR 15 degrees](../../assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg)
+![Fig. 15.78 AP axial 15 grade reverse Incidență Occipito-Frontală (Metoda Caldwell)—raza centrală 15 grade](../../assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 15.78 AP axial 15 degrees reverse Incidență Occipito-Frontală (Metoda Caldwell)—CR 15 degrees</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.78 AP axial 15 degrees reverse Caldwell method—CR 15 degrees)</span></figcaption>
+<figcaption><strong>Fig. 15.78 AP axial 15 grade reverse Incidență Occipito-Frontală (Metoda Caldwell)—raza centrală 15 grade</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.78 AP axial 15 grade reverse Caldwell method—raza centrală 15 grade)</span></figcaption>
 
 </figure>
 

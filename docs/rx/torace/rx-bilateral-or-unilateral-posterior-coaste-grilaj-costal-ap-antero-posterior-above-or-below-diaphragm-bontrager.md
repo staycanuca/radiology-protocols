@@ -1,30 +1,32 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on deep inspiration for Coaste (Grilaj Costal) above
-  the diaphragm to depress the diaphragm and on full expiration for Coaste (Grilaj
-  Costal) below the diaphragm to elevate the diaphragm.
+breathing: Apnee pe durata expunerii pe deep inspiration pentru Coaste (Grilaj Costal)
+  above cupole diafragmatice la depress cupole diafragmatice și pe Expir complet pentru
+  Coaste (Grilaj Costal) below cupole diafragmatice la elevate cupole diafragmatice.
 category: torace
-centering: 'Above diaphragm: Raza centrală (RC) perpendiculară pe receptorul de imagine,
-  centered to the midsagittal plane, at the level of T7, located 3 or 4 inches (8
-  to 10 cm) below incizura jugulară (manubriul sternal) Below diaphragm: Raza centrală
-  (RC) perpendiculară pe receptorul de imagine, centered to the midsagittal plane,
-  at a level midway between the xiphoid process and the lower rib margin (see NOTE
-  for unilateral projections)'
+centering: 'Above cupole diafragmatice: Raza centrală (RC) perpendiculară pe receptorul
+  de imagine, centrat pe planul mediosagital, la nivelul T7, located 3 sau 4 inches
+  (8 la 10 cm) below incizura jugulară (manubriul sternal) Below cupole diafragmatice:
+  Raza centrală (RC) perpendiculară pe receptorul de imagine, centrat pe planul mediosagital,
+  la level midway între apendice xifoid și lower rib margin (see NOTE pentru unilateral
+  incidențe)'
 clinical_indications:
-- Pathology of the posterior Coaste (Grilaj Costal), including suspiciune de fractură
-  and neoplastic processes
+- Pathology de posterior Coaste (Grilaj Costal), including suspiciune de fractură
+  și neoplastic processes
 images:
-- caption: Fig. 10.33 (A) AP bilateral Ortostatism—above diaphragm. (B) AP bilateral
+- caption: Fig. 10.33 (A) AP bilateral Ortostatism—above cupole diafragmatice. (B)
+    AP bilateral
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.33 (A) AP bilateral
-    erect—above diaphragm. (B) AP bilateral)
+    în ortostatism—above cupole diafragmatice. (B) AP bilateral)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_1.jpeg
-- caption: Fig. 10.34 AP Coaste (Grilaj Costal)—above diaphragm.
+- caption: Fig. 10.34 AP Coaste (Grilaj Costal)—above cupole diafragmatice.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.34
-    AP ribs—above diaphragm.)
+    AP coaste—above cupole diafragmatice.)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_2.jpeg
-- caption: Fig. 10.35 AP below diaphragm, centered for right Coaste (Grilaj Costal).
+- caption: Fig. 10.35 AP below cupole diafragmatice, centrat pentru drept Coaste (Grilaj
+    Costal).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.35
-    AP below diaphragm, centered for right ribs.)
+    AP below cupole diafragmatice, centrat pentru drept coaste.)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -32,27 +34,27 @@ images:
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: To demonstrate specific traumatism acuttism / Regim Urgență to posterior Coaste
-  (Grilaj Costal) along one side of the thoracic cavity, perform a unilateral rib
-  study. Instead of aligning the midsagittal plane to the IR, center the side of interest
-  to the center of the IR midway between the midsagittal plane and the lateral margin
-  of the thorax. The CR is perpendicular to the IR at a level 3 to 4 inches below
-  the incizura jugulară (manubriul sternal) for Coaste (Grilaj Costal) above the diaphragm
-  or at a level midway between the xiphoid process and the lower rib margin for Coaste
-  (Grilaj Costal) below the diaphragm. Collimate to the Coaste (Grilaj Costal) of
-  side of interest and include the Coloană Toracală. Coaste (Grilaj Costal) ROUTINE
-  Posterior Coaste (Grilaj Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)— bilateral
-  or unilateral study Axillary Coaste (Grilaj Costal) (anterior or posterior oblique)
-  PA Torace (see Chapter 2) A C B Fig. 10.33 (A) AP bilateral Ortostatism—above diaphragm.
-  (B) AP bilateral Decubit Dorsal—below diaphragm. (C) AP unilateral Ortostatism—above
-  diaphragm.
-position: 'Pacient: Above diaphragm: Ortostatism facing x-ray tube. May be performed
-  as bilateral or unilateral study (Fig. 10.33A and C). Below diaphragm: Decubit Dorsal
-  (Fig. 10.33B).; Regiune anatomică: Align midsagittal plane to center of IR. Raise
-  chin to prevent it from superimposing the upper Coaste (Grilaj Costal); look straight
-  ahead. Rotate shoulders anteriorly to remove scapulae from lung fields. Allow Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of
-  thorax or Bazin (Pelvis).'
+notes: la evidențiază specific traumatism acuttism / Regim Urgență la posterior Coaste
+  (Grilaj Costal) along one side de thoracic cavity, perform unilateral rib study.
+  Instead de aligning planul mediosagital la receptorul de imagine, se centrează side
+  de interest la center de receptorul de imagine midway între plan mediosagital și
+  lateral margin de thorax. raza centrală este perpendicular pe receptorul de imagine
+  (RI) la level 3 la 4 inches below incizura jugulară (manubriul sternal) pentru Coaste
+  (Grilaj Costal) above cupole diafragmatice sau la level midway între apendice xifoid
+  și lower rib margin pentru Coaste (Grilaj Costal) below cupole diafragmatice. Collimate
+  la Coaste (Grilaj Costal) de side de interest și include Coloană Toracală. Coaste
+  (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal) (AP) sau anterior Coaste
+  (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary Coaste (Grilaj Costal)
+  (anterior sau posterior oblic) PA Torace (see Chapter 2) C B Fig. 10.33 (A) AP bilateral
+  Ortostatism—above cupole diafragmatice. (B) AP bilateral Decubit dorsal—below cupole
+  diafragmatice. (C) AP unilateral Ortostatism—above cupole diafragmatice.
+position: 'Pacient: Above cupole diafragmatice: Ortostatism facing x-ray tube. poate
+  fie performed ca bilateral sau unilateral study (Fig. 10.33A și C). Below cupole
+  diafragmatice: Decubit dorsal (Fig. 10.33B).; Regiune anatomică: Align plan mediosagital
+  la center de receptorul de imagine. Raise chin la prevent it de la superimposing
+  upper Coaste (Grilaj Costal); look straight ahead. Rotate umeri anteriorly la remove
+  scapulae de la câmpuri pulmonare. Allow Absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase de thorax sau Bazin (bazin (pelvis)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -60,21 +62,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Above diaphragm: Optimally, Coaste (Grilaj Costal) 1 through 9 should be visualized
-  (Fig. 10.34). May only visualize Coaste (Grilaj Costal) 1 to 8 if patient is unable
-  to take in a deep breath.'
-- 'Below diaphragm: Minimally, Coaste (Grilaj Costal) 10 through 12 (minimum) should
-  be visualized. If the ninth rib is not clearly visualized above the diaphragm, ensure
-  it is fully included in the diaphragm radiograph (Fig. 10.35). Position:'
+- 'Above cupole diafragmatice: Optimally, Coaste (Grilaj Costal) 1 through 9 trebuie
+  să fie visualized (Fig. 10.34). poate only visualize Coaste (Grilaj Costal) 1 la
+  8 if pacient este unable la take în deep respirației.'
+- 'Below cupole diafragmatice: Minimally, Coaste (Grilaj Costal) 10 through 12 (minimum)
+  trebuie să fie visualized. If ninth rib este nu clearly visualized above cupole
+  diafragmatice, ensure it este fully included în cupole diafragmatice radiografie
+  (Fig. 10.35). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  Width of Coaste (Grilaj Costal) is equidistant on both sides of the Coloană Toracală.
-  Exposure:'
-- Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal)
-  through the lungs and heart shadow above diaphragm or through the dense abdominal
-  organs if below the diaphragm.
-- no motion, as demonstrated by sharp bony markings. Fig. 10.34 AP Coaste (Grilaj
-  Costal)—above diaphragm. Fig. 10.35 AP below diaphragm, centered for right Coaste
-  (Grilaj Costal).
+  Width de Coaste (Grilaj Costal) este equidistant pe ambele părți (bilateral) de
+  Coloană Toracală. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal)
+  through plămânii și heart shadow above cupole diafragmatice sau through dense abdominal
+  organs if below cupole diafragmatice.
+- fără mișcare, ca evidențiat prin net bony markings. Fig. 10.34 AP Coaste (Grilaj
+  Costal)—above cupole diafragmatice. Fig. 10.35 AP below cupole diafragmatice, centrat
+  pentru drept Coaste (Grilaj Costal).
 sid_dff: 100 cm
 slug: rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager
 sources:
@@ -82,17 +85,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to region of interest. Belowdiaphragm rib images allow for
+  collimation: Collimate la region de interest. Belowdiaphragm rib imagini allow pentru
     increased collimation.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Posterior)
-  (ABOVE OR BELOW DIAPHRAGM)
+title: Rx BILATERAL OR UNILATERAL Grilaj Costal Posterior AP (Antero-Posterior) (ABOVE
+  OR BELOW DIAPHRAGM)
 ---
-# Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Posterior) (ABOVE OR BELOW DIAPHRAGM)
+# Rx BILATERAL OR UNILATERAL Grilaj Costal Posterior AP (Antero-Posterior) (ABOVE OR BELOW DIAPHRAGM)
 
 
 <div class="rx-meta-bar">
@@ -111,7 +114,7 @@ title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Po
 
     === "Indicații Clinice"
 
-        - Pathology of the posterior Coaste (Grilaj Costal), including suspiciune de fractură and neoplastic processes
+        - Pathology de posterior Coaste (Grilaj Costal), including suspiciune de fractură și neoplastic processes
 
     === "Ghid Național IRIS"
 
@@ -125,10 +128,10 @@ title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Po
 
     ---
 
-    - **Poziție Pacient:** Pacient: Above diaphragm: Ortostatism facing x-ray tube. May be performed as bilateral or unilateral study (Fig. 10.33A and C). Below diaphragm: Decubit Dorsal (Fig. 10.33B).; Regiune anatomică: Align midsagittal plane to center of IR. Raise chin to prevent it from superimposing the upper Coaste (Grilaj Costal); look straight ahead. Rotate shoulders anteriorly to remove scapulae from lung fields. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of thorax or Bazin (Pelvis).
-    - **Punct de Centrare Fascicul:** Above diaphragm: Raza centrală (RC) perpendiculară pe receptorul de imagine, centered to the midsagittal plane, at the level of T7, located 3 or 4 inches (8 to 10 cm) below incizura jugulară (manubriul sternal) Below diaphragm: Raza centrală (RC) perpendiculară pe receptorul de imagine, centered to the midsagittal plane, at a level midway between the xiphoid process and the lower rib margin (see NOTE for unilateral projections)
+    - **Poziție Pacient:** Pacient: Above cupole diafragmatice: Ortostatism facing x-ray tube. poate fie performed ca bilateral sau unilateral study (Fig. 10.33A și C). Below cupole diafragmatice: Decubit dorsal (Fig. 10.33B).; Regiune anatomică: Align plan mediosagital la center de receptorul de imagine. Raise chin la prevent it de la superimposing upper Coaste (Grilaj Costal); look straight ahead. Rotate umeri anteriorly la remove scapulae de la câmpuri pulmonare. Allow Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de thorax sau Bazin (bazin (pelvis)).
+    - **Punct de Centrare Fascicul:** Above cupole diafragmatice: Raza centrală (RC) perpendiculară pe receptorul de imagine, centrat pe planul mediosagital, la nivelul T7, located 3 sau 4 inches (8 la 10 cm) below incizura jugulară (manubriul sternal) Below cupole diafragmatice: Raza centrală (RC) perpendiculară pe receptorul de imagine, centrat pe planul mediosagital, la level midway între apendice xifoid și lower rib margin (see NOTE pentru unilateral incidențe)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on deep inspiration for Coaste (Grilaj Costal) above the diaphragm to depress the diaphragm and on full expiration for Coaste (Grilaj Costal) below the diaphragm to elevate the diaphragm.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe deep inspiration pentru Coaste (Grilaj Costal) above cupole diafragmatice la depress cupole diafragmatice și pe Expir complet pentru Coaste (Grilaj Costal) below cupole diafragmatice la elevate cupole diafragmatice.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -142,18 +145,18 @@ title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Po
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to region of interest. Belowdiaphragm rib images allow for increased collimation. |
+    | **Colimare Fascicul** | Collimate la region de interest. Belowdiaphragm rib imagini allow pentru increased collimation. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Above diaphragm: Optimally, Coaste (Grilaj Costal) 1 through 9 should be visualized (Fig. 10.34). May only visualize Coaste (Grilaj Costal) 1 to 8 if patient is unable to take in a deep breath.
-    - Below diaphragm: Minimally, Coaste (Grilaj Costal) 10 through 12 (minimum) should be visualized. If the ninth rib is not clearly visualized above the diaphragm, ensure it is fully included in the diaphragm radiograph (Fig. 10.35). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Width of Coaste (Grilaj Costal) is equidistant on both sides of the Coloană Toracală. Exposure:
-    - Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal) through the lungs and heart shadow above diaphragm or through the dense abdominal organs if below the diaphragm.
-    - no motion, as demonstrated by sharp bony markings. Fig. 10.34 AP Coaste (Grilaj Costal)—above diaphragm. Fig. 10.35 AP below diaphragm, centered for right Coaste (Grilaj Costal).
+    - Above cupole diafragmatice: Optimally, Coaste (Grilaj Costal) 1 through 9 trebuie să fie visualized (Fig. 10.34). poate only visualize Coaste (Grilaj Costal) 1 la 8 if pacient este unable la take în deep respirației.
+    - Below cupole diafragmatice: Minimally, Coaste (Grilaj Costal) 10 through 12 (minimum) trebuie să fie visualized. If ninth rib este nu clearly visualized above cupole diafragmatice, ensure it este fully included în cupole diafragmatice radiografie (Fig. 10.35). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Width de Coaste (Grilaj Costal) este equidistant pe ambele părți (bilateral) de Coloană Toracală. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal) through plămânii și heart shadow above cupole diafragmatice sau through dense abdominal organs if below cupole diafragmatice.
+    - fără mișcare, ca evidențiat prin net bony markings. Fig. 10.34 AP Coaste (Grilaj Costal)—above cupole diafragmatice. Fig. 10.35 AP below cupole diafragmatice, centrat pentru drept Coaste (Grilaj Costal).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,7 +169,7 @@ title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Po
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    To demonstrate specific traumatism acuttism / Regim Urgență to posterior Coaste (Grilaj Costal) along one side of the thoracic cavity, perform a unilateral rib study. Instead of aligning the midsagittal plane to the IR, center the side of interest to the center of the IR midway between the midsagittal plane and the lateral margin of the thorax. The CR is perpendicular to the IR at a level 3 to 4 inches below the incizura jugulară (manubriul sternal) for Coaste (Grilaj Costal) above the diaphragm or at a level midway between the xiphoid process and the lower rib margin for Coaste (Grilaj Costal) below the diaphragm. Collimate to the Coaste (Grilaj Costal) of side of interest and include the Coloană Toracală. Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)— bilateral or unilateral study Axillary Coaste (Grilaj Costal) (anterior or posterior oblique) PA Torace (see Chapter 2) A C B Fig. 10.33 (A) AP bilateral Ortostatism—above diaphragm. (B) AP bilateral Decubit Dorsal—below diaphragm. (C) AP unilateral Ortostatism—above diaphragm.
+    la evidențiază specific traumatism acuttism / Regim Urgență la posterior Coaste (Grilaj Costal) along one side de thoracic cavity, perform unilateral rib study. Instead de aligning planul mediosagital la receptorul de imagine, se centrează side de interest la center de receptorul de imagine midway între plan mediosagital și lateral margin de thorax. raza centrală este perpendicular pe receptorul de imagine (RI) la level 3 la 4 inches below incizura jugulară (manubriul sternal) pentru Coaste (Grilaj Costal) above cupole diafragmatice sau la level midway între apendice xifoid și lower rib margin pentru Coaste (Grilaj Costal) below cupole diafragmatice. Collimate la Coaste (Grilaj Costal) de side de interest și include Coloană Toracală. Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal) (AP) sau anterior Coaste (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2) C B Fig. 10.33 (A) AP bilateral Ortostatism—above cupole diafragmatice. (B) AP bilateral Decubit dorsal—below cupole diafragmatice. (C) AP unilateral Ortostatism—above cupole diafragmatice.
 
 
 ### 🖼️ Imagini
@@ -175,25 +178,25 @@ title: Rx BILATERAL OR UNILATERAL POSTERIOR Coaste (Grilaj Costal) AP (Antero-Po
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.33 (A) AP bilateral Ortostatism—above diaphragm. (B) AP bilateral](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_1.jpeg)
+![Fig. 10.33 (A) AP bilateral Ortostatism—above cupole diafragmatice. (B) AP bilateral](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.33 (A) AP bilateral Ortostatism—above diaphragm. (B) AP bilateral</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.33 (A) AP bilateral erect—above diaphragm. (B) AP bilateral)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 10.34 AP Coaste (Grilaj Costal)—above diaphragm.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 10.34 AP Coaste (Grilaj Costal)—above diaphragm.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.34 AP ribs—above diaphragm.)</span></figcaption>
+<figcaption><strong>Fig. 10.33 (A) AP bilateral Ortostatism—above cupole diafragmatice. (B) AP bilateral</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.33 (A) AP bilateral în ortostatism—above cupole diafragmatice. (B) AP bilateral)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.35 AP below diaphragm, centered for right Coaste (Grilaj Costal).](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_3.jpeg)
+![Fig. 10.34 AP Coaste (Grilaj Costal)—above cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.35 AP below diaphragm, centered for right Coaste (Grilaj Costal).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.35 AP below diaphragm, centered for right ribs.)</span></figcaption>
+<figcaption><strong>Fig. 10.34 AP Coaste (Grilaj Costal)—above cupole diafragmatice.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.34 AP coaste—above cupole diafragmatice.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 10.35 AP below cupole diafragmatice, centrat pentru drept Coaste (Grilaj Costal).](../../assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 10.35 AP below cupole diafragmatice, centrat pentru drept Coaste (Grilaj Costal).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.35 AP below cupole diafragmatice, centrat pentru drept coaste.)</span></figcaption>
 
 </figure>
 

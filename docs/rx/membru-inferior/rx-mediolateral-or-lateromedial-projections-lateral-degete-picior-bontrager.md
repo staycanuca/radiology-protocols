@@ -2,33 +2,33 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: directed to interphalangeal joint for first digit and to proximal interphalangeal
-  joint for second to fifth digits
+centering: orientat la articulații interfalangiene (IF) pentru first falange și la
+  proximal articulații interfalangiene (IF) pentru second la fifth falange
 clinical_indications:
-- suspiciune de fractură or luxație / subluxație articulară of the phalanges of the
-  digits in question
-- Pathologies such as artroză / modificări degenerative articulare and gouty arthritis
-  (gout), especially in the first digit
+- suspiciune de fractură sau luxație / subluxație articulară de falange de falange
+  în question
+- Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis
+  (gout), especially în first falange
 images:
-- caption: Fig. 6.47 Lateromedial—ﬁrst digit.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.47 Lateromedial—ﬁrst
-    digit.)
+- caption: Fig. 6.47 Lateromedial—first falange.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.47 Lateromedial—first
+    falange.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_1.jpeg
-- caption: Fig. 6.48 Lateromedial—second digit.
+- caption: Fig. 6.48 Lateromedial—second falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.48
-    Lateromedial—second digit.)
+    Lateromedial—second falange.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_2.jpeg
-- caption: Fig. 6.49 Mediolateral—fourth digit.
+- caption: Fig. 6.49 Mediolateral—fourth falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.49
-    Mediolateral—fourth digit.)
+    Mediolateral—fourth falange.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_3.jpeg
 - caption: Fig. 6.50 Lateromedial—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.50
     Lateromedial—)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_4.jpeg
-- caption: Fig. 6.51 Lateromedial—second digit.
+- caption: Fig. 6.51 Lateromedial—second falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.51
-    Lateromedial—second digit.)
+    Lateromedial—second falange.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_5.jpeg
 - caption: Figura 6
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -45,23 +45,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Phalanges of digit in question should be seen in Incidență de Profil (Lateral) free
-  of superimposition by other digits, if possible (Figs. 6.50 and 6.51).
-- (When total separation of Degete Picior is impossible, especially third to fifth
-  digits, the distal phalanx at least should be separated, and the proximal phalanx
-  should be visualized through superimposed structures.) Position
-- Long axis of digit is aligned to long axis of portion of IR being used.
-- True lateral of digit demonstrates increased concavity on anterior surface of the
-  distal phalanx and posterior surface of the proximal phalanx.
-- Opposing surface of each phalanx appears straighter.4
-- 'Collimation to area of interest. Exposure:'
-- No motion as evidenced by sharply defined cortical margins of bone and detailed
+- falange de falange în question trebuie să fie seen în Incidență de Profil (lateral)
+  liber de superimposition prin other falange, if possible (Figs. 6.50 și 6.51).
+- (When total separation de Degete Picior este impossible, especially third la fifth
+  falange, distal phalanx la least trebuie să fie separated, și proximal phalanx trebuie
+  să fie visualized through superimposed structures.) poziție
+- axa longitudinală de falange este aliniat la axa longitudinală de portion de receptorul
+  de imagine being used.
+- True lateral de falange evidențiază increased concavity pe anterior surface de distal
+  phalanx și posterior surface de proximal phalanx.
+- Opposing surface de fiecare phalanx appears straighter.4
+- 'Collimation la aria de interes diagnostic. expunere:'
+- fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed
   bony trabeculae.
-- Optimal image receptor exposure and contrast to allow visualization of bony cortical
-  margins and trabeculae and soft tissue structures. Fig. 6.50 Lateromedialsecond
-  digit. Distal phalanx Middle phalanx Proximal interphalangeal (PIP) joint (CR) Proximal
-  phalanx Distal 2nd metatarsal Distal interphalangeal (DIP) joint Fig. 6.51 Lateromedial—second
-  digit.
+- optim receptorul de imagine expunere și contrast la allow visualization de bony
+  cortical margins și trabeculae și părți moi structures. Fig. 6.50 Lateromedialsecond
+  falange. distal phalanx Middle phalanx proximal interphalangeal (PIP) articulație
+  (raza centrală) proximal phalanx distal 2nd metatarsal distal interphalangeal (DIP)
+  articulație Fig. 6.51 Lateromedial—second falange.
 sid_dff: 100 cm
 slug: rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager
 sources:
@@ -69,17 +70,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate closely on four sides to affected digit. Degete Picior ROUTINE
-    AP Oblique Lateral Fig. 6.47 Lateromedial—first digit. Fig. 6.48 Lateromedial—second
-    digit. Fig. 6.49 Mediolateral—fourth digit.
+  collimation: Collimate closely pe four sides la affected falange. Degete Picior
+    ROUTINE AP oblic lateral Fig. 6.47 Lateromedial—first falange. Fig. 6.48 Lateromedial—second
+    falange. Fig. 6.49 Mediolateral—fourth falange.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 50-60
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
+title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (Degete Picior)
 ---
-# Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
+# Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (Degete Picior)
 
 
 <div class="rx-meta-bar">
@@ -98,8 +99,8 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură or luxație / subluxație articulară of the phalanges of the digits in question
-        - Pathologies such as artroză / modificări degenerative articulare and gouty arthritis (gout), especially in the first digit
+        - suspiciune de fractură sau luxație / subluxație articulară de falange de falange în question
+        - Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis (gout), especially în first falange
 
     === "Ghid Național IRIS"
 
@@ -114,7 +115,7 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** directed to interphalangeal joint for first digit and to proximal interphalangeal joint for second to fifth digits
+    - **Punct de Centrare Fascicul:** orientat la articulații interfalangiene (IF) pentru first falange și la proximal articulații interfalangiene (IF) pentru second la fifth falange
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -130,21 +131,21 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate closely on four sides to affected digit. Degete Picior ROUTINE AP Oblique Lateral Fig. 6.47 Lateromedial—first digit. Fig. 6.48 Lateromedial—second digit. Fig. 6.49 Mediolateral—fourth digit. |
+    | **Colimare Fascicul** | Collimate closely pe four sides la affected falange. Degete Picior ROUTINE AP oblic lateral Fig. 6.47 Lateromedial—first falange. Fig. 6.48 Lateromedial—second falange. Fig. 6.49 Mediolateral—fourth falange. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Phalanges of digit in question should be seen in Incidență de Profil (Lateral) free of superimposition by other digits, if possible (Figs. 6.50 and 6.51).
-    - (When total separation of Degete Picior is impossible, especially third to fifth digits, the distal phalanx at least should be separated, and the proximal phalanx should be visualized through superimposed structures.) Position
-    - Long axis of digit is aligned to long axis of portion of IR being used.
-    - True lateral of digit demonstrates increased concavity on anterior surface of the distal phalanx and posterior surface of the proximal phalanx.
-    - Opposing surface of each phalanx appears straighter.4
-    - Collimation to area of interest. Exposure:
-    - No motion as evidenced by sharply defined cortical margins of bone and detailed bony trabeculae.
-    - Optimal image receptor exposure and contrast to allow visualization of bony cortical margins and trabeculae and soft tissue structures. Fig. 6.50 Lateromedialsecond digit. Distal phalanx Middle phalanx Proximal interphalangeal (PIP) joint (CR) Proximal phalanx Distal 2nd metatarsal Distal interphalangeal (DIP) joint Fig. 6.51 Lateromedial—second digit.
+    - falange de falange în question trebuie să fie seen în Incidență de Profil (lateral) liber de superimposition prin other falange, if possible (Figs. 6.50 și 6.51).
+    - (When total separation de Degete Picior este impossible, especially third la fifth falange, distal phalanx la least trebuie să fie separated, și proximal phalanx trebuie să fie visualized through superimposed structures.) poziție
+    - axa longitudinală de falange este aliniat la axa longitudinală de portion de receptorul de imagine being used.
+    - True lateral de falange evidențiază increased concavity pe anterior surface de distal phalanx și posterior surface de proximal phalanx.
+    - Opposing surface de fiecare phalanx appears straighter.4
+    - Collimation la aria de interes diagnostic. expunere:
+    - fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed bony trabeculae.
+    - optim receptorul de imagine expunere și contrast la allow visualization de bony cortical margins și trabeculae și părți moi structures. Fig. 6.50 Lateromedialsecond falange. distal phalanx Middle phalanx proximal interphalangeal (PIP) articulație (raza centrală) proximal phalanx distal 2nd metatarsal distal interphalangeal (DIP) articulație Fig. 6.51 Lateromedial—second falange.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,25 +165,25 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.47 Lateromedial—ﬁrst digit.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_1.jpeg)
+![Fig. 6.47 Lateromedial—first falange.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.47 Lateromedial—ﬁrst digit.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.47 Lateromedial—ﬁrst digit.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.48 Lateromedial—second digit.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.48 Lateromedial—second digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.48 Lateromedial—second digit.)</span></figcaption>
+<figcaption><strong>Fig. 6.47 Lateromedial—first falange.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.47 Lateromedial—first falange.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.49 Mediolateral—fourth digit.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_3.jpeg)
+![Fig. 6.48 Lateromedial—second falange.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.49 Mediolateral—fourth digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.49 Mediolateral—fourth digit.)</span></figcaption>
+<figcaption><strong>Fig. 6.48 Lateromedial—second falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.48 Lateromedial—second falange.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.49 Mediolateral—fourth falange.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.49 Mediolateral—fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.49 Mediolateral—fourth falange.)</span></figcaption>
 
 </figure>
 
@@ -196,9 +197,9 @@ title: Rx MEDIOLATERAL OR LATEROMEDIAL PROJECTIONS LATERAL (Degete Picior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.51 Lateromedial—second digit.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_5.jpeg)
+![Fig. 6.51 Lateromedial—second falange.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-degete-picior-bontrager/fig_5.jpeg)
 
-<figcaption><strong>Fig. 6.51 Lateromedial—second digit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.51 Lateromedial—second digit.)</span></figcaption>
+<figcaption><strong>Fig. 6.51 Lateromedial—second falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.51 Lateromedial—second falange.)</span></figcaption>
 
 </figure>
 

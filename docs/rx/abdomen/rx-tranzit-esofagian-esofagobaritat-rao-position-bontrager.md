@@ -1,15 +1,16 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration (see NOTES).
+breathing: Apnee pe durata expunerii (see NOTES).
 category: abdomen
-centering: to center of IR at level of T6 (2 to 3 inches [5 to 8 cm] inferior to incizura
-  jugulară (manubriul sternal))
+centering: la center de receptorul de imagine la level de T6 (2 la 3 inches [5 la
+  8 cm] inferior la incizura jugulară (manubriul sternal))
 clinical_indications:
-- Strictures, foreign bodies, anatomic anomalies, and neoplasms of the esophagus
+- Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces
+  proliferativ tumorals de esophagus
 images:
-- caption: Fig. 12.82 35° to 40° RAO—Decubit or Ortostatism (inset).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.82 35° to 40°
-    RAO—recumbent or erect (inset).)
+- caption: Fig. 12.82 35° la 40° RAO—Decubit sau Ortostatism (inset).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.82 35° la 40°
+    RAO—recumbent sau în ortostatism (inset).)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-rao-position-bontrager/fig_1.jpeg
 - caption: Fig. 12.83 RAO esophagus.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.83
@@ -25,20 +26,20 @@ images:
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-rao-position-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Thin barium: For complete filling of the esophagus with thin barium, the patient
-  may have to drink through a straw, with continuous swallowing and exposure made
-  after three or four swallows without suspending respiration (using as short an exposure
-  time as possible). Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° to 40°) Lateral
+notes: 'Thin barium: pentru complete filling de esophagus cu thin barium, pacientul
+  poate have la drink through straw, cu continuous swallowing și expunere made after
+  three sau four swallows fără suspending respirație (using ca short expunere time
+  ca possible). Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° la 40°) lateral
   AP (PA)'
-position: 'Pacient: Position patient Decubit or Ortostatism. Decubit is preferred
-  because of more complete filling of the esophagus (caused by the gravity factor
-  with the Ortostatism position).; Regiune anatomică: Rotate 35° to 40° from a Decubit
-  Ventral position, with the right anterior body against the IR or table (Fig. 12.82).
-  Place right arm down with left arm flexed at Cot and up by the patient’s head, holding
-  cup of barium, with a straw in patient’s mouth. Flex left Genunchi for support.
-  Align midline of thorax in the Incidență Oblică to midline of IR or table. Place
-  top of IR about 2 inches (5 cm) above level of shoulders to place center of IR at
-  CR.'
+position: 'Pacient: poziție pacient Decubit sau Ortostatism. Decubit este preferred
+  because de more complete filling de esophagus (caused prin gravity factor cu Ortostatism
+  poziție).; Regiune anatomică: Rotate 35° la 40° de la Decubit ventral poziție, cu
+  drept anterior corp pe / sprijinit de receptorul de imagine sau table (Fig. 12.82).
+  Place drept braț down cu stâng braț flectat la Cot și up prin pacientul’s cap, menținerea
+  cup de barium, cu straw în pacient’s mouth. Flex stâng Genunchi pentru support.
+  Align midline de thorax în Incidență Oblică la midline de receptorul de imagine
+  sau table. Place top de receptorul de imagine about 2 inches (5 cm) above level
+  de umeri la place center de receptorul de imagine la raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,20 +47,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Esophagus should be visible between the vertebral column and heart (Figs. 12.83
-  and 12.84).
-- 'RAO provides better visibility of esophagus between vertebrae and heart than LAO.
-  Position:'
-- Adequate rotation of body projects esophagus between vertebral column and heart.
-- If esophagus is situated over the spine, more rotation of the body is required.
-- Entire esophagus is filled or lined with contrast media.
-- Upper limbs should not superimpose esophagus.
-- Proper collimation field size is applied.
-- 'CR is centered at level of T5 and T6 to include entire esophagus. Exposure:'
-- Optimal image receptor exposure and contrast to visualize clearly borders of the
+- Esophagus trebuie să fie vizibil între coloană vertebrală și heart (Figs. 12.83
+  și 12.84).
+- 'RAO provides better visibility de esophagus între vertebre și heart than LAO. poziție:'
+- adecvat rotație de corp projects esophagus între coloană vertebrală și heart.
+- If esophagus este situated over coloană vertebrală, more rotație de corp este required.
+- Entire esophagus este filled sau lined cu contrast media.
+- Upper limbs trebuie să nu superimpose esophagus.
+- corect collimation field size este applied.
+- 'raza centrală este centrat la nivelul level de T5 și T6 la include entire esophagus.
+  expunere:'
+- optim receptorul de imagine expunere și contrast la visualize clearly margini de
   contrast media–filled esophagus.
-- Sharp structural margins indicate no motion. Fig. 12.82 35° to 40° RAO—Decubit or
-  Ortostatism (inset). Fig. 12.83 RAO esophagus. Esophagus Heart Left hemidiaphragm
+- net structural margins indicate fără mișcare. Fig. 12.82 35° la 40° RAO—Decubit
+  sau Ortostatism (inset). Fig. 12.83 RAO esophagus. Esophagus Heart stâng hemidiaphragm
   Stomach Fig. 12.84 RAO esophagus.
 sid_dff: 100 cm
 slug: rx-tranzit-esofagian-esofagobaritat-rao-position-bontrager
@@ -74,9 +75,9 @@ tech_params:
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
+title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Dreaptă (OAD / RAO)
 ---
-# Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
+# Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Dreaptă (OAD / RAO)
 
 
 <div class="rx-meta-bar">
@@ -95,7 +96,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
 
     === "Indicații Clinice"
 
-        - Strictures, foreign bodies, anatomic anomalies, and neoplasms of the esophagus
+        - Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces proliferativ tumorals de esophagus
 
     === "Ghid Național IRIS"
 
@@ -109,10 +110,10 @@ title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit or Ortostatism. Decubit is preferred because of more complete filling of the esophagus (caused by the gravity factor with the Ortostatism position).; Regiune anatomică: Rotate 35° to 40° from a Decubit Ventral position, with the right anterior body against the IR or table (Fig. 12.82). Place right arm down with left arm flexed at Cot and up by the patient’s head, holding cup of barium, with a straw in patient’s mouth. Flex left Genunchi for support. Align midline of thorax in the Incidență Oblică to midline of IR or table. Place top of IR about 2 inches (5 cm) above level of shoulders to place center of IR at CR.
-    - **Punct de Centrare Fascicul:** to center of IR at level of T6 (2 to 3 inches [5 to 8 cm] inferior to incizura jugulară (manubriul sternal))
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit sau Ortostatism. Decubit este preferred because de more complete filling de esophagus (caused prin gravity factor cu Ortostatism poziție).; Regiune anatomică: Rotate 35° la 40° de la Decubit ventral poziție, cu drept anterior corp pe / sprijinit de receptorul de imagine sau table (Fig. 12.82). Place drept braț down cu stâng braț flectat la Cot și up prin pacientul’s cap, menținerea cup de barium, cu straw în pacient’s mouth. Flex stâng Genunchi pentru support. Align midline de thorax în Incidență Oblică la midline de receptorul de imagine sau table. Place top de receptorul de imagine about 2 inches (5 cm) above level de umeri la place center de receptorul de imagine la raza centrală.
+    - **Punct de Centrare Fascicul:** la center de receptorul de imagine la level de T6 (2 la 3 inches [5 la 8 cm] inferior la incizura jugulară (manubriul sternal))
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration (see NOTES).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii (see NOTES).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -133,16 +134,16 @@ title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
 
     ---
 
-    - Esophagus should be visible between the vertebral column and heart (Figs. 12.83 and 12.84).
-    - RAO provides better visibility of esophagus between vertebrae and heart than LAO. Position:
-    - Adequate rotation of body projects esophagus between vertebral column and heart.
-    - If esophagus is situated over the spine, more rotation of the body is required.
-    - Entire esophagus is filled or lined with contrast media.
-    - Upper limbs should not superimpose esophagus.
-    - Proper collimation field size is applied.
-    - CR is centered at level of T5 and T6 to include entire esophagus. Exposure:
-    - Optimal image receptor exposure and contrast to visualize clearly borders of the contrast media–filled esophagus.
-    - Sharp structural margins indicate no motion. Fig. 12.82 35° to 40° RAO—Decubit or Ortostatism (inset). Fig. 12.83 RAO esophagus. Esophagus Heart Left hemidiaphragm Stomach Fig. 12.84 RAO esophagus.
+    - Esophagus trebuie să fie vizibil între coloană vertebrală și heart (Figs. 12.83 și 12.84).
+    - RAO provides better visibility de esophagus între vertebre și heart than LAO. poziție:
+    - adecvat rotație de corp projects esophagus între coloană vertebrală și heart.
+    - If esophagus este situated over coloană vertebrală, more rotație de corp este required.
+    - Entire esophagus este filled sau lined cu contrast media.
+    - Upper limbs trebuie să nu superimpose esophagus.
+    - corect collimation field size este applied.
+    - raza centrală este centrat la nivelul level de T5 și T6 la include entire esophagus. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize clearly margini de contrast media–filled esophagus.
+    - net structural margins indicate fără mișcare. Fig. 12.82 35° la 40° RAO—Decubit sau Ortostatism (inset). Fig. 12.83 RAO esophagus. Esophagus Heart stâng hemidiaphragm Stomach Fig. 12.84 RAO esophagus.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,7 +156,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Thin barium: For complete filling of the esophagus with thin barium, the patient may have to drink through a straw, with continuous swallowing and exposure made after three or four swallows without suspending respiration (using as short an exposure time as possible). Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° to 40°) Lateral AP (PA)
+    Thin barium: pentru complete filling de esophagus cu thin barium, pacientul poate have la drink through straw, cu continuous swallowing și expunere made after three sau four swallows fără suspending respirație (using ca short expunere time ca possible). Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° la 40°) lateral AP (PA)
 
 
 ### 🖼️ Imagini
@@ -164,9 +165,9 @@ title: Rx Tranzit Esofagian (Esofagobaritat) RAO POSITION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.82 35° to 40° RAO—Decubit or Ortostatism (inset).](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-rao-position-bontrager/fig_1.jpeg)
+![Fig. 12.82 35° la 40° RAO—Decubit sau Ortostatism (inset).](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-rao-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.82 35° to 40° RAO—Decubit or Ortostatism (inset).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.82 35° to 40° RAO—recumbent or erect (inset).)</span></figcaption>
+<figcaption><strong>Fig. 12.82 35° la 40° RAO—Decubit sau Ortostatism (inset).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.82 35° la 40° RAO—recumbent sau în ortostatism (inset).)</span></figcaption>
 
 </figure>
 

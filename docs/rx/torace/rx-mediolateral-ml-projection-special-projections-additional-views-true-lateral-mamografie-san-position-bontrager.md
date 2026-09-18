@@ -1,51 +1,51 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend breathing.
+breathing: apnee (oprirea respirației) respirație.
 category: torace
-centering: Perpendicular, centered to the base of the Mamografie (Sân), the Torace
-  wall edge of the IR; CR not movable
+centering: perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge
+  de receptorul de imagine; raza centrală nu movable
 clinical_indications:
-- Mamografie (Sân) pathologic conditions, especially inflammation or other pathologic
-  changes in the lateral aspect of the Mamografie (Sân).
-- This projection may be requested by the radiologist as an optional projection to
-  confirm an abnormality seen only on MLO.
-- Also useful for evaluating airfluid levels in structures or high concentrations
-  of calcium within a cyst (milk of calcium).
+- Mamografie (Sân) pathologic conditions, especially inflammation sau other pathologic
+  changes în lateral aspect de Mamografie (Sân).
+- This incidență poate fie requested prin radiologist ca optional incidență la confirm
+  abnormality seen only pe MLO.
+- Also useful pentru evaluating airfluid levels în structures sau high concentrations
+  de calcium within cyst (milk de calcium).
 images:
-- caption: Fig. 20.71 ML projection.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 20.71 ML projection.)
+- caption: Fig. 20.71 ML incidență.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 20.71 ML incidență.)
   url: assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_1.jpeg
-- caption: Fig. 20.72 ML projection.
+- caption: Fig. 20.72 ML incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.72
-    ML projection.)
+    ML incidență.)
   url: assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Position AEC chamber to appropriate position to ensure adequate exposure of
-  various tissue densities. Fig. 20.71 ML projection.
-position: 'Pacient: Standing; if not possible, Poziție Șezândă; Regiune anatomică:
-  The tube and IR remain at right angles to each other as CR is angled 90° from vertical.
-  Adjust the IR height to be centered to midbreast. With the patient facing the unit
-  feet forward, place arm of the side being imaged forward and the Mână on the bar
-  toward the front (Fig. 20.71). Pull the Mamografie (Sân) tissue and pectoral muscle
-  anteriorly and medially away from the Torace wall. Push the patient slightly toward
-  the IR until the inferolateral aspect of the Mamografie (Sân) is touching the IR.
-  The nipple should be in profile. Apply compression slowly with the Mamografie (Sân)
-  held away from the Torace wall and up to prevent sagging. After the paddle has passed
-  the Stern, rotate the patient until the Mamografie (Sân) is in a true Incidență
-  de Profil (Lateral). Wrinkles and folds on the Mamografie (Sân) should be smoothed
-  out and compression applied until taut. Open the IMF by pulling the abdominal tissue
-  down. If necessary, have the patient gently retract the opposite Mamografie (Sân)
-  with the other Mână to prevent superimposition. The R or L view marker should be
-  placed high and near the axilla. Positioning Tips For the patient with extra adipose
-  tissue in the upper arm and back—Once the patient is positioned for an MLO, keep
-  one Mână on the Mamografie (Sân) against the IR and take the other arm and pull
-  back on the posterior tissue from around the back of the patient. This will reduce
-  the likelihood of a skin fold. For the upper arm—As you are positioning the arm
-  across the top of the IR, slightly internally roll the arm and pull the fatty tissue
-  (wings) toward the back of the IR. In addition, while applying compression, place
-  your free Mână over the dependent Umăr and pull up on the upper Mamografie (Sân)
-  tissue to reduce the tissue fold that often appears there.'
+notes: poziție AEC chamber la appropriate poziție la ensure adecvat expunere de various
+  tissue densities. Fig. 20.71 ML incidență.
+position: 'Pacient: în ortostatism; if nu possible, Poziție Șezândă; Regiune anatomică:
+  tubul și receptorul de imagine remain la drept angles la fiecare other ca raza centrală
+  este înclinat 90° de la vertical. se ajustează receptorul de imagine height la fie
+  centrat pe midbreast. cu pacientul facing unit picioare forward, place braț de side
+  being imaged forward și Mână pe bar spre front (Fig. 20.71). Pull Mamografie (Sân)
+  tissue și pectoral muscle anteriorly și medially away de la Torace perete. Push
+  pacientul slightly spre receptorul de imagine until inferolateral aspect de Mamografie
+  (Sân) este touching receptorul de imagine. nipple trebuie să fie în profile. Apply
+  compression slowly cu Mamografie (Sân) held away de la Torace perete și up la prevent
+  sagging. After paddle has passed Stern, se rotește pacient until Mamografie (Sân)
+  este în true Incidență de Profil (lateral). Wrinkles și folds pe Mamografie (Sân)
+  trebuie să fie smoothed out și compression applied until taut. Open IMF prin pulling
+  abdominal tissue down. If necessary, Se instruiește pacientul să gently retract
+  opposite Mamografie (Sân) cu other Mână la prevent superimposition. R sau L incidență
+  marker trebuie să fie plasat high și near axilla. Positioning Tips pentru pacientul
+  cu extra adipose tissue în upper braț și back—Once pacientul este poziționat pentru
+  MLO, keep one Mână pe Mamografie (Sân) pe / sprijinit de receptorul de imagine și
+  take other braț și pull back pe posterior tissue de la around back de pacientul.
+  This will reduce likelihood de skin fold. pentru upper braț—ca you sunt positioning
+  braț across top de receptorul de imagine, slightly internally roll braț și pull
+  fatty tissue (wings) spre back de receptorul de imagine. în addition, while applying
+  compression, place your liber Mână over dependent Umăr și pull up pe upper Mamografie
+  (Sân) tissue la reduce tissue fold that often appears there.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,12 +53,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Lateral view of entire Mamografie (Sân) tissue includes axillary region, pectoral
-  muscle, and open IMF (Fig. 20.72). Position and Compression
-- Nipple is seen in profile; tissue thickness is evenly distributed on IR, indicating
-  optimal compression.
-- Axillary Mamografie (Sân) tissue (generally including pectoral muscle) is included,
-  indicating correct centering and IR vertical placement.
+- lateral incidență de entire Mamografie (Sân) tissue includes axillary region, pectoral
+  muscle, și open IMF (Fig. 20.72). poziție și Compression
+- Nipple este seen în profile; tissue thickness este evenly distributed pe receptorul
+  de imagine, indicating optim compression.
+- Axillary Mamografie (Sân) tissue (generally including pectoral muscle) este included,
+  indicating correct centering și receptorul de imagine vertical placement.
 sid_dff: 60 cm
 slug: rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager
 sources:
@@ -66,21 +66,20 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: and CR CR and collimation chamber are fixed and are centered correctly
-    if Mamografie (Sân) tissue is correctly centered and visualized on IR. Exposure
-    Dense areas are adequately penetrated, resulting in optimal contrast. Sharp tissue
-    markings indicate no motion. R and L view markers and patient information are
-    correctly placed at axillary side of IR. No artifacts are visible. Fig. 20.72
-    ML projection.
+  collimation: și raza centrală raza centrală și collimation chamber sunt fixed și
+    sunt centrat correctly if Mamografie (Sân) tissue este correctly centrat și visualized
+    pe receptorul de imagine. expunere Dense areas sunt adequately penetrated, resulting
+    în optim contrast. net tissue markings indicate fără mișcare. R și L incidență
+    markeri și pacient information sunt correctly plasat la axillary side de receptorul
+    de imagine. fără artifacts sunt vizibil. Fig. 20.72 ML incidență.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (TRUE
-  LATERAL Mamografie (Sân) POSITION)
+title: Rx Medio-Lateral (ML) Incidență (TRUE LATERAL Mamografie Poziționare)
 ---
-# Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (TRUE LATERAL Mamografie (Sân) POSITION)
+# Rx Medio-Lateral (ML) Incidență (TRUE LATERAL Mamografie Poziționare)
 
 
 <div class="rx-meta-bar">
@@ -99,9 +98,9 @@ title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (T
 
     === "Indicații Clinice"
 
-        - Mamografie (Sân) pathologic conditions, especially inflammation or other pathologic changes in the lateral aspect of the Mamografie (Sân).
-        - This projection may be requested by the radiologist as an optional projection to confirm an abnormality seen only on MLO.
-        - Also useful for evaluating airfluid levels in structures or high concentrations of calcium within a cyst (milk of calcium).
+        - Mamografie (Sân) pathologic conditions, especially inflammation sau other pathologic changes în lateral aspect de Mamografie (Sân).
+        - This incidență poate fie requested prin radiologist ca optional incidență la confirm abnormality seen only pe MLO.
+        - Also useful pentru evaluating airfluid levels în structures sau high concentrations de calcium within cyst (milk de calcium).
 
     === "Ghid Național IRIS"
 
@@ -115,10 +114,10 @@ title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (T
 
     ---
 
-    - **Poziție Pacient:** Pacient: Standing; if not possible, Poziție Șezândă; Regiune anatomică: The tube and IR remain at right angles to each other as CR is angled 90° from vertical. Adjust the IR height to be centered to midbreast. With the patient facing the unit feet forward, place arm of the side being imaged forward and the Mână on the bar toward the front (Fig. 20.71). Pull the Mamografie (Sân) tissue and pectoral muscle anteriorly and medially away from the Torace wall. Push the patient slightly toward the IR until the inferolateral aspect of the Mamografie (Sân) is touching the IR. The nipple should be in profile. Apply compression slowly with the Mamografie (Sân) held away from the Torace wall and up to prevent sagging. After the paddle has passed the Stern, rotate the patient until the Mamografie (Sân) is in a true Incidență de Profil (Lateral). Wrinkles and folds on the Mamografie (Sân) should be smoothed out and compression applied until taut. Open the IMF by pulling the abdominal tissue down. If necessary, have the patient gently retract the opposite Mamografie (Sân) with the other Mână to prevent superimposition. The R or L view marker should be placed high and near the axilla. Positioning Tips For the patient with extra adipose tissue in the upper arm and back—Once the patient is positioned for an MLO, keep one Mână on the Mamografie (Sân) against the IR and take the other arm and pull back on the posterior tissue from around the back of the patient. This will reduce the likelihood of a skin fold. For the upper arm—As you are positioning the arm across the top of the IR, slightly internally roll the arm and pull the fatty tissue (wings) toward the back of the IR. In addition, while applying compression, place your free Mână over the dependent Umăr and pull up on the upper Mamografie (Sân) tissue to reduce the tissue fold that often appears there.
-    - **Punct de Centrare Fascicul:** Perpendicular, centered to the base of the Mamografie (Sân), the Torace wall edge of the IR; CR not movable
+    - **Poziție Pacient:** Pacient: în ortostatism; if nu possible, Poziție Șezândă; Regiune anatomică: tubul și receptorul de imagine remain la drept angles la fiecare other ca raza centrală este înclinat 90° de la vertical. se ajustează receptorul de imagine height la fie centrat pe midbreast. cu pacientul facing unit picioare forward, place braț de side being imaged forward și Mână pe bar spre front (Fig. 20.71). Pull Mamografie (Sân) tissue și pectoral muscle anteriorly și medially away de la Torace perete. Push pacientul slightly spre receptorul de imagine until inferolateral aspect de Mamografie (Sân) este touching receptorul de imagine. nipple trebuie să fie în profile. Apply compression slowly cu Mamografie (Sân) held away de la Torace perete și up la prevent sagging. After paddle has passed Stern, se rotește pacient until Mamografie (Sân) este în true Incidență de Profil (lateral). Wrinkles și folds pe Mamografie (Sân) trebuie să fie smoothed out și compression applied until taut. Open IMF prin pulling abdominal tissue down. If necessary, Se instruiește pacientul să gently retract opposite Mamografie (Sân) cu other Mână la prevent superimposition. R sau L incidență marker trebuie să fie plasat high și near axilla. Positioning Tips pentru pacientul cu extra adipose tissue în upper braț și back—Once pacientul este poziționat pentru MLO, keep one Mână pe Mamografie (Sân) pe / sprijinit de receptorul de imagine și take other braț și pull back pe posterior tissue de la around back de pacientul. This will reduce likelihood de skin fold. pentru upper braț—ca you sunt positioning braț across top de receptorul de imagine, slightly internally roll braț și pull fatty tissue (wings) spre back de receptorul de imagine. în addition, while applying compression, place your liber Mână over dependent Umăr și pull up pe upper Mamografie (Sân) tissue la reduce tissue fold that often appears there.
+    - **Punct de Centrare Fascicul:** perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge de receptorul de imagine; raza centrală nu movable
     - **Distanță Focar-Film (DFF / SID):** 60 cm
-    - **Comandă Respiratorie:** Suspend breathing.
+    - **Comandă Respiratorie:** apnee (oprirea respirației) respirație.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -132,16 +131,16 @@ title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (T
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | and CR CR and collimation chamber are fixed and are centered correctly if Mamografie (Sân) tissue is correctly centered and visualized on IR. Exposure Dense areas are adequately penetrated, resulting in optimal contrast. Sharp tissue markings indicate no motion. R and L view markers and patient information are correctly placed at axillary side of IR. No artifacts are visible. Fig. 20.72 ML projection. |
+    | **Colimare Fascicul** | și raza centrală raza centrală și collimation chamber sunt fixed și sunt centrat correctly if Mamografie (Sân) tissue este correctly centrat și visualized pe receptorul de imagine. expunere Dense areas sunt adequately penetrated, resulting în optim contrast. net tissue markings indicate fără mișcare. R și L incidență markeri și pacient information sunt correctly plasat la axillary side de receptorul de imagine. fără artifacts sunt vizibil. Fig. 20.72 ML incidență. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Lateral view of entire Mamografie (Sân) tissue includes axillary region, pectoral muscle, and open IMF (Fig. 20.72). Position and Compression
-    - Nipple is seen in profile; tissue thickness is evenly distributed on IR, indicating optimal compression.
-    - Axillary Mamografie (Sân) tissue (generally including pectoral muscle) is included, indicating correct centering and IR vertical placement.
+    - lateral incidență de entire Mamografie (Sân) tissue includes axillary region, pectoral muscle, și open IMF (Fig. 20.72). poziție și Compression
+    - Nipple este seen în profile; tissue thickness este evenly distributed pe receptorul de imagine, indicating optim compression.
+    - Axillary Mamografie (Sân) tissue (generally including pectoral muscle) este included, indicating correct centering și receptorul de imagine vertical placement.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,7 +153,7 @@ title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (T
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Position AEC chamber to appropriate position to ensure adequate exposure of various tissue densities. Fig. 20.71 ML projection.
+    poziție AEC chamber la appropriate poziție la ensure adecvat expunere de various tissue densities. Fig. 20.71 ML incidență.
 
 
 ### 🖼️ Imagini
@@ -163,17 +162,17 @@ title: Rx MEDIOLATERAL (ML) PROJECTION SPECIAL PROJECTIONS (ADDITIONAL VIEWS) (T
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.71 ML projection.](../../assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_1.jpeg)
+![Fig. 20.71 ML incidență.](../../assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 20.71 ML projection.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.71 ML projection.)</span></figcaption>
+<figcaption><strong>Fig. 20.71 ML incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.71 ML incidență.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.72 ML projection.](../../assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_2.jpeg)
+![Fig. 20.72 ML incidență.](../../assets/images/protocols/bontrager/rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 20.72 ML projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.72 ML projection.)</span></figcaption>
+<figcaption><strong>Fig. 20.72 ML incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.72 ML incidență.)</span></figcaption>
 
 </figure>
 

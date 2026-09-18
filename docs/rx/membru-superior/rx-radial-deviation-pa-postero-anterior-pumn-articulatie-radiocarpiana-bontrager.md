@@ -2,14 +2,14 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: 'and center of the collimation field size should be to the aria medio-carpiană.
-  Exposure: Optimal image receptor exposure and contrast with no motion visualize
-  the carpal borders and clear, Contururi osoase și travee trabeculare nete, fără
-  artefacte de mișcare. Fig. 4.109 Radial deviation. 5th metacarpal Pisiform Ulna
-  Hamate Triquetrum Lunate Hamulus of hamate Fig. 4.110 Radial deviation.'
+centering: 'și center de collimation field size trebuie să fie la aria medio-carpiană.
+  expunere: optim receptorul de imagine expunere și contrast cu fără mișcare visualize
+  carpal margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+  de mișcare. Fig. 4.109 Radial deviation. 5th metacarpal Pisiform Ulna Hamate Triquetrum
+  Lunate Hamulus de hamate Fig. 4.110 Radial deviation.'
 clinical_indications:
-- Possible suspiciune de fractură of the carpal bones on the ulnar side of the Pumn
-  (Articulație Radiocarpiană), especially the lunate, triquetrum, pisiform, and hamate
+- Possible suspiciune de fractură de oase carpiene pe ulnar side de Pumn (Articulație
+  Radiocarpiană), especially lunate, triquetrum, pisiform, și hamate
 images:
 - caption: Fig. 4.108 PA Pumn (Articulație Radiocarpiană)—radial deviation.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.108 PA wrist—radial
@@ -26,13 +26,13 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat patient at end of table with Mână and Antebraț extended.
-  Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal
-  plane.; Regiune anatomică: Position Pumn (Articulație Radiocarpiană) as for Incidență
-  Postero-Anterioară (PA)—palm down with Pumn (Articulație Radiocarpiană) and Mână
-  aligned with center of long axis of IR. Without moving Antebraț, gently invert the
-  Mână (move medially toward Police side) as far as patient can tolerate without lifting
-  or rotating distal Antebraț (Fig. 4.108).'
+position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop
+  Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.;
+  Regiune anatomică: poziție Pumn (Articulație Radiocarpiană) ca pentru Incidență
+  Postero-Anterioară (PA)—palm down cu Pumn (Articulație Radiocarpiană) și Mână aliniat
+  cu center de axa longitudinală de receptorul de imagine. fără moving Antebraț, gently
+  invert Mână (move medially spre Police side) ca far ca pacient poate tolerate fără
+  lifting sau rotating distal Antebraț (Fig. 4.108).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,16 +40,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Distal radius and ulna, carpals, and proximal metacarpals are visible.
-- 'Carpals are visible, with adjacent interspaces more open on the medial (ulnar)
-  side of the Pumn (Articulație Radiocarpiană) (Figs. 4.109 and 4.110). Position:'
-- Long axis of the Antebraț is aligned with the side border of IR.
-- Extreme radial deviation is evidenced by the angle of the long axis of the metacarpals
-  to that of the radius and ulna and the space between the triquetrum/pisiform and
-  the styloid process of the ulna.
+- distal radius și ulna, oase carpiene, și proximal oase metacarpiene sunt vizibil.
+- 'oase carpiene sunt vizibil, cu adjacent interspaces more open pe medial (ulnar)
+  side de Pumn (Articulație Radiocarpiană) (Figs. 4.109 și 4.110). poziție:'
+- axa longitudinală de Antebraț este aliniat cu side margine de receptorul de imagine.
+- Extreme radial deviation este evidenced prin angle de axa longitudinală de oase
+  metacarpiene la that de radius și ulna și space între triquetrum/pisiform și styloid
+  process de ulna.
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  of the Pumn (Articulație Radiocarpiană) is evidenced by the appearance of the distal
-  radius and ulna.'
+  de Pumn (Articulație Radiocarpiană) este evidenced prin appearance de distal radius
+  și ulna.'
 sid_dff: 100 cm
 slug: rx-radial-deviation-pa-postero-anterior-pumn-articulatie-radiocarpiana-bontrager
 sources:
@@ -57,8 +57,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'Field Size Collimate on four sides to carpal region. Pumn (Articulație
-    Radiocarpiană) SPECIAL Scaphoid projections:'
+  collimation: 'Field Size Collimate pe four sides la carpal region. Pumn (Articulație
+    Radiocarpiană) SPECIAL Scaphoid incidențe:'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -85,7 +85,7 @@ title: Rx RADIAL DEVIATION PA (Postero-Anterior) (Pumn (Articulație Radiocarpia
 
     === "Indicații Clinice"
 
-        - Possible suspiciune de fractură of the carpal bones on the ulnar side of the Pumn (Articulație Radiocarpiană), especially the lunate, triquetrum, pisiform, and hamate
+        - Possible suspiciune de fractură de oase carpiene pe ulnar side de Pumn (Articulație Radiocarpiană), especially lunate, triquetrum, pisiform, și hamate
 
     === "Ghid Național IRIS"
 
@@ -99,8 +99,8 @@ title: Rx RADIAL DEVIATION PA (Postero-Anterior) (Pumn (Articulație Radiocarpia
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat patient at end of table with Mână and Antebraț extended. Drop Umăr so that Umăr, Cot, and Pumn (Articulație Radiocarpiană) are on same horizontal plane.; Regiune anatomică: Position Pumn (Articulație Radiocarpiană) as for Incidență Postero-Anterioară (PA)—palm down with Pumn (Articulație Radiocarpiană) and Mână aligned with center of long axis of IR. Without moving Antebraț, gently invert the Mână (move medially toward Police side) as far as patient can tolerate without lifting or rotating distal Antebraț (Fig. 4.108).
-    - **Punct de Centrare Fascicul:** and center of the collimation field size should be to the aria medio-carpiană. Exposure: Optimal image receptor exposure and contrast with no motion visualize the carpal borders and clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.109 Radial deviation. 5th metacarpal Pisiform Ulna Hamate Triquetrum Lunate Hamulus of hamate Fig. 4.110 Radial deviation.
+    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.; Regiune anatomică: poziție Pumn (Articulație Radiocarpiană) ca pentru Incidență Postero-Anterioară (PA)—palm down cu Pumn (Articulație Radiocarpiană) și Mână aliniat cu center de axa longitudinală de receptorul de imagine. fără moving Antebraț, gently invert Mână (move medially spre Police side) ca far ca pacient poate tolerate fără lifting sau rotating distal Antebraț (Fig. 4.108).
+    - **Punct de Centrare Fascicul:** și center de collimation field size trebuie să fie la aria medio-carpiană. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare visualize carpal margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.109 Radial deviation. 5th metacarpal Pisiform Ulna Hamate Triquetrum Lunate Hamulus de hamate Fig. 4.110 Radial deviation.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -116,18 +116,18 @@ title: Rx RADIAL DEVIATION PA (Postero-Anterior) (Pumn (Articulație Radiocarpia
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate on four sides to carpal region. Pumn (Articulație Radiocarpiană) SPECIAL Scaphoid projections: |
+    | **Colimare Fascicul** | Field Size Collimate pe four sides la carpal region. Pumn (Articulație Radiocarpiană) SPECIAL Scaphoid incidențe: |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Distal radius and ulna, carpals, and proximal metacarpals are visible.
-    - Carpals are visible, with adjacent interspaces more open on the medial (ulnar) side of the Pumn (Articulație Radiocarpiană) (Figs. 4.109 and 4.110). Position:
-    - Long axis of the Antebraț is aligned with the side border of IR.
-    - Extreme radial deviation is evidenced by the angle of the long axis of the metacarpals to that of the radius and ulna and the space between the triquetrum/pisiform and the styloid process of the ulna.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of the Pumn (Articulație Radiocarpiană) is evidenced by the appearance of the distal radius and ulna.
+    - distal radius și ulna, oase carpiene, și proximal oase metacarpiene sunt vizibil.
+    - oase carpiene sunt vizibil, cu adjacent interspaces more open pe medial (ulnar) side de Pumn (Articulație Radiocarpiană) (Figs. 4.109 și 4.110). poziție:
+    - axa longitudinală de Antebraț este aliniat cu side margine de receptorul de imagine.
+    - Extreme radial deviation este evidenced prin angle de axa longitudinală de oase metacarpiene la that de radius și ulna și space între triquetrum/pisiform și styloid process de ulna.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Pumn (Articulație Radiocarpiană) este evidenced prin appearance de distal radius și ulna.
 
 -   __5. Protecție Radiologică (ALARA)__
 

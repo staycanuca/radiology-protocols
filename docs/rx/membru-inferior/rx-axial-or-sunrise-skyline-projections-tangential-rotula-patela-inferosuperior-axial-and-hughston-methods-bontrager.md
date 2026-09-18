@@ -2,24 +2,25 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle CR 45° cephalad (CR tangential to patellofemoral joint).
+centering: Raza centrală se înclină 45° cranial (spre cap) (raza centrală tangențial
+  la patellofemoral articulație).
 clinical_indications:
 - Investigație diagnostică inițială sau de control pentru regiunea anatomică selectată
 images:
-- caption: Fig. 6.138 Inferosuperior axial projection—40° to 45° ﬂexion of knees.
+- caption: Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.138 Inferosuperior
-    axial projection—40° to 45° ﬂexion of knees.)
+    axial incidență—40° la 45° flexion de genunchi.)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg
-- caption: Fig. 6.139 Metoda Hughston—50° to 60° ﬂexion.
+- caption: Fig. 6.139 Metoda Hughston—50° la 60° flexion.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139
-    Hughston method—50° to 60° ﬂexion.)
+    Hughston method—50° la 60° flexion.)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Some authors suggest reduced flexion of only 20° to prevent the Rotulă (Patelă)
-  from being drawn into the patellofemoral groove, which may prevent detection of
-  subtle abnormalities in alignment.9 Rotulă (Patelă) Tangential Fig. 6.138 Inferosuperior
-  axial projection—40° to 45° flexion of knees. Fig. 6.139 Metoda Hughston—50° to
+notes: Some authors suggest reduced flexion de only 20° la prevent Rotulă (Patelă)
+  de la being drawn into patellofemoral groove, which poate prevent detection de subtle
+  abnormalities în alignment.9 Rotulă (Patelă) tangențial Fig. 6.138 Inferosuperior
+  axial incidență—40° la 45° flexion de genunchi. Fig. 6.139 Metoda Hughston—50° la
   60° flexion.
 position: Conform incidenței standard descrise
 protection:
@@ -29,10 +30,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă a regiunii anatomice explorate
-- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
-  moi
+- Vizualizarea completă regiunii anatomice explorate
+- Absența artefactelor de mișcare sau suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 sid_dff: 120 cm
 slug: rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager
 sources:
@@ -40,16 +40,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR
+title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR
   AXIAL AND HUGHSTON METHODS)
 ---
-# Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR AXIAL AND HUGHSTON METHODS)
+# Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR AXIAL AND HUGHSTON METHODS)
 
 
 <div class="rx-meta-bar">
@@ -83,7 +83,7 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - I
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** Angle CR 45° cephalad (CR tangential to patellofemoral joint).
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 45° cranial (spre cap) (raza centrală tangențial la patellofemoral articulație).
     - **Distanță Focar-Film (DFF / SID):** 120 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -99,16 +99,16 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - I
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
+    - Vizualizarea completă regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -121,7 +121,7 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - I
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Some authors suggest reduced flexion of only 20° to prevent the Rotulă (Patelă) from being drawn into the patellofemoral groove, which may prevent detection of subtle abnormalities in alignment.9 Rotulă (Patelă) Tangential Fig. 6.138 Inferosuperior axial projection—40° to 45° flexion of knees. Fig. 6.139 Metoda Hughston—50° to 60° flexion.
+    Some authors suggest reduced flexion de only 20° la prevent Rotulă (Patelă) de la being drawn into patellofemoral groove, which poate prevent detection de subtle abnormalities în alignment.9 Rotulă (Patelă) tangențial Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi. Fig. 6.139 Metoda Hughston—50° la 60° flexion.
 
 
 ### 🖼️ Imagini
@@ -130,17 +130,17 @@ title: Rx AXIAL OR SUNRISE/SKYLINE PROJECTIONS TANGENTIAL (Rotulă (Patelă) - I
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.138 Inferosuperior axial projection—40° to 45° ﬂexion of knees.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg)
+![Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.138 Inferosuperior axial projection—40° to 45° ﬂexion of knees.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.138 Inferosuperior axial projection—40° to 45° ﬂexion of knees.)</span></figcaption>
+<figcaption><strong>Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.139 Metoda Hughston—50° to 60° ﬂexion.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg)
+![Fig. 6.139 Metoda Hughston—50° la 60° flexion.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.139 Metoda Hughston—50° to 60° ﬂexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139 Hughston method—50° to 60° ﬂexion.)</span></figcaption>
+<figcaption><strong>Fig. 6.139 Metoda Hughston—50° la 60° flexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139 Hughston method—50° la 60° flexion.)</span></figcaption>
 
 </figure>
 

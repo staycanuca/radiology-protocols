@@ -24,44 +24,44 @@ protection:
   automată din template.
 - Colimare strictă pe mâna stângă
 quality_criteria:
-- Vizualizarea completă a oaselor carpiene, epifizelor și metafizelor radiusului,
-  ulnei, metacarpienelor și falangelor
+- Vizualizarea completă oaselor carpiene, epifizelor și metafizelor radiusului, ulnei,
+  metacarpienelor și falangelor
 - Degetele complet întinse, fără flexie sau suprapunere
 - Rezoluție osoasă fină care permite identificarea fuziunii cartilajelor de creștere
 sid_dff: 100 cm
 slug: rx-varsta-osoasa
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Image Gently Alliance
+  kind: Ghid pediatric de reducere a dozei
+  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
+  source_region: US
+  title: Image Gently — Pediatric Digital Radiography Protocols
+  url: https://www.imagegently.org/Procedures/Digital-Radiography
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: Comisia Europeană
+  kind: Ghid european oficial
+  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
+  source_region: UE
+  title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
+    pediatrică
+  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
 tech_params:
   aec_chambers: Manual
-  collimation: De la treimea distală a antebrațului stâng până la vârfurile degetelor
+  collimation: De la treimea distală antebrațului stâng până la vârfurile degetelor
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă
   kv: 45 - 50
   mas: 1.5 - 2.5
 title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
-sources:
-- title: Image Gently — Pediatric Digital Radiography Protocols
-  url: https://www.imagegently.org/Procedures/Digital-Radiography
-  institution: Image Gently Alliance
-  source_region: US
-  kind: Ghid pediatric de reducere a dozei
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: ac644092c369e9d44c6a3ff568ac3cec99309230b07ba31a10fdc827ebd9e8ef
-- title: Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia
-    pediatrică
-  url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
-  institution: Comisia Europeană
-  source_region: UE
-  kind: Ghid european oficial
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 25c987b787786a576863154c04db86bb8710acf0f513102efbb3b90b4131563e
 ---
-
 # Rx Vârstă Osoasă (Mână & Pumn Stâng)
+
 
 <div class="rx-meta-bar">
   <span class="rx-modality-badge">📷 Radiografie Convențională (Rx)</span>
-  <span><strong>Actualizat:</strong> 2026-09-13</span>
+  <span><strong>Actualizat:</strong> 2026-09-15</span>
   <span><strong>Autor:</strong> Departamentul de Radiologie</span>
 </div>
 
@@ -109,14 +109,14 @@ sources:
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Manual |
-    | **Colimare Fascicul** | De la treimea distală a antebrațului stâng până la vârfurile degetelor |
+    | **Colimare Fascicul** | De la treimea distală antebrațului stâng până la vârfurile degetelor |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă a oaselor carpiene, epifizelor și metafizelor radiusului, ulnei, metacarpienelor și falangelor
+    - Vizualizarea completă oaselor carpiene, epifizelor și metafizelor radiusului, ulnei, metacarpienelor și falangelor
     - Degetele complet întinse, fără flexie sau suprapunere
     - Rezoluție osoasă fină care permite identificarea fuziunii cartilajelor de creștere
 
@@ -140,7 +140,8 @@ sources:
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
-## Surse și revizuire
 
-- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography) — *Image Gently Alliance* (US)
-- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925) — *Comisia Europeană* (UE)
+## Surse de documentare
+
+- [Image Gently — Pediatric Digital Radiography Protocols](https://www.imagegently.org/Procedures/Digital-Radiography)
+- [Comisia Europeană (EUR 16260 / EUR 16261) — Criterii de calitate în radiologia pediatrică](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)

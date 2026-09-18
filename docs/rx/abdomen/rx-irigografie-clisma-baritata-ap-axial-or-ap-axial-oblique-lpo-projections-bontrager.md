@@ -1,37 +1,40 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration and expose on expiration.
+breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: Angle CR 30° to 40° cephalad. AP Direct CR 2 inches (5 cm) inferior to
-  level of ASIS and to MSP. LPO Direct CR 2 inches (5 cm) inferior and 2 inches (5
-  cm) medial to right ASIS. Center IR to CR.
+centering: Raza centrală se înclină 30°–40° cranial (spre cap). AP Direct raza centrală
+  2 inches (5 cm) inferior la level de spină iliacă antero-superioară (SIAS) și la
+  MSP. LPO Direct raza centrală 2 inches (5 cm) inferior și 2 inches (5 cm) medial
+  la drept spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine
+  pe raza centrală.
 clinical_indications:
-- Polyps or other pathologic processes in the rectosigmoid aspect of the large intestine
+- Polyps sau other pathologic processes în rectosigmoid aspect de intestin gros (colon)
 images:
-- caption: Fig. 13.84 AP axial—CR 30° to 40° cephalad. Inset, 30° to 40° LPO.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.84 AP axial—CR
-    30° to 40° cephalad. Inset, 30° to 40° LPO.)
+- caption: Fig. 13.84 AP axial—raza centrală 30° la 40° cranial. Inset, 30° la 40°
+    LPO.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.84 AP axial—raza
+    centrală 30° la 40° cranial. Inset, 30° la 40° LPO.)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_1.jpeg
 - caption: Fig. 13.85 AP axial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.85
     AP axial.)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_2.jpeg
-- caption: Fig. 13.86 AP axial oblique (LPO).
+- caption: Fig. 13.86 AP axial oblic (LPO).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.86
-    AP axial oblique (LPO).)
+    AP axial oblic (LPO).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Proceed as rapidly as possible. Similar views can be obtained with a PA axial
-  and an RAO with a 30° to 40° caudad CR angle (see following page). Irigografie (Clismă
-  Baritată) SPECIAL AP or LPO axial
-position: 'Pacient: Position patient Decubit Dorsal or partially rotated into an LPO
-  position, with a support for the head (Fig. 13.84).; Regiune anatomică: AP Axial
-  Position patient Decubit Dorsal and align MSP to midline of table. Extend legs;
-  place arms down by patient’s side or up across Torace; ensure Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase. LPO Rotate patient 30°
-  to 40° into LPO (left posterior side down). Raise right arm, with left arm extended
-  and right Genunchi partially flexed.'
+notes: Proceed ca rapidly ca possible. Similar incidențe poate fie obtained cu PA
+  axial și RAO cu a 30° la 40° caudal raza centrală angle (see following page). Irigografie
+  (Clismă Baritată) SPECIAL AP sau LPO axial
+position: 'Pacient: poziție pacient Decubit dorsal sau partially rotit into poziție
+  oblică posterioară stângă (OPS / LPO), cu support pentru capul (Fig. 13.84).; Regiune
+  anatomică: AP axial poziție pacient Decubit dorsal și align MSP la linia mediană
+  mesei. Extend membre inferioare; place brațe down prin pacient’s side sau up across
+  Torace; ensure Absența rotației anatomice: clavicule echidistante față de linia
+  apofizelor spinoase. LPO Rotate pacient 30° la 40° into LPO (stâng posterior side
+  down). Raise drept braț, cu stâng braț extins și drept Genunchi partially flectat.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,18 +42,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Elongated views of the rectosigmoid segments should be visible with less overlapping
-  of sigmoid loops than with a 90° Incidență Antero-Posterioară (AP). Position:'
-- 'AP axial: Adequate CR angulation is evidenced by elongation of rectosigmoid segments
-  of large intestine (Fig. 13.85).'
-- 'LPo axial: Adequate CR angulation and patient obliquity are evidenced by elongation
-  and less superimposition of rectosigmoid segments of large intestine (Fig. 13.86).'
-- 'Proper collimation field size is applied. Exposure:'
-- Optimal image receptor exposure and contrast to visualize outlines of all rectosigmoid
-  segments of large intestine.
-- Sharp structural margins indicate no motion. Fig. 13.84 AP axial—CR 30° to 40° cephalad.
-  Inset, 30° to 40° LPO. Fig. 13.85 AP axial. Sigmoid colon Rectum R Fig. 13.86 AP
-  axial oblique (LPO).
+- 'Elongated incidențe de rectosigmoid segments trebuie să fie vizibil cu less overlapping
+  de sigmoid loops than cu a 90° Incidență Antero-Posterioară (AP). poziție:'
+- 'AP axial: adecvat raza centrală angulation este evidenced prin elongation de rectosigmoid
+  segments de intestin gros (colon) (Fig. 13.85).'
+- 'LPo axial: adecvat raza centrală angulation și pacient obliquity sunt evidenced
+  prin elongation și less superimposition de rectosigmoid segments de intestin gros
+  (colon) (Fig. 13.86).'
+- 'corect collimation field size este applied. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize outlines de toate
+  rectosigmoid segments de intestin gros (colon).
+- net structural margins indicate fără mișcare. Fig. 13.84 AP axial—raza centrală
+  30° la 40° cranial. Inset, 30° la 40° LPO. Fig. 13.85 AP axial. Sigmoid intestin
+  gros (colon) Rectum R Fig. 13.86 AP axial oblic (LPO).
 sid_dff: 100 cm
 slug: rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager
 sources:
@@ -58,15 +62,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Strictă pe regiunea de interes anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PROJECTIONS
+title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) Incidență
 ---
-# Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PROJECTIONS
+# Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) Incidență
 
 
 <div class="rx-meta-bar">
@@ -85,7 +89,7 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
 
     === "Indicații Clinice"
 
-        - Polyps or other pathologic processes in the rectosigmoid aspect of the large intestine
+        - Polyps sau other pathologic processes în rectosigmoid aspect de intestin gros (colon)
 
     === "Ghid Național IRIS"
 
@@ -99,10 +103,10 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
 
     ---
 
-    - **Poziție Pacient:** Pacient: Position patient Decubit Dorsal or partially rotated into an LPO position, with a support for the head (Fig. 13.84).; Regiune anatomică: AP Axial Position patient Decubit Dorsal and align MSP to midline of table. Extend legs; place arms down by patient’s side or up across Torace; ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. LPO Rotate patient 30° to 40° into LPO (left posterior side down). Raise right arm, with left arm extended and right Genunchi partially flexed.
-    - **Punct de Centrare Fascicul:** Angle CR 30° to 40° cephalad. AP Direct CR 2 inches (5 cm) inferior to level of ASIS and to MSP. LPO Direct CR 2 inches (5 cm) inferior and 2 inches (5 cm) medial to right ASIS. Center IR to CR.
+    - **Poziție Pacient:** Pacient: poziție pacient Decubit dorsal sau partially rotit into poziție oblică posterioară stângă (OPS / LPO), cu support pentru capul (Fig. 13.84).; Regiune anatomică: AP axial poziție pacient Decubit dorsal și align MSP la linia mediană mesei. Extend membre inferioare; place brațe down prin pacient’s side sau up across Torace; ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. LPO Rotate pacient 30° la 40° into LPO (stâng posterior side down). Raise drept braț, cu stâng braț extins și drept Genunchi partially flectat.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 30°–40° cranial (spre cap). AP Direct raza centrală 2 inches (5 cm) inferior la level de spină iliacă antero-superioară (SIAS) și la MSP. LPO Direct raza centrală 2 inches (5 cm) inferior și 2 inches (5 cm) medial la drept spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration and expose on expiration.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,19 +120,19 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Strictă pe regiunea de interes anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Elongated views of the rectosigmoid segments should be visible with less overlapping of sigmoid loops than with a 90° Incidență Antero-Posterioară (AP). Position:
-    - AP axial: Adequate CR angulation is evidenced by elongation of rectosigmoid segments of large intestine (Fig. 13.85).
-    - LPo axial: Adequate CR angulation and patient obliquity are evidenced by elongation and less superimposition of rectosigmoid segments of large intestine (Fig. 13.86).
-    - Proper collimation field size is applied. Exposure:
-    - Optimal image receptor exposure and contrast to visualize outlines of all rectosigmoid segments of large intestine.
-    - Sharp structural margins indicate no motion. Fig. 13.84 AP axial—CR 30° to 40° cephalad. Inset, 30° to 40° LPO. Fig. 13.85 AP axial. Sigmoid colon Rectum R Fig. 13.86 AP axial oblique (LPO).
+    - Elongated incidențe de rectosigmoid segments trebuie să fie vizibil cu less overlapping de sigmoid loops than cu a 90° Incidență Antero-Posterioară (AP). poziție:
+    - AP axial: adecvat raza centrală angulation este evidenced prin elongation de rectosigmoid segments de intestin gros (colon) (Fig. 13.85).
+    - LPo axial: adecvat raza centrală angulation și pacient obliquity sunt evidenced prin elongation și less superimposition de rectosigmoid segments de intestin gros (colon) (Fig. 13.86).
+    - corect collimation field size este applied. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize outlines de toate rectosigmoid segments de intestin gros (colon).
+    - net structural margins indicate fără mișcare. Fig. 13.84 AP axial—raza centrală 30° la 40° cranial. Inset, 30° la 40° LPO. Fig. 13.85 AP axial. Sigmoid intestin gros (colon) Rectum R Fig. 13.86 AP axial oblic (LPO).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -141,7 +145,7 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Proceed as rapidly as possible. Similar views can be obtained with a PA axial and an RAO with a 30° to 40° caudad CR angle (see following page). Irigografie (Clismă Baritată) SPECIAL AP or LPO axial
+    Proceed ca rapidly ca possible. Similar incidențe poate fie obtained cu PA axial și RAO cu a 30° la 40° caudal raza centrală angle (see following page). Irigografie (Clismă Baritată) SPECIAL AP sau LPO axial
 
 
 ### 🖼️ Imagini
@@ -150,9 +154,9 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.84 AP axial—CR 30° to 40° cephalad. Inset, 30° to 40° LPO.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_1.jpeg)
+![Fig. 13.84 AP axial—raza centrală 30° la 40° cranial. Inset, 30° la 40° LPO.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.84 AP axial—CR 30° to 40° cephalad. Inset, 30° to 40° LPO.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.84 AP axial—CR 30° to 40° cephalad. Inset, 30° to 40° LPO.)</span></figcaption>
+<figcaption><strong>Fig. 13.84 AP axial—raza centrală 30° la 40° cranial. Inset, 30° la 40° LPO.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.84 AP axial—raza centrală 30° la 40° cranial. Inset, 30° la 40° LPO.)</span></figcaption>
 
 </figure>
 
@@ -166,9 +170,9 @@ title: Rx Irigografie (Clismă Baritată) AP AXIAL OR AP AXIAL OBLIQUE (LPO) PRO
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.86 AP axial oblique (LPO).](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_3.jpeg)
+![Fig. 13.86 AP axial oblic (LPO).](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 13.86 AP axial oblique (LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.86 AP axial oblique (LPO).)</span></figcaption>
+<figcaption><strong>Fig. 13.86 AP axial oblic (LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.86 AP axial oblic (LPO).)</span></figcaption>
 
 </figure>
 

@@ -1,21 +1,22 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration on inspiration.
+breathing: Apnee pe durata expunerii pe inspiration.
 category: torace
-centering: perpendicular to IR, centered to the level of T7, located 7 to 8 inches
-  below the vertebra proeminentă (apofiza spinoasă C7).
+centering: perpendicular pe receptorul de imagine, centrat pe level de T7, located
+  7 la 8 inches below vertebra proeminentă (apofiza spinoasă C7).
 clinical_indications:
-- Pathology of the Coaste (Grilaj Costal), including suspiciune de fractură and neoplastic
-  processes Oblique positions will demonstrate the axillary portion of the Coaste
-  (Grilaj Costal) that is not well seen on the APPA projections.
+- Pathology de Coaste (Grilaj Costal), including suspiciune de fractură și neoplastic
+  processes oblic poziții will evidențiază axillary portion de Coaste (Grilaj Costal)
+  that este nu well seen pe APPA incidențe.
 images:
-- caption: Fig. 10.42 RAO—injury to left anterior Coaste (Grilaj Costal), above diaphragm.
+- caption: Fig. 10.42 RAO—injury la stâng anterior Coaste (Grilaj Costal), above cupole
+    diafragmatice.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 10.42 RAO—injury
-    to left anterior ribs, above diaphragm.)
+    la stâng anterior coaste, above cupole diafragmatice.)
   url: assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_1.jpeg
-- caption: Fig. 10.43 PA Incidență Oblică. (Modiﬁed from Rollins J, Long B,
+- caption: Fig. 10.43 PA Incidență Oblică. (Modified de la Rollins J, Long B,
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.43
-    PA oblique projection. (Modiﬁed from Rollins J, Long B,)
+    PA oblic incidență. (Modified de la Rollins J, Long B,)
   url: assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -23,20 +24,20 @@ images:
   url: assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Use of a 72inch (180cm) SID and/or narrow Torace dimensions may allow the IR
-  to be positioned portrait. Additional Collimated Projection Some departmental routines
-  include one wellcollimated projection of the region of injury taken on a smaller
-  IR. Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior
-  Coaste (Grilaj Costal) (PA)— bilateral or unilateral study Axillary Coaste (Grilaj
-  Costal) (anterior or posterior oblique) PA Torace (see Chapter 2) Fig. 10.42 RAO—injury
-  to left anterior Coaste (Grilaj Costal), above diaphragm.
-position: 'Pacient: Ortostatism, facing the upright bucky, or Decubit Ventral if patient
-  condition requires.; Regiune anatomică: Rotate patient into 45° anterior oblique,
-  with affected side away from iR (Fig. 10.42). Raise elevated side arm above head;
-  extend opposite arm down and behind patient away from thorax. If Decubit, flex Genunchi
-  of elevated side to help maintain this position and support thorax with positioning
-  sponges if needed. Align thorax to the midline of the IR. (Ensure that side of interest
-  is not cut off.)'
+notes: Use de a 72inch (180cm) SID și/sau narrow Torace dimensions poate allow receptorul
+  de imagine la fie poziționat portrait. Additional Collimated incidență Some departmental
+  routines include one wellcollimated incidență de region de injury taken pe smaller
+  receptorul de imagine. Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal)
+  (AP) sau anterior Coaste (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary
+  Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2)
+  Fig. 10.42 RAO—injury la stâng anterior Coaste (Grilaj Costal), above cupole diafragmatice.
+position: 'Pacient: Ortostatism, facing stativ vertical Bucky, sau Decubit ventral
+  if pacient condition requires.; Regiune anatomică: Rotate pacient into 45° anterior
+  oblic, cu affected side away de la receptorul de imagine (Fig. 10.42). Raise ridicat
+  side braț above cap; extend opposite braț down și behind pacient away de la thorax.
+  If Decubit, flex Genunchi de ridicat side la help maintain this poziție și support
+  thorax cu positioning sponges if needed. Align thorax la linia mediană receptorul
+  de imagine. (Ensure that side de interest este nu cut off.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,20 +45,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Coaste (Grilaj Costal) 1 through 9 should be included and demonstrated above the
-  diaphragm, and axillary portion of the Coaste (Grilaj Costal) under examination
-  is projected without selfsuperimposition (Fig. 10.43). Position:'
-- An accurate 45° Incidență Oblică should demonstrate the axillary Coaste (Grilaj
-  Costal) in profile with the spine shifted away from the area of interest. The width
-  between the thoracic column and the lateral margin of the thorax on the side of
-  interest should be approximately twice that of the opposite side.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal)
-  through the lungs and heart shadow or through the dense abdominal organs if below
-  the diaphragm.
-- 'no motion, as demonstrated by sharp bony markings. L Axillary Coaste (Grilaj Costal)
-  Fig. 10.43 PA Incidență Oblică. (Modified from Rollins J, Long B, et al: Merrill’s
-  atlas of radiographic positioning and procedures, ed 15, St Louis, 2023, Elsevier.)'
+- 'Coaste (Grilaj Costal) 1 through 9 trebuie să fie included și evidențiat above
+  cupole diafragmatice, și axillary portion de Coaste (Grilaj Costal) under examination
+  este projected fără selfsuperimposition (Fig. 10.43). poziție:'
+- precis 45° Incidență Oblică trebuie să evidențiază axillary Coaste (Grilaj Costal)
+  în profile cu coloană vertebrală shifted away de la aria de interes diagnostic.
+  width între thoracic column și lateral margin de thorax pe side de interest trebuie
+  să fie approximately twice that de opposite side.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal)
+  through plămânii și heart shadow sau through dense abdominal organs if below cupole
+  diafragmatice.
+- 'fără mișcare, ca evidențiat prin net bony markings. L Axillary Coaste (Grilaj Costal)
+  Fig. 10.43 PA Incidență Oblică. (Modified de la Rollins J, Long B, et al: Merrill’s
+  atlas de radiographic positioning și procedures, ed 15, St Louis, 2023, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager
 sources:
@@ -65,15 +66,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate to region of interest.
+  collimation: Collimate la region de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAGM)
+title: Rx Grilaj Costal Axilar PA OBLIQUE Incidență (ABOVE DIAPHRAGM)
 ---
-# Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAGM)
+# Rx Grilaj Costal Axilar PA OBLIQUE Incidență (ABOVE DIAPHRAGM)
 
 
 <div class="rx-meta-bar">
@@ -92,7 +93,7 @@ title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAG
 
     === "Indicații Clinice"
 
-        - Pathology of the Coaste (Grilaj Costal), including suspiciune de fractură and neoplastic processes Oblique positions will demonstrate the axillary portion of the Coaste (Grilaj Costal) that is not well seen on the APPA projections.
+        - Pathology de Coaste (Grilaj Costal), including suspiciune de fractură și neoplastic processes oblic poziții will evidențiază axillary portion de Coaste (Grilaj Costal) that este nu well seen pe APPA incidențe.
 
     === "Ghid Național IRIS"
 
@@ -106,10 +107,10 @@ title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAG
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, facing the upright bucky, or Decubit Ventral if patient condition requires.; Regiune anatomică: Rotate patient into 45° anterior oblique, with affected side away from iR (Fig. 10.42). Raise elevated side arm above head; extend opposite arm down and behind patient away from thorax. If Decubit, flex Genunchi of elevated side to help maintain this position and support thorax with positioning sponges if needed. Align thorax to the midline of the IR. (Ensure that side of interest is not cut off.)
-    - **Punct de Centrare Fascicul:** perpendicular to IR, centered to the level of T7, located 7 to 8 inches below the vertebra proeminentă (apofiza spinoasă C7).
+    - **Poziție Pacient:** Pacient: Ortostatism, facing stativ vertical Bucky, sau Decubit ventral if pacient condition requires.; Regiune anatomică: Rotate pacient into 45° anterior oblic, cu affected side away de la receptorul de imagine (Fig. 10.42). Raise ridicat side braț above cap; extend opposite braț down și behind pacient away de la thorax. If Decubit, flex Genunchi de ridicat side la help maintain this poziție și support thorax cu positioning sponges if needed. Align thorax la linia mediană receptorul de imagine. (Ensure that side de interest este nu cut off.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe level de T7, located 7 la 8 inches below vertebra proeminentă (apofiza spinoasă C7).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration on inspiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii pe inspiration.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,18 +124,18 @@ title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAG
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate to region of interest. |
+    | **Colimare Fascicul** | Collimate la region de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Coaste (Grilaj Costal) 1 through 9 should be included and demonstrated above the diaphragm, and axillary portion of the Coaste (Grilaj Costal) under examination is projected without selfsuperimposition (Fig. 10.43). Position:
-    - An accurate 45° Incidență Oblică should demonstrate the axillary Coaste (Grilaj Costal) in profile with the spine shifted away from the area of interest. The width between the thoracic column and the lateral margin of the thorax on the side of interest should be approximately twice that of the opposite side.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast to visualize Coaste (Grilaj Costal) through the lungs and heart shadow or through the dense abdominal organs if below the diaphragm.
-    - no motion, as demonstrated by sharp bony markings. L Axillary Coaste (Grilaj Costal) Fig. 10.43 PA Incidență Oblică. (Modified from Rollins J, Long B, et al: Merrill’s atlas of radiographic positioning and procedures, ed 15, St Louis, 2023, Elsevier.)
+    - Coaste (Grilaj Costal) 1 through 9 trebuie să fie included și evidențiat above cupole diafragmatice, și axillary portion de Coaste (Grilaj Costal) under examination este projected fără selfsuperimposition (Fig. 10.43). poziție:
+    - precis 45° Incidență Oblică trebuie să evidențiază axillary Coaste (Grilaj Costal) în profile cu coloană vertebrală shifted away de la aria de interes diagnostic. width între thoracic column și lateral margin de thorax pe side de interest trebuie să fie approximately twice that de opposite side.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast la visualize Coaste (Grilaj Costal) through plămânii și heart shadow sau through dense abdominal organs if below cupole diafragmatice.
+    - fără mișcare, ca evidențiat prin net bony markings. L Axillary Coaste (Grilaj Costal) Fig. 10.43 PA Incidență Oblică. (Modified de la Rollins J, Long B, et al: Merrill’s atlas de radiographic positioning și procedures, ed 15, St Louis, 2023, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,7 +148,7 @@ title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAG
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Use of a 72inch (180cm) SID and/or narrow Torace dimensions may allow the IR to be positioned portrait. Additional Collimated Projection Some departmental routines include one wellcollimated projection of the region of injury taken on a smaller IR. Coaste (Grilaj Costal) ROUTINE Posterior Coaste (Grilaj Costal) (AP) or anterior Coaste (Grilaj Costal) (PA)— bilateral or unilateral study Axillary Coaste (Grilaj Costal) (anterior or posterior oblique) PA Torace (see Chapter 2) Fig. 10.42 RAO—injury to left anterior Coaste (Grilaj Costal), above diaphragm.
+    Use de a 72inch (180cm) SID și/sau narrow Torace dimensions poate allow receptorul de imagine la fie poziționat portrait. Additional Collimated incidență Some departmental routines include one wellcollimated incidență de region de injury taken pe smaller receptorul de imagine. Coaste (Grilaj Costal) ROUTINE posterior Coaste (Grilaj Costal) (AP) sau anterior Coaste (Grilaj Costal) (PA)— bilateral sau unilateral study Axillary Coaste (Grilaj Costal) (anterior sau posterior oblic) PA Torace (see Chapter 2) Fig. 10.42 RAO—injury la stâng anterior Coaste (Grilaj Costal), above cupole diafragmatice.
 
 
 ### 🖼️ Imagini
@@ -156,17 +157,17 @@ title: Rx AXILLARY Coaste (Grilaj Costal) PA OBLIQUE PROJECTIONS (ABOVE DIAPHRAG
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.42 RAO—injury to left anterior Coaste (Grilaj Costal), above diaphragm.](../../assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_1.jpeg)
+![Fig. 10.42 RAO—injury la stâng anterior Coaste (Grilaj Costal), above cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 10.42 RAO—injury to left anterior Coaste (Grilaj Costal), above diaphragm.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.42 RAO—injury to left anterior ribs, above diaphragm.)</span></figcaption>
+<figcaption><strong>Fig. 10.42 RAO—injury la stâng anterior Coaste (Grilaj Costal), above cupole diafragmatice.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 10.42 RAO—injury la stâng anterior coaste, above cupole diafragmatice.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 10.43 PA Incidență Oblică. (Modiﬁed from Rollins J, Long B,](../../assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_2.jpeg)
+![Fig. 10.43 PA Incidență Oblică. (Modified de la Rollins J, Long B,](../../assets/images/protocols/bontrager/rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 10.43 PA Incidență Oblică. (Modiﬁed from Rollins J, Long B,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.43 PA oblique projection. (Modiﬁed from Rollins J, Long B,)</span></figcaption>
+<figcaption><strong>Fig. 10.43 PA Incidență Oblică. (Modified de la Rollins J, Long B,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.43 PA oblic incidență. (Modified de la Rollins J, Long B,)</span></figcaption>
 
 </figure>
 

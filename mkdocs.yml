@@ -38,7 +38,9 @@ plugins:
   - awesome-pages
 
 hooks:
+  # Normalize search terms and keep RX navigation/catalog ordering consistent.
   - scripts/search_enhancer.py
+  - scripts/rx_catalog.py
 
 extra_css:
   - custom_css/extra.css

@@ -92,9 +92,16 @@ def on_post_build(config) -> None:
                 combined_tags = distinct_words
             doc['tags'] = combined_tags
 
-            # Append normalized text to ensure all body terms are matchable
-            doc['text'] = f"{text}\n{norm_title}\n{norm_text}"
+            # Add only missing normalized words, not a second copy of the body.
+            # Also remains stable if an incremental build reuses enhanced entries.
+            existing_words = set(re.findall(r'\w+', text.lower()))
+            normalized_words = dict.fromkeys(re.findall(r'\w+', (norm_title + ' ' + norm_text).lower()))
+            extra_words = [word for word in normalized_words if word not in existing_words]
+            doc['text'] = text + ('\n' + ' '.join(extra_words) if extra_words else '')
 
-        index_path.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+        # Readers must see either the complete old index or the complete new one.
+        temporary = index_path.with_suffix('.json.tmp')
+        temporary.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+        temporary.replace(index_path)
     except Exception as exc:
         print(f"[search_enhancer] Warning: could not enhance search index: {exc}")

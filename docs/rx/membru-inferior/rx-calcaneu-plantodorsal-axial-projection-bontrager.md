@@ -2,34 +2,36 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Direct CR to base of third metatarsal to emerge at a level just distal
-  to lateral malleolus. Angle CR 40° cephalad from long axis of Picior (which also
-  would be 40° from vertical if long axis of Picior is perpendicular to IR). (See
+centering: Raza centrală se orientează spre base de third metatarsal la emerge la
+  level just distal la maleolă laterală (fibulară). Raza centrală se înclină 40° cranial
+  (spre cap) de la axa longitudinală de Picior (which also would fie 40° de la vertical
+  if axa longitudinală de Picior este perpendicular pe receptorul de imagine). (See
   NOTE.)
 clinical_indications:
-- Pathologies or suspiciune de fractură with medial or lateral displacement
+- Pathologies sau suspiciune de fractură cu medial sau lateral displacement
 images:
-- caption: Fig. 6.72 Plantodorsal (axial) projection of Calcaneu.
+- caption: Fig. 6.72 Plantodorsal (axial) incidență de Calcaneu.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.72 Plantodorsal
-    (axial) projection of calcaneus.)
+    (axial) incidență de calcaneu.)
   url: assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_1.jpeg
-- caption: Fig. 6.73 Plantodorsal (axial) projection.
+- caption: Fig. 6.73 Plantodorsal (axial) incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.73
-    Plantodorsal (axial) projection.)
+    Plantodorsal (axial) incidență.)
   url: assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_2.jpeg
-- caption: Fig. 6.74 Plantodorsal (axial) projection.
+- caption: Fig. 6.74 Plantodorsal (axial) incidență.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.74
-    Plantodorsal (axial) projection.)
+    Plantodorsal (axial) incidență.)
   url: assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: CR angulation must be increased if long axis of plantar surface of Picior is
-  not perpendicular to IR. Calcaneu ROUTINE Plantodorsal (axial) Lateral Fig. 6.72
-  Plantodorsal (axial) projection of Calcaneu.
-position: 'Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table with
-  leg fully extended.; Regiune anatomică: Center and align Gleznă (Articulație Talocrurală)
-  joint to CR and to portion of IR being exposed. Dorsiflex Picior so that plantar
-  surface is near perpendicular to IR (Fig. 6.72).'
+notes: raza centrală angulation trebuie să fie increased if axa longitudinală de plantar
+  surface de Picior este nu perpendicular pe receptorul de imagine. Calcaneu ROUTINE
+  Plantodorsal (axial) lateral Fig. 6.72 Plantodorsal (axial) incidență de Calcaneu.
+position: 'Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table cu membru
+  inferior fully extins.; Regiune anatomică: Center și align Gleznă (Articulație Talocrurală)
+  articulație la raza centrală și la portion de receptorul de imagine being exposed.
+  Dorsiflex Picior so that plantar surface este near perpendicular pe receptorul de
+  imagine (Fig. 6.72).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -37,19 +39,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Calcaneu should be visualized from tuberosity posteriorly to subtalar joint
-  anteriorly (Figs. 6.73 and 6.74). Position:'
+- 'Entire Calcaneu trebuie să fie visualized de la tuberosity posteriorly la subtalar
+  articulație anteriorly (Figs. 6.73 și 6.74). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase;
-  a portion of the sustentaculum tali should appear in profile medially.'
-- With the Picior in proper 90° flexion, correct alignment and angulation of CR are
-  evidenced by open talocalcaneal joint space, no distortion of the calcaneal tuberosity,
-  and adequate elongation of the Calcaneu.
-- 'Collimation to area of interest. Exposure:'
-- Optimal image receptor exposure and contrast with no motion demonstrate sharp bony
-  margins and trabecular markings and at least faintly visualize talocalcaneal joint
-  without overexposing distal tuberosity area. Fig. 6.73 Plantodorsal (axial) projection.
-  Gleznă (Articulație Talocrurală) joint Peroneal trochlea (trochlear process) Sustentaculum
-  tali Tuberosity Lateral process Fig. 6.74 Plantodorsal (axial) projection.
+  portion de sustentaculum tali trebuie să appear în profile medially.'
+- cu Picior în corect 90° flexion, correct alignment și angulation de raza centrală
+  sunt evidenced prin open talocalcaneal spații articulare, fără distortion de calcaneal
+  tuberosity, și adecvat elongation de Calcaneu.
+- 'Collimation la aria de interes diagnostic. expunere:'
+- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază net
+  bony margins și trabecular markings și la least faintly visualize talocalcaneal
+  articulație fără overexposing distal tuberosity area. Fig. 6.73 Plantodorsal (axial)
+  incidență. Gleznă (Articulație Talocrurală) articulație Peroneal trochlea (trochlear
+  process) Sustentaculum tali Tuberosity lateral process Fig. 6.74 Plantodorsal (axial)
+  incidență.
 sid_dff: 100 cm
 slug: rx-calcaneu-plantodorsal-axial-projection-bontrager
 sources:
@@ -57,15 +60,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate closely to region of Calcaneu.
+  collimation: Collimate closely la region de Calcaneu.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
+title: Rx Calcaneu PLANTODORSAL (AXIAL) Incidență
 ---
-# Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
+# Rx Calcaneu PLANTODORSAL (AXIAL) Incidență
 
 
 <div class="rx-meta-bar">
@@ -84,7 +87,7 @@ title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
 
     === "Indicații Clinice"
 
-        - Pathologies or suspiciune de fractură with medial or lateral displacement
+        - Pathologies sau suspiciune de fractură cu medial sau lateral displacement
 
     === "Ghid Național IRIS"
 
@@ -98,8 +101,8 @@ title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place patient Decubit Dorsal or Poziție Șezândă on table with leg fully extended.; Regiune anatomică: Center and align Gleznă (Articulație Talocrurală) joint to CR and to portion of IR being exposed. Dorsiflex Picior so that plantar surface is near perpendicular to IR (Fig. 6.72).
-    - **Punct de Centrare Fascicul:** Direct CR to base of third metatarsal to emerge at a level just distal to lateral malleolus. Angle CR 40° cephalad from long axis of Picior (which also would be 40° from vertical if long axis of Picior is perpendicular to IR). (See NOTE.)
+    - **Poziție Pacient:** Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table cu membru inferior fully extins.; Regiune anatomică: Center și align Gleznă (Articulație Talocrurală) articulație la raza centrală și la portion de receptorul de imagine being exposed. Dorsiflex Picior so that plantar surface este near perpendicular pe receptorul de imagine (Fig. 6.72).
+    - **Punct de Centrare Fascicul:** Raza centrală se orientează spre base de third metatarsal la emerge la level just distal la maleolă laterală (fibulară). Raza centrală se înclină 40° cranial (spre cap) de la axa longitudinală de Picior (which also would fie 40° de la vertical if axa longitudinală de Picior este perpendicular pe receptorul de imagine). (See NOTE.)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -115,18 +118,18 @@ title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate closely to region of Calcaneu. |
+    | **Colimare Fascicul** | Collimate closely la region de Calcaneu. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Calcaneu should be visualized from tuberosity posteriorly to subtalar joint anteriorly (Figs. 6.73 and 6.74). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; a portion of the sustentaculum tali should appear in profile medially.
-    - With the Picior in proper 90° flexion, correct alignment and angulation of CR are evidenced by open talocalcaneal joint space, no distortion of the calcaneal tuberosity, and adequate elongation of the Calcaneu.
-    - Collimation to area of interest. Exposure:
-    - Optimal image receptor exposure and contrast with no motion demonstrate sharp bony margins and trabecular markings and at least faintly visualize talocalcaneal joint without overexposing distal tuberosity area. Fig. 6.73 Plantodorsal (axial) projection. Gleznă (Articulație Talocrurală) joint Peroneal trochlea (trochlear process) Sustentaculum tali Tuberosity Lateral process Fig. 6.74 Plantodorsal (axial) projection.
+    - Entire Calcaneu trebuie să fie visualized de la tuberosity posteriorly la subtalar articulație anteriorly (Figs. 6.73 și 6.74). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; portion de sustentaculum tali trebuie să appear în profile medially.
+    - cu Picior în corect 90° flexion, correct alignment și angulation de raza centrală sunt evidenced prin open talocalcaneal spații articulare, fără distortion de calcaneal tuberosity, și adecvat elongation de Calcaneu.
+    - Collimation la aria de interes diagnostic. expunere:
+    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază net bony margins și trabecular markings și la least faintly visualize talocalcaneal articulație fără overexposing distal tuberosity area. Fig. 6.73 Plantodorsal (axial) incidență. Gleznă (Articulație Talocrurală) articulație Peroneal trochlea (trochlear process) Sustentaculum tali Tuberosity lateral process Fig. 6.74 Plantodorsal (axial) incidență.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -139,7 +142,7 @@ title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    CR angulation must be increased if long axis of plantar surface of Picior is not perpendicular to IR. Calcaneu ROUTINE Plantodorsal (axial) Lateral Fig. 6.72 Plantodorsal (axial) projection of Calcaneu.
+    raza centrală angulation trebuie să fie increased if axa longitudinală de plantar surface de Picior este nu perpendicular pe receptorul de imagine. Calcaneu ROUTINE Plantodorsal (axial) lateral Fig. 6.72 Plantodorsal (axial) incidență de Calcaneu.
 
 
 ### 🖼️ Imagini
@@ -148,25 +151,25 @@ title: Rx Calcaneu PLANTODORSAL (AXIAL) PROJECTION
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.72 Plantodorsal (axial) projection of Calcaneu.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_1.jpeg)
+![Fig. 6.72 Plantodorsal (axial) incidență de Calcaneu.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.72 Plantodorsal (axial) projection of Calcaneu.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.72 Plantodorsal (axial) projection of calcaneus.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.73 Plantodorsal (axial) projection.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.73 Plantodorsal (axial) projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.73 Plantodorsal (axial) projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.72 Plantodorsal (axial) incidență de Calcaneu.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.72 Plantodorsal (axial) incidență de calcaneu.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.74 Plantodorsal (axial) projection.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_3.jpeg)
+![Fig. 6.73 Plantodorsal (axial) incidență.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.74 Plantodorsal (axial) projection.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.74 Plantodorsal (axial) projection.)</span></figcaption>
+<figcaption><strong>Fig. 6.73 Plantodorsal (axial) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.73 Plantodorsal (axial) incidență.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.74 Plantodorsal (axial) incidență.](../../assets/images/protocols/bontrager/rx-calcaneu-plantodorsal-axial-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.74 Plantodorsal (axial) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.74 Plantodorsal (axial) incidență.)</span></figcaption>
 
 </figure>
 

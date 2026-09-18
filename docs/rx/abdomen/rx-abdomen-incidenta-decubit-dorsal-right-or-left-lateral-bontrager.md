@@ -1,46 +1,48 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Exposure is made at the end of expiration.
+breathing: Expunerea se efectuează în apnee la sfârșitul expirului complet.
 category: abdomen
-centering: horizontal to center of IR at creasta iliacă (corespunzător L4-L5) and/or
-  2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) to include diaphragm
+centering: orizontal la center de receptorul de imagine la creasta iliacă (corespunzător
+  L4-L5) și/sau 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) la include
+  cupole diafragmatice
 clinical_indications:
-- Abnormal masses, accumulations of gas, airfluid levels, aneurysms (widening or dilation
-  of the wall of an artery, vein, or the heart)
-- Calcification of aorta or other vessels
-- Umbilical hernia
+- Formațiuni tumorale, acumulări anormale de gaze, nivele hidroaerice, anevrisme vasculare
+  (dilatarea calibrului vascular)
+- Calcificări patologice ale aortei abdominale sau ale altor vase mari
+- Hernie ombilicală
 images:
-- caption: Fig. 3.42 Dorsal decubitus—right Incidență de Profil (Lateral).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.42 Dorsal decubitus—right
-    lateral position.)
+- caption: Fig. 3.42 dorsal decubit—drept Incidență de Profil (lateral).
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.42 dorsal decubit—drept
+    poziție de profil (lateral).)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 3.43 Dorsal decubitus—right Incidență de Profil (Lateral).
+- caption: Fig. 3.43 dorsal decubit—drept Incidență de Profil (lateral).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.43
-    Dorsal decubitus—right lateral position.)
+    dorsal decubit—drept poziție de profil (lateral).)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 3.44 Dorsal decubitus—right Incidență de Profil (Lateral).
+- caption: Fig. 3.44 dorsal decubit—drept Incidență de Profil (lateral).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.44
-    Dorsal decubitus—right lateral position.)
+    dorsal decubit—drept poziție de profil (lateral).)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: This may be taken as a right or left lateral; appropriate R or L lateral marker
-  should be used, indicating the side closest to IR. Abdomen SPECIAL PA Decubit Ventral
-  Lateral decubitus (AP) AP Ortostatism Dorsal decubitus (lateral) Lateral Fig. 3.42
-  Dorsal decubitus—right Incidență de Profil (Lateral). Fig. 3.43 Dorsal decubitus—right
-  Incidență de Profil (Lateral). Prevertebral region Iliac wings Gas in intestines
-  Fig. 3.44 Dorsal decubitus—right Incidență de Profil (Lateral).
-position: 'Pacient: Decubit Dorsal on radiolucent pad, side against table or vertical
-  grid device; secure cart so that it does not move away from table or grid device.
-  Ensure that neither the patient nor the cart is tilted in relation to the IR. Pillow
-  under head, arms up beside head; support under partially flexed knees may be more
-  comfortable for the patient (Fig. 3.42).; Regiune anatomică: Adjust patient and
-  cart so that center of IR and CR is at level of creasta iliacă (corespunzător L4-L5)
-  or 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) to include diaphragm.
-  Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase of Bazin (Pelvis) or shoulders exists (both ASIS should be the same distance
-  from tabletop). Adjust height of IR to align midcoronal plane with centerline of
-  IR.'
+notes: This poate fie taken ca drept sau stâng lateral; appropriate R sau L lateral
+  marker trebuie să fie used, indicating side closest la receptorul de imagine. Abdomen
+  SPECIAL PA Decubit ventral lateral decubit (AP) AP Ortostatism dorsal decubit (lateral)
+  lateral Fig. 3.42 dorsal decubit—drept Incidență de Profil (lateral). Fig. 3.43
+  dorsal decubit—drept Incidență de Profil (lateral). Prevertebral region Iliac wings
+  Gas în intestines Fig. 3.44 dorsal decubit—drept Incidență de Profil (lateral).
+position: 'Pacient: Decubit dorsal pe radiolucent pad, side against table sau stativ
+  vertical Bucky; secure cart so that it does nu move away de la table sau grilă device.
+  Ensure that neither pacientul nor cart este tilted în relation la receptorul de
+  imagine. Pillow under cap, brațe up beside cap; support under partially flectat
+  genunchi poate fie more comfortable pentru pacientul (Fig. 3.42).; Regiune anatomică:
+  Adjust pacient și cart so that center de receptorul de imagine și raza centrală
+  este la level de creasta iliacă (corespunzător L4-L5) sau 2 inches (5 cm) above
+  creasta iliacă (corespunzător L4-L5) la include cupole diafragmatice. Se verifică
+  absența rotației: claviculele sunt riguros echidistante față de linia proceselor
+  spinoase Bazin (bazin (pelvis)) sau umeri exists (ambele spină iliacă antero-superioară
+  (SIAS) trebuie să fie same distance de la tabletop). Adjust height de receptorul
+  de imagine la align plan mediocoronal cu centerline de receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,17 +50,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Diaphragm and as much of lower Abdomen as possible should be included.
-- Airfilled loops of bowel in the Abdomen with soft tissue detail should be visible
-  in anterior Abdomen and prevertebral regions (Figs. 3.43 and 3.44). Position
+- cupole diafragmatice și ca much de etajul abdominal inferior ca possible trebuie
+  să fie included.
+- Airfilled loops de bowel în abdomenul cu părți moi detail trebuie să fie vizibil
+  în anterior Abdomen și prevertebral regions (Figs. 3.43 și 3.44). poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  as evident by superimposition of posterior Coaste (Grilaj Costal) and posterior
-  borders of iliac wings and bilateral ASIS.'
-- No tilt as evident by symmetric appearance of intervertebral foramen.
-- Collimation to area of interest. Exposure
-- no motion; rib and gas bubble margins appear sharp.
-- Lumbar vertebrae may appear underexposed with soft tissue detail visible in anterior
-  Abdomen and in prevertebral region of lower lumbar vertebra.
+  ca evident prin superimposition de posterior Coaste (Grilaj Costal) și posterior
+  margini de iliac wings și bilateral spină iliacă antero-superioară (SIAS).'
+- fără tilt ca evident prin simetric appearance de intervertebral foramen.
+- Collimation la aria de interes diagnostic. expunere
+- fără mișcare; rib și gas bubble margins appear net.
+- coloană lombară poate appear underexposed cu părți moi detail vizibil în anterior
+  Abdomen și în prevertebral region de lower lumbar vertebra.
 sid_dff: 100 cm
 slug: rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager
 sources:
@@ -66,8 +69,8 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: is essential because of increased scatter produced by exposure of tissue
-    outside the area of interest.
+  collimation: este essential because de increased scatter produced prin expunere
+    de tissue outside aria de interes diagnostic.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -94,9 +97,9 @@ title: Rx Abdomen Incidență Decubit Dorsal (RIGHT OR LEFT LATERAL)
 
     === "Indicații Clinice"
 
-        - Abnormal masses, accumulations of gas, airfluid levels, aneurysms (widening or dilation of the wall of an artery, vein, or the heart)
-        - Calcification of aorta or other vessels
-        - Umbilical hernia
+        - Formațiuni tumorale, acumulări anormale de gaze, nivele hidroaerice, anevrisme vasculare (dilatarea calibrului vascular)
+        - Calcificări patologice ale aortei abdominale sau ale altor vase mari
+        - Hernie ombilicală
 
     === "Ghid Național IRIS"
 
@@ -110,10 +113,10 @@ title: Rx Abdomen Incidență Decubit Dorsal (RIGHT OR LEFT LATERAL)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Decubit Dorsal on radiolucent pad, side against table or vertical grid device; secure cart so that it does not move away from table or grid device. Ensure that neither the patient nor the cart is tilted in relation to the IR. Pillow under head, arms up beside head; support under partially flexed knees may be more comfortable for the patient (Fig. 3.42).; Regiune anatomică: Adjust patient and cart so that center of IR and CR is at level of creasta iliacă (corespunzător L4-L5) or 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) to include diaphragm. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis) or shoulders exists (both ASIS should be the same distance from tabletop). Adjust height of IR to align midcoronal plane with centerline of IR.
-    - **Punct de Centrare Fascicul:** horizontal to center of IR at creasta iliacă (corespunzător L4-L5) and/or 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) to include diaphragm
+    - **Poziție Pacient:** Pacient: Decubit dorsal pe radiolucent pad, side against table sau stativ vertical Bucky; secure cart so that it does nu move away de la table sau grilă device. Ensure that neither pacientul nor cart este tilted în relation la receptorul de imagine. Pillow under cap, brațe up beside cap; support under partially flectat genunchi poate fie more comfortable pentru pacientul (Fig. 3.42).; Regiune anatomică: Adjust pacient și cart so that center de receptorul de imagine și raza centrală este la level de creasta iliacă (corespunzător L4-L5) sau 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) la include cupole diafragmatice. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase Bazin (bazin (pelvis)) sau umeri exists (ambele spină iliacă antero-superioară (SIAS) trebuie să fie same distance de la tabletop). Adjust height de receptorul de imagine la align plan mediocoronal cu centerline de receptorul de imagine.
+    - **Punct de Centrare Fascicul:** orizontal la center de receptorul de imagine la creasta iliacă (corespunzător L4-L5) și/sau 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) la include cupole diafragmatice
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Exposure is made at the end of expiration.
+    - **Comandă Respiratorie:** Expunerea se efectuează în apnee la sfârșitul expirului complet.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -127,20 +130,20 @@ title: Rx Abdomen Incidență Decubit Dorsal (RIGHT OR LEFT LATERAL)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | is essential because of increased scatter produced by exposure of tissue outside the area of interest. |
+    | **Colimare Fascicul** | este essential because de increased scatter produced prin expunere de tissue outside aria de interes diagnostic. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Diaphragm and as much of lower Abdomen as possible should be included.
-    - Airfilled loops of bowel in the Abdomen with soft tissue detail should be visible in anterior Abdomen and prevertebral regions (Figs. 3.43 and 3.44). Position
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase as evident by superimposition of posterior Coaste (Grilaj Costal) and posterior borders of iliac wings and bilateral ASIS.
-    - No tilt as evident by symmetric appearance of intervertebral foramen.
-    - Collimation to area of interest. Exposure
-    - no motion; rib and gas bubble margins appear sharp.
-    - Lumbar vertebrae may appear underexposed with soft tissue detail visible in anterior Abdomen and in prevertebral region of lower lumbar vertebra.
+    - cupole diafragmatice și ca much de etajul abdominal inferior ca possible trebuie să fie included.
+    - Airfilled loops de bowel în abdomenul cu părți moi detail trebuie să fie vizibil în anterior Abdomen și prevertebral regions (Figs. 3.43 și 3.44). poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evident prin superimposition de posterior Coaste (Grilaj Costal) și posterior margini de iliac wings și bilateral spină iliacă antero-superioară (SIAS).
+    - fără tilt ca evident prin simetric appearance de intervertebral foramen.
+    - Collimation la aria de interes diagnostic. expunere
+    - fără mișcare; rib și gas bubble margins appear net.
+    - coloană lombară poate appear underexposed cu părți moi detail vizibil în anterior Abdomen și în prevertebral region de lower lumbar vertebra.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,7 +156,7 @@ title: Rx Abdomen Incidență Decubit Dorsal (RIGHT OR LEFT LATERAL)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This may be taken as a right or left lateral; appropriate R or L lateral marker should be used, indicating the side closest to IR. Abdomen SPECIAL PA Decubit Ventral Lateral decubitus (AP) AP Ortostatism Dorsal decubitus (lateral) Lateral Fig. 3.42 Dorsal decubitus—right Incidență de Profil (Lateral). Fig. 3.43 Dorsal decubitus—right Incidență de Profil (Lateral). Prevertebral region Iliac wings Gas in intestines Fig. 3.44 Dorsal decubitus—right Incidență de Profil (Lateral).
+    This poate fie taken ca drept sau stâng lateral; appropriate R sau L lateral marker trebuie să fie used, indicating side closest la receptorul de imagine. Abdomen SPECIAL PA Decubit ventral lateral decubit (AP) AP Ortostatism dorsal decubit (lateral) lateral Fig. 3.42 dorsal decubit—drept Incidență de Profil (lateral). Fig. 3.43 dorsal decubit—drept Incidență de Profil (lateral). Prevertebral region Iliac wings Gas în intestines Fig. 3.44 dorsal decubit—drept Incidență de Profil (lateral).
 
 
 ### 🖼️ Imagini
@@ -162,25 +165,25 @@ title: Rx Abdomen Incidență Decubit Dorsal (RIGHT OR LEFT LATERAL)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.42 Dorsal decubitus—right Incidență de Profil (Lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_1.jpeg)
+![Fig. 3.42 dorsal decubit—drept Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 3.42 Dorsal decubitus—right Incidență de Profil (Lateral).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.42 Dorsal decubitus—right lateral position.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 3.43 Dorsal decubitus—right Incidență de Profil (Lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 3.43 Dorsal decubitus—right Incidență de Profil (Lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.43 Dorsal decubitus—right lateral position.)</span></figcaption>
+<figcaption><strong>Fig. 3.42 dorsal decubit—drept Incidență de Profil (lateral).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.42 dorsal decubit—drept poziție de profil (lateral).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.44 Dorsal decubitus—right Incidență de Profil (Lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_3.jpeg)
+![Fig. 3.43 dorsal decubit—drept Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 3.44 Dorsal decubitus—right Incidență de Profil (Lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.44 Dorsal decubitus—right lateral position.)</span></figcaption>
+<figcaption><strong>Fig. 3.43 dorsal decubit—drept Incidență de Profil (lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.43 dorsal decubit—drept poziție de profil (lateral).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 3.44 dorsal decubit—drept Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 3.44 dorsal decubit—drept Incidență de Profil (lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.44 dorsal decubit—drept poziție de profil (lateral).)</span></figcaption>
 
 </figure>
 

@@ -1,38 +1,39 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Suspend respiration during exposure. Bazin (Pelvis) SPECIAL AP axial outlet
-  projection Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.
+breathing: Apnee pe durata expunerii. Bazin (bazin (pelvis)) SPECIAL AP axial outlet
+  incidență Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.
 category: membru-inferior
-centering: Angle CR cephalad 20 to 35 degrees for males and 30 to 45 degrees for females.
-  (These different angles are caused by differences in the shape of male and female
-  pelvises. See section Male versus Female Bazin (Pelvis) Differences on pp. 271–272.)
-  Direct CR to a midline point 1 to 2 inches (2.5 to 5 cm) distal to the superior
-  border of the simfiza pubiană or marele trohanters.
+centering: Angle raza centrală cranial 20 la 35 grade pentru males și 30 la 45 grade
+  pentru females. (These different angles sunt caused prin differences în shape de
+  male și female pelvises. See section Male versus Female Bazin (bazin (pelvis)) Differences
+  pe pp. 271–272.) Raza centrală se orientează spre midline point 1 la 2 inches (2.5
+  la 5 cm) distal la superior margine de simfiza pubiană sau marele trohanters.
 clinical_indications:
-- Bilateral view of the bilateral pubis and ischium to allow assessment of pelvic
-  traumatism acuttism / Regim Urgență for suspiciune de fractură and displacement
+- bilateral incidență de bilateral pubis și ischium la allow assessment de pelvic
+  traumatism acuttism / Regim Urgență pentru suspiciune de fractură și displacement
 images:
-- caption: Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.
+- caption: Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.47 AP axial
-    outlet projection—CR 40 degrees cephalad.)
+    outlet incidență—raza centrală 40 grade cranial.)
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_1.jpeg
-- caption: Fig. 7.48 AP axial outlet projection. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 7.48 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.48
-    AP axial outlet projection. (Courtesy Joss Wertz, DO.))
+    AP axial outlet incidență. (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_2.jpeg
-- caption: Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 7.49 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.49
-    AP axial outlet projection. (Courtesy Joss Wertz, DO.))
+    AP axial outlet incidență. (Courtesy Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: With patient Decubit Dorsal, provide pillow for head. With patient’s
-  legs extended, place support under knees for comfort (Fig. 7.47).; Regiune anatomică:
-  Align midsagittal plane to CR and to midline of table and/or IR. Ensure Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of
-  Bazin (Pelvis) (ASISto- tabletop distance equal on both sides). Center IR to projected
-  CR.'
+position: 'Pacient: cu pacient Decubit dorsal, provide pillow pentru cap. cu pacient’s
+  membre inferioare extins, place support under genunchi pentru comfort (Fig. 7.47).;
+  Regiune anatomică: Align plan mediosagital la raza centrală și la linia mediană
+  mesei și/sau receptorul de imagine. Ensure Absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) (ASISto-
+  tabletop distance equal pe ambele părți (bilateral)). Se centrează receptorul de
+  imagine pe proiecția razei centrale.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,21 +41,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Superior and inferior rami of pubis and body and ramus of ischium are demonstrated
-  well, with minimal foreshortening or superimposition (Figs. 7.48 and 7.49). Position:'
+- 'superior și inferior rami de pubis și corp și ramus de ischium sunt evidențiat
+  well, cu minimal foreshortening sau superimposition (Figs. 7.48 și 7.49). poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  Obturator foramina and bilateral ischia are equal in size and shape. Correct CR
-  angle evidenced by demonstration of the anterior/inferior pelvic bones, with minimal
-  foreshortening. Midpoint of symphysis joint should be at center of collimated field.'
-- 'Collimation field size to area of interest. Exposure:'
-- Body and superior rami of pubis are well demonstrated without overexposure of ischial
+  găuri obturatoare și bilateral ischia sunt equal în size și shape. Correct raza
+  centrală angle evidenced prin demonstration de anterior/inferior pelvic bones, cu
+  minimal foreshortening. Midpoint de simfiză articulație trebuie să fie la center
+  de câmp colimat.'
+- 'Collimation field size la aria de interes diagnostic. expunere:'
+- corp și superior rami de pubis sunt well evidențiat fără overexposure de ischial
   rami.
-- Bony margins and trabecular markings of pubic and ischial bones appear sharp, indicating
-  no motion. R MM Decubit Dorsal Fig. 7.48 AP axial outlet projection. (Courtesy Joss
-  Wertz, DO.) R MM Decubit Dorsal Obturator foramen Body of pubis Superior ramus of
-  the pubis Acetabulum Illium Lower body of ischium Ischial tuberosity Ramus of ischium
-  Inferior ramus of pubis Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz,
-  DO.)
+- Bony margins și trabecular markings de pubic și ischial bones appear net, indicating
+  fără mișcare. R MM Decubit dorsal Fig. 7.48 AP axial outlet incidență. (Courtesy
+  Joss Wertz, DO.) R MM Decubit dorsal găuri obturatoare corp de pubis superior ramus
+  de pubis cotil (acetabul) Illium Lower corp de ischium tuberozități ischiatice Ramus
+  de ischium inferior ramus de pubis Fig. 7.49 AP axial outlet incidență. (Courtesy
+  Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager
 sources:
@@ -62,7 +64,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate on four sides to anatomy of interest.
+  collimation: Collimate pe four sides la anatomy de interest.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -90,7 +92,7 @@ title: Rx Bazin (Pelvis) AP AXIAL OUTLET PROJECTION7 (INFERIOR PELVIC BONES) (TA
 
     === "Indicații Clinice"
 
-        - Bilateral view of the bilateral pubis and ischium to allow assessment of pelvic traumatism acuttism / Regim Urgență for suspiciune de fractură and displacement
+        - bilateral incidență de bilateral pubis și ischium la allow assessment de pelvic traumatism acuttism / Regim Urgență pentru suspiciune de fractură și displacement
 
     === "Ghid Național IRIS"
 
@@ -104,10 +106,10 @@ title: Rx Bazin (Pelvis) AP AXIAL OUTLET PROJECTION7 (INFERIOR PELVIC BONES) (TA
 
     ---
 
-    - **Poziție Pacient:** Pacient: With patient Decubit Dorsal, provide pillow for head. With patient’s legs extended, place support under knees for comfort (Fig. 7.47).; Regiune anatomică: Align midsagittal plane to CR and to midline of table and/or IR. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase of Bazin (Pelvis) (ASISto- tabletop distance equal on both sides). Center IR to projected CR.
-    - **Punct de Centrare Fascicul:** Angle CR cephalad 20 to 35 degrees for males and 30 to 45 degrees for females. (These different angles are caused by differences in the shape of male and female pelvises. See section Male versus Female Bazin (Pelvis) Differences on pp. 271–272.) Direct CR to a midline point 1 to 2 inches (2.5 to 5 cm) distal to the superior border of the simfiza pubiană or marele trohanters.
+    - **Poziție Pacient:** Pacient: cu pacient Decubit dorsal, provide pillow pentru cap. cu pacient’s membre inferioare extins, place support under genunchi pentru comfort (Fig. 7.47).; Regiune anatomică: Align plan mediosagital la raza centrală și la linia mediană mesei și/sau receptorul de imagine. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) (ASISto- tabletop distance equal pe ambele părți (bilateral)). Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Angle raza centrală cranial 20 la 35 grade pentru males și 30 la 45 grade pentru females. (These different angles sunt caused prin differences în shape de male și female pelvises. See section Male versus Female Bazin (bazin (pelvis)) Differences pe pp. 271–272.) Raza centrală se orientează spre midline point 1 la 2 inches (2.5 la 5 cm) distal la superior margine de simfiza pubiană sau marele trohanters.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Suspend respiration during exposure. Bazin (Pelvis) SPECIAL AP axial outlet projection Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Bazin (bazin (pelvis)) SPECIAL AP axial outlet incidență Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,18 +123,18 @@ title: Rx Bazin (Pelvis) AP AXIAL OUTLET PROJECTION7 (INFERIOR PELVIC BONES) (TA
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate on four sides to anatomy of interest. |
+    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Superior and inferior rami of pubis and body and ramus of ischium are demonstrated well, with minimal foreshortening or superimposition (Figs. 7.48 and 7.49). Position:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: Obturator foramina and bilateral ischia are equal in size and shape. Correct CR angle evidenced by demonstration of the anterior/inferior pelvic bones, with minimal foreshortening. Midpoint of symphysis joint should be at center of collimated field.
-    - Collimation field size to area of interest. Exposure:
-    - Body and superior rami of pubis are well demonstrated without overexposure of ischial rami.
-    - Bony margins and trabecular markings of pubic and ischial bones appear sharp, indicating no motion. R MM Decubit Dorsal Fig. 7.48 AP axial outlet projection. (Courtesy Joss Wertz, DO.) R MM Decubit Dorsal Obturator foramen Body of pubis Superior ramus of the pubis Acetabulum Illium Lower body of ischium Ischial tuberosity Ramus of ischium Inferior ramus of pubis Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz, DO.)
+    - superior și inferior rami de pubis și corp și ramus de ischium sunt evidențiat well, cu minimal foreshortening sau superimposition (Figs. 7.48 și 7.49). poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: găuri obturatoare și bilateral ischia sunt equal în size și shape. Correct raza centrală angle evidenced prin demonstration de anterior/inferior pelvic bones, cu minimal foreshortening. Midpoint de simfiză articulație trebuie să fie la center de câmp colimat.
+    - Collimation field size la aria de interes diagnostic. expunere:
+    - corp și superior rami de pubis sunt well evidențiat fără overexposure de ischial rami.
+    - Bony margins și trabecular markings de pubic și ischial bones appear net, indicating fără mișcare. R MM Decubit dorsal Fig. 7.48 AP axial outlet incidență. (Courtesy Joss Wertz, DO.) R MM Decubit dorsal găuri obturatoare corp de pubis superior ramus de pubis cotil (acetabul) Illium Lower corp de ischium tuberozități ischiatice Ramus de ischium inferior ramus de pubis Fig. 7.49 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -152,25 +154,25 @@ title: Rx Bazin (Pelvis) AP AXIAL OUTLET PROJECTION7 (INFERIOR PELVIC BONES) (TA
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_1.jpeg)
+![Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.47 AP axial outlet projection—CR 40 degrees cephalad.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.48 AP axial outlet projection. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.48 AP axial outlet projection. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.48 AP axial outlet projection. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.47 AP axial outlet incidență—raza centrală 40 grade cranial.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_3.jpeg)
+![Fig. 7.48 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.49 AP axial outlet projection. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 7.48 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.48 AP axial outlet incidență. (Courtesy Joss Wertz, DO.))</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.49 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-bazin-pelvis-ap-axial-outlet-projection7-inferior-pelvic-bones-taylor-method-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.49 AP axial outlet incidență. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.49 AP axial outlet incidență. (Courtesy Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 
