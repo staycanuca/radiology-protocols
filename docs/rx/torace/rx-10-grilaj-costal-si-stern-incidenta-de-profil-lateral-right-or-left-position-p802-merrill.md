@@ -8,10 +8,10 @@ centering: perpendicular pe centrul receptorului de imagine și entering lateral
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 803, imaginea 1
+- caption: Merrill — pagina 803, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p803_fig1.png
-- caption: Merrill — pagina PDF 804, imaginea 2
+- caption: Merrill — pagina 804, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p804_fig2.png
 last_updated: '2026-09-16'
@@ -116,8 +116,8 @@ source_sections:
 
     30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 10. Bony Thorax, pagini PDF 802–804
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=802
+- title: Merrill’s Atlas, 10. Bony Thorax, pagini 802–804
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
@@ -208,17 +208,17 @@ title: Rx Grilaj Costal și Stern — Incidență de Profil (Lateral) — Profil
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 803, imaginea 1](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p803_fig1.png)
+![Merrill — pagina 803, imaginea 1](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p803_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 803, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 803, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 804, imaginea 2](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p804_fig2.png)
+![Merrill — pagina 804, imaginea 2](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill/p804_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 804, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 804, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -235,7 +235,7 @@ title: Rx Grilaj Costal și Stern — Incidență de Profil (Lateral) — Profil
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 10. Bony Thorax, pagini PDF 802–804](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=802)
+- [Merrill’s Atlas, 10. Bony Thorax, pagini 802–804](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

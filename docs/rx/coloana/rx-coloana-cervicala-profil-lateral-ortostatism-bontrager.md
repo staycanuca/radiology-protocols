@@ -1,44 +1,46 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii pe Expir complet (pentru maximum Umăr depression).
+breathing: Apnee pe durata expunerii în expir complet (pentru depresia maximă a umărului).
 category: coloana
-centering: perpendicular pe receptorul de imagine. Direct raza centrală horizontally
-  la C4 (level de upper margin de cartilaj tiroid (mărul lui Adam)). Se centrează
-  receptorul de imagine pe raza centrală.
+centering: perpendicular pe receptorul de imagine. Orientați raza centrală orizontal
+  spre C4 (la nivelul marginii superioare a cartilajului tiroid (mărul lui Adam)).
+  Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology involving Coloană Cervicală și adjacent părți moi structures, degenerative
-  diseases including spondylosis și artroză / modificări degenerative articulare
+- Patologie care implică coloana cervicală și structurile adiacente ale părților moi,
+  boli degenerative inclusiv spondiloză și artroză / modificări degenerative articulare
 images:
 - caption: Fig. 8.57 stâng lateral.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.57 stâng lateral.)
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 8.57 stâng
+    lateral.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_1.jpeg
 - caption: Fig. 8.58 stâng lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.58
     stâng lateral.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_2.jpeg
-- caption: Fig. 8.56 Ortostatism stâng lateral.
+- caption: Fig. 8.56 ortostatism stâng lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.56
     în ortostatism stâng lateral.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Adding weights (5–10 lb [2.3–4.5 kg]) cu straps suspended de la fiecare Pumn
-  (Articulație Radiocarpiană) poate help în pulling down umeri. Coloană Cervicală
-  ROUTINE AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.57
-  stâng lateral. Odontoid process (C2) posterior arch (C1) Intervertebral articulație
-  (C6-7) Articular pillar (C7) Zygapophyseal articulație (C4-5) Spinous process (C2)
-  Fig. 8.58 stâng lateral. Fig. 8.56 Ortostatism stâng lateral.
-position: 'Pacient: Incidență de Profil (lateral) poziție pacient în Ortostatism Incidență
-  de Profil (lateral), either așezat sau în ortostatism, cu Umăr against vertical
-  receptorul de imagine.; Regiune anatomică: Align plan mediocoronal la raza centrală
-  și linia mediană mesei și/sau receptorul de imagine. Se centrează receptorul de
-  imagine pe raza centrală, which trebuie să place top de receptorul de imagine about
-  1 la 2 inches (2.5 la 5 cm) above extern auditory meatus (conduct auditiv extern
-  (CAE)) (Fig. 8.56). Depress umeri (pentru equal weights la ambele brațe [see NOTE
-  2]). Ask pacient la relax și drop umeri down și forward ca far ca possible. (Do
-  this ca last step before expunere because this poziție este difficult la maintain.)
-  Elevate chin la place linie acantiomeatală (LAM) paralel cu floor. Protract chin
-  (la prevent superimposition de Mandibulă pe upper vertebre).'
+notes: Adăugarea unor greutăți (5–10 lb [2.3–4.5 kg]) cu benzi suspendate de la fiecare
+  pumn (articulație radiocarpiană) poate ajuta la coborârea umerilor. Coloană cervicală
+  DE RUTINĂ AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.57
+  stâng lateral. Proces odontoid (C2) arc posterior (C1) articulație intervertebrală
+  (C6-7) pilier articular (C7) articulație zigapofizară (C4-5) proces spinos (C2)
+  Fig. 8.58 stâng lateral. Fig. 8.56 ortostatism stâng lateral.
+position: 'Pacient: Incidență de profil, poziția pacientului în ortostatism. Incidență
+  de profil, fie așezat, fie în ortostatism, cu umărul sprijinit de receptorul de
+  imagine vertical. Regiune anatomică: Aliniați planul mediocoronal cu raza centrală
+  și cu linia mediană a mesei și/sau receptorul de imagine. Centrați receptorul de
+  imagine pe raza centrală, care trebuie să plaseze partea superioară a receptorului
+  de imagine la aproximativ 1 la 2 inches (2.5 la 5 cm) deasupra meatului auditiv
+  extern (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți
+  egale la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și
+  să lase umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim
+  pas înainte de expunere, deoarece această poziție este dificil de menținut.) Ridicați
+  bărbia pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați
+  bărbia anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,20 +48,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Cervical vertebral corpuri, intervertebral spații articulare, articular pillars,
-  procese spinoase, și zygapophyseal articulații (Figs. 8.57 și 8.58). poziție
-- C1 through C7–T1 intervertebral spații articulare sunt clar vizibil(e). If upper
-  margin de T1 este nu evidențiat, additional imagini such ca cervicothoracic lateral
-  trebuie să fie obtained.
-- rami de Mandibulă do nu superimpose C1 la C2.
-- drept și stâng articular pillars și zygapophyseal articulații trebuie să fie superimposed
-  pentru fiecare vertebra.
-- corpuri trebuie să fie liber de superimposition de articular pillars și spinous
-  process seen în profile.
-- Collimation la aria de interes diagnostic. expunere
-- optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi
-  margins, including margins de trachea, și de bony margins și trabecular markings
-  de coloană cervicală.
+- Corpurile vertebrale cervicale, spațiile articulare intervertebrale, pilierii articulari,
+  procesele spinoase și articulațiile zigapofizare (Fig. 8.57 și 8.58). Poziție
+- Spațiile articulare intervertebrale C1 până la C7–T1 sunt clar vizibile. Dacă marginea
+  superioară a T1 nu este evidențiată, trebuie obținute imagini suplimentare, cum
+  ar fi incidența laterală cervicotoracică.
+- Ramurile mandibulei nu se suprapun peste C1 până la C2.
+- Pilierii articulari drept și stâng și articulațiile zigapofizare trebuie să fie
+  suprapuși pentru fiecare vertebră.
+- Corpurile trebuie să fie libere de suprapunerea pilierilor articulari, iar procesul
+  spinos trebuie să fie evidențiat de profil.
+- Colimare la aria de interes diagnostic. Expunere
+- Expunere și contrast optime ale receptorului de imagine. Evidențiere clară a marginilor
+  părților moi, inclusiv marginile traheei, precum și a marginilor osoase și a desenului
+  trabecular al coloanei cervicale.
 - fără mișcare.
 sid_dff: 180 cm
 slug: rx-coloana-cervicala-profil-lateral-ortostatism-bontrager
@@ -68,7 +70,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe four sides la anatomy de interest.
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Conform grosimii anatomice (> 10 cm cu grilă)
@@ -95,7 +97,7 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
 
     === "Indicații Clinice"
 
-        - Pathology involving Coloană Cervicală și adjacent părți moi structures, degenerative diseases including spondylosis și artroză / modificări degenerative articulare
+        - Patologie care implică coloana cervicală și structurile adiacente ale părților moi, boli degenerative inclusiv spondiloză și artroză / modificări degenerative articulare
 
     === "Ghid Național IRIS"
 
@@ -109,10 +111,10 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Incidență de Profil (lateral) poziție pacient în Ortostatism Incidență de Profil (lateral), either așezat sau în ortostatism, cu Umăr against vertical receptorul de imagine.; Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau receptorul de imagine. Se centrează receptorul de imagine pe raza centrală, which trebuie să place top de receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above extern auditory meatus (conduct auditiv extern (CAE)) (Fig. 8.56). Depress umeri (pentru equal weights la ambele brațe [see NOTE 2]). Ask pacient la relax și drop umeri down și forward ca far ca possible. (Do this ca last step before expunere because this poziție este difficult la maintain.) Elevate chin la place linie acantiomeatală (LAM) paralel cu floor. Protract chin (la prevent superimposition de Mandibulă pe upper vertebre).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Direct raza centrală horizontally la C4 (level de upper margin de cartilaj tiroid (mărul lui Adam)). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: Incidență de profil, poziția pacientului în ortostatism. Incidență de profil, fie așezat, fie în ortostatism, cu umărul sprijinit de receptorul de imagine vertical. Regiune anatomică: Aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau receptorul de imagine. Centrați receptorul de imagine pe raza centrală, care trebuie să plaseze partea superioară a receptorului de imagine la aproximativ 1 la 2 inches (2.5 la 5 cm) deasupra meatului auditiv extern (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți egale la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și să lase umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim pas înainte de expunere, deoarece această poziție este dificil de menținut.) Ridicați bărbia pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați bărbia anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Orientați raza centrală orizontal spre C4 (la nivelul marginii superioare a cartilajului tiroid (mărul lui Adam)). Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii pe Expir complet (pentru maximum Umăr depression).
+    - **Comandă Respiratorie:** Apnee pe durata expunerii în expir complet (pentru depresia maximă a umărului).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -126,20 +128,20 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Cervical vertebral corpuri, intervertebral spații articulare, articular pillars, procese spinoase, și zygapophyseal articulații (Figs. 8.57 și 8.58). poziție
-    - C1 through C7–T1 intervertebral spații articulare sunt clar vizibil(e). If upper margin de T1 este nu evidențiat, additional imagini such ca cervicothoracic lateral trebuie să fie obtained.
-    - rami de Mandibulă do nu superimpose C1 la C2.
-    - drept și stâng articular pillars și zygapophyseal articulații trebuie să fie superimposed pentru fiecare vertebra.
-    - corpuri trebuie să fie liber de superimposition de articular pillars și spinous process seen în profile.
-    - Collimation la aria de interes diagnostic. expunere
-    - optim receptorul de imagine expunere și contrast. Clear demonstration de părți moi margins, including margins de trachea, și de bony margins și trabecular markings de coloană cervicală.
+    - Corpurile vertebrale cervicale, spațiile articulare intervertebrale, pilierii articulari, procesele spinoase și articulațiile zigapofizare (Fig. 8.57 și 8.58). Poziție
+    - Spațiile articulare intervertebrale C1 până la C7–T1 sunt clar vizibile. Dacă marginea superioară a T1 nu este evidențiată, trebuie obținute imagini suplimentare, cum ar fi incidența laterală cervicotoracică.
+    - Ramurile mandibulei nu se suprapun peste C1 până la C2.
+    - Pilierii articulari drept și stâng și articulațiile zigapofizare trebuie să fie suprapuși pentru fiecare vertebră.
+    - Corpurile trebuie să fie libere de suprapunerea pilierilor articulari, iar procesul spinos trebuie să fie evidențiat de profil.
+    - Colimare la aria de interes diagnostic. Expunere
+    - Expunere și contrast optime ale receptorului de imagine. Evidențiere clară a marginilor părților moi, inclusiv marginile traheei, precum și a marginilor osoase și a desenului trabecular al coloanei cervicale.
     - fără mișcare.
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -153,7 +155,7 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Adding weights (5–10 lb [2.3–4.5 kg]) cu straps suspended de la fiecare Pumn (Articulație Radiocarpiană) poate help în pulling down umeri. Coloană Cervicală ROUTINE AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.57 stâng lateral. Odontoid process (C2) posterior arch (C1) Intervertebral articulație (C6-7) Articular pillar (C7) Zygapophyseal articulație (C4-5) Spinous process (C2) Fig. 8.58 stâng lateral. Fig. 8.56 Ortostatism stâng lateral.
+    Adăugarea unor greutăți (5–10 lb [2.3–4.5 kg]) cu benzi suspendate de la fiecare pumn (articulație radiocarpiană) poate ajuta la coborârea umerilor. Coloană cervicală DE RUTINĂ AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.57 stâng lateral. Proces odontoid (C2) arc posterior (C1) articulație intervertebrală (C6-7) pilier articular (C7) articulație zigapofizară (C4-5) proces spinos (C2) Fig. 8.58 stâng lateral. Fig. 8.56 ortostatism stâng lateral.
 
 
 ### 🖼️ Imagini
@@ -164,7 +166,7 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
 
 ![Fig. 8.57 stâng lateral.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.57 stâng lateral.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.57 stâng lateral.)</span></figcaption>
+<figcaption><strong>Fig. 8.57 stâng lateral.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 8.57 stâng lateral.)</span></figcaption>
 
 </figure>
 
@@ -178,9 +180,9 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.56 Ortostatism stâng lateral.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_3.jpeg)
+![Fig. 8.56 ortostatism stâng lateral.](../../assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 8.56 Ortostatism stâng lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.56 în ortostatism stâng lateral.)</span></figcaption>
+<figcaption><strong>Fig. 8.56 ortostatism stâng lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.56 în ortostatism stâng lateral.)</span></figcaption>
 
 </figure>
 

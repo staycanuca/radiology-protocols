@@ -3,23 +3,24 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: • raza centrală orizontală centrală este centred la point vertically below
-  proces mastoidian la nivelul prominence de cartilaj tiroid (mărul lui Adam).
+centering: • Raza centrală orizontală este centrată în punctul situat vertical sub
+  procesul mastoidian, la nivelul proeminenței cartilajului tiroid (mărul lui Adam).
 clinical_indications:
-- "Atlanto-Axială subluxation este seen pe Profil (lateral) incidență, especially\
-  \ în flexion (where appropriate). Care este needed în making this diagnosis în children,\
-  \ în whom normal space este larger (adults \b2 mm, children 3–5 mm)."
-- Visualization de margins de gaură occipitală mare (foramen magnum) poate fie difficult
-  but este necessary pentru diagnosis de various Craniu-base abnormalities, such ca
-  basilar invagination. It will fie obscured prin incorrect expunere sau presence
-  de earrings.
-- secondary sign de vertebral injury este tumefiere de soft tissues anterior la vertebral
-  corp (normal thickness este less than depth de normal vertebral corp). This poate
-  fie mimicked prin flexion de gâtul – always try la obtain filme radiologice în neutral
-  poziție.
+- Subluxația atlanto-axială este vizibilă pe incidența de profil, în special în flexie,
+  dacă este adecvat. Este necesară precauție la stabilirea acestui diagnostic la copii,
+  la care spațiul normal este mai mare (adulți 2 mm, copii 3–5 mm).
+- Vizualizarea marginilor găurii occipitale mari (foramen magnum) poate fi dificilă,
+  dar este necesară pentru diagnosticul diferitelor anomalii ale bazei craniului,
+  cum ar fi invaginația bazilară. Aceasta va fi obscurată de expunerea incorectă sau
+  de prezența cerceilor.
+- Un semn secundar al leziunii vertebrale este tumefierea țesuturilor moi anterioare
+  corpului vertebral (grosimea normală este mai mică decât profunzimea corpului vertebral
+  normal). Aceasta poate fi mimată de flexia gâtului – se încearcă întotdeauna obținerea
+  radiografiilor în poziție neutră.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -33,63 +34,64 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_4.jpeg
-- caption: making this diagnosis în children, în whom normal space
+- caption: la stabilirea acestui diagnostic la copii, la care spațiul normal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_5.jpeg
-- caption: abnormalities, such ca basilar invagination. It will fie obscured
+- caption: anomalii, cum ar fi invaginația bazilară. Aceasta va fi obscurată
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_6.jpeg
-- caption: tissues anterior la vertebral corp (normal thickness este less
+- caption: țesuturilor anterioare corpului vertebral (grosimea normală este mai mică
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_7.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• large object-la-film radiologic distance (OFD) will increase geometric unsharpness.
-  This este overcome prin increasing focusto-film radiologic distance (FFD) la 150
+notes: '• Distanța mare obiect–film radiologic (OFD) va crește neclaritatea geometrică.
+  Aceasta este depășită prin creșterea distanței focar–film radiologic (FFD) la 150
   cm.
 
-  • air gap între neck și film radiologic eliminates need la employ secondary radiation
-  grilă la attenuate scatter.'
-position: '• pacientul stă în ortostatism sau sits cu either Umăr sprijinit pe casetă.
+  • Spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării
+  unei grile antidifuzante pentru atenuarea radiației secundare.'
+position: '• Pacientul stă în ortostatism sau stă cu unul dintre umeri sprijinit pe
+  casetă.
 
-  • planul mediosagital trebuie să fie ajustat such that it este paralel cu casetă.
+  • Planul mediosagital trebuie ajustat astfel încât să fie paralel cu caseta.
 
-  • capul trebuie să fie flectat sau extins astfel încât angle de Mandibulă este nu
-  superimposed over upper anterior cervical vertebra sau occipital bone does nu obscure
-  posterior arch de atlas.
+  • Capul trebuie flectat sau extins astfel încât unghiul mandibulei să nu se suprapună
+  peste vertebra cervicală anterioară superioară sau osul occipital să nu obscurizeze
+  arcul posterior al atlasului.
 
-  • la aid imobilizare, pacientul trebuie să stand cu picioarele slightly apart și
-  cu Umăr resting sprijinit pe casetă stand.
+  • Pentru a ajuta la imobilizare, pacientul trebuie să stea cu picioarele ușor depărtate
+  și cu umărul sprijinit pe suportul casetei.
 
-  • în order la evidențiază lower cervical vertebra, umerii trebuie să fie coborât,
-  ca vizualizat în photograph.
+  • Pentru evidențierea vertebrelor cervicale inferioare, umerii trebuie coborâți,
+  după cum se vede în fotografie.
 
-  This poate fie achieved prin asking pacientul la relax their umeri downwards. process
-  poate fie aided prin asking pacientul la hold weight în fiecare Mână (if they sunt
-  capable) și making expunere pe arrested expiration.
+  Acest lucru poate fi realizat cerându-i pacientului să-și relaxeze umerii în jos.
+  Procesul poate fi ajutat cerându-i pacientului să țină câte o greutate în fiecare
+  mână (dacă este capabil) și efectuând expunerea în apnee după expir.
 
 
-  • pacientul will normally arrive în Decubit dorsal poziție.
+  • Pacientul va ajunge în mod normal în decubit dorsal.
 
-  • It este vitally important pentru pacientul la depress umerii (assuming fără other
-  injuries la brațele).
+  • Este extrem de important ca pacientul să-și coboare umerii (presupunând că nu
+  există alte leziuni ale brațelor).
 
-  • caseta poate fie either sprijinit vertically sau plasat în Ortostatism casetă
-  holder, cu top de caseta la same level ca top de ear.
+  • Caseta poate fi fie sprijinită vertical, fie plasată într-un suport de casetă
+  pentru ortostatism, cu partea superioară a casetei la același nivel cu partea superioară
+  a urechii.
 
-  (contd) Profil (lateral) Decubit dorsal incidență evidențiind suspiciune de fractură
-  luxație articulară de C5/C6 Positioning pentru Profil (lateral) Decubit dorsal incidență'
+  (continuare) Incidență de profil în decubit dorsal, evidențiind suspiciunea de fractură-luxație
+  articulară C5/C6 Poziționare pentru incidența de profil în decubit dorsal'
 protection:
-- Care should be taken when collimating to avoid including the eyes within the primary
-  beam. Profil (Lateral) Decubit Dorsal For trauma cases, the patient’s condition
-  usually requires the examination to be performed on a casualty trolley. The Profil
-  (Lateral) cervical spine projection is taken first, without moving the patient.
-  The resulting radiograph must be examined by a medical officer to establish whether
-  the patient’s neck can be moved for other projections. See Section 16 for additional
-  information.
+- Trebuie acordată atenție la colimare pentru a evita includerea ochilor în fasciculul
+  primar. Profil (Lateral) Decubit Dorsal În cazurile de traumatism, starea pacientului
+  impune de obicei efectuarea examinării pe un cărucior de urgență. Incidența de profil
+  a coloanei cervicale se efectuează prima, fără a mișca pacientul. Radiografia obținută
+  trebuie examinată de un medic pentru a stabili dacă gâtul pacientului poate fi mișcat
+  pentru alte incidențe. A se vedea Secțiunea 16 pentru informații suplimentare.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -97,32 +99,34 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- whole de cervical coloană vertebrală trebuie să fie included, de la atlanto-occipital
-  articulații la top de first thoracic vertebra.
-- Mandibulă sau occipital bone does nu obscure orice part de upper vertebra.
-- Angles de Mandibulă și Profil (lateral) portions de floor de posterior cranial fossa
-  trebuie să fie superimposed.
-- Soft tissues de gâtul trebuie să fie included.
-- contrast trebuie să produce densities sufficient la evidențiază părți moi și bony
-  detail. 168 Floor de posterior cranial fossa (occipital bone) Angle de Mandibulă
-  C1 C2 C3 C4 C5 C6 C7 T1 Prevertebral părți moi umeri coborât
-- 'Erori de evitat / remedii: Failure la evidențiază C7/T1: if pacientul cannot depress
-  umerii, even when menținerea weights, then swimmers’ incidență trebuie să fie considered.'
-- 'Erori de evitat / remedii: Care trebuie să fie taken cu poziție de lead name blocker.
-  Important anatomy poate easily fie obscured, especially when using small casetă.'
+- Întreaga coloană cervicală trebuie inclusă, de la articulațiile atlanto-occipitale
+  până la partea superioară a primei vertebre toracice.
+- Mandibula sau osul occipital nu trebuie să obscurizeze nicio parte a vertebrei superioare.
+- Unghiurile mandibulei și porțiunile de profil ale planșeului fosei craniene posterioare
+  trebuie să fie suprapuse.
+- Țesuturile moi ale gâtului trebuie incluse.
+- Contrastul trebuie să producă densități suficiente pentru evidențierea țesuturilor
+  moi și a detaliilor osoase. 168 Planșeul fosei craniene posterioare (os occipital)
+  Unghiul mandibulei C1 C2 C3 C4 C5 C6 C7 T1 Țesuturi moi prevertebrale umeri coborâți
+- 'Erori de evitat / remedii: Nevizualizarea C7/T1: dacă pacientul nu își poate coborî
+  umerii, chiar și atunci când ține greutăți, trebuie luată în considerare incidența
+  înotătorului.'
+- 'Erori de evitat / remedii: Trebuie acordată atenție poziției blocatorului de plumb.
+  Anatomia importantă poate fi ușor obscurizată, în special la utilizarea unei casete
+  mici.'
 sid_dff: 100 cm
 slug: rx-coloana-cervicala-incidente-standard-de-baza-p183-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 183
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=183
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Coloană Cervicală Incidențe Standard de Bază
 ---
 # Rx Coloană Cervicală Incidențe Standard de Bază
@@ -144,9 +148,9 @@ title: Rx Coloană Cervicală Incidențe Standard de Bază
 
     === "Indicații Clinice"
 
-        - Atlanto-Axială subluxation este seen pe Profil (lateral) incidență, especially în flexion (where appropriate). Care este needed în making this diagnosis în children, în whom normal space este larger (adults 2 mm, children 3–5 mm).
-        - Visualization de margins de gaură occipitală mare (foramen magnum) poate fie difficult but este necessary pentru diagnosis de various Craniu-base abnormalities, such ca basilar invagination. It will fie obscured prin incorrect expunere sau presence de earrings.
-        - secondary sign de vertebral injury este tumefiere de soft tissues anterior la vertebral corp (normal thickness este less than depth de normal vertebral corp). This poate fie mimicked prin flexion de gâtul – always try la obtain filme radiologice în neutral poziție.
+        - Subluxația atlanto-axială este vizibilă pe incidența de profil, în special în flexie, dacă este adecvat. Este necesară precauție la stabilirea acestui diagnostic la copii, la care spațiul normal este mai mare (adulți 2 mm, copii 3–5 mm).
+        - Vizualizarea marginilor găurii occipitale mari (foramen magnum) poate fi dificilă, dar este necesară pentru diagnosticul diferitelor anomalii ale bazei craniului, cum ar fi invaginația bazilară. Aceasta va fi obscurată de expunerea incorectă sau de prezența cerceilor.
+        - Un semn secundar al leziunii vertebrale este tumefierea țesuturilor moi anterioare corpului vertebral (grosimea normală este mai mică decât profunzimea corpului vertebral normal). Aceasta poate fi mimată de flexia gâtului – se încearcă întotdeauna obținerea radiografiilor în poziție neutră.
 
     === "Ghid Național IRIS"
 
@@ -160,18 +164,18 @@ title: Rx Coloană Cervicală Incidențe Standard de Bază
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism sau sits cu either Umăr sprijinit pe casetă.
-• planul mediosagital trebuie să fie ajustat such that it este paralel cu casetă.
-• capul trebuie să fie flectat sau extins astfel încât angle de Mandibulă este nu superimposed over upper anterior cervical vertebra sau occipital bone does nu obscure posterior arch de atlas.
-• la aid imobilizare, pacientul trebuie să stand cu picioarele slightly apart și cu Umăr resting sprijinit pe casetă stand.
-• în order la evidențiază lower cervical vertebra, umerii trebuie să fie coborât, ca vizualizat în photograph.
-This poate fie achieved prin asking pacientul la relax their umeri downwards. process poate fie aided prin asking pacientul la hold weight în fiecare Mână (if they sunt capable) și making expunere pe arrested expiration.
+    - **Poziție Pacient:** • Pacientul stă în ortostatism sau stă cu unul dintre umeri sprijinit pe casetă.
+• Planul mediosagital trebuie ajustat astfel încât să fie paralel cu caseta.
+• Capul trebuie flectat sau extins astfel încât unghiul mandibulei să nu se suprapună peste vertebra cervicală anterioară superioară sau osul occipital să nu obscurizeze arcul posterior al atlasului.
+• Pentru a ajuta la imobilizare, pacientul trebuie să stea cu picioarele ușor depărtate și cu umărul sprijinit pe suportul casetei.
+• Pentru evidențierea vertebrelor cervicale inferioare, umerii trebuie coborâți, după cum se vede în fotografie.
+Acest lucru poate fi realizat cerându-i pacientului să-și relaxeze umerii în jos. Procesul poate fi ajutat cerându-i pacientului să țină câte o greutate în fiecare mână (dacă este capabil) și efectuând expunerea în apnee după expir.
 
-• pacientul will normally arrive în Decubit dorsal poziție.
-• It este vitally important pentru pacientul la depress umerii (assuming fără other injuries la brațele).
-• caseta poate fie either sprijinit vertically sau plasat în Ortostatism casetă holder, cu top de caseta la same level ca top de ear.
-(contd) Profil (lateral) Decubit dorsal incidență evidențiind suspiciune de fractură luxație articulară de C5/C6 Positioning pentru Profil (lateral) Decubit dorsal incidență
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este centred la point vertically below proces mastoidian la nivelul prominence de cartilaj tiroid (mărul lui Adam).
+• Pacientul va ajunge în mod normal în decubit dorsal.
+• Este extrem de important ca pacientul să-și coboare umerii (presupunând că nu există alte leziuni ale brațelor).
+• Caseta poate fi fie sprijinită vertical, fie plasată într-un suport de casetă pentru ortostatism, cu partea superioară a casetei la același nivel cu partea superioară a urechii.
+(continuare) Incidență de profil în decubit dorsal, evidențiind suspiciunea de fractură-luxație articulară C5/C6 Poziționare pentru incidența de profil în decubit dorsal
+    - **Punct de Centrare Fascicul:** • Raza centrală orizontală este centrată în punctul situat vertical sub procesul mastoidian, la nivelul proeminenței cartilajului tiroid (mărul lui Adam).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -182,31 +186,31 @@ This poate fie achieved prin asking pacientul la relax their umeri downwards. pr
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - whole de cervical coloană vertebrală trebuie să fie included, de la atlanto-occipital articulații la top de first thoracic vertebra.
-    - Mandibulă sau occipital bone does nu obscure orice part de upper vertebra.
-    - Angles de Mandibulă și Profil (lateral) portions de floor de posterior cranial fossa trebuie să fie superimposed.
-    - Soft tissues de gâtul trebuie să fie included.
-    - contrast trebuie să produce densities sufficient la evidențiază părți moi și bony detail. 168 Floor de posterior cranial fossa (occipital bone) Angle de Mandibulă C1 C2 C3 C4 C5 C6 C7 T1 Prevertebral părți moi umeri coborât
-    - Erori de evitat / remedii: Failure la evidențiază C7/T1: if pacientul cannot depress umerii, even when menținerea weights, then swimmers’ incidență trebuie să fie considered.
-    - Erori de evitat / remedii: Care trebuie să fie taken cu poziție de lead name blocker. Important anatomy poate easily fie obscured, especially when using small casetă.
+    - Întreaga coloană cervicală trebuie inclusă, de la articulațiile atlanto-occipitale până la partea superioară a primei vertebre toracice.
+    - Mandibula sau osul occipital nu trebuie să obscurizeze nicio parte a vertebrei superioare.
+    - Unghiurile mandibulei și porțiunile de profil ale planșeului fosei craniene posterioare trebuie să fie suprapuse.
+    - Țesuturile moi ale gâtului trebuie incluse.
+    - Contrastul trebuie să producă densități suficiente pentru evidențierea țesuturilor moi și a detaliilor osoase. 168 Planșeul fosei craniene posterioare (os occipital) Unghiul mandibulei C1 C2 C3 C4 C5 C6 C7 T1 Țesuturi moi prevertebrale umeri coborâți
+    - Erori de evitat / remedii: Nevizualizarea C7/T1: dacă pacientul nu își poate coborî umerii, chiar și atunci când ține greutăți, trebuie luată în considerare incidența înotătorului.
+    - Erori de evitat / remedii: Trebuie acordată atenție poziției blocatorului de plumb. Anatomia importantă poate fi ușor obscurizată, în special la utilizarea unei casete mici.
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Care should be taken when collimating to avoid including the eyes within the primary beam. Profil (Lateral) Decubit Dorsal For trauma cases, the patient’s condition usually requires the examination to be performed on a casualty trolley. The Profil (Lateral) cervical spine projection is taken first, without moving the patient. The resulting radiograph must be examined by a medical officer to establish whether the patient’s neck can be moved for other projections. See Section 16 for additional information.
+    - Trebuie acordată atenție la colimare pentru a evita includerea ochilor în fasciculul primar. Profil (Lateral) Decubit Dorsal În cazurile de traumatism, starea pacientului impune de obicei efectuarea examinării pe un cărucior de urgență. Incidența de profil a coloanei cervicale se efectuează prima, fără a mișca pacientul. Radiografia obținută trebuie examinată de un medic pentru a stabili dacă gâtul pacientului poate fi mișcat pentru alte incidențe. A se vedea Secțiunea 16 pentru informații suplimentare.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
@@ -214,8 +218,8 @@ This poate fie achieved prin asking pacientul la relax their umeri downwards. pr
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • large object-la-film radiologic distance (OFD) will increase geometric unsharpness. This este overcome prin increasing focusto-film radiologic distance (FFD) la 150 cm.
-• air gap între neck și film radiologic eliminates need la employ secondary radiation grilă la attenuate scatter.
+    • Distanța mare obiect–film radiologic (OFD) va crește neclaritatea geometrică. Aceasta este depășită prin creșterea distanței focar–film radiologic (FFD) la 150 cm.
+• Spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile antidifuzante pentru atenuarea radiației secundare.
 
 
 ### 🖼️ Imagini
@@ -226,7 +230,7 @@ This poate fie achieved prin asking pacientul la relax their umeri downwards. pr
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -256,25 +260,25 @@ This poate fie achieved prin asking pacientul la relax their umeri downwards. pr
 
 <figure class="protocol-image-card" markdown>
 
-![making this diagnosis în children, în whom normal space](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_5.jpeg)
+![la stabilirea acestui diagnostic la copii, la care spațiul normal](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_5.jpeg)
 
-<figcaption><strong>making this diagnosis în children, în whom normal space</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![abnormalities, such ca basilar invagination. It will fie obscured](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_6.jpeg)
-
-<figcaption><strong>abnormalities, such ca basilar invagination. It will fie obscured</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>la stabilirea acestui diagnostic la copii, la care spațiul normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![tissues anterior la vertebral corp (normal thickness este less](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_7.jpeg)
+![anomalii, cum ar fi invaginația bazilară. Aceasta va fi obscurată](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_6.jpeg)
 
-<figcaption><strong>tissues anterior la vertebral corp (normal thickness este less</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>anomalii, cum ar fi invaginația bazilară. Aceasta va fi obscurată</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![țesuturilor anterioare corpului vertebral (grosimea normală este mai mică](../../assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_7.jpeg)
+
+<figcaption><strong>țesuturilor anterioare corpului vertebral (grosimea normală este mai mică</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -291,4 +295,4 @@ This poate fie achieved prin asking pacientul la relax their umeri downwards. pr
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 183](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=183)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 183](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

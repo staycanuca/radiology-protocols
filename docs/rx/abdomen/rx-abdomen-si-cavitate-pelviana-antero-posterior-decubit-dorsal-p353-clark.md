@@ -1,23 +1,24 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe
+breathing: Expunerea se efectuează în
 category: abdomen
-centering: '• raza centrală verticală centrală este orientat la centre de caseta.
+centering: '• Raza centrală verticală este orientată spre centrul casetei.
 
-  • Using short expunere time, expunere este made pe arrested respirație.'
+  • Folosind un timp scurt de expunere, expunerea se efectuează în apnee.'
 clinical_indications:
-- orice cause de movement unsharpness poate render small sau even medium-sized renal
-  și ureteric litiază urinară / Litiază urinară / calculi radio-opaci radiopaci invisible.
-- Some radiologists assert that Ortostatism Abdomen este rarely if ever needed la
-  diagnose ocluzie intestinală (nivele hidroaerice), ca subtle signs will nearly always
-  fie present pe Decubit dorsal imagine. în acute setting, however, Ortostatism imagine
-  poate fie very valuable la surgical staff who do nu have immediate access la experienced
-  radiologist.
-- Blunt trauma injury poate fie associated cu loss de psoas muscle outline și loss
-  de renal outline due la tissue damage și haematoma.
+- Orice cauză de neclaritate prin mișcare poate face invizibili calculii renali și
+  ureterali radioopaci mici sau chiar de dimensiuni medii.
+- Unii radiologi afirmă că radiografia abdominală în ortostatism este rareori sau
+  chiar niciodată necesară pentru diagnosticarea ocluziei intestinale (nivele hidroaerice),
+  deoarece semne subtile vor fi aproape întotdeauna prezente pe imaginea în decubit
+  dorsal. În situații acute, însă, imaginea în ortostatism poate fi foarte utilă personalului
+  chirurgical care nu are acces imediat la un radiolog cu experiență.
+- Leziunile prin traumatism închis pot fi asociate cu dispariția conturului mușchiului
+  psoas și a conturului renal din cauza leziunilor tisulare și a hematomului.
 images:
-- caption: Two radiografii used la give full coverage de abdomenul
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Două radiografii utilizate pentru a acoperi întregul abdomen
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -27,57 +28,62 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_3.jpeg
-- caption: • grilă cut off, associated cu trolley sau ward radiografie poate
+- caption: • Tăierea fasciculului de către grilă, asociată radiografiei pe targă sau
+    în salon, poate
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_4.jpeg
-- caption: Antero-posterior (AP) Decubit dorsal radiografie de abdomenul evidențiind
-    distal ileum
+- caption: Radiografie anteroposterioară (AP) a abdomenului în decubit dorsal care
+    evidențiază ileonul distal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• în case de large Abdomen, imobilizare band poate fie applied la compress
-  părți moi și reduce effects de scatter.
+notes: '• În cazul unui abdomen voluminos, poate fi aplicată o bandă de imobilizare
+  pentru a comprima părțile moi și a reduce efectele radiației împrăștiate.
 
-  • fascicul este collimated la size de caseta selected și ajustat la ensure that
-  it does nu extend beyond Profil (lateral) edges de abdomenul.
+  • Fasciculul este colimat la dimensiunea casetei selectate și ajustat astfel încât
+  să nu depășească marginile laterale ale abdomenului.
 
-  • Ensure that poziție și anatomical markeri sunt included pe casetă.
+  • Asigurați-vă că marcajele de poziție și cele anatomice sunt incluse pe casetă.
 
-  • When using automatic expunere control (AEC) device, central și drept chambers
-  poate fie selected simultaneously la avoid risk de underexposure due la fascicul
-  passing through regions containing mainly bowel gas.
+  • La utilizarea unui dispozitiv de control automat al expunerii (AEC), camerele
+  centrală și dreaptă pot fi selectate simultan pentru a evita riscul de subexpunere
+  din cauza trecerii fasciculului prin regiuni care conțin în principal gaz intestinal.
 
-  • If pacientul este too ill la fie moved onto masa radiologică (e.g.
+  • Dacă starea pacientului este prea gravă pentru a fi transferat pe masa radiologică
+  (de exemplu,
 
-  multiple trauma sau acute pain), imagine poate fie acquired using stationary grilă
-  și casetă plasat în tray under pacientul transport trolley. Care trebuie să fie
-  taken la use correct FFD și la centre la middle de caseta la avoid grilă cut off.
-  piece de lead rubber este plasat under caseta la reduce ‘back scatter’ și improve
-  imagine contrast.'
-position: '• pacientul este culcat Decubit dorsal pe imaging table, cu planul mediosagital
-  la drept-angles și coincident cu linia mediană mesei.
+  traumatisme multiple sau durere acută), imaginea poate fi obținută folosind o grilă
+  fixă și o casetă plasată în tava de sub targa de transport a pacientului. Trebuie
+  avut grijă să se utilizeze FFD corectă și să se centreze pe mijlocul casetei pentru
+  a evita tăierea fasciculului de către grilă. O bucată de cauciuc plumbat este plasată
+  sub casetă pentru a reduce «radiația retroîmprăștiată» și a îmbunătăți contrastul
+  imaginii.'
+position: '• Pacientul este culcat în decubit dorsal pe masa radiologică, cu planul
+  mediosagital perpendicular pe masă și aliniat cu linia mediană a mesei.
 
-  • Bazin (bazin (pelvis)) este ajustat astfel încât anterior superior iliac spines
-  sunt echidistant față de tabletop.
+  • Bazinul (pelvisul) este ajustat astfel încât spinele iliace anterosuperioare să
+  fie echidistante față de suprafața mesei.
 
-  • caseta este plasat longitudinally în caseta tray și poziționat astfel încât simfiză
-  pubiană este included pe lower part de film radiologic, bearing în mind that Oblică
-  rays will project simfiză pubiană downwards.
+  • Caseta este plasată longitudinal în tava pentru casetă și poziționată astfel încât
+  simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând
+  cont că razele oblice vor proiecta simfiza pubiană în jos.
 
-  • centre de caseta will fie approximately la nivelul point located 1 cm below line
-  joining crestele iliace.
+  • Centrul casetei va fi aproximativ la nivelul unui punct situat la 1 cm sub linia
+  care unește crestele iliace.
 
-  This will ensure that simfiză pubiană este included pe imagine.'
+  Astfel se asigură includerea simfizei pubiene pe imagine.'
 protection:
-- Strict application of the ‘pregnancy rule’ or the ‘ten-day rule’ is important in
-  females of childbearing age.
-- For males, the correct size of gonad protection should be selected and applied carefully
-  so the gonads are shielded and the pelvic region not obscured with lead. Antero-Posterior
-  (AP) Decubit Dorsal radiograph of the Abdomen showing distal ileum obstruction Poor
-  quality image showing movement unsharpness due to incorrect exposure factors
+- Aplicarea strictă a «regulii privind sarcina» sau a «regulii de zece zile» este
+  importantă la femeile de vârstă fertilă.
+- La bărbați, trebuie selectată dimensiunea corectă a protecției gonadale, iar aceasta
+  trebuie aplicată cu atenție, astfel încât gonadele să fie protejate și regiunea
+  pelviană să nu fie mascată de plumb. Radiografie anteroposterioară (AP) a abdomenului
+  în decubit dorsal care evidențiază ocluzia ileonului distal. Imagine de calitate
+  slabă care evidențiază neclaritate prin mișcare din cauza parametrilor de expunere
+  incorecți
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -85,33 +91,35 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- bowel pattern trebuie să fie evidențiat cu minimal unsharpness. 338 Two radiografii
-  used la give full coverage de abdomenul
-- "Erori de evitat / remedii: Failure la include simfiză pubiană și cupole diafragmatice\
-  \ pe same imagine. This poate fie due la pacient size, în which case two imagini\
-  \ sunt acquired cu second across etajul abdominal superior using a 35 \x02 43-cm\
-  \ casetă oriented horizontally."
-- 'Erori de evitat / remedii: Failure la visualize Profil (lateral) extent de abdominal
-  cavity poate fie due la pacient size sau poor positioning.'
-- 'Erori de evitat / remedii: Respiratory movement unsharpness. Rehearsal de Tehnică
-  de estompare prin respirație superficială (respirație technique) prior la expunere
-  poate help la reduce this, together cu selection de shortest expunere time.'
+- Aspectul anselor intestinale trebuie evidențiat cu neclaritate minimă. 338 Două
+  radiografii utilizate pentru a acoperi întregul abdomen
+- 'Erori de evitat / remedii: Neincluderea simfizei pubiene și a cupolelor diafragmatice
+  pe aceeași imagine. Aceasta se poate datora dimensiunilor pacientului, caz în care
+  se obțin două imagini, a doua cuprinzând transversal etajul abdominal superior,
+  folosind o casetă de 35 × 43 cm orientată orizontal.'
+- 'Erori de evitat / remedii: Nevizualizarea extinderii laterale a cavității abdominale
+  se poate datora dimensiunilor pacientului sau poziționării incorecte.'
+- 'Erori de evitat / remedii: Neclaritate prin mișcări respiratorii. Exersarea tehnicii
+  de estompare prin respirație superficială (tehnică respiratorie) înainte de expunere
+  poate contribui la reducerea acesteia, împreună cu selectarea celui mai scurt timp
+  de expunere.'
 sid_dff: 100 cm
 slug: rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 353
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=353
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Decubit Dorsal
+  mas: Conform AEC / grosimii anatomice
+title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP) - decubit
+  dorsal
 ---
-# Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Decubit Dorsal
+# Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP) - decubit dorsal
 
 
 <div class="rx-meta-bar">
@@ -130,9 +138,9 @@ title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Decubit Dorsal
 
     === "Indicații Clinice"
 
-        - orice cause de movement unsharpness poate render small sau even medium-sized renal și ureteric litiază urinară / Litiază urinară / calculi radio-opaci radiopaci invisible.
-        - Some radiologists assert that Ortostatism Abdomen este rarely if ever needed la diagnose ocluzie intestinală (nivele hidroaerice), ca subtle signs will nearly always fie present pe Decubit dorsal imagine. în acute setting, however, Ortostatism imagine poate fie very valuable la surgical staff who do nu have immediate access la experienced radiologist.
-        - Blunt trauma injury poate fie associated cu loss de psoas muscle outline și loss de renal outline due la tissue damage și haematoma.
+        - Orice cauză de neclaritate prin mișcare poate face invizibili calculii renali și ureterali radioopaci mici sau chiar de dimensiuni medii.
+        - Unii radiologi afirmă că radiografia abdominală în ortostatism este rareori sau chiar niciodată necesară pentru diagnosticarea ocluziei intestinale (nivele hidroaerice), deoarece semne subtile vor fi aproape întotdeauna prezente pe imaginea în decubit dorsal. În situații acute, însă, imaginea în ortostatism poate fi foarte utilă personalului chirurgical care nu are acces imediat la un radiolog cu experiență.
+        - Leziunile prin traumatism închis pot fi asociate cu dispariția conturului mușchiului psoas și a conturului renal din cauza leziunilor tisulare și a hematomului.
 
     === "Ghid Național IRIS"
 
@@ -146,15 +154,15 @@ title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Decubit Dorsal
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe imaging table, cu planul mediosagital la drept-angles și coincident cu linia mediană mesei.
-• Bazin (bazin (pelvis)) este ajustat astfel încât anterior superior iliac spines sunt echidistant față de tabletop.
-• caseta este plasat longitudinally în caseta tray și poziționat astfel încât simfiză pubiană este included pe lower part de film radiologic, bearing în mind that Oblică rays will project simfiză pubiană downwards.
-• centre de caseta will fie approximately la nivelul point located 1 cm below line joining crestele iliace.
-This will ensure that simfiză pubiană este included pe imagine.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat la centre de caseta.
-• Using short expunere time, expunere este made pe arrested respirație.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masă și aliniat cu linia mediană a mesei.
+• Bazinul (pelvisul) este ajustat astfel încât spinele iliace anterosuperioare să fie echidistante față de suprafața mesei.
+• Caseta este plasată longitudinal în tava pentru casetă și poziționată astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont că razele oblice vor proiecta simfiza pubiană în jos.
+• Centrul casetei va fi aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace.
+Astfel se asigură includerea simfizei pubiene pe imagine.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei.
+• Folosind un timp scurt de expunere, expunerea se efectuează în apnee.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe
+    - **Comandă Respiratorie:** Expunerea se efectuează în
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -163,29 +171,29 @@ This will ensure that simfiză pubiană este included pe imagine.
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 43 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - bowel pattern trebuie să fie evidențiat cu minimal unsharpness. 338 Two radiografii used la give full coverage de abdomenul
-    - Erori de evitat / remedii: Failure la include simfiză pubiană și cupole diafragmatice pe same imagine. This poate fie due la pacient size, în which case two imagini sunt acquired cu second across etajul abdominal superior using a 35  43-cm casetă oriented horizontally.
-    - Erori de evitat / remedii: Failure la visualize Profil (lateral) extent de abdominal cavity poate fie due la pacient size sau poor positioning.
-    - Erori de evitat / remedii: Respiratory movement unsharpness. Rehearsal de Tehnică de estompare prin respirație superficială (respirație technique) prior la expunere poate help la reduce this, together cu selection de shortest expunere time.
+    - Aspectul anselor intestinale trebuie evidențiat cu neclaritate minimă. 338 Două radiografii utilizate pentru a acoperi întregul abdomen
+    - Erori de evitat / remedii: Neincluderea simfizei pubiene și a cupolelor diafragmatice pe aceeași imagine. Aceasta se poate datora dimensiunilor pacientului, caz în care se obțin două imagini, a doua cuprinzând transversal etajul abdominal superior, folosind o casetă de 35 × 43 cm orientată orizontal.
+    - Erori de evitat / remedii: Nevizualizarea extinderii laterale a cavității abdominale se poate datora dimensiunilor pacientului sau poziționării incorecte.
+    - Erori de evitat / remedii: Neclaritate prin mișcări respiratorii. Exersarea tehnicii de estompare prin respirație superficială (tehnică respiratorie) înainte de expunere poate contribui la reducerea acesteia, împreună cu selectarea celui mai scurt timp de expunere.
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Strict application of the ‘pregnancy rule’ or the ‘ten-day rule’ is important in females of childbearing age.
-    - For males, the correct size of gonad protection should be selected and applied carefully so the gonads are shielded and the pelvic region not obscured with lead. Antero-Posterior (AP) Decubit Dorsal radiograph of the Abdomen showing distal ileum obstruction Poor quality image showing movement unsharpness due to incorrect exposure factors
+    - Aplicarea strictă a «regulii privind sarcina» sau a «regulii de zece zile» este importantă la femeile de vârstă fertilă.
+    - La bărbați, trebuie selectată dimensiunea corectă a protecției gonadale, iar aceasta trebuie aplicată cu atenție, astfel încât gonadele să fie protejate și regiunea pelviană să nu fie mascată de plumb. Radiografie anteroposterioară (AP) a abdomenului în decubit dorsal care evidențiază ocluzia ileonului distal. Imagine de calitate slabă care evidențiază neclaritate prin mișcare din cauza parametrilor de expunere incorecți
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
@@ -193,12 +201,12 @@ This will ensure that simfiză pubiană este included pe imagine.
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • în case de large Abdomen, imobilizare band poate fie applied la compress părți moi și reduce effects de scatter.
-• fascicul este collimated la size de caseta selected și ajustat la ensure that it does nu extend beyond Profil (lateral) edges de abdomenul.
-• Ensure that poziție și anatomical markeri sunt included pe casetă.
-• When using automatic expunere control (AEC) device, central și drept chambers poate fie selected simultaneously la avoid risk de underexposure due la fascicul passing through regions containing mainly bowel gas.
-• If pacientul este too ill la fie moved onto masa radiologică (e.g.
-multiple trauma sau acute pain), imagine poate fie acquired using stationary grilă și casetă plasat în tray under pacientul transport trolley. Care trebuie să fie taken la use correct FFD și la centre la middle de caseta la avoid grilă cut off. piece de lead rubber este plasat under caseta la reduce ‘back scatter’ și improve imagine contrast.
+    • În cazul unui abdomen voluminos, poate fi aplicată o bandă de imobilizare pentru a comprima părțile moi și a reduce efectele radiației împrăștiate.
+• Fasciculul este colimat la dimensiunea casetei selectate și ajustat astfel încât să nu depășească marginile laterale ale abdomenului.
+• Asigurați-vă că marcajele de poziție și cele anatomice sunt incluse pe casetă.
+• La utilizarea unui dispozitiv de control automat al expunerii (AEC), camerele centrală și dreaptă pot fi selectate simultan pentru a evita riscul de subexpunere din cauza trecerii fasciculului prin regiuni care conțin în principal gaz intestinal.
+• Dacă starea pacientului este prea gravă pentru a fi transferat pe masa radiologică (de exemplu,
+traumatisme multiple sau durere acută), imaginea poate fi obținută folosind o grilă fixă și o casetă plasată în tava de sub targa de transport a pacientului. Trebuie avut grijă să se utilizeze FFD corectă și să se centreze pe mijlocul casetei pentru a evita tăierea fasciculului de către grilă. O bucată de cauciuc plumbat este plasată sub casetă pentru a reduce «radiația retroîmprăștiată» și a îmbunătăți contrastul imaginii.
 
 
 ### 🖼️ Imagini
@@ -207,9 +215,9 @@ multiple trauma sau acute pain), imagine poate fie acquired using stationary gri
 
 <figure class="protocol-image-card" markdown>
 
-![Two radiografii used la give full coverage de abdomenul](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_1.jpeg)
+![Două radiografii utilizate pentru a acoperi întregul abdomen](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_1.jpeg)
 
-<figcaption><strong>Two radiografii used la give full coverage de abdomenul</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Două radiografii utilizate pentru a acoperi întregul abdomen</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -231,17 +239,17 @@ multiple trauma sau acute pain), imagine poate fie acquired using stationary gri
 
 <figure class="protocol-image-card" markdown>
 
-![• grilă cut off, associated cu trolley sau ward radiografie poate](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_4.jpeg)
+![• Tăierea fasciculului de către grilă, asociată radiografiei pe targă sau în salon, poate](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_4.jpeg)
 
-<figcaption><strong>• grilă cut off, associated cu trolley sau ward radiografie poate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Tăierea fasciculului de către grilă, asociată radiografiei pe targă sau în salon, poate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Decubit dorsal radiografie de abdomenul evidențiind distal ileum](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_5.jpeg)
+![Radiografie anteroposterioară (AP) a abdomenului în decubit dorsal care evidențiază ileonul distal](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_5.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Decubit dorsal radiografie de abdomenul evidențiind distal ileum</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) a abdomenului în decubit dorsal care evidențiază ileonul distal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -258,4 +266,4 @@ multiple trauma sau acute pain), imagine poate fie acquired using stationary gri
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 353](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=353)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 353](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

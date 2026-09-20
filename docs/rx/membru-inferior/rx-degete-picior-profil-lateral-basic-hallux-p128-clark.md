@@ -114,7 +114,7 @@ sid_dff: 100 cm
 slug: rx-degete-picior-profil-lateral-basic-hallux-p128-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 128
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=128
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -324,4 +324,4 @@ Normal Profil (lateral) basic incidență de hallux Profil (lateral) incidență
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 128](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=128)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 128](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -3,49 +3,52 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• orizontal X-ray fascicul este fixed.
+centering: '• fasciculul de raze X orizontal este fix.
 
-  • central fascicul este centred through cervical coloană vertebrală la nivelul rami.
+  • raza centrală este centrată prin coloana vertebrală cervicală la nivelul ramurilor.
 
-  cephalometric Postero-anterior (PA) jaws Positioning pentru cephalometric Postero-anterior
-  (PA) jaws incidență'
+  Poziționarea pentru incidența cefalometrică postero-anterioară (PA) a mandibulei'
 clinical_indications:
-- 'White SC, Pharoah MJ (2004). Oral Radiology – Principles și Interpretation, 5th
-  edn. St Louis: Mosby. Acknowledgements author este indebted la Michael Rushton pentru
-  majority de photography în this section. James Peacop was responsible pentru new
-  schematics și line drawings, which sunt testament la his artistic skills. Professor
-  Keith Horner, Angela Carson, Di Whitfield, Sue Wilson, Christine Rowley, Corinne
-  Niman, Pamela Coates și Ian Triffitt la X-ray Unit, University Dental Hospital de
-  Manchester, provided me cu help, advice și encouragement during writing de this
-  text. Mr Peter Hirschmann, Consultant în Dental și Maxillofacial Radiology la Leeds
-  Dental Institute, gave valuable și constructive comments ca well ca providing great
-  deal de valuable technical și editorial advice. Finally la Sue Lea și Zina Ismael,
-  I extend my thanks pentru their unflagging enthusiasm during many hours that they
-  spent ca photographic models. References British Society pentru Study de Orthodontics
-  și British Society de Dental și Maxillofacial Radiology (1985). Report de articulație
-  Working Party pentru British Society pentru Study de Orthodontics și British Society
-  de Dental și Maxillofacial Radiology. reduction de dose la pacienți during Profil
-  (lateral) cephalometric radiografie. British Journal de Orthodontics 12:176–178.
-  Isaacson KG, Thom AR (eds) (2001). Guidelines pentru Use de radiografii în Clinical
-  Orthodontics, 2nd edn. London: British Orthodontic Society. Kaffe I, Littner MM,
-  Tamse A, Serebro L (1981). Clinical evaluation de bitewing film radiologic holder.
-  Quintessence International 12:935–938. National Radiological Protection Board (2001).
-  Guidance Notes pentru Dental Practitioners pe Safe Use de X-ray Equipment. London:
-  Department de Health. Rushton VE și Horner K (1994). comparative study de five periapical
-  radiographic techniques în general dental practice. Dentomaxillofacial Radiology
-  23:37–45, 96. Rushton VE, Horner K, Worthington H (1999). quality de panoramic radiografii
-  în sample de general dental practices. British Dental Journal 186:630–633. Semple
-  J, Gibb D (1982). Postero-anterior (PA) lower occlusal incidență – incidență uzuală
-  de rutină pentru submandibular gland. radiografie 48:122–124. Tanner RJ, perete
-  BF, Shrimpton PC, Hart D, Bungay DR (2000). Frequency de Medical și Dental X-ray
-  Examinations în UK – 1997/98. Chilton: National Radiological Protection Board –
-  R320. quality standards used în text sunt derived de la: Radiation Protection: European
-  Guidelines pe Radiation Protection în Dental Radiology. Luxembourg: European Commission.
-  Also available ca download PDF file la: http://europa.eu.int/comm/energy/nuclear/radioprotection/
+- 'White SC, Pharoah MJ (2004). Radiologie orală – Principii și interpretare, ediția
+  a 5-a. St Louis: Mosby. Mulțumiri Autorul îi este îndatorat lui Michael Rushton
+  pentru majoritatea fotografiilor din această secțiune. James Peacop a fost responsabil
+  pentru noile scheme și desene liniare, care constituie o mărturie a aptitudinilor
+  sale artistice. Profesorul Keith Horner, Angela Carson, Di Whitfield, Sue Wilson,
+  Christine Rowley, Corinne Niman, Pamela Coates și Ian Triffitt de la Unitatea de
+  radiologie, Spitalul Universitar de Stomatologie din Manchester, mi-au oferit ajutor,
+  sfaturi și încurajare în timpul redactării acestui text. Domnul Peter Hirschmann,
+  consultant în radiologie dentară și maxilo-facială la Leeds Dental Institute, a
+  făcut comentarii valoroase și constructive, precum și a oferit numeroase sfaturi
+  tehnice și editoriale valoroase. În cele din urmă, le mulțumesc lui Sue Lea și Zina
+  Ismael pentru entuziasmul lor neobosit în timpul numeroaselor ore pe care le-au
+  petrecut ca modele fotografice. Referințe Societatea Britanică pentru Studiul Ortodonției
+  și Societatea Britanică de Radiologie Dentară și Maxilo-Facială (1985). Raportul
+  grupului de lucru comun al Societății Britanice pentru Studiul Ortodonției și Societății
+  Britanice de Radiologie Dentară și Maxilo-Facială. Reducerea dozei la pacienți în
+  timpul radiografiei cefalometrice de profil (laterală). British Journal of Orthodontics
+  12:176–178. Isaacson KG, Thom AR (eds) (2001). Ghiduri pentru utilizarea radiografiilor
+  în ortodonția clinică, ediția a 2-a. Londra: British Orthodontic Society. Kaffe
+  I, Littner MM, Tamse A, Serebro L (1981). Evaluarea clinică a unui suport radiologic
+  pentru filmul bitewing. Quintessence International 12:935–938. National Radiological
+  Protection Board (2001). Note de orientare pentru medicii stomatologi privind utilizarea
+  în siguranță a echipamentelor cu raze X. Londra: Department of Health. Rushton VE
+  și Horner K (1994). Studiu comparativ al cinci tehnici radiografice periapicale
+  în practica dentară generală. Dentomaxillofacial Radiology 23:37–45, 96. Rushton
+  VE, Horner K, Worthington H (1999). Calitatea radiografiilor panoramice într-un
+  eșantion de cabinete de medicină dentară generală. British Dental Journal 186:630–633.
+  Semple J, Gibb D (1982). Incidența ocluzală inferioară postero-anterioară (PA) –
+  incidență uzuală de rutină pentru glanda submandibulară. Radiography 48:122–124.
+  Tanner RJ, Wall BF, Shrimpton PC, Hart D, Bungay DR (2000). Frecvența examinărilor
+  radiologice medicale și dentare în Regatul Unit – 1997/98. Chilton: National Radiological
+  Protection Board – R320. Standardele de calitate utilizate în text sunt derivate
+  din: Protecția împotriva radiațiilor: Ghiduri europene privind protecția împotriva
+  radiațiilor în radiologia dentară. Luxemburg: Comisia Europeană. Disponibil și pentru
+  descărcare ca fișier PDF la: http://europa.eu.int/comm/energy/nuclear/radioprotection/
   publication_en.htm.'
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-teleradiografie-craniana-cefalometrie-postero-anterior-projection-p343-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -54,13 +57,13 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• equipment este rotit through 90 grade.
+position: '• echipamentul este rotit cu 90 de grade.
 
-  • pacientul este set up ca pentru Postero-anterior (PA) incidență de Mandibulă.
+  • pacientul este poziționat ca pentru incidența postero-anterioară (PA) a mandibulei.
 
-  • orbito-meatal baseline este paralel cu floor.
+  • linia bazală orbito-meatală este paralelă cu podeaua.
 
-  • capul este imobilizat using ear pieces inserted into extern auditory meati.'
+  • capul este imobilizat folosind olive introduse în meaturile acustice externe.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -77,15 +80,15 @@ sid_dff: 100 cm
 slug: rx-teleradiografie-craniana-cefalometrie-postero-anterior-projection-p343-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 343
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=343
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Teleradiografie Craniană (Cefalometrie) Postero-Anterior (PA) Incidență
 ---
 # Rx Teleradiografie Craniană (Cefalometrie) Postero-Anterior (PA) Incidență
@@ -107,7 +110,7 @@ title: Rx Teleradiografie Craniană (Cefalometrie) Postero-Anterior (PA) Inciden
 
     === "Indicații Clinice"
 
-        - White SC, Pharoah MJ (2004). Oral Radiology – Principles și Interpretation, 5th edn. St Louis: Mosby. Acknowledgements author este indebted la Michael Rushton pentru majority de photography în this section. James Peacop was responsible pentru new schematics și line drawings, which sunt testament la his artistic skills. Professor Keith Horner, Angela Carson, Di Whitfield, Sue Wilson, Christine Rowley, Corinne Niman, Pamela Coates și Ian Triffitt la X-ray Unit, University Dental Hospital de Manchester, provided me cu help, advice și encouragement during writing de this text. Mr Peter Hirschmann, Consultant în Dental și Maxillofacial Radiology la Leeds Dental Institute, gave valuable și constructive comments ca well ca providing great deal de valuable technical și editorial advice. Finally la Sue Lea și Zina Ismael, I extend my thanks pentru their unflagging enthusiasm during many hours that they spent ca photographic models. References British Society pentru Study de Orthodontics și British Society de Dental și Maxillofacial Radiology (1985). Report de articulație Working Party pentru British Society pentru Study de Orthodontics și British Society de Dental și Maxillofacial Radiology. reduction de dose la pacienți during Profil (lateral) cephalometric radiografie. British Journal de Orthodontics 12:176–178. Isaacson KG, Thom AR (eds) (2001). Guidelines pentru Use de radiografii în Clinical Orthodontics, 2nd edn. London: British Orthodontic Society. Kaffe I, Littner MM, Tamse A, Serebro L (1981). Clinical evaluation de bitewing film radiologic holder. Quintessence International 12:935–938. National Radiological Protection Board (2001). Guidance Notes pentru Dental Practitioners pe Safe Use de X-ray Equipment. London: Department de Health. Rushton VE și Horner K (1994). comparative study de five periapical radiographic techniques în general dental practice. Dentomaxillofacial Radiology 23:37–45, 96. Rushton VE, Horner K, Worthington H (1999). quality de panoramic radiografii în sample de general dental practices. British Dental Journal 186:630–633. Semple J, Gibb D (1982). Postero-anterior (PA) lower occlusal incidență – incidență uzuală de rutină pentru submandibular gland. radiografie 48:122–124. Tanner RJ, perete BF, Shrimpton PC, Hart D, Bungay DR (2000). Frequency de Medical și Dental X-ray Examinations în UK – 1997/98. Chilton: National Radiological Protection Board – R320. quality standards used în text sunt derived de la: Radiation Protection: European Guidelines pe Radiation Protection în Dental Radiology. Luxembourg: European Commission. Also available ca download PDF file la: http://europa.eu.int/comm/energy/nuclear/radioprotection/ publication_en.htm.
+        - White SC, Pharoah MJ (2004). Radiologie orală – Principii și interpretare, ediția a 5-a. St Louis: Mosby. Mulțumiri Autorul îi este îndatorat lui Michael Rushton pentru majoritatea fotografiilor din această secțiune. James Peacop a fost responsabil pentru noile scheme și desene liniare, care constituie o mărturie a aptitudinilor sale artistice. Profesorul Keith Horner, Angela Carson, Di Whitfield, Sue Wilson, Christine Rowley, Corinne Niman, Pamela Coates și Ian Triffitt de la Unitatea de radiologie, Spitalul Universitar de Stomatologie din Manchester, mi-au oferit ajutor, sfaturi și încurajare în timpul redactării acestui text. Domnul Peter Hirschmann, consultant în radiologie dentară și maxilo-facială la Leeds Dental Institute, a făcut comentarii valoroase și constructive, precum și a oferit numeroase sfaturi tehnice și editoriale valoroase. În cele din urmă, le mulțumesc lui Sue Lea și Zina Ismael pentru entuziasmul lor neobosit în timpul numeroaselor ore pe care le-au petrecut ca modele fotografice. Referințe Societatea Britanică pentru Studiul Ortodonției și Societatea Britanică de Radiologie Dentară și Maxilo-Facială (1985). Raportul grupului de lucru comun al Societății Britanice pentru Studiul Ortodonției și Societății Britanice de Radiologie Dentară și Maxilo-Facială. Reducerea dozei la pacienți în timpul radiografiei cefalometrice de profil (laterală). British Journal of Orthodontics 12:176–178. Isaacson KG, Thom AR (eds) (2001). Ghiduri pentru utilizarea radiografiilor în ortodonția clinică, ediția a 2-a. Londra: British Orthodontic Society. Kaffe I, Littner MM, Tamse A, Serebro L (1981). Evaluarea clinică a unui suport radiologic pentru filmul bitewing. Quintessence International 12:935–938. National Radiological Protection Board (2001). Note de orientare pentru medicii stomatologi privind utilizarea în siguranță a echipamentelor cu raze X. Londra: Department of Health. Rushton VE și Horner K (1994). Studiu comparativ al cinci tehnici radiografice periapicale în practica dentară generală. Dentomaxillofacial Radiology 23:37–45, 96. Rushton VE, Horner K, Worthington H (1999). Calitatea radiografiilor panoramice într-un eșantion de cabinete de medicină dentară generală. British Dental Journal 186:630–633. Semple J, Gibb D (1982). Incidența ocluzală inferioară postero-anterioară (PA) – incidență uzuală de rutină pentru glanda submandibulară. Radiography 48:122–124. Tanner RJ, Wall BF, Shrimpton PC, Hart D, Bungay DR (2000). Frecvența examinărilor radiologice medicale și dentare în Regatul Unit – 1997/98. Chilton: National Radiological Protection Board – R320. Standardele de calitate utilizate în text sunt derivate din: Protecția împotriva radiațiilor: Ghiduri europene privind protecția împotriva radiațiilor în radiologia dentară. Luxemburg: Comisia Europeană. Disponibil și pentru descărcare ca fișier PDF la: http://europa.eu.int/comm/energy/nuclear/radioprotection/ publication_en.htm.
 
     === "Ghid Național IRIS"
 
@@ -121,13 +124,13 @@ title: Rx Teleradiografie Craniană (Cefalometrie) Postero-Anterior (PA) Inciden
 
     ---
 
-    - **Poziție Pacient:** • equipment este rotit through 90 grade.
-• pacientul este set up ca pentru Postero-anterior (PA) incidență de Mandibulă.
-• orbito-meatal baseline este paralel cu floor.
-• capul este imobilizat using ear pieces inserted into extern auditory meati.
-    - **Punct de Centrare Fascicul:** • orizontal X-ray fascicul este fixed.
-• central fascicul este centred through cervical coloană vertebrală la nivelul rami.
-cephalometric Postero-anterior (PA) jaws Positioning pentru cephalometric Postero-anterior (PA) jaws incidență
+    - **Poziție Pacient:** • echipamentul este rotit cu 90 de grade.
+• pacientul este poziționat ca pentru incidența postero-anterioară (PA) a mandibulei.
+• linia bazală orbito-meatală este paralelă cu podeaua.
+• capul este imobilizat folosind olive introduse în meaturile acustice externe.
+    - **Punct de Centrare Fascicul:** • fasciculul de raze X orizontal este fix.
+• raza centrală este centrată prin coloana vertebrală cervicală la nivelul ramurilor.
+Poziționarea pentru incidența cefalometrică postero-anterioară (PA) a mandibulei
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -138,13 +141,13 @@ cephalometric Postero-anterior (PA) jaws Positioning pentru cephalometric Poster
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -176,7 +179,7 @@ cephalometric Postero-anterior (PA) jaws Positioning pentru cephalometric Poster
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-teleradiografie-craniana-cefalometrie-postero-anterior-projection-p343-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -201,4 +204,4 @@ cephalometric Postero-anterior (PA) jaws Positioning pentru cephalometric Poster
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 343](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=343)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 343](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

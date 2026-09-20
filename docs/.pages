@@ -1,5 +1,6 @@
 nav:
   - Acasa: index.md
+  - Harta Protocoalelor: harta.md
   - CT: ct
   - IRM: irm
   - RX: rx

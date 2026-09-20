@@ -2,22 +2,22 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: este perpendicular pe receptorul de imagine, orientat la point about 1
-  inch (2.5 cm) la drept de MSP. Center raza centrală și receptorul de imagine la
-  1 la 2 inches (2.5 la 5 cm) above creasta iliacă (corespunzător L4-L5) (see NOTE).
-  Center casetă la raza centrală.
+centering: Este perpendiculară pe receptorul de imagine, orientată spre un punct situat
+  la aproximativ 1 țol (2.5 cm) la dreapta MSP. Centrați raza centrală și receptorul
+  de imagine la 1 la 2 țoli (2.5 la 5 cm) deasupra crestei iliace (corespunzător L4-L5)
+  (vezi NOTA). Centrați caseta pe raza centrală.
 clinical_indications:
-- Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception
-- Doublecontrast media Irigografie (Clismă Baritată) este ideal pentru evidențiind
-  diverticulosis, polyps, și mucosal changes.
+- Obstrucții, inclusiv ileus dinamic sau mecanic, volvulus și invaginație intestinală
+- Irigografia (Clismă Baritată) cu dublu contrast este ideală pentru evidențierea
+  diverticulozei, polipilor și modificărilor mucoasei.
 images:
 - caption: Fig. 13.67 poziție oblică anterioară stângă (OAS / LAO).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.67 poziție
     oblică anterioară stângă (OAS / LAO).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_1.jpeg
-- caption: Fig. 13.68 LAO (centrat high la include L colic flexure).
+- caption: Fig. 13.68 LAO (centrată sus pentru a include flexura colică stângă).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.68
-    LAO (centrat high la include L colic flexure).)
+    LAO (centrată sus pentru a include flexura colică stângă).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_2.jpeg
 - caption: Fig. 13.69 poziție oblică anterioară stângă (OAS / LAO).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.69
@@ -25,16 +25,18 @@ images:
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Most adult pacienți require about 2 inches (5 cm) higher centering pentru include
-  stâng colic flexure, which generally cuts off lower intestin gros (colon); second
-  imagine centrat 2 sau 3 inches (5 la 7.5 cm) lower este required pentru include
-  rectal area. Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO
-position: 'Pacient: pacient este semiprone, rotit into a 35° la 45° LAO, cu support
-  pentru capul (Fig. 13.67).; Regiune anatomică: Align MSP along axa longitudinală
-  de table, cu drept și stâng abdominal margins echidistant față de centerline de
-  table sau raza centrală. Place drept braț up pe pillow, cu stâng braț down behind
-  pacient și drept Genunchi partially flectat. Check posterior Bazin (bazin (pelvis))
-  și trunk pentru 35° la 45° rotație.'
+notes: La majoritatea pacienților adulți este necesară centrarea cu aproximativ 2
+  țoli (5 cm) mai sus pentru a include flexura colică stângă, ceea ce exclude în general
+  porțiunea inferioară a intestinului gros (colon); este necesară o a doua imagine,
+  centrată cu 2 sau 3 țoli (5 la 7.5 cm) mai jos, pentru a include regiunea rectală.
+  Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO
+position: 'Pacient: pacientul este în poziție semiventrală, rotit la 35° la 45° în
+  LAO, cu sprijin pentru cap (Fig. 13.67).; Regiune anatomică: Aliniați MSP de-a lungul
+  axei longitudinale a mesei, cu marginile abdominale dreaptă și stângă echidistante
+  față de linia mediană a mesei sau de raza centrală. Așezați brațul drept în sus,
+  pe pernă, iar brațul stâng în jos, în spatele pacientului, cu genunchiul drept parțial
+  flectat. Verificați din posterior bazinul (pelvisul) și trunchiul pentru o rotație
+  de 35° la 45°.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,30 +44,32 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- stâng colic flexure trebuie să fie seen ca “open” fără significant superimposition.
-- descending intestin gros (colon) trebuie să fie well evidențiat.
-- 'entire intestin gros (colon) trebuie să fie included (see NOTE) (Figs. 13.68 și
-  13.69). poziție:'
-- coloană vertebrală este paralel cu edge de radiografie (unless scolioză / vicii
-  de postură ale coloanei este present).
-- ala de drept ilium este elongated (if vizibil), whereas stâng side este foreshortened;
-  stâng colic flexure este seen în profile.
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize contrastfilled intestin
-  gros (colon) fără significant overexposure de orice portion.
-- net structural margins indicate fără mișcare. Fig. 13.67 poziție oblică anterioară
-  stângă (OAS / LAO). Fig. 13.68 LAO (centrat high la include L colic flexure). Ascending
-  intestin gros (colon) Transverse intestin gros (colon) Descending intestin gros
-  (colon) Sigmoid intestin gros (colon) Rectum L Descending intestin gros (colon)
-  drept colic flexure Fig. 13.69 poziție oblică anterioară stângă (OAS / LAO).
+- Flexura colică stângă trebuie să fie vizibilă ca „deschisă”, fără suprapunere semnificativă.
+- Colonul descendent trebuie să fie bine evidențiat.
+- 'Întregul intestin gros (colon) trebuie să fie inclus (vezi NOTA) (Fig. 13.68 și
+  13.69). Poziție:'
+- Coloana vertebrală este paralelă cu marginea radiografiei (cu excepția cazului în
+  care sunt prezente scolioza / viciile de postură ale coloanei).
+- Aripa iliacă dreaptă este alungită (dacă este vizibilă), în timp ce partea stângă
+  apare scurtată; flexura colică stângă este vizibilă din profil.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  intestinului gros (colon) umplut cu substanță de contrast, fără supraexpunerea semnificativă
+  a vreunei porțiuni.
+- Marginile nete ale structurilor indică absența mișcării. Fig. 13.67 poziție oblică
+  anterioară stângă (OAS / LAO). Fig. 13.68 LAO (centrată sus pentru a include flexura
+  colică stângă). Colon ascendent Colon transvers Colon descendent Colon sigmoid Rect
+  Stânga Colon descendent Flexura colică dreaptă Fig. 13.69 poziție oblică anterioară
+  stângă (OAS / LAO).
 sid_dff: 100 cm
 slug: rx-irigografie-clisma-baritata-lao-position-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 543
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -92,8 +96,8 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
 
     === "Indicații Clinice"
 
-        - Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception
-        - Doublecontrast media Irigografie (Clismă Baritată) este ideal pentru evidențiind diverticulosis, polyps, și mucosal changes.
+        - Obstrucții, inclusiv ileus dinamic sau mecanic, volvulus și invaginație intestinală
+        - Irigografia (Clismă Baritată) cu dublu contrast este ideală pentru evidențierea diverticulozei, polipilor și modificărilor mucoasei.
 
     === "Ghid Național IRIS"
 
@@ -107,8 +111,8 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient este semiprone, rotit into a 35° la 45° LAO, cu support pentru capul (Fig. 13.67).; Regiune anatomică: Align MSP along axa longitudinală de table, cu drept și stâng abdominal margins echidistant față de centerline de table sau raza centrală. Place drept braț up pe pillow, cu stâng braț down behind pacient și drept Genunchi partially flectat. Check posterior Bazin (bazin (pelvis)) și trunk pentru 35° la 45° rotație.
-    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine, orientat la point about 1 inch (2.5 cm) la drept de MSP. Center raza centrală și receptorul de imagine la 1 la 2 inches (2.5 la 5 cm) above creasta iliacă (corespunzător L4-L5) (see NOTE). Center casetă la raza centrală.
+    - **Poziție Pacient:** Pacient: pacientul este în poziție semiventrală, rotit la 35° la 45° în LAO, cu sprijin pentru cap (Fig. 13.67).; Regiune anatomică: Aliniați MSP de-a lungul axei longitudinale a mesei, cu marginile abdominale dreaptă și stângă echidistante față de linia mediană a mesei sau de raza centrală. Așezați brațul drept în sus, pe pernă, iar brațul stâng în jos, în spatele pacientului, cu genunchiul drept parțial flectat. Verificați din posterior bazinul (pelvisul) și trunchiul pentru o rotație de 35° la 45°.
+    - **Punct de Centrare Fascicul:** Este perpendiculară pe receptorul de imagine, orientată spre un punct situat la aproximativ 1 țol (2.5 cm) la dreapta MSP. Centrați raza centrală și receptorul de imagine la 1 la 2 țoli (2.5 la 5 cm) deasupra crestei iliace (corespunzător L4-L5) (vezi NOTA). Centrați caseta pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -123,22 +127,22 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - stâng colic flexure trebuie să fie seen ca “open” fără significant superimposition.
-    - descending intestin gros (colon) trebuie să fie well evidențiat.
-    - entire intestin gros (colon) trebuie să fie included (see NOTE) (Figs. 13.68 și 13.69). poziție:
-    - coloană vertebrală este paralel cu edge de radiografie (unless scolioză / vicii de postură ale coloanei este present).
-    - ala de drept ilium este elongated (if vizibil), whereas stâng side este foreshortened; stâng colic flexure este seen în profile.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize contrastfilled intestin gros (colon) fără significant overexposure de orice portion.
-    - net structural margins indicate fără mișcare. Fig. 13.67 poziție oblică anterioară stângă (OAS / LAO). Fig. 13.68 LAO (centrat high la include L colic flexure). Ascending intestin gros (colon) Transverse intestin gros (colon) Descending intestin gros (colon) Sigmoid intestin gros (colon) Rectum L Descending intestin gros (colon) drept colic flexure Fig. 13.69 poziție oblică anterioară stângă (OAS / LAO).
+    - Flexura colică stângă trebuie să fie vizibilă ca „deschisă”, fără suprapunere semnificativă.
+    - Colonul descendent trebuie să fie bine evidențiat.
+    - Întregul intestin gros (colon) trebuie să fie inclus (vezi NOTA) (Fig. 13.68 și 13.69). Poziție:
+    - Coloana vertebrală este paralelă cu marginea radiografiei (cu excepția cazului în care sunt prezente scolioza / viciile de postură ale coloanei).
+    - Aripa iliacă dreaptă este alungită (dacă este vizibilă), în timp ce partea stângă apare scurtată; flexura colică stângă este vizibilă din profil.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea intestinului gros (colon) umplut cu substanță de contrast, fără supraexpunerea semnificativă a vreunei porțiuni.
+    - Marginile nete ale structurilor indică absența mișcării. Fig. 13.67 poziție oblică anterioară stângă (OAS / LAO). Fig. 13.68 LAO (centrată sus pentru a include flexura colică stângă). Colon ascendent Colon transvers Colon descendent Colon sigmoid Rect Stânga Colon descendent Flexura colică dreaptă Fig. 13.69 poziție oblică anterioară stângă (OAS / LAO).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +155,7 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Most adult pacienți require about 2 inches (5 cm) higher centering pentru include stâng colic flexure, which generally cuts off lower intestin gros (colon); second imagine centrat 2 sau 3 inches (5 la 7.5 cm) lower este required pentru include rectal area. Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO
+    La majoritatea pacienților adulți este necesară centrarea cu aproximativ 2 țoli (5 cm) mai sus pentru a include flexura colică stângă, ceea ce exclude în general porțiunea inferioară a intestinului gros (colon); este necesară o a doua imagine, centrată cu 2 sau 3 țoli (5 la 7.5 cm) mai jos, pentru a include regiunea rectală. Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO
 
 
 ### 🖼️ Imagini
@@ -168,9 +172,9 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.68 LAO (centrat high la include L colic flexure).](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_2.jpeg)
+![Fig. 13.68 LAO (centrată sus pentru a include flexura colică stângă).](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.68 LAO (centrat high la include L colic flexure).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.68 LAO (centrat high la include L colic flexure).)</span></figcaption>
+<figcaption><strong>Fig. 13.68 LAO (centrată sus pentru a include flexura colică stângă).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.68 LAO (centrată sus pentru a include flexura colică stângă).)</span></figcaption>
 
 </figure>
 

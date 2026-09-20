@@ -1,73 +1,73 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise requested.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 category: abdomen
-centering: perpendicular pe midpoint de receptorul de imagine (L2) pentru early imagini
-  sau la nivelul crestele iliace pentru delayed sequence expuneri.
+centering: perpendicular pe centrul receptorului de imagine (L2) pentru imaginile
+  precoce sau la nivelul crestelor iliace pentru expunerile din secvența tardivă.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1130, imaginea 1
+- caption: Merrill — pagina 1130, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1130_fig1.png
-- caption: Merrill — pagina PDF 1131, imaginea 2
+- caption: Merrill — pagina 1131, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1131_fig2.png
-- caption: Merrill — pagina PDF 1132, imaginea 3
+- caption: Merrill — pagina 1132, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1132_fig3.png
-- caption: Merrill — pagina PDF 1133, imaginea 4
+- caption: Merrill — pagina 1133, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1133_fig4.png
-- caption: Merrill — pagina PDF 1134, imaginea 5
+- caption: Merrill — pagina 1134, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1134_fig5.png
-- caption: Merrill — pagina PDF 1135, imaginea 6
+- caption: Merrill — pagina 1135, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1135_fig6.png
-- caption: Merrill — pagina PDF 1136, imaginea 7
+- caption: Merrill — pagina 1136, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig7.png
-- caption: Merrill — pagina PDF 1136, imaginea 8
+- caption: Merrill — pagina 1136, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig8.png
-- caption: Merrill — pagina PDF 1137, imaginea 9
+- caption: Merrill — pagina 1137, imaginea 9
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1137_fig9.png
-- caption: Merrill — pagina PDF 1138, imaginea 10
+- caption: Merrill — pagina 1138, imaginea 10
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1138_fig10.png
-- caption: Merrill — pagina PDF 1139, imaginea 11
+- caption: Merrill — pagina 1139, imaginea 11
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig11.png
-- caption: Merrill — pagina PDF 1139, imaginea 12
+- caption: Merrill — pagina 1139, imaginea 12
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig12.png
-- caption: Merrill — pagina PDF 1140, imaginea 13
+- caption: Merrill — pagina 1140, imaginea 13
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1140_fig13.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral sau Decubit dorsal poziție.; se ajustează
-  pacient astfel încât MSP este centrat pe grila. pentru sthenic pacient, se centrează
-  receptorul de imagine la nivelul L2 pentru imagini taken within 30 minutes after
-  contrast medium este administered (Fig. 15.82). pentru delayed imagini, se centrează
-  receptorul de imagine la nivelul crestele iliace. se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: Se așază pacientul în decubit ventral sau decubit dorsal.; Se ajustează
+  poziția pacientului astfel încât MSP să fie centrat pe grilă. Pentru pacientul normostenic,
+  se centrează receptorul de imagine la nivelul L2 pentru imaginile obținute în decurs
+  de 30 minute după administrarea substanței de contrast (Fig. 15.82). Pentru imaginile
+  tardive, se centrează receptorul de imagine la nivelul crestelor iliace. Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire intestin subțire pe fiecare imagine
-- Stomach pe initial imagini
-- Time marker
-- coloană vertebrală centrat pe imagine
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-- Penetration de contrast medium
-- Complete examination when barium reaches cecum
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul intestin subțire pe fiecare imagine
+- Stomacul pe imaginile inițiale
+- Marker de timp
+- Coloana vertebrală centrată pe imagine
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+- Penetrarea substanței de contrast
+- Finalizați examinarea când bariul ajunge în cec
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill
 source_pages:
@@ -84,70 +84,73 @@ source_pages:
 - 1139
 - 1140
 source_sections:
-  anatomy: 'intestin subțire progressively filling until barium reaches ileocecal
-    valve (Figs. 15.83–15.86). When barium has reached ileocecal region,
+  anatomy: 'Intestinul subțire se umple progresiv până când bariul ajunge la valva
+    ileocecală (Fig. 15.83–15.86). Când bariul a ajuns în regiunea ileocecală,
 
-    fluoroscopy poate fie performed, și compression radiographic imagini poate fie
-    obtained (Fig. 15.87). examination este usually completed when
+    se poate efectua fluoroscopie și se pot obține imagini radiografice cu compresie
+    (Fig. 15.87). Examinarea se încheie de obicei când
 
-    barium este visualized în cecum, typically within about 2 hours pentru pacient
-    cu normal intestinal motility.'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar
+    bariul este vizualizat în cec, de regulă în aproximativ 2 ore la pacientul cu
+    motilitate intestinală normală.'
+  collimation: '• Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar
 
-    de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe midpoint de receptorul de imagine (L2) pentru early imagini
-    sau la nivelul crestele iliace pentru delayed sequence expuneri.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.'
+  cr: • perpendicular pe centrul receptorului de imagine (L2) pentru imaginile precoce
+    sau la nivelul crestelor iliace pentru expunerile din secvența tardivă.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara regiunii anatomice de interes
 
-    • Entire intestin subțire pe fiecare imagine
+    • Întregul intestin subțire pe fiecare imagine
 
-    • Stomach pe initial imagini
+    • Stomacul pe imaginile inițiale
 
-    • Time marker
+    • Marker de timp
 
-    • coloană vertebrală centrat pe imagine
+    • Coloana vertebrală centrată pe imagine
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
 
-    • Penetration de contrast medium
+    • Penetrarea substanței de contrast
 
-    • Complete examination when barium reaches cecum'
-  part_pos: '• se ajustează pacient astfel încât MSP este centrat pe grila.
+    • Finalizați examinarea când bariul ajunge în cec'
+  part_pos: '• Se ajustează poziția pacientului astfel încât MSP să fie centrat pe
+    grilă.
 
-    • pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 pentru
-    imagini taken within 30 minutes after contrast medium este administered
+    • Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul
+    L2 pentru imaginile obținute în decurs de 30 minute după administrarea substanței
+    de contrast
 
     (Fig. 15.82).
 
-    • pentru delayed imagini, se centrează receptorul de imagine la nivelul crestele
+    • Pentru imaginile tardive, se centrează receptorul de imagine la nivelul crestelor
     iliace.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit ventral sau decubit dorsal.
-  respiration: Apnee la sfârșitul expirului complet unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1129–1140'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1129
+    And Biliary System, pagini 1129–1140'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar de abdomenul flanks. Se plasează markerul de lateralitate în câmpul
-    colimat.
-title: Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Posterioară
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar al flancurilor abdominale. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx Intestin Subțire (Tranzit Intestinal) — PA sau Incidență Antero-Posterioară
   (AP) (Merrill)
 ---
-# Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Posterioară (AP) (Merrill)
+# Rx Intestin Subțire (Tranzit Intestinal) — PA sau Incidență Antero-Posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -180,10 +183,10 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Po
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral sau Decubit dorsal poziție.; se ajustează pacient astfel încât MSP este centrat pe grila. pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 pentru imagini taken within 30 minutes after contrast medium este administered (Fig. 15.82). pentru delayed imagini, se centrează receptorul de imagine la nivelul crestele iliace. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine (L2) pentru early imagini sau la nivelul crestele iliace pentru delayed sequence expuneri.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral sau decubit dorsal.; Se ajustează poziția pacientului astfel încât MSP să fie centrat pe grilă. Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul L2 pentru imaginile obținute în decurs de 30 minute după administrarea substanței de contrast (Fig. 15.82). Pentru imaginile tardive, se centrează receptorul de imagine la nivelul crestelor iliace. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine (L2) pentru imaginile precoce sau la nivelul crestelor iliace pentru expunerile din secvența tardivă.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -197,22 +200,22 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Po
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire intestin subțire pe fiecare imagine
-    - Stomach pe initial imagini
-    - Time marker
-    - coloană vertebrală centrat pe imagine
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-    - Penetration de contrast medium
-    - Complete examination when barium reaches cecum
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul intestin subțire pe fiecare imagine
+    - Stomacul pe imaginile inițiale
+    - Marker de timp
+    - Coloana vertebrală centrată pe imagine
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+    - Penetrarea substanței de contrast
+    - Finalizați examinarea când bariul ajunge în cec
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -232,105 +235,105 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Po
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1130, imaginea 1](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1130_fig1.png)
+![Merrill — pagina 1130, imaginea 1](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1130_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1130, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1131, imaginea 2](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1131_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1131, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1130, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1132, imaginea 3](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1132_fig3.png)
+![Merrill — pagina 1131, imaginea 2](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1131_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1132, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1133, imaginea 4](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1133_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 1133, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1131, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1134, imaginea 5](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1134_fig5.png)
+![Merrill — pagina 1132, imaginea 3](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1132_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 1134, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1135, imaginea 6](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1135_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 1135, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1132, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1136, imaginea 7](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig7.png)
+![Merrill — pagina 1133, imaginea 4](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1133_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 1136, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1136, imaginea 8](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig8.png)
-
-<figcaption><strong>Merrill — pagina PDF 1136, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1133, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1137, imaginea 9](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1137_fig9.png)
+![Merrill — pagina 1134, imaginea 5](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1134_fig5.png)
 
-<figcaption><strong>Merrill — pagina PDF 1137, imaginea 9</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1138, imaginea 10](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1138_fig10.png)
-
-<figcaption><strong>Merrill — pagina PDF 1138, imaginea 10</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1134, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1139, imaginea 11](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig11.png)
+![Merrill — pagina 1135, imaginea 6](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1135_fig6.png)
 
-<figcaption><strong>Merrill — pagina PDF 1139, imaginea 11</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1139, imaginea 12](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig12.png)
-
-<figcaption><strong>Merrill — pagina PDF 1139, imaginea 12</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1135, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1140, imaginea 13](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1140_fig13.png)
+![Merrill — pagina 1136, imaginea 7](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig7.png)
 
-<figcaption><strong>Merrill — pagina PDF 1140, imaginea 13</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1136, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1136, imaginea 8](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1136_fig8.png)
+
+<figcaption><strong>Merrill — pagina 1136, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1137, imaginea 9](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1137_fig9.png)
+
+<figcaption><strong>Merrill — pagina 1137, imaginea 9</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1138, imaginea 10](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1138_fig10.png)
+
+<figcaption><strong>Merrill — pagina 1138, imaginea 10</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1139, imaginea 11](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig11.png)
+
+<figcaption><strong>Merrill — pagina 1139, imaginea 11</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1139, imaginea 12](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1139_fig12.png)
+
+<figcaption><strong>Merrill — pagina 1139, imaginea 12</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1140, imaginea 13](../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1140_fig13.png)
+
+<figcaption><strong>Merrill — pagina 1140, imaginea 13</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -347,55 +350,55 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — Pa or Incidență Antero-Po
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1129–1140](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1129)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1129–1140](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-intestin subțire progressively filling until barium reaches ileocecal valve (Figs. 15.83–15.86). When barium has reached ileocecal region,
-fluoroscopy poate fie performed, și compression radiographic imagini poate fie obtained (Fig. 15.87). examination este usually completed when
-barium este visualized în cecum, typically within about 2 hours pentru pacient cu normal intestinal motility.
+Intestinul subțire se umple progresiv până când bariul ajunge la valva ileocecală (Fig. 15.83–15.86). Când bariul a ajuns în regiunea ileocecală,
+se poate efectua fluoroscopie și se pot obține imagini radiografice cu compresie (Fig. 15.87). Examinarea se încheie de obicei când
+bariul este vizualizat în cec, de regulă în aproximativ 2 ore la pacientul cu motilitate intestinală normală.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
+al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe midpoint de receptorul de imagine (L2) pentru early imagini sau la nivelul crestele iliace pentru delayed sequence expuneri.
+• perpendicular pe centrul receptorului de imagine (L2) pentru imaginile precoce sau la nivelul crestelor iliace pentru expunerile din secvența tardivă.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire intestin subțire pe fiecare imagine
-• Stomach pe initial imagini
-• Time marker
-• coloană vertebrală centrat pe imagine
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-• Penetration de contrast medium
-• Complete examination when barium reaches cecum
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara regiunii anatomice de interes
+• Întregul intestin subțire pe fiecare imagine
+• Stomacul pe imaginile inițiale
+• Marker de timp
+• Coloana vertebrală centrată pe imagine
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+• Penetrarea substanței de contrast
+• Finalizați examinarea când bariul ajunge în cec
 
 ### part_pos
 
-• se ajustează pacient astfel încât MSP este centrat pe grila.
-• pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 pentru imagini taken within 30 minutes after contrast medium este administered
+• Se ajustează poziția pacientului astfel încât MSP să fie centrat pe grilă.
+• Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul L2 pentru imaginile obținute în decurs de 30 minute după administrarea substanței de contrast
 (Fig. 15.82).
-• pentru delayed imagini, se centrează receptorul de imagine la nivelul crestele iliace.
+• Pentru imaginile tardive, se centrează receptorul de imagine la nivelul crestelor iliace.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit ventral sau decubit dorsal.
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise requested.
+Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

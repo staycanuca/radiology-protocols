@@ -74,7 +74,7 @@ sid_dff: 100 cm
 slug: rx-profil-lateral-both-hips-frog-s-legs-position-p169-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 169
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=169
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 43 x 35 cm
@@ -202,4 +202,4 @@ title: Rx Profil (Lateral) - both hips (‘frog’s legs Poziționare’)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 169](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=169)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 169](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

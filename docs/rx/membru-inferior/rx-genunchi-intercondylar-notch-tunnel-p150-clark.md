@@ -63,7 +63,7 @@ sid_dff: 100 cm
 slug: rx-genunchi-intercondylar-notch-tunnel-p150-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 150
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=150
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -206,4 +206,4 @@ X-ray tube X-ray tube 110° casetă 90° 110 grade 90 grade radiografie de inter
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 150](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=150)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 150](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

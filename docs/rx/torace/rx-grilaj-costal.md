@@ -3,11 +3,11 @@ author: Departamentul de Radiologie
 breathing: Inspir profund pentru coastele superioare (1-9); expir complet pentru coastele
   inferioare (10-12 subdiafragmatice)
 category: torace
-centering: Punctul de maximă durere / jumătatea hemitoracelui examinat
+centering: Punctul de durere maximă / jumătatea hemitoracelui examinat
 clinical_indications:
 - Traumatism toracic închis cu durere localizată și suspiciune de fractură costală
-- Suspiciune volet costal (fracturi costale etajate pe multiple arcuri)
-- Evaluare leziuni litice sau metastaze costale
+- Suspiciune de volet costal (fracturi costale etajate pe multiple arcuri)
+- Evaluarea leziunilor litice sau a metastazelor costale
 iris_reference:
   chapter: Traumatisme & Torace
   radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
@@ -15,16 +15,16 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: Orice suspiciune de fracturi costale multiple cu detresă respiratorie sau instabilitate
-  impune completarea cu CT Torace.
+  impune completarea cu CT toracic.
 position: Ortostatism sau decubit; incidență AP/PA centrată pe hemitoracele afectat
   + incidență oblică la 45° pentru desfășurarea arcurilor costale laterale
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)
 quality_criteria:
-- Vizualizarea clară continuității corticalei osoase arcurilor costale
-- Desfășurarea fără suprapunere porțiunilor axilare pe incidența oblică
+- Vizualizarea clară a continuității corticalei osoase a arcurilor costale
+- Desfășurarea fără suprapunere a porțiunilor axilare pe incidența oblică
 - Vizibilitatea pleurei adiacente pentru excluderea unui pneumotorax sau revărsat
   asociat
 sid_dff: 100 - 115 cm
@@ -59,9 +59,9 @@ tech_params:
   grid: Cu grilă antidifuzoare Bucky
   kv: 65 - 75 (optimizat pentru contrast osos fin)
   mas: 10 - 20 (cu grilă Bucky)
-title: Rx Grilaj Costal / Hemitorace
+title: Rx grilaj costal / hemitorace
 ---
-# Rx Grilaj Costal / Hemitorace
+# Rx grilaj costal / hemitorace
 
 
 <div class="rx-meta-bar">
@@ -81,8 +81,8 @@ title: Rx Grilaj Costal / Hemitorace
     === "Indicații Clinice"
 
         - Traumatism toracic închis cu durere localizată și suspiciune de fractură costală
-        - Suspiciune volet costal (fracturi costale etajate pe multiple arcuri)
-        - Evaluare leziuni litice sau metastaze costale
+        - Suspiciune de volet costal (fracturi costale etajate pe multiple arcuri)
+        - Evaluarea leziunilor litice sau a metastazelor costale
 
     === "Ghid Național IRIS"
 
@@ -97,7 +97,7 @@ title: Rx Grilaj Costal / Hemitorace
     ---
 
     - **Poziție Pacient:** Ortostatism sau decubit; incidență AP/PA centrată pe hemitoracele afectat + incidență oblică la 45° pentru desfășurarea arcurilor costale laterale
-    - **Punct de Centrare Fascicul:** Punctul de maximă durere / jumătatea hemitoracelui examinat
+    - **Punct de Centrare Fascicul:** Punctul de durere maximă / jumătatea hemitoracelui examinat
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Inspir profund pentru coastele superioare (1-9); expir complet pentru coastele inferioare (10-12 subdiafragmatice)
 
@@ -120,21 +120,21 @@ title: Rx Grilaj Costal / Hemitorace
 
     ---
 
-    - Vizualizarea clară continuității corticalei osoase arcurilor costale
-    - Desfășurarea fără suprapunere porțiunilor axilare pe incidența oblică
+    - Vizualizarea clară a continuității corticalei osoase a arcurilor costale
+    - Desfășurarea fără suprapunere a porțiunilor axilare pe incidența oblică
     - Vizibilitatea pleurei adiacente pentru excluderea unui pneumotorax sau revărsat asociat
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Orice suspiciune de fracturi costale multiple cu detresă respiratorie sau instabilitate impune completarea cu CT Torace.
+    Orice suspiciune de fracturi costale multiple cu detresă respiratorie sau instabilitate impune completarea cu CT toracic.
 
 === "Ghid Rapid de Execuție"
 

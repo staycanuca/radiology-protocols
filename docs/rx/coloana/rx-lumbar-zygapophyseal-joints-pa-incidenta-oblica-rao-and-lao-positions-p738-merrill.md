@@ -2,53 +2,54 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: coloana
-centering: Lumbar region perpendicular la enter ridicat side approximately 2 inches
-  (5 cm) lateral la palpable spinous process și 1 la 1.5 inches (2.5 la 3.8 cm) above
-  crestele iliace. L5–S1 zygapophyseal articulație perpendicular la enter ridicat
-  side 2 inches (5 cm) lateral la spinous process și la point midway între creste
-  iliace și spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine
-  pe raza centrală.
+centering: 'Regiunea lombară: perpendicular pentru a intra de partea ridicată, la
+  aproximativ 2 inches (5 cm) lateral de procesul spinos palpabil și la 1 la 1.5 inches
+  (2.5 la 3.8 cm) deasupra crestelor iliace. Articulația zigapofizară L5–S1: perpendicular
+  pentru a intra de partea ridicată, la 2 inches (5 cm) lateral de procesul spinos
+  și în punctul situat la jumătatea distanței dintre crestele iliace și spina iliacă
+  antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 739, imaginea 1
+- caption: Merrill — pagina 739, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p739_fig1.png
-- caption: Merrill — pagina PDF 740, imaginea 2
+- caption: Merrill — pagina 740, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p740_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Examine pacientul în ortostatism sau Decubit Decubit ventral poziție. Decubit
-  poziție este generally used because it facilitates imobilizare. Greater ease în
-  positioning pacientul și resultant higher percentage de success în duplicating results
-  make semiprone poziție preferable la semisupine poziție. OID este increased, however,
-  which poate afect resolution.; de la Decubit ventral poziție, Se instruiește pacientul
-  să turn away de la side de interest approximately 45 grade la show zygapophyseal
-  articulații ̌ arthest de la receptorul de imagine și support corp pe Antebraț și
-  flectat Genunchi. oblic corp poziție 60 grade de la plane de receptorul de imagine
-  poate fie needed la show L5–S1 zygapophyseal articulații. se ajustează pacient’s
-  corp astfel încât axa longitudinală de pacientul este paralel cu axa longitudinală
-  de masa radiologică. se centrează pacient’s coloană vertebrală la linia mediană
-  grilă. în Incidență Oblică, Coloană Lombară lies în longitudinal plane that passes
-  2 inches (5 cm) lateral la procese spinoase (Fig. 9.100). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Examinați pacientul în ortostatism sau în decubit ventral. Poziția în decubit
+  este utilizată în general deoarece facilitează imobilizarea. Ușurința mai mare în
+  poziționarea pacientului și procentul mai mare de reușită rezultat în reproducerea
+  rezultatelor fac ca poziția semipronă să fie preferabilă poziției semisupine. OID
+  este crescut, însă, ceea ce poate afecta rezoluția. Din poziția în decubit ventral,
+  se instruiește pacientul să se rotească în direcția opusă părții de interes cu aproximativ
+  45 de grade pentru a evidenția articulațiile zigapofizare cele mai îndepărtate de
+  receptorul de imagine și să-și sprijine corpul pe antebraț și genunchiul flectat.
+  Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine
+  poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1. Se ajustează
+  corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă
+  cu axa longitudinală a mesei radiologice. Se centrează coloana vertebrală a pacientului
+  pe linia mediană a grilei. În Incidență Oblică, Coloana Lombară se află în planul
+  longitudinal care trece la 2 inches (5 cm) lateral de procesele spinoase (Fig. 9.100).
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Area de la lower coloană toracală la Sacru
-- Zygapophyseal articulații ̌ arthest de la receptorul de imagine
-- When articulație este nu well seen și pedicle este quite anterior pe vertebral corp,
-  pacientul este nu rotit enough.
-- When articulație este nu well seen și pedicle este quite posterior pe vertebral
-  corp, pacientul este rotit too much.
-- coloană vertebrală paralel cu tabletop astfel încât T12–L1 și L1–L2 intervertebral
-  spații articulare remain open
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Regiunea de la coloana toracală inferioară până la sacru
+- Articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine
+- Când articulația nu este bine vizibilă, iar pediculul este foarte anterior pe corpul
+  vertebral, pacientul nu este rotit suficient.
+- Când articulația nu este bine vizibilă, iar pediculul este foarte posterior pe corpul
+  vertebral, pacientul este rotit prea mult.
+- Coloana vertebrală paralelă cu masa radiologică, astfel încât spațiile articulare
+  intervertebrale T12–L1 și L1–L2 să rămână deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill
 source_pages:
@@ -56,109 +57,98 @@ source_pages:
 - 739
 - 740
 source_sections:
-  anatomy: 'lumbar sau lumbosacral vertebre, evidențiind articular processes de side
-    ̌ arther de la receptorul de imagine (Figs. 9.101–9.103). T12–L1 articulation
+  anatomy: 'Vertebre lombare sau lombosacrale, evidențiind procesele articulare de
+    partea cea mai îndepărtată de receptorul de imagine (Figs. 9.101–9.103). Articulația
+    T12–L1 dintre a douăsprezecea vertebră toracică și prima vertebră lombară, având
+    aceeași direcție ca cele din regiunea lombară, este vizualizată pe receptorul
+    de imagine mai mare. A cincea articulație lombosacrală este de obicei bine vizualizată
+    în pozițiile oblice (vezi Fig. 9.103).
 
-    între twelfth thoracic și first coloană lombară, having same direction ca those
-    în lumbar region, este vizualizat pe larger receptorul de imagine. fifth lumbosacral
-    articulație este usually well vizualizat în oblic poziții (see Fig. 9.103).
+    Când corpul este plasat într-o poziție oblică de 45 de grade și coloana vertebrală
+    lombară este radiografiată, procesele articulare și articulațiile zigapofizare
+    sunt vizualizate. Când pacientul a fost poziționat corect, imaginile coloanei
+    lombare au aspectul unor câini Scottie. Fig. 9.101 identifică structurile vertebrale
+    ce alcătuiesc câinele Scottie. (Vezi Rezumatul incidențelor oblice, p. 440.)'
+  collimation: '• Ajustați câmpul de iradiere la:
 
-    When corp este plasat în a 45-grade oblic poziție, și lumbar coloană vertebrală
-    este radiographed, articular processes și zygapophyseal
+    • 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 ×
+    12 inches (24 × 30 cm)
 
-    articulații sunt vizualizat. When pacientul has been properly poziționat, imagini
-    de coloană lombară have appearance de Scottie dogs. Fig. 9.101
+    • 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 ×
+    17 inches (35 × 43 cm)
 
-    identifies vertebral structures that compose Scottie dog. (See Summary de oblic
-    incidențe, p. 440.)'
-  collimation: '• Adjust câmp de iradiere la:
+    • 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1
 
-    • 9 × 12 inches (23 × 30 cm) pe collimator pentru 10 × 12 inches (24 × 30 cm)
-    receptorul de imagine
+    • Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: 'Regiunea lombară
 
-    • 9 × 14 inches (23 × 35 cm) pe collimator pentru 14 × 17 inches (35 × 43 cm)
-    receptorul de imagine
+    • perpendicular pentru a intra de partea ridicată, la aproximativ 2 inches (5
+    cm) lateral de procesul spinos palpabil și la 1 la 1.5 inches (2.5 la 3.8 cm)
+    deasupra crestelor iliace.
 
-    • 8 × 10 inches (18 × 24 cm) pe collimator pentru L5–S1 zygapophyseal articulație
+    Articulația zigapofizară L5–S1
 
-    • Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: 'Lumbar region
-
-    • perpendicular la enter ridicat side approximately 2 inches (5 cm) lateral la
-    palpable spinous process și 1 la 1.5 inches (2.5 la
-
-    3.8 cm) above crestele iliace.
-
-    L5–S1 zygapophyseal articulație
-
-    • perpendicular la enter ridicat side 2 inches (5 cm) lateral la spinous process
-    și la point midway între creste iliace și
-
-    spină iliacă antero-superioară (SIAS).
+    • perpendicular pentru a intra de partea ridicată, la 2 inches (5 cm) lateral
+    de procesul spinos și în punctul situat la jumătatea distanței dintre crestele
+    iliace și spina iliacă antero-superioară (SIAS).
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat
+    clar față de anatomia de interes
 
-    • Area de la lower coloană toracală la sacrum
+    • Regiunea de la coloana toracală inferioară până la sacrum
 
-    • Zygapophyseal articulații ̌ arthest de la receptorul de imagine
+    • Articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine
 
-    • When articulație este nu well seen și pedicle este quite anterior pe vertebral
-    corp, pacientul este nu rotit enough.
+    • Când articulația nu este bine vizibilă, iar pediculul este foarte anterior pe
+    corpul vertebral, pacientul nu este rotit suficient.
 
-    • When articulație este nu well seen și pedicle este quite posterior pe vertebral
-    corp, pacientul este rotit too much.
+    • Când articulația nu este bine vizibilă, iar pediculul este foarte posterior
+    pe corpul vertebral, pacientul este rotit prea mult.
 
-    • coloană vertebrală paralel cu tabletop astfel încât T12–L1 și L1–L2 intervertebral
-    spații articulare remain open
+    • Coloana vertebrală paralelă cu masa radiologică, astfel încât spațiile articulare
+    intervertebrale T12–L1 și L1–L2 să rămână deschise
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• de la decubit ventral, Se instruiește pacientul să turn away de la
-    side de interest approximately 45 grade la show zygapophyseal
+    • Detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• Din decubit ventral, se instruiește pacientul să se rotească în direcția
+    opusă părții de interes cu aproximativ 45 de grade pentru a evidenția articulațiile
+    zigapofizare cele mai îndepărtate de receptorul de imagine și să-și sprijine corpul
+    pe antebraț și genunchiul flectat. Poziția oblică a corpului la 60 de grade față
+    de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile
+    zigapofizare L5–S1.
 
-    articulații ̌ arthest de la receptorul de imagine și support corp pe forearm și
-    flectat genunchi. oblic corp poziție 60 grade de la plane
+    • Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului
+    să fie paralelă cu axa longitudinală a mesei radiologice.
 
-    de receptorul de imagine poate fie needed la show L5–S1 zygapophyseal articulații.
+    • Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În
+    poziția oblică, coloana vertebrală lombară se află în planul longitudinal care
+    trece la 2 inches (5 cm) lateral de procesele spinoase (Fig. 9.100).
 
-    • se ajustează pacient’s corp astfel încât axa longitudinală de pacientul este
-    paralel cu axa longitudinală de masa radiologică.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Examinați pacientul în ortostatism sau în decubit ventral. Poziția
+    în decubit este utilizată în general deoarece facilitează imobilizarea.
 
-    • se centrează pacient’s coloană vertebrală la linia mediană grilă. în oblic poziție,
-    lumbar coloană vertebrală lies în longitudinal plane that passes
-
-    2 inches (5 cm) lateral la procese spinoase (Fig. 9.100).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Examine pacientul în ortostatism sau recumbent decubit ventral.
-    recumbent poziție este generally used because it facilitates
-
-    imobilizare.
-
-    • Greater ease în positioning pacientul și resultant higher percentage de success
-    în duplicating results make semiprone poziție
-
-    preferable la semisupine poziție. OID este increased, however, which poate afect
-    resolution.'
+    • Ușurința mai mare în poziționarea pacientului și procentul mai mare de reușită
+    rezultat în reproducerea rezultatelor fac ca poziția semipronă să fie preferabilă
+    poziției semisupine. OID este crescut, însă, ceea ce poate afecta rezoluția.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+  tech: 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm), longitudinal.
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 738–740
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=738
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 738–740
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: 'Adjust câmp de iradiere la: 9 × 12 inches (23 × 30 cm) pe collimator
-    pentru 10 × 12 inches (24 × 30 cm) receptorul de imagine 9 × 14 inches (23 × 35
-    cm) pe collimator pentru 14 × 17 inches (35 × 43 cm) receptorul de imagine 8 ×
-    10 inches (18 × 24 cm) pe collimator pentru L5–S1 zygapophyseal articulație Place
-    marker de lateralitate (D/S) în collimated expunere field.'
-title: Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — RAO and Oblică
-  Anterioară Stângă (OAS / LAO)s (Merrill)
+  collimation: 'Ajustați câmpul de iradiere la: 9 × 12 inches (23 × 30 cm) pe colimator
+    pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm); 9 × 14 inches (23
+    × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43
+    cm); 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Postero-Anterioară
+  (PA) — Se obțin radiografii RAO și Oblică Anterioară Stângă (OAS / LAO). (Merrill)
 ---
-# Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
+# Rx Articulațiile zigapofizare lombare — Incidență Oblică Postero-Anterioară (PA) — Se obțin radiografii RAO și Oblică Anterioară Stângă (OAS / LAO). (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -191,8 +181,8 @@ title: Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — R
 
     ---
 
-    - **Poziție Pacient:** Examine pacientul în ortostatism sau Decubit Decubit ventral poziție. Decubit poziție este generally used because it facilitates imobilizare. Greater ease în positioning pacientul și resultant higher percentage de success în duplicating results make semiprone poziție preferable la semisupine poziție. OID este increased, however, which poate afect resolution.; de la Decubit ventral poziție, Se instruiește pacientul să turn away de la side de interest approximately 45 grade la show zygapophyseal articulații ̌ arthest de la receptorul de imagine și support corp pe Antebraț și flectat Genunchi. oblic corp poziție 60 grade de la plane de receptorul de imagine poate fie needed la show L5–S1 zygapophyseal articulații. se ajustează pacient’s corp astfel încât axa longitudinală de pacientul este paralel cu axa longitudinală de masa radiologică. se centrează pacient’s coloană vertebrală la linia mediană grilă. în Incidență Oblică, Coloană Lombară lies în longitudinal plane that passes 2 inches (5 cm) lateral la procese spinoase (Fig. 9.100). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Lumbar region perpendicular la enter ridicat side approximately 2 inches (5 cm) lateral la palpable spinous process și 1 la 1.5 inches (2.5 la 3.8 cm) above crestele iliace. L5–S1 zygapophyseal articulație perpendicular la enter ridicat side 2 inches (5 cm) lateral la spinous process și la point midway între creste iliace și spină iliacă antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Examinați pacientul în ortostatism sau în decubit ventral. Poziția în decubit este utilizată în general deoarece facilitează imobilizarea. Ușurința mai mare în poziționarea pacientului și procentul mai mare de reușită rezultat în reproducerea rezultatelor fac ca poziția semipronă să fie preferabilă poziției semisupine. OID este crescut, însă, ceea ce poate afecta rezoluția. Din poziția în decubit ventral, se instruiește pacientul să se rotească în direcția opusă părții de interes cu aproximativ 45 de grade pentru a evidenția articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine și să-și sprijine corpul pe antebraț și genunchiul flectat. Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1. Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice. Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În Incidență Oblică, Coloana Lombară se află în planul longitudinal care trece la 2 inches (5 cm) lateral de procesele spinoase (Fig. 9.100). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Regiunea lombară: perpendicular pentru a intra de partea ridicată, la aproximativ 2 inches (5 cm) lateral de procesul spinos palpabil și la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace. Articulația zigapofizară L5–S1: perpendicular pentru a intra de partea ridicată, la 2 inches (5 cm) lateral de procesul spinos și în punctul situat la jumătatea distanței dintre crestele iliace și spina iliacă antero-superioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -208,21 +198,21 @@ title: Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — R
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la: 9 × 12 inches (23 × 30 cm) pe collimator pentru 10 × 12 inches (24 × 30 cm) receptorul de imagine 9 × 14 inches (23 × 35 cm) pe collimator pentru 14 × 17 inches (35 × 43 cm) receptorul de imagine 8 × 10 inches (18 × 24 cm) pe collimator pentru L5–S1 zygapophyseal articulație Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la: 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm); 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43 cm); 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Area de la lower coloană toracală la Sacru
-    - Zygapophyseal articulații ̌ arthest de la receptorul de imagine
-    - When articulație este nu well seen și pedicle este quite anterior pe vertebral corp, pacientul este nu rotit enough.
-    - When articulație este nu well seen și pedicle este quite posterior pe vertebral corp, pacientul este rotit too much.
-    - coloană vertebrală paralel cu tabletop astfel încât T12–L1 și L1–L2 intervertebral spații articulare remain open
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Regiunea de la coloana toracală inferioară până la sacru
+    - Articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine
+    - Când articulația nu este bine vizibilă, iar pediculul este foarte anterior pe corpul vertebral, pacientul nu este rotit suficient.
+    - Când articulația nu este bine vizibilă, iar pediculul este foarte posterior pe corpul vertebral, pacientul este rotit prea mult.
+    - Coloana vertebrală paralelă cu masa radiologică, astfel încât spațiile articulare intervertebrale T12–L1 și L1–L2 să rămână deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -242,17 +232,17 @@ title: Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — R
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 739, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p739_fig1.png)
+![Merrill — pagina 739, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p739_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 739, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 739, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 740, imaginea 2](../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p740_fig2.png)
+![Merrill — pagina 740, imaginea 2](../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-pa-incidenta-oblica-rao-and-lao-positions-p738-merrill/p740_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 740, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 740, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -269,69 +259,59 @@ title: Rx Lumbar Zygapophyseal Joints — Oblică Postero-Anterioară (PA) — R
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 738–740](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=738)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 738–740](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lumbar sau lumbosacral vertebre, evidențiind articular processes de side ̌ arther de la receptorul de imagine (Figs. 9.101–9.103). T12–L1 articulation
-între twelfth thoracic și first coloană lombară, having same direction ca those în lumbar region, este vizualizat pe larger receptorul de imagine. fifth lumbosacral articulație este usually well vizualizat în oblic poziții (see Fig. 9.103).
-When corp este plasat în a 45-grade oblic poziție, și lumbar coloană vertebrală este radiographed, articular processes și zygapophyseal
-articulații sunt vizualizat. When pacientul has been properly poziționat, imagini de coloană lombară have appearance de Scottie dogs. Fig. 9.101
-identifies vertebral structures that compose Scottie dog. (See Summary de oblic incidențe, p. 440.)
+Vertebre lombare sau lombosacrale, evidențiind procesele articulare de partea cea mai îndepărtată de receptorul de imagine (Figs. 9.101–9.103). Articulația T12–L1 dintre a douăsprezecea vertebră toracică și prima vertebră lombară, având aceeași direcție ca cele din regiunea lombară, este vizualizată pe receptorul de imagine mai mare. A cincea articulație lombosacrală este de obicei bine vizualizată în pozițiile oblice (vezi Fig. 9.103).
+Când corpul este plasat într-o poziție oblică de 45 de grade și coloana vertebrală lombară este radiografiată, procesele articulare și articulațiile zigapofizare sunt vizualizate. Când pacientul a fost poziționat corect, imaginile coloanei lombare au aspectul unor câini Scottie. Fig. 9.101 identifică structurile vertebrale ce alcătuiesc câinele Scottie. (Vezi Rezumatul incidențelor oblice, p. 440.)
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la:
-• 9 × 12 inches (23 × 30 cm) pe collimator pentru 10 × 12 inches (24 × 30 cm) receptorul de imagine
-• 9 × 14 inches (23 × 35 cm) pe collimator pentru 14 × 17 inches (35 × 43 cm) receptorul de imagine
-• 8 × 10 inches (18 × 24 cm) pe collimator pentru L5–S1 zygapophyseal articulație
-• Place marker de lateralitate (D/S) în collimated expunere field.
+• Ajustați câmpul de iradiere la:
+• 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm)
+• 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43 cm)
+• 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1
+• Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-Lumbar region
-• perpendicular la enter ridicat side approximately 2 inches (5 cm) lateral la palpable spinous process și 1 la 1.5 inches (2.5 la
-3.8 cm) above crestele iliace.
-L5–S1 zygapophyseal articulație
-• perpendicular la enter ridicat side 2 inches (5 cm) lateral la spinous process și la point midway între creste iliace și
-spină iliacă antero-superioară (SIAS).
+Regiunea lombară
+• perpendicular pentru a intra de partea ridicată, la aproximativ 2 inches (5 cm) lateral de procesul spinos palpabil și la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace.
+Articulația zigapofizară L5–S1
+• perpendicular pentru a intra de partea ridicată, la 2 inches (5 cm) lateral de procesul spinos și în punctul situat la jumătatea distanței dintre crestele iliace și spina iliacă antero-superioară (SIAS).
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Area de la lower coloană toracală la sacrum
-• Zygapophyseal articulații ̌ arthest de la receptorul de imagine
-• When articulație este nu well seen și pedicle este quite anterior pe vertebral corp, pacientul este nu rotit enough.
-• When articulație este nu well seen și pedicle este quite posterior pe vertebral corp, pacientul este rotit too much.
-• coloană vertebrală paralel cu tabletop astfel încât T12–L1 și L1–L2 intervertebral spații articulare remain open
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat clar față de anatomia de interes
+• Regiunea de la coloana toracală inferioară până la sacrum
+• Articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine
+• Când articulația nu este bine vizibilă, iar pediculul este foarte anterior pe corpul vertebral, pacientul nu este rotit suficient.
+• Când articulația nu este bine vizibilă, iar pediculul este foarte posterior pe corpul vertebral, pacientul este rotit prea mult.
+• Coloana vertebrală paralelă cu masa radiologică, astfel încât spațiile articulare intervertebrale T12–L1 și L1–L2 să rămână deschise
+• Detalii osoase trabeculare și țesuturile moi înconjurătoare
 
 ### part_pos
 
-• de la decubit ventral, Se instruiește pacientul să turn away de la side de interest approximately 45 grade la show zygapophyseal
-articulații ̌ arthest de la receptorul de imagine și support corp pe forearm și flectat genunchi. oblic corp poziție 60 grade de la plane
-de receptorul de imagine poate fie needed la show L5–S1 zygapophyseal articulații.
-• se ajustează pacient’s corp astfel încât axa longitudinală de pacientul este paralel cu axa longitudinală de masa radiologică.
-• se centrează pacient’s coloană vertebrală la linia mediană grilă. în oblic poziție, lumbar coloană vertebrală lies în longitudinal plane that passes
-2 inches (5 cm) lateral la procese spinoase (Fig. 9.100).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Din decubit ventral, se instruiește pacientul să se rotească în direcția opusă părții de interes cu aproximativ 45 de grade pentru a evidenția articulațiile zigapofizare cele mai îndepărtate de receptorul de imagine și să-și sprijine corpul pe antebraț și genunchiul flectat. Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1.
+• Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice.
+• Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În poziția oblică, coloana vertebrală lombară se află în planul longitudinal care trece la 2 inches (5 cm) lateral de procesele spinoase (Fig. 9.100).
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Examine pacientul în ortostatism sau recumbent decubit ventral. recumbent poziție este generally used because it facilitates
-imobilizare.
-• Greater ease în positioning pacientul și resultant higher percentage de success în duplicating results make semiprone poziție
-preferable la semisupine poziție. OID este increased, however, which poate afect resolution.
+• Examinați pacientul în ortostatism sau în decubit ventral. Poziția în decubit este utilizată în general deoarece facilitează imobilizarea.
+• Ușurința mai mare în poziționarea pacientului și procentul mai mare de reușită rezultat în reproducerea rezultatelor fac ca poziția semipronă să fie preferabilă poziției semisupine. OID este crescut, însă, ceea ce poate afecta rezoluția.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm), longitudinal.
 

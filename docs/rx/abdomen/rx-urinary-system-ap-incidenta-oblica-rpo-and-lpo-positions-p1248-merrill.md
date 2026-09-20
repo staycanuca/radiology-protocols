@@ -2,45 +2,47 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe centrul receptorului de imagine la nivelul crestele iliace,
-  entering approximately 2 inches (5 cm) lateral la linia mediană pe ridicat side
+centering: perpendicular pe centrul receptorului de imagine, la nivelul crestelor
+  iliace, cu punctul de intrare la aproximativ 2 țoli (5 cm) lateral de linia mediană,
+  pe partea ridicată
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1249, imaginea 1
+- caption: Merrill — pagina 1249, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1249_fig1.png
-- caption: Merrill — pagina PDF 1250, imaginea 2
+- caption: Merrill — pagina 1250, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1250_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul Decubit dorsal pe masa radiologică pentru oblic
-  incidențe de urinary system. rinichi sunt situated obliquely, slanting anteriorly
-  în plan transversal. When performing AP oblic incidențe, remember that rinichi closer
-  la receptorul de imagine este perpendicular pe plane de receptorul de imagine și
-  rinichi farther de la receptorul de imagine este paralel cu this plane.; Turn pacientul
-  astfel încât plan mediocoronal forms angle de 30 grade de la receptorul de imagine
-  plane. se ajustează pacient’s umeri și hips so that they sunt în same plane, și
-  place suitable supports under ridicat side ca needed. Place brațele so that they
-  sunt nu superimposed pe urinary system. se centrează coloană vertebrală la grila
-  (Fig. 16.45). se centrează receptorul de imagine la nivelul crestele iliace. se
-  efectuează ecranarea gonadelor cu șorț plumbat.
+position: se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidențele
+  oblice ale aparatului urinar. Rinichii sunt situați oblic, înclinați anterior în
+  plan transversal. La efectuarea incidențelor oblice AP, rețineți că rinichiul mai
+  apropiat de receptorul de imagine este perpendicular pe planul receptorului de imagine,
+  iar rinichiul mai îndepărtat de receptorul de imagine este paralel cu acest plan.
+  se rotește pacientul astfel încât planul mediocoronal să formeze un unghi de 30
+  grade cu planul receptorului de imagine. se ajustează poziția umerilor și șoldurilor
+  pacientului astfel încât să fie în același plan și se așază suporturi adecvate sub
+  partea ridicată, după necesitate. se așază brațele astfel încât să nu se suprapună
+  peste aparatul urinar. se centrează coloana vertebrală la grilă (Fig. 16.45). se
+  centrează receptorul de imagine la nivelul crestelor iliace. se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- pacient rotit approximately 30 grade
-- fără superimposition de rinichi remote de la receptorul de imagine pe vertebre
-- Entire downside rinichi
-- Bladder și lower ureters pe 14 × 17-inch (35 × 43-cm) expunere field if pacient
-  size permits
-- Contrast medium în rinichi, ureters, și bladder
-- Surrounding anatomy
-- Time marker
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- pacient rotit cu aproximativ 30 grade
+- fără suprapunerea rinichiului mai îndepărtat de receptorul de imagine peste vertebre
+- Rinichiul de pe partea de dedesubt în întregime
+- Vezica urinară și porțiunile inferioare ale ureterelor în câmpul de expunere de
+  14 × 17 țoli (35 × 43 cm), dacă dimensiunile pacientului permit
+- Substanță de contrast în rinichi, uretere și vezica urinară
+- Structurile anatomice învecinate
+- Marker de timp
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill
 source_pages:
@@ -48,77 +50,76 @@ source_pages:
 - 1249
 - 1250
 source_sections:
-  anatomy: 'AP oblic incidență de urinary system shows rinichi, ureters, și bladder
-    filled cu contrast medium. ridicat rinichi este
-
-    paralel cu receptorul de imagine, și downside rinichi este perpendicular pe receptorul
-    de imagine (RI) (Fig. 16.46).'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch
-    (2.5
-
-    cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S)
-    în collimated expunere field.'
-  cr: • perpendicular pe centrul receptorului de imagine la nivelul crestele iliace,
-    entering approximately 2 inches (5 cm) lateral la linia mediană pe ridicat side
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Incidența oblică AP a aparatului urinar evidențiază rinichii, ureterele
+    și vezica urinară umplute cu substanță de contrast. Rinichiul de pe partea ridicată
+    este paralel cu receptorul de imagine, iar rinichiul de pe partea de dedesubt
+    este perpendicular pe receptorul de imagine (RI) (Fig. 16.46).
+  collimation: • se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm), orientat longitudinal. pentru pacienții de talie mai mică,
+    se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale. se
+    plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+  cr: • perpendicular pe centrul receptorului de imagine, la nivelul crestelor iliace,
+    cu punctul de intrare la aproximativ 2 țoli (5 cm) lateral de linia mediană, pe
+    partea ridicată
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste structurile anatomice de interes
 
-    • pacient rotit approximately 30 grade
+    • pacient rotit cu aproximativ 30 grade
 
-    • fără superimposition de rinichi remote de la receptorul de imagine pe vertebre
+    • fără suprapunerea rinichiului mai îndepărtat de receptorul de imagine peste
+    vertebre
 
-    • Entire downside rinichi
+    • Rinichiul de pe partea de dedesubt în întregime
 
-    • Bladder și lower ureters pe 14 × 17-inch (35 × 43-cm) expunere field if pacient
-    size permits
+    • Vezica urinară și porțiunile inferioare ale ureterelor în câmpul de expunere
+    de 14 × 17 țoli (35 × 43 cm), dacă dimensiunile pacientului permit
 
-    • Contrast medium în rinichi, ureters, și bladder
+    • Substanță de contrast în rinichi, uretere și vezica urinară
 
-    • Surrounding anatomy
+    • Structurile anatomice învecinate
 
-    • Time marker'
-  part_pos: '• Turn pacientul astfel încât plan mediocoronal forms angle de 30 grade
-    de la receptorul de imagine plane.
+    • Marker de timp'
+  part_pos: '• se rotește pacientul astfel încât planul mediocoronal să formeze un
+    unghi de 30 grade cu planul receptorului de imagine.
 
-    • se ajustează pacient’s umeri și hips so that they sunt în same plane, și place
-    suitable supports under ridicat side ca needed.
+    • se ajustează poziția umerilor și șoldurilor pacientului astfel încât să fie
+    în același plan și se așază suporturi adecvate sub partea ridicată, după necesitate.
 
-    • Place brațele so that they sunt nu superimposed pe urinary system.
+    • se așază brațele astfel încât să nu se suprapună peste aparatul urinar.
 
-    • se centrează coloană vertebrală la grila (Fig. 16.45).
+    • se centrează coloana vertebrală la grilă (Fig. 16.45).
 
-    • se centrează receptorul de imagine la nivelul crestele iliace.
+    • se centrează receptorul de imagine la nivelul crestelor iliace.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: '• se poziționează pacientul în decubit dorsal pe masa radiologică
-    pentru oblic incidențe de urinary system. rinichi sunt situated obliquely,
+    pentru incidențele oblice ale aparatului urinar. Rinichii sunt situați oblic,
+    înclinați anterior în plan transversal.
 
-    slanting anteriorly în plan transversal.
-
-    • When performing AP oblic incidențe, remember that rinichi closer la receptorul
-    de imagine este perpendicular pe plane de receptorul de imagine și rinichi farther
-    de la receptorul de imagine este paralel cu this plane.'
+    • La efectuarea incidențelor oblice AP, rețineți că rinichiul mai apropiat de
+    receptorul de imagine este perpendicular pe planul receptorului de imagine, iar
+    rinichiul mai îndepărtat de receptorul de imagine este paralel cu acest plan.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1248–1250
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1248
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1248–1250
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-    cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S)
-    în collimated expunere field.
-title: Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblică Posterioară
-  Stângă (OPS / LPO)s (Merrill)
+  collimation: se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm), orientat longitudinal. pentru pacienții de talie mai mică,
+    se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale. se
+    plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+title: Rx Aparat Urinar — Oblică Antero-Posterioară (AP) — RPO și Oblică Posterioară
+  Stângă (OPS / LPO) (Merrill)
 ---
-# Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblică Posterioară Stângă (OPS / LPO)s (Merrill)
+# Rx Aparat Urinar — Oblică Antero-Posterioară (AP) — RPO și Oblică Posterioară Stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -151,8 +152,8 @@ title: Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblic�
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul Decubit dorsal pe masa radiologică pentru oblic incidențe de urinary system. rinichi sunt situated obliquely, slanting anteriorly în plan transversal. When performing AP oblic incidențe, remember that rinichi closer la receptorul de imagine este perpendicular pe plane de receptorul de imagine și rinichi farther de la receptorul de imagine este paralel cu this plane.; Turn pacientul astfel încât plan mediocoronal forms angle de 30 grade de la receptorul de imagine plane. se ajustează pacient’s umeri și hips so that they sunt în same plane, și place suitable supports under ridicat side ca needed. Place brațele so that they sunt nu superimposed pe urinary system. se centrează coloană vertebrală la grila (Fig. 16.45). se centrează receptorul de imagine la nivelul crestele iliace. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine la nivelul crestele iliace, entering approximately 2 inches (5 cm) lateral la linia mediană pe ridicat side
+    - **Poziție Pacient:** se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidențele oblice ale aparatului urinar. Rinichii sunt situați oblic, înclinați anterior în plan transversal. La efectuarea incidențelor oblice AP, rețineți că rinichiul mai apropiat de receptorul de imagine este perpendicular pe planul receptorului de imagine, iar rinichiul mai îndepărtat de receptorul de imagine este paralel cu acest plan. se rotește pacientul astfel încât planul mediocoronal să formeze un unghi de 30 grade cu planul receptorului de imagine. se ajustează poziția umerilor și șoldurilor pacientului astfel încât să fie în același plan și se așază suporturi adecvate sub partea ridicată, după necesitate. se așază brațele astfel încât să nu se suprapună peste aparatul urinar. se centrează coloana vertebrală la grilă (Fig. 16.45). se centrează receptorul de imagine la nivelul crestelor iliace. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine, la nivelul crestelor iliace, cu punctul de intrare la aproximativ 2 țoli (5 cm) lateral de linia mediană, pe partea ridicată
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -168,22 +169,22 @@ title: Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblic�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), orientat longitudinal. pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale. se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - pacient rotit approximately 30 grade
-    - fără superimposition de rinichi remote de la receptorul de imagine pe vertebre
-    - Entire downside rinichi
-    - Bladder și lower ureters pe 14 × 17-inch (35 × 43-cm) expunere field if pacient size permits
-    - Contrast medium în rinichi, ureters, și bladder
-    - Surrounding anatomy
-    - Time marker
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - pacient rotit cu aproximativ 30 grade
+    - fără suprapunerea rinichiului mai îndepărtat de receptorul de imagine peste vertebre
+    - Rinichiul de pe partea de dedesubt în întregime
+    - Vezica urinară și porțiunile inferioare ale ureterelor în câmpul de expunere de 14 × 17 țoli (35 × 43 cm), dacă dimensiunile pacientului permit
+    - Substanță de contrast în rinichi, uretere și vezica urinară
+    - Structurile anatomice învecinate
+    - Marker de timp
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -203,17 +204,17 @@ title: Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblic�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1249, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1249_fig1.png)
+![Merrill — pagina 1249, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1249_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1249, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1249, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1250, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1250_fig2.png)
+![Merrill — pagina 1250, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-ap-incidenta-oblica-rpo-and-lpo-positions-p1248-merrill/p1250_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1250, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1250, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -230,57 +231,54 @@ title: Rx Urinary System — Oblică Antero-Posterioară (AP) — RPO and Oblic�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1248–1250](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1248)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1248–1250](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-AP oblic incidență de urinary system shows rinichi, ureters, și bladder filled cu contrast medium. ridicat rinichi este
-paralel cu receptorul de imagine, și downside rinichi este perpendicular pe receptorul de imagine (RI) (Fig. 16.46).
+Incidența oblică AP a aparatului urinar evidențiază rinichii, ureterele și vezica urinară umplute cu substanță de contrast. Rinichiul de pe partea ridicată este paralel cu receptorul de imagine, iar rinichiul de pe partea de dedesubt este perpendicular pe receptorul de imagine (RI) (Fig. 16.46).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), orientat longitudinal. pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale. se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe centrul receptorului de imagine la nivelul crestele iliace, entering approximately 2 inches (5 cm) lateral la linia mediană pe ridicat side
+• perpendicular pe centrul receptorului de imagine, la nivelul crestelor iliace, cu punctul de intrare la aproximativ 2 țoli (5 cm) lateral de linia mediană, pe partea ridicată
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• pacient rotit approximately 30 grade
-• fără superimposition de rinichi remote de la receptorul de imagine pe vertebre
-• Entire downside rinichi
-• Bladder și lower ureters pe 14 × 17-inch (35 × 43-cm) expunere field if pacient size permits
-• Contrast medium în rinichi, ureters, și bladder
-• Surrounding anatomy
-• Time marker
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
+• pacient rotit cu aproximativ 30 grade
+• fără suprapunerea rinichiului mai îndepărtat de receptorul de imagine peste vertebre
+• Rinichiul de pe partea de dedesubt în întregime
+• Vezica urinară și porțiunile inferioare ale ureterelor în câmpul de expunere de 14 × 17 țoli (35 × 43 cm), dacă dimensiunile pacientului permit
+• Substanță de contrast în rinichi, uretere și vezica urinară
+• Structurile anatomice învecinate
+• Marker de timp
 
 ### part_pos
 
-• Turn pacientul astfel încât plan mediocoronal forms angle de 30 grade de la receptorul de imagine plane.
-• se ajustează pacient’s umeri și hips so that they sunt în same plane, și place suitable supports under ridicat side ca needed.
-• Place brațele so that they sunt nu superimposed pe urinary system.
-• se centrează coloană vertebrală la grila (Fig. 16.45).
-• se centrează receptorul de imagine la nivelul crestele iliace.
+• se rotește pacientul astfel încât planul mediocoronal să formeze un unghi de 30 grade cu planul receptorului de imagine.
+• se ajustează poziția umerilor și șoldurilor pacientului astfel încât să fie în același plan și se așază suporturi adecvate sub partea ridicată, după necesitate.
+• se așază brațele astfel încât să nu se suprapună peste aparatul urinar.
+• se centrează coloana vertebrală la grilă (Fig. 16.45).
+• se centrează receptorul de imagine la nivelul crestelor iliace.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se poziționează pacientul în decubit dorsal pe masa radiologică pentru oblic incidențe de urinary system. rinichi sunt situated obliquely,
-slanting anteriorly în plan transversal.
-• When performing AP oblic incidențe, remember that rinichi closer la receptorul de imagine este perpendicular pe plane de receptorul de imagine și rinichi farther de la receptorul de imagine este paralel cu this plane.
+• se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidențele oblice ale aparatului urinar. Rinichii sunt situați oblic, înclinați anterior în plan transversal.
+• La efectuarea incidențelor oblice AP, rețineți că rinichiul mai apropiat de receptorul de imagine este perpendicular pe planul receptorului de imagine, iar rinichiul mai îndepărtat de receptorul de imagine este paralel cu acest plan.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

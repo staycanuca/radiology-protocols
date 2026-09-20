@@ -3,43 +3,48 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• Antero-posterior (AP): se orientează raza centrală centrală 10–25 grade
-  cranially de la vertical și spre point midway între level de anterior superior iliac
-  spines și superior margine de simfiză pubiană.
+centering: '• Antero-posterior (AP): se orientează raza centrală 10–25 grade cranial
+  față de verticală și spre punctul situat la jumătatea distanței dintre nivelul spinelor
+  iliace antero-superioare și marginea superioară a simfizei pubiene.
 
-  • grade de angulation de raza centrală este normally greater pentru females than
-  pentru males și will fie less pentru greater grade de flexion la șoldurile și genunchi.
+  • Gradul de angulare a razei centrale este în mod normal mai mare la femei decât
+  la bărbați și va fi mai mic pentru grade mai mari de flexie a șoldurilor și genunchilor.
 
-  • Postero-anterior (PA): palpate poziție de Sacru prin locating spină iliacă postero-superioară
-  (SIPS) și Coccis. Centre la middle de Sacru în linia mediană.
+  • Postero-anterior (PA): se palpează poziția sacrului prin localizarea spinelor
+  iliace postero-superioare (SIPS) și a coccisului. Se centrează pe mijlocul sacrului,
+  pe linia mediană.
 
-  • grade de fascicul angulation will depend pe pelvic tilt.
+  • Gradul de angulare a fasciculului va depinde de înclinarea bazinului.
 
-  Palpate Sacru și then simply apply caudal angulation, astfel încât raza centrală
-  este perpendicular pe axa longitudinală de Sacru (see photograph opposite).
+  Se palpează sacrul și apoi se aplică simplu o angulare caudală, astfel încât raza
+  centrală să fie perpendiculară pe axa longitudinală a sacrului (vezi fotografia
+  alăturată).
 
 
-  • se orientează raza centrală centrală la drept-angles la axa longitudinală de Sacru
-  și spre point în linia mediană mesei la level midway între posterior superior iliac
-  spines și sacro-coccygeal junction.'
+  • Se orientează raza centrală perpendicular pe axa longitudinală a sacrului și spre
+  un punct situat pe linia mediană a mesei, la nivelul situat la jumătatea distanței
+  dintre spinele iliace postero-superioare și joncțiunea sacrococcigiană.'
 clinical_indications:
-- Sacru este thin bone. Problems cu expunere poate easily lead la important pathologies
-  such ca suspiciune de fractură și metastases being missed. 190
-- suspiciune de fractură sunt easily missed if expunere este poor sau grade de rotație
-  este present.
+- Sacrul este un os subțire. Problemele de expunere pot duce cu ușurință la omiterea
+  unor patologii importante, precum suspiciunea de fractură și metastazele. 190
+- Suspiciunile de fractură sunt omise cu ușurință dacă expunerea este slabă sau există
+  un grad de rotație.
 images:
-- caption: demonstration de Articulații Sacroiliace, ca spații articulare will
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Demonstrarea articulațiilor sacroiliace, deoarece spațiile articulare vor
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_1.jpeg
-- caption: • grade de angulation de raza centrală este normally
+- caption: • Gradul de angulare a razei centrale este în mod normal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_2.jpeg
-- caption: easily lead la important pathologies such ca suspiciune de fractură și
+- caption: poate duce cu ușurință la patologii importante, precum suspiciunea de fractură
+    și
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_3.jpeg
-- caption: • suspiciune de fractură sunt easily missed if expunere este poor sau grade
+- caption: • Suspiciunile de fractură sunt omise cu ușurință dacă expunerea este slabă
+    sau gradul
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_4.jpeg
@@ -50,30 +55,31 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este culcat Decubit dorsal sau Decubit ventral pe masa radiologică,
-  cu planul mediosagital coincident cu, și la drept-angles la, linia mediană Bucky.
+position: '• Pacientul este culcat în decubit dorsal sau decubit ventral pe masa radiologică,
+  cu planul mediosagital coincident cu linia mediană Bucky și perpendicular pe aceasta.
 
-  • anterior superior iliac spines trebuie să fie echidistant față de tabletop.
+  • Spinele iliace antero-superioare trebuie să fie echidistante față de masa radiologică.
 
-  • If pacientul este examined Decubit dorsal (antero-posteriorly), genunchii poate
-  fie flectat over foam pad pentru comfort. This will also reduce pelvic tilt.
+  • Dacă pacientul este examinat în decubit dorsal (antero-posterior), genunchii pot
+  fi flectați peste un suport din spumă pentru confort. Aceasta va reduce și înclinarea
+  bazinului.
 
-  • caseta este displaced cranially pentru Antero-posterior (AP) incidență, sau caudally
-  pentru Postero-anterior (PA) incidențe, such that its centre coincides cu înclinat
-  raza centrală.
+  • Caseta este deplasată cranial pentru incidența Antero-posterior (AP) sau caudal
+  pentru incidențele Postero-anterioare (PA), astfel încât centrul acesteia să coincidă
+  cu raza centrală înclinată.
 
 
-  • pacientul este culcat pe either side pe masa radiologică, cu brațele raised și
-  mâinile resting pe pillow. Genunchii și șoldurile sunt ușor flectate pentru stabilitate
-  și confort.
+  • Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele
+  ridicate și mâinile sprijinite pe o pernă. Genunchii și șoldurile sunt ușor flectate
+  pentru stabilitate și confort.
 
-  • Fața dorsală trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă.
-  Alinierea corectă se verifică prin palparea crestelor iliace sau spinelor iliace
-  postero-superioare. plan coronal running through centre de coloană vertebrală trebuie
-  să coincide cu, și fie perpendicular la, linia mediană Bucky.
+  • Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă.
+  Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace
+  postero-superioare. Planul coronal care trece prin centrul coloanei vertebrale trebuie
+  să coincidă cu linia mediană Bucky și să fie perpendicular pe aceasta.
 
-  • caseta este centred la coincide cu raza centrală centrală la nivelul midpoint
-  de Sacru.'
+  • Caseta este centrată astfel încât să coincidă cu raza centrală la nivelul punctului
+  median al sacrului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -82,21 +88,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: If using automatic expunere control, centring too far
-  posteriorly will result în underexposed imagine.'
+- 'Erori de evitat / remedii: Dacă se utilizează controlul automat al expunerii, centrarea
+  prea posterior va duce la o imagine subexpusă.'
 sid_dff: 100 cm
 slug: rx-sacru-antero-posterior-postero-anterior-p205-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 205
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=205
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Sacru Antero-Posterior (AP)/Postero-Anterior (PA)
 ---
 # Rx Sacru Antero-Posterior (AP)/Postero-Anterior (PA)
@@ -118,8 +124,8 @@ title: Rx Sacru Antero-Posterior (AP)/Postero-Anterior (PA)
 
     === "Indicații Clinice"
 
-        - Sacru este thin bone. Problems cu expunere poate easily lead la important pathologies such ca suspiciune de fractură și metastases being missed. 190
-        - suspiciune de fractură sunt easily missed if expunere este poor sau grade de rotație este present.
+        - Sacrul este un os subțire. Problemele de expunere pot duce cu ușurință la omiterea unor patologii importante, precum suspiciunea de fractură și metastazele. 190
+        - Suspiciunile de fractură sunt omise cu ușurință dacă expunerea este slabă sau există un grad de rotație.
 
     === "Ghid Național IRIS"
 
@@ -133,21 +139,21 @@ title: Rx Sacru Antero-Posterior (AP)/Postero-Anterior (PA)
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal sau Decubit ventral pe masa radiologică, cu planul mediosagital coincident cu, și la drept-angles la, linia mediană Bucky.
-• anterior superior iliac spines trebuie să fie echidistant față de tabletop.
-• If pacientul este examined Decubit dorsal (antero-posteriorly), genunchii poate fie flectat over foam pad pentru comfort. This will also reduce pelvic tilt.
-• caseta este displaced cranially pentru Antero-posterior (AP) incidență, sau caudally pentru Postero-anterior (PA) incidențe, such that its centre coincides cu înclinat raza centrală.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal sau decubit ventral pe masa radiologică, cu planul mediosagital coincident cu linia mediană Bucky și perpendicular pe aceasta.
+• Spinele iliace antero-superioare trebuie să fie echidistante față de masa radiologică.
+• Dacă pacientul este examinat în decubit dorsal (antero-posterior), genunchii pot fi flectați peste un suport din spumă pentru confort. Aceasta va reduce și înclinarea bazinului.
+• Caseta este deplasată cranial pentru incidența Antero-posterior (AP) sau caudal pentru incidențele Postero-anterioare (PA), astfel încât centrul acesteia să coincidă cu raza centrală înclinată.
 
-• pacientul este culcat pe either side pe masa radiologică, cu brațele raised și mâinile resting pe pillow. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
-• Fața dorsală trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau spinelor iliace postero-superioare. plan coronal running through centre de coloană vertebrală trebuie să coincide cu, și fie perpendicular la, linia mediană Bucky.
-• caseta este centred la coincide cu raza centrală centrală la nivelul midpoint de Sacru.
-    - **Punct de Centrare Fascicul:** • Antero-posterior (AP): se orientează raza centrală centrală 10–25 grade cranially de la vertical și spre point midway între level de anterior superior iliac spines și superior margine de simfiză pubiană.
-• grade de angulation de raza centrală este normally greater pentru females than pentru males și will fie less pentru greater grade de flexion la șoldurile și genunchi.
-• Postero-anterior (PA): palpate poziție de Sacru prin locating spină iliacă postero-superioară (SIPS) și Coccis. Centre la middle de Sacru în linia mediană.
-• grade de fascicul angulation will depend pe pelvic tilt.
-Palpate Sacru și then simply apply caudal angulation, astfel încât raza centrală este perpendicular pe axa longitudinală de Sacru (see photograph opposite).
+• Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele ridicate și mâinile sprijinite pe o pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
+• Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare. Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană Bucky și să fie perpendicular pe aceasta.
+• Caseta este centrată astfel încât să coincidă cu raza centrală la nivelul punctului median al sacrului.
+    - **Punct de Centrare Fascicul:** • Antero-posterior (AP): se orientează raza centrală 10–25 grade cranial față de verticală și spre punctul situat la jumătatea distanței dintre nivelul spinelor iliace antero-superioare și marginea superioară a simfizei pubiene.
+• Gradul de angulare a razei centrale este în mod normal mai mare la femei decât la bărbați și va fi mai mic pentru grade mai mari de flexie a șoldurilor și genunchilor.
+• Postero-anterior (PA): se palpează poziția sacrului prin localizarea spinelor iliace postero-superioare (SIPS) și a coccisului. Se centrează pe mijlocul sacrului, pe linia mediană.
+• Gradul de angulare a fasciculului va depinde de înclinarea bazinului.
+Se palpează sacrul și apoi se aplică simplu o angulare caudală, astfel încât raza centrală să fie perpendiculară pe axa longitudinală a sacrului (vezi fotografia alăturată).
 
-• se orientează raza centrală centrală la drept-angles la axa longitudinală de Sacru și spre point în linia mediană mesei la level midway între posterior superior iliac spines și sacro-coccygeal junction.
+• Se orientează raza centrală perpendicular pe axa longitudinală a sacrului și spre un punct situat pe linia mediană a mesei, la nivelul situat la jumătatea distanței dintre spinele iliace postero-superioare și joncțiunea sacrococcigiană.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -158,19 +164,19 @@ Palpate Sacru și then simply apply caudal angulation, astfel încât raza centr
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: If using automatic expunere control, centring too far posteriorly will result în underexposed imagine.
+    - Erori de evitat / remedii: Dacă se utilizează controlul automat al expunerii, centrarea prea posterior va duce la o imagine subexpusă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -192,33 +198,33 @@ Palpate Sacru și then simply apply caudal angulation, astfel încât raza centr
 
 <figure class="protocol-image-card" markdown>
 
-![demonstration de Articulații Sacroiliace, ca spații articulare will](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_1.jpeg)
+![Demonstrarea articulațiilor sacroiliace, deoarece spațiile articulare vor](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_1.jpeg)
 
-<figcaption><strong>demonstration de Articulații Sacroiliace, ca spații articulare will</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• grade de angulation de raza centrală este normally](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_2.jpeg)
-
-<figcaption><strong>• grade de angulation de raza centrală este normally</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Demonstrarea articulațiilor sacroiliace, deoarece spațiile articulare vor</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![easily lead la important pathologies such ca suspiciune de fractură și](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_3.jpeg)
+![• Gradul de angulare a razei centrale este în mod normal](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_2.jpeg)
 
-<figcaption><strong>easily lead la important pathologies such ca suspiciune de fractură și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Gradul de angulare a razei centrale este în mod normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• suspiciune de fractură sunt easily missed if expunere este poor sau grade](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_4.jpeg)
+![poate duce cu ușurință la patologii importante, precum suspiciunea de fractură și](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_3.jpeg)
 
-<figcaption><strong>• suspiciune de fractură sunt easily missed if expunere este poor sau grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>poate duce cu ușurință la patologii importante, precum suspiciunea de fractură și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![• Suspiciunile de fractură sunt omise cu ușurință dacă expunerea este slabă sau gradul](../../assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_4.jpeg)
+
+<figcaption><strong>• Suspiciunile de fractură sunt omise cu ușurință dacă expunerea este slabă sau gradul</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -243,4 +249,4 @@ Palpate Sacru și then simply apply caudal angulation, astfel încât raza centr
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 205](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=205)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 205](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

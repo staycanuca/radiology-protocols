@@ -2,105 +2,106 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: perpendicular la enter acantion și centrat pe receptorul de imagine
+centering: Perpendicular pe acantion și centrat pe receptorul de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 910, imaginea 1
+- caption: Merrill — pagina 910, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-facial-bone-radiography-acanthioparietal-projection-reverse-incidenta-occipito-mentoniera-metoda-waters-p909-merrill/p910_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: cu pacientul în Decubit dorsal poziție, center MSP de corp la linia mediană
-  grilă.; Bringing pacientul’s chin up, se ajustează extension de gâtul astfel încât
-  linie orbitomeatală (LOM) forms a 37-grade angle cu plane de receptorul de imagine
-  (Fig. 11.112). If necessary, place support under pacientul’s umeri la help se extinde
-  neck. linie mentomeatală (LMM) este approximately perpendicular pe plane de receptorul
-  de imagine. se ajustează cap so that MSP este perpendicular pe plane de receptorul
-  de imagine. Se imobilizează capul pacientului.
+position: Cu pacientul în decubit dorsal, se centrează MSP al corpului pe linia mediană
+  a grilei. Ridicând bărbia pacientului, se ajustează extensia gâtului astfel încât
+  linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului
+  de imagine (Fig. 11.112). Dacă este necesar, se plasează un suport sub umerii pacientului
+  pentru a ajuta la extensia gâtului. Linia mentomeatală (LMM) este aproximativ perpendiculară
+  pe planul receptorului de imagine. Se ajustează capul astfel încât MSP să fie perpendicular
+  pe planul receptorului de imagine. Se imobilizează capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire
-  Orbite și Masiv Facial (Oase ale Feței) n Absența rotației anatomice (simetrie bilaterală
-  perfectă) sau tilt, evidențiat prin:'
-- Distances între lateral margini de Craniu și Orbite equal pe fiecare side
-- MSP de cap aliniat cu axa longitudinală de câmp colimat n stânci temporale (piramide
-  pietroase) projected below sinusuri maxilare n părți moi și bony detalii trabeculare
-  osoase
+- 'Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența
+  markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Orbitele
+  în întregime și masivul facial (oasele feței) n Absența rotației anatomice (simetrie
+  bilaterală perfectă) sau a înclinării, evidențiată prin:'
+- Distanțe egale între marginile laterale ale craniului și orbite, pe fiecare parte
+- MSP al capului aliniat cu axa longitudinală a câmpului colimat n Stâncile temporale
+  (piramidele pietroase) proiectate inferior față de sinusurile maxilare n Părți moi
+  și detalii trabeculare osoase
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-facial-bone-radiography-acanthioparietal-projection-reverse-incidenta-occipito-mentoniera-metoda-waters-p909-merrill
 source_pages:
 - 909
 - 910
 source_sections:
-  anatomy: 'reverse Waters method shows superior facial bones. imagine este similar
-    la that obtained cu Waters method, but facial
+  anatomy: Metoda Waters inversă evidențiază oasele faciale superioare. Imaginea este
+    similară celei obținute prin metoda Waters, dar structurile faciale sunt considerabil
+    mărite (Fig. 11.113).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să se extindă cu aproximativ
+    1 inch (2.5 cm) dincolo de laturile laterale ale feței, superior până la nivelul
+    umbrei cutanate și inferior până la bărbie. Câmpul de expunere trebuie să nu fie
+    mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
+  cr: • Perpendicular pe acantion și centrat pe receptorul de imagine
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    structures sunt considerably magnified (Fig. 11.113).'
-  collimation: '• se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond
-    lateral sides de fața, superiorly just la skin shadow, și
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    inferiorly la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches
-    (18 × 24 cm). Place marker de lateralitate (D/S) în collimated
+    n Orbitele în întregime și oasele faciale
 
-    expunere field.'
-  cr: • perpendicular la enter acantion și centrat pe receptorul de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+    evidențiată prin:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Distanțe egale între marginile laterale ale craniului și orbite, pe fiecare
+    parte
 
-    n Entire orbits și facial bones
+    • MSP al capului aliniat cu axa longitudinală a câmpului colimat
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-    prin:
+    n Stâncile temporale (piramidele pietroase) proiectate inferior față de sinusurile
+    maxilare
 
-    • Distances între lateral margini de craniul și orbits equal pe fiecare side
+    n Părți moi și detalii trabeculare osoase'
+  part_pos: '• Ridicând bărbia pacientului, se ajustează extensia gâtului astfel încât
+    linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului
+    de imagine (Fig. 11.112). Dacă este necesar, se plasează un suport sub umerii
+    pacientului pentru a ajuta la extensia gâtului.
 
-    • MSP de cap aliniat cu axa longitudinală de câmp colimat
-
-    n stânci temporale (piramide pietroase) projected below sinusuri maxilare
-
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• Bringing pacientul’s chin up, se ajustează extension de gâtul astfel
-    încât linie orbitomeatală (LOM) forms a 37-grade angle cu plane de receptorul
-    de imagine (Fig.
-
-    11.112). If necessary, place support under pacientul’s umeri la help se extinde
-    neck.
-
-    • linie mentomeatală (LMM) este approximately perpendicular pe plane de receptorul
+    • Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului
     de imagine.
 
-    • se ajustează cap so that MSP este perpendicular pe plane de receptorul de imagine.
+    • Se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului
+    de imagine.
 
     • Se imobilizează capul pacientului.'
-  patient_pos: • cu pacientul în decubit dorsal, center MSP de corp la linia mediană
-    grilă.
+  patient_pos: • Cu pacientul în decubit dorsal, se centrează MSP al corpului pe linia
+    mediană a grilei.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'poziționarea se efectuează conform protocolului producătorului sau al departamentului,
+    pentru afișarea corectă a orientării anatomice; receptor de imagine: 10 × 12 inches
+    (24 ×
 
-    30 cm) longitudinal.
+    30 cm), longitudinal.
 
-    reverse Waters method este used la show facial bones when pacientul cannot fie
-    plasat în decubit ventral. (See sections pe trauma method în Chapter 12, p. 142.)'
+    Metoda Waters inversată este utilizată pentru vizualizarea oaselor feței atunci
+    când pacientul nu poate fi plasat în decubit ventral. (A se vedea secțiunile privind
+    metoda pentru traumatisme din Capitolul 12, p. 142.)'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 909–910
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=909
+- title: Merrill’s Atlas, 11. Cranium, pagini 909–910
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond
-    lateral sides de fața, superiorly just la skin shadow, și inferiorly la bărbia.
-    expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse Incidență
-  Occipito-Mentonieră (Metoda Waters) (Merrill)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde cu aproximativ
+    1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior până imediat
+    la nivelul umbrei cutanate și inferior până la bărbie. Câmpul de expunere nu trebuie
+    să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Radiografia oaselor feței — Incidență acantoparietală — Incidență occipito-mentonieră
+  inversată (Metoda Waters) (Merrill)
 ---
-# Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse Incidență Occipito-Mentonieră (Metoda Waters) (Merrill)
+# Radiografia oaselor feței — Incidență acantoparietală — Incidență occipito-mentonieră inversată (Metoda Waters) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -133,8 +134,8 @@ title: Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse I
 
     ---
 
-    - **Poziție Pacient:** cu pacientul în Decubit dorsal poziție, center MSP de corp la linia mediană grilă.; Bringing pacientul’s chin up, se ajustează extension de gâtul astfel încât linie orbitomeatală (LOM) forms a 37-grade angle cu plane de receptorul de imagine (Fig. 11.112). If necessary, place support under pacientul’s umeri la help se extinde neck. linie mentomeatală (LMM) este approximately perpendicular pe plane de receptorul de imagine. se ajustează cap so that MSP este perpendicular pe plane de receptorul de imagine. Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** perpendicular la enter acantion și centrat pe receptorul de imagine
+    - **Poziție Pacient:** Cu pacientul în decubit dorsal, se centrează MSP al corpului pe linia mediană a grilei. Ridicând bărbia pacientului, se ajustează extensia gâtului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului de imagine (Fig. 11.112). Dacă este necesar, se plasează un suport sub umerii pacientului pentru a ajuta la extensia gâtului. Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului de imagine. Se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine. Se imobilizează capul pacientului.
+    - **Punct de Centrare Fascicul:** Perpendicular pe acantion și centrat pe receptorul de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -150,16 +151,16 @@ title: Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse I
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond lateral sides de fața, superiorly just la skin shadow, și inferiorly la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde cu aproximativ 1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior până imediat la nivelul umbrei cutanate și inferior până la bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire Orbite și Masiv Facial (Oase ale Feței) n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-    - Distances între lateral margini de Craniu și Orbite equal pe fiecare side
-    - MSP de cap aliniat cu axa longitudinală de câmp colimat n stânci temporale (piramide pietroase) projected below sinusuri maxilare n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Orbitele în întregime și masivul facial (oasele feței) n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - Distanțe egale între marginile laterale ale craniului și orbite, pe fiecare parte
+    - MSP al capului aliniat cu axa longitudinală a câmpului colimat n Stâncile temporale (piramidele pietroase) proiectate inferior față de sinusurile maxilare n Părți moi și detalii trabeculare osoase
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -179,9 +180,9 @@ title: Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse I
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 910, imaginea 1](../../assets/images/protocols/merrill/rx-facial-bone-radiography-acanthioparietal-projection-reverse-incidenta-occipito-mentoniera-metoda-waters-p909-merrill/p910_fig1.png)
+![Merrill — pagina 910, imaginea 1](../../assets/images/protocols/merrill/rx-facial-bone-radiography-acanthioparietal-projection-reverse-incidenta-occipito-mentoniera-metoda-waters-p909-merrill/p910_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 910, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 910, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -198,55 +199,51 @@ title: Rx Facial Bone Radiography — Acanthioparietal Incidență — Reverse I
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 909–910](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=909)
+- [Merrill’s Atlas, 11. Cranium, pagini 909–910](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-reverse Waters method shows superior facial bones. imagine este similar la that obtained cu Waters method, but facial
-structures sunt considerably magnified (Fig. 11.113).
+Metoda Waters inversă evidențiază oasele faciale superioare. Imaginea este similară celei obținute prin metoda Waters, dar structurile faciale sunt considerabil mărite (Fig. 11.113).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond lateral sides de fața, superiorly just la skin shadow, și
-inferiorly la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated
-expunere field.
+• Se ajustează câmpul de iradiere astfel încât să se extindă cu aproximativ 1 inch (2.5 cm) dincolo de laturile laterale ale feței, superior până la nivelul umbrei cutanate și inferior până la bărbie. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular la enter acantion și centrat pe receptorul de imagine
+• Perpendicular pe acantion și centrat pe receptorul de imagine
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Entire orbits și facial bones
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-• Distances între lateral margini de craniul și orbits equal pe fiecare side
-• MSP de cap aliniat cu axa longitudinală de câmp colimat
-n stânci temporale (piramide pietroase) projected below sinusuri maxilare
-n părți moi și bony detalii trabeculare osoase
+Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n Orbitele în întregime și oasele faciale
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+• Distanțe egale între marginile laterale ale craniului și orbite, pe fiecare parte
+• MSP al capului aliniat cu axa longitudinală a câmpului colimat
+n Stâncile temporale (piramidele pietroase) proiectate inferior față de sinusurile maxilare
+n Părți moi și detalii trabeculare osoase
 
 ### part_pos
 
-• Bringing pacientul’s chin up, se ajustează extension de gâtul astfel încât linie orbitomeatală (LOM) forms a 37-grade angle cu plane de receptorul de imagine (Fig.
-11.112). If necessary, place support under pacientul’s umeri la help se extinde neck.
-• linie mentomeatală (LMM) este approximately perpendicular pe plane de receptorul de imagine.
-• se ajustează cap so that MSP este perpendicular pe plane de receptorul de imagine.
+• Ridicând bărbia pacientului, se ajustează extensia gâtului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului de imagine (Fig. 11.112). Dacă este necesar, se plasează un suport sub umerii pacientului pentru a ajuta la extensia gâtului.
+• Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului de imagine.
+• Se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
 • Se imobilizează capul pacientului.
 
 ### patient_pos
 
-• cu pacientul în decubit dorsal, center MSP de corp la linia mediană grilă.
+• Cu pacientul în decubit dorsal, se centrează MSP al corpului pe linia mediană a grilei.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-reverse Waters method este used la show facial bones when pacientul cannot fie plasat în decubit ventral. (See sections pe trauma method în Chapter 12, p. 142.)
+poziționarea se efectuează conform protocolului producătorului sau al departamentului, pentru afișarea corectă a orientării anatomice; receptor de imagine: 10 × 12 inches (24 ×
+30 cm), longitudinal.
+Metoda Waters inversată este utilizată pentru vizualizarea oaselor feței atunci când pacientul nu poate fi plasat în decubit ventral. (A se vedea secțiunile privind metoda pentru traumatisme din Capitolul 12, p. 142.)
 

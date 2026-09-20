@@ -2,43 +2,43 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: abdomen
-centering: perpendicular pe receptorul de imagine (RI) la enter linia mediană corp
-  la nivelul crestele iliace.
+centering: Perpendicular pe receptorul de imagine (RI), pentru a pătrunde pe linia
+  mediană a corpului, la nivelul crestelor iliace.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1154, imaginea 1
+- caption: Merrill — pagina 1154, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1154_fig1.png
-- caption: Merrill — pagina PDF 1155, imaginea 2
+- caption: Merrill — pagina 1155, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1155_fig2.png
-- caption: Merrill — pagina PDF 1156, imaginea 3
+- caption: Merrill — pagina 1156, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1156_fig3.png
-- caption: Merrill — pagina PDF 1157, imaginea 4
+- caption: Merrill — pagina 1157, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1157_fig4.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție.; se centrează MSP la grila.
-  se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig. 15.108).
-  în addition la positioning pentru Incidență Postero-Anterioară (PA), place fluoroscopic
-  table în slight Trendelenburg poziție if necessary. This table poziție helps separate
-  redundant și overlapping loops de bowel prin “spilling” them out de Bazin (bazin
-  (pelvis)). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit ventral. Se centrează MSP la grilă. Se ajustează
+  centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.108). Pe lângă
+  poziționarea pentru incidența postero-anterioară (PA), se înclină ușor masa de fluoroscopie
+  în poziție Trendelenburg, dacă este necesar. Această poziție a mesei ajută la separarea
+  anselor intestinale redundante și suprapuse prin „revărsarea” lor în afara bazinului
+  (pelvisului). se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire intestin gros (colon) including flexures și rectum (two imagini poate fie
-  necessary pentru hypersthenic pacienți)
-- coloană vertebrală centrat so that ascending și descending portions de intestin
-  gros (colon) sunt included
-- Penetration de contrast medium
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul intestin gros (colon), inclusiv flexurile și rectul (pot fi necesare două
+  imagini la pacienții hiperstenici)
+- Coloana vertebrală centrată astfel încât să fie incluse porțiunile ascendentă și
+  descendentă ale intestinului gros (colon)
+- Penetrarea substanței de contrast
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill
 source_pages:
@@ -48,57 +48,57 @@ source_pages:
 - 1156
 - 1157
 source_sections:
-  anatomy: entire intestin gros (colon) cu pacientul în decubit ventral (Figs. 15.109–15.111).
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar
+  anatomy: Întregul intestin gros (colon), cu pacientul în decubit ventral (Fig. 15.109–15.111).
+  collimation: '• Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar
 
-    de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe receptorul de imagine (RI) la enter linia mediană corp la
-    nivelul crestele iliace.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.'
+  cr: • Perpendicular pe receptorul de imagine (RI), pentru a pătrunde pe linia mediană
+    a corpului, la nivelul crestelor iliace.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Entire intestin gros (colon) including flexures și rectum (two imagini poate
-    fie necessary pentru hypersthenic pacienți)
+    • Întregul intestin gros (colon), inclusiv flexurile și rectul (pot fi necesare
+    două imagini la pacienții hiperstenici)
 
-    • coloană vertebrală centrat so that ascending și descending portions de intestin
-    gros (colon) sunt included
+    • Coloana vertebrală centrată astfel încât să fie incluse porțiunile ascendentă
+    și descendentă ale intestinului gros (colon)
 
-    • Penetration de contrast medium'
-  part_pos: '• se centrează MSP la grila.
+    • Penetrarea substanței de contrast'
+  part_pos: '• Se centrează MSP la grilă.
 
-    • se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig.
+    • Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig.
     15.108).
 
-    • în addition la positioning pentru PA incidență, place fluoroscopic table în
-    slight Trendelenburg poziție if necessary. This table
-
-    poziție helps separate redundant și overlapping loops de bowel prin “spilling”
-    them out de bazinul.
+    • Pe lângă poziționarea pentru incidența PA, se înclină ușor masa de fluoroscopie
+    în poziție Trendelenburg, dacă este necesar. Această poziție a mesei ajută la
+    separarea anselor intestinale redundante și suprapuse prin „revărsarea” lor în
+    afara bazinului.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit ventral.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1153–1157'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1153
+    And Biliary System, pagini 1153–1157'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar de abdomenul flanks. Se plasează markerul de lateralitate în câmpul
-    colimat.
-title: Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar al flancurilor abdominale. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx intestin gros — Incidență Postero-Anterioară (PA) (Merrill)
 ---
-# Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
+# Rx intestin gros — Incidență Postero-Anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -131,8 +131,8 @@ title: Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție.; se centrează MSP la grila. se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig. 15.108). în addition la positioning pentru Incidență Postero-Anterioară (PA), place fluoroscopic table în slight Trendelenburg poziție if necessary. This table poziție helps separate redundant și overlapping loops de bowel prin “spilling” them out de Bazin (bazin (pelvis)). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) la enter linia mediană corp la nivelul crestele iliace.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral. Se centrează MSP la grilă. Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.108). Pe lângă poziționarea pentru incidența postero-anterioară (PA), se înclină ușor masa de fluoroscopie în poziție Trendelenburg, dacă este necesar. Această poziție a mesei ajută la separarea anselor intestinale redundante și suprapuse prin „revărsarea” lor în afara bazinului (pelvisului). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI), pentru a pătrunde pe linia mediană a corpului, la nivelul crestelor iliace.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -148,18 +148,18 @@ title: Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire intestin gros (colon) including flexures și rectum (two imagini poate fie necessary pentru hypersthenic pacienți)
-    - coloană vertebrală centrat so that ascending și descending portions de intestin gros (colon) sunt included
-    - Penetration de contrast medium
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul intestin gros (colon), inclusiv flexurile și rectul (pot fi necesare două imagini la pacienții hiperstenici)
+    - Coloana vertebrală centrată astfel încât să fie incluse porțiunile ascendentă și descendentă ale intestinului gros (colon)
+    - Penetrarea substanței de contrast
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -179,33 +179,33 @@ title: Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1154, imaginea 1](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1154_fig1.png)
+![Merrill — pagina 1154, imaginea 1](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1154_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1154, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1155, imaginea 2](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1155_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1155, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1154, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1156, imaginea 3](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1156_fig3.png)
+![Merrill — pagina 1155, imaginea 2](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1155_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1156, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1155, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1157, imaginea 4](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1157_fig4.png)
+![Merrill — pagina 1156, imaginea 3](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1156_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 1157, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1156, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1157, imaginea 4](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-postero-anterioara-pa-p1153-merrill/p1157_fig4.png)
+
+<figcaption><strong>Merrill — pagina 1157, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -222,49 +222,48 @@ title: Rx Large Intestine — Incidență Postero-Anterioară (PA) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1153–1157](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1153)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1153–1157](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-entire intestin gros (colon) cu pacientul în decubit ventral (Figs. 15.109–15.111).
+Întregul intestin gros (colon), cu pacientul în decubit ventral (Fig. 15.109–15.111).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-de abdomenul flanks. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
+al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) la enter linia mediană corp la nivelul crestele iliace.
+• Perpendicular pe receptorul de imagine (RI), pentru a pătrunde pe linia mediană a corpului, la nivelul crestelor iliace.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire intestin gros (colon) including flexures și rectum (two imagini poate fie necessary pentru hypersthenic pacienți)
-• coloană vertebrală centrat so that ascending și descending portions de intestin gros (colon) sunt included
-• Penetration de contrast medium
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Întregul intestin gros (colon), inclusiv flexurile și rectul (pot fi necesare două imagini la pacienții hiperstenici)
+• Coloana vertebrală centrată astfel încât să fie incluse porțiunile ascendentă și descendentă ale intestinului gros (colon)
+• Penetrarea substanței de contrast
 
 ### part_pos
 
-• se centrează MSP la grila.
-• se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig. 15.108).
-• în addition la positioning pentru PA incidență, place fluoroscopic table în slight Trendelenburg poziție if necessary. This table
-poziție helps separate redundant și overlapping loops de bowel prin “spilling” them out de bazinul.
+• Se centrează MSP la grilă.
+• Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.108).
+• Pe lângă poziționarea pentru incidența PA, se înclină ușor masa de fluoroscopie în poziție Trendelenburg, dacă este necesar. Această poziție a mesei ajută la separarea anselor intestinale redundante și suprapuse prin „revărsarea” lor în afara bazinului.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit ventral.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

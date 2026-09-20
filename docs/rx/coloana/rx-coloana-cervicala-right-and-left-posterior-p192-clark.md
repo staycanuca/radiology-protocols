@@ -3,28 +3,31 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• fascicul este înclinat 30–45 grade la planul mediosagital (grade de
-  angulation will depend pe local protocols).
+centering: '• fasciculul este înclinat cu 30–45 grade față de planul mediosagital
+  (gradul de angulație va depinde de protocoalele locale).
 
-  • raza centrală este orientat spre middle de gâtul pe side nearest tubul la nivelul
-  cartilaj tiroid (mărul lui Adam).
+  • raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată
+  de tub, la nivelul cartilajului tiroid (mărul lui Adam).
 
 
-  • raza centrală orizontală centrală este orientat la linia mediană Bucky la level
-  just above Umăr remote de la caseta.'
+  • raza centrală orizontală este orientată spre linia mediană a Bucky, la nivelul
+  situat chiar deasupra umărului îndepărtat de casetă.'
 clinical_indications:
-- If this și swimmers’ incidențe sunt nu successful, pacientul poate require more
-  complex imaging (e.g. CT).
-- See drept și stâng Oblică Posterioară – Decubit dorsal (previous page).
+- Dacă aceasta și incidențele înotătorului nu sunt reușite, pacientul poate necesita
+  o investigație imagistică mai complexă (de exemplu, CT).
+- Consultați incidențele oblice posterioare dreaptă și stângă – decubit dorsal (pagina
+  anterioară).
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_1.jpeg
-- caption: în toate trauma radiografie, it este imperative that toate de cervical
+- caption: în toate radiografiile traumatice, este imperativ ca toate vertebrele cervicale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_2.jpeg
-- caption: acceptable imagine este familiar problem la toate radiographers. în
+- caption: imagine acceptabilă este o problemă frecventă pentru toți tehnicienii radiologi.
+    în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_3.jpeg
@@ -38,40 +41,41 @@ images:
   url: assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• pentru some pacienți, it poate fie useful la se rotește side further de
-  la caseta sufficiently forward la separate umerii transversely. This positioning
-  will produce Profil (lateral) Oblică incidență de vertebre.
+notes: '• pentru unii pacienți, poate fi utilă rotirea suplimentară a părții îndepărtate
+  de casetă suficient de anterior pentru a separa umerii transversal. Această poziționare
+  va produce o incidență oblică de profil a vertebrelor.
 
   178
 
-  • imagine quality will fie increased if Ortostatism Bucky este used în preference
-  la stationary grilă. This este due la better scatter attenuation properties de grila
-  within Bucky.'
-position: '• pacientul remains în Decubit dorsal poziție pe casualty trolley.
+  • calitatea imaginii va fi crescută dacă se utilizează Bucky-ul pentru ortostatism,
+  în locul grilei staționare. Aceasta se datorează proprietăților mai bune de atenuare
+  a radiației împrăștiate ale grilei din Bucky.'
+position: '• pacientul rămâne în decubit dorsal pe targa pentru victime.
 
-  • la avoid moving gâtul, caseta trebuie să ideally fie plasat în caseta tray underneath
-  trolley.
+  • pentru a evita mișcarea gâtului, caseta trebuie, în mod ideal, să fie plasată
+  în sertarul pentru casetă de sub targă.
 
-  • If fără casetă tray este available, then caseta poate fie slid carefully into
-  poziție fără moving pacientul’s neck.
+  • dacă nu este disponibil un sertar pentru casetă, aceasta poate fi introdusă cu
+  grijă în poziție fără mișcarea gâtului pacientului.
 
 
-  • This incidență este usually carried out cu pacientul Decubit dorsal pe trauma
-  trolley. trolley este poziționat adjacent la stativ vertical Bucky, cu pacientul’s
-  plan mediosagital paralel cu casetă.
+  • această incidență se efectuează de obicei cu pacientul în decubit dorsal pe targa
+  pentru traumă. Targa este poziționată adiacent stativului vertical Bucky, cu planul
+  mediosagital al pacientului paralel cu caseta.
 
-  • braț nearest caseta este folded over capul, cu Humerus ca close la trolley top
-  ca pacientul poate manage.
+  • brațul cel mai apropiat de casetă este pliat peste cap, cu humerusul cât mai aproape
+  de partea superioară a tărgii, atât cât poate tolera pacientul.
 
-  braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
+  Brațul și umărul cele mai apropiate de tubul cu raze X sunt coborâte cât mai mult
+  posibil.
 
-  • umerii sunt now separated vertically.
+  • umerii sunt acum separați vertical.
 
-  • Bucky trebuie să fie raised sau lowered, astfel încât line de vertebre trebuie
-  să coincide cu middle de caseta.
+  • Bucky-ul trebuie ridicat sau coborât astfel încât linia vertebrelor să coincidă
+  cu mijlocul casetei.
 
-  • This incidență poate also fie undertaken cu pacientul Ortostatism, either în ortostatism
-  sau Poziție Șezândă sau Decubit dorsal.'
+  • această incidență poate fi efectuată și cu pacientul în ortostatism, fie în picioare,
+  fie în poziție șezândă, fie în decubit dorsal.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -80,35 +84,35 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- It este imperative la ensure that C7/T1 junction has been included pe imagine. It
-  este therefore useful la include anatomical landmark within imagine, e.g. atypical
-  CV2. This will make it possible la count down vertebre și ensure that junction has
-  been imaged.
-- 'Erori de evitat / remedii: Unless equipment used allows alignment de grila slats
-  cu tubul angle, then grilă cut-off will result.'
-- 'Erori de evitat / remedii: grilă cut-off poate fie prevented prin nu using grilă.
-  Alternatively, gridlines poate fie poziționat la run transversely. This will result
-  în suboptimal demonstration de intervertebral foramina, but imagine will fie de
-  diagnostic quality. 45° 45° 30° 30°'
-- 'Erori de evitat / remedii: Failure la ensure that raised braț este ca flat ca possible
-  pe / sprijinit de stretcher poate result în capul de Humerus obscuring region de
-  interest.'
+- Este imperativ să se asigure includerea joncțiunii C7/T1 în imagine. Prin urmare,
+  este utilă includerea în imagine a unui reper anatomic, de exemplu CV2 atipică.
+  Aceasta va permite numărarea vertebrelor în sens inferior și asigurarea faptului
+  că joncțiunea a fost examinată.
+- 'Erori de evitat / remedii: Dacă echipamentul utilizat nu permite alinierea lamelelor
+  grilei cu unghiul tubului, va apărea tăierea grilei.'
+- 'Erori de evitat / remedii: Tăierea grilei poate fi prevenită prin neutilizarea
+  grilei. Alternativ, liniile grilei pot fi poziționate transversal. Aceasta va duce
+  la evidențiere suboptimală a foramenelor intervertebrale, dar imaginea va avea calitate
+  diagnostică. 45° 45° 30° 30°'
+- 'Erori de evitat / remedii: Imposibilitatea de a asigura menținerea brațului ridicat
+  cât mai plat pe / sprijinit de targă poate duce la obscurarea regiunii de interes
+  de către capul humerusului.'
 sid_dff: 100 cm
 slug: rx-coloana-cervicala-right-and-left-posterior-p192-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 192
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=192
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Cervicală Right and left posterior
+  mas: Conform AEC / grosimii anatomice
+title: Rx Coloană Cervicală oblică posterioară dreaptă și stângă
 ---
-# Rx Coloană Cervicală Right and left posterior
+# Rx Coloană Cervicală oblică posterioară dreaptă și stângă
 
 
 <div class="rx-meta-bar">
@@ -127,8 +131,8 @@ title: Rx Coloană Cervicală Right and left posterior
 
     === "Indicații Clinice"
 
-        - If this și swimmers’ incidențe sunt nu successful, pacientul poate require more complex imaging (e.g. CT).
-        - See drept și stâng Oblică Posterioară – Decubit dorsal (previous page).
+        - Dacă aceasta și incidențele înotătorului nu sunt reușite, pacientul poate necesita o investigație imagistică mai complexă (de exemplu, CT).
+        - Consultați incidențele oblice posterioare dreaptă și stângă – decubit dorsal (pagina anterioară).
 
     === "Ghid Național IRIS"
 
@@ -142,20 +146,20 @@ title: Rx Coloană Cervicală Right and left posterior
 
     ---
 
-    - **Poziție Pacient:** • pacientul remains în Decubit dorsal poziție pe casualty trolley.
-• la avoid moving gâtul, caseta trebuie să ideally fie plasat în caseta tray underneath trolley.
-• If fără casetă tray este available, then caseta poate fie slid carefully into poziție fără moving pacientul’s neck.
+    - **Poziție Pacient:** • pacientul rămâne în decubit dorsal pe targa pentru victime.
+• pentru a evita mișcarea gâtului, caseta trebuie, în mod ideal, să fie plasată în sertarul pentru casetă de sub targă.
+• dacă nu este disponibil un sertar pentru casetă, aceasta poate fi introdusă cu grijă în poziție fără mișcarea gâtului pacientului.
 
-• This incidență este usually carried out cu pacientul Decubit dorsal pe trauma trolley. trolley este poziționat adjacent la stativ vertical Bucky, cu pacientul’s plan mediosagital paralel cu casetă.
-• braț nearest caseta este folded over capul, cu Humerus ca close la trolley top ca pacientul poate manage.
-braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
-• umerii sunt now separated vertically.
-• Bucky trebuie să fie raised sau lowered, astfel încât line de vertebre trebuie să coincide cu middle de caseta.
-• This incidență poate also fie undertaken cu pacientul Ortostatism, either în ortostatism sau Poziție Șezândă sau Decubit dorsal.
-    - **Punct de Centrare Fascicul:** • fascicul este înclinat 30–45 grade la planul mediosagital (grade de angulation will depend pe local protocols).
-• raza centrală este orientat spre middle de gâtul pe side nearest tubul la nivelul cartilaj tiroid (mărul lui Adam).
+• această incidență se efectuează de obicei cu pacientul în decubit dorsal pe targa pentru traumă. Targa este poziționată adiacent stativului vertical Bucky, cu planul mediosagital al pacientului paralel cu caseta.
+• brațul cel mai apropiat de casetă este pliat peste cap, cu humerusul cât mai aproape de partea superioară a tărgii, atât cât poate tolera pacientul.
+Brațul și umărul cele mai apropiate de tubul cu raze X sunt coborâte cât mai mult posibil.
+• umerii sunt acum separați vertical.
+• Bucky-ul trebuie ridicat sau coborât astfel încât linia vertebrelor să coincidă cu mijlocul casetei.
+• această incidență poate fi efectuată și cu pacientul în ortostatism, fie în picioare, fie în poziție șezândă, fie în decubit dorsal.
+    - **Punct de Centrare Fascicul:** • fasciculul este înclinat cu 30–45 grade față de planul mediosagital (gradul de angulație va depinde de protocoalele locale).
+• raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub, la nivelul cartilajului tiroid (mărul lui Adam).
 
-• raza centrală orizontală centrală este orientat la linia mediană Bucky la level just above Umăr remote de la caseta.
+• raza centrală orizontală este orientată spre linia mediană a Bucky, la nivelul situat chiar deasupra umărului îndepărtat de casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -166,22 +170,22 @@ braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - It este imperative la ensure that C7/T1 junction has been included pe imagine. It este therefore useful la include anatomical landmark within imagine, e.g. atypical CV2. This will make it possible la count down vertebre și ensure that junction has been imaged.
-    - Erori de evitat / remedii: Unless equipment used allows alignment de grila slats cu tubul angle, then grilă cut-off will result.
-    - Erori de evitat / remedii: grilă cut-off poate fie prevented prin nu using grilă. Alternatively, gridlines poate fie poziționat la run transversely. This will result în suboptimal demonstration de intervertebral foramina, but imagine will fie de diagnostic quality. 45° 45° 30° 30°
-    - Erori de evitat / remedii: Failure la ensure that raised braț este ca flat ca possible pe / sprijinit de stretcher poate result în capul de Humerus obscuring region de interest.
+    - Este imperativ să se asigure includerea joncțiunii C7/T1 în imagine. Prin urmare, este utilă includerea în imagine a unui reper anatomic, de exemplu CV2 atipică. Aceasta va permite numărarea vertebrelor în sens inferior și asigurarea faptului că joncțiunea a fost examinată.
+    - Erori de evitat / remedii: Dacă echipamentul utilizat nu permite alinierea lamelelor grilei cu unghiul tubului, va apărea tăierea grilei.
+    - Erori de evitat / remedii: Tăierea grilei poate fi prevenită prin neutilizarea grilei. Alternativ, liniile grilei pot fi poziționate transversal. Aceasta va duce la evidențiere suboptimală a foramenelor intervertebrale, dar imaginea va avea calitate diagnostică. 45° 45° 30° 30°
+    - Erori de evitat / remedii: Imposibilitatea de a asigura menținerea brațului ridicat cât mai plat pe / sprijinit de targă poate duce la obscurarea regiunii de interes de către capul humerusului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -194,9 +198,9 @@ braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • pentru some pacienți, it poate fie useful la se rotește side further de la caseta sufficiently forward la separate umerii transversely. This positioning will produce Profil (lateral) Oblică incidență de vertebre.
+    • pentru unii pacienți, poate fi utilă rotirea suplimentară a părții îndepărtate de casetă suficient de anterior pentru a separa umerii transversal. Această poziționare va produce o incidență oblică de profil a vertebrelor.
 178
-• imagine quality will fie increased if Ortostatism Bucky este used în preference la stationary grilă. This este due la better scatter attenuation properties de grila within Bucky.
+• calitatea imaginii va fi crescută dacă se utilizează Bucky-ul pentru ortostatism, în locul grilei staționare. Aceasta se datorează proprietăților mai bune de atenuare a radiației împrăștiate ale grilei din Bucky.
 
 
 ### 🖼️ Imagini
@@ -207,23 +211,23 @@ braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![în toate trauma radiografie, it este imperative that toate de cervical](../../assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_2.jpeg)
+![în toate radiografiile traumatice, este imperativ ca toate vertebrele cervicale](../../assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_2.jpeg)
 
-<figcaption><strong>în toate trauma radiografie, it este imperative that toate de cervical</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>în toate radiografiile traumatice, este imperativ ca toate vertebrele cervicale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![acceptable imagine este familiar problem la toate radiographers. în](../../assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_3.jpeg)
+![imagine acceptabilă este o problemă frecventă pentru toți tehnicienii radiologi. în](../../assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_3.jpeg)
 
-<figcaption><strong>acceptable imagine este familiar problem la toate radiographers. în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>imagine acceptabilă este o problemă frecventă pentru toți tehnicienii radiologi. în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -256,4 +260,4 @@ braț și Umăr nearest X-ray tube sunt coborât ca far ca possible.
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 192](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=192)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 192](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

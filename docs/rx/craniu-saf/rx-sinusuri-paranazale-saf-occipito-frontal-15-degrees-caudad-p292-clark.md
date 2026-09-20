@@ -3,30 +3,32 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• raza centrală este orientat perpendicular pe stativ vertical Bucky along
-  planul mediosagital so fascicul exits la nazion.
+centering: '• Raza centrală este orientată perpendicular pe stativul vertical Bucky,
+  de-a lungul planului mediosagital, astfel încât fasciculul să iasă la nivelul nazionului.
 
-  • collimation field sau extension cone trebuie să fie set pentru include ethmoidal
-  și frontal Sinusuri Paranazale (SAF). size de frontal Sinusuri Paranazale (SAF)
-  poate vary drastically de la one individual la another.
+  • Câmpul de colimare sau conul de extensie trebuie reglat pentru a include sinusurile
+  etmoidale și frontale. Dimensiunea sinusurilor frontale poate varia considerabil
+  de la un individ la altul.
 
 
-  • orizontal raza centrală trebuie să fie employed la evidențiază nivele hidroaerice.
+  • Raza centrală orizontală trebuie utilizată pentru evidențierea nivelurilor hidroaerice.
 
-  • tubul trebuie să have been centred previously la Bucky, astfel încât raza centrală
-  will now fie centred la point 2.5 cm posterior la outer canthus de eye.'
+  • Tubul trebuie să fi fost centrat anterior pe Bucky, astfel încât raza centrală
+  să fie acum centrată într-un punct situat la 2.5 cm posterior față de canthusul
+  extern al ochiului.'
 clinical_indications:
-- 277 9 Sinusuri Paranazale (SAF) Occipito-frontal 15 grade caudal This incidență
-  este used la evidențiază frontal și ethmoid Sinusuri Paranazale (SAF).
+- 277 9 Sinusuri paranazale (SAF) occipitofrontal 15 grade caudală. Această incidență
+  este utilizată pentru evidențierea sinusurilor frontale și etmoidale.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_2.jpeg
-- caption: bones în seriously injured. radiografie Today 57:10–12.
+- caption: Oaselor feței la pacienții cu leziuni grave. Radiography Today 57:10–12.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_3.jpeg
@@ -40,44 +42,57 @@ images:
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• grade de angulation poate vary according la local preferences. Some departments
-  poate prefer la use OF20°↓incidență. în this case, orbito-meatal baseline este then
-  raised la angle required prin incidență, i.e. 20 grade. Alternatively a 20-grade
-  caudal angulation could fie employed cu orbito-meatal baseline perpendicular pe
-  receptorul de imagine.
+notes: '• Gradul de angulație poate varia în funcție de preferințele locale. Unele
+  departamente pot prefera utilizarea incidenței OF20°↓. În acest caz, linia orbitomeatală
+  este ridicată la unghiul necesar prin incidență, adică 20 grade. Alternativ, se
+  poate utiliza o angulație caudală de 20 grade, cu linia orbitomeatală perpendiculară
+  pe receptorul de imagine.
 
-  • OF10°↓ sau occipito-frontal incidență would nu fie suitable pentru demonstration
-  de ethmoid Sinusuri Paranazale (SAF), ca stânci temporale (piramide pietroase) would
-  obscure region de interest.
+  • Incidența OF10°↓ sau occipitofrontală nu ar fi adecvată pentru evidențierea sinusurilor
+  etmoidale, deoarece stâncile temporale (piramidele pietroase) ar obstrua regiunea
+  de interes.
 
   15° de 15°↓
 
 
-  This incidență poate also fie undertaken cu pacientul Decubit dorsal și caseta sprijinit
-  vertically pe / sprijinit de side de fața. Again, Fascicul Orizontal este used la
-  evidențiază nivele hidroaerice.
+  Această incidență poate fi efectuată și cu pacientul în decubit dorsal și caseta
+  sprijinită vertical pe / sprijinită de partea feței. Din nou, se utilizează fasciculul
+  orizontal pentru evidențierea nivelurilor hidroaerice.
 
-  Reference Clements R, Ponsford A (1991). modified incidență de Masiv Facial (Oase
-  ale Feței) în seriously injured. radiografie Today 57:10–12.
+  Referință: Clements R, Ponsford A (1991). Incidență modificată a masivului facial
+  (oaselor feței) la pacienții cu leziuni grave. Radiography Today 57:10–12.
 
-  278 Frontal Sinusuri Paranazale (SAF) Maxillary Sinusuri Paranazale (SAF) Ethmoid
-  Sinusuri Paranazale (SAF) Sphenoid Sinusuri Paranazale (SAF)'
-position: "• pacientul este așezat pe scaun facing stativ vertical Bucky sau Craniu\
-  \ unit casetă holder so planul mediosagital este coincident cu linia mediană Bucky\
-  \ și este also perpendicular la it.\n• capul este poziționat astfel încât orbito-meatal\
-  \ baseline este raised 15 grade la orizontal.\n• Ensure that nazion este poziționat\
-  \ în centre de Bucky.\n• pacientul poate place palms de fiecare Mână either side\
-  \ de capul (out de primary fascicul) pentru stability.\n• An 18 \x02 24-cm casetă\
-  \ este plasat longitudinally în tăvița Bucky. lead name blocker trebuie să nu interfere\
-  \ cu final imagine.\n\n• pacientul stă așezat facing stativ vertical Bucky sau Craniu\
-  \ unit casetă holder. capul este then rotit, astfel încât plan mediosagital este\
-  \ paralel cu Bucky și inter-orbital line este perpendicular pe Bucky.\n• Umerii\
-  \ pot fi rotiți ușor pentru permite obținerea poziției corecte. Pacientul se poate\
-  \ sprijini de stativul Bucky pentru stabilitate.\n• capul și Bucky heights sunt\
-  \ ajustat astfel încât centre de Bucky este 2.5 cm along linie orbitomeatală (LOM)\
-  \ de la outer canthus de eye.\n• poziție an 18 \x02 24-cm casetă longitudinally\
-  \ în Ortostatism Bucky, such that its lower margine este 2.5 cm sub nivelul upper\
-  \ teeth.\n• radiolucent pad poate fie plasat under bărbia pentru support."
+  278 Sinusuri frontale Sinusuri maxilare Sinusuri etmoidale Sinusuri sfenoidale'
+position: '• Pacientul este așezat pe scaun, cu fața spre stativul vertical Bucky
+  sau suportul pentru casetă al unității pentru craniu, astfel încât planul mediosagital
+  să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe aceasta.
+
+  • Capul este poziționat astfel încât linia orbitomeatală să fie ridicată cu 15 grade
+  față de orizontală.
+
+  • Asigurați-vă că nazionul este poziționat în centrul Bucky.
+
+  • Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului
+  primar, pentru stabilitate.
+
+  • O casetă de 18 × 24 cm este plasată longitudinal în tava Bucky. Dispozitivul plumbat
+  de blocare a numelui nu trebuie să interfereze cu imaginea finală.
+
+
+  • Pacientul stă așezat, cu fața spre stativul vertical Bucky sau suportul pentru
+  casetă al unității pentru craniu. Capul este apoi rotit astfel încât planul mediosagital
+  să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe Bucky.
+
+  • Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul
+  se poate sprijini de stativul Bucky pentru stabilitate.
+
+  • Înălțimile capului și ale Bucky sunt ajustate astfel încât centrul Bucky să fie
+  la 2.5 cm de-a lungul liniei orbitomeatale (LOM), față de canthusul extern al ochiului.
+
+  • Poziționați longitudinal o casetă de 18 × 24 cm în Bucky pentru ortostatism, astfel
+  încât marginea sa inferioară să fie la 2.5 cm sub nivelul dinților superiori.
+
+  • Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -86,34 +101,34 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- toate relevant Sinusuri Paranazale (SAF) trebuie să fie included within imagine.
-- stânci temporale (piramide pietroase) trebuie să fie projected just above lower
-  orbital margin.
-- It este important la ensure that Craniu este nu rotit. This poate fie assessed prin
-  measuring distance de la point în linia mediană Craniu la Profil (lateral) orbital
-  margins. If this este same pe ambele părți (bilateral) de Craniu, then it este nu
-  rotit.
-- true Profil (lateral) will have been achieved if Profil (lateral) portions de floors
-  de anterior cranial fossa sunt superimposed.
-- 'Erori de evitat / remedii: This este nu easy poziție pentru pacientul la maintain.
-  Check poziție de toate planes immediately before expunere, ca pacientul probably
-  will have moved.'
+- Toate sinusurile paranazale relevante trebuie incluse în imagine.
+- Stâncile temporale (piramidele pietroase) trebuie proiectate imediat deasupra marginii
+  orbitare inferioare.
+- Este important să vă asigurați că craniul nu este rotit. Acest lucru poate fi evaluat
+  prin măsurarea distanței de la un punct de pe linia mediană a craniului la marginile
+  orbitare de profil. Dacă aceasta este aceeași pe ambele părți ale craniului, atunci
+  craniul nu este rotit.
+- Adevăratul profil va fi obținut dacă porțiunile de profil ale planșeelor foselor
+  craniene anterioare sunt suprapuse.
+- 'Erori de evitat / remedii: Aceasta nu este o poziție ușor de menținut pentru pacient.
+  Verificați poziția tuturor planurilor imediat înainte de expunere, deoarece pacientul
+  probabil se va fi mișcat.'
 sid_dff: 100 cm
 slug: rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 292
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=292
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
+  mas: Conform AEC / grosimii anatomice
+title: Rx Sinusuri paranazale (SAF) — Incidență occipitofrontală 15 grade caudală
 ---
-# Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
+# Rx Sinusuri paranazale (SAF) — Incidență occipitofrontală 15 grade caudală
 
 
 <div class="rx-meta-bar">
@@ -132,7 +147,7 @@ title: Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
 
     === "Indicații Clinice"
 
-        - 277 9 Sinusuri Paranazale (SAF) Occipito-frontal 15 grade caudal This incidență este used la evidențiază frontal și ethmoid Sinusuri Paranazale (SAF).
+        - 277 9 Sinusuri paranazale (SAF) occipitofrontal 15 grade caudală. Această incidență este utilizată pentru evidențierea sinusurilor frontale și etmoidale.
 
     === "Ghid Național IRIS"
 
@@ -146,22 +161,22 @@ title: Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
 
     ---
 
-    - **Poziție Pacient:** • pacientul este așezat pe scaun facing stativ vertical Bucky sau Craniu unit casetă holder so planul mediosagital este coincident cu linia mediană Bucky și este also perpendicular la it.
-• capul este poziționat astfel încât orbito-meatal baseline este raised 15 grade la orizontal.
-• Ensure that nazion este poziționat în centre de Bucky.
-• pacientul poate place palms de fiecare Mână either side de capul (out de primary fascicul) pentru stability.
-• An 18  24-cm casetă este plasat longitudinally în tăvița Bucky. lead name blocker trebuie să nu interfere cu final imagine.
+    - **Poziție Pacient:** • Pacientul este așezat pe scaun, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu, astfel încât planul mediosagital să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe aceasta.
+• Capul este poziționat astfel încât linia orbitomeatală să fie ridicată cu 15 grade față de orizontală.
+• Asigurați-vă că nazionul este poziționat în centrul Bucky.
+• Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului primar, pentru stabilitate.
+• O casetă de 18 × 24 cm este plasată longitudinal în tava Bucky. Dispozitivul plumbat de blocare a numelui nu trebuie să interfereze cu imaginea finală.
 
-• pacientul stă așezat facing stativ vertical Bucky sau Craniu unit casetă holder. capul este then rotit, astfel încât plan mediosagital este paralel cu Bucky și inter-orbital line este perpendicular pe Bucky.
-• Umerii pot fi rotiți ușor pentru permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• capul și Bucky heights sunt ajustat astfel încât centre de Bucky este 2.5 cm along linie orbitomeatală (LOM) de la outer canthus de eye.
-• poziție an 18  24-cm casetă longitudinally în Ortostatism Bucky, such that its lower margine este 2.5 cm sub nivelul upper teeth.
-• radiolucent pad poate fie plasat under bărbia pentru support.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat perpendicular pe stativ vertical Bucky along planul mediosagital so fascicul exits la nazion.
-• collimation field sau extension cone trebuie să fie set pentru include ethmoidal și frontal Sinusuri Paranazale (SAF). size de frontal Sinusuri Paranazale (SAF) poate vary drastically de la one individual la another.
+• Pacientul stă așezat, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe Bucky.
+• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+• Înălțimile capului și ale Bucky sunt ajustate astfel încât centrul Bucky să fie la 2.5 cm de-a lungul liniei orbitomeatale (LOM), față de canthusul extern al ochiului.
+• Poziționați longitudinal o casetă de 18 × 24 cm în Bucky pentru ortostatism, astfel încât marginea sa inferioară să fie la 2.5 cm sub nivelul dinților superiori.
+• Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.
+    - **Punct de Centrare Fascicul:** • Raza centrală este orientată perpendicular pe stativul vertical Bucky, de-a lungul planului mediosagital, astfel încât fasciculul să iasă la nivelul nazionului.
+• Câmpul de colimare sau conul de extensie trebuie reglat pentru a include sinusurile etmoidale și frontale. Dimensiunea sinusurilor frontale poate varia considerabil de la un individ la altul.
 
-• orizontal raza centrală trebuie să fie employed la evidențiază nivele hidroaerice.
-• tubul trebuie să have been centred previously la Bucky, astfel încât raza centrală will now fie centred la point 2.5 cm posterior la outer canthus de eye.
+• Raza centrală orizontală trebuie utilizată pentru evidențierea nivelurilor hidroaerice.
+• Tubul trebuie să fi fost centrat anterior pe Bucky, astfel încât raza centrală să fie acum centrată într-un punct situat la 2.5 cm posterior față de canthusul extern al ochiului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -172,23 +187,23 @@ title: Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - toate relevant Sinusuri Paranazale (SAF) trebuie să fie included within imagine.
-    - stânci temporale (piramide pietroase) trebuie să fie projected just above lower orbital margin.
-    - It este important la ensure that Craniu este nu rotit. This poate fie assessed prin measuring distance de la point în linia mediană Craniu la Profil (lateral) orbital margins. If this este same pe ambele părți (bilateral) de Craniu, then it este nu rotit.
-    - true Profil (lateral) will have been achieved if Profil (lateral) portions de floors de anterior cranial fossa sunt superimposed.
-    - Erori de evitat / remedii: This este nu easy poziție pentru pacientul la maintain. Check poziție de toate planes immediately before expunere, ca pacientul probably will have moved.
+    - Toate sinusurile paranazale relevante trebuie incluse în imagine.
+    - Stâncile temporale (piramidele pietroase) trebuie proiectate imediat deasupra marginii orbitare inferioare.
+    - Este important să vă asigurați că craniul nu este rotit. Acest lucru poate fi evaluat prin măsurarea distanței de la un punct de pe linia mediană a craniului la marginile orbitare de profil. Dacă aceasta este aceeași pe ambele părți ale craniului, atunci craniul nu este rotit.
+    - Adevăratul profil va fi obținut dacă porțiunile de profil ale planșeelor foselor craniene anterioare sunt suprapuse.
+    - Erori de evitat / remedii: Aceasta nu este o poziție ușor de menținut pentru pacient. Verificați poziția tuturor planurilor imediat înainte de expunere, deoarece pacientul probabil se va fi mișcat.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -201,13 +216,13 @@ title: Rx Sinusuri Paranazale (SAF) Occipito - frontal 15 degrees caudad
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • grade de angulation poate vary according la local preferences. Some departments poate prefer la use OF20°↓incidență. în this case, orbito-meatal baseline este then raised la angle required prin incidență, i.e. 20 grade. Alternatively a 20-grade caudal angulation could fie employed cu orbito-meatal baseline perpendicular pe receptorul de imagine.
-• OF10°↓ sau occipito-frontal incidență would nu fie suitable pentru demonstration de ethmoid Sinusuri Paranazale (SAF), ca stânci temporale (piramide pietroase) would obscure region de interest.
+    • Gradul de angulație poate varia în funcție de preferințele locale. Unele departamente pot prefera utilizarea incidenței OF20°↓. În acest caz, linia orbitomeatală este ridicată la unghiul necesar prin incidență, adică 20 grade. Alternativ, se poate utiliza o angulație caudală de 20 grade, cu linia orbitomeatală perpendiculară pe receptorul de imagine.
+• Incidența OF10°↓ sau occipitofrontală nu ar fi adecvată pentru evidențierea sinusurilor etmoidale, deoarece stâncile temporale (piramidele pietroase) ar obstrua regiunea de interes.
 15° de 15°↓
 
-This incidență poate also fie undertaken cu pacientul Decubit dorsal și caseta sprijinit vertically pe / sprijinit de side de fața. Again, Fascicul Orizontal este used la evidențiază nivele hidroaerice.
-Reference Clements R, Ponsford A (1991). modified incidență de Masiv Facial (Oase ale Feței) în seriously injured. radiografie Today 57:10–12.
-278 Frontal Sinusuri Paranazale (SAF) Maxillary Sinusuri Paranazale (SAF) Ethmoid Sinusuri Paranazale (SAF) Sphenoid Sinusuri Paranazale (SAF)
+Această incidență poate fi efectuată și cu pacientul în decubit dorsal și caseta sprijinită vertical pe / sprijinită de partea feței. Din nou, se utilizează fasciculul orizontal pentru evidențierea nivelurilor hidroaerice.
+Referință: Clements R, Ponsford A (1991). Incidență modificată a masivului facial (oaselor feței) la pacienții cu leziuni grave. Radiography Today 57:10–12.
+278 Sinusuri frontale Sinusuri maxilare Sinusuri etmoidale Sinusuri sfenoidale
 
 
 ### 🖼️ Imagini
@@ -218,7 +233,7 @@ Reference Clements R, Ponsford A (1991). modified incidență de Masiv Facial (O
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -232,9 +247,9 @@ Reference Clements R, Ponsford A (1991). modified incidență de Masiv Facial (O
 
 <figure class="protocol-image-card" markdown>
 
-![bones în seriously injured. radiografie Today 57:10–12.](../../assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_3.jpeg)
+![Oaselor feței la pacienții cu leziuni grave. Radiography Today 57:10–12.](../../assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_3.jpeg)
 
-<figcaption><strong>bones în seriously injured. radiografie Today 57:10–12.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Oaselor feței la pacienții cu leziuni grave. Radiography Today 57:10–12.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -267,4 +282,4 @@ Reference Clements R, Ponsford A (1991). modified incidență de Masiv Facial (O
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 292](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=292)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 292](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

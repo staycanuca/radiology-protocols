@@ -56,7 +56,7 @@ sid_dff: 100 cm
 slug: rx-picior-profil-lateral-ortostatism-p126-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 126
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=126
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -195,4 +195,4 @@ Dorso-Plantară Ortostatism incidență de Ambele Picioare evidențiind hallux v
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 126](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=126)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 126](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

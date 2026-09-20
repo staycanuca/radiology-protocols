@@ -1,21 +1,23 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) ROUTINE lateral
-  Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters))
+breathing: Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) DE RUTINĂ,
+  profil lateral Parietoacantial (Incidență occipito-mentonieră (Metoda Waters))
 category: craniu-saf
-centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center
-  raza centrală la ½ inch (1.25 cm) inferior la nazion.
+centering: Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați
+  raza centrală la ½ inch (1.25 cm) inferior de nazion.
 clinical_indications:
-- Nasal bone suspiciune de fractură ambele părți (bilateral) trebuie să fie examined
-  pentru comparison, cu side closest la receptorul de imagine best evidențiat.
+- În cazul suspiciunii de fractură a oaselor proprii nazale, ambele părți (bilateral)
+  trebuie examinate pentru comparație, partea cea mai apropiată de receptorul de imagine
+  fiind evidențiată cel mai bine.
 images:
-- caption: Fig. 11.138 drept lateral Oase Proprii Nazale (OPN)—Decubit semiprone și
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.138 drept lateral
-    nasal bones—recumbent semiprone și)
+- caption: Fig. 11.138 Oase proprii nazale (OPN), profil drept — decubit semipron
+    și
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.138 oase
+    nazale, profil drept — decubit semipron și)
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_1.jpeg
-- caption: 'Fig. 11.139 drept lateral. (de la Curtis T: Online course pentru Mosby’s'
+- caption: 'Fig. 11.139 profil drept. (după Curtis T: Curs online pentru Mosby’s'
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.139
-    drept lateral. (de la Curtis T: Online course pentru Mosby’s)'
+    profil drept. (după Curtis T: Curs online pentru Mosby’s)'
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -25,15 +27,16 @@ last_updated: '2026-09-15'
 modality: rx
 notes: ''
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. pacient poziție este Decubit semiprone sau Ortostatism.; Regiune
-  anatomică: Rest lateral aspect de cap pe / sprijinit de table/în ortostatism imaging
-  device surface, cu side de interest closest la receptorul de imagine. poziție Oase
-  Proprii Nazale (OPN) la center de receptorul de imagine. Adjust cap into Incidență
-  de Profil (lateral) și oblic corp ca needed pentru pacient’s comfort (Fig. 11.138).
-  Align MsP paralel cu table/în ortostatism imaging device surface. Align linie interpupilară
-  (LIP) perpendicular la table/în ortostatism imaging device surface. poziție linie
-  infraorbitomeatală (LIOM) perpendicular și GAl paralel la front edge de receptorul
-  de imagine.'
+  capului și gâtului. Pacientul este poziționat în decubit semipron sau în ortostatism.;
+  Regiune anatomică: Se sprijină aspectul lateral opus al capului pe / de suprafața
+  mesei/dispozitivului de imagistică pentru ortostatism, cu partea de interes cea
+  mai apropiată de receptorul de imagine. Poziționați oasele proprii nazale (OPN)
+  în centrul receptorului de imagine. Ajustați capul în incidență de profil (lateral)
+  și corpul în poziție oblică, după necesitățile de confort ale pacientului (Fig.
+  11.138). Aliniați MSP paralel cu suprafața mesei/dispozitivului de imagistică pentru
+  ortostatism. Aliniați linia interpupilară (LIP) perpendicular pe suprafața mesei/dispozitivului
+  de imagistică pentru ortostatism. Poziționați linia infraorbitomeatală (LIOM) perpendiculară
+  și GAl paralel cu marginea anterioară a receptorului de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,16 +44,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Oase Proprii Nazale (OPN) cu părți moi nasal structures, region de frontonasal
-  suture, și anterior nasal coloană vertebrală sunt evidențiat (Fig. 11.139). poziție:'
-- Oase Proprii Nazale (OPN) sunt evidențiat fără rotație.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize nasal
-  bone și părți moi structures.
-- 'net bony structures indicate fără mișcare. Fig. 11.138 drept lateral Oase Proprii
-  Nazale (OPN)—Decubit semiprone și Ortostatism (inset). Fig. 11.139 drept lateral.
-  (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia,
-  2019, Elsevier.)'
+- 'Oasele proprii nazale (OPN), structurile nazale ale părților moi, regiunea suturii
+  frontonazale și coloana nazală anterioară sunt evidențiate (Fig. 11.139). Poziție:'
+- Oasele proprii nazale (OPN) sunt evidențiate fără rotație.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru
+  vizualizarea osului nazal și a structurilor părților moi.
+- 'Marginile osoase nete indică absența mișcării. Fig. 11.138 Oase proprii nazale
+  (OPN), profil drept — decubit semipron și ortostatism (inserție). Fig. 11.139 profil
+  drept. (după Curtis T: Curs online pentru consultul de poziționare digitală Mosby,
+  Philadelphia, 2019, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-oase-proprii-nazale-opn-profil-lateral-bontrager
 sources:
@@ -58,15 +61,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe toate sides la within 2 inches (5 cm) de nasal bone.
+  collimation: Colimați pe toate laturile la maximum 2 inches (5 cm) de osul nazal.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Oase Proprii Nazale (OPN) Profil (Lateral)
+title: Rx Oase Proprii Nazale (OPN) — Profil (Lateral)
 ---
-# Rx Oase Proprii Nazale (OPN) Profil (Lateral)
+# Rx Oase Proprii Nazale (OPN) — Profil (Lateral)
 
 
 <div class="rx-meta-bar">
@@ -85,7 +88,7 @@ title: Rx Oase Proprii Nazale (OPN) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Nasal bone suspiciune de fractură ambele părți (bilateral) trebuie să fie examined pentru comparison, cu side closest la receptorul de imagine best evidențiat.
+        - În cazul suspiciunii de fractură a oaselor proprii nazale, ambele părți (bilateral) trebuie examinate pentru comparație, partea cea mai apropiată de receptorul de imagine fiind evidențiată cel mai bine.
 
     === "Ghid Național IRIS"
 
@@ -99,10 +102,10 @@ title: Rx Oase Proprii Nazale (OPN) Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Decubit semiprone sau Ortostatism.; Regiune anatomică: Rest lateral aspect de cap pe / sprijinit de table/în ortostatism imaging device surface, cu side de interest closest la receptorul de imagine. poziție Oase Proprii Nazale (OPN) la center de receptorul de imagine. Adjust cap into Incidență de Profil (lateral) și oblic corp ca needed pentru pacient’s comfort (Fig. 11.138). Align MsP paralel cu table/în ortostatism imaging device surface. Align linie interpupilară (LIP) perpendicular la table/în ortostatism imaging device surface. poziție linie infraorbitomeatală (LIOM) perpendicular și GAl paralel la front edge de receptorul de imagine.
-    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center raza centrală la ½ inch (1.25 cm) inferior la nazion.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Pacientul este poziționat în decubit semipron sau în ortostatism.; Regiune anatomică: Se sprijină aspectul lateral opus al capului pe / de suprafața mesei/dispozitivului de imagistică pentru ortostatism, cu partea de interes cea mai apropiată de receptorul de imagine. Poziționați oasele proprii nazale (OPN) în centrul receptorului de imagine. Ajustați capul în incidență de profil (lateral) și corpul în poziție oblică, după necesitățile de confort ale pacientului (Fig. 11.138). Aliniați MSP paralel cu suprafața mesei/dispozitivului de imagistică pentru ortostatism. Aliniați linia interpupilară (LIP) perpendicular pe suprafața mesei/dispozitivului de imagistică pentru ortostatism. Poziționați linia infraorbitomeatală (LIOM) perpendiculară și GAl paralel cu marginea anterioară a receptorului de imagine.
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați raza centrală la ½ inch (1.25 cm) inferior de nazion.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) ROUTINE lateral Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters))
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) DE RUTINĂ, profil lateral Parietoacantial (Incidență occipito-mentonieră (Metoda Waters))
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,18 +119,18 @@ title: Rx Oase Proprii Nazale (OPN) Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe toate sides la within 2 inches (5 cm) de nasal bone. |
+    | **Colimare Fascicul** | Colimați pe toate laturile la maximum 2 inches (5 cm) de osul nazal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Oase Proprii Nazale (OPN) cu părți moi nasal structures, region de frontonasal suture, și anterior nasal coloană vertebrală sunt evidențiat (Fig. 11.139). poziție:
-    - Oase Proprii Nazale (OPN) sunt evidențiat fără rotație.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize nasal bone și părți moi structures.
-    - net bony structures indicate fără mișcare. Fig. 11.138 drept lateral Oase Proprii Nazale (OPN)—Decubit semiprone și Ortostatism (inset). Fig. 11.139 drept lateral. (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
+    - Oasele proprii nazale (OPN), structurile nazale ale părților moi, regiunea suturii frontonazale și coloana nazală anterioară sunt evidențiate (Fig. 11.139). Poziție:
+    - Oasele proprii nazale (OPN) sunt evidențiate fără rotație.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru vizualizarea osului nazal și a structurilor părților moi.
+    - Marginile osoase nete indică absența mișcării. Fig. 11.138 Oase proprii nazale (OPN), profil drept — decubit semipron și ortostatism (inserție). Fig. 11.139 profil drept. (după Curtis T: Curs online pentru consultul de poziționare digitală Mosby, Philadelphia, 2019, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,17 +150,17 @@ title: Rx Oase Proprii Nazale (OPN) Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.138 drept lateral Oase Proprii Nazale (OPN)—Decubit semiprone și](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 11.138 Oase proprii nazale (OPN), profil drept — decubit semipron și](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.138 drept lateral Oase Proprii Nazale (OPN)—Decubit semiprone și</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.138 drept lateral nasal bones—recumbent semiprone și)</span></figcaption>
+<figcaption><strong>Fig. 11.138 Oase proprii nazale (OPN), profil drept — decubit semipron și</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.138 oase nazale, profil drept — decubit semipron și)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.139 drept lateral. (de la Curtis T: Online course pentru Mosby’s](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_2.jpeg)
+![Fig. 11.139 profil drept. (după Curtis T: Curs online pentru Mosby’s](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.139 drept lateral. (de la Curtis T: Online course pentru Mosby’s</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.139 drept lateral. (de la Curtis T: Online course pentru Mosby’s)</span></figcaption>
+<figcaption><strong>Fig. 11.139 profil drept. (după Curtis T: Curs online pentru Mosby’s</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.139 profil drept. (după Curtis T: Curs online pentru Mosby’s)</span></figcaption>
 
 </figure>
 

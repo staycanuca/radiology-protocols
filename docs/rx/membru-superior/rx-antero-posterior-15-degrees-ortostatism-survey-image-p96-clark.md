@@ -56,7 +56,7 @@ sid_dff: 100 cm
 slug: rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 96
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=96
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -195,4 +195,4 @@ Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 96](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=96)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 96](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

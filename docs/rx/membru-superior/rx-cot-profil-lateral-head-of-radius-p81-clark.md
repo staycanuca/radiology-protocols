@@ -67,7 +67,7 @@ sid_dff: 100 cm
 slug: rx-cot-profil-lateral-head-of-radius-p81-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 81
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=81
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -220,4 +220,4 @@ Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 81](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=81)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 81](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

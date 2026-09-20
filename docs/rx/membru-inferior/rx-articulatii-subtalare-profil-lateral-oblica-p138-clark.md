@@ -43,7 +43,7 @@ sid_dff: 100 cm
 slug: rx-articulatii-subtalare-profil-lateral-oblica-p138-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 138
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=138
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -166,4 +166,4 @@ title: Rx Articulații Subtalare Profil (Lateral) Oblică
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 138](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=138)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 138](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

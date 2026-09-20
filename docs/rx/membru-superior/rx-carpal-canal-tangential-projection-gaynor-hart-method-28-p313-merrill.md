@@ -11,7 +11,7 @@ centering: orientat la palm de Mână la point approximately 1 inch (2.5 cm) dis
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 314, imaginea 1
+- caption: Merrill — pagina 314, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-carpal-canal-tangential-projection-gaynor-hart-method-28-p313-merrill/p314_fig1.png
 last_updated: '2026-09-16'
@@ -126,8 +126,8 @@ source_sections:
 
     Inferosuperior'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 313–314
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=313
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 313–314
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe three sides de shadow
@@ -219,9 +219,9 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 314, imaginea 1](../../assets/images/protocols/merrill/rx-carpal-canal-tangential-projection-gaynor-hart-method-28-p313-merrill/p314_fig1.png)
+![Merrill — pagina 314, imaginea 1](../../assets/images/protocols/merrill/rx-carpal-canal-tangential-projection-gaynor-hart-method-28-p313-merrill/p314_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 314, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 314, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -238,7 +238,7 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 313–314](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=313)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 313–314](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

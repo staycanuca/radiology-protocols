@@ -2,63 +2,64 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat 25 grade cranial la pass directly through mandibular region de
-  interest (see note pe p. 87). Se centrează receptorul de imagine pe raza centrală
-  pentru incidențe done pe în ortostatism grilă units.
+centering: Orientată cu 25 grade cranial pentru a trece direct prin regiunea mandibulară
+  de interes (vezi nota de la p. 87). Receptorul de imagine se centrează pe raza centrală
+  pentru incidențele efectuate pe unități cu grilă, în ortostatism.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 930, imaginea 1
+- caption: Merrill — pagina 930, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig1.png
-- caption: Merrill — pagina PDF 930, imaginea 2
+- caption: Merrill — pagina 930, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig2.png
-- caption: Merrill — pagina PDF 931, imaginea 3
+- caption: Merrill — pagina 931, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig3.png
-- caption: Merrill — pagina PDF 931, imaginea 4
+- caption: Merrill — pagina 931, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig4.png
-- caption: Merrill — pagina PDF 932, imaginea 5
+- caption: Merrill — pagina 932, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig5.png
-- caption: Merrill — pagina PDF 932, imaginea 6
+- caption: Merrill — pagina 932, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig6.png
-- caption: Merrill — pagina PDF 933, imaginea 7
+- caption: Merrill — pagina 933, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p933_fig7.png
 last_updated: '2026-09-16'
 modality: rx
-notes: When pacientul este în semisupine poziție, place receptorul de imagine pe wedge
-  device sau wedge sponge (Fig. 11.143). Ensure that combined raza centrală angle
-  și plan mediosagital tilt equals 25 grade. la reduce possibility de projecting Umăr
-  over Mandibulă when radiographing muscular sau hypersthenic pacienți, adjust MSP
-  de pacientul’s Craniu cu approximately 15-grade angle, open inferiorly. cranial
-  angulation de 10 grade de raza centrală maintains optim 25-grade raza centrală/part
-  angle relationship.
-position: se așază pacientul în Poziție Șezândă, semiprone, sau semisupine poziție.;
-  se poziționează pacientul’s cap în Incidență de Profil (lateral) cu linie interpupilară
-  (LIP) perpendicular pe receptorul de imagine (RI). mouth trebuie să fie closed cu
-  teeth together. se extinde pacient’s neck enough that axa longitudinală de corp
-  mandibular este paralel cu transverse axis de receptorul de imagine la prevent superimposition
-  de Coloană Cervicală. If incidență este la fie performed pe tabletop, poziție receptorul
-  de imagine astfel încât complete corp de Mandibulă este pe receptorul de imagine.
-  se ajustează rotație de pacientul’s cap la place aria de interes diagnostic paralel
-  cu receptorul de imagine (RI), ca follows. Ramus Keep pacientul’s cap în true Incidență
-  de Profil (lateral) (Fig. 11.140). corp se rotește pacient’s cap 30 grade spre receptorul
-  de imagine (Fig. 11.141). simfiză se rotește pacient’s cap 45 grade spre receptorul
-  de imagine (Fig. 11.142).
+notes: Când pacientul se află în poziție semisupină, se plasează receptorul de imagine
+  pe dispozitivul tip pană sau pe buretele tip pană (Fig. 11.143). Se asigură că unghiul
+  combinat al razei centrale și înclinarea planului mediosagital este egal cu 25 grade.
+  Pentru a reduce posibilitatea proiectării umărului peste mandibulă la radiografierea
+  pacienților musculoși sau hiperstenici, se ajustează MSP al craniului pacientului
+  cu aproximativ 15 grade, deschis inferior. Angulația cranială de 10 grade a razei
+  centrale menține relația optimă de 25 grade dintre raza centrală și partea anatomică.
+position: 'Pacientul este așezat în poziție șezândă, semipronă sau semisupină. Capul
+  pacientului este poziționat în incidență de profil, cu linia interpupilară (LIP)
+  perpendiculară pe receptorul de imagine (RI). Gura trebuie să fie închisă, cu dinții
+  în contact. Gâtul pacientului este extins suficient astfel încât axa longitudinală
+  a corpului mandibular să fie paralelă cu axa transversală a receptorului de imagine,
+  pentru a preveni suprapunerea coloanei cervicale. Dacă incidența este efectuată
+  pe masă, receptorul de imagine este poziționat astfel încât întregul corp al mandibulei
+  să se afle pe receptorul de imagine. Rotația capului pacientului este ajustată pentru
+  a plasa aria de interes diagnostic paralelă cu receptorul de imagine (RI), după
+  cum urmează. Ramură: capul pacientului este menținut în adevărată incidență de profil
+  (Fig. 11.140). Corp: capul pacientului este rotit cu 30 grade spre receptorul de
+  imagine (Fig. 11.141). Simfiză: capul pacientului este rotit cu 45 grade spre receptorul
+  de imagine (Fig. 11.142).'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n părți
-  moi și bony detalii trabeculare osoase Ramus și corp n fără overlap de ramus prin
-  opposite side de Mandibulă n fără elongation sau foreshortening de ramus sau corp
-  n fără superimposition de ramus prin Coloană Cervicală simfiză n fără overlap de
-  mentum region prin opposite side de Mandibulă n fără foreshortening de mentum region'
+- 'Criterii radiologice de calitate imaginii: n Dovezi de colimare corectă și prezența
+  markerului de lateralitate (D/S), plasat clar față de anatomia de interes n părți
+  moi și detalii osoase trabeculare Ramus și corp n fără suprapunerea ramusului de
+  partea opusă a mandibulei n fără alungirea sau scurtarea ramusului ori corpului
+  n fără suprapunerea ramusului de coloana cervicală simfiză n fără suprapunerea regiunii
+  mentoniere de partea opusă a mandibulei n fără scurtarea regiunii mentoniere'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill
 source_pages:
@@ -68,95 +69,92 @@ source_pages:
 - 932
 - 933
 source_sections:
-  anatomy: fiecare incidență shows region de mandible that was paralel cu receptorul
-    de imagine (Figs. 11.144–11.146).
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond anterior
-    și inferior skin shadows și above TMī. expunere
+  anatomy: Fiecare incidență evidențiază regiunea mandibulei care a fost paralelă
+    cu receptorul de imagine (fig. 11.144–11.146).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch
+    (2.5 cm) dincolo de umbrele cutanate anterioară și inferioară și deasupra ATM.
+    Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se
+    plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• Orientată cu 25 grade cranial, pentru a trece direct prin regiunea mandibulară
+    de interes (vezi nota de la p. 87).
 
-    field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.'
-  cr: '• orientat 25 grade cranial la pass directly through mandibular region de interest
-    (see note pe p. 87).
-
-    • Se centrează receptorul de imagine pe raza centrală pentru incidențe done pe
-    în ortostatism grilă units.'
+    • Se centrează receptorul de imagine pe raza centrală pentru incidențele efectuate
+    pe unități cu grilă, în ortostatism.'
   criteria: 'Criterii radiologice de calitate imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    n părți moi și bony detalii trabeculare osoase
+    n Părți moi și detalii osoase trabeculare
 
     Ramus și corp
 
-    n fără overlap de ramus prin opposite side de mandible
+    n Fără suprapunerea ramusului de partea opusă a mandibulei
 
-    n fără elongation sau foreshortening de ramus sau corp
+    n Fără alungirea sau scurtarea ramusului ori corpului
 
-    n fără superimposition de ramus prin cervical coloană vertebrală
+    n Fără suprapunerea ramusului de coloana cervicală
 
-    simfiză
+    Simfiză
 
-    n fără overlap de mentum region prin opposite side de mandible
+    n Fără suprapunerea regiunii mentoniere de partea opusă a mandibulei
 
-    n fără foreshortening de mentum region'
-  notes: 'When pacientul este în semisupine poziție, place receptorul de imagine pe
-    wedge device sau wedge sponge (Fig. 11.143). Ensure that combined raza centrală
+    n Fără scurtarea regiunii mentoniere'
+  notes: 'Când pacientul este în poziție semisupină, se plasează receptorul de imagine
+    pe un dispozitiv în pană sau pe o pernă în pană (fig. 11.143). Se asigură că unghiul
+    combinat al razei centrale și înclinarea planului mediosagital este egal cu 25
+    grade.
 
-    angle și plan mediosagital tilt equals 25 grade.
+    Pentru a reduce posibilitatea proiectării umărului peste mandibulă la radiografierea
+    pacienților musculoși sau hiperstenici, se ajustează craniul pacientului în MSP
+    cu un unghi de aproximativ 15 grade, deschis inferior. Angularea cranială de 10
+    grade a razei centrale menține relația optimă de 25 grade dintre raza centrală
+    și unghiul părții anatomice.'
+  part_pos: '• Se poziționează capul pacientului în poziție de profil (lateral), cu
+    linia interpupilară (LIP) perpendiculară pe receptorul de imagine (RI). Gura trebuie
+    să fie închisă, cu dinții în contact.
 
-    la reduce possibility de projecting umăr over mandible when radiographing muscular
-    sau hypersthenic pacienți, adjust
+    • Se extinde gâtul pacientului suficient astfel încât axa longitudinală a corpului
+    mandibular să fie paralelă cu axa transversală a receptorului de imagine, pentru
+    a preveni suprapunerea coloanei cervicale.
 
-    MSP de pacientul’s skull cu approximately 15-grade angle, open inferiorly. cranial
-    angulation de 10 grade de raza centrală
+    • Dacă incidența se efectuează pe masa radiologică, se poziționează receptorul
+    de imagine astfel încât întregul corp al mandibulei să fie pe receptorul de imagine.
 
-    maintains optim 25-grade raza centrală/part angle relationship.'
-  part_pos: '• se poziționează pacientul’s cap în poziție de profil (lateral) cu linie
-    interpupilară (LIP) perpendicular pe receptorul de imagine (RI). mouth trebuie
-    să fie closed cu teeth together.
-
-    • se extinde pacient’s neck enough that axa longitudinală de corp mandibular este
-    paralel cu transverse axis de receptorul de imagine la prevent
-
-    superimposition de cervical coloană vertebrală.
-
-    • If incidență este la fie performed pe tabletop, poziție receptorul de imagine
-    astfel încât complete corp de mandible este pe receptorul de imagine.
-
-    • se ajustează rotație de pacientul’s cap la place aria de interes diagnostic
-    paralel cu receptorul de imagine (RI), ca follows.
+    • Se ajustează rotația capului pacientului pentru a plasa aria de interes diagnostic
+    paralelă cu receptorul de imagine (RI), după cum urmează.
 
     Ramus
 
-    • Keep pacientul’s cap în true poziție de profil (lateral) (Fig. 11.140).
+    • Se menține capul pacientului în adevărată poziție de profil (lateral) (fig.
+    11.140).
 
-    corp
+    Corp
 
-    • se rotește pacient’s cap 30 grade spre receptorul de imagine (Fig. 11.141).
+    • Se rotește capul pacientului cu 30 grade spre receptorul de imagine (fig. 11.141).
 
-    simfiză
+    Simfiză
 
-    • se rotește pacient’s cap 45 grade spre receptorul de imagine (Fig. 11.142).'
-  patient_pos: • se așază pacientul în așezat pe scaun, semiprone, sau semisupine
-    poziție.
+    • Se rotește capul pacientului cu 45 grade spre receptorul de imagine (fig. 11.142).'
+  patient_pos: • Se așază pacientul în poziție șezândă, semipronă sau semisupină.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 929–933
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=929
+- title: Merrill’s Atlas, 11. Cranium, pagini 929–933
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond anterior
-    și inferior skin shadows și above TMī. expunere field trebuie să fie fără larger
-    than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated
-    expunere field.
-title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merrill)
+  collimation: Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch
+    (2.5 cm) dincolo de umbrele cutanate anterioară și inferioară și deasupra ATM.
+    Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se
+    plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Mandibulă — Incidență axiolaterală și axiolaterală oblică (Merrill)
 ---
-# Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merrill)
+# Rx Mandibulă — Incidență axiolaterală și axiolaterală oblică (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -189,8 +187,8 @@ title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merril
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă, semiprone, sau semisupine poziție.; se poziționează pacientul’s cap în Incidență de Profil (lateral) cu linie interpupilară (LIP) perpendicular pe receptorul de imagine (RI). mouth trebuie să fie closed cu teeth together. se extinde pacient’s neck enough that axa longitudinală de corp mandibular este paralel cu transverse axis de receptorul de imagine la prevent superimposition de Coloană Cervicală. If incidență este la fie performed pe tabletop, poziție receptorul de imagine astfel încât complete corp de Mandibulă este pe receptorul de imagine. se ajustează rotație de pacientul’s cap la place aria de interes diagnostic paralel cu receptorul de imagine (RI), ca follows. Ramus Keep pacientul’s cap în true Incidență de Profil (lateral) (Fig. 11.140). corp se rotește pacient’s cap 30 grade spre receptorul de imagine (Fig. 11.141). simfiză se rotește pacient’s cap 45 grade spre receptorul de imagine (Fig. 11.142).
-    - **Punct de Centrare Fascicul:** orientat 25 grade cranial la pass directly through mandibular region de interest (see note pe p. 87). Se centrează receptorul de imagine pe raza centrală pentru incidențe done pe în ortostatism grilă units.
+    - **Poziție Pacient:** Pacientul este așezat în poziție șezândă, semipronă sau semisupină. Capul pacientului este poziționat în incidență de profil, cu linia interpupilară (LIP) perpendiculară pe receptorul de imagine (RI). Gura trebuie să fie închisă, cu dinții în contact. Gâtul pacientului este extins suficient astfel încât axa longitudinală a corpului mandibular să fie paralelă cu axa transversală a receptorului de imagine, pentru a preveni suprapunerea coloanei cervicale. Dacă incidența este efectuată pe masă, receptorul de imagine este poziționat astfel încât întregul corp al mandibulei să se afle pe receptorul de imagine. Rotația capului pacientului este ajustată pentru a plasa aria de interes diagnostic paralelă cu receptorul de imagine (RI), după cum urmează. Ramură: capul pacientului este menținut în adevărată incidență de profil (Fig. 11.140). Corp: capul pacientului este rotit cu 30 grade spre receptorul de imagine (Fig. 11.141). Simfiză: capul pacientului este rotit cu 45 grade spre receptorul de imagine (Fig. 11.142).
+    - **Punct de Centrare Fascicul:** Orientată cu 25 grade cranial pentru a trece direct prin regiunea mandibulară de interes (vezi nota de la p. 87). Receptorul de imagine se centrează pe raza centrală pentru incidențele efectuate pe unități cu grilă, în ortostatism.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -206,14 +204,14 @@ title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merril
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond anterior și inferior skin shadows și above TMī. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbrele cutanate anterioară și inferioară și deasupra ATM. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n părți moi și bony detalii trabeculare osoase Ramus și corp n fără overlap de ramus prin opposite side de Mandibulă n fără elongation sau foreshortening de ramus sau corp n fără superimposition de ramus prin Coloană Cervicală simfiză n fără overlap de mentum region prin opposite side de Mandibulă n fără foreshortening de mentum region
+    - Criterii radiologice de calitate imaginii: n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes n părți moi și detalii osoase trabeculare Ramus și corp n fără suprapunerea ramusului de partea opusă a mandibulei n fără alungirea sau scurtarea ramusului ori corpului n fără suprapunerea ramusului de coloana cervicală simfiză n fără suprapunerea regiunii mentoniere de partea opusă a mandibulei n fără scurtarea regiunii mentoniere
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -224,7 +222,7 @@ title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merril
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    When pacientul este în semisupine poziție, place receptorul de imagine pe wedge device sau wedge sponge (Fig. 11.143). Ensure that combined raza centrală angle și plan mediosagital tilt equals 25 grade. la reduce possibility de projecting Umăr over Mandibulă when radiographing muscular sau hypersthenic pacienți, adjust MSP de pacientul’s Craniu cu approximately 15-grade angle, open inferiorly. cranial angulation de 10 grade de raza centrală maintains optim 25-grade raza centrală/part angle relationship.
+    Când pacientul se află în poziție semisupină, se plasează receptorul de imagine pe dispozitivul tip pană sau pe buretele tip pană (Fig. 11.143). Se asigură că unghiul combinat al razei centrale și înclinarea planului mediosagital este egal cu 25 grade. Pentru a reduce posibilitatea proiectării umărului peste mandibulă la radiografierea pacienților musculoși sau hiperstenici, se ajustează MSP al craniului pacientului cu aproximativ 15 grade, deschis inferior. Angulația cranială de 10 grade a razei centrale menține relația optimă de 25 grade dintre raza centrală și partea anatomică.
 
 
 ### 🖼️ Imagini
@@ -233,57 +231,57 @@ title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merril
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 930, imaginea 1](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig1.png)
+![Merrill — pagina 930, imaginea 1](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 930, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 930, imaginea 2](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 930, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 930, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 931, imaginea 3](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig3.png)
+![Merrill — pagina 930, imaginea 2](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p930_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 931, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 931, imaginea 4](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 931, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 930, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 932, imaginea 5](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig5.png)
+![Merrill — pagina 931, imaginea 3](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 932, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 932, imaginea 6](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 932, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 931, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 933, imaginea 7](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p933_fig7.png)
+![Merrill — pagina 931, imaginea 4](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p931_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 933, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 931, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 932, imaginea 5](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig5.png)
+
+<figcaption><strong>Merrill — pagina 932, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 932, imaginea 6](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p932_fig6.png)
+
+<figcaption><strong>Merrill — pagina 932, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 933, imaginea 7](../../assets/images/protocols/merrill/rx-mandibula-axiolateral-and-axiolateral-oblique-projections-p929-merrill/p933_fig7.png)
+
+<figcaption><strong>Merrill — pagina 933, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -300,69 +298,64 @@ title: Rx Mandibulă — Axiolateral And Axiolateral Oblique Incidență (Merril
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 929–933](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=929)
+- [Merrill’s Atlas, 11. Cranium, pagini 929–933](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-fiecare incidență shows region de mandible that was paralel cu receptorul de imagine (Figs. 11.144–11.146).
+Fiecare incidență evidențiază regiunea mandibulei care a fost paralelă cu receptorul de imagine (fig. 11.144–11.146).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond anterior și inferior skin shadows și above TMī. expunere
-field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbrele cutanate anterioară și inferioară și deasupra ATM. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat 25 grade cranial la pass directly through mandibular region de interest (see note pe p. 87).
-• Se centrează receptorul de imagine pe raza centrală pentru incidențe done pe în ortostatism grilă units.
+• Orientată cu 25 grade cranial, pentru a trece direct prin regiunea mandibulară de interes (vezi nota de la p. 87).
+• Se centrează receptorul de imagine pe raza centrală pentru incidențele efectuate pe unități cu grilă, în ortostatism.
 
-### criteria
+### criterii
 
 Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n părți moi și bony detalii trabeculare osoase
+n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n Părți moi și detalii osoase trabeculare
 Ramus și corp
-n fără overlap de ramus prin opposite side de mandible
-n fără elongation sau foreshortening de ramus sau corp
-n fără superimposition de ramus prin cervical coloană vertebrală
-simfiză
-n fără overlap de mentum region prin opposite side de mandible
-n fără foreshortening de mentum region
+n Fără suprapunerea ramusului de partea opusă a mandibulei
+n Fără alungirea sau scurtarea ramusului ori corpului
+n Fără suprapunerea ramusului de coloana cervicală
+Simfiză
+n Fără suprapunerea regiunii mentoniere de partea opusă a mandibulei
+n Fără scurtarea regiunii mentoniere
 
-### notes
+### note
 
-When pacientul este în semisupine poziție, place receptorul de imagine pe wedge device sau wedge sponge (Fig. 11.143). Ensure that combined raza centrală
-angle și plan mediosagital tilt equals 25 grade.
-la reduce possibility de projecting umăr over mandible when radiographing muscular sau hypersthenic pacienți, adjust
-MSP de pacientul’s skull cu approximately 15-grade angle, open inferiorly. cranial angulation de 10 grade de raza centrală
-maintains optim 25-grade raza centrală/part angle relationship.
+Când pacientul este în poziție semisupină, se plasează receptorul de imagine pe un dispozitiv în pană sau pe o pernă în pană (fig. 11.143). Se asigură că unghiul combinat al razei centrale și înclinarea planului mediosagital este egal cu 25 grade.
+Pentru a reduce posibilitatea proiectării umărului peste mandibulă la radiografierea pacienților musculoși sau hiperstenici, se ajustează craniul pacientului în MSP cu un unghi de aproximativ 15 grade, deschis inferior. Angularea cranială de 10 grade a razei centrale menține relația optimă de 25 grade dintre raza centrală și unghiul părții anatomice.
 
 ### part_pos
 
-• se poziționează pacientul’s cap în poziție de profil (lateral) cu linie interpupilară (LIP) perpendicular pe receptorul de imagine (RI). mouth trebuie să fie closed cu teeth together.
-• se extinde pacient’s neck enough that axa longitudinală de corp mandibular este paralel cu transverse axis de receptorul de imagine la prevent
-superimposition de cervical coloană vertebrală.
-• If incidență este la fie performed pe tabletop, poziție receptorul de imagine astfel încât complete corp de mandible este pe receptorul de imagine.
-• se ajustează rotație de pacientul’s cap la place aria de interes diagnostic paralel cu receptorul de imagine (RI), ca follows.
+• Se poziționează capul pacientului în poziție de profil (lateral), cu linia interpupilară (LIP) perpendiculară pe receptorul de imagine (RI). Gura trebuie să fie închisă, cu dinții în contact.
+• Se extinde gâtul pacientului suficient astfel încât axa longitudinală a corpului mandibular să fie paralelă cu axa transversală a receptorului de imagine, pentru a preveni suprapunerea coloanei cervicale.
+• Dacă incidența se efectuează pe masa radiologică, se poziționează receptorul de imagine astfel încât întregul corp al mandibulei să fie pe receptorul de imagine.
+• Se ajustează rotația capului pacientului pentru a plasa aria de interes diagnostic paralelă cu receptorul de imagine (RI), după cum urmează.
 Ramus
-• Keep pacientul’s cap în true poziție de profil (lateral) (Fig. 11.140).
-corp
-• se rotește pacient’s cap 30 grade spre receptorul de imagine (Fig. 11.141).
-simfiză
-• se rotește pacient’s cap 45 grade spre receptorul de imagine (Fig. 11.142).
+• Se menține capul pacientului în adevărată poziție de profil (lateral) (fig. 11.140).
+Corp
+• Se rotește capul pacientului cu 30 grade spre receptorul de imagine (fig. 11.141).
+Simfiză
+• Se rotește capul pacientului cu 45 grade spre receptorul de imagine (fig. 11.142).
 
 ### patient_pos
 
-• se așază pacientul în așezat pe scaun, semiprone, sau semisupine poziție.
+• Se așază pacientul în poziție șezândă, semipronă sau semisupină.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), longitudinal.
 

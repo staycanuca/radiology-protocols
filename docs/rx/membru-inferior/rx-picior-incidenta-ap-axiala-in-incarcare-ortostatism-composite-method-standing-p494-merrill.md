@@ -15,19 +15,19 @@ centering: la use masking efect de membru inferior, se orientează raza central�
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 495, imaginea 1
+- caption: Merrill — pagina 495, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig1.png
-- caption: Merrill — pagina PDF 495, imaginea 2
+- caption: Merrill — pagina 495, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig2.png
-- caption: Merrill — pagina PDF 496, imaginea 3
+- caption: Merrill — pagina 496, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig3.png
-- caption: Merrill — pagina PDF 496, imaginea 4
+- caption: Merrill — pagina 496, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig4.png
-- caption: Merrill — pagina PDF 497, imaginea 5
+- caption: Merrill — pagina 497, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p497_fig5.png
 last_updated: '2026-09-16'
@@ -111,8 +111,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 494–497
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=494
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 494–497
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și
@@ -203,41 +203,41 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 495, imaginea 1](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig1.png)
+![Merrill — pagina 495, imaginea 1](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 495, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 495, imaginea 2](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 495, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 495, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 496, imaginea 3](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig3.png)
+![Merrill — pagina 495, imaginea 2](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p495_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 496, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 496, imaginea 4](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 496, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 495, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 497, imaginea 5](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p497_fig5.png)
+![Merrill — pagina 496, imaginea 3](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 497, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 496, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 496, imaginea 4](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p496_fig4.png)
+
+<figcaption><strong>Merrill — pagina 496, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 497, imaginea 5](../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p497_fig5.png)
+
+<figcaption><strong>Merrill — pagina 497, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -254,7 +254,7 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 494–497](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=494)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 494–497](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -5,11 +5,12 @@ hide:
   - toc
 ---
 
-# Protocoale Radio-Imagistice & Ghidul IRIS
+<!-- =======================================================================
+     OMNISEARCH — MOTOR DE CĂUTARE ȘI FILTRARE INSTANTANEE (SUB BARA DE MENIU)
+     ======================================================================= -->
+<div id="omnisearch-root"></div>
 
-Ghid clinic unificat și standardizat de protocoale radio-imagistice pentru toate modalitățile de diagnostic: **CT**, **IRM**, **RX**, **US** și **FLOURO**. Fiecare protocol este corelat cu criteriile oficiale de recomandare și radioprotecție din **Ghidul Național IRIS (Ordinul MS 1342/2012)**.
-
-<div class="hero-buttons">
+<div class="hero-buttons" style="margin-top: 16px;">
   <a href="ct/" class="hero-btn primary" style="background: #1a237e;">
     ⚡ CT
   </a>
@@ -36,7 +37,7 @@ Ghid clinic unificat și standardizat de protocoale radio-imagistice pentru toat
   </a>
 </div>
 
-<div class="iris-official-banner" style="margin-top: 24px; margin-bottom: 24px;">
+<div class="iris-official-banner" style="margin-top: 20px; margin-bottom: 24px;">
   <div class="iris-official-badge">🏛️ JUSTIFICARE CLINICĂ &bull; ORDINUL MINISTERULUI SĂNĂTĂȚII NR. 1342/2012</div>
   <p class="iris-official-desc" style="margin-bottom: 10px !important;">
     Conform principiilor europene de radioprotecție și ghidului național <strong>IRIS</strong> (Indicații RadioImagistice Structurate), medicii prescriptori și radiologii sunt îndrumați să prioritizeze investigațiile <strong>fără iradiere ionizantă (Clasa 0: US și IRM)</strong> înaintea celor iradiante (<strong>RX - Clasa 1/2, FLOURO/CT - Clasa 3/4</strong>), respectând principiul <strong>ALARA</strong> (As Low As Reasonably Achievable).

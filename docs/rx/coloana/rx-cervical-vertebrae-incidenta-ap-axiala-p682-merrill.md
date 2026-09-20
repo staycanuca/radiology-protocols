@@ -2,49 +2,51 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: orientat through C4 la un unghi de 15 la 20 grade cranial. raza centrală
-  enters la sau slightly inferior la most prominent point de cartilaj tiroid (mărul
-  lui Adam), commonly called “Adam’s apple.”
+centering: Orientată prin C4 la un unghi de 15 la 20 grade cranial. Raza centrală
+  pătrunde la nivelul sau ușor inferior de punctul cel mai proeminent al cartilajului
+  tiroid (mărul lui Adam), numit în mod obișnuit „mărul lui Adam”.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 683, imaginea 1
+- caption: Merrill — pagina 683, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p683_fig1.png
-- caption: Merrill — pagina PDF 684, imaginea 2
+- caption: Merrill — pagina 684, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p684_fig2.png
-- caption: Merrill — pagina PDF 685, imaginea 3
+- caption: Merrill — pagina 685, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p685_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau ortostatism cu back pe / sprijinit
-  de receptorul de imagine holder. se ajustează pacient’s umeri la lie în same plan
-  orizontal la prevent rotație.; se centrează MSP de pacientul’s corp la linia mediană
-  mesei sau stativ vertical Bucky. se extinde chin enough astfel încât plan ocluzal
-  este perpendicular pe tabletop. This prevents superimposition de Mandibulă și midcervical
-  vertebre (Figs. 9.39 și 9.40). se centrează receptorul de imagine la nivelul C4.
-  se ajustează cap astfel încât MSP este în straight alignment și perpendicular pe
-  receptorul de imagine (RI). Provide support pentru capul de orice pacient who has
-  pronounced lordotic curvature. This support helps compensate pentru curvature și
-  reduces imagine distortion. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe /
+  sprijinit de suportul receptorului de imagine. Se ajustează umerii pacientului astfel
+  încât să se afle în același plan orizontal pentru a preveni rotația.; Se centrează
+  MSP al corpului pacientului pe linia mediană a mesei sau a stativului vertical Bucky.
+  Se ridică bărbia suficient astfel încât planul ocluzal să fie perpendicular pe blatul
+  mesei. Aceasta previne suprapunerea mandibulei peste vertebrele cervicale mijlocii
+  (Fig. 9.39 și 9.40). Se centrează receptorul de imagine la nivelul C4. Se ajustează
+  capul astfel încât MSP să fie aliniat drept și perpendicular pe receptorul de imagine
+  (RI). Se asigură un suport pentru capul oricărui pacient care prezintă o curbură
+  lordotică pronunțată. Acest suport ajută la compensarea curburii și reduce distorsiunea
+  imaginii. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Area de la superior portion de C3 la T2 și surrounding părți moi
-- Shadows de Mandibulă și occiput superimposed over atlas și most de axis
-- Open intervertebral disk spaces
-- MSP de capul și neck perpendicular pe plane de receptorul de imagine, fără tilt
-  sau rotație
-- procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical
-  corpuri
-- Mandibular angles și mastoid processes echidistant față de vertebre
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Regiunea de la porțiunea superioară a C3 până la T2 și părțile moi înconjurătoare
+- Umbrele mandibulei și occiputului suprapuse peste atlas și cea mai mare parte a
+  axisului
+- Spații discale intervertebrale deschise
+- MSP al capului și gâtului perpendicular pe planul receptorului de imagine, fără
+  înclinare sau rotație
+- Procesele spinoase echidistante față de pediculi și aliniate cu linia mediană a
+  corpurilor vertebrale cervicale
+- Unghiurile mandibulare și procesele mastoide echidistante față de vertebre
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill
 source_pages:
@@ -53,75 +55,80 @@ source_pages:
 - 684
 - 685
 source_sections:
-  anatomy: 'lower five cervical corpuri și upper two sau three thoracic corpuri, interpediculate
-    spaces, superimposed transverse și articular
+  anatomy: 'Corpurile celor cinci vertebre cervicale inferioare și ale celor două
+    sau trei vertebre toracice superioare, spațiile interpediculare, procesele transverse
+    și articulare
 
-    processes, și intervertebral disk spaces (Fig. 9.41). This incidență este also
-    used la show presence sau absence de cervical coaste.'
-  collimation: '• Adjust câmp de iradiere la 10 inches (25 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin shadow pe sides. Place marker de lateralitate (D/S) în
+    suprapuse și spațiile discale intervertebrale (Fig. 9.41). Această incidență este
+    utilizată și pentru a evidenția prezența sau absența coastelor cervicale.'
+  collimation: '• Se ajustează câmpul de iradiere la 10 țoli (25 cm) longitudinal
+    și la 1 țol (2.5 cm) dincolo de conturul cutanat pe laturi. Se plasează markerul
+    de lateralitate (D/S) în
 
-    collimated expunere field.'
-  cr: '• orientat through C4 la un unghi de 15 la 20 grade cranial. raza centrală
-    enters la sau slightly inferior la most prominent point
+    câmpul de expunere colimat.'
+  cr: '• Orientată prin C4 la un unghi de 15 la 20 grade cranial. Raza centrală pătrunde
+    la nivelul sau ușor inferior de punctul cel mai proeminent
 
-    de cartilaj tiroid (mărul lui Adam), commonly called “Adam’s apple.”'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    al cartilajului tiroid (mărul lui Adam), numit în mod obișnuit „mărul lui Adam”.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a
+    se suprapune peste anatomia de interes
 
-    • Area de la superior portion de C3 la T2 și surrounding părți moi
+    • Regiunea de la porțiunea superioară a C3 până la T2 și părțile moi înconjurătoare
 
-    • Shadows de mandible și occiput superimposed over atlas și most de axis
+    • Umbrele mandibulei și occiputului suprapuse peste atlas și cea mai mare parte
+    a axisului
 
-    • Open intervertebral disk spaces
+    • Spații discale intervertebrale deschise
 
-    • MSP de capul și neck perpendicular pe plane de receptorul de imagine, fără tilt
-    sau rotație
+    • MSP al capului și gâtului perpendicular pe planul receptorului de imagine, fără
+    înclinare sau rotație
 
-    • procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical
-    corpuri
+    • Procesele spinoase echidistante față de pediculi și aliniate cu linia mediană
+    a corpurilor vertebrale cervicale
 
-    • Mandibular angles și mastoid processes echidistant față de vertebre
+    • Unghiurile mandibulare și procesele mastoide echidistante față de vertebre
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează MSP de pacientul’s corp la linia mediană mesei sau stativ
-    vertical Bucky.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se centrează MSP al corpului pacientului pe linia mediană a mesei sau
+    a stativului vertical Bucky.
 
-    • se extinde chin enough astfel încât plan ocluzal este perpendicular pe tabletop.
-    This prevents superimposition de mandible și
+    • Se ridică bărbia suficient astfel încât planul ocluzal să fie perpendicular
+    pe blatul mesei. Aceasta previne suprapunerea mandibulei peste
 
-    midcervical vertebre (Figs. 9.39 și 9.40).
+    vertebrele cervicale mijlocii (Fig. 9.39 și 9.40).
 
-    • se centrează receptorul de imagine la nivelul C4.
+    • Se centrează receptorul de imagine la nivelul C4.
 
-    • se ajustează cap astfel încât MSP este în straight alignment și perpendicular
-    pe receptorul de imagine (RI).
+    • Se ajustează capul astfel încât MSP să fie aliniat drept și perpendicular pe
+    receptorul de imagine (RI).
 
-    • Provide support pentru capul de orice pacient who has pronounced lordotic curvature.
-    This support helps compensate pentru curvature
+    • Se asigură un suport pentru capul oricărui pacient care prezintă o curbură lordotică
+    pronunțată. Acest suport ajută la compensarea curburii
 
-    și reduces imagine distortion.
+    și reduce distorsiunea imaginii.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau ortostatism cu back pe
-    / sprijinit de receptorul de imagine holder.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele
+    pe / sprijinit de suportul receptorului de imagine.
 
-    • se ajustează pacient’s umeri la lie în same plan orizontal la prevent rotație.'
+    • Se ajustează umerii pacientului astfel încât să se afle în același plan orizontal
+    pentru a preveni rotația.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 682–685
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=682
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 682–685
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 10 inches (25 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin shadow pe sides. Place marker de lateralitate (D/S) în collimated
-    expunere field.
+  collimation: Se ajustează câmpul de iradiere la 10 țoli (25 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de conturul cutanat pe laturi. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
 ---
 # Rx Coloană Cervicală — Incidență AP Axială (Merrill)
@@ -157,8 +164,8 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism cu back pe / sprijinit de receptorul de imagine holder. se ajustează pacient’s umeri la lie în same plan orizontal la prevent rotație.; se centrează MSP de pacientul’s corp la linia mediană mesei sau stativ vertical Bucky. se extinde chin enough astfel încât plan ocluzal este perpendicular pe tabletop. This prevents superimposition de Mandibulă și midcervical vertebre (Figs. 9.39 și 9.40). se centrează receptorul de imagine la nivelul C4. se ajustează cap astfel încât MSP este în straight alignment și perpendicular pe receptorul de imagine (RI). Provide support pentru capul de orice pacient who has pronounced lordotic curvature. This support helps compensate pentru curvature și reduces imagine distortion. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat through C4 la un unghi de 15 la 20 grade cranial. raza centrală enters la sau slightly inferior la most prominent point de cartilaj tiroid (mărul lui Adam), commonly called “Adam’s apple.”
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe / sprijinit de suportul receptorului de imagine. Se ajustează umerii pacientului astfel încât să se afle în același plan orizontal pentru a preveni rotația.; Se centrează MSP al corpului pacientului pe linia mediană a mesei sau a stativului vertical Bucky. Se ridică bărbia suficient astfel încât planul ocluzal să fie perpendicular pe blatul mesei. Aceasta previne suprapunerea mandibulei peste vertebrele cervicale mijlocii (Fig. 9.39 și 9.40). Se centrează receptorul de imagine la nivelul C4. Se ajustează capul astfel încât MSP să fie aliniat drept și perpendicular pe receptorul de imagine (RI). Se asigură un suport pentru capul oricărui pacient care prezintă o curbură lordotică pronunțată. Acest suport ajută la compensarea curburii și reduce distorsiunea imaginii. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată prin C4 la un unghi de 15 la 20 grade cranial. Raza centrală pătrunde la nivelul sau ușor inferior de punctul cel mai proeminent al cartilajului tiroid (mărul lui Adam), numit în mod obișnuit „mărul lui Adam”.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -174,22 +181,22 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 10 inches (25 cm) longitudinal și 1 inch (2.5 cm) beyond skin shadow pe sides. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 țoli (25 cm) longitudinal și la 1 țol (2.5 cm) dincolo de conturul cutanat pe laturi. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Area de la superior portion de C3 la T2 și surrounding părți moi
-    - Shadows de Mandibulă și occiput superimposed over atlas și most de axis
-    - Open intervertebral disk spaces
-    - MSP de capul și neck perpendicular pe plane de receptorul de imagine, fără tilt sau rotație
-    - procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical corpuri
-    - Mandibular angles și mastoid processes echidistant față de vertebre
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Regiunea de la porțiunea superioară a C3 până la T2 și părțile moi înconjurătoare
+    - Umbrele mandibulei și occiputului suprapuse peste atlas și cea mai mare parte a axisului
+    - Spații discale intervertebrale deschise
+    - MSP al capului și gâtului perpendicular pe planul receptorului de imagine, fără înclinare sau rotație
+    - Procesele spinoase echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale cervicale
+    - Unghiurile mandibulare și procesele mastoide echidistante față de vertebre
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -209,25 +216,25 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 683, imaginea 1](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p683_fig1.png)
+![Merrill — pagina 683, imaginea 1](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p683_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 683, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 684, imaginea 2](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p684_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 684, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 683, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 685, imaginea 3](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p685_fig3.png)
+![Merrill — pagina 684, imaginea 2](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p684_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 685, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 684, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 685, imaginea 3](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p685_fig3.png)
+
+<figcaption><strong>Merrill — pagina 685, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -244,59 +251,59 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 682–685](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=682)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 682–685](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lower five cervical corpuri și upper two sau three thoracic corpuri, interpediculate spaces, superimposed transverse și articular
-processes, și intervertebral disk spaces (Fig. 9.41). This incidență este also used la show presence sau absence de cervical coaste.
+Corpurile celor cinci vertebre cervicale inferioare și ale celor două sau trei vertebre toracice superioare, spațiile interpediculare, procesele transverse și articulare
+suprapuse și spațiile discale intervertebrale (Fig. 9.41). Această incidență este utilizată și pentru a evidenția prezența sau absența coastelor cervicale.
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la 10 inches (25 cm) longitudinal și 1 inch (2.5 cm) beyond skin shadow pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
+• Se ajustează câmpul de iradiere la 10 țoli (25 cm) longitudinal și la 1 țol (2.5 cm) dincolo de conturul cutanat pe laturi. Se plasează markerul de lateralitate (D/S) în
+câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat through C4 la un unghi de 15 la 20 grade cranial. raza centrală enters la sau slightly inferior la most prominent point
-de cartilaj tiroid (mărul lui Adam), commonly called “Adam’s apple.”
+• Orientată prin C4 la un unghi de 15 la 20 grade cranial. Raza centrală pătrunde la nivelul sau ușor inferior de punctul cel mai proeminent
+al cartilajului tiroid (mărul lui Adam), numit în mod obișnuit „mărul lui Adam”.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Area de la superior portion de C3 la T2 și surrounding părți moi
-• Shadows de mandible și occiput superimposed over atlas și most de axis
-• Open intervertebral disk spaces
-• MSP de capul și neck perpendicular pe plane de receptorul de imagine, fără tilt sau rotație
-• procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical corpuri
-• Mandibular angles și mastoid processes echidistant față de vertebre
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+• Regiunea de la porțiunea superioară a C3 până la T2 și părțile moi înconjurătoare
+• Umbrele mandibulei și occiputului suprapuse peste atlas și cea mai mare parte a axisului
+• Spații discale intervertebrale deschise
+• MSP al capului și gâtului perpendicular pe planul receptorului de imagine, fără înclinare sau rotație
+• Procesele spinoase echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale cervicale
+• Unghiurile mandibulare și procesele mastoide echidistante față de vertebre
+• Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 ### part_pos
 
-• se centrează MSP de pacientul’s corp la linia mediană mesei sau stativ vertical Bucky.
-• se extinde chin enough astfel încât plan ocluzal este perpendicular pe tabletop. This prevents superimposition de mandible și
-midcervical vertebre (Figs. 9.39 și 9.40).
-• se centrează receptorul de imagine la nivelul C4.
-• se ajustează cap astfel încât MSP este în straight alignment și perpendicular pe receptorul de imagine (RI).
-• Provide support pentru capul de orice pacient who has pronounced lordotic curvature. This support helps compensate pentru curvature
-și reduces imagine distortion.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se centrează MSP al corpului pacientului pe linia mediană a mesei sau a stativului vertical Bucky.
+• Se ridică bărbia suficient astfel încât planul ocluzal să fie perpendicular pe blatul mesei. Aceasta previne suprapunerea mandibulei peste
+vertebrele cervicale mijlocii (Fig. 9.39 și 9.40).
+• Se centrează receptorul de imagine la nivelul C4.
+• Se ajustează capul astfel încât MSP să fie aliniat drept și perpendicular pe receptorul de imagine (RI).
+• Se asigură un suport pentru capul oricărui pacient care prezintă o curbură lordotică pronunțată. Acest suport ajută la compensarea curburii
+și reduce distorsiunea imaginii.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal sau ortostatism cu back pe / sprijinit de receptorul de imagine holder.
-• se ajustează pacient’s umeri la lie în same plan orizontal la prevent rotație.
+• Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe / sprijinit de suportul receptorului de imagine.
+• Se ajustează umerii pacientului astfel încât să se afle în același plan orizontal pentru a preveni rotația.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

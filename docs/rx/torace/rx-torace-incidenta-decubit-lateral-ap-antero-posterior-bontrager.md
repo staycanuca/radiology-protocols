@@ -1,59 +1,62 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee în inspir profund complet (după doua inspirație). Alternative Positioning
-  Some department protocols state that capul trebuie să fie 10° lower than șoldurile
-  la reduce apical lift caused prin Umăr, allowing entire Torace la remain orizontal
-  (requires support under hips). radiografie poate fie taken ca drept sau stâng lateral
-  decubit. la produce most diagnostic imagini, ambele plămâni trebuie să fie included
-  pe imagine. pentru possible lichid în pleural cavity (revărsat pleural (pleurezie)),
-  suspected side trebuie să fie down. Do nu cut off that side de Torace. anatomic
-  marker de lateralitate (D/S) trebuie să correspond cu pacientul’s stâng sau drept
-  side de corp. marker trebuie să fie plasat pe receptorul de imagine before expunere.
-  It este unacceptable practice la indicate side de corp either digitally sau cu marking
-  pen after expunere. pentru possible small amounts de air în pleural cavity (pneumotorax),
-  partea afectată trebuie să fie up, și care trebuie să fie taken nu la cut off this
-  side de Torace.
+breathing: 'Apnee în inspir profund complet (după a doua inspirație). Poziționare
+  alternativă: Unele protocoale de departament specifică poziționarea capului cu 10°
+  mai jos decât șoldurile, pentru a reduce ridicarea apexurilor produsă de umăr, permițând
+  întregului torace să rămână orizontal (necesită un suport sub șolduri). Radiografia
+  poate fi efectuată în decubit lateral drept sau stâng. Pentru a obține imagini cu
+  valoare diagnostică maximă, ambii plămâni trebuie incluși pe imagine. Pentru un
+  posibil lichid în cavitatea pleurală (revărsat pleural (pleurezie)), partea suspectată
+  trebuie să fie dedesubt. Nu se exclude din imagine acea parte a toracelui. Markerul
+  anatomic de lateralitate (D/S) trebuie să corespundă părții stângi sau drepte a
+  corpului pacientului. Markerul trebuie plasat pe receptorul de imagine înainte de
+  expunere. Nu este acceptabilă indicarea părții corpului după expunere, nici digital,
+  nici cu un marker de scris. Pentru posibile cantități mici de aer în cavitatea pleurală
+  (pneumotorax), partea afectată trebuie să fie deasupra și trebuie avut grijă să
+  nu fie exclusă din imagine această parte a toracelui.'
 category: torace
-centering: orizontal, orientat la center de receptorul de imagine, la level de T7,
-  3 la 4 inches (8 la 10 cm) inferior la level de incizura jugulară (manubriul sternal).
-  orizontal fascicul trebuie să fie used la show airfluid level sau pneumotorax.
+centering: Orizontală, orientată spre centrul receptorului de imagine, la nivelul
+  T7, la 3 până la 4 inci (8 până la 10 cm) inferior de nivelul incizurii jugulare
+  (manubriul sternal). Trebuie utilizat un fascicul orizontal pentru a evidenția un
+  nivel hidroaeric sau pneumotoraxul.
 clinical_indications:
-- Small revărsat pleural (pleurezie)s sunt evidențiat prin airfluid levels în pleural
-  space.
-- Small amounts de air în pleural cavity poate evidențiază possible pneumotorax (see
-  NOTES).
+- Revărsatele pleurale (pleureziile) mici sunt evidențiate prin niveluri hidroaerice
+  în spațiul pleural.
+- Cantități mici de aer în cavitatea pleurală pot evidenția un posibil pneumotorax
+  (vezi OBSERVAȚII).
 images:
-- caption: Fig. 2.67 stâng Incidență Decubit lateral (Incidență Antero-Posterioară
-    (AP)).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.67 stâng lateral
-    decubit poziție (AP incidență).)
+- caption: Fig. 2.67 Decubit lateral stâng (incidență antero-posterioară (AP)).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.67 Poziție
+    în decubit lateral stâng (incidență AP).)
   url: assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung).
+- caption: Fig. 2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.68
-    stâng lateral decubit (lichid evident în stâng lung).)
+    Decubit lateral stâng (lichid vizibil în plămânul stâng).)
   url: assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 2.69 stâng lateral decubit.
+- caption: Fig. 2.69 Decubit lateral stâng.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.69
-    stâng lateral decubit.)
+    Decubit lateral stâng.)
   url: assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Place appropriate decubit marker și R sau L marker la indicate side up sau
-  down per facility protocol. Torace SPECIAL AP în ortostatism sau semierect lateral
-  decubit (AP) Fig. 2.67 stâng Incidență Decubit lateral (Incidență Antero-Posterioară
-  (AP)). Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung). Lung Heart
-  Air nivele hidroaerice Fig. 2.69 stâng lateral decubit.
-position: 'Pacient: Cardiac board pe cart sau radiolucent pad under pacient culcat
-  pe drept side pentru drept lateral decubit și pe stâng side pentru stâng lateral
-  decubit (see NOTES) pacient’s chin extins și ambele brațe raised above cap la clear
-  câmpuri pulmonare; back de pacient firmly against receptorul de imagine; cart secured
-  la prevent pacient de la moving forward și possibly falling; pillow under pacient’s
-  cap (Fig. 2.67) genunchi flectat slightly și plan coronal paralel cu receptorul
-  de imagine cu fără corp rotație; Regiune anatomică: Adjust height de receptorul
-  de imagine la center thorax la receptorul de imagine (see NOTES). Adjust pacient
-  și cart la center plan mediosagital și T7 la raza centrală (top de receptorul de
-  imagine este approximately 1 inch [2.5 cm] above vertebra proeminentă (apofiza spinoasă
-  C7)).'
+notes: Se plasează markerul de decubit adecvat și markerul R sau L pentru a indica
+  partea situată deasupra sau dedesubt, conform protocolului instituției. TORACE,
+  INCIDENȚĂ SPECIALĂ AP în ortostatism sau în poziție semiverticală; decubit lateral
+  (AP). Fig. 2.67 Decubit lateral stâng (incidență antero-posterioară (AP)). Fig.
+  2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng). Plămân. Cord. Aer.
+  Niveluri hidroaerice. Fig. 2.69 Decubit lateral stâng.
+position: 'Pacient: Placă pentru resuscitare cardiacă pe cărucior sau suport radiotransparent
+  sub pacientul culcat pe partea dreaptă pentru decubit lateral drept și pe partea
+  stângă pentru decubit lateral stâng (vezi OBSERVAȚII); bărbia pacientului ridicată
+  și ambele brațe ridicate deasupra capului pentru a elibera câmpurile pulmonare;
+  spatele pacientului lipit ferm de receptorul de imagine; căruciorul fixat pentru
+  a împiedica deplasarea pacientului înainte și eventuala cădere; pernă sub capul
+  pacientului (Fig. 2.67); genunchii ușor flectați și planul coronal paralel cu receptorul
+  de imagine, fără rotația corpului. Regiune anatomică: Se ajustează înălțimea receptorului
+  de imagine pentru a centra toracele pe acesta (vezi OBSERVAȚII). Se ajustează pacientul
+  și căruciorul pentru a centra planul mediosagital și T7 pe raza centrală (marginea
+  superioară a receptorului de imagine este la aproximativ 1 inch [2.5 cm] deasupra
+  vertebrei proeminente (apofiza spinoasă C7)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -61,20 +64,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire plămâni, including apexuri (vârfuri pulmonare), ambele sinusuri costodiafragmatice,
-  și ambele lateral margini de Coaste (Grilaj Costal), trebuie să fie included (Figs.
-  2.68 și 2.69). poziție
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  trebuie să show equal distance de la coloană vertebrală la lateral margini de Coaste
-  (Grilaj Costal) pe ambele părți (bilateral); articulații sternoclaviculare trebuie
-  să fie same distance de la coloană vertebrală.'
-- brațe trebuie să nu superimpose upper plămâni.
-- Collimation field (raza centrală) trebuie să fie centrat pe area de T7 pe averagesized
-  pacienți. expunere
-- fără mișcare; cupole diafragmatice, rib, și heart margini și lung markings trebuie
-  să appear net.
-- optim contrast scale și expunere trebuie să result în faint visualization de vertebre
-  și Coaste (Grilaj Costal) through heart shadow.
+- Trebuie incluși plămânii în întregime, inclusiv apexurile (vârfurile pulmonare),
+  ambele sinusuri costodiafragmatice și ambele margini laterale ale coastelor (grilajului
+  costal) (Fig. 2.68 și 2.69). Poziție
+- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase;
+  trebuie să se observe distanțe egale de la coloana vertebrală până la marginile
+  laterale ale coastelor (grilajului costal) pe ambele părți (bilateral); articulațiile
+  sternoclaviculare trebuie să fie la aceeași distanță de coloana vertebrală.'
+- Brațele nu trebuie să se suprapună peste porțiunile superioare ale plămânilor.
+- Câmpul colimat (raza centrală) trebuie centrat pe regiunea T7 la pacienții de talie
+  medie. Expunere
+- Absența mișcării; contururile cupolelor diafragmatice, coastelor și cordului, precum
+  și desenul pulmonar trebuie să fie nete.
+- Scala optimă de contrast și expunerea trebuie să permită vizualizarea slabă a vertebrelor
+  și a coastelor (grilajului costal) prin umbra cordului.
 sid_dff: 180 cm
 slug: rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager
 sources:
@@ -82,8 +85,9 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
-    light field la level de vertebra proeminentă (apofiza spinoasă C7)) (see NOTES).
+  collimation: Se colimează pe cele patru laturi la aria câmpurilor pulmonare (marginea
+    superioară a câmpului luminos la nivelul vertebrei proeminente (apofiza spinoasă
+    C7)) (vezi OBSERVAȚII).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Conform grosimii anatomice (> 10 cm cu grilă)
@@ -110,8 +114,8 @@ title: Rx Torace Incidență Decubit Lateral (AP (Antero-Posterior))
 
     === "Indicații Clinice"
 
-        - Small revărsat pleural (pleurezie)s sunt evidențiat prin airfluid levels în pleural space.
-        - Small amounts de air în pleural cavity poate evidențiază possible pneumotorax (see NOTES).
+        - Revărsatele pleurale (pleureziile) mici sunt evidențiate prin niveluri hidroaerice în spațiul pleural.
+        - Cantități mici de aer în cavitatea pleurală pot evidenția un posibil pneumotorax (vezi OBSERVAȚII).
 
     === "Ghid Național IRIS"
 
@@ -125,10 +129,10 @@ title: Rx Torace Incidență Decubit Lateral (AP (Antero-Posterior))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Cardiac board pe cart sau radiolucent pad under pacient culcat pe drept side pentru drept lateral decubit și pe stâng side pentru stâng lateral decubit (see NOTES) pacient’s chin extins și ambele brațe raised above cap la clear câmpuri pulmonare; back de pacient firmly against receptorul de imagine; cart secured la prevent pacient de la moving forward și possibly falling; pillow under pacient’s cap (Fig. 2.67) genunchi flectat slightly și plan coronal paralel cu receptorul de imagine cu fără corp rotație; Regiune anatomică: Adjust height de receptorul de imagine la center thorax la receptorul de imagine (see NOTES). Adjust pacient și cart la center plan mediosagital și T7 la raza centrală (top de receptorul de imagine este approximately 1 inch [2.5 cm] above vertebra proeminentă (apofiza spinoasă C7)).
-    - **Punct de Centrare Fascicul:** orizontal, orientat la center de receptorul de imagine, la level de T7, 3 la 4 inches (8 la 10 cm) inferior la level de incizura jugulară (manubriul sternal). orizontal fascicul trebuie să fie used la show airfluid level sau pneumotorax.
+    - **Poziție Pacient:** Pacient: Placă pentru resuscitare cardiacă pe cărucior sau suport radiotransparent sub pacientul culcat pe partea dreaptă pentru decubit lateral drept și pe partea stângă pentru decubit lateral stâng (vezi OBSERVAȚII); bărbia pacientului ridicată și ambele brațe ridicate deasupra capului pentru a elibera câmpurile pulmonare; spatele pacientului lipit ferm de receptorul de imagine; căruciorul fixat pentru a împiedica deplasarea pacientului înainte și eventuala cădere; pernă sub capul pacientului (Fig. 2.67); genunchii ușor flectați și planul coronal paralel cu receptorul de imagine, fără rotația corpului. Regiune anatomică: Se ajustează înălțimea receptorului de imagine pentru a centra toracele pe acesta (vezi OBSERVAȚII). Se ajustează pacientul și căruciorul pentru a centra planul mediosagital și T7 pe raza centrală (marginea superioară a receptorului de imagine este la aproximativ 1 inch [2.5 cm] deasupra vertebrei proeminente (apofiza spinoasă C7)).
+    - **Punct de Centrare Fascicul:** Orizontală, orientată spre centrul receptorului de imagine, la nivelul T7, la 3 până la 4 inci (8 până la 10 cm) inferior de nivelul incizurii jugulare (manubriul sternal). Trebuie utilizat un fascicul orizontal pentru a evidenția un nivel hidroaeric sau pneumotoraxul.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație). Alternative Positioning Some department protocols state that capul trebuie să fie 10° lower than șoldurile la reduce apical lift caused prin Umăr, allowing entire Torace la remain orizontal (requires support under hips). radiografie poate fie taken ca drept sau stâng lateral decubit. la produce most diagnostic imagini, ambele plămâni trebuie să fie included pe imagine. pentru possible lichid în pleural cavity (revărsat pleural (pleurezie)), suspected side trebuie să fie down. Do nu cut off that side de Torace. anatomic marker de lateralitate (D/S) trebuie să correspond cu pacientul’s stâng sau drept side de corp. marker trebuie să fie plasat pe receptorul de imagine before expunere. It este unacceptable practice la indicate side de corp either digitally sau cu marking pen after expunere. pentru possible small amounts de air în pleural cavity (pneumotorax), partea afectată trebuie să fie up, și care trebuie să fie taken nu la cut off this side de Torace.
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație). Poziționare alternativă: Unele protocoale de departament specifică poziționarea capului cu 10° mai jos decât șoldurile, pentru a reduce ridicarea apexurilor produsă de umăr, permițând întregului torace să rămână orizontal (necesită un suport sub șolduri). Radiografia poate fi efectuată în decubit lateral drept sau stâng. Pentru a obține imagini cu valoare diagnostică maximă, ambii plămâni trebuie incluși pe imagine. Pentru un posibil lichid în cavitatea pleurală (revărsat pleural (pleurezie)), partea suspectată trebuie să fie dedesubt. Nu se exclude din imagine acea parte a toracelui. Markerul anatomic de lateralitate (D/S) trebuie să corespundă părții stângi sau drepte a corpului pacientului. Markerul trebuie plasat pe receptorul de imagine înainte de expunere. Nu este acceptabilă indicarea părții corpului după expunere, nici digital, nici cu un marker de scris. Pentru posibile cantități mici de aer în cavitatea pleurală (pneumotorax), partea afectată trebuie să fie deasupra și trebuie avut grijă să nu fie exclusă din imagine această parte a toracelui.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -142,19 +146,19 @@ title: Rx Torace Incidență Decubit Lateral (AP (Antero-Posterior))
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)) (see NOTES). |
+    | **Colimare Fascicul** | Se colimează pe cele patru laturi la aria câmpurilor pulmonare (marginea superioară a câmpului luminos la nivelul vertebrei proeminente (apofiza spinoasă C7)) (vezi OBSERVAȚII). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire plămâni, including apexuri (vârfuri pulmonare), ambele sinusuri costodiafragmatice, și ambele lateral margini de Coaste (Grilaj Costal), trebuie să fie included (Figs. 2.68 și 2.69). poziție
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: trebuie să show equal distance de la coloană vertebrală la lateral margini de Coaste (Grilaj Costal) pe ambele părți (bilateral); articulații sternoclaviculare trebuie să fie same distance de la coloană vertebrală.
-    - brațe trebuie să nu superimpose upper plămâni.
-    - Collimation field (raza centrală) trebuie să fie centrat pe area de T7 pe averagesized pacienți. expunere
-    - fără mișcare; cupole diafragmatice, rib, și heart margini și lung markings trebuie să appear net.
-    - optim contrast scale și expunere trebuie să result în faint visualization de vertebre și Coaste (Grilaj Costal) through heart shadow.
+    - Trebuie incluși plămânii în întregime, inclusiv apexurile (vârfurile pulmonare), ambele sinusuri costodiafragmatice și ambele margini laterale ale coastelor (grilajului costal) (Fig. 2.68 și 2.69). Poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; trebuie să se observe distanțe egale de la coloana vertebrală până la marginile laterale ale coastelor (grilajului costal) pe ambele părți (bilateral); articulațiile sternoclaviculare trebuie să fie la aceeași distanță de coloana vertebrală.
+    - Brațele nu trebuie să se suprapună peste porțiunile superioare ale plămânilor.
+    - Câmpul colimat (raza centrală) trebuie centrat pe regiunea T7 la pacienții de talie medie. Expunere
+    - Absența mișcării; contururile cupolelor diafragmatice, coastelor și cordului, precum și desenul pulmonar trebuie să fie nete.
+    - Scala optimă de contrast și expunerea trebuie să permită vizualizarea slabă a vertebrelor și a coastelor (grilajului costal) prin umbra cordului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -167,7 +171,7 @@ title: Rx Torace Incidență Decubit Lateral (AP (Antero-Posterior))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Place appropriate decubit marker și R sau L marker la indicate side up sau down per facility protocol. Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP) Fig. 2.67 stâng Incidență Decubit lateral (Incidență Antero-Posterioară (AP)). Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung). Lung Heart Air nivele hidroaerice Fig. 2.69 stâng lateral decubit.
+    Se plasează markerul de decubit adecvat și markerul R sau L pentru a indica partea situată deasupra sau dedesubt, conform protocolului instituției. TORACE, INCIDENȚĂ SPECIALĂ AP în ortostatism sau în poziție semiverticală; decubit lateral (AP). Fig. 2.67 Decubit lateral stâng (incidență antero-posterioară (AP)). Fig. 2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng). Plămân. Cord. Aer. Niveluri hidroaerice. Fig. 2.69 Decubit lateral stâng.
 
 
 ### 🖼️ Imagini
@@ -176,25 +180,25 @@ title: Rx Torace Incidență Decubit Lateral (AP (Antero-Posterior))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.67 stâng Incidență Decubit lateral (Incidență Antero-Posterioară (AP)).](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 2.67 Decubit lateral stâng (incidență antero-posterioară (AP)).](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.67 stâng Incidență Decubit lateral (Incidență Antero-Posterioară (AP)).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.67 stâng lateral decubit poziție (AP incidență).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung).](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.68 stâng lateral decubit (lichid evident în stâng lung).)</span></figcaption>
+<figcaption><strong>Fig. 2.67 Decubit lateral stâng (incidență antero-posterioară (AP)).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.67 Poziție în decubit lateral stâng (incidență AP).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.69 stâng lateral decubit.](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng).](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.69 stâng lateral decubit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.69 stâng lateral decubit.)</span></figcaption>
+<figcaption><strong>Fig. 2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.68 Decubit lateral stâng (lichid vizibil în plămânul stâng).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.69 Decubit lateral stâng.](../../assets/images/protocols/bontrager/rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 2.69 Decubit lateral stâng.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.69 Decubit lateral stâng.)</span></figcaption>
 
 </figure>
 

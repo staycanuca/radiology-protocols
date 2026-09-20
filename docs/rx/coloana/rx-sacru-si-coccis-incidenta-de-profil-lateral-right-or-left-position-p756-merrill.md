@@ -2,56 +2,61 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: ridicat spină iliacă antero-superioară (SIAS) este easily palpated și found
-  pe toate pacienți when they sunt culcat pe their side și provides standardized reference
-  point de la which la se centrează Sacru și Coccis (Fig. 9.126). Sacru perpendicular
-  și orientat la level de spină iliacă antero-superioară (SIAS) și la point 3.5 inches
-  (9 cm) posterior. This centering trebuie să work cu most pacienți. exact poziție
-  de Sacru depends pe pelvic curve. Coccis perpendicular și orientat spre point 3.5
-  inches (9 cm) posterior la spină iliacă antero-superioară (SIAS) și 2 inches (5
-  cm) inferior. This centering trebuie să work pentru most pacienți. exact poziție
-  de Coccis depends pe pelvic curve. Se centrează receptorul de imagine pe raza centrală.
+centering: 'Spina iliacă antero-superioară (SIAS) proeminentă este ușor palpabilă
+  și poate fi identificată la toți pacienții când sunt culcați pe o parte și oferă
+  un punct de reper standardizat de la care se centrează sacrul și coccisul (Fig.
+  9.126). Sacru: perpendicular și orientat la nivelul spinei iliace antero-superioare
+  (SIAS) și la un punct situat 3.5 inches (9 cm) posterior. Această centrare ar trebui
+  să funcționeze la majoritatea pacienților. Poziția exactă a sacrului depinde de
+  curbura bazinului. Coccis: perpendicular și orientat spre un punct situat 3.5 inches
+  (9 cm) posterior de spina iliacă antero-superioară (SIAS) și 2 inches (5 cm) inferior.
+  Această centrare ar trebui să funcționeze pentru majoritatea pacienților. Poziția
+  exactă a coccisului depinde de curbura bazinului. Se centrează receptorul de imagine
+  pe raza centrală.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 757, imaginea 1
+- caption: Merrill — pagina 757, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig1.png
-- caption: Merrill — pagina PDF 757, imaginea 2
+- caption: Merrill — pagina 757, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig2.png
-- caption: Merrill — pagina PDF 758, imaginea 3
+- caption: Merrill — pagina 758, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p758_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să turn onto indicated side și se flectează hips
-  și genunchi la comfortable poziție.; se ajustează brațe în poziție în unghi drept
-  față de corp. Superimpose genunchii, și, if needed, place positioning sponges under
-  și între ankles și între genunchi. Adjust support under corp la place axa longitudinală
-  de coloană vertebrală orizontal. interiliac plane trebuie să fie perpendicular pe
-  receptorul de imagine (RI). se ajustează Bazin (bazin (pelvis)) și umeri astfel
-  încât true Incidență de Profil (lateral) este maintained (i.e., Absența rotației
-  anatomice (simetrie bilaterală perfectă)) (Figs. 9.124 și 9.125). la prepare pentru
-  precis positioning de raza centrală, se centrează Sacru sau Coccis la linia mediană
-  grilă. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se instruiește pacientul să se întoarcă pe partea indicată și să-și flecteze
+  șoldurile și genunchii într-o poziție confortabilă.; Se ajustează brațele în poziție
+  perpendiculară pe corp. Se suprapun genunchii și, dacă este necesar, se plasează
+  bureți de poziționare sub glezne și între glezne și genunchi. Se ajustează suportul
+  de sub corp pentru a plasa axa longitudinală a coloanei vertebrale orizontal. Planul
+  interiliac trebuie să fie perpendicular pe receptorul de imagine (RI). Se ajustează
+  bazinul și umerii astfel încât să se mențină o incidență de profil adevărată (laterală)
+  (adică absența rotației anatomice (simetrie bilaterală perfectă)) (Figs. 9.124 și
+  9.125). Pentru a pregăti poziționarea precisă a razei centrale, se centrează sacrul
+  sau coccisul pe linia mediană a grilei. Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation, presence de lead rubber absorber behind Sacru și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-- Sacru și Coccis
-- Closely superimposed posterior margins de ischia și ilia, evidențiind Absența rotației
-  anatomice (simetrie bilaterală perfectă)
-- Bony detalii trabeculare osoase și surrounding soft tissues Improving radiographic
-  quality quality de radiografie poate fie improved if sheet de leaded rubber este
-  plasat pe masa de examinare behind pacientul (see Figs. 9.124 și 9.125). lead absorbs
-  scatter radiation coming de la pacient. Scatter radiation decreases quality de radiografie.
-  More importantly, cu AEC, scatter radiation coming de la pacient este often suficient
-  la terminate expunere prematurely, resulting în underexposed radiografie. pentru
-  same reason, colimare strânsă este necessary pentru lateral Sacru și Coccis imagini.
+- 'Criterii radiologice de calitate a imaginii:'
+- Dovezi ale colimării corecte, prezența unui absorbant de cauciuc plumbat în spatele
+  sacrului și prezența markerului de lateralitate (D/S), plasat clar față de anatomia
+  de interes
+- Sacru și coccis
+- Marginile posterioare ale ischiilor și iliilor sunt suprapuse îndeaproape, evidențiind
+  absența rotației anatomice (simetrie bilaterală perfectă)
+- 'Detalii trabeculare osoase și țesuturile moi adiacente Îmbunătățirea calității
+  radiografiei: calitatea radiografiei poate fi îmbunătățită dacă o foaie de cauciuc
+  plumbat este plasată pe masa de examinare, în spatele pacientului (vezi Fig. 9.124
+  și 9.125). Plumbul absoarbe radiația împrăștiată provenită de la pacient. Radiația
+  împrăștiată scade calitatea radiografiei. Mai important, în cazul AEC, radiația
+  împrăștiată provenită de la pacient este adesea suficientă pentru a termina prematur
+  expunerea, rezultând o radiografie subexpusă. Din același motiv, colimarea strânsă
+  este necesară pentru imaginile laterale ale sacrului și coccisului.'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill
 source_pages:
@@ -59,96 +64,92 @@ source_pages:
 - 757
 - 758
 source_sections:
-  anatomy: sacrum sau coccyx (Figs. 9.127 și 9.128).
-  collimation: '• Adjust câmp de iradiere la:
+  anatomy: sacru sau coccis (Fig. 9.127 și 9.128).
+  collimation: '• Se ajustează câmpul de iradiere la:
 
-    • Sacrum: 10 × 12 inches (24 × 30 cm) pe collimator.
+    • Sacru: 10 × 12 inches (24 × 30 cm) pe colimator.
 
-    • Coccyx: 6 × 8 inches (15 × 20 cm) pe collimator.
+    • Coccis: 6 × 8 inches (15 × 20 cm) pe colimator.
 
-    • Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• ridicat spină iliacă antero-superioară (SIAS) este easily palpated și found
-    pe toate pacienți when they sunt culcat pe their side și provides standardized
-    reference
+    • Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: '• Creasta iliacă antero-superioară (SIAS) este ușor palpabilă și identificată
+    la toți pacienții când sunt culcați pe o parte și oferă un reper standardizat
+    de la care se realizează centrarea sacrului și coccisului (Fig. 9.126).
 
-    point de la which la se centrează sacru și coccis (Fig. 9.126).
+    Sacru
 
-    Sacrum
+    • Raza centrală perpendiculară și orientată la nivelul spinei iliace antero-superioare
+    (SIAS) și într-un punct situat la 3.5 inches (9 cm) posterior. Această centrare
+    ar trebui să funcționeze la majoritatea pacienților. Poziția exactă a sacrului
+    depinde de curbura pelviană.
 
-    • perpendicular și orientat la level de spină iliacă antero-superioară (SIAS)
-    și la point 3.5 inches (9 cm) posterior. This centering trebuie să work cu most
+    Coccis
 
-    pacienți. exact poziție de sacrum depends pe pelvic curve.
-
-    Coccyx
-
-    • perpendicular și orientat spre point 3.5 inches (9 cm) posterior la spină iliacă
-    antero-superioară (SIAS) și 2 inches (5 cm) inferior. This centering trebuie să
-
-    work pentru most pacienți. exact poziție de coccyx depends pe pelvic curve.
+    • Raza centrală perpendiculară și orientată spre un punct situat la 3.5 inches
+    (9 cm) posterior față de spina iliacă antero-superioară (SIAS) și la 2 inches
+    (5 cm) inferior. Această centrare ar trebui să funcționeze la majoritatea pacienților.
+    Poziția exactă a coccisului depinde de curbura pelviană.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation, presence de lead rubber absorber behind sacrum
-    și presence de marker de lateralitate (D/S) plasat clear de
+    • Dovezi de colimare corectă, prezența absorbantului din cauciuc plumbat în spatele
+    sacrului și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei
+    de interes
 
-    anatomy de interest
+    • Sacru și coccis
 
-    • sacru și coccis
-
-    • Closely superimposed posterior margins de ischia și ilia, evidențiind Absența
+    • Marginile posterioare ale ischiilor și iliilor bine suprapuse, evidențiind absența
     rotației anatomice (simetrie bilaterală perfectă)
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • Detalii trabeculare osoase și țesuturile moi adiacente
 
-    Improving radiographic quality
+    Îmbunătățirea calității radiografiei
 
-    quality de radiografie poate fie improved if sheet de leaded rubber este plasat
-    pe masa de examinare behind pacientul (see Figs. 9.124 și 9.125). lead absorbs
-    scatter radiation coming de la pacient. Scatter radiation decreases quality de
-    radiografie. More importantly, cu
+    Calitatea radiografiei poate fi îmbunătățită dacă o foaie de cauciuc plumbat este
+    plasată pe masa de examinare, în spatele pacientului (vezi Fig. 9.124 și 9.125).
+    Plumbul absoarbe radiația împrăștiată provenită de la pacient. Radiația împrăștiată
+    scade calitatea radiografiei. Mai important, în cazul AEC, radiația împrăștiată
+    provenită de la pacient este adesea suficientă pentru a termina prematur expunerea,
+    rezultând o radiografie subexpusă. Din același motiv, colimarea strânsă este necesară
+    pentru imaginile laterale ale sacrului și coccisului.'
+  part_pos: '• Se ajustează brațele în unghi drept față de corp.
 
-    AEC, scatter radiation coming de la pacient este often suficient la terminate
-    expunere prematurely, resulting în underexposed
+    • Se suprapun genunchii și, dacă este necesar, se plasează bureți de poziționare
+    sub și între glezne și între genunchi.
 
-    radiografie. pentru same reason, colimare strânsă este necessary pentru lateral
-    sacru și coccis imagini.'
-  part_pos: '• se ajustează brațe în poziție în unghi drept față de corp.
+    • Se ajustează suportul de sub corp pentru a plasa axa longitudinală a coloanei
+    vertebrale orizontal. Planul interiliac trebuie să fie perpendicular pe receptorul
+    de imagine (RI).
 
-    • Superimpose genunchii, și, if needed, place positioning sponges under și între
-    ankles și între genunchi.
+    • Se ajustează bazinul și umerii astfel încât poziția adevărată de profil (lateral)
+    să fie menținută (adică absența rotației anatomice (simetrie bilaterală perfectă))
+    (Fig. 9.124 și 9.125).
 
-    • Adjust support under corp la place axa longitudinală de coloană vertebrală orizontal.
-    interiliac plane trebuie să fie perpendicular pe receptorul de imagine (RI).
+    • Pentru pregătirea centrării precise a razei centrale, se centrează sacrul sau
+    coccisul pe linia mediană a grilei.
 
-    • se ajustează bazin (pelvis) și umeri astfel încât true poziție de profil (lateral)
-    este maintained (i.e., Absența rotației anatomice (simetrie bilaterală perfectă))
-    (Figs. 9.124 și 9.125).
-
-    • la prepare pentru precis positioning de raza centrală, se centrează sacrum sau
-    coccyx la linia mediană grilă.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Se instruiește pacientul să turn onto indicated side și se flectează
-    hips și genunchi la comfortable poziție.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se instruiește pacientul să se întoarcă pe partea indicată și să
+    flecteze șoldurile și genunchii într-o poziție confortabilă.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 756–758
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=756
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 756–758
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: 'Adjust câmp de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe
-    collimator. Coccis: 6 × 8 inches (15 × 20 cm) pe collimator. Place marker de lateralitate
-    (D/S) în collimated expunere field.'
-title: Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept sau Stâng)
+  collimation: 'Se ajustează câmpul de iradiere la: Sacru: 10 × 12 inches (24 × 30
+    cm) pe colimator. Coccis: 6 × 8 inches (15 × 20 cm) pe colimator. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+title: Rx sacru și coccis — incidență de profil (lateral) — profil (drept sau stâng)
   (Merrill)
 ---
-# Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) (Merrill)
+# Rx sacru și coccis — incidență de profil (lateral) — profil (drept sau stâng) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -181,8 +182,8 @@ title: Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să turn onto indicated side și se flectează hips și genunchi la comfortable poziție.; se ajustează brațe în poziție în unghi drept față de corp. Superimpose genunchii, și, if needed, place positioning sponges under și între ankles și între genunchi. Adjust support under corp la place axa longitudinală de coloană vertebrală orizontal. interiliac plane trebuie să fie perpendicular pe receptorul de imagine (RI). se ajustează Bazin (bazin (pelvis)) și umeri astfel încât true Incidență de Profil (lateral) este maintained (i.e., Absența rotației anatomice (simetrie bilaterală perfectă)) (Figs. 9.124 și 9.125). la prepare pentru precis positioning de raza centrală, se centrează Sacru sau Coccis la linia mediană grilă. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** ridicat spină iliacă antero-superioară (SIAS) este easily palpated și found pe toate pacienți when they sunt culcat pe their side și provides standardized reference point de la which la se centrează Sacru și Coccis (Fig. 9.126). Sacru perpendicular și orientat la level de spină iliacă antero-superioară (SIAS) și la point 3.5 inches (9 cm) posterior. This centering trebuie să work cu most pacienți. exact poziție de Sacru depends pe pelvic curve. Coccis perpendicular și orientat spre point 3.5 inches (9 cm) posterior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) inferior. This centering trebuie să work pentru most pacienți. exact poziție de Coccis depends pe pelvic curve. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Se instruiește pacientul să se întoarcă pe partea indicată și să-și flecteze șoldurile și genunchii într-o poziție confortabilă.; Se ajustează brațele în poziție perpendiculară pe corp. Se suprapun genunchii și, dacă este necesar, se plasează bureți de poziționare sub glezne și între glezne și genunchi. Se ajustează suportul de sub corp pentru a plasa axa longitudinală a coloanei vertebrale orizontal. Planul interiliac trebuie să fie perpendicular pe receptorul de imagine (RI). Se ajustează bazinul și umerii astfel încât să se mențină o incidență de profil adevărată (laterală) (adică absența rotației anatomice (simetrie bilaterală perfectă)) (Figs. 9.124 și 9.125). Pentru a pregăti poziționarea precisă a razei centrale, se centrează sacrul sau coccisul pe linia mediană a grilei. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Spina iliacă antero-superioară (SIAS) proeminentă este ușor palpabilă și poate fi identificată la toți pacienții când sunt culcați pe o parte și oferă un punct de reper standardizat de la care se centrează sacrul și coccisul (Fig. 9.126). Sacru: perpendicular și orientat la nivelul spinei iliace antero-superioare (SIAS) și la un punct situat 3.5 inches (9 cm) posterior. Această centrare ar trebui să funcționeze la majoritatea pacienților. Poziția exactă a sacrului depinde de curbura bazinului. Coccis: perpendicular și orientat spre un punct situat 3.5 inches (9 cm) posterior de spina iliacă antero-superioară (SIAS) și 2 inches (5 cm) inferior. Această centrare ar trebui să funcționeze pentru majoritatea pacienților. Poziția exactă a coccisului depinde de curbura bazinului. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -198,18 +199,18 @@ title: Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe collimator. Coccis: 6 × 8 inches (15 × 20 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe colimator. Coccis: 6 × 8 inches (15 × 20 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation, presence de lead rubber absorber behind Sacru și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Sacru și Coccis
-    - Closely superimposed posterior margins de ischia și ilia, evidențiind Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Bony detalii trabeculare osoase și surrounding soft tissues Improving radiographic quality quality de radiografie poate fie improved if sheet de leaded rubber este plasat pe masa de examinare behind pacientul (see Figs. 9.124 și 9.125). lead absorbs scatter radiation coming de la pacient. Scatter radiation decreases quality de radiografie. More importantly, cu AEC, scatter radiation coming de la pacient este often suficient la terminate expunere prematurely, resulting în underexposed radiografie. pentru same reason, colimare strânsă este necessary pentru lateral Sacru și Coccis imagini.
+    - Criterii radiologice de calitate a imaginii:
+    - Dovezi ale colimării corecte, prezența unui absorbant de cauciuc plumbat în spatele sacrului și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+    - Sacru și coccis
+    - Marginile posterioare ale ischiilor și iliilor sunt suprapuse îndeaproape, evidențiind absența rotației anatomice (simetrie bilaterală perfectă)
+    - Detalii trabeculare osoase și țesuturile moi adiacente Îmbunătățirea calității radiografiei: calitatea radiografiei poate fi îmbunătățită dacă o foaie de cauciuc plumbat este plasată pe masa de examinare, în spatele pacientului (vezi Fig. 9.124 și 9.125). Plumbul absoarbe radiația împrăștiată provenită de la pacient. Radiația împrăștiată scade calitatea radiografiei. Mai important, în cazul AEC, radiația împrăștiată provenită de la pacient este adesea suficientă pentru a termina prematur expunerea, rezultând o radiografie subexpusă. Din același motiv, colimarea strânsă este necesară pentru imaginile laterale ale sacrului și coccisului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -229,25 +230,25 @@ title: Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 757, imaginea 1](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig1.png)
+![Merrill — pagina 757, imaginea 1](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 757, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 757, imaginea 2](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 757, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 757, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 758, imaginea 3](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p758_fig3.png)
+![Merrill — pagina 757, imaginea 2](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p757_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 758, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 757, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 758, imaginea 3](../../assets/images/protocols/merrill/rx-sacru-si-coccis-incidenta-de-profil-lateral-right-or-left-position-p756-merrill/p758_fig3.png)
+
+<figcaption><strong>Merrill — pagina 758, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -264,65 +265,59 @@ title: Rx Sacru și Coccis — Incidență de Profil (Lateral) — Profil (Drept
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 756–758](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=756)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 756–758](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-sacrum sau coccyx (Figs. 9.127 și 9.128).
+sacru sau coccis (Fig. 9.127 și 9.128).
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la:
-• Sacrum: 10 × 12 inches (24 × 30 cm) pe collimator.
-• Coccyx: 6 × 8 inches (15 × 20 cm) pe collimator.
-• Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la:
+• Sacru: 10 × 12 inches (24 × 30 cm) pe colimator.
+• Coccis: 6 × 8 inches (15 × 20 cm) pe colimator.
+• Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• ridicat spină iliacă antero-superioară (SIAS) este easily palpated și found pe toate pacienți when they sunt culcat pe their side și provides standardized reference
-point de la which la se centrează sacru și coccis (Fig. 9.126).
-Sacrum
-• perpendicular și orientat la level de spină iliacă antero-superioară (SIAS) și la point 3.5 inches (9 cm) posterior. This centering trebuie să work cu most
-pacienți. exact poziție de sacrum depends pe pelvic curve.
-Coccyx
-• perpendicular și orientat spre point 3.5 inches (9 cm) posterior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) inferior. This centering trebuie să
-work pentru most pacienți. exact poziție de coccyx depends pe pelvic curve.
+• Creasta iliacă antero-superioară (SIAS) este ușor palpabilă și identificată la toți pacienții când sunt culcați pe o parte și oferă un reper standardizat de la care se realizează centrarea sacrului și coccisului (Fig. 9.126).
+Sacru
+• Raza centrală perpendiculară și orientată la nivelul spinei iliace antero-superioare (SIAS) și într-un punct situat la 3.5 inches (9 cm) posterior. Această centrare ar trebui să funcționeze la majoritatea pacienților. Poziția exactă a sacrului depinde de curbura pelviană.
+Coccis
+• Raza centrală perpendiculară și orientată spre un punct situat la 3.5 inches (9 cm) posterior față de spina iliacă antero-superioară (SIAS) și la 2 inches (5 cm) inferior. Această centrare ar trebui să funcționeze la majoritatea pacienților. Poziția exactă a coccisului depinde de curbura pelviană.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation, presence de lead rubber absorber behind sacrum și presence de marker de lateralitate (D/S) plasat clear de
-anatomy de interest
-• sacru și coccis
-• Closely superimposed posterior margins de ischia și ilia, evidențiind Absența rotației anatomice (simetrie bilaterală perfectă)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Improving radiographic quality
-quality de radiografie poate fie improved if sheet de leaded rubber este plasat pe masa de examinare behind pacientul (see Figs. 9.124 și 9.125). lead absorbs scatter radiation coming de la pacient. Scatter radiation decreases quality de radiografie. More importantly, cu
-AEC, scatter radiation coming de la pacient este often suficient la terminate expunere prematurely, resulting în underexposed
-radiografie. pentru same reason, colimare strânsă este necessary pentru lateral sacru și coccis imagini.
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă, prezența absorbantului din cauciuc plumbat în spatele sacrului și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Sacru și coccis
+• Marginile posterioare ale ischiilor și iliilor bine suprapuse, evidențiind absența rotației anatomice (simetrie bilaterală perfectă)
+• Detalii trabeculare osoase și țesuturile moi adiacente
+Îmbunătățirea calității radiografiei
+Calitatea radiografiei poate fi îmbunătățită dacă o foaie de cauciuc plumbat este plasată pe masa de examinare, în spatele pacientului (vezi Fig. 9.124 și 9.125). Plumbul absoarbe radiația împrăștiată provenită de la pacient. Radiația împrăștiată scade calitatea radiografiei. Mai important, în cazul AEC, radiația împrăștiată provenită de la pacient este adesea suficientă pentru a termina prematur expunerea, rezultând o radiografie subexpusă. Din același motiv, colimarea strânsă este necesară pentru imaginile laterale ale sacrului și coccisului.
 
 ### part_pos
 
-• se ajustează brațe în poziție în unghi drept față de corp.
-• Superimpose genunchii, și, if needed, place positioning sponges under și între ankles și între genunchi.
-• Adjust support under corp la place axa longitudinală de coloană vertebrală orizontal. interiliac plane trebuie să fie perpendicular pe receptorul de imagine (RI).
-• se ajustează bazin (pelvis) și umeri astfel încât true poziție de profil (lateral) este maintained (i.e., Absența rotației anatomice (simetrie bilaterală perfectă)) (Figs. 9.124 și 9.125).
-• la prepare pentru precis positioning de raza centrală, se centrează sacrum sau coccyx la linia mediană grilă.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se ajustează brațele în unghi drept față de corp.
+• Se suprapun genunchii și, dacă este necesar, se plasează bureți de poziționare sub și între glezne și între genunchi.
+• Se ajustează suportul de sub corp pentru a plasa axa longitudinală a coloanei vertebrale orizontal. Planul interiliac trebuie să fie perpendicular pe receptorul de imagine (RI).
+• Se ajustează bazinul și umerii astfel încât poziția adevărată de profil (lateral) să fie menținută (adică absența rotației anatomice (simetrie bilaterală perfectă)) (Fig. 9.124 și 9.125).
+• Pentru pregătirea centrării precise a razei centrale, se centrează sacrul sau coccisul pe linia mediană a grilei.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Se instruiește pacientul să turn onto indicated side și se flectează hips și genunchi la comfortable poziție.
+• Se instruiește pacientul să se întoarcă pe partea indicată și să flecteze șoldurile și genunchii într-o poziție confortabilă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

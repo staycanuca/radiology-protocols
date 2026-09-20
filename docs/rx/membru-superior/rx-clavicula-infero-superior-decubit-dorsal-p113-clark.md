@@ -102,7 +102,7 @@ sid_dff: 100 cm
 slug: rx-clavicula-infero-superior-decubit-dorsal-p113-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 113
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=113
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -266,4 +266,4 @@ Semi-Decubit ventral (alternate) Alternatively, pacientul poate fie examined în
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 113](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=113)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 113](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

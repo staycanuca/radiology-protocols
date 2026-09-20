@@ -58,7 +58,7 @@ sid_dff: 100 cm
 slug: rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 55
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=55
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -191,4 +191,4 @@ title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palm
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 55](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=55)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 55](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

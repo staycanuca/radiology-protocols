@@ -8,16 +8,16 @@ centering: perpendicular through planul mediosagital la nivelul laryngeal promin
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 151, imaginea 1
+- caption: Merrill — pagina 151, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig1.png
-- caption: Merrill — pagina PDF 151, imaginea 2
+- caption: Merrill — pagina 151, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig2.png
-- caption: Merrill — pagina PDF 152, imaginea 3
+- caption: Merrill — pagina 152, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p152_fig3.png
-- caption: Merrill — pagina PDF 153, imaginea 4
+- caption: Merrill — pagina 153, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p153_fig4.png
 last_updated: '2026-09-16'
@@ -97,9 +97,9 @@ source_sections:
 
     inches (24 × 30 cm) longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     150–153'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=150
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
@@ -190,33 +190,33 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 151, imaginea 1](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig1.png)
+![Merrill — pagina 151, imaginea 1](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 151, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 151, imaginea 2](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 151, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 151, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 152, imaginea 3](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p152_fig3.png)
+![Merrill — pagina 151, imaginea 2](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p151_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 152, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 151, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 153, imaginea 4](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p153_fig4.png)
+![Merrill — pagina 152, imaginea 3](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p152_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 153, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 152, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 153, imaginea 4](../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p153_fig4.png)
+
+<figcaption><strong>Merrill — pagina 153, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -233,7 +233,7 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 150–153](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=150)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 150–153](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

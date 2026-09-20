@@ -1,36 +1,36 @@
 ---
 author: Referință Merrill
-breathing: apnee (oprirea respirației). After making expunere cu mouth closed, change
-  receptorul de imagine și Se instruiește pacientul să open mouth widely. Recheck
-  poziție de linie acantiomeatală (LAM), și make second expunere.
+breathing: apnee (oprirea respirației). După efectuarea expunerii cu gura închisă,
+  schimbați receptorul de imagine și instruiți pacientul să deschidă larg gura. Verificați
+  din nou poziția liniei acantiomeatale (LAM) și efectuați a doua expunere.
 category: craniu-saf
-centering: orientat 15 grade caudal și exiting through TMī cel mai apropiat de receptorul
-  de imagine. raza centrală enters about 1 inches (3.8 cm) superior la upside conduct
-  auditiv extern (CAE).
+centering: orientat la 15 grade caudal și ieșind prin TMī cel mai apropiat de receptorul
+  de imagine. Raza centrală intră la aproximativ 1 inches (3.8 cm) superior de conductul
+  auditiv extern (CAE) opus.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în semiprone poziție, sau se așază pacientul pe scaun
-  before stativ vertical Bucky. în TMī examinations, make one expunere cu mouth closed,
-  și when nu contraindicated, make one expunere cu mouth open. Examine ambele părți
-  (bilateral) pentru comparison.; Center point inch (1.3 cm) anterior la conduct auditiv
-  extern (CAE) la receptorul de imagine, și se sprijină pacientul’s cheek pe grila
-  device. Rotate MSP de capul approximately 15 grade spre receptorul de imagine. se
-  ajustează linie interpupilară (LIP) perpendicular pe plane de receptorul de imagine.
-  se ajustează flexion de pacientul’s neck astfel încât linie acantiomeatală (LAM)
-  este paralel cu transverse axis de receptorul de imagine (Figs. 11.160–11.162).
-  Se imobilizează capul pacientului.
+position: se așază pacientul în poziție semipronă sau pe scaun înaintea stativului
+  vertical Bucky. Pentru examinările TMī, efectuați o expunere cu gura închisă și,
+  atunci când nu există contraindicații, o expunere cu gura deschisă. Examinați ambele
+  părți (bilateral) pentru comparație.; Centrați punctul la inch (1.3 cm) anterior
+  de conductul auditiv extern (CAE) la receptorul de imagine și sprijiniți obrazul
+  pacientului pe dispozitivul cu grilă. Rotiți MSP al capului cu aproximativ 15 grade
+  spre receptorul de imagine. Ajustați linia interpupilară (LIP) perpendicular pe
+  planul receptorului de imagine. Ajustați flexia gâtului pacientului astfel încât
+  linia acantiomeatală (LAM) să fie paralelă cu axul transversal al receptorului de
+  imagine (Fig. 11.160–11.162). Imobilizați capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Temporomandibular
-  articulation n Condyle culcat în mandibular fossa în closed-mouth examination n
-  Condyle culcat inferior la articular tubercle în open-mouth incidență if pacientul
-  este normal și este able la open mouth widely n părți moi și bony detalii trabeculare
+- 'Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența
+  markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Articulația
+  temporomandibulară n Condilul situat în fosa mandibulară la examinarea cu gura închisă
+  n Condilul situat inferior față de tuberculul articular la incidența cu gura deschisă,
+  dacă pacientul este normal și poate deschide larg gura n Părți moi și detalii trabeculare
   osoase'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-temporomandibular-articulations-axiolateral-incidenta-oblica-right-and-left-positions-p943-merrill
@@ -38,83 +38,77 @@ source_pages:
 - 943
 - 944
 source_sections:
-  anatomy: 'Open-mouth și closed-mouth poziții show condyles și necks de mandible.
-    imagini also show relationship între
+  anatomy: Pozițiile cu gura deschisă și cu gura închisă evidențiază condilii și colurile
+    mandibulei. Imaginile arată, de asemenea, relația dintre fosa mandibulară și condil.
+    Poziția cu gura deschisă evidențiază fosa mandibulară și excursia inferioară și
+    anterioară a condilului. Ambele părți (bilateral) sunt examinate pentru comparație
+    (Fig. 11.163). Poziția cu gura închisă evidențiază suspiciunea de fractură a colului
+    și condilului ramurii mandibulei.
+  collimation: • ajustați câmpul de iradiere pentru a se extinde de la canthusul extern
+    la marginea posterioară a auriculei și de la regiunea medioparietală la marginea
+    inferioară a auriculei. Câmpul de expunere nu trebuie să fie mai mare de 5 × 5
+    inches (12.5 × 12.5 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere
+    colimat.
+  cr: • orientat la 15 grade caudal și ieșind prin TMī cel mai apropiat de receptorul
+    de imagine. Raza centrală intră la aproximativ 1 inches (3.8 cm) superior de conductul
+    auditiv extern (CAE) opus.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    mandibular fossa și condyle. open-mouth poziție shows mandibular fossa și inferior
-    și anterior excursion de condyle.
+    n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    ambele părți (bilateral) sunt examined pentru comparison (Fig. 11.163). closed-mouth
-    poziție shows suspiciune de fractură de gâtul și condyle de ramus.'
-  collimation: • se ajustează câmp de iradiere la extend de la outer canthus la posterior
-    edge de auricle și de la midparietal region la inferior edge de auricle. expunere
-    field trebuie să fie fără larger than 5 × 5 inches (12.5 × 12.5 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.
-  cr: '• orientat 15 grade caudal și exiting through TMī cel mai apropiat de receptorul
-    de imagine. raza centrală enters about 1
+    n Articulația temporomandibulară
 
-    inches (3.8 cm) superior la upside conduct auditiv extern (CAE).'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n Condilul situat în fosa mandibulară la examinarea cu gura închisă
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Condilul situat inferior față de tuberculul articular la incidența cu gura deschisă,
+    dacă pacientul este normal și poate deschide larg gura
 
-    n Temporomandibular articulation
+    n Părți moi și detalii trabeculare osoase'
+  part_pos: '• Centrați punctul la inch (1.3 cm) anterior de conductul auditiv extern
+    (CAE) la receptorul de imagine și sprijiniți obrazul pacientului pe dispozitivul
+    cu grilă.
 
-    n Condyle culcat în mandibular fossa în closed-mouth examination
+    • Rotiți MSP al capului cu aproximativ 15 grade spre receptorul de imagine.
 
-    n Condyle culcat inferior la articular tubercle în open-mouth incidență if pacientul
-    este normal și este able la open mouth
+    • Ajustați linia interpupilară (LIP) perpendicular pe planul receptorului de imagine.
 
-    widely
+    • Ajustați flexia gâtului pacientului astfel încât linia acantiomeatală (LAM)
+    să fie paralelă cu axul transversal al receptorului de imagine (Fig. 11.160–11.162).
 
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• Center point
+    • Imobilizați capul pacientului.'
+  patient_pos: '• se așază pacientul în poziție semipronă sau pe scaun înaintea stativului
+    vertical Bucky.
 
-    inch (1.3 cm) anterior la conduct auditiv extern (CAE) la receptorul de imagine,
-    și se sprijină pacientul’s cheek pe grila device.
+    • pentru examinările TMī, efectuați o expunere cu gura închisă și, atunci când
+    nu există contraindicații, o expunere cu gura deschisă.
 
-    • Rotate MSP de capul approximately 15 grade spre receptorul de imagine.
-
-    • se ajustează linie interpupilară (LIP) perpendicular pe plane de receptorul
-    de imagine.
-
-    • se ajustează flexion de pacientul’s neck astfel încât linie acantiomeatală (LAM)
-    este paralel cu transverse axis de receptorul de imagine (Figs. 11.160–11.162).
-
-    • Se imobilizează capul pacientului.'
-  patient_pos: '• se așază pacientul în semiprone poziție, sau se așază pacientul
-    pe scaun before stativ vertical Bucky.
-
-    • în TMī examinations, make one expunere cu mouth closed, și when nu contraindicated,
-    make one expunere cu mouth
-
-    open.
-
-    • Examine ambele părți (bilateral) pentru comparison.'
+    • examinați ambele părți (bilateral) pentru comparație.'
   respiration: 'apnee (oprirea respirației).
 
-    • After making expunere cu mouth closed, change receptorul de imagine și Se instruiește
-    pacientul să open mouth widely.
+    • După efectuarea expunerii cu gura închisă, schimbați receptorul de imagine și
+    instruiți pacientul să deschidă larg gura.
 
-    • Recheck poziție de linie acantiomeatală (LAM), și make second expunere.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+    • Verificați din nou poziția liniei acantiomeatale (LAM) și efectuați a doua expunere.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) transversal.'
+    × 30 cm), transversal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 943–944
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=943
+- title: Merrill’s Atlas, 11. Cranium, pagini 943–944
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend de la outer canthus la posterior
-    edge de auricle și de la midparietal region la inferior edge de auricle. expunere
-    field trebuie să fie fără larger than 5 × 5 inches (12.5 × 12.5 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.
-title: Rx Temporomandibular Articulations — Axiolateral Incidență Oblică — Right and
-  Profil Stângs (Merrill)
+  collimation: ajustați câmpul de iradiere pentru a se extinde de la canthusul extern
+    la marginea posterioară a auriculei și de la regiunea medioparietală la marginea
+    inferioară a auriculei. Câmpul de expunere nu trebuie să fie mai mare de 5 × 5
+    inches (12.5 × 12.5 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere
+    colimat.
+title: Rx Articulații Temporomandibulare — Incidență Axiolaterală Oblică — Profil
+  Drept și Stâng (Merrill)
 ---
-# Rx Temporomandibular Articulations — Axiolateral Incidență Oblică — Right and Profil Stângs (Merrill)
+# Rx Articulații Temporomandibulare — Incidență Axiolaterală Oblică — Profil Drept și Stâng (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -147,10 +141,10 @@ title: Rx Temporomandibular Articulations — Axiolateral Incidență Oblică �
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în semiprone poziție, sau se așază pacientul pe scaun before stativ vertical Bucky. în TMī examinations, make one expunere cu mouth closed, și when nu contraindicated, make one expunere cu mouth open. Examine ambele părți (bilateral) pentru comparison.; Center point inch (1.3 cm) anterior la conduct auditiv extern (CAE) la receptorul de imagine, și se sprijină pacientul’s cheek pe grila device. Rotate MSP de capul approximately 15 grade spre receptorul de imagine. se ajustează linie interpupilară (LIP) perpendicular pe plane de receptorul de imagine. se ajustează flexion de pacientul’s neck astfel încât linie acantiomeatală (LAM) este paralel cu transverse axis de receptorul de imagine (Figs. 11.160–11.162). Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** orientat 15 grade caudal și exiting through TMī cel mai apropiat de receptorul de imagine. raza centrală enters about 1 inches (3.8 cm) superior la upside conduct auditiv extern (CAE).
+    - **Poziție Pacient:** se așază pacientul în poziție semipronă sau pe scaun înaintea stativului vertical Bucky. Pentru examinările TMī, efectuați o expunere cu gura închisă și, atunci când nu există contraindicații, o expunere cu gura deschisă. Examinați ambele părți (bilateral) pentru comparație.; Centrați punctul la inch (1.3 cm) anterior de conductul auditiv extern (CAE) la receptorul de imagine și sprijiniți obrazul pacientului pe dispozitivul cu grilă. Rotiți MSP al capului cu aproximativ 15 grade spre receptorul de imagine. Ajustați linia interpupilară (LIP) perpendicular pe planul receptorului de imagine. Ajustați flexia gâtului pacientului astfel încât linia acantiomeatală (LAM) să fie paralelă cu axul transversal al receptorului de imagine (Fig. 11.160–11.162). Imobilizați capul pacientului.
+    - **Punct de Centrare Fascicul:** orientat la 15 grade caudal și ieșind prin TMī cel mai apropiat de receptorul de imagine. Raza centrală intră la aproximativ 1 inches (3.8 cm) superior de conductul auditiv extern (CAE) opus.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației). After making expunere cu mouth closed, change receptorul de imagine și Se instruiește pacientul să open mouth widely. Recheck poziție de linie acantiomeatală (LAM), și make second expunere.
+    - **Comandă Respiratorie:** apnee (oprirea respirației). După efectuarea expunerii cu gura închisă, schimbați receptorul de imagine și instruiți pacientul să deschidă larg gura. Verificați din nou poziția liniei acantiomeatale (LAM) și efectuați a doua expunere.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -164,14 +158,14 @@ title: Rx Temporomandibular Articulations — Axiolateral Incidență Oblică �
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend de la outer canthus la posterior edge de auricle și de la midparietal region la inferior edge de auricle. expunere field trebuie să fie fără larger than 5 × 5 inches (12.5 × 12.5 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | ajustați câmpul de iradiere pentru a se extinde de la canthusul extern la marginea posterioară a auriculei și de la regiunea medioparietală la marginea inferioară a auriculei. Câmpul de expunere nu trebuie să fie mai mare de 5 × 5 inches (12.5 × 12.5 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Temporomandibular articulation n Condyle culcat în mandibular fossa în closed-mouth examination n Condyle culcat inferior la articular tubercle în open-mouth incidență if pacientul este normal și este able la open mouth widely n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Articulația temporomandibulară n Condilul situat în fosa mandibulară la examinarea cu gura închisă n Condilul situat inferior față de tuberculul articular la incidența cu gura deschisă, dacă pacientul este normal și poate deschide larg gura n Părți moi și detalii trabeculare osoase
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -195,59 +189,53 @@ title: Rx Temporomandibular Articulations — Axiolateral Incidență Oblică �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 943–944](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=943)
+- [Merrill’s Atlas, 11. Cranium, pagini 943–944](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Open-mouth și closed-mouth poziții show condyles și necks de mandible. imagini also show relationship între
-mandibular fossa și condyle. open-mouth poziție shows mandibular fossa și inferior și anterior excursion de condyle.
-ambele părți (bilateral) sunt examined pentru comparison (Fig. 11.163). closed-mouth poziție shows suspiciune de fractură de gâtul și condyle de ramus.
+Pozițiile cu gura deschisă și cu gura închisă evidențiază condilii și colurile mandibulei. Imaginile arată, de asemenea, relația dintre fosa mandibulară și condil. Poziția cu gura deschisă evidențiază fosa mandibulară și excursia inferioară și anterioară a condilului. Ambele părți (bilateral) sunt examinate pentru comparație (Fig. 11.163). Poziția cu gura închisă evidențiază suspiciunea de fractură a colului și condilului ramurii mandibulei.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend de la outer canthus la posterior edge de auricle și de la midparietal region la inferior edge de auricle. expunere field trebuie să fie fără larger than 5 × 5 inches (12.5 × 12.5 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• ajustați câmpul de iradiere pentru a se extinde de la canthusul extern la marginea posterioară a auriculei și de la regiunea medioparietală la marginea inferioară a auriculei. Câmpul de expunere nu trebuie să fie mai mare de 5 × 5 inches (12.5 × 12.5 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat 15 grade caudal și exiting through TMī cel mai apropiat de receptorul de imagine. raza centrală enters about 1
-inches (3.8 cm) superior la upside conduct auditiv extern (CAE).
+• orientat la 15 grade caudal și ieșind prin TMī cel mai apropiat de receptorul de imagine. Raza centrală intră la aproximativ 1 inches (3.8 cm) superior de conductul auditiv extern (CAE) opus.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Temporomandibular articulation
-n Condyle culcat în mandibular fossa în closed-mouth examination
-n Condyle culcat inferior la articular tubercle în open-mouth incidență if pacientul este normal și este able la open mouth
-widely
-n părți moi și bony detalii trabeculare osoase
+Criterii radiologice de calitate a imaginii:
+n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+n Articulația temporomandibulară
+n Condilul situat în fosa mandibulară la examinarea cu gura închisă
+n Condilul situat inferior față de tuberculul articular la incidența cu gura deschisă, dacă pacientul este normal și poate deschide larg gura
+n Părți moi și detalii trabeculare osoase
 
 ### part_pos
 
-• Center point
-inch (1.3 cm) anterior la conduct auditiv extern (CAE) la receptorul de imagine, și se sprijină pacientul’s cheek pe grila device.
-• Rotate MSP de capul approximately 15 grade spre receptorul de imagine.
-• se ajustează linie interpupilară (LIP) perpendicular pe plane de receptorul de imagine.
-• se ajustează flexion de pacientul’s neck astfel încât linie acantiomeatală (LAM) este paralel cu transverse axis de receptorul de imagine (Figs. 11.160–11.162).
-• Se imobilizează capul pacientului.
+• Centrați punctul la inch (1.3 cm) anterior de conductul auditiv extern (CAE) la receptorul de imagine și sprijiniți obrazul pacientului pe dispozitivul cu grilă.
+• Rotiți MSP al capului cu aproximativ 15 grade spre receptorul de imagine.
+• Ajustați linia interpupilară (LIP) perpendicular pe planul receptorului de imagine.
+• Ajustați flexia gâtului pacientului astfel încât linia acantiomeatală (LAM) să fie paralelă cu axul transversal al receptorului de imagine (Fig. 11.160–11.162).
+• Imobilizați capul pacientului.
 
 ### patient_pos
 
-• se așază pacientul în semiprone poziție, sau se așază pacientul pe scaun before stativ vertical Bucky.
-• în TMī examinations, make one expunere cu mouth closed, și when nu contraindicated, make one expunere cu mouth
-open.
-• Examine ambele părți (bilateral) pentru comparison.
+• se așază pacientul în poziție semipronă sau pe scaun înaintea stativului vertical Bucky.
+• pentru examinările TMī, efectuați o expunere cu gura închisă și, atunci când nu există contraindicații, o expunere cu gura deschisă.
+• examinați ambele părți (bilateral) pentru comparație.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
-• After making expunere cu mouth closed, change receptorul de imagine și Se instruiește pacientul să open mouth widely.
-• Recheck poziție de linie acantiomeatală (LAM), și make second expunere.
+• După efectuarea expunerii cu gura închisă, schimbați receptorul de imagine și instruiți pacientul să deschidă larg gura.
+• Verificați din nou poziția liniei acantiomeatale (LAM) și efectuați a doua expunere.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului, pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), transversal.
 

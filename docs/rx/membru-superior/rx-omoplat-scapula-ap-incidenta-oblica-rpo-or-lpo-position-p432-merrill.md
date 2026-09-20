@@ -6,16 +6,16 @@ centering: perpendicular pe lateral margine de rib cage la midscapular area
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 433, imaginea 1
+- caption: Merrill — pagina 433, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig1.png
-- caption: Merrill — pagina PDF 433, imaginea 2
+- caption: Merrill — pagina 433, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig2.png
-- caption: Merrill — pagina PDF 434, imaginea 3
+- caption: Merrill — pagina 434, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig3.png
-- caption: Merrill — pagina PDF 434, imaginea 4
+- caption: Merrill — pagina 434, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig4.png
 last_updated: '2026-09-16'
@@ -107,8 +107,8 @@ source_sections:
 
     30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 432–435
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=432
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 432–435
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator,
@@ -199,33 +199,33 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 433, imaginea 1](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig1.png)
+![Merrill — pagina 433, imaginea 1](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 433, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 433, imaginea 2](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 433, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 433, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 434, imaginea 3](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig3.png)
+![Merrill — pagina 433, imaginea 2](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p433_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 434, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 433, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 434, imaginea 4](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig4.png)
+![Merrill — pagina 434, imaginea 3](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 434, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 434, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 434, imaginea 4](../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig4.png)
+
+<figcaption><strong>Merrill — pagina 434, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -242,7 +242,7 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 432–435](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=432)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 432–435](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

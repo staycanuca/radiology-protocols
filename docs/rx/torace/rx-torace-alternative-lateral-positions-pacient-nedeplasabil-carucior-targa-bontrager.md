@@ -1,47 +1,51 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee în inspir profund complet (după doua inspirație).
+breathing: Apnee în inspir profund complet (după a doua inspirație).
 category: torace
-centering: perpendicular, orientat la level de T7 (3 la 4 inches [8 la 10 cm] below
-  level de incizura jugulară (manubriul sternal)) Top de receptorul de imagine approximately
-  1 inch (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7)
+centering: Perpendicular, orientat la nivelul T7 (3 la 4 inches [8 la 10 cm] sub nivelul
+  incizurii jugulare a manubriului sternal). Marginea superioară a receptorului de
+  imagine la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă
+  C7)
 clinical_indications:
-- A 90degree perspective de la PA poate evidențiază pathology situated posterior la
-  cordul, great vessels, și Stern.
+- O perspectivă la 90 de grade față de PA poate evidenția patologia situată posterior
+  de cord, vasele mari și stern.
 images:
-- caption: Fig. 2.63 Ortostatism, sprijinit stâng Incidență de Profil (lateral).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.63 în ortostatism,
-    sprijinit stâng poziție de profil (lateral).)
+- caption: Fig. 2.63 Profil stâng (lateral), în poziție verticală, cu sprijin.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.63 Poziție
+    de profil stâng (lateral), în poziție verticală, cu sprijin.)
   url: assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg
-- caption: Fig. 2.62 stâng Incidență de Profil (lateral) în wheelchair (brațe up,
-    support behind
+- caption: Fig. 2.62 Profil stâng (lateral) în scaun rulant (brațele ridicate, suport
+    în spate
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.62
-    stâng poziție de profil (lateral) în wheelchair (brațe up, support behind)
+    Poziție de profil stâng (lateral) în scaun rulant (brațele ridicate, suport în
+    spate)
   url: assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_2.jpeg
-- caption: Fig. 2.61 stâng lateral Torace poziție pe cart.
+- caption: Fig. 2.61 Poziție de profil stâng a toracelui pe targă.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.61
-    stâng lateral chest poziție pe cart.)
+    Poziție de profil stâng a toracelui pe targă.)
   url: assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Always attempt la have pacient sit completely Ortostatism în wheelchair sau
-  pe cart if possible. However, if pacientul’s condition does nu allow this, capul
-  end de cart poate fie raised ca nearly Ortostatism ca possible cu radiolucent support
-  behind back (Fig. 2.63). toate attempts trebuie să fie made la get pacient ca nearly
-  Ortostatism ca possible. Torace ROUTINE PA lateral Fig. 2.63 Ortostatism, sprijinit
-  stâng Incidență de Profil (lateral). Fig. 2.62 stâng Incidență de Profil (lateral)
-  în wheelchair (brațe up, support behind back). Fig. 2.61 stâng lateral Torace poziție
-  pe cart.
-position: 'Pacient: în Wheelchair Remove armrests, if possible, sau place pillow sau
-  other support under smaller pacienți so that armrests de wheelchair do nu superimpose
-  lower plămâni (Fig. 2.62). Turn pacient în wheelchair la Incidență de Profil (lateral)
-  ca close la receptorul de imagine ca possible. Have pacient lean forward și place
-  support blocks behind back; raise brațe above cap și have pacient hold pe la support
-  bar—keeping brațe high.; Regiune anatomică: Center pacient la raza centrală și la
-  receptorul de imagine prin checking anterior și posterior aspects de thorax; adjust
-  raza centrală și receptorul de imagine la level de T7. Ensure Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase prin viewing pacient de
-  la tube poziție.'
+notes: 'Încercați întotdeauna să așezați pacientul cu trunchiul complet vertical în
+  scaunul rulant sau pe targă, dacă este posibil. Totuși, dacă starea pacientului
+  nu permite acest lucru, capătul tărgii dinspre cap poate fi ridicat cât mai aproape
+  de verticală, cu un suport radiotransparent în spatele pacientului (Fig. 2.63).
+  Trebuie depuse toate eforturile pentru a poziționa pacientul cât mai aproape de
+  verticală. Torace, incidențe de RUTINĂ: PA; profil. Fig. 2.63 Profil stâng (lateral),
+  în poziție verticală, cu sprijin. Fig. 2.62 Profil stâng (lateral) în scaun rulant
+  (brațele ridicate, suport în spatele pacientului). Fig. 2.61 Poziție de profil stâng
+  a toracelui pe targă.'
+position: 'Pacient: în scaun rulant. Scoateți cotierele, dacă este posibil, sau așezați
+  o pernă ori alt suport sub pacienții de talie mică, astfel încât cotierele scaunului
+  rulant să nu se suprapună peste porțiunea inferioară a plămânilor (Fig. 2.62). Rotiți
+  pacientul în scaunul rulant în poziție de profil (lateral), cât mai aproape de receptorul
+  de imagine. Cereți pacientului să se aplece înainte și așezați blocuri de sprijin
+  în spatele său; ridicați-i brațele deasupra capului și cereți-i să se țină de bara
+  de sprijin, menținând brațele sus. Regiune anatomică: centrați pacientul la raza
+  centrală și la receptorul de imagine, verificând fețele anterioară și posterioară
+  ale toracelui; ajustați raza centrală și receptorul de imagine la nivelul T7. Asigurați
+  absența rotației anatomice, cu claviculele echidistante față de linia apofizelor
+  spinoase, privind pacientul din poziția tubului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,26 +53,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- radiografie trebuie să appear similar la ambulatory Incidență de Profil (lateral)
-  ca described under Evaluation Criteria pe preceding page.
+- Radiografia trebuie să aibă un aspect similar celei de profil (lateral) a pacientului
+  mobil, conform descrierii din Criteriile de evaluare de pe pagina precedentă.
 sid_dff: 180 cm
 slug: rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 105
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
-    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea
+    superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă
+    C7).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) (Pacient
-  Nedeplasabil / Cărucior / Targă)
+title: Rx torace — Variante de poziționare pentru incidența de profil (lateral) (pacient
+  nedeplasabil / scaun rulant / targă)
 ---
-# Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) (Pacient Nedeplasabil / Cărucior / Targă)
+# Rx torace — Variante de poziționare pentru incidența de profil (lateral) (pacient nedeplasabil / scaun rulant / targă)
 
 
 <div class="rx-meta-bar">
@@ -87,7 +92,7 @@ title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) 
 
     === "Indicații Clinice"
 
-        - A 90degree perspective de la PA poate evidențiază pathology situated posterior la cordul, great vessels, și Stern.
+        - O perspectivă la 90 de grade față de PA poate evidenția patologia situată posterior de cord, vasele mari și stern.
 
     === "Ghid Național IRIS"
 
@@ -101,10 +106,10 @@ title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) 
 
     ---
 
-    - **Poziție Pacient:** Pacient: în Wheelchair Remove armrests, if possible, sau place pillow sau other support under smaller pacienți so that armrests de wheelchair do nu superimpose lower plămâni (Fig. 2.62). Turn pacient în wheelchair la Incidență de Profil (lateral) ca close la receptorul de imagine ca possible. Have pacient lean forward și place support blocks behind back; raise brațe above cap și have pacient hold pe la support bar—keeping brațe high.; Regiune anatomică: Center pacient la raza centrală și la receptorul de imagine prin checking anterior și posterior aspects de thorax; adjust raza centrală și receptorul de imagine la level de T7. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase prin viewing pacient de la tube poziție.
-    - **Punct de Centrare Fascicul:** perpendicular, orientat la level de T7 (3 la 4 inches [8 la 10 cm] below level de incizura jugulară (manubriul sternal)) Top de receptorul de imagine approximately 1 inch (2.5 cm) above vertebra proeminentă (apofiza spinoasă C7)
+    - **Poziție Pacient:** Pacient: în scaun rulant. Scoateți cotierele, dacă este posibil, sau așezați o pernă ori alt suport sub pacienții de talie mică, astfel încât cotierele scaunului rulant să nu se suprapună peste porțiunea inferioară a plămânilor (Fig. 2.62). Rotiți pacientul în scaunul rulant în poziție de profil (lateral), cât mai aproape de receptorul de imagine. Cereți pacientului să se aplece înainte și așezați blocuri de sprijin în spatele său; ridicați-i brațele deasupra capului și cereți-i să se țină de bara de sprijin, menținând brațele sus. Regiune anatomică: centrați pacientul la raza centrală și la receptorul de imagine, verificând fețele anterioară și posterioară ale toracelui; ajustați raza centrală și receptorul de imagine la nivelul T7. Asigurați absența rotației anatomice, cu claviculele echidistante față de linia apofizelor spinoase, privind pacientul din poziția tubului.
+    - **Punct de Centrare Fascicul:** Perpendicular, orientat la nivelul T7 (3 la 4 inches [8 la 10 cm] sub nivelul incizurii jugulare a manubriului sternal). Marginea superioară a receptorului de imagine la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă C7)
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație).
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -117,15 +122,15 @@ title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) 
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă C7). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - radiografie trebuie să appear similar la ambulatory Incidență de Profil (lateral) ca described under Evaluation Criteria pe preceding page.
+    - Radiografia trebuie să aibă un aspect similar celei de profil (lateral) a pacientului mobil, conform descrierii din Criteriile de evaluare de pe pagina precedentă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -138,7 +143,7 @@ title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Always attempt la have pacient sit completely Ortostatism în wheelchair sau pe cart if possible. However, if pacientul’s condition does nu allow this, capul end de cart poate fie raised ca nearly Ortostatism ca possible cu radiolucent support behind back (Fig. 2.63). toate attempts trebuie să fie made la get pacient ca nearly Ortostatism ca possible. Torace ROUTINE PA lateral Fig. 2.63 Ortostatism, sprijinit stâng Incidență de Profil (lateral). Fig. 2.62 stâng Incidență de Profil (lateral) în wheelchair (brațe up, support behind back). Fig. 2.61 stâng lateral Torace poziție pe cart.
+    Încercați întotdeauna să așezați pacientul cu trunchiul complet vertical în scaunul rulant sau pe targă, dacă este posibil. Totuși, dacă starea pacientului nu permite acest lucru, capătul tărgii dinspre cap poate fi ridicat cât mai aproape de verticală, cu un suport radiotransparent în spatele pacientului (Fig. 2.63). Trebuie depuse toate eforturile pentru a poziționa pacientul cât mai aproape de verticală. Torace, incidențe de RUTINĂ: PA; profil. Fig. 2.63 Profil stâng (lateral), în poziție verticală, cu sprijin. Fig. 2.62 Profil stâng (lateral) în scaun rulant (brațele ridicate, suport în spatele pacientului). Fig. 2.61 Poziție de profil stâng a toracelui pe targă.
 
 
 ### 🖼️ Imagini
@@ -147,25 +152,25 @@ title: Rx Torace Variante de Poziționare pentru Incidența de Profil (Lateral) 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.63 Ortostatism, sprijinit stâng Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg)
+![Fig. 2.63 Profil stâng (lateral), în poziție verticală, cu sprijin.](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.63 Ortostatism, sprijinit stâng Incidență de Profil (lateral).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.63 în ortostatism, sprijinit stâng poziție de profil (lateral).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.62 stâng Incidență de Profil (lateral) în wheelchair (brațe up, support behind](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.62 stâng Incidență de Profil (lateral) în wheelchair (brațe up, support behind</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.62 stâng poziție de profil (lateral) în wheelchair (brațe up, support behind)</span></figcaption>
+<figcaption><strong>Fig. 2.63 Profil stâng (lateral), în poziție verticală, cu sprijin.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.63 Poziție de profil stâng (lateral), în poziție verticală, cu sprijin.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.61 stâng lateral Torace poziție pe cart.](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg)
+![Fig. 2.62 Profil stâng (lateral) în scaun rulant (brațele ridicate, suport în spate](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.61 stâng lateral Torace poziție pe cart.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.61 stâng lateral chest poziție pe cart.)</span></figcaption>
+<figcaption><strong>Fig. 2.62 Profil stâng (lateral) în scaun rulant (brațele ridicate, suport în spate</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.62 Poziție de profil stâng (lateral) în scaun rulant (brațele ridicate, suport în spate)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.61 Poziție de profil stâng a toracelui pe targă.](../../assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 2.61 Poziție de profil stâng a toracelui pe targă.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.61 Poziție de profil stâng a toracelui pe targă.)</span></figcaption>
 
 </figure>
 

@@ -1,41 +1,44 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee la sfârșitul expirului pe durata expunerii. Fig. 13.75 stâng lateral
-  rectum. Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral
-  rectum
+breathing: Apnee la sfârșitul expirului pe durata expunerii. Fig. 13.75 Rect în incidență
+  de profil stâng. Irigografie (Clismă Baritată) EXAMINARE DE RUTINĂ PA sau AP RAO
+  LAO LPO sau RPO Rect în incidență de profil
 category: abdomen
-centering: este perpendicular pe receptorul de imagine (raza centrală este orizontal
-  pentru ventral decubit). Center raza centrală la level de spină iliacă antero-superioară
-  (SIAS) (spină iliacă antero-superioară (SIAS)) și plan mediocoronal (midway între
-  spină iliacă antero-superioară (SIAS) și posterior Sacru). Se centrează receptorul
-  de imagine pe raza centrală. Alternative ventral decubit lateral orizontal fascicul
-  poziții sunt beneficial pentru doublecontrast studies. Centering pentru ventral
-  decubit este similar la lateral rectum poziție (Fig. 13.74).
+centering: Este perpendiculară pe receptorul de imagine (raza centrală este orizontală
+  în decubit ventral). Se centrează raza centrală la nivelul spinei iliace antero-superioare
+  (SIAS) și al planului mediocoronal (la jumătatea distanței dintre spina iliacă antero-superioară
+  (SIAS) și fața posterioară a sacrului). Se centrează receptorul de imagine pe raza
+  centrală. Poziționările alternative în decubit ventral pentru incidența de profil
+  cu fascicul orizontal sunt utile pentru examinările cu dublu contrast. Centrarea
+  în decubit ventral este similară celei pentru rect în incidență de profil (Fig.
+  13.74).
 clinical_indications:
-- Incidență de Profil (lateral) pentru evidențiind polyps, strictures, și fistulas
-  între rectum și bladder/uterus
-- Incidență Decubit ventral este best pentru doublecontrast study.
+- Incidență de profil pentru evidențierea polipilor, stricturilor și fistulelor dintre
+  rect și vezica urinară/uter
+- Incidența în decubit ventral este cea mai potrivită pentru examinarea cu dublu contrast.
 images:
-- caption: Fig. 13.75 stâng lateral rectum.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.75 stâng lateral
-    rectum.)
+- caption: Fig. 13.75 Rect în incidență de profil stâng.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.75 Rect
+    în incidență de profil stâng.)
   url: assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_1.jpeg
-- caption: Fig. 13.73 stâng lateral rectum. Inset, ventral decubit (double-
+- caption: Fig. 13.73 Rect în incidență de profil stâng. În medalion, decubit ventral
+    (dublu-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.73
-    stâng lateral rectum. Inset, ventral decubit (double-)
+    Rect în incidență de profil stâng. În medalion, decubit ventral (dublu-)
   url: assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_2.jpeg
-- caption: Fig. 13.74 ventral decubit—lateral rectum.
+- caption: Fig. 13.74 Decubit ventral—rect în incidență de profil.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.74
-    ventral decubit—lateral rectum.)
+    Decubit ventral—rect în incidență de profil.)
   url: assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: pacient poziție este lateral Decubit, cu support pentru capul.;
-  Regiune anatomică: (Incidență de Profil (lateral)) Align midaxillary plane la linia
-  mediană mesei sau receptorul de imagine. Flex și superimpose genunchi; place brațe
-  up în front de capul (Fig. 13.73). Ensure that Absența rotației anatomice: clavicule
-  echidistante față de linia apofizelor spinoase occurs; superimpose umeri și hips.'
+position: 'Pacient: pacientul este poziționat în decubit lateral, cu suport pentru
+  cap.; Regiune anatomică: (Incidență de profil) Se aliniază planul medioaxilar cu
+  linia mediană a mesei sau a receptorului de imagine. Se flectează și se suprapun
+  genunchii; brațele se așază ridicate în fața capului (Fig. 13.73). Se asigură absența
+  rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase;
+  se suprapun umerii și șoldurile.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,32 +46,36 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Contrastfilled rectosigmoid region este evidențiat (Fig. 13.75). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evident; femoral heads sunt superimposed.'
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize ambele contrastfilled
-  rectum și sigmoid regions, cu adecvat penetration la evidențiază these areas through
-  superimposed Bazin (bazin (pelvis)) și hips.
-- net structural margins indicate fără mișcare. Fig. 13.73 stâng lateral rectum. Inset,
-  ventral decubit (doublecontrast study). Rectum Sigmoid intestin gros (colon) Fig.
-  13.74 ventral decubit—lateral rectum.
+- 'Regiunea rectosigmoidiană umplută cu substanță de contrast este evidențiată (Fig.
+  13.75). Poziție:'
+- 'Absența rotației anatomice este evidentă: claviculele sunt echidistante față de
+  linia apofizelor spinoase; capetele femurale sunt suprapuse.'
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  atât a rectului, cât și a sigmoidului umplute cu substanță de contrast, cu penetrare
+  adecvată pentru evidențierea acestor regiuni prin bazinul (pelvisul) și șoldurile
+  suprapuse.
+- Marginile nete ale structurilor indică absența mișcării. Fig. 13.73 Rect în incidență
+  de profil stâng. În medalion, decubit ventral (examinare cu dublu contrast). Rect
+  Colon sigmoid Fig. 13.74 Decubit ventral—rect în incidență de profil.
 sid_dff: 100 cm
 slug: rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 545
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110 -125
   mas: DE CONFIGURAT PE APARAT
-title: Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA)
+title: 'Rx RECT CU BARIU ÎN INCIDENȚĂ DE PROFIL: Poziționare SAU INCIDENȚĂ DE PROFIL
+  ÎN DECUBIT VENTRAL (CLISMĂ)'
 ---
-# Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA)
+# Rx RECT CU BARIU ÎN INCIDENȚĂ DE PROFIL: Poziționare SAU INCIDENȚĂ DE PROFIL ÎN DECUBIT VENTRAL (CLISMĂ)
 
 
 <div class="rx-meta-bar">
@@ -87,8 +94,8 @@ title: Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA
 
     === "Indicații Clinice"
 
-        - Incidență de Profil (lateral) pentru evidențiind polyps, strictures, și fistulas între rectum și bladder/uterus
-        - Incidență Decubit ventral este best pentru doublecontrast study.
+        - Incidență de profil pentru evidențierea polipilor, stricturilor și fistulelor dintre rect și vezica urinară/uter
+        - Incidența în decubit ventral este cea mai potrivită pentru examinarea cu dublu contrast.
 
     === "Ghid Național IRIS"
 
@@ -102,10 +109,10 @@ title: Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient poziție este lateral Decubit, cu support pentru capul.; Regiune anatomică: (Incidență de Profil (lateral)) Align midaxillary plane la linia mediană mesei sau receptorul de imagine. Flex și superimpose genunchi; place brațe up în front de capul (Fig. 13.73). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs; superimpose umeri și hips.
-    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine (raza centrală este orizontal pentru ventral decubit). Center raza centrală la level de spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și plan mediocoronal (midway între spină iliacă antero-superioară (SIAS) și posterior Sacru). Se centrează receptorul de imagine pe raza centrală. Alternative ventral decubit lateral orizontal fascicul poziții sunt beneficial pentru doublecontrast studies. Centering pentru ventral decubit este similar la lateral rectum poziție (Fig. 13.74).
+    - **Poziție Pacient:** Pacient: pacientul este poziționat în decubit lateral, cu suport pentru cap.; Regiune anatomică: (Incidență de profil) Se aliniază planul medioaxilar cu linia mediană a mesei sau a receptorului de imagine. Se flectează și se suprapun genunchii; brațele se așază ridicate în fața capului (Fig. 13.73). Se asigură absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase; se suprapun umerii și șoldurile.
+    - **Punct de Centrare Fascicul:** Este perpendiculară pe receptorul de imagine (raza centrală este orizontală în decubit ventral). Se centrează raza centrală la nivelul spinei iliace antero-superioare (SIAS) și al planului mediocoronal (la jumătatea distanței dintre spina iliacă antero-superioară (SIAS) și fața posterioară a sacrului). Se centrează receptorul de imagine pe raza centrală. Poziționările alternative în decubit ventral pentru incidența de profil cu fascicul orizontal sunt utile pentru examinările cu dublu contrast. Centrarea în decubit ventral este similară celei pentru rect în incidență de profil (Fig. 13.74).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Fig. 13.75 stâng lateral rectum. Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Fig. 13.75 Rect în incidență de profil stâng. Irigografie (Clismă Baritată) EXAMINARE DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -118,19 +125,19 @@ title: Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Contrastfilled rectosigmoid region este evidențiat (Fig. 13.75). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evident; femoral heads sunt superimposed.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize ambele contrastfilled rectum și sigmoid regions, cu adecvat penetration la evidențiază these areas through superimposed Bazin (bazin (pelvis)) și hips.
-    - net structural margins indicate fără mișcare. Fig. 13.73 stâng lateral rectum. Inset, ventral decubit (doublecontrast study). Rectum Sigmoid intestin gros (colon) Fig. 13.74 ventral decubit—lateral rectum.
+    - Regiunea rectosigmoidiană umplută cu substanță de contrast este evidențiată (Fig. 13.75). Poziție:
+    - Absența rotației anatomice este evidentă: claviculele sunt echidistante față de linia apofizelor spinoase; capetele femurale sunt suprapuse.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea atât a rectului, cât și a sigmoidului umplute cu substanță de contrast, cu penetrare adecvată pentru evidențierea acestor regiuni prin bazinul (pelvisul) și șoldurile suprapuse.
+    - Marginile nete ale structurilor indică absența mișcării. Fig. 13.73 Rect în incidență de profil stâng. În medalion, decubit ventral (examinare cu dublu contrast). Rect Colon sigmoid Fig. 13.74 Decubit ventral—rect în incidență de profil.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,25 +157,25 @@ title: Rx BARIUM LATERAL RECTUM Poziționare OR VENTRAL DECUBITUS LATERAL (ENEMA
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.75 stâng lateral rectum.](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_1.jpeg)
+![Fig. 13.75 Rect în incidență de profil stâng.](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.75 stâng lateral rectum.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.75 stâng lateral rectum.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 13.73 stâng lateral rectum. Inset, ventral decubit (double-](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 13.73 stâng lateral rectum. Inset, ventral decubit (double-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.73 stâng lateral rectum. Inset, ventral decubit (double-)</span></figcaption>
+<figcaption><strong>Fig. 13.75 Rect în incidență de profil stâng.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.75 Rect în incidență de profil stâng.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.74 ventral decubit—lateral rectum.](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_3.jpeg)
+![Fig. 13.73 Rect în incidență de profil stâng. În medalion, decubit ventral (dublu-](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.74 ventral decubit—lateral rectum.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.74 ventral decubit—lateral rectum.)</span></figcaption>
+<figcaption><strong>Fig. 13.73 Rect în incidență de profil stâng. În medalion, decubit ventral (dublu-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.73 Rect în incidență de profil stâng. În medalion, decubit ventral (dublu-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 13.74 Decubit ventral—rect în incidență de profil.](../../assets/images/protocols/bontrager/rx-barium-lateral-rectum-position-or-ventral-decubitus-lateral-enema-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 13.74 Decubit ventral—rect în incidență de profil.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.74 Decubit ventral—rect în incidență de profil.)</span></figcaption>
 
 </figure>
 

@@ -82,7 +82,7 @@ sid_dff: 100 cm
 slug: rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 369
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=369
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -220,4 +220,4 @@ rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sa
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 369](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=369)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 369](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

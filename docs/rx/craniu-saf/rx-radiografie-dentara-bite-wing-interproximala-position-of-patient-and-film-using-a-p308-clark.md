@@ -3,47 +3,50 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• tubul este înclinat five la eight grade downward (caudal) cu raza centrală
-  centrală la nivelul plan ocluzal și perpendicular pe contact points de teeth.
+centering: '• Tubul este înclinat cu five la eight grade inferior (caudal), cu raza
+  centrală la nivelul planului ocluzal și perpendiculară pe punctele de contact ale
+  dinților.
 
-  Diagram la show correct poziție de adult orizontal bitewing Ideal poziție pentru
-  stâng adult orizontal bitewing using bitewing tab Positioning de pacientul și X-ray
-  tube pentru drept bitewing radiografie using bitewing tab'
+  Diagramă care prezintă poziția corectă pentru o radiografie bitewing orizontală
+  la adult. Poziția ideală pentru radiografia bitewing orizontală stângă la adult,
+  utilizând o clapetă bitewing. Poziționarea pacientului și a tubului de raze X pentru
+  radiografia bitewing dreaptă, utilizând o clapetă bitewing.'
 clinical_indications:
-- 293 10 Radiografie Dentară Bite-Wing (Interproximală)
+- 293 10 Radiografie dentară bitewing (interproximală)
 images:
-- caption: Radiografie Dentară Bite-Wing (Interproximală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie dentară bitewing (interproximală)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_1.jpeg
-- caption: radiografie using bitewing tab
+- caption: Radiografie utilizând o clapetă bitewing
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'bitewing tab attached la packet
+position: 'Clapetă bitewing atașată la suport
 
-  • correct film radiologic size este chosen și bitewing tab este attached.
+  • Se alege dimensiunea corectă a filmului și se atașează clapeta bitewing.
 
-  • pacientul’s cap trebuie să fie sprijinit adequately, cu medial plane vertical
-  și plan ocluzal orizontal.
+  • Capul pacientului trebuie sprijinit corespunzător, cu planul mediosagital vertical
+  și planul ocluzal orizontal.
 
-  • Hold tab între Police și forefinger.
+  • Se ține clapeta între police și degetul arătător.
 
-  • Place film radiologic în lingual sulcus.
+  • Se plasează filmul în șanțul lingual.
 
-  • anterior edge de film radiologic trebuie să fie located opposite la distal aspect
-  de lower canine.
+  • Marginea anterioară a filmului trebuie poziționată opus aspectului distal al caninului
+  inferior.
 
-  • tab rests pe occlusal surface de lower teeth.
+  • Clapeta se sprijină pe suprafața ocluzală a dinților inferiori.
 
-  • pacientul este told la bite gently pe tab și, when teeth sunt almost în contact,
-  operator pulls tab laterally la ensure that there este good contact între film radiologic
-  și teeth.
+  • I se cere pacientului să muște ușor pe clapetă și, când dinții sunt aproape în
+  contact, operatorul trage clapeta lateral pentru a se asigura că există un contact
+  bun între film și dinți.
 
-  • operator releases their hold pe tab și concomitantly informs pacientul la continue
-  biting pe tab.'
+  • Operatorul eliberează clapeta și, concomitent, îi comunică pacientului să continue
+  să muște pe clapetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -52,7 +55,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Bite-Wing (Interproximală)).
+- Vizualizarea clară întregii arii anatomice (radiografie dentară bitewing (interproximală)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -60,19 +63,19 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 308
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=308
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patient and
-  film using a
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie dentară bitewing (interproximală) — poziționarea pacientului și
+  a filmului utilizând o
 ---
-# Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patient and film using a
+# Radiografie dentară bitewing (interproximală) — poziționarea pacientului și a filmului utilizând o
 
 
 <div class="rx-meta-bar">
@@ -91,7 +94,7 @@ title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patie
 
     === "Indicații Clinice"
 
-        - 293 10 Radiografie Dentară Bite-Wing (Interproximală)
+        - 293 10 Radiografie dentară bitewing (interproximală)
 
     === "Ghid Național IRIS"
 
@@ -105,17 +108,17 @@ title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patie
 
     ---
 
-    - **Poziție Pacient:** bitewing tab attached la packet
-• correct film radiologic size este chosen și bitewing tab este attached.
-• pacientul’s cap trebuie să fie sprijinit adequately, cu medial plane vertical și plan ocluzal orizontal.
-• Hold tab între Police și forefinger.
-• Place film radiologic în lingual sulcus.
-• anterior edge de film radiologic trebuie să fie located opposite la distal aspect de lower canine.
-• tab rests pe occlusal surface de lower teeth.
-• pacientul este told la bite gently pe tab și, when teeth sunt almost în contact, operator pulls tab laterally la ensure that there este good contact între film radiologic și teeth.
-• operator releases their hold pe tab și concomitantly informs pacientul la continue biting pe tab.
-    - **Punct de Centrare Fascicul:** • tubul este înclinat five la eight grade downward (caudal) cu raza centrală centrală la nivelul plan ocluzal și perpendicular pe contact points de teeth.
-Diagram la show correct poziție de adult orizontal bitewing Ideal poziție pentru stâng adult orizontal bitewing using bitewing tab Positioning de pacientul și X-ray tube pentru drept bitewing radiografie using bitewing tab
+    - **Poziție Pacient:** Clapetă bitewing atașată la suport
+• Se alege dimensiunea corectă a filmului și se atașează clapeta bitewing.
+• Capul pacientului trebuie sprijinit corespunzător, cu planul mediosagital vertical și planul ocluzal orizontal.
+• Se ține clapeta între police și degetul arătător.
+• Se plasează filmul în șanțul lingual.
+• Marginea anterioară a filmului trebuie poziționată opus aspectului distal al caninului inferior.
+• Clapeta se sprijină pe suprafața ocluzală a dinților inferiori.
+• I se cere pacientului să muște ușor pe clapetă și, când dinții sunt aproape în contact, operatorul trage clapeta lateral pentru a se asigura că există un contact bun între film și dinți.
+• Operatorul eliberează clapeta și, concomitent, îi comunică pacientului să continue să muște pe clapetă.
+    - **Punct de Centrare Fascicul:** • Tubul este înclinat cu five la eight grade inferior (caudal), cu raza centrală la nivelul planului ocluzal și perpendiculară pe punctele de contact ale dinților.
+Diagramă care prezintă poziția corectă pentru o radiografie bitewing orizontală la adult. Poziția ideală pentru radiografia bitewing orizontală stângă la adult, utilizând o clapetă bitewing. Poziționarea pacientului și a tubului de raze X pentru radiografia bitewing dreaptă, utilizând o clapetă bitewing.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -126,19 +129,19 @@ Diagram la show correct poziție de adult orizontal bitewing Ideal poziție pent
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Bite-Wing (Interproximală)).
+    - Vizualizarea clară întregii arii anatomice (radiografie dentară bitewing (interproximală)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -162,17 +165,17 @@ Diagram la show correct poziție de adult orizontal bitewing Ideal poziție pent
 
 <figure class="protocol-image-card" markdown>
 
-![Radiografie Dentară Bite-Wing (Interproximală)](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_1.jpeg)
+![Radiografie dentară bitewing (interproximală)](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_1.jpeg)
 
-<figcaption><strong>Radiografie Dentară Bite-Wing (Interproximală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie dentară bitewing (interproximală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie using bitewing tab](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_2.jpeg)
+![Radiografie utilizând o clapetă bitewing](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie using bitewing tab</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie utilizând o clapetă bitewing</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -189,4 +192,4 @@ Diagram la show correct poziție de adult orizontal bitewing Ideal poziție pent
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 308](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=308)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 308](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

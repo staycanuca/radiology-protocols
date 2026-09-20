@@ -62,7 +62,7 @@ sid_dff: 100 cm
 slug: rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 58
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=58
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -201,4 +201,4 @@ title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - A
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 58](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=58)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 58](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -2,36 +2,36 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: perpendicular pe level de lips. Se centrează receptorul de imagine pe raza
-  centrală.
+centering: perpendicular pe nivelul buzelor. Se centrează receptorul de imagine pe
+  raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 927, imaginea 1
+- caption: Merrill — pagina 927, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig1.png
-- caption: Merrill — pagina PDF 927, imaginea 2
+- caption: Merrill — pagina 927, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție, sau se așază pacientul pe
-  scaun before stativ vertical Bucky.; cu MSP de pacientul’s cap centrat pe linia
-  mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior
-  surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This
-  poziție places linie acantiomeatală (LAM) nearly perpendicular pe receptorul de
-  imagine (RI) plane. se ajustează pacient’s cap so that MSP este perpendicular pe
-  plane de receptorul de imagine (Fig. 11.136).
+position: se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical
+  Bucky.; cu MSP al capului pacientului centrat pe linia mediană a receptorului de
+  imagine, se sprijină capul pe nas și bărbie, astfel încât suprafața anterioară a
+  simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această
+  poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului
+  de imagine (RI). Se ajustează capul pacientului astfel încât MSP să fie perpendicular
+  pe planul receptorului de imagine (Fig. 11.136).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire
-  Mandibulă n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt,
-  evidențiat prin:'
-- corp mandibular simetric pe fiecare side
-- MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi și bony detalii
+- 'Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența
+  markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Întreaga
+  mandibulă n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+  evidențiată prin:'
+- corpul mandibular simetric pe fiecare parte
+- MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi și detalii
   trabeculare osoase
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill
@@ -40,56 +40,57 @@ source_pages:
 - 927
 - 928
 source_sections:
-  anatomy: corp mandibular (Fig. 11.137).
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, above TMīs și below bărbia. expunere field
-
-    trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate
-    (D/S) în collimated expunere field.'
-  cr: '• perpendicular pe level de lips.
+  anatomy: corpul mandibular (Fig. 11.137).
+  collimation: • se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
+    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• perpendicular pe nivelul buzelor.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    n Entire mandible
+    n Întreaga mandibulă
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-    prin:
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+    evidențiată prin:
 
-    • corp mandibular simetric pe fiecare side
+    • corpul mandibular simetric pe fiecare parte
 
-    • MSP de cap aliniat cu axa longitudinală de câmp colimat
+    • MSP al capului aliniat cu axa longitudinală a câmpului colimat
 
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine,
-    rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză
-    este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală
-    (LAM) nearly perpendicular pe receptorul de imagine (RI) plane.
+    n părți moi și detalii trabeculare osoase'
+  part_pos: '• cu MSP al capului pacientului centrat pe linia mediană a receptorului
+    de imagine, se sprijină capul pe nas și bărbie, astfel încât suprafața anterioară
+    a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această
+    poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului
+    de imagine (RI).
 
-    • se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul
-    de imagine (Fig. 11.136).'
-  patient_pos: • se așază pacientul în decubit ventral, sau se așază pacientul pe
-    scaun before stativ vertical Bucky.
+    • se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul
+    receptorului de imagine (Fig. 11.136).'
+  patient_pos: • se așază pacientul în decubit ventral sau pe scaun, în fața stativului
+    vertical Bucky.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 926–928
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=926
+- title: Merrill’s Atlas, 11. Cranium, pagini 926–928
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, above TMīs și below bărbia. expunere field trebuie să fie fără larger than
-    8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
+    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx corp mandibular — incidență postero-anterioară (PA) (Merrill)
 ---
-# Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
+# Rx corp mandibular — incidență postero-anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -122,8 +123,8 @@ title: Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție, sau se așază pacientul pe scaun before stativ vertical Bucky.; cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală (LAM) nearly perpendicular pe receptorul de imagine (RI) plane. se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine (Fig. 11.136).
-    - **Punct de Centrare Fascicul:** perpendicular pe level de lips. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical Bucky.; cu MSP al capului pacientului centrat pe linia mediană a receptorului de imagine, se sprijină capul pe nas și bărbie, astfel încât suprafața anterioară a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului de imagine (RI). Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Fig. 11.136).
+    - **Punct de Centrare Fascicul:** perpendicular pe nivelul buzelor. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -139,16 +140,16 @@ title: Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, above TMīs și below bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire Mandibulă n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-    - corp mandibular simetric pe fiecare side
-    - MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Întreaga mandibulă n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - corpul mandibular simetric pe fiecare parte
+    - MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi și detalii trabeculare osoase
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -168,17 +169,17 @@ title: Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 927, imaginea 1](../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig1.png)
+![Merrill — pagina 927, imaginea 1](../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 927, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 927, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 927, imaginea 2](../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig2.png)
+![Merrill — pagina 927, imaginea 2](../../assets/images/protocols/merrill/rx-mandibular-body-incidenta-postero-anterioara-pa-p926-merrill/p927_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 927, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 927, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -195,49 +196,48 @@ title: Rx Mandibular Body — Incidență Postero-Anterioară (PA) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 926–928](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=926)
+- [Merrill’s Atlas, 11. Cranium, pagini 926–928](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-corp mandibular (Fig. 11.137).
+corpul mandibular (Fig. 11.137).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, above TMīs și below bărbia. expunere field
-trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe level de lips.
+• perpendicular pe nivelul buzelor.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Entire mandible
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-• corp mandibular simetric pe fiecare side
-• MSP de cap aliniat cu axa longitudinală de câmp colimat
-n părți moi și bony detalii trabeculare osoase
+Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+n Întreaga mandibulă
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+• corpul mandibular simetric pe fiecare parte
+• MSP al capului aliniat cu axa longitudinală a câmpului colimat
+n părți moi și detalii trabeculare osoase
 
 ### part_pos
 
-• cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală (LAM) nearly perpendicular pe receptorul de imagine (RI) plane.
-• se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine (Fig. 11.136).
+• cu MSP al capului pacientului centrat pe linia mediană a receptorului de imagine, se sprijină capul pe nas și bărbie, astfel încât suprafața anterioară a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului de imagine (RI).
+• se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Fig. 11.136).
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral, sau se așază pacientul pe scaun before stativ vertical Bucky.
+• se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical Bucky.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

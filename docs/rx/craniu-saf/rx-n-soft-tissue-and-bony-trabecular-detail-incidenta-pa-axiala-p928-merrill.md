@@ -2,26 +2,26 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat midway între TMīs la un unghi de 30 grade cranial. Zanelli 10
-  recommended that better contrast around TMīs could fie obtained if pacientul was
-  instructed la fill mouth cu air pentru this incidență. Se centrează receptorul de
-  imagine pe raza centrală.
+centering: Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial.
+  Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut
+  dacă pacientul era instruit să umple gura cu aer pentru această incidență. Se centrează
+  receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 928, imaginea 1
+- caption: Merrill — pagina 928, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merrill/p928_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție, sau se așază pacientul pe
-  scaun before stativ vertical Bucky.; cu MSP de pacientul’s cap centrat pe linia
-  mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior
-  surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This
-  poziție places linie acantiomeatală (LAM) nearly perpendicular pe plane de receptorul
-  de imagine. se ajustează pacient’s cap so that MSP este perpendicular pe plane de
-  receptorul de imagine (Fig. 11.138).
+position: Se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical
+  Bucky; cu MSP al capului pacientului centrat pe linia mediană a receptorului de
+  imagine, se sprijină capul pe nas și bărbie astfel încât suprafața anterioară a
+  simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această
+  poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului
+  de imagine. Se ajustează capul pacientului astfel încât MSP să fie perpendicular
+  pe planul receptorului de imagine (Fig. 11.138).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -31,44 +31,44 @@ slug: rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merri
 source_pages:
 - 928
 source_sections:
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, above TMīs și below bărbia. expunere field
-
-    trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate
-    (D/S) în collimated expunere field.'
-  cr: '• orientat midway între TMīs la un unghi de 30 grade cranial. Zanelli 10 recommended
-    that better contrast around TMīs
-
-    could fie obtained if pacientul was instructed la fill mouth cu air pentru this
-    incidență.
+  collimation: • se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
+    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial.
+    Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut
+    dacă pacientul era instruit să umple gura cu aer pentru această incidență.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  part_pos: '• cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine,
-    rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză
-    este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală
-    (LAM) nearly perpendicular pe plane de receptorul de imagine.
+  part_pos: '• Cu MSP al capului pacientului centrat pe linia mediană a receptorului
+    de imagine, se sprijină capul pe nas și bărbie astfel încât suprafața anterioară
+    a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această
+    poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului
+    de imagine.
 
-    • se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul
-    de imagine (Fig. 11.138).'
-  patient_pos: • se așază pacientul în decubit ventral, sau se așază pacientul pe
-    scaun before stativ vertical Bucky.
+    • Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul
+    receptorului de imagine (Fig. 11.138).'
+  patient_pos: • se așază pacientul în decubit ventral sau pe scaun, în fața stativului
+    vertical Bucky.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 928–928
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=928
+- title: Merrill’s Atlas, 11. Cranium, pagini 928–928
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, above TMīs și below bărbia. expunere field trebuie să fie fără larger than
-    8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (Merrill)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
+    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență
+  PA axială (Merrill)
 ---
-# Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (Merrill)
+# Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență PA axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -101,8 +101,8 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (M
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție, sau se așază pacientul pe scaun before stativ vertical Bucky.; cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală (LAM) nearly perpendicular pe plane de receptorul de imagine. se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine (Fig. 11.138).
-    - **Punct de Centrare Fascicul:** orientat midway între TMīs la un unghi de 30 grade cranial. Zanelli 10 recommended that better contrast around TMīs could fie obtained if pacientul was instructed la fill mouth cu air pentru this incidență. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical Bucky; cu MSP al capului pacientului centrat pe linia mediană a receptorului de imagine, se sprijină capul pe nas și bărbie astfel încât suprafața anterioară a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului de imagine. Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Fig. 11.138).
+    - **Punct de Centrare Fascicul:** Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial. Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut dacă pacientul era instruit să umple gura cu aer pentru această incidență. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -118,7 +118,7 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (M
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, above TMīs și below bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -145,9 +145,9 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (M
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 928, imaginea 1](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merrill/p928_fig1.png)
+![Merrill — pagina 928, imaginea 1](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merrill/p928_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 928, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 928, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -164,36 +164,34 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență PA Axială (M
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 928–928](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=928)
+- [Merrill’s Atlas, 11. Cranium, pagini 928–928](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, above TMīs și below bărbia. expunere field
-trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat midway între TMīs la un unghi de 30 grade cranial. Zanelli 10 recommended that better contrast around TMīs
-could fie obtained if pacientul was instructed la fill mouth cu air pentru this incidență.
+• Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial. Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut dacă pacientul era instruit să umple gura cu aer pentru această incidență.
 • Se centrează receptorul de imagine pe raza centrală.
 
 ### part_pos
 
-• cu MSP de pacientul’s cap centrat pe linia mediană receptorul de imagine, rest capul pe nasul și chin astfel încât anterior surface de mandibular simfiză este paralel cu plane de receptorul de imagine. This poziție places linie acantiomeatală (LAM) nearly perpendicular pe plane de receptorul de imagine.
-• se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine (Fig. 11.138).
+• Cu MSP al capului pacientului centrat pe linia mediană a receptorului de imagine, se sprijină capul pe nas și bărbie astfel încât suprafața anterioară a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului de imagine.
+• Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Fig. 11.138).
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral, sau se așază pacientul pe scaun before stativ vertical Bucky.
+• se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical Bucky.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

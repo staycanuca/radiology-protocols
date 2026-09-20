@@ -2,131 +2,134 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat horizon̍ al, enter pacientul’s cap la 1 inch (1.3 la 2.5 cm) posterior
-  la outer canthus. Se centrează receptorul de imagine pe raza centrală. Se imobilizează
-  capul pacientului.
+centering: Orientat orizontal, introduceți capul pacientului la 1 inch (1.3 la 2.5
+  cm) posterior față de canthusul extern. Centrați receptorul de imagine pe raza centrală.
+  Imobilizați capul pacientului.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 950, imaginea 1
+- caption: Merrill — pagina 950, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sinusuri-paranazale-saf-incidenta-de-profil-lateral-right-or-left-position-p949-merrill/p950_fig1.png
 last_updated: '2026-09-16'
 modality: rx
-notes: If pacientul este unable la assume în ortostatism corp poziție, Incidență de
-  Profil (lateral) poate fie obtained using Incidență Decubit dorsal. orizontal fascicul
-  enables nivele hidroaerice la fie seen. Positioning de part este same except pentru
-  linie infraorbitomeatală (LIOM), which este vertical rather than orizontal.
-position: se așază pacientul pe scaun before stativ vertical Bucky cu corp plasat
-  în RAO sau poziție oblică anterioară stângă (OAS / LAO) astfel încât cap poate fie
-  ajustat în true Incidență de Profil (lateral). This este same basic poziție that
-  este used pentru lateral Craniu și facial bone poziții.; Rest side de pacientul’s
-  cap pe stativ vertical Bucky, și se ajustează cap în true Incidență de Profil (lateral).
-  MSP de capul este paralel cu plane de receptorul de imagine, și linie interpupilară
-  (LIP) este perpendicular pe plane de receptorul de imagine. linie infraorbitomeatală
-  (LIOM) este poziționat horizontally la ensure corect extension de capul. This poziție
-  places linie infraorbitomeatală (LIOM) perpendicular pe front edge de stativ vertical
-  Bucky (Fig. 11.169).
+notes: Dacă pacientul nu poate adopta poziția corporală în ortostatism, incidența
+  de profil poate fi obținută utilizând decubitul dorsal. Fasciculul orizontal permite
+  vizualizarea nivelurilor hidroaerice. Poziționarea regiunii este aceeași, cu excepția
+  faptului că linia infraorbitomeatală (LIOM) este verticală, nu orizontală.
+position: Așezați pacientul pe scaun înaintea stativului vertical Bucky, cu corpul
+  plasat în poziție RAO sau în poziție oblică anterioară stângă (OAS / LAO), astfel
+  încât capul să poată fi ajustat în adevărata incidență de profil. Aceasta este aceeași
+  poziție de bază utilizată pentru incidențele de profil ale craniului și oaselor
+  feței. Sprijiniți partea laterală a capului pacientului pe stativul vertical Bucky
+  și ajustați capul în adevărata incidență de profil. MSP al capului este paralel
+  cu planul receptorului de imagine, iar linia interpupilară (LIP) este perpendiculară
+  pe planul receptorului de imagine. Linia infraorbitomeatală (LIOM) este poziționată
+  orizontal pentru a asigura extensia corectă a capului. Această poziție plasează
+  linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a stativului
+  vertical Bucky (Fig. 11.169).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n toate
-  four sinus groups, but sinusuri sfenoidale este best evidențiat n Absența rotației
-  anatomice (simetrie bilaterală perfectă) sau tilt de sinus anatomy, ca evidențiat
-  prin:'
-- șa turcească în profile
-- Superimposed orbital roofs
-- Superimposed ramuri mandibulare n părți moi, bony detalii trabeculare osoase, și
-  air-nivele hidroaerice, if present
+- 'Criterii radiologice de calitate a imaginii:
+
+  • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  clar față de anatomia de interes
+
+  • Toate cele patru grupuri sinusale, însă sinusurile sfenoidale sunt cel mai bine
+  evidențiate
+
+  • Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării anatomiei
+  sinusurilor, evidențiată prin:'
+- Șaua turcească în profil
+- acoperișuri orbitare suprapuse
+- 'Ramurile mandibulare suprapuse
+
+  • Părțile moi, detaliile trabeculare osoase și nivelurile hidroaerice, dacă sunt
+  prezente'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sinusuri-paranazale-saf-incidenta-de-profil-lateral-right-or-left-position-p949-merrill
 source_pages:
 - 949
 - 950
 source_sections:
-  anatomy: 'AP și superoinferior dimensions de paranasal sinuses, their relationship
-    la surrounding structures, și thickness de outer table
+  anatomy: 'Dimensiunile AP și superoinferioare ale sinusurilor paranazale, raporturile
+    lor cu structurile înconjurătoare și grosimea tablei externe a osului frontal
+    (Fig. 11.170).
 
-    de frontal bone (Fig. 11.170).
+    Când incidența de profil este utilizată pentru măsurători preoperatorii, aceasta
+    trebuie efectuată la un SID de 72 inch (183 cm) pentru a minimiza mărirea și distorsiunea.'
+  collimation: '• Ajustați câmpul de iradiere astfel încât să se extindă 1 inch (2.5
+    cm) dincolo de vârful nasului, superior până la 3 inches (7.6 cm) deasupra nazionului,
+    inferior până la planul ocluzal și posterior până la pavilionul auricular. Câmpul
+    de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm).
 
-    When lateral incidență este la fie used pentru preoperative measurements, it trebuie
-    să fie made la a 72-inch (183-cm) SID la minimize
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: '• Orientat orizontal, introduceți capul pacientului la 1 inch (1.3 la 2.5 cm)
+    posterior față de canthusul extern.
 
-    magnification și distortion.'
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond tip
-    de nasul, superiorly la 3 inches (7.6 cm) above nazion,
+    • Centrați receptorul de imagine pe raza centrală.
 
-    inferiorly la plan ocluzal, și posteriorly la auricle. expunere field trebuie
-    să fie fără larger than 8 × 10 inches (18 × 24 cm).
+    • Imobilizați capul pacientului.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• orientat horizon̍ al, enter pacientul’s cap
+    • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    la 1 inch (1.3 la 2.5 cm) posterior la outer canthus.
+    • Toate cele patru grupuri sinusale, însă sinusurile sfenoidale sunt cel mai bine
+    evidențiate
 
-    • Se centrează receptorul de imagine pe raza centrală.
+    • Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării anatomiei
+    sinusurilor, evidențiată prin:
 
-    • Se imobilizează capul pacientului.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Șaua turcească în profil
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Acoperișurile orbitare suprapuse
 
-    n toate four sinus groups, but sinusuri sfenoidale este best evidențiat
+    • Ramurile mandibulare suprapuse
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de sinus
-    anatomy, ca evidențiat prin:
+    • Părțile moi, detaliile trabeculare osoase și nivelurile hidroaerice, dacă sunt
+    prezente'
+  notes: 'Dacă pacientul nu poate adopta poziția corporală în ortostatism, incidența
+    de profil poate fi obținută utilizând poziția în decubit dorsal.
 
-    • șa turcească în profile
+    Fasciculul orizontal permite vizualizarea nivelurilor hidroaerice. Poziționarea
+    regiunii este aceeași, cu excepția faptului că linia infraorbitomeatală (LIOM)
+    este verticală, nu orizontală.'
+  part_pos: '• Sprijiniți partea laterală a capului pacientului pe stativul vertical
+    Bucky și ajustați capul în adevărata poziție de profil. MSP al capului este paralel
+    cu planul receptorului de imagine, iar linia interpupilară (LIP) este perpendiculară
+    pe planul receptorului de imagine.
 
-    • Superimposed orbital roofs
-
-    • Superimposed ramuri mandibulare
-
-    n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present'
-  notes: 'If pacientul este unable la assume în ortostatism corp poziție, lateral
-    incidență poate fie obtained using dorsal decubit poziție.
-
-    orizontal fascicul enables nivele hidroaerice la fie seen. Positioning de part
-    este same except pentru linie infraorbitomeatală (LIOM), which este vertical rather
-    than
-
-    orizontal.'
-  part_pos: '• Rest side de pacientul’s cap pe stativ vertical Bucky, și se ajustează
-    cap în true poziție de profil (lateral). MSP de capul este paralel
-
-    cu plane de receptorul de imagine, și linie interpupilară (LIP) este perpendicular
-    pe plane de receptorul de imagine.
-
-    • linie infraorbitomeatală (LIOM) este poziționat horizontally la ensure corect
-    extension de capul. This poziție places linie infraorbitomeatală (LIOM) perpendicular
-    pe front
-
-    edge de stativ vertical Bucky (Fig. 11.169).'
-  patient_pos: • se așază pacientul pe scaun before stativ vertical Bucky cu corp
-    plasat în RAO sau poziție oblică anterioară stângă (OAS / LAO) astfel încât cap
-    poate fie ajustat în true poziție de profil (lateral). This este same basic poziție
-    that este used pentru lateral skull și facial bone poziții.
+    • Linia infraorbitomeatală (LIOM) este poziționată orizontal pentru a asigura
+    extensia corectă a capului. Această poziție plasează linia infraorbitomeatală
+    (LIOM) perpendicular pe marginea anterioară a stativului vertical Bucky (Fig.
+    11.169).'
+  patient_pos: • Așezați pacientul pe scaun înaintea stativului vertical Bucky, cu
+    corpul plasat în poziție RAO sau în poziție oblică anterioară stângă (OAS / LAO),
+    astfel încât capul să poată fi ajustat în adevărata poziție de profil. Aceasta
+    este aceeași poziție de bază utilizată pentru pozițiile de profil ale craniului
+    și oaselor feței.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 949–950
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=949
+- title: Merrill’s Atlas, 11. Cranium, pagini 949–950
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond tip
-    de nasul, superiorly la 3 inches (7.6 cm) above nazion, inferiorly la plan ocluzal,
-    și posteriorly la auricle. expunere field trebuie să fie fără larger than 8 ×
-    10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Profil (Drept
-  sau Stâng) (Merrill)
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă 1 inch (2.5
+    cm) dincolo de vârful nasului, superior până la 3 inches (7.6 cm) deasupra nazionului,
+    inferior până la planul ocluzal și posterior până la pavilionul auricular. Câmpul
+    de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Sinusuri paranazale (SAF) — Incidență de profil — Profil (drept sau stâng)
+  (Merrill)
 ---
-# Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) (Merrill)
+# Rx Sinusuri paranazale (SAF) — Incidență de profil — Profil (drept sau stâng) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -159,8 +162,8 @@ title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Prof
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun before stativ vertical Bucky cu corp plasat în RAO sau poziție oblică anterioară stângă (OAS / LAO) astfel încât cap poate fie ajustat în true Incidență de Profil (lateral). This este same basic poziție that este used pentru lateral Craniu și facial bone poziții.; Rest side de pacientul’s cap pe stativ vertical Bucky, și se ajustează cap în true Incidență de Profil (lateral). MSP de capul este paralel cu plane de receptorul de imagine, și linie interpupilară (LIP) este perpendicular pe plane de receptorul de imagine. linie infraorbitomeatală (LIOM) este poziționat horizontally la ensure corect extension de capul. This poziție places linie infraorbitomeatală (LIOM) perpendicular pe front edge de stativ vertical Bucky (Fig. 11.169).
-    - **Punct de Centrare Fascicul:** orientat horizon̍ al, enter pacientul’s cap la 1 inch (1.3 la 2.5 cm) posterior la outer canthus. Se centrează receptorul de imagine pe raza centrală. Se imobilizează capul pacientului.
+    - **Poziție Pacient:** Așezați pacientul pe scaun înaintea stativului vertical Bucky, cu corpul plasat în poziție RAO sau în poziție oblică anterioară stângă (OAS / LAO), astfel încât capul să poată fi ajustat în adevărata incidență de profil. Aceasta este aceeași poziție de bază utilizată pentru incidențele de profil ale craniului și oaselor feței. Sprijiniți partea laterală a capului pacientului pe stativul vertical Bucky și ajustați capul în adevărata incidență de profil. MSP al capului este paralel cu planul receptorului de imagine, iar linia interpupilară (LIP) este perpendiculară pe planul receptorului de imagine. Linia infraorbitomeatală (LIOM) este poziționată orizontal pentru a asigura extensia corectă a capului. Această poziție plasează linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a stativului vertical Bucky (Fig. 11.169).
+    - **Punct de Centrare Fascicul:** Orientat orizontal, introduceți capul pacientului la 1 inch (1.3 la 2.5 cm) posterior față de canthusul extern. Centrați receptorul de imagine pe raza centrală. Imobilizați capul pacientului.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -176,17 +179,21 @@ title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Prof
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond tip de nasul, superiorly la 3 inches (7.6 cm) above nazion, inferiorly la plan ocluzal, și posteriorly la auricle. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă 1 inch (2.5 cm) dincolo de vârful nasului, superior până la 3 inches (7.6 cm) deasupra nazionului, inferior până la planul ocluzal și posterior până la pavilionul auricular. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n toate four sinus groups, but sinusuri sfenoidale este best evidențiat n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de sinus anatomy, ca evidențiat prin:
-    - șa turcească în profile
-    - Superimposed orbital roofs
-    - Superimposed ramuri mandibulare n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present
+    - Criterii radiologice de calitate a imaginii:
+• Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Toate cele patru grupuri sinusale, însă sinusurile sfenoidale sunt cel mai bine evidențiate
+• Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării anatomiei sinusurilor, evidențiată prin:
+    - Șaua turcească în profil
+    - acoperișuri orbitare suprapuse
+    - Ramurile mandibulare suprapuse
+• Părțile moi, detaliile trabeculare osoase și nivelurile hidroaerice, dacă sunt prezente
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,7 +204,7 @@ title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Prof
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If pacientul este unable la assume în ortostatism corp poziție, Incidență de Profil (lateral) poate fie obtained using Incidență Decubit dorsal. orizontal fascicul enables nivele hidroaerice la fie seen. Positioning de part este same except pentru linie infraorbitomeatală (LIOM), which este vertical rather than orizontal.
+    Dacă pacientul nu poate adopta poziția corporală în ortostatism, incidența de profil poate fi obținută utilizând decubitul dorsal. Fasciculul orizontal permite vizualizarea nivelurilor hidroaerice. Poziționarea regiunii este aceeași, cu excepția faptului că linia infraorbitomeatală (LIOM) este verticală, nu orizontală.
 
 
 ### 🖼️ Imagini
@@ -206,9 +213,9 @@ title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Prof
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 950, imaginea 1](../../assets/images/protocols/merrill/rx-sinusuri-paranazale-saf-incidenta-de-profil-lateral-right-or-left-position-p949-merrill/p950_fig1.png)
+![Merrill — pagina 950, imaginea 1](../../assets/images/protocols/merrill/rx-sinusuri-paranazale-saf-incidenta-de-profil-lateral-right-or-left-position-p949-merrill/p950_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 950, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 950, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -225,64 +232,57 @@ title: Rx Sinusuri Paranazale (SAF) — Incidență de Profil (Lateral) — Prof
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 949–950](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=949)
+- [Merrill’s Atlas, 11. Cranium, pagini 949–950](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-AP și superoinferior dimensions de paranasal sinuses, their relationship la surrounding structures, și thickness de outer table
-de frontal bone (Fig. 11.170).
-When lateral incidență este la fie used pentru preoperative measurements, it trebuie să fie made la a 72-inch (183-cm) SID la minimize
-magnification și distortion.
+Dimensiunile AP și superoinferioare ale sinusurilor paranazale, raporturile lor cu structurile înconjurătoare și grosimea tablei externe a osului frontal (Fig. 11.170).
+Când incidența de profil este utilizată pentru măsurători preoperatorii, aceasta trebuie efectuată la un SID de 72 inch (183 cm) pentru a minimiza mărirea și distorsiunea.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond tip de nasul, superiorly la 3 inches (7.6 cm) above nazion,
-inferiorly la plan ocluzal, și posteriorly la auricle. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm).
-Place marker de lateralitate (D/S) în collimated expunere field.
+• Ajustați câmpul de iradiere astfel încât să se extindă 1 inch (2.5 cm) dincolo de vârful nasului, superior până la 3 inches (7.6 cm) deasupra nazionului, inferior până la planul ocluzal și posterior până la pavilionul auricular. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm).
+Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat horizon̍ al, enter pacientul’s cap
-la 1 inch (1.3 la 2.5 cm) posterior la outer canthus.
-• Se centrează receptorul de imagine pe raza centrală.
-• Se imobilizează capul pacientului.
+• Orientat orizontal, introduceți capul pacientului la 1 inch (1.3 la 2.5 cm) posterior față de canthusul extern.
+• Centrați receptorul de imagine pe raza centrală.
+• Imobilizați capul pacientului.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n toate four sinus groups, but sinusuri sfenoidale este best evidențiat
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de sinus anatomy, ca evidențiat prin:
-• șa turcească în profile
-• Superimposed orbital roofs
-• Superimposed ramuri mandibulare
-n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present
+Criterii radiologice de calitate a imaginii:
+• Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Toate cele patru grupuri sinusale, însă sinusurile sfenoidale sunt cel mai bine evidențiate
+• Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării anatomiei sinusurilor, evidențiată prin:
+• Șaua turcească în profil
+• Acoperișurile orbitare suprapuse
+• Ramurile mandibulare suprapuse
+• Părțile moi, detaliile trabeculare osoase și nivelurile hidroaerice, dacă sunt prezente
 
-### notes
+### note
 
-If pacientul este unable la assume în ortostatism corp poziție, lateral incidență poate fie obtained using dorsal decubit poziție.
-orizontal fascicul enables nivele hidroaerice la fie seen. Positioning de part este same except pentru linie infraorbitomeatală (LIOM), which este vertical rather than
-orizontal.
+Dacă pacientul nu poate adopta poziția corporală în ortostatism, incidența de profil poate fi obținută utilizând poziția în decubit dorsal.
+Fasciculul orizontal permite vizualizarea nivelurilor hidroaerice. Poziționarea regiunii este aceeași, cu excepția faptului că linia infraorbitomeatală (LIOM) este verticală, nu orizontală.
 
 ### part_pos
 
-• Rest side de pacientul’s cap pe stativ vertical Bucky, și se ajustează cap în true poziție de profil (lateral). MSP de capul este paralel
-cu plane de receptorul de imagine, și linie interpupilară (LIP) este perpendicular pe plane de receptorul de imagine.
-• linie infraorbitomeatală (LIOM) este poziționat horizontally la ensure corect extension de capul. This poziție places linie infraorbitomeatală (LIOM) perpendicular pe front
-edge de stativ vertical Bucky (Fig. 11.169).
+• Sprijiniți partea laterală a capului pacientului pe stativul vertical Bucky și ajustați capul în adevărata poziție de profil. MSP al capului este paralel cu planul receptorului de imagine, iar linia interpupilară (LIP) este perpendiculară pe planul receptorului de imagine.
+• Linia infraorbitomeatală (LIOM) este poziționată orizontal pentru a asigura extensia corectă a capului. Această poziție plasează linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a stativului vertical Bucky (Fig. 11.169).
 
 ### patient_pos
 
-• se așază pacientul pe scaun before stativ vertical Bucky cu corp plasat în RAO sau poziție oblică anterioară stângă (OAS / LAO) astfel încât cap poate fie ajustat în true poziție de profil (lateral). This este same basic poziție that este used pentru lateral skull și facial bone poziții.
+• Așezați pacientul pe scaun înaintea stativului vertical Bucky, cu corpul plasat în poziție RAO sau în poziție oblică anterioară stângă (OAS / LAO), astfel încât capul să poată fi ajustat în adevărata poziție de profil. Aceasta este aceeași poziție de bază utilizată pentru pozițiile de profil ale craniului și oaselor feței.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

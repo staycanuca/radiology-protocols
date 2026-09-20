@@ -3,18 +3,21 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• A 12-grade cranial fascicul angulation este employed, i.e. la un unghi
-  de seven grade la orbito-meatal plane, la separate occiput de la petrous bone.
+centering: '• Se utilizează o angulație craniană a fasciculului de 12 grade, adică
+  la un unghi de șapte grade față de planul orbitomeatal, pentru a separa occiputul
+  de osul pietros.
 
-  • Centre midway între extern occipital protuberance și extern auditory meatus cel
-  mai depărtat de casetă.
+  • Se centrează la mijlocul distanței dintre protuberanța occipitală externă și conductul
+  auditiv extern cel mai îndepărtat de casetă.
 
-  • Collimate la mastoid și petrous parts de temporal bone under examination.'
+  • Se colimează la nivelul porțiunilor mastoidiană și pietroasă ale osului temporal
+  examinat.'
 clinical_indications:
-- '8 254 Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
+- '8 254 Craniu Os temporal pietros: oblică anterioară (Stenver)'
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-petrous-bone-oblica-anterioara-stenver-s-p269-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -26,23 +29,31 @@ images:
   url: assets/images/protocols/clark/rx-craniu-petrous-bone-oblica-anterioara-stenver-s-p269-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'This incidență este now more sau less redundant due la superior diagnostic
-  capabilities de CT.
+notes: 'Această incidență este acum mai mult sau mai puțin redundantă datorită capacităților
+  diagnostice superioare ale CT.
 
-  Semicircular canals Arcuate eminence Vestibule Cochlea intern auditory meatus Apex
-  Carotid canal cap de Mandibulă Jugular fossa Sigmoid sinus proces mastoidian Styloid
-  process 45° Petrous temporal bone casetă'
-position: "• pacientul poate fie Decubit ventral sau poate fie more comfortable being\
-  \ examined Ortostatism și facing stativ vertical Bucky.\n• middle de supra-orbital\
-  \ margin pe side being examined este centred la middle de Bucky.\n• gâtul este flectat\
-  \ astfel încât nose și forehead sunt în contact cu masa de examinare și linie orbitomeatală\
-  \ (LOM) este perpendicular pe table.\n• de la poziție where planul mediosagital\
-  \ este perpendicular pe table, capul este rotit spre side under examination, astfel\
-  \ încât plan mediosagital este now la un unghi de 45 grade la masa de examinare.\
-  \ This brings petrous part de temporal bone paralel cu casetă.\n• gâtul este extins\
-  \ astfel încât linie orbitomeatală (LOM) este raised five grade de la orizontal.\n\
-  • An 18 \x02 24-cm casetă este plasat transversely în Bucky și este centred la level\
-  \ la coincide cu raza centrală centrală."
+  Canale semicirculare Eminență arcuată Vestibul Cohlee Conduct auditiv intern Apex
+  Canal carotidian Capul mandibulei Fosa jugulară Sinus sigmoid Proces mastoidian
+  Proces stiloid 45° Os temporal pietros Casetă'
+position: '• Pacientul poate fi în decubit ventral sau poate fi examinat mai confortabil
+  în ortostatism, cu fața spre stativul vertical Bucky.
+
+  • Mijlocul marginii supraorbitale de pe partea examinată este centrat la mijlocul
+  stativului Bucky.
+
+  • Gâtul este flectat astfel încât nasul și fruntea să fie în contact cu masa de
+  examinare, iar linia orbitomeatală (LOM) să fie perpendiculară pe masă.
+
+  • Din poziția în care planul mediosagital este perpendicular pe masă, capul este
+  rotit spre partea examinată, astfel încât planul mediosagital să formeze acum un
+  unghi de 45 grade cu masa de examinare. Astfel, porțiunea pietroasă a osului temporal
+  devine paralelă cu caseta.
+
+  • Gâtul este extins astfel încât linia orbitomeatală (LOM) să fie ridicată cu cinci
+  grade față de orizontală.
+
+  • O casetă de 18 × 24 cm este plasată transversal în Bucky și centrată la nivelul
+  care coincide cu raza centrală.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,7 +62,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Craniu).
+- Vizualizarea clară a întregii arii anatomice (craniu).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -59,18 +70,18 @@ sid_dff: 100 cm
 slug: rx-craniu-petrous-bone-oblica-anterioara-stenver-s-p269-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 269
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=269
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: 'Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
+  mas: Conform AEC / grosimii anatomice
+title: 'Rx Craniu Os temporal pietros: oblică anterioară (Stenver)'
 ---
-# Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)
+# Rx Craniu Os temporal pietros: oblică anterioară (Stenver)
 
 
 <div class="rx-meta-bar">
@@ -89,7 +100,7 @@ title: 'Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
 
     === "Indicații Clinice"
 
-        - 8 254 Craniu Petrous bone: Oblică Anterioară (Stenver’s)
+        - 8 254 Craniu Os temporal pietros: oblică anterioară (Stenver)
 
     === "Ghid Național IRIS"
 
@@ -103,15 +114,15 @@ title: 'Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
 
     ---
 
-    - **Poziție Pacient:** • pacientul poate fie Decubit ventral sau poate fie more comfortable being examined Ortostatism și facing stativ vertical Bucky.
-• middle de supra-orbital margin pe side being examined este centred la middle de Bucky.
-• gâtul este flectat astfel încât nose și forehead sunt în contact cu masa de examinare și linie orbitomeatală (LOM) este perpendicular pe table.
-• de la poziție where planul mediosagital este perpendicular pe table, capul este rotit spre side under examination, astfel încât plan mediosagital este now la un unghi de 45 grade la masa de examinare. This brings petrous part de temporal bone paralel cu casetă.
-• gâtul este extins astfel încât linie orbitomeatală (LOM) este raised five grade de la orizontal.
-• An 18  24-cm casetă este plasat transversely în Bucky și este centred la level la coincide cu raza centrală centrală.
-    - **Punct de Centrare Fascicul:** • A 12-grade cranial fascicul angulation este employed, i.e. la un unghi de seven grade la orbito-meatal plane, la separate occiput de la petrous bone.
-• Centre midway între extern occipital protuberance și extern auditory meatus cel mai depărtat de casetă.
-• Collimate la mastoid și petrous parts de temporal bone under examination.
+    - **Poziție Pacient:** • Pacientul poate fi în decubit ventral sau poate fi examinat mai confortabil în ortostatism, cu fața spre stativul vertical Bucky.
+• Mijlocul marginii supraorbitale de pe partea examinată este centrat la mijlocul stativului Bucky.
+• Gâtul este flectat astfel încât nasul și fruntea să fie în contact cu masa de examinare, iar linia orbitomeatală (LOM) să fie perpendiculară pe masă.
+• Din poziția în care planul mediosagital este perpendicular pe masă, capul este rotit spre partea examinată, astfel încât planul mediosagital să formeze acum un unghi de 45 grade cu masa de examinare. Astfel, porțiunea pietroasă a osului temporal devine paralelă cu caseta.
+• Gâtul este extins astfel încât linia orbitomeatală (LOM) să fie ridicată cu cinci grade față de orizontală.
+• O casetă de 18 × 24 cm este plasată transversal în Bucky și centrată la nivelul care coincide cu raza centrală.
+    - **Punct de Centrare Fascicul:** • Se utilizează o angulație craniană a fasciculului de 12 grade, adică la un unghi de șapte grade față de planul orbitomeatal, pentru a separa occiputul de osul pietros.
+• Se centrează la mijlocul distanței dintre protuberanța occipitală externă și conductul auditiv extern cel mai îndepărtat de casetă.
+• Se colimează la nivelul porțiunilor mastoidiană și pietroasă ale osului temporal examinat.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -122,19 +133,19 @@ title: 'Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Craniu).
+    - Vizualizarea clară a întregii arii anatomice (craniu).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -149,8 +160,8 @@ title: 'Rx Craniu Petrous bone: Oblică Anterioară (Stenver’s)'
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This incidență este now more sau less redundant due la superior diagnostic capabilities de CT.
-Semicircular canals Arcuate eminence Vestibule Cochlea intern auditory meatus Apex Carotid canal cap de Mandibulă Jugular fossa Sigmoid sinus proces mastoidian Styloid process 45° Petrous temporal bone casetă
+    Această incidență este acum mai mult sau mai puțin redundantă datorită capacităților diagnostice superioare ale CT.
+Canale semicirculare Eminență arcuată Vestibul Cohlee Conduct auditiv intern Apex Canal carotidian Capul mandibulei Fosa jugulară Sinus sigmoid Proces mastoidian Proces stiloid 45° Os temporal pietros Casetă
 
 
 ### 🖼️ Imagini
@@ -161,7 +172,7 @@ Semicircular canals Arcuate eminence Vestibule Cochlea intern auditory meatus Ap
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-petrous-bone-oblica-anterioara-stenver-s-p269-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -194,4 +205,4 @@ Semicircular canals Arcuate eminence Vestibule Cochlea intern auditory meatus Ap
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 269](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=269)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 269](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

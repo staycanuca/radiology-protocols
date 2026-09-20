@@ -3,36 +3,37 @@ author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale
   pacientului.
 category: coloana
-centering: perpendicular pe receptorul de imagine. Direct raza centrală 3 la 4 inches
-  (8 la 10 cm) posterior la spină iliacă antero-superioară (SIAS) (centering pentru
-  Sacru). Se centrează receptorul de imagine pe raza centrală.
+centering: Perpendicular pe receptorul de imagine. Se direcționează raza centrală
+  3 la 4 inches (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS)
+  (centrare pentru sacru). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology de Sacru și Coccis, including suspiciune de fractură
+- Patologia sacrului și coccisului, inclusiv suspiciunea de fractură
 images:
-- caption: Fig. 9.71 lateral Sacru și Coccis.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.71 lateral sacru
-    și coccis.)
+- caption: Fig. 9.71 sacru și coccis lateral.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.71 sacru
+    și coccis lateral.)
   url: assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 9.69 lateral Sacru și Coccis.
+- caption: Fig. 9.69 sacru și coccis lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.69
-    lateral sacru și coccis.)
+    sacru și coccis lateral.)
   url: assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 9.70 lateral Sacru și Coccis.
+- caption: Fig. 9.70 sacru și coccis lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.70
-    lateral sacru și coccis.)
+    sacru și coccis lateral.)
   url: assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: High amounts de secondary și scatter radiation sunt generated. colimare strânsă
-  este essential la reduce pacient dose și obtain highquality imagine. Fig. 9.71 lateral
-  Sacru și Coccis. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis lateral
-  Sacru și Coccis Fig. 9.69 lateral Sacru și Coccis. Fig. 9.70 lateral Sacru și Coccis.
-position: 'Pacient: Incidență de Profil (lateral) Place pacient în lateral Decubit
-  poziție, cu cap pe pillow, și genunchi flectat.; Regiune anatomică: Align axa longitudinală
-  de Sacru și Coccis la raza centrală și linia mediană mesei și/sau receptorul de
-  imagine (Figs. 9.69 și 9.70). Se verifică absența rotației: claviculele sunt riguros
-  echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis))
-  exists.'
+notes: Se generează cantități mari de radiație secundară și împrăștiată. Colimarea
+  strânsă este esențială pentru a reduce doza administrată pacientului și a obține
+  o imagine de înaltă calitate. Fig. 9.71 sacru și coccis lateral. Sacru și coccis
+  INCIDENȚĂ AP axială Sacru AP axial Coccis Sacru și coccis lateral Fig. 9.69 sacru
+  și coccis lateral. Fig. 9.70 sacru și coccis lateral.
+position: 'Pacient: Incidență de profil (lateral). Se plasează pacientul în decubit
+  lateral, cu capul pe pernă și genunchii flectați.; Regiune anatomică: Se aliniază
+  axa longitudinală a sacrului și coccisului cu raza centrală și linia mediană a mesei
+  și/sau receptorul de imagine (Fig. 9.69 și 9.70). Se verifică absența rotației:
+  claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui
+  sau bazinului, dacă bazinul există.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,29 +41,30 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sacru, L5–S1 articulație, și Coccis (Fig. 9.71). poziție
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated prin superimposed greater sciatic notches și femoral heads.'
-- Collimation field size la aria de interes diagnostic. expunere
-- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
-  și trabecular markings de Sacru și Coccis.
-- fără mișcare. 24 30 L
+- Sacru, articulația L5–S1 și coccis (Fig. 9.71). Poziție
+- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
+  indicată prin incizurile sciatice mari și capetele femurale suprapuse.'
+- Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+- Expunere optimă a receptorului de imagine și contrast. Evidențiere clară a marginilor
+  osoase și a desenului trabecular al sacrului și coccisului.
+- Fără mișcare. 24 30 L
 sid_dff: 100 cm
 slug: rx-sacru-si-coccis-profil-lateral-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 374
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 85-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx Sacru și Coccis Profil (Lateral)
+title: Rx sacru și coccis profil (lateral)
 ---
-# Rx Sacru și Coccis Profil (Lateral)
+# Rx sacru și coccis profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -81,7 +83,7 @@ title: Rx Sacru și Coccis Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Pathology de Sacru și Coccis, including suspiciune de fractură
+        - Patologia sacrului și coccisului, inclusiv suspiciunea de fractură
 
     === "Ghid Național IRIS"
 
@@ -95,8 +97,8 @@ title: Rx Sacru și Coccis Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Incidență de Profil (lateral) Place pacient în lateral Decubit poziție, cu cap pe pillow, și genunchi flectat.; Regiune anatomică: Align axa longitudinală de Sacru și Coccis la raza centrală și linia mediană mesei și/sau receptorul de imagine (Figs. 9.69 și 9.70). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Direct raza centrală 3 la 4 inches (8 la 10 cm) posterior la spină iliacă antero-superioară (SIAS) (centering pentru Sacru). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: Incidență de profil (lateral). Se plasează pacientul în decubit lateral, cu capul pe pernă și genunchii flectați.; Regiune anatomică: Se aliniază axa longitudinală a sacrului și coccisului cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.69 și 9.70). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă bazinul există.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se direcționează raza centrală 3 la 4 inches (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS) (centrare pentru sacru). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
@@ -111,19 +113,19 @@ title: Rx Sacru și Coccis Profil (Lateral)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sacru, L5–S1 articulație, și Coccis (Fig. 9.71). poziție
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin superimposed greater sciatic notches și femoral heads.
-    - Collimation field size la aria de interes diagnostic. expunere
-    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de Sacru și Coccis.
-    - fără mișcare. 24 30 L
+    - Sacru, articulația L5–S1 și coccis (Fig. 9.71). Poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, indicată prin incizurile sciatice mari și capetele femurale suprapuse.
+    - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+    - Expunere optimă a receptorului de imagine și contrast. Evidențiere clară a marginilor osoase și a desenului trabecular al sacrului și coccisului.
+    - Fără mișcare. 24 30 L
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -136,7 +138,7 @@ title: Rx Sacru și Coccis Profil (Lateral)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    High amounts de secondary și scatter radiation sunt generated. colimare strânsă este essential la reduce pacient dose și obtain highquality imagine. Fig. 9.71 lateral Sacru și Coccis. Sacru și Coccis ROUTINE AP axial Sacru AP axial Coccis lateral Sacru și Coccis Fig. 9.69 lateral Sacru și Coccis. Fig. 9.70 lateral Sacru și Coccis.
+    Se generează cantități mari de radiație secundară și împrăștiată. Colimarea strânsă este esențială pentru a reduce doza administrată pacientului și a obține o imagine de înaltă calitate. Fig. 9.71 sacru și coccis lateral. Sacru și coccis INCIDENȚĂ AP axială Sacru AP axial Coccis Sacru și coccis lateral Fig. 9.69 sacru și coccis lateral. Fig. 9.70 sacru și coccis lateral.
 
 
 ### 🖼️ Imagini
@@ -145,25 +147,25 @@ title: Rx Sacru și Coccis Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.71 lateral Sacru și Coccis.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 9.71 sacru și coccis lateral.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.71 lateral Sacru și Coccis.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.71 lateral sacru și coccis.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.69 lateral Sacru și Coccis.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.69 lateral Sacru și Coccis.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.69 lateral sacru și coccis.)</span></figcaption>
+<figcaption><strong>Fig. 9.71 sacru și coccis lateral.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.71 sacru și coccis lateral.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.70 lateral Sacru și Coccis.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 9.69 sacru și coccis lateral.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.70 lateral Sacru și Coccis.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.70 lateral sacru și coccis.)</span></figcaption>
+<figcaption><strong>Fig. 9.69 sacru și coccis lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.69 sacru și coccis lateral.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.70 sacru și coccis lateral.](../../assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 9.70 sacru și coccis lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.70 sacru și coccis lateral.)</span></figcaption>
 
 </figure>
 

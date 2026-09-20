@@ -3,23 +3,26 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• X-ray tube este poziționat spre side de fața where pathology este suspected
-  și înclinat downwards (caudal) la 65–70 grade through cheek.
+centering: '• Tubul de raze X este poziționat spre partea feței în care se suspectează
+  patologia și înclinat inferior (caudal) la 65–70 grade prin obraz.
 
-  • centring point este medial la outer canthus de eye but level cu pupil. It este
-  important la ensure that raza centrală este la drept-angles la dental arch.'
+  • Punctul de centrare este medial față de canthusul extern al ochiului, dar la nivelul
+  pupilei. Este important să se asigure că raza centrală este perpendiculară pe arcada
+  dentară.'
 clinical_indications:
-- Oblică Anterioară occlusal This incidență este used la imagine anterior region de
-  maxilla. tubul este centred over Profil (lateral)/canine region și este commonly
-  311 10 Radiografie Dentară Ocluzală Oblică occlusal de maxilla used combined cu
-  periapical film radiologic de this region la assist în localization de supernumerary
-  teeth, unerupted canines, etc.
+- 'Incidență ocluzală oblică anterioară. Această incidență este utilizată pentru examinarea
+  imagistică a regiunii anterioare a maxilarului. Tubul este centrat deasupra regiunii
+  laterale/canine. Incidența este utilizată frecvent împreună cu un film radiologic
+  periapical al acestei regiuni, pentru a ajuta la localizarea dinților supranumerari,
+  a caninilor neerupți etc. [Fragment intercalat în sursă: 311 10 Radiografie dentară
+  ocluzală — incidență ocluzală oblică a maxilarului.]'
 images:
-- caption: Radiografie Dentară Ocluzală
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie dentară ocluzală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_1.jpeg
-- caption: Oblică Anterioară occlusal de stâng maxilla evidențiind unerupted stâng
-    canine
+- caption: Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul
+    stâng neerupt.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_2.jpeg
@@ -33,36 +36,39 @@ images:
   url: assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_4.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• It este important nu la poziție tubul more laterally than centring point
-  outlined above, otherwise corp de zygoma will obscure important detail în aria de
-  interes diagnostic.
+notes: '• Este important ca tubul să nu fie poziționat mai lateral decât punctul de
+  centrare descris mai sus; în caz contrar, corpul zigomatic va obstrua detaliile
+  importante din aria de interes diagnostic.
 
-  • This este technically demanding incidență when using rectangular collimation.
+  • Această incidență este dificilă din punct de vedere tehnic atunci când se utilizează
+  colimarea dreptunghiulară.
 
-  Oblică Anterioară occlusal de stâng maxilla evidențiind unerupted stâng canine Oblică
-  Anterioară occlusal de drept maxilla. region has sustained trauma. upper drept central
-  și Profil (lateral) incisors sunt partially extruded upper stâng Oblică Posterioară
-  occlusal.
+  Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng
+  neerupt. Incidență ocluzală oblică anterioară a maxilei drepte. Regiunea a suferit
+  un traumatism. Incisivii centrali superior drept și profil (lateral) sunt parțial
+  extruzați. Incidență ocluzală oblică posterioară stângă.
 
-  During extraction de first permanent molar, palatal root has been displaced into
-  maxillary antrum. It este clar vizibil(e) overlying floor de nasal fossa Positioning
-  de pacientul și X-ray tube pentru drept upper Oblică Posterioară occlusal'
+  În timpul extracției primului molar permanent, rădăcina palatinală a fost deplasată
+  în antrul maxilar. Este clar vizibilă suprapusă peste planșeul fosei nazale. Poziționarea
+  pacientului și a tubului de raze X pentru incidența ocluzală oblică posterioară
+  superioară dreaptă.'
 position: '• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul
   mediosagital este vertical, iar planul ocluzal este orizontal.
 
-  • occlusal film radiologic este plasat flat în pacientul’s mouth pe side de interest.
+  • Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
 
-  • film radiologic lies pe occlusal surfaces de lower teeth, cu tubul side de film
-  radiologic facing vault de palate. convention pentru positioning film radiologic
-  este that axa longitudinală de film radiologic lies antero-posteriorly în oral cavity
-  (i.e. paralel cu plan mediosagital).
+  • Filmul se află pe suprafețele ocluzale ale dinților inferiori, cu partea filmului
+  orientată spre bolta palatină. Convenția pentru poziționarea filmului este ca axa
+  longitudinală a filmului să fie orientată anteroposterior în cavitatea orală (adică
+  paralelă cu planul mediosagital).
 
-  • edge de film radiologic adjacent la cheek trebuie să extend 1cm Profil (lateral)
-  la buccal surfaces de posterior teeth la fie imaged.
+  • Marginea filmului adiacentă obrazului trebuie să se extindă cu 1cm profil (lateral)
+  față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
 
-  • It trebuie să fie poziționat ca far back ca pacientul will tolerate.
+  • Acesta trebuie poziționat cât mai posterior posibil, în limita toleranței pacientului.
 
-  • pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.'
+  • Pacientul trebuie să muște ușor, cu dinții apropiați, pentru a evita imprimarea
+  unor urme de presiune pe film.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -71,7 +77,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Oblică Anterioară occlusal).
+- Vizualizarea clară întregii arii anatomice (incidență ocluzală oblică anterioară).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -79,18 +85,18 @@ sid_dff: 100 cm
 slug: rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 326
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=326
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie dentară ocluzală oblică anterioară a maxilei.
 ---
-# Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
+# Radiografie dentară ocluzală oblică anterioară a maxilei.
 
 
 <div class="rx-meta-bar">
@@ -109,7 +115,7 @@ title: Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
 
     === "Indicații Clinice"
 
-        - Oblică Anterioară occlusal This incidență este used la imagine anterior region de maxilla. tubul este centred over Profil (lateral)/canine region și este commonly 311 10 Radiografie Dentară Ocluzală Oblică occlusal de maxilla used combined cu periapical film radiologic de this region la assist în localization de supernumerary teeth, unerupted canines, etc.
+        - Incidență ocluzală oblică anterioară. Această incidență este utilizată pentru examinarea imagistică a regiunii anterioare a maxilarului. Tubul este centrat deasupra regiunii laterale/canine. Incidența este utilizată frecvent împreună cu un film radiologic periapical al acestei regiuni, pentru a ajuta la localizarea dinților supranumerari, a caninilor neerupți etc. [Fragment intercalat în sursă: 311 10 Radiografie dentară ocluzală — incidență ocluzală oblică a maxilarului.]
 
     === "Ghid Național IRIS"
 
@@ -124,13 +130,13 @@ title: Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
     ---
 
     - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• occlusal film radiologic este plasat flat în pacientul’s mouth pe side de interest.
-• film radiologic lies pe occlusal surfaces de lower teeth, cu tubul side de film radiologic facing vault de palate. convention pentru positioning film radiologic este that axa longitudinală de film radiologic lies antero-posteriorly în oral cavity (i.e. paralel cu plan mediosagital).
-• edge de film radiologic adjacent la cheek trebuie să extend 1cm Profil (lateral) la buccal surfaces de posterior teeth la fie imaged.
-• It trebuie să fie poziționat ca far back ca pacientul will tolerate.
-• pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
-    - **Punct de Centrare Fascicul:** • X-ray tube este poziționat spre side de fața where pathology este suspected și înclinat downwards (caudal) la 65–70 grade through cheek.
-• centring point este medial la outer canthus de eye but level cu pupil. It este important la ensure that raza centrală este la drept-angles la dental arch.
+• Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
+• Filmul se află pe suprafețele ocluzale ale dinților inferiori, cu partea filmului orientată spre bolta palatină. Convenția pentru poziționarea filmului este ca axa longitudinală a filmului să fie orientată anteroposterior în cavitatea orală (adică paralelă cu planul mediosagital).
+• Marginea filmului adiacentă obrazului trebuie să se extindă cu 1cm profil (lateral) față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
+• Acesta trebuie poziționat cât mai posterior posibil, în limita toleranței pacientului.
+• Pacientul trebuie să muște ușor, cu dinții apropiați, pentru a evita imprimarea unor urme de presiune pe film.
+    - **Punct de Centrare Fascicul:** • Tubul de raze X este poziționat spre partea feței în care se suspectează patologia și înclinat inferior (caudal) la 65–70 grade prin obraz.
+• Punctul de centrare este medial față de canthusul extern al ochiului, dar la nivelul pupilei. Este important să se asigure că raza centrală este perpendiculară pe arcada dentară.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -141,19 +147,19 @@ title: Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Oblică Anterioară occlusal).
+    - Vizualizarea clară întregii arii anatomice (incidență ocluzală oblică anterioară).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -168,10 +174,10 @@ title: Rx Oblică Anterioară occlusal Oblică occlusal of the maxilla
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • It este important nu la poziție tubul more laterally than centring point outlined above, otherwise corp de zygoma will obscure important detail în aria de interes diagnostic.
-• This este technically demanding incidență when using rectangular collimation.
-Oblică Anterioară occlusal de stâng maxilla evidențiind unerupted stâng canine Oblică Anterioară occlusal de drept maxilla. region has sustained trauma. upper drept central și Profil (lateral) incisors sunt partially extruded upper stâng Oblică Posterioară occlusal.
-During extraction de first permanent molar, palatal root has been displaced into maxillary antrum. It este clar vizibil(e) overlying floor de nasal fossa Positioning de pacientul și X-ray tube pentru drept upper Oblică Posterioară occlusal
+    • Este important ca tubul să nu fie poziționat mai lateral decât punctul de centrare descris mai sus; în caz contrar, corpul zigomatic va obstrua detaliile importante din aria de interes diagnostic.
+• Această incidență este dificilă din punct de vedere tehnic atunci când se utilizează colimarea dreptunghiulară.
+Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng neerupt. Incidență ocluzală oblică anterioară a maxilei drepte. Regiunea a suferit un traumatism. Incisivii centrali superior drept și profil (lateral) sunt parțial extruzați. Incidență ocluzală oblică posterioară stângă.
+În timpul extracției primului molar permanent, rădăcina palatinală a fost deplasată în antrul maxilar. Este clar vizibilă suprapusă peste planșeul fosei nazale. Poziționarea pacientului și a tubului de raze X pentru incidența ocluzală oblică posterioară superioară dreaptă.
 
 
 ### 🖼️ Imagini
@@ -180,17 +186,17 @@ During extraction de first permanent molar, palatal root has been displaced into
 
 <figure class="protocol-image-card" markdown>
 
-![Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_1.jpeg)
+![Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_1.jpeg)
 
-<figcaption><strong>Radiografie Dentară Ocluzală</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie dentară ocluzală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Oblică Anterioară occlusal de stâng maxilla evidențiind unerupted stâng canine](../../assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_2.jpeg)
+![Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng neerupt.](../../assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_2.jpeg)
 
-<figcaption><strong>Oblică Anterioară occlusal de stâng maxilla evidențiind unerupted stâng canine</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng neerupt.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -223,4 +229,4 @@ During extraction de first permanent molar, palatal root has been displaced into
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 326](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=326)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 326](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

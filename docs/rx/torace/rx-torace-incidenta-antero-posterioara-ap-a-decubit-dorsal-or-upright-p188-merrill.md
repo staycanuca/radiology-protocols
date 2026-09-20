@@ -9,10 +9,10 @@ centering: perpendicular pe axa longitudinală de Stern și center de receptorul
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 189, imaginea 1
+- caption: Merrill — pagina 189, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p189_fig1.png
-- caption: Merrill — pagina PDF 190, imaginea 2
+- caption: Merrill — pagina 190, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p190_fig2.png
 last_updated: '2026-09-16'
@@ -143,9 +143,9 @@ source_sections:
 
     43 cm) longitudinal sau transversal pentru hypersthenic pacienți.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     188–190'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=188
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
@@ -242,17 +242,17 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 189, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p189_fig1.png)
+![Merrill — pagina 189, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p189_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 189, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 189, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 190, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p190_fig2.png)
+![Merrill — pagina 190, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p190_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 190, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 190, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -269,7 +269,7 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 188–190](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=188)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 188–190](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

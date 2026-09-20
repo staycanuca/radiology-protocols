@@ -2,41 +2,41 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: perpendicular pe spinal fusion area sau L3.
+centering: perpendicular pe zona fuziunii vertebrale sau pe L3.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 776, imaginea 1
+- caption: Merrill — pagina 776, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p776_fig1.png
-- caption: Merrill — pagina PDF 777, imaginea 2
+- caption: Merrill — pagina 777, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p777_fig2.png
-- caption: Merrill — pagina PDF 778, imaginea 3
+- caption: Merrill — pagina 778, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p778_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se ajustează pacient în ortostatism sau lateral Decubit poziție. se centrează
-  plan mediocoronal la linia mediană grilă.; Flexion Se instruiește pacientul să bend
-  forward, la se flectează coloană vertebrală ca much ca possible (Fig. 9.145). Extension
-  Se instruiește pacientul să bend backward, la se extinde coloană vertebrală ca much
-  ca possible (Fig. 9.146). se imobilizează pacient la prevent movement, if needed.
-  se centrează receptorul de imagine la nivelul spinal fusion. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: se ajustează pacientul în ortostatism sau în decubit lateral. Se centrează
+  planul mediocoronal pe linia mediană a grilei.; Flexie Se instruiește pacientul
+  să se aplece înainte, flectând coloana vertebrală cât mai mult posibil (Fig. 9.145).
+  Extensie Se instruiește pacientul să se aplece înapoi, extinzând coloana vertebrală
+  cât mai mult posibil (Fig. 9.146). Se imobilizează pacientul pentru a preveni mișcarea,
+  dacă este necesar. Se centrează receptorul de imagine la nivelul fuziunii vertebrale.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Site de spinal fusion în center de radiografie
-- Absența rotației anatomice (simetrie bilaterală perfectă) de coloană vertebrală
-  (posterior margins de vertebral corpuri sunt superimposed)
-- Hyperflexion și hyperextension identification markeri correctly used pentru fiecare
-  respective incidență
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Sediul fuziunii vertebrale în centrul radiografiei
+- Absența rotației anatomice (simetrie bilaterală perfectă) a coloanei vertebrale
+  (marginile posterioare ale corpurilor vertebrale sunt suprapuse)
+- Markerii de identificare a hiperflexiei și hiperextensiei utilizați corect pentru
+  fiecare incidență respectivă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill
 source_pages:
@@ -46,63 +46,60 @@ source_pages:
 - 778
 - 779
 source_sections:
-  anatomy: 'Two lateral incidențe de coloană vertebrală sunt taken în flexion (Fig.
-    9.147A) și extension (see Fig. 9.147B), la determine whether mișcare este present
-    în
-
-    area de spinal fusion, indicating nonunion, sau la localize herniated disk ca
-    vizualizat prin limitation de mișcare la site de lesion.'
+  anatomy: Se efectuează două incidențe de profil ale coloanei vertebrale în flexie
+    (Fig. 9.147A) și extensie (vezi Fig. 9.147B), pentru a determina dacă există mișcare
+    în zona fuziunii vertebrale, indicând lipsa consolidării, sau pentru a localiza
+    discul herniat, evidențiat prin limitarea mișcării la sediul leziunii.
   collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe spinal fusion area sau L3.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe zona fuziunii vertebrale sau pe L3.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Site de spinal fusion în center de radiografie
+    • Sediul fuziunii vertebrale în centrul radiografiei
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de coloană vertebrală
-    (posterior margins de vertebral corpuri sunt superimposed)
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a coloanei vertebrale
+    (marginile posterioare ale corpurilor vertebrale sunt suprapuse)
 
-    • Hyperflexion și hyperextension identification markeri correctly used pentru
-    fiecare respective incidență
+    • Markerii de identificare a hiperflexiei și hiperextensiei utilizați corect pentru
+    fiecare incidență respectivă
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: 'Flexion
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: 'Flexie
 
-    • Se instruiește pacientul să bend forward, la se flectează coloană vertebrală
-    ca much ca possible (Fig. 9.145).
+    • Se instruiește pacientul să se aplece înainte, flectând coloana vertebrală cât
+    mai mult posibil (Fig. 9.145).
 
-    Extension
+    Extensie
 
-    • Se instruiește pacientul să bend backward, la se extinde coloană vertebrală
-    ca much ca possible (Fig. 9.146).
+    • Se instruiește pacientul să se aplece înapoi, extinzând coloana vertebrală cât
+    mai mult posibil (Fig. 9.146).
 
-    • se imobilizează pacient la prevent movement, if needed.
+    • Se imobilizează pacientul pentru a preveni mișcarea, dacă este necesar.
 
-    • se centrează receptorul de imagine la nivelul spinal fusion.
+    • Se centrează receptorul de imagine la nivelul fuziunii vertebrale.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se ajustează pacient în ortostatism sau lateral recumbent poziție.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• se ajustează pacientul în ortostatism sau în decubit lateral.
 
-    • se centrează plan mediocoronal la linia mediană grilă.'
+    • se centrează planul mediocoronal pe linia mediană a grilei.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches
-
-    (35 × 43 cm) longitudinal pentru fiecare expunere.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; placa pentru raza centrală: 14 × 17 inches
+    (35 × 43 cm), dispusă longitudinal pentru fiecare expunere.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 775–779
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=775
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 775–779
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: 'Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) — Profil
-  (Drept sau Stâng) Flexion and extension (Merrill)'
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: 'Rx Coloană Lombară: Fuziune vertebrală — Incidență de profil (lateral) — Profil
+  (drept sau stâng), flexie și extensie (Merrill)'
 ---
-# Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) Flexion and extension (Merrill)
+# Rx Coloană Lombară: Fuziune vertebrală — Incidență de profil (lateral) — Profil (drept sau stâng), flexie și extensie (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -135,8 +132,8 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) 
 
     ---
 
-    - **Poziție Pacient:** se ajustează pacient în ortostatism sau lateral Decubit poziție. se centrează plan mediocoronal la linia mediană grilă.; Flexion Se instruiește pacientul să bend forward, la se flectează coloană vertebrală ca much ca possible (Fig. 9.145). Extension Se instruiește pacientul să bend backward, la se extinde coloană vertebrală ca much ca possible (Fig. 9.146). se imobilizează pacient la prevent movement, if needed. se centrează receptorul de imagine la nivelul spinal fusion. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe spinal fusion area sau L3.
+    - **Poziție Pacient:** se ajustează pacientul în ortostatism sau în decubit lateral. Se centrează planul mediocoronal pe linia mediană a grilei.; Flexie Se instruiește pacientul să se aplece înainte, flectând coloana vertebrală cât mai mult posibil (Fig. 9.145). Extensie Se instruiește pacientul să se aplece înapoi, extinzând coloana vertebrală cât mai mult posibil (Fig. 9.146). Se imobilizează pacientul pentru a preveni mișcarea, dacă este necesar. Se centrează receptorul de imagine la nivelul fuziunii vertebrale. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe zona fuziunii vertebrale sau pe L3.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -152,19 +149,19 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Site de spinal fusion în center de radiografie
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de coloană vertebrală (posterior margins de vertebral corpuri sunt superimposed)
-    - Hyperflexion și hyperextension identification markeri correctly used pentru fiecare respective incidență
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Sediul fuziunii vertebrale în centrul radiografiei
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a coloanei vertebrale (marginile posterioare ale corpurilor vertebrale sunt suprapuse)
+    - Markerii de identificare a hiperflexiei și hiperextensiei utilizați corect pentru fiecare incidență respectivă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -184,25 +181,25 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 776, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p776_fig1.png)
+![Merrill — pagina 776, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p776_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 776, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 777, imaginea 2](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p777_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 777, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 776, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 778, imaginea 3](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p778_fig3.png)
+![Merrill — pagina 777, imaginea 2](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p777_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 778, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 777, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 778, imaginea 3](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p778_fig3.png)
+
+<figcaption><strong>Merrill — pagina 778, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -219,53 +216,51 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență de Profil (Lateral) 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 775–779](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=775)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 775–779](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Two lateral incidențe de coloană vertebrală sunt taken în flexion (Fig. 9.147A) și extension (see Fig. 9.147B), la determine whether mișcare este present în
-area de spinal fusion, indicating nonunion, sau la localize herniated disk ca vizualizat prin limitation de mișcare la site de lesion.
+Se efectuează două incidențe de profil ale coloanei vertebrale în flexie (Fig. 9.147A) și extensie (vezi Fig. 9.147B), pentru a determina dacă există mișcare în zona fuziunii vertebrale, indicând lipsa consolidării, sau pentru a localiza discul herniat, evidențiat prin limitarea mișcării la sediul leziunii.
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe spinal fusion area sau L3.
+• perpendicular pe zona fuziunii vertebrale sau pe L3.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Site de spinal fusion în center de radiografie
-• Absența rotației anatomice (simetrie bilaterală perfectă) de coloană vertebrală (posterior margins de vertebral corpuri sunt superimposed)
-• Hyperflexion și hyperextension identification markeri correctly used pentru fiecare respective incidență
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Sediul fuziunii vertebrale în centrul radiografiei
+• Absența rotației anatomice (simetrie bilaterală perfectă) a coloanei vertebrale (marginile posterioare ale corpurilor vertebrale sunt suprapuse)
+• Markerii de identificare a hiperflexiei și hiperextensiei utilizați corect pentru fiecare incidență respectivă
+• Detalii osoase trabeculare și țesuturi moi adiacente
 
 ### part_pos
 
-Flexion
-• Se instruiește pacientul să bend forward, la se flectează coloană vertebrală ca much ca possible (Fig. 9.145).
-Extension
-• Se instruiește pacientul să bend backward, la se extinde coloană vertebrală ca much ca possible (Fig. 9.146).
-• se imobilizează pacient la prevent movement, if needed.
-• se centrează receptorul de imagine la nivelul spinal fusion.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+Flexie
+• Se instruiește pacientul să se aplece înainte, flectând coloana vertebrală cât mai mult posibil (Fig. 9.145).
+Extensie
+• Se instruiește pacientul să se aplece înapoi, extinzând coloana vertebrală cât mai mult posibil (Fig. 9.146).
+• Se imobilizează pacientul pentru a preveni mișcarea, dacă este necesar.
+• Se centrează receptorul de imagine la nivelul fuziunii vertebrale.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se ajustează pacient în ortostatism sau lateral recumbent poziție.
-• se centrează plan mediocoronal la linia mediană grilă.
+• se ajustează pacientul în ortostatism sau în decubit lateral.
+• se centrează planul mediocoronal pe linia mediană a grilei.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches
-(35 × 43 cm) longitudinal pentru fiecare expunere.
+poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; placa pentru raza centrală: 14 × 17 inches (35 × 43 cm), dispusă longitudinal pentru fiecare expunere.
 

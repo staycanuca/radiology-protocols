@@ -112,7 +112,7 @@ sid_dff: 100 cm
 slug: rx-picior-incidente-standard-de-baza-p123-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 123
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=123
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -296,4 +296,4 @@ pentru non-ambulant/wheelchair-bound pacienți, caseta poate fie plasat pe pad s
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 123](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=123)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 123](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

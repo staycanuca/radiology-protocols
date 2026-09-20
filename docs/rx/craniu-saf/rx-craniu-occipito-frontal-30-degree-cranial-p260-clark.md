@@ -3,31 +3,32 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• raza centrală este înclinat cranially so its makes angle de 30 grade
-  la orbito-meatal plane.
+centering: '• Raza centrală este înclinată cranial, astfel încât formează un unghi
+  de 30 grade față de planul orbitomeatal.
 
-  • se ajustează collimation field, astfel încât whole de occipital bone și parietal
-  bones up la vertex sunt included within field. Avoid including eyes în primary fascicul.
-  Laterally, skin margins trebuie să also fie included within field.
+  • Câmpul de colimare se ajustează astfel încât întregul os occipital și oasele parietale
+  până la vertex să fie incluse în câmp. Evitați includerea ochilor în fasciculul
+  primar. Lateral, marginile cutanate trebuie, de asemenea, incluse în câmp.
 
 
-  • raza centrală este orientat la drept-angles la orbito-meatal plane și centred
-  midway între extern auditory meatuses.'
+  • Raza centrală este orientată în unghi drept față de planul orbitomeatal și centrată
+  la jumătatea distanței dintre conductele auditive externe.'
 clinical_indications:
-- gaură occipitală mare (foramen magnum) trebuie să fie seen clearly pe this incidență.
-  margins poate fie obscured prin incorrect angulation, thus hiding important suspiciune
+- Gaura occipitală mare (foramen magnum) trebuie vizualizată clar pe această incidență.
+  Marginile pot fi mascate de angulația incorectă, ascunzând astfel o suspiciune importantă
   de fractură.
-- zygoma poate fie seen well pe this incidență. If suspiciune de fracturăd, this gives
-  clue la presence de associated facial injury.
-- Erosion de bony margins de Craniu-base foramina este important indicator de destruction
-  prin proces proliferativ tumoral. Under-tilt, over-tilt și rotație reduce visibility
-  de these foramina.
-- This este now uncommon incidență, ca CT evidențiază more completely bony detail
-  de Craniu base în Axială și coronal planes. MRI offers multiplanar imaging cu superb
-  detail de soft tissues ca well ca Craniu base.
+- Zigomul poate fi vizualizat bine pe această incidență. Dacă există suspiciune de
+  fractură, aceasta oferă un indiciu privind prezența unei leziuni faciale asociate.
+- Eroziunea marginilor osoase ale foramina bazei craniului este un indicator important
+  al distrucției printr-un proces proliferativ tumoral. Înclinarea insuficientă, înclinarea
+  excesivă și rotația reduc vizibilitatea acestor foramina.
+- Aceasta este în prezent o incidență neobișnuită, deoarece CT evidențiază mai complet
+  detaliile osoase ale bazei craniului în planurile axial și coronal. RMN oferă imagini
+  multiplanare cu detalii excelente ale țesuturilor moi, precum și ale bazei craniului.
 images:
-- caption: thus hiding important suspiciune de fractură.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: ascunzând astfel o suspiciune importantă de fractură.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-occipito-frontal-30-degree-cranial-p260-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -51,47 +52,49 @@ images:
   url: assets/images/protocols/clark/rx-craniu-occipito-frontal-30-degree-cranial-p260-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• This incidență will carry lower radiation dose la sensitive structures than
-  equivalent Antero-posterior (AP) incidență.
+notes: '• Această incidență implică o doză de radiație mai mică pentru structurile
+  sensibile decât incidența anteroposterioară (AP) echivalentă.
 
-  • Positioning poate fie easier la undertake pe pacienți who find it difficult la
-  achieve poziție required pentru equivalent Antero-posterior (AP) half-Axială incidențe.
+  • Poziționarea poate fi mai ușor realizată la pacienții cărora le este dificil să
+  obțină poziția necesară pentru incidențele anteroposterioare (AP) semi-axiale echivalente.
 
-  30° Reverse Towne’s Reverse Towne’s, alternative positioning Under înclinat Towne’s'
-position: '• This incidență este usually undertaken cu pacientul în Ortostatism poziție
-  și facing Ortostatism Bucky, although it poate fie performed Decubit ventral.
+  30° Towne inversă Towne inversă, poziționare alternativă Towne subînclinată'
+position: '• Această incidență se efectuează de obicei cu pacientul în ortostatism,
+  cu fața spre stativul Bucky vertical, deși poate fi efectuată și în decubit ventral.
 
-  • Initially, pacientul este asked la place their nose și forehead pe masa radiologică.
-  capul este ajustat la bring planul mediosagital la drept-angles la caseta și so
-  it este coincident cu its midline.
+  • Inițial, pacientului i se cere să-și așeze nasul și fruntea pe masa radiologică.
+  Capul este ajustat pentru a aduce planul mediosagital în unghi drept față de casetă,
+  astfel încât să coincidă cu linia mediană a acesteia.
 
-  • orbito-meatal baseline trebuie să fie perpendicular pe casetă.
+  • Linia de bază orbitomeatală trebuie să fie perpendiculară pe casetă.
 
-  • pacientul poate place their mâini pe Bucky pentru stability.
+  • Pacientul își poate așeza mâinile pe Bucky pentru stabilitate.
 
 
-  pacientul poate fie imaged Ortostatism sau Decubit dorsal. If pacientul este unsteady,
-  then Decubit dorsal technique este advisable.
+  Pacientul poate fi examinat în ortostatism sau în decubit dorsal. Dacă pacientul
+  este instabil, se recomandă tehnica în decubit dorsal.
 
   Decubit dorsal
 
-  • pacientul’s umeri sunt raised și gâtul este hyperextended la bring vertex de Craniu
-  în contact cu casetă cu grilă antidifuzoare sau table.
+  • Umerii pacientului sunt ridicați, iar gâtul este hiperextins pentru a aduce vertexul
+  craniului în contact cu caseta cu grilă antidifuzoare sau cu masa.
 
-  • capul este ajustat la bring extern auditory meatuses echidistant față de caseta.
+  • Capul este ajustat pentru a aduce conductele auditive externe la distanțe egale
+  față de casetă.
 
-  • planul mediosagital trebuie să fie la drept-angles la caseta along its midline.
+  • Planul mediosagital trebuie să fie în unghi drept față de casetă, de-a lungul
+  liniei sale mediane.
 
-  • orbito-meatal plane trebuie să fie ca near ca possible paralel cu casetă.
+  • Planul orbitomeatal trebuie să fie cât mai paralel posibil cu caseta.
 
   Ortostatism
 
-  • pacientul stă așezat short distance away de la stativ vertical Bucky.
+  • Pacientul stă așezat la mică distanță de stativul vertical Bucky.
 
-  • gâtul este hyperextended la allow capul la fall back until vertex de Craniu makes
-  contact cu centre de stativ vertical Bucky.
+  • Gâtul este hiperextins pentru a permite capului să cadă posterior până când vertexul
+  craniului intră în contact cu centrul stativului vertical Bucky.
 
-  • remainder de positioning este ca described pentru Decubit dorsal technique.'
+  • Restul poziționării este cel descris pentru tehnica în decubit dorsal.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -100,41 +103,42 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- șa turcească de sphenoid bone este projected within gaură occipitală mare (foramen
-  magnum).
-- imagine trebuie să include toate de occipital bone și posterior parts de parietal
-  bone, și lambdoidal suture trebuie să fie visualized clearly.
-- Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that
-  șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-- correct incidență will show angles de Mandibulă clear de petrous portions de temporal
-  bone.
-- foramina de middle cranial fossa trebuie să fie seen symmetrically either side de
-  linia mediană.
-- 'Erori de evitat / remedii: See Half-Axială, fronto-occipital 30 grade caudal –
-  Towne’s incidență (p. 244).'
-- 'Erori de evitat / remedii: This incidență involves positioning that este very uncomfortable
-  pentru pacientul. It este well worth ensuring that equipment este prepared fully
-  before commencing examination, astfel încât pacient need maintain poziție pentru
-  only minimum period.'
-- 'Erori de evitat / remedii: poziție este achieved much more easily if Craniu unit
-  este used, since object table și tube poate fie ajustat la minimize hyperextension
-  de gâtul. Submento-vertical (SMV) using Craniu unit'
+- Șaua turcească a osului sfenoid este proiectată în interiorul găurii occipitale
+  mari (foramen magnum).
+- Imaginea trebuie să includă întregul os occipital și porțiunile posterioare ale
+  oaselor parietale, iar sutura lambdoidă trebuie vizualizată clar.
+- Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea
+  faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+- Incidența corectă va evidenția clar unghiurile mandibulei față de porțiunile pietroase
+  ale oaselor temporale.
+- Foramina fosei craniene mijlocii trebuie vizualizate simetric de o parte și de alta
+  a liniei mediane.
+- 'Erori de evitat / remedii: Vezi incidența semi-axială fronto-occipitală cu 30 grade
+  caudal – incidența Towne (p. 244).'
+- 'Erori de evitat / remedii: Această incidență implică o poziționare foarte incomodă
+  pentru pacient. Merită să vă asigurați că echipamentul este pregătit complet înainte
+  de începerea examinării, astfel încât pacientul să fie nevoit să mențină poziția
+  doar pentru perioada minimă.'
+- 'Erori de evitat / remedii: Poziția se obține mult mai ușor dacă se utilizează unitatea
+  pentru craniu, deoarece masa pentru obiect și tubul pot fi ajustate pentru a minimiza
+  hiperextensia gâtului. Incidență submento-verticală (SMV) utilizând unitatea pentru
+  craniu'
 sid_dff: 100 cm
 slug: rx-craniu-occipito-frontal-30-degree-cranial-p260-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 260
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=260
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Occipito - frontal 30 - degree cranial
+  mas: Conform AEC / grosimii anatomice
+title: 'Radiografia craniului: incidență occipitofrontală cu 30 grade cranial'
 ---
-# Rx Craniu Occipito - frontal 30 - degree cranial
+# Radiografia craniului: incidență occipitofrontală cu 30 grade cranial
 
 
 <div class="rx-meta-bar">
@@ -153,10 +157,10 @@ title: Rx Craniu Occipito - frontal 30 - degree cranial
 
     === "Indicații Clinice"
 
-        - gaură occipitală mare (foramen magnum) trebuie să fie seen clearly pe this incidență. margins poate fie obscured prin incorrect angulation, thus hiding important suspiciune de fractură.
-        - zygoma poate fie seen well pe this incidență. If suspiciune de fracturăd, this gives clue la presence de associated facial injury.
-        - Erosion de bony margins de Craniu-base foramina este important indicator de destruction prin proces proliferativ tumoral. Under-tilt, over-tilt și rotație reduce visibility de these foramina.
-        - This este now uncommon incidență, ca CT evidențiază more completely bony detail de Craniu base în Axială și coronal planes. MRI offers multiplanar imaging cu superb detail de soft tissues ca well ca Craniu base.
+        - Gaura occipitală mare (foramen magnum) trebuie vizualizată clar pe această incidență. Marginile pot fi mascate de angulația incorectă, ascunzând astfel o suspiciune importantă de fractură.
+        - Zigomul poate fi vizualizat bine pe această incidență. Dacă există suspiciune de fractură, aceasta oferă un indiciu privind prezența unei leziuni faciale asociate.
+        - Eroziunea marginilor osoase ale foramina bazei craniului este un indicator important al distrucției printr-un proces proliferativ tumoral. Înclinarea insuficientă, înclinarea excesivă și rotația reduc vizibilitatea acestor foramina.
+        - Aceasta este în prezent o incidență neobișnuită, deoarece CT evidențiază mai complet detaliile osoase ale bazei craniului în planurile axial și coronal. RMN oferă imagini multiplanare cu detalii excelente ale țesuturilor moi, precum și ale bazei craniului.
 
     === "Ghid Național IRIS"
 
@@ -170,25 +174,25 @@ title: Rx Craniu Occipito - frontal 30 - degree cranial
 
     ---
 
-    - **Poziție Pacient:** • This incidență este usually undertaken cu pacientul în Ortostatism poziție și facing Ortostatism Bucky, although it poate fie performed Decubit ventral.
-• Initially, pacientul este asked la place their nose și forehead pe masa radiologică. capul este ajustat la bring planul mediosagital la drept-angles la caseta și so it este coincident cu its midline.
-• orbito-meatal baseline trebuie să fie perpendicular pe casetă.
-• pacientul poate place their mâini pe Bucky pentru stability.
+    - **Poziție Pacient:** • Această incidență se efectuează de obicei cu pacientul în ortostatism, cu fața spre stativul Bucky vertical, deși poate fi efectuată și în decubit ventral.
+• Inițial, pacientului i se cere să-și așeze nasul și fruntea pe masa radiologică. Capul este ajustat pentru a aduce planul mediosagital în unghi drept față de casetă, astfel încât să coincidă cu linia mediană a acesteia.
+• Linia de bază orbitomeatală trebuie să fie perpendiculară pe casetă.
+• Pacientul își poate așeza mâinile pe Bucky pentru stabilitate.
 
-pacientul poate fie imaged Ortostatism sau Decubit dorsal. If pacientul este unsteady, then Decubit dorsal technique este advisable.
+Pacientul poate fi examinat în ortostatism sau în decubit dorsal. Dacă pacientul este instabil, se recomandă tehnica în decubit dorsal.
 Decubit dorsal
-• pacientul’s umeri sunt raised și gâtul este hyperextended la bring vertex de Craniu în contact cu casetă cu grilă antidifuzoare sau table.
-• capul este ajustat la bring extern auditory meatuses echidistant față de caseta.
-• planul mediosagital trebuie să fie la drept-angles la caseta along its midline.
-• orbito-meatal plane trebuie să fie ca near ca possible paralel cu casetă.
+• Umerii pacientului sunt ridicați, iar gâtul este hiperextins pentru a aduce vertexul craniului în contact cu caseta cu grilă antidifuzoare sau cu masa.
+• Capul este ajustat pentru a aduce conductele auditive externe la distanțe egale față de casetă.
+• Planul mediosagital trebuie să fie în unghi drept față de casetă, de-a lungul liniei sale mediane.
+• Planul orbitomeatal trebuie să fie cât mai paralel posibil cu caseta.
 Ortostatism
-• pacientul stă așezat short distance away de la stativ vertical Bucky.
-• gâtul este hyperextended la allow capul la fall back until vertex de Craniu makes contact cu centre de stativ vertical Bucky.
-• remainder de positioning este ca described pentru Decubit dorsal technique.
-    - **Punct de Centrare Fascicul:** • raza centrală este înclinat cranially so its makes angle de 30 grade la orbito-meatal plane.
-• se ajustează collimation field, astfel încât whole de occipital bone și parietal bones up la vertex sunt included within field. Avoid including eyes în primary fascicul. Laterally, skin margins trebuie să also fie included within field.
+• Pacientul stă așezat la mică distanță de stativul vertical Bucky.
+• Gâtul este hiperextins pentru a permite capului să cadă posterior până când vertexul craniului intră în contact cu centrul stativului vertical Bucky.
+• Restul poziționării este cel descris pentru tehnica în decubit dorsal.
+    - **Punct de Centrare Fascicul:** • Raza centrală este înclinată cranial, astfel încât formează un unghi de 30 grade față de planul orbitomeatal.
+• Câmpul de colimare se ajustează astfel încât întregul os occipital și oasele parietale până la vertex să fie incluse în câmp. Evitați includerea ochilor în fasciculul primar. Lateral, marginile cutanate trebuie, de asemenea, incluse în câmp.
 
-• raza centrală este orientat la drept-angles la orbito-meatal plane și centred midway între extern auditory meatuses.
+• Raza centrală este orientată în unghi drept față de planul orbitomeatal și centrată la jumătatea distanței dintre conductele auditive externe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -199,26 +203,26 @@ Ortostatism
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - șa turcească de sphenoid bone este projected within gaură occipitală mare (foramen magnum).
-    - imagine trebuie să include toate de occipital bone și posterior parts de parietal bone, și lambdoidal suture trebuie să fie visualized clearly.
-    - Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-    - correct incidență will show angles de Mandibulă clear de petrous portions de temporal bone.
-    - foramina de middle cranial fossa trebuie să fie seen symmetrically either side de linia mediană.
-    - Erori de evitat / remedii: See Half-Axială, fronto-occipital 30 grade caudal – Towne’s incidență (p. 244).
-    - Erori de evitat / remedii: This incidență involves positioning that este very uncomfortable pentru pacientul. It este well worth ensuring that equipment este prepared fully before commencing examination, astfel încât pacient need maintain poziție pentru only minimum period.
-    - Erori de evitat / remedii: poziție este achieved much more easily if Craniu unit este used, since object table și tube poate fie ajustat la minimize hyperextension de gâtul. Submento-vertical (SMV) using Craniu unit
+    - Șaua turcească a osului sfenoid este proiectată în interiorul găurii occipitale mari (foramen magnum).
+    - Imaginea trebuie să includă întregul os occipital și porțiunile posterioare ale oaselor parietale, iar sutura lambdoidă trebuie vizualizată clar.
+    - Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+    - Incidența corectă va evidenția clar unghiurile mandibulei față de porțiunile pietroase ale oaselor temporale.
+    - Foramina fosei craniene mijlocii trebuie vizualizate simetric de o parte și de alta a liniei mediane.
+    - Erori de evitat / remedii: Vezi incidența semi-axială fronto-occipitală cu 30 grade caudal – incidența Towne (p. 244).
+    - Erori de evitat / remedii: Această incidență implică o poziționare foarte incomodă pentru pacient. Merită să vă asigurați că echipamentul este pregătit complet înainte de începerea examinării, astfel încât pacientul să fie nevoit să mențină poziția doar pentru perioada minimă.
+    - Erori de evitat / remedii: Poziția se obține mult mai ușor dacă se utilizează unitatea pentru craniu, deoarece masa pentru obiect și tubul pot fi ajustate pentru a minimiza hiperextensia gâtului. Incidență submento-verticală (SMV) utilizând unitatea pentru craniu
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -231,9 +235,9 @@ Ortostatism
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • This incidență will carry lower radiation dose la sensitive structures than equivalent Antero-posterior (AP) incidență.
-• Positioning poate fie easier la undertake pe pacienți who find it difficult la achieve poziție required pentru equivalent Antero-posterior (AP) half-Axială incidențe.
-30° Reverse Towne’s Reverse Towne’s, alternative positioning Under înclinat Towne’s
+    • Această incidență implică o doză de radiație mai mică pentru structurile sensibile decât incidența anteroposterioară (AP) echivalentă.
+• Poziționarea poate fi mai ușor realizată la pacienții cărora le este dificil să obțină poziția necesară pentru incidențele anteroposterioare (AP) semi-axiale echivalente.
+30° Towne inversă Towne inversă, poziționare alternativă Towne subînclinată
 
 
 ### 🖼️ Imagini
@@ -242,9 +246,9 @@ Ortostatism
 
 <figure class="protocol-image-card" markdown>
 
-![thus hiding important suspiciune de fractură.](../../assets/images/protocols/clark/rx-craniu-occipito-frontal-30-degree-cranial-p260-clark/fig_1.jpeg)
+![ascunzând astfel o suspiciune importantă de fractură.](../../assets/images/protocols/clark/rx-craniu-occipito-frontal-30-degree-cranial-p260-clark/fig_1.jpeg)
 
-<figcaption><strong>thus hiding important suspiciune de fractură.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>ascunzând astfel o suspiciune importantă de fractură.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -301,4 +305,4 @@ Ortostatism
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 260](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=260)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 260](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

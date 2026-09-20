@@ -1,66 +1,69 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise requested.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 category: abdomen
 centering: perpendicular pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1123, imaginea 1
+- caption: Merrill — pagina 1123, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1123_fig1.png
-- caption: Merrill — pagina PDF 1124, imaginea 2
+- caption: Merrill — pagina 1124, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig2.png
-- caption: Merrill — pagina PDF 1124, imaginea 3
+- caption: Merrill — pagina 1124, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig3.png
-- caption: Merrill — pagina PDF 1125, imaginea 4
+- caption: Merrill — pagina 1125, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1125_fig4.png
 last_updated: '2026-09-16'
 modality: rx
-notes: Valsalva maneuver poate fie used în conjunction cu sau ca alternative la Trendelenburg
-  poziție.
-position: se așază pacientul în Decubit dorsal poziție. stomach moves superiorly și
-  la stâng în this poziție, și, except în thin pacienți, its pyloric end este ridicat
-  astfel încât barium flows into și fills its cardiac sau fundic portions sau ambele.
-  Filling de fundus displaces gas bubble into pyloric end de stomach, where it allows
-  double-contrast delineation de posterior perete lesions when single- contrast examination
-  este performed. If pacientul este thin, intestinal loops do nu move superior enough
-  la tilt stomach pentru fundic filling. Rotating pacientul’s corp spre stâng sau
-  angling capul end de masa de examinare downward este necessary. Tilt masa de examinare
-  la full sau partial Trendelenburg angulation la show diaphragmatic herniations (Fig.
-  15.75). în Trendelenburg poziție, involved organ sau organs, which poate appear
-  la fie normally located în toate other corp poziții, shift upward și protrude through
-  hernial orifice (most commonly through esophageal hiatus).; se ajustează poziție
-  de pacientul astfel încât linia mediană grilă coincides (1) cu linia mediană corp
-  when a 14- × 17-inches (35 × 43-cm) expunere field (sau raza centrală plate) este
-  used (see Fig. 15.75) sau (2) cu plan sagital passing midway între midline și stâng
-  lateral margin de abdomenul when a 10- × 12-inch (24 × 30-cm) expunere field (sau
-  raza centrală plate) este used (Fig. 15.76). Longitudinal centering de larger expunere
-  field depends pe extent de hernial protrusion into thorax și este determined during
-  fluoroscopy. pentru stomac și duoden, se centrează 10- × 12-inch (24- × 30-cm) expunere
-  field/receptorul de imagine la level midway între apendice xifoid și lower rib margin
-  (approximately L1-L2). pentru 14- × 17-inch (35- × 43-cm) expunere field/receptorul
-  de imagine, center it la same level și adjust up sau down slightly, depending pe
-  whether cupole diafragmatice sau intestin subțire needs la fie seen. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: Manevra Valsalva poate fi utilizată împreună cu poziția Trendelenburg sau ca
+  alternativă la aceasta.
+position: Se așază pacientul în decubit dorsal. În această poziție, stomacul se deplasează
+  superior și spre stânga și, cu excepția pacienților slabi, extremitatea sa pilorică
+  se ridică, astfel încât bariul pătrunde și umple porțiunea cardială sau fundică
+  ori ambele. Umplerea fundului gastric deplasează bula de gaz în extremitatea pilorică
+  a stomacului, unde permite delimitarea în dublu contrast a leziunilor peretelui
+  posterior atunci când se efectuează o examinare cu contrast unic. Dacă pacientul
+  este slab, ansele intestinale nu se deplasează suficient de mult superior pentru
+  a înclina stomacul în vederea umplerii fundului gastric. Este necesară rotirea corpului
+  pacientului spre stânga sau înclinarea în jos a capătului mesei de examinare aflat
+  la capul pacientului. Se înclină masa de examinare în poziție Trendelenburg completă
+  sau parțială pentru a evidenția hernierile diafragmatice (Fig. 15.75). În poziția
+  Trendelenburg, organul sau organele implicate, care pot părea situate normal în
+  toate celelalte poziții ale corpului, se deplasează în sus și protruzionează prin
+  orificiul herniar (cel mai frecvent prin hiatusul esofagian).; Se ajustează poziția
+  pacientului astfel încât linia mediană a grilei să coincidă (1) cu linia mediană
+  a corpului când se utilizează un câmp de expunere de 14- × 17-țoli (35 × 43-cm)
+  (sau placa pentru raza centrală) (vezi Fig. 15.75) sau (2) cu planul sagital care
+  trece la jumătatea distanței dintre linia mediană și marginea laterală stângă a
+  abdomenului când se utilizează un câmp de expunere de 10- × 12-țoli (24 × 30-cm)
+  (sau placa pentru raza centrală) (Fig. 15.76). Centrarea longitudinală a câmpului
+  de expunere mai mare depinde de extinderea protruziei herniare în torace și se stabilește
+  în timpul fluoroscopiei. Pentru stomac și duoden, se centrează câmpul de expunere/receptorul
+  de imagine de 10- × 12-țoli (24- × 30-cm) la jumătatea distanței dintre apendicele
+  xifoid și marginea costală inferioară (aproximativ L1-L2). Câmpul de expunere/receptorul
+  de imagine de 14- × 17-țoli (35- × 43-cm) se centrează la același nivel și se ajustează
+  ușor în sus sau în jos, în funcție de necesitatea vizualizării cupolelor diafragmatice
+  sau a intestinului subțire. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și duodenal loop
-- Double-contrast visualization de gastric corp, pylorus, și duodenal bulb
-- Retrogastric portion de duodenum și jejunum
-- Lower câmpuri pulmonare pe 14- × 17-inch (35- × 43-cm) imagini la show diaphragmatic
-  hernias
-- Stomach centrat la nivelul level de pylorus pe 10- × 12-inch (24- × 30-cm) imagini
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-- Penetration contrast medium
-- Surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și ansa duodenală
+- Vizualizarea în dublu contrast a corpului gastric, a pilorului și a bulbului duodenal
+- Porțiunea retrogastrică a duodenului și a jejunului
+- Porțiunile inferioare ale câmpurilor pulmonare pe imaginile de 14- × 17-țoli (35-
+  × 43-cm), pentru evidențierea herniilor diafragmatice
+- Stomacul centrat la nivelul pilorului pe imaginile de 10- × 12-țoli (24- × 30-cm)
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+- Penetrarea substanței de contrast
+- Țesuturile moi învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill
 source_pages:
@@ -69,110 +72,98 @@ source_pages:
 - 1124
 - 1125
 source_sections:
-  anatomy: 'Stomach
+  anatomy: 'Stomac
 
-    well-filled fundic portion și usually double-contrast delineation de corp, pyloric
-    portion, și duodenum (Fig. 15.77). Because de elevation și superior displacement
-    de stomach, this incidență afords best AP incidență de retrogastric portion de
-    duodenum
-
-    și jejunum.
+    Porțiunea fundică bine umplută și, de obicei, delimitarea în dublu contrast a
+    corpului, a porțiunii pilorice și a duodenului (Fig. 15.77). Datorită ridicării
+    și deplasării superioare a stomacului, această incidență oferă cea mai bună vizualizare
+    AP a porțiunii retrogastrice a duodenului și a jejunului.
 
     cupole diafragmatice
 
-    AP incidență de abdominothoracic region shows organ sau organs involved în, și
-    location și extent de, orice gross hernial
-
-    protrusion through cupole diafragmatice (Figs. 15.78 și 15.79).'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 10 × 12 inches
-    (24 × 30 cm) when stomach alone este de interest; fără larger than 14 × 17 inches
-
-    (35 × 43 cm) when intestin subțire este la fie included. Se plasează markerul
-    de lateralitate în câmpul colimat.'
+    Incidența AP a regiunii abdominotoracice evidențiază organul sau organele implicate,
+    precum și localizarea și extinderea oricărei protruzii herniare mari prin cupolele
+    diafragmatice (Fig. 15.78 și 15.79).'
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 10
+    × 12 țoli (24 × 30 cm) când numai stomacul prezintă interes; să nu depășească
+    14 × 17 țoli (35 × 43 cm) când trebuie inclus intestinul subțire. Se plasează
+    markerul de lateralitate în câmpul colimat.
   cr: • perpendicular pe centrul receptorului de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Entire stomach și duodenal loop
+    • Întregul stomac și ansa duodenală
 
-    • Double-contrast visualization de gastric corp, pylorus, și duodenal bulb
+    • Vizualizarea în dublu contrast a corpului gastric, a pilorului și a bulbului
+    duodenal
 
-    • Retrogastric portion de duodenum și jejunum
+    • Porțiunea retrogastrică a duodenului și a jejunului
 
-    • Lower câmpuri pulmonare pe 14- × 17-inch (35- × 43-cm) imagini la show diaphragmatic
-    hernias
+    • Porțiunile inferioare ale câmpurilor pulmonare pe imaginile de 14- × 17-țoli
+    (35- × 43-cm), pentru evidențierea herniilor diafragmatice
 
-    • Stomach centrat la nivelul level de pylorus pe 10- × 12-inch (24- × 30-cm) imagini
+    • Stomacul centrat la nivelul pilorului pe imaginile de 10- × 12-țoli (24- × 30-cm)
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
 
-    • Penetration contrast medium
+    • Penetrarea substanței de contrast
 
-    • Surrounding soft tissues'
-  notes: Valsalva maneuver poate fie used în conjunction cu sau ca alternative la
-    Trendelenburg poziție.
-  part_pos: '• se ajustează poziție de pacientul astfel încât linia mediană grilă
-    coincides (1) cu linia mediană corp when a 14-
+    • Țesuturile moi învecinate'
+  notes: Manevra Valsalva poate fi utilizată împreună cu poziția Trendelenburg sau
+    ca alternativă la aceasta.
+  part_pos: '• Se ajustează poziția pacientului astfel încât linia mediană a grilei
+    să coincidă (1) cu linia mediană a corpului când se utilizează un câmp de expunere
+    de 14-
 
-    • × 17-inches (35 × 43-cm) expunere field (sau raza centrală plate) este used
-    (see Fig. 15.75) sau (2) cu plan sagital passing midway între
+    • × 17-țoli (35 × 43-cm) (sau placa pentru raza centrală) (vezi Fig. 15.75) sau
+    (2) cu planul sagital care trece la jumătatea distanței dintre linia mediană și
+    marginea laterală stângă a abdomenului când se utilizează un câmp de expunere
+    de 10- × 12-țoli (24 × 30-cm) (sau placa pentru raza centrală) (Fig. 15.76).
 
-    midline și stâng lateral margin de abdomenul when a 10- × 12-inch (24 × 30-cm)
-    expunere field (sau raza centrală plate) este used (Fig. 15.76).
+    Centrarea longitudinală a câmpului de expunere mai mare depinde de extinderea
+    protruziei herniare în torace și se stabilește în timpul fluoroscopiei.
 
-    Longitudinal centering de larger expunere field depends pe extent de hernial protrusion
-    into thorax și este determined
-
-    during fluoroscopy.
-
-    • pentru stomac și duoden, se centrează 10- × 12-inch (24- × 30-cm) expunere field/receptorul
-    de imagine la level midway între apendice xifoid
-
-    și lower rib margin (approximately L1-L2). pentru 14- × 17-inch (35- × 43-cm)
-    expunere field/receptorul de imagine, center it la same level și
-
-    adjust up sau down slightly, depending pe whether cupole diafragmatice sau intestin
-    subțire needs la fie seen.
+    • Pentru stomac și duoden, se centrează câmpul de expunere/receptorul de imagine
+    de 10- × 12-țoli (24- × 30-cm) la jumătatea distanței dintre apendicele xifoid
+    și marginea costală inferioară (aproximativ L1-L2). Câmpul de expunere/receptorul
+    de imagine de 14- × 17-țoli (35- × 43-cm) se centrează la același nivel și se
+    ajustează ușor în sus sau în jos, în funcție de necesitatea vizualizării cupolelor
+    diafragmatice sau a intestinului subțire.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal. stomach moves superiorly și
-    la stâng în this poziție, și, except în thin pacienți, its
+  patient_pos: '• se așază pacientul în decubit dorsal. În această poziție, stomacul
+    se deplasează superior și spre stânga și, cu excepția pacienților slabi, extremitatea
+    sa pilorică se ridică, astfel încât bariul pătrunde și umple porțiunea cardială
+    sau fundică ori ambele. Umplerea fundului gastric deplasează bula de gaz în extremitatea
+    pilorică a stomacului, unde permite delimitarea în dublu contrast a leziunilor
+    peretelui posterior atunci când se efectuează o examinare cu contrast unic. Dacă
+    pacientul este slab, ansele intestinale nu se deplasează suficient de mult superior
+    pentru a înclina stomacul în vederea umplerii fundului gastric. Este necesară
+    rotirea corpului pacientului spre stânga sau înclinarea în jos a capătului mesei
+    de examinare aflat la capul pacientului.
 
-    pyloric end este ridicat astfel încât barium flows into și fills its cardiac sau
-    fundic portions sau ambele. Filling de fundus displaces gas bubble into pyloric
-    end de stomach, where it allows double-contrast delineation de posterior perete
-    lesions when single-
-
-    contrast examination este performed. If pacientul este thin, intestinal loops
-    do nu move superior enough la tilt stomach pentru
-
-    fundic filling. Rotating pacientul’s corp spre stâng sau angling capul end de
-    masa de examinare downward este necessary.
-
-    • Tilt masa de examinare la full sau partial Trendelenburg angulation la show
-    diaphragmatic herniations (Fig. 15.75). în Trendelenburg poziție,
-
-    involved organ sau organs, which poate appear la fie normally located în toate
-    other corp poziții, shift upward și protrude through
-
-    hernial orifice (most commonly through esophageal hiatus).'
-  respiration: Apnee la sfârșitul expirului complet unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) pentru small hiatal hernias; 14 × 17 inches (35 × 43 cm) longitudinal pentru
-    large diaphragmatic herniations sau pentru stomach și intestin subțire.'
+    • Se înclină masa de examinare în poziție Trendelenburg completă sau parțială
+    pentru a evidenția hernierile diafragmatice (Fig. 15.75). În poziția Trendelenburg,
+    organul sau organele implicate, care pot părea situate normal în toate celelalte
+    poziții ale corpului, se deplasează în sus și protruzionează prin orificiul herniar
+    (cel mai frecvent prin hiatusul esofagian).'
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placa pentru raza
+    centrală: 10 × 12 țoli (24 × 30 cm) pentru herniile hiatale mici; 14 × 17 țoli
+    (35 × 43 cm), longitudinal, pentru hernierile diafragmatice mari sau pentru stomac
+    și intestinul subțire.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1122–1125'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1122
+    And Biliary System, pagini 1122–1125'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24
-    × 30 cm) when stomach alone este de interest; fără larger than 14 × 17 inches
-    (35 × 43 cm) when intestin subțire este la fie included. Se plasează markerul
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 10 ×
+    12 țoli (24 × 30 cm) când numai stomacul prezintă interes; să nu depășească 14
+    × 17 țoli (35 × 43 cm) când trebuie inclus intestinul subțire. Se plasează markerul
     de lateralitate în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioară (AP) (Merrill)
 ---
@@ -209,10 +200,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioar�
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție. stomach moves superiorly și la stâng în this poziție, și, except în thin pacienți, its pyloric end este ridicat astfel încât barium flows into și fills its cardiac sau fundic portions sau ambele. Filling de fundus displaces gas bubble into pyloric end de stomach, where it allows double-contrast delineation de posterior perete lesions when single- contrast examination este performed. If pacientul este thin, intestinal loops do nu move superior enough la tilt stomach pentru fundic filling. Rotating pacientul’s corp spre stâng sau angling capul end de masa de examinare downward este necessary. Tilt masa de examinare la full sau partial Trendelenburg angulation la show diaphragmatic herniations (Fig. 15.75). în Trendelenburg poziție, involved organ sau organs, which poate appear la fie normally located în toate other corp poziții, shift upward și protrude through hernial orifice (most commonly through esophageal hiatus).; se ajustează poziție de pacientul astfel încât linia mediană grilă coincides (1) cu linia mediană corp when a 14- × 17-inches (35 × 43-cm) expunere field (sau raza centrală plate) este used (see Fig. 15.75) sau (2) cu plan sagital passing midway între midline și stâng lateral margin de abdomenul when a 10- × 12-inch (24 × 30-cm) expunere field (sau raza centrală plate) este used (Fig. 15.76). Longitudinal centering de larger expunere field depends pe extent de hernial protrusion into thorax și este determined during fluoroscopy. pentru stomac și duoden, se centrează 10- × 12-inch (24- × 30-cm) expunere field/receptorul de imagine la level midway între apendice xifoid și lower rib margin (approximately L1-L2). pentru 14- × 17-inch (35- × 43-cm) expunere field/receptorul de imagine, center it la same level și adjust up sau down slightly, depending pe whether cupole diafragmatice sau intestin subțire needs la fie seen. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal. În această poziție, stomacul se deplasează superior și spre stânga și, cu excepția pacienților slabi, extremitatea sa pilorică se ridică, astfel încât bariul pătrunde și umple porțiunea cardială sau fundică ori ambele. Umplerea fundului gastric deplasează bula de gaz în extremitatea pilorică a stomacului, unde permite delimitarea în dublu contrast a leziunilor peretelui posterior atunci când se efectuează o examinare cu contrast unic. Dacă pacientul este slab, ansele intestinale nu se deplasează suficient de mult superior pentru a înclina stomacul în vederea umplerii fundului gastric. Este necesară rotirea corpului pacientului spre stânga sau înclinarea în jos a capătului mesei de examinare aflat la capul pacientului. Se înclină masa de examinare în poziție Trendelenburg completă sau parțială pentru a evidenția hernierile diafragmatice (Fig. 15.75). În poziția Trendelenburg, organul sau organele implicate, care pot părea situate normal în toate celelalte poziții ale corpului, se deplasează în sus și protruzionează prin orificiul herniar (cel mai frecvent prin hiatusul esofagian).; Se ajustează poziția pacientului astfel încât linia mediană a grilei să coincidă (1) cu linia mediană a corpului când se utilizează un câmp de expunere de 14- × 17-țoli (35 × 43-cm) (sau placa pentru raza centrală) (vezi Fig. 15.75) sau (2) cu planul sagital care trece la jumătatea distanței dintre linia mediană și marginea laterală stângă a abdomenului când se utilizează un câmp de expunere de 10- × 12-țoli (24 × 30-cm) (sau placa pentru raza centrală) (Fig. 15.76). Centrarea longitudinală a câmpului de expunere mai mare depinde de extinderea protruziei herniare în torace și se stabilește în timpul fluoroscopiei. Pentru stomac și duoden, se centrează câmpul de expunere/receptorul de imagine de 10- × 12-țoli (24- × 30-cm) la jumătatea distanței dintre apendicele xifoid și marginea costală inferioară (aproximativ L1-L2). Câmpul de expunere/receptorul de imagine de 14- × 17-țoli (35- × 43-cm) se centrează la același nivel și se ajustează ușor în sus sau în jos, în funcție de necesitatea vizualizării cupolelor diafragmatice sau a intestinului subțire. se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -226,23 +217,23 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioar�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) when stomach alone este de interest; fără larger than 14 × 17 inches (35 × 43 cm) when intestin subțire este la fie included. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) când numai stomacul prezintă interes; să nu depășească 14 × 17 țoli (35 × 43 cm) când trebuie inclus intestinul subțire. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și duodenal loop
-    - Double-contrast visualization de gastric corp, pylorus, și duodenal bulb
-    - Retrogastric portion de duodenum și jejunum
-    - Lower câmpuri pulmonare pe 14- × 17-inch (35- × 43-cm) imagini la show diaphragmatic hernias
-    - Stomach centrat la nivelul level de pylorus pe 10- × 12-inch (24- × 30-cm) imagini
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-    - Penetration contrast medium
-    - Surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și ansa duodenală
+    - Vizualizarea în dublu contrast a corpului gastric, a pilorului și a bulbului duodenal
+    - Porțiunea retrogastrică a duodenului și a jejunului
+    - Porțiunile inferioare ale câmpurilor pulmonare pe imaginile de 14- × 17-țoli (35- × 43-cm), pentru evidențierea herniilor diafragmatice
+    - Stomacul centrat la nivelul pilorului pe imaginile de 10- × 12-țoli (24- × 30-cm)
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+    - Penetrarea substanței de contrast
+    - Țesuturile moi învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -253,7 +244,7 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioar�
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Valsalva maneuver poate fie used în conjunction cu sau ca alternative la Trendelenburg poziție.
+    Manevra Valsalva poate fi utilizată împreună cu poziția Trendelenburg sau ca alternativă la aceasta.
 
 
 ### 🖼️ Imagini
@@ -262,33 +253,33 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioar�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1123, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1123_fig1.png)
+![Merrill — pagina 1123, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1123_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1123, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1124, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1124, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1123, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1124, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig3.png)
+![Merrill — pagina 1124, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1124, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1124, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1125, imaginea 4](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1125_fig4.png)
+![Merrill — pagina 1124, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1124_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 1125, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1124, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1125, imaginea 4](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-antero-posterioara-ap-p1122-merrill/p1125_fig4.png)
+
+<figcaption><strong>Merrill — pagina 1125, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -305,73 +296,60 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Antero-Posterioar�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1122–1125](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1122)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1122–1125](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Stomach
-well-filled fundic portion și usually double-contrast delineation de corp, pyloric portion, și duodenum (Fig. 15.77). Because de elevation și superior displacement de stomach, this incidență afords best AP incidență de retrogastric portion de duodenum
-și jejunum.
+Stomac
+Porțiunea fundică bine umplută și, de obicei, delimitarea în dublu contrast a corpului, a porțiunii pilorice și a duodenului (Fig. 15.77). Datorită ridicării și deplasării superioare a stomacului, această incidență oferă cea mai bună vizualizare AP a porțiunii retrogastrice a duodenului și a jejunului.
 cupole diafragmatice
-AP incidență de abdominothoracic region shows organ sau organs involved în, și location și extent de, orice gross hernial
-protrusion through cupole diafragmatice (Figs. 15.78 și 15.79).
+Incidența AP a regiunii abdominotoracice evidențiază organul sau organele implicate, precum și localizarea și extinderea oricărei protruzii herniare mari prin cupolele diafragmatice (Fig. 15.78 și 15.79).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) when stomach alone este de interest; fără larger than 14 × 17 inches
-(35 × 43 cm) when intestin subțire este la fie included. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) când numai stomacul prezintă interes; să nu depășească 14 × 17 țoli (35 × 43 cm) când trebuie inclus intestinul subțire. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
 • perpendicular pe centrul receptorului de imagine.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și duodenal loop
-• Double-contrast visualization de gastric corp, pylorus, și duodenal bulb
-• Retrogastric portion de duodenum și jejunum
-• Lower câmpuri pulmonare pe 14- × 17-inch (35- × 43-cm) imagini la show diaphragmatic hernias
-• Stomach centrat la nivelul level de pylorus pe 10- × 12-inch (24- × 30-cm) imagini
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-• Penetration contrast medium
-• Surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Întregul stomac și ansa duodenală
+• Vizualizarea în dublu contrast a corpului gastric, a pilorului și a bulbului duodenal
+• Porțiunea retrogastrică a duodenului și a jejunului
+• Porțiunile inferioare ale câmpurilor pulmonare pe imaginile de 14- × 17-țoli (35- × 43-cm), pentru evidențierea herniilor diafragmatice
+• Stomacul centrat la nivelul pilorului pe imaginile de 10- × 12-țoli (24- × 30-cm)
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+• Penetrarea substanței de contrast
+• Țesuturile moi învecinate
 
-### notes
+### note
 
-Valsalva maneuver poate fie used în conjunction cu sau ca alternative la Trendelenburg poziție.
+Manevra Valsalva poate fi utilizată împreună cu poziția Trendelenburg sau ca alternativă la aceasta.
 
 ### part_pos
 
-• se ajustează poziție de pacientul astfel încât linia mediană grilă coincides (1) cu linia mediană corp when a 14-
-• × 17-inches (35 × 43-cm) expunere field (sau raza centrală plate) este used (see Fig. 15.75) sau (2) cu plan sagital passing midway între
-midline și stâng lateral margin de abdomenul when a 10- × 12-inch (24 × 30-cm) expunere field (sau raza centrală plate) este used (Fig. 15.76).
-Longitudinal centering de larger expunere field depends pe extent de hernial protrusion into thorax și este determined
-during fluoroscopy.
-• pentru stomac și duoden, se centrează 10- × 12-inch (24- × 30-cm) expunere field/receptorul de imagine la level midway între apendice xifoid
-și lower rib margin (approximately L1-L2). pentru 14- × 17-inch (35- × 43-cm) expunere field/receptorul de imagine, center it la same level și
-adjust up sau down slightly, depending pe whether cupole diafragmatice sau intestin subțire needs la fie seen.
+• Se ajustează poziția pacientului astfel încât linia mediană a grilei să coincidă (1) cu linia mediană a corpului când se utilizează un câmp de expunere de 14-
+• × 17-țoli (35 × 43-cm) (sau placa pentru raza centrală) (vezi Fig. 15.75) sau (2) cu planul sagital care trece la jumătatea distanței dintre linia mediană și marginea laterală stângă a abdomenului când se utilizează un câmp de expunere de 10- × 12-țoli (24 × 30-cm) (sau placa pentru raza centrală) (Fig. 15.76).
+Centrarea longitudinală a câmpului de expunere mai mare depinde de extinderea protruziei herniare în torace și se stabilește în timpul fluoroscopiei.
+• Pentru stomac și duoden, se centrează câmpul de expunere/receptorul de imagine de 10- × 12-țoli (24- × 30-cm) la jumătatea distanței dintre apendicele xifoid și marginea costală inferioară (aproximativ L1-L2). Câmpul de expunere/receptorul de imagine de 14- × 17-țoli (35- × 43-cm) se centrează la același nivel și se ajustează ușor în sus sau în jos, în funcție de necesitatea vizualizării cupolelor diafragmatice sau a intestinului subțire.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal. stomach moves superiorly și la stâng în this poziție, și, except în thin pacienți, its
-pyloric end este ridicat astfel încât barium flows into și fills its cardiac sau fundic portions sau ambele. Filling de fundus displaces gas bubble into pyloric end de stomach, where it allows double-contrast delineation de posterior perete lesions when single-
-contrast examination este performed. If pacientul este thin, intestinal loops do nu move superior enough la tilt stomach pentru
-fundic filling. Rotating pacientul’s corp spre stâng sau angling capul end de masa de examinare downward este necessary.
-• Tilt masa de examinare la full sau partial Trendelenburg angulation la show diaphragmatic herniations (Fig. 15.75). în Trendelenburg poziție,
-involved organ sau organs, which poate appear la fie normally located în toate other corp poziții, shift upward și protrude through
-hernial orifice (most commonly through esophageal hiatus).
+• se așază pacientul în decubit dorsal. În această poziție, stomacul se deplasează superior și spre stânga și, cu excepția pacienților slabi, extremitatea sa pilorică se ridică, astfel încât bariul pătrunde și umple porțiunea cardială sau fundică ori ambele. Umplerea fundului gastric deplasează bula de gaz în extremitatea pilorică a stomacului, unde permite delimitarea în dublu contrast a leziunilor peretelui posterior atunci când se efectuează o examinare cu contrast unic. Dacă pacientul este slab, ansele intestinale nu se deplasează suficient de mult superior pentru a înclina stomacul în vederea umplerii fundului gastric. Este necesară rotirea corpului pacientului spre stânga sau înclinarea în jos a capătului mesei de examinare aflat la capul pacientului.
+• Se înclină masa de examinare în poziție Trendelenburg completă sau parțială pentru a evidenția hernierile diafragmatice (Fig. 15.75). În poziția Trendelenburg, organul sau organele implicate, care pot părea situate normal în toate celelalte poziții ale corpului, se deplasează în sus și protruzionează prin orificiul herniar (cel mai frecvent prin hiatusul esofagian).
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise requested.
+Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) pentru small hiatal hernias; 14 × 17 inches (35 × 43 cm) longitudinal pentru large diaphragmatic herniations sau pentru stomach și intestin subțire.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placa pentru raza centrală: 10 × 12 țoli (24 × 30 cm) pentru herniile hiatale mici; 14 × 17 țoli (35 × 43 cm), longitudinal, pentru hernierile diafragmatice mari sau pentru stomac și intestinul subțire.
 

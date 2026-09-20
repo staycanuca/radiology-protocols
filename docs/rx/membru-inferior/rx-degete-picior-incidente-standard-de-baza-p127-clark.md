@@ -58,7 +58,7 @@ sid_dff: 100 cm
 slug: rx-degete-picior-incidente-standard-de-baza-p127-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 127
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=127
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -198,4 +198,4 @@ title: Rx Degete Picior Incidențe Standard de Bază
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 127](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=127)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 127](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

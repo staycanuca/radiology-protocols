@@ -3,37 +3,42 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• X-ray fascicul trebuie să fie centred vertically pe midpoint de tooth
-  la fie examined.
+centering: '• Fasciculul de raze X trebuie să fie centrat vertical pe mijlocul dintelui
+  examinat.
 
-  • Look la tooth, film radiologic, și bisecting angle între two. This achieves correct
-  vertical angulation de tubul.
+  • Priviți dintele, filmul radiologic și unghiul bisector dintre acestea. Astfel
+  se obține angulația verticală corectă a tubului.
 
-  • It este important la remember that proclined teeth will require more angulation,
-  whilst retroclined teeth will need less angulation.
+  • Este important să rețineți că dinții proclinați necesită o angulație mai mare,
+  în timp ce dinții retroclinați necesită o angulație mai mică.
 
-  • X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles
-  la labial sau buccal surfaces de teeth la prevent orizontal overlap.
+  • Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular
+  pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea
+  orizontală.
 
-  296 Rinn Greene Stabe® film radiologic holder cu (de la stâng la drept) orizontal
-  film radiologic placement pentru premolars și molars și vertical film radiologic
-  placement pentru incisors și canines Positioning de pacientul și X-ray tube pentru
-  periapical radiografie de maxillary incisors using Rinn Greene Stabe® film radiologic
-  holder Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary
-  incisors, using Police pentru support'
+  296 Suport pentru film radiologic Rinn Greene Stabe® cu, de la stânga la dreapta,
+  plasarea orizontală a filmului radiologic pentru premolari și molari și plasarea
+  verticală a filmului radiologic pentru incisivi și canini. Poziționarea pacientului
+  și a tubului de raze X pentru radiografia retroalveolară a incisivilor maxilari,
+  utilizând suportul pentru film radiologic Rinn Greene Stabe®. Poziționarea pacientului
+  și a tubului de raze X pentru radiografia retroalveolară a incisivilor maxilari,
+  utilizând Police pentru susținere.'
 clinical_indications:
-- 'anterior teeth (incisors și canines): axa longitudinală de film radiologic vertical.'
-- 'posterior teeth (premolars și molars): axa longitudinală de film radiologic orizontal.
-  297 10 Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle technique'
+- 'dinții anteriori (incisivi și canini): axa longitudinală a filmului radiologic
+  verticală.'
+- 'dinții posteriori (premolari și molari): axa longitudinală a filmului radiologic
+  orizontală. 297 10 Radiografie Dentară Retroalveolară (Periapicală) Tehnica unghiului
+  bisector'
 images:
 - caption: 10 Radiografie Dentară Retroalveolară (Periapicală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_1.jpeg
-- caption: și mandibular radiografie, respectively).
+- caption: și radiografia mandibulară, respectiv).
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_2.jpeg
-- caption: Positioning de pacientul și X-ray tube pentru periapical radiografie
+- caption: Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_3.jpeg
@@ -41,7 +46,7 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_4.jpeg
-- caption: region de periapical radiografie was
+- caption: regiunea radiografiei retroalveolare a fost
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_5.jpeg
@@ -63,83 +68,86 @@ images:
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_9.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Correct positioning și angulation de X-ray tube sunt needed la ensure adecvat
-  film radiologic coverage fără evidence de coning off.
+notes: '• Poziționarea și angulația corectă a tubului de raze X sunt necesare pentru
+  a asigura acoperirea adecvată a filmului radiologic, fără dovezi de conare incompletă.
 
-  • Incorrect vertical angulation de X-ray tube causes distortion de imagine și poate
-  result în inaccuracies în diagnosis.
+  • Angulația verticală incorectă a tubului de raze X determină deformarea imaginii
+  și poate duce la inexactități în diagnostic.
 
-  • imagine poate fie distorted due la incorrect placement de film radiologic și/sau
-  pacientul’s finger.
+  • Imaginea poate fi deformată din cauza poziționării incorecte a filmului radiologic
+  și/sau a degetului pacientului.
 
-  • Inaccurate vertical angulation de X-ray tube results în misrepresentation de alveolar
-  bone levels.
+  • Angulația verticală inexactă a tubului de raze X determină reprezentarea eronată
+  a nivelurilor osului alveolar.
 
-  • Incorrect orizontal placement de X-ray tube results în orizontal overlap de contact
-  point de teeth.
+  • Poziționarea orizontală incorectă a tubului de raze X determină suprapunerea orizontală
+  a punctelor de contact ale dinților.
 
-  • imagine de zygomatic bone frequently overlies roots de upper molars.
+  • Imaginea osului zigomatic se suprapune frecvent peste rădăcinile molarilor superiori.
 
-  Imaging considerations Conventionally, technique uses short tube-la-film radiologic
-  distance și object distance este reduced prin close approximation de film radiologic
-  la palatal sau lingual aspect de alveolar ridge.
+  Considerații privind imagistica. În mod convențional, tehnica utilizează o distanță
+  mică tub–film radiologic, iar distanța obiect–film este redusă prin apropierea filmului
+  radiologic de aspectul palatinal sau lingual al crestei alveolare.
 
-  cu plan ocluzal orizontal, X-ray tube este poziționat vertically prin assessment
-  de bisected plane pentru fiecare individual pacient. This technique este preferred
-  la use de standardized vertical tube angulations (see tables pe p. 298) ca it allows
-  pentru anatomical variations.
+  Cu planul ocluzal orizontal, tubul de raze X este poziționat vertical prin evaluarea
+  planului bisectat pentru fiecare pacient în parte. Această tehnică este preferată
+  pentru utilizarea angulațiilor verticale standardizate ale tubului (vezi tabelele
+  de la p. 298), deoarece permite adaptarea la variațiile anatomice.
 
-  Coning off sau cone cutting occurs when X-ray tube este poziționat incorrectly.
+  Conarea incompletă sau tăierea conului apare atunci când tubul de raze X este poziționat
+  incorect.
 
-  X-ray tube cap was poziționat too far posteriorly so anterior region de periapical
-  radiografie was nu exposed Excessive pressure when stabilizing film radiologic sau
-  incorrect placement de film radiologic în mouth results în bending de film radiologic
-  packet during expunere effect de fascicul angulation pe periodontal bone levels.
-  steep vertical angle (extreme drept) masks bone loss, whilst too shallow angle (centre)
-  amplifies extent de bone loss. imagine pe extreme stâng de this dried Craniu series
-  represents correct geometry și precis bone levels Superimposition de structures
-  due la incorrect orizontal angulation de tubul upper periapical was taken using
-  bisecting angle technique, resulting în dense radio-opacity de zygomatic buttress
-  overlying și obscuring Vârfuri Pulmonare (Apexuri) de upper molar teeth. în lower
-  imagine, taken using paralleling technique, shadow de buttress este well above Vârfuri
-  Pulmonare (Apexuri) ca it este true Profil (lateral) imagine Foreshortened imagine
-  due la vertical angle being too steep'
-position: '• pacientul’s cap trebuie să fie sprijinit adequately cu medial plane vertical
-  și plan ocluzal orizontal (i.e.
+  Capul tubului de raze X a fost poziționat prea posterior, astfel încât regiunea
+  anterioară a radiografiei retroalveolare nu a fost expusă. Presiunea excesivă la
+  stabilizarea filmului radiologic sau plasarea incorectă a filmului radiologic în
+  cavitatea bucală determină îndoirea suportului filmului radiologic în timpul expunerii.
+  Efectul angulației fasciculului asupra nivelurilor osoase parodontale. Unghiul vertical
+  abrupt (extrem dreapta) maschează pierderea osoasă, în timp ce unghiul prea mic
+  (centru) amplifică extinderea pierderii osoase. Imaginea din extrema stângă a acestei
+  serii de cranii uscate reprezintă geometria corectă și nivelurile osoase precise.
+  Suprapunerea structurilor din cauza angulației orizontale incorecte a tubului. Radiografia
+  retroalveolară superioară a fost realizată utilizând tehnica unghiului bisector,
+  rezultând o radioopacitate densă a stâlpului zigomatic, care se suprapune peste
+  și ascunde vârfurile rădăcinilor molarilor superiori. În imaginea inferioară, realizată
+  utilizând tehnica paralelismului, umbra stâlpului se află mult deasupra vârfurilor
+  rădăcinilor, deoarece aceasta este o imagine în profil adevărată. Imagine scurtată
+  din cauza unghiului vertical prea abrupt.'
+position: '• Capul pacientului trebuie susținut adecvat, cu planul mediosagital vertical
+  și planul ocluzal orizontal (adică planul ocluzal superior și planul ocluzal inferior
+  pentru radiografiile maxilare și, respectiv, mandibulare).
 
-  upper plan ocluzal și lower plan ocluzal pentru maxillary și mandibular radiografie,
-  respectively).
+  Dacă se utilizează un suport pentru film radiologic:
 
-  If film radiologic holder este used:
+  • se alege dimensiunea corectă a filmului radiologic și se plasează în suportul
+  pentru film radiologic.
 
-  • correct film radiologic size este chosen și plasat în film radiologic holder.
+  • se poziționează intraoral suportul pentru film radiologic adiacent aspectelor
+  linguale/palatinale ale dintelui/dinților care urmează să fie examinați.
 
-  • poziție film radiologic holder intra-orally adjacent la lingual/palatal aspects
-  de tooth/teeth la fie imaged.
+  • Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
 
-  • Insert cotton-wool roll între opposing teeth și bite block.
+  • Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată
+  intraorală a suportului pentru film radiologic.
 
-  • Se instruiește pacientul să close together slowly la allow gradual accommodation
-  de film radiologic holder intra-orally.
+  • Spuneți pacientului să continue să muște pe blocul de ocluzie pentru a menține
+  fix suportul pentru film radiologic.
 
-  • Tell pacientul la continue biting pe bite block la poziție film radiologic holder
-  securely.
+  Dacă se utilizează degetul pacientului:
 
-  If pacientul’s finger este used:
+  • se alege dimensiunea corectă a filmului radiologic și se poziționează intraoral.
 
-  • correct film radiologic size este chosen și poziționat intra-orally.
+  • Asigurați-vă că dintele/dinții examinați se află în mijlocul filmului radiologic.
 
-  • Ensure that tooth/teeth being examined sunt în middle de film radiologic.
+  • 2 mm din suportul filmului radiologic trebuie să depășească marginea incizală
+  sau ocluzală, pentru a asigura reprezentarea întregului dinte.
 
-  • 2 mm de film radiologic packet trebuie să extend beyond incisal sau occlusal margin
-  la ensure that entire tooth este imaged.
+  • Pacientul este instruit să susțină ușor filmul radiologic folosind fie degetul
+  arătător, fie Police.
 
-  • Se instruiește pacientul să gently support film radiologic using either their
-  index finger sau Police.
-
-  • Apply pacientul’s finger/Police solely la area de film radiologic that overlies
-  crown și gingival tissues de teeth. This reduces possibility de distortion prin
-  bending de film radiologic covering root și periapical tissues.'
+  • Aplicați degetul pacientului/Police exclusiv pe zona filmului radiologic care
+  se suprapune peste coroana și țesuturile gingivale ale dinților. Astfel se reduce
+  posibilitatea deformării prin îndoirea filmului radiologic care acoperă rădăcina
+  și țesuturile periapicale.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -156,19 +164,19 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 311
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=311
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle technique
-  (contd)
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica unghiului bisector
+  (continuare)
 ---
-# Rx Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle technique (contd)
+# Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica unghiului bisector (continuare)
 
 
 <div class="rx-meta-bar">
@@ -187,8 +195,8 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle te
 
     === "Indicații Clinice"
 
-        - anterior teeth (incisors și canines): axa longitudinală de film radiologic vertical.
-        - posterior teeth (premolars și molars): axa longitudinală de film radiologic orizontal. 297 10 Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle technique
+        - dinții anteriori (incisivi și canini): axa longitudinală a filmului radiologic verticală.
+        - dinții posteriori (premolari și molari): axa longitudinală a filmului radiologic orizontală. 297 10 Radiografie Dentară Retroalveolară (Periapicală) Tehnica unghiului bisector
 
     === "Ghid Național IRIS"
 
@@ -202,25 +210,24 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Bisecting angle te
 
     ---
 
-    - **Poziție Pacient:** • pacientul’s cap trebuie să fie sprijinit adequately cu medial plane vertical și plan ocluzal orizontal (i.e.
-upper plan ocluzal și lower plan ocluzal pentru maxillary și mandibular radiografie, respectively).
-If film radiologic holder este used:
-• correct film radiologic size este chosen și plasat în film radiologic holder.
-• poziție film radiologic holder intra-orally adjacent la lingual/palatal aspects de tooth/teeth la fie imaged.
-• Insert cotton-wool roll între opposing teeth și bite block.
-• Se instruiește pacientul să close together slowly la allow gradual accommodation de film radiologic holder intra-orally.
-• Tell pacientul la continue biting pe bite block la poziție film radiologic holder securely.
-If pacientul’s finger este used:
-• correct film radiologic size este chosen și poziționat intra-orally.
-• Ensure that tooth/teeth being examined sunt în middle de film radiologic.
-• 2 mm de film radiologic packet trebuie să extend beyond incisal sau occlusal margin la ensure that entire tooth este imaged.
-• Se instruiește pacientul să gently support film radiologic using either their index finger sau Police.
-• Apply pacientul’s finger/Police solely la area de film radiologic that overlies crown și gingival tissues de teeth. This reduces possibility de distortion prin bending de film radiologic covering root și periapical tissues.
-    - **Punct de Centrare Fascicul:** • X-ray fascicul trebuie să fie centred vertically pe midpoint de tooth la fie examined.
-• Look la tooth, film radiologic, și bisecting angle între two. This achieves correct vertical angulation de tubul.
-• It este important la remember that proclined teeth will require more angulation, whilst retroclined teeth will need less angulation.
-• X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles la labial sau buccal surfaces de teeth la prevent orizontal overlap.
-296 Rinn Greene Stabe® film radiologic holder cu (de la stâng la drept) orizontal film radiologic placement pentru premolars și molars și vertical film radiologic placement pentru incisors și canines Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary incisors using Rinn Greene Stabe® film radiologic holder Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary incisors, using Police pentru support
+    - **Poziție Pacient:** • Capul pacientului trebuie susținut adecvat, cu planul mediosagital vertical și planul ocluzal orizontal (adică planul ocluzal superior și planul ocluzal inferior pentru radiografiile maxilare și, respectiv, mandibulare).
+Dacă se utilizează un suport pentru film radiologic:
+• se alege dimensiunea corectă a filmului radiologic și se plasează în suportul pentru film radiologic.
+• se poziționează intraoral suportul pentru film radiologic adiacent aspectelor linguale/palatinale ale dintelui/dinților care urmează să fie examinați.
+• Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
+• Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată intraorală a suportului pentru film radiologic.
+• Spuneți pacientului să continue să muște pe blocul de ocluzie pentru a menține fix suportul pentru film radiologic.
+Dacă se utilizează degetul pacientului:
+• se alege dimensiunea corectă a filmului radiologic și se poziționează intraoral.
+• Asigurați-vă că dintele/dinții examinați se află în mijlocul filmului radiologic.
+• 2 mm din suportul filmului radiologic trebuie să depășească marginea incizală sau ocluzală, pentru a asigura reprezentarea întregului dinte.
+• Pacientul este instruit să susțină ușor filmul radiologic folosind fie degetul arătător, fie Police.
+• Aplicați degetul pacientului/Police exclusiv pe zona filmului radiologic care se suprapune peste coroana și țesuturile gingivale ale dinților. Astfel se reduce posibilitatea deformării prin îndoirea filmului radiologic care acoperă rădăcina și țesuturile periapicale.
+    - **Punct de Centrare Fascicul:** • Fasciculul de raze X trebuie să fie centrat vertical pe mijlocul dintelui examinat.
+• Priviți dintele, filmul radiologic și unghiul bisector dintre acestea. Astfel se obține angulația verticală corectă a tubului.
+• Este important să rețineți că dinții proclinați necesită o angulație mai mare, în timp ce dinții retroclinați necesită o angulație mai mică.
+• Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală.
+296 Suport pentru film radiologic Rinn Greene Stabe® cu, de la stânga la dreapta, plasarea orizontală a filmului radiologic pentru premolari și molari și plasarea verticală a filmului radiologic pentru incisivi și canini. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a incisivilor maxilari, utilizând suportul pentru film radiologic Rinn Greene Stabe®. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a incisivilor maxilari, utilizând Police pentru susținere.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -231,13 +238,13 @@ If pacientul’s finger este used:
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -258,16 +265,16 @@ If pacientul’s finger este used:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • Correct positioning și angulation de X-ray tube sunt needed la ensure adecvat film radiologic coverage fără evidence de coning off.
-• Incorrect vertical angulation de X-ray tube causes distortion de imagine și poate result în inaccuracies în diagnosis.
-• imagine poate fie distorted due la incorrect placement de film radiologic și/sau pacientul’s finger.
-• Inaccurate vertical angulation de X-ray tube results în misrepresentation de alveolar bone levels.
-• Incorrect orizontal placement de X-ray tube results în orizontal overlap de contact point de teeth.
-• imagine de zygomatic bone frequently overlies roots de upper molars.
-Imaging considerations Conventionally, technique uses short tube-la-film radiologic distance și object distance este reduced prin close approximation de film radiologic la palatal sau lingual aspect de alveolar ridge.
-cu plan ocluzal orizontal, X-ray tube este poziționat vertically prin assessment de bisected plane pentru fiecare individual pacient. This technique este preferred la use de standardized vertical tube angulations (see tables pe p. 298) ca it allows pentru anatomical variations.
-Coning off sau cone cutting occurs when X-ray tube este poziționat incorrectly.
-X-ray tube cap was poziționat too far posteriorly so anterior region de periapical radiografie was nu exposed Excessive pressure when stabilizing film radiologic sau incorrect placement de film radiologic în mouth results în bending de film radiologic packet during expunere effect de fascicul angulation pe periodontal bone levels. steep vertical angle (extreme drept) masks bone loss, whilst too shallow angle (centre) amplifies extent de bone loss. imagine pe extreme stâng de this dried Craniu series represents correct geometry și precis bone levels Superimposition de structures due la incorrect orizontal angulation de tubul upper periapical was taken using bisecting angle technique, resulting în dense radio-opacity de zygomatic buttress overlying și obscuring Vârfuri Pulmonare (Apexuri) de upper molar teeth. în lower imagine, taken using paralleling technique, shadow de buttress este well above Vârfuri Pulmonare (Apexuri) ca it este true Profil (lateral) imagine Foreshortened imagine due la vertical angle being too steep
+    • Poziționarea și angulația corectă a tubului de raze X sunt necesare pentru a asigura acoperirea adecvată a filmului radiologic, fără dovezi de conare incompletă.
+• Angulația verticală incorectă a tubului de raze X determină deformarea imaginii și poate duce la inexactități în diagnostic.
+• Imaginea poate fi deformată din cauza poziționării incorecte a filmului radiologic și/sau a degetului pacientului.
+• Angulația verticală inexactă a tubului de raze X determină reprezentarea eronată a nivelurilor osului alveolar.
+• Poziționarea orizontală incorectă a tubului de raze X determină suprapunerea orizontală a punctelor de contact ale dinților.
+• Imaginea osului zigomatic se suprapune frecvent peste rădăcinile molarilor superiori.
+Considerații privind imagistica. În mod convențional, tehnica utilizează o distanță mică tub–film radiologic, iar distanța obiect–film este redusă prin apropierea filmului radiologic de aspectul palatinal sau lingual al crestei alveolare.
+Cu planul ocluzal orizontal, tubul de raze X este poziționat vertical prin evaluarea planului bisectat pentru fiecare pacient în parte. Această tehnică este preferată pentru utilizarea angulațiilor verticale standardizate ale tubului (vezi tabelele de la p. 298), deoarece permite adaptarea la variațiile anatomice.
+Conarea incompletă sau tăierea conului apare atunci când tubul de raze X este poziționat incorect.
+Capul tubului de raze X a fost poziționat prea posterior, astfel încât regiunea anterioară a radiografiei retroalveolare nu a fost expusă. Presiunea excesivă la stabilizarea filmului radiologic sau plasarea incorectă a filmului radiologic în cavitatea bucală determină îndoirea suportului filmului radiologic în timpul expunerii. Efectul angulației fasciculului asupra nivelurilor osoase parodontale. Unghiul vertical abrupt (extrem dreapta) maschează pierderea osoasă, în timp ce unghiul prea mic (centru) amplifică extinderea pierderii osoase. Imaginea din extrema stângă a acestei serii de cranii uscate reprezintă geometria corectă și nivelurile osoase precise. Suprapunerea structurilor din cauza angulației orizontale incorecte a tubului. Radiografia retroalveolară superioară a fost realizată utilizând tehnica unghiului bisector, rezultând o radioopacitate densă a stâlpului zigomatic, care se suprapune peste și ascunde vârfurile rădăcinilor molarilor superiori. În imaginea inferioară, realizată utilizând tehnica paralelismului, umbra stâlpului se află mult deasupra vârfurilor rădăcinilor, deoarece aceasta este o imagine în profil adevărată. Imagine scurtată din cauza unghiului vertical prea abrupt.
 
 
 ### 🖼️ Imagini
@@ -278,23 +285,23 @@ X-ray tube cap was poziționat too far posteriorly so anterior region de periapi
 
 ![10 Radiografie Dentară Retroalveolară (Periapicală)](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![și mandibular radiografie, respectively).](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_2.jpeg)
+![și radiografia mandibulară, respectiv).](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_2.jpeg)
 
-<figcaption><strong>și mandibular radiografie, respectively).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>și radiografia mandibulară, respectiv).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Positioning de pacientul și X-ray tube pentru periapical radiografie](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_3.jpeg)
+![Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_3.jpeg)
 
-<figcaption><strong>Positioning de pacientul și X-ray tube pentru periapical radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -308,9 +315,9 @@ X-ray tube cap was poziționat too far posteriorly so anterior region de periapi
 
 <figure class="protocol-image-card" markdown>
 
-![region de periapical radiografie was](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_5.jpeg)
+![regiunea radiografiei retroalveolare a fost](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-bisecting-angle-technique-contd-p311-clark/fig_5.jpeg)
 
-<figcaption><strong>region de periapical radiografie was</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>regiunea radiografiei retroalveolare a fost</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -359,4 +366,4 @@ X-ray tube cap was poziționat too far posteriorly so anterior region de periapi
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 311](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=311)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 311](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

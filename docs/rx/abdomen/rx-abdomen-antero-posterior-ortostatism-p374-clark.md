@@ -3,22 +3,26 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: abdomen
-centering: "• Raza centrală orizontală este orientată perpendicular pe centrul casetei\
-  \ using a 35 \x02 43-cm casetă cu grilă antidifuzoare.\nAntero-posterior (AP) Ortostatism\
-  \ radiografie de Abdomen evidențiind Ocluzie intestinală pe intestinul subțire (nivele\
-  \ hidroaerice centrale), cu gas în bowel perete (drept upper quadrant) indicating\
-  \ impending perforation Antero-posterior (AP) stâng Profil (lateral) decubit imagine\
-  \ de abdomenul evidențiind aer liber în abdominal cavity"
+centering: '• Raza centrală orizontală este orientată perpendicular pe centrul casetei,
+  utilizând o casetă cu grilă antidifuzoare de 35 × 43 cm.
+
+  Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind
+  ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale),
+  cu gaz în peretele intestinal (cadranul superior drept), indicând o perforație iminentă.
+  Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng,
+  evidențiind aer liber în cavitatea abdominală.'
 clinical_indications:
-- 359 12 Abdomen Antero-posterior (AP) – Ortostatism mobile set este poziționat la
-  enable Fascicul Orizontal radiografie necessary pentru demonstration de nivele hidroaerice.
+- 359 12 Abdomen în incidență antero-posterioară (AP) – ortostatism. Aparatul mobil
+  este poziționat astfel încât să permită radiografia cu fascicul orizontal, necesară
+  pentru evidențierea nivelelor hidroaerice.
 images:
-- caption: Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind intestin
-    subțire
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism,
+    evidențiind intestinul subțire
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) stâng Profil (lateral) decubit imagine de abdomenul
-    evidențiind
+- caption: Imagine a abdomenului în incidență antero-posterioară (AP), în decubit
+    lateral stâng, evidențiind
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_2.jpeg
@@ -34,13 +38,13 @@ last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 position: '• Pacientul este menținut în decubit lateral stâng timp de 10-20 minute,
-  permițând acumularea aerului liber spre flancul drept pentru evita suprapunerea
-  pe bula gastrică problem de differential diagnosis when air este present pe stâng
-  side de abdomenul within region de stomach.
+  permițând acumularea aerului liber spre flancul drept pentru a evita suprapunerea
+  pe bula gastrică, o problemă de diagnostic diferențial când aerul este prezent în
+  partea stângă a abdomenului, în regiunea stomacului.
 
-  • casetă cu grilă antidifuzoare este sprijinit vertically în unghi drept față de
-  orizontal raza centrală, și este poziționat pe / sprijinit de posterior aspect de
-  pacientul pentru include drept side de cupole diafragmatice.'
+  • Caseta cu grilă antidifuzoare este sprijinită vertical, în unghi drept față de
+  raza centrală orizontală, și este poziționată pe / sprijinită de fața posterioară
+  a pacientului, astfel încât să includă partea dreaptă a cupolelor diafragmatice.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -49,7 +53,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Abdomen).
+- Vizualizarea clară a întregii arii anatomice (Abdomen).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -57,15 +61,15 @@ sid_dff: 100 cm
 slug: rx-abdomen-antero-posterior-ortostatism-p374-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 374
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=374
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Abdomen Antero-Posterior (AP) - Ortostatism
 ---
 # Rx Abdomen Antero-Posterior (AP) - Ortostatism
@@ -87,7 +91,7 @@ title: Rx Abdomen Antero-Posterior (AP) - Ortostatism
 
     === "Indicații Clinice"
 
-        - 359 12 Abdomen Antero-posterior (AP) – Ortostatism mobile set este poziționat la enable Fascicul Orizontal radiografie necessary pentru demonstration de nivele hidroaerice.
+        - 359 12 Abdomen în incidență antero-posterioară (AP) – ortostatism. Aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal, necesară pentru evidențierea nivelelor hidroaerice.
 
     === "Ghid Național IRIS"
 
@@ -101,10 +105,10 @@ title: Rx Abdomen Antero-Posterior (AP) - Ortostatism
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este menținut în decubit lateral stâng timp de 10-20 minute, permițând acumularea aerului liber spre flancul drept pentru evita suprapunerea pe bula gastrică problem de differential diagnosis when air este present pe stâng side de abdomenul within region de stomach.
-• casetă cu grilă antidifuzoare este sprijinit vertically în unghi drept față de orizontal raza centrală, și este poziționat pe / sprijinit de posterior aspect de pacientul pentru include drept side de cupole diafragmatice.
-    - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei using a 35  43-cm casetă cu grilă antidifuzoare.
-Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind Ocluzie intestinală pe intestinul subțire (nivele hidroaerice centrale), cu gas în bowel perete (drept upper quadrant) indicating impending perforation Antero-posterior (AP) stâng Profil (lateral) decubit imagine de abdomenul evidențiind aer liber în abdominal cavity
+    - **Poziție Pacient:** • Pacientul este menținut în decubit lateral stâng timp de 10-20 minute, permițând acumularea aerului liber spre flancul drept pentru a evita suprapunerea pe bula gastrică, o problemă de diagnostic diferențial când aerul este prezent în partea stângă a abdomenului, în regiunea stomacului.
+• Caseta cu grilă antidifuzoare este sprijinită vertical, în unghi drept față de raza centrală orizontală, și este poziționată pe / sprijinită de fața posterioară a pacientului, astfel încât să includă partea dreaptă a cupolelor diafragmatice.
+    - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei, utilizând o casetă cu grilă antidifuzoare de 35 × 43 cm.
+Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale), cu gaz în peretele intestinal (cadranul superior drept), indicând o perforație iminentă. Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng, evidențiind aer liber în cavitatea abdominală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -115,19 +119,19 @@ Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind Ocluzie in
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 43 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Abdomen).
+    - Vizualizarea clară a întregii arii anatomice (Abdomen).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -151,17 +155,17 @@ Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind Ocluzie in
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind intestin subțire](../../assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_1.jpeg)
+![Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind intestinul subțire](../../assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_1.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind intestin subțire</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind intestinul subțire</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) stâng Profil (lateral) decubit imagine de abdomenul evidențiind](../../assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_2.jpeg)
+![Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng, evidențiind](../../assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) stâng Profil (lateral) decubit imagine de abdomenul evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng, evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -194,4 +198,4 @@ Antero-posterior (AP) Ortostatism radiografie de Abdomen evidențiind Ocluzie in
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 374](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=374)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 374](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -2,34 +2,35 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: Horizon̍ al la receptorul de imagine și exiting acantion
+centering: Orizontal față de receptorul de imagine și ieșind la acantion
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 954, imaginea 1
+- caption: Merrill — pagina 954, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig1.png
-- caption: Merrill — pagina PDF 954, imaginea 2
+- caption: Merrill — pagina 954, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig2.png
-- caption: Merrill — pagina PDF 954, imaginea 3
+- caption: Merrill — pagina 954, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul Poziție Șezândă în ortostatism, facing stativ
-  vertical Bucky. se centrează MSP plane de pacientul’s cap la linia mediană grilă
-  device.; Because this poziție este uncomfortable pentru pacientul la hold, have
-  receptorul de imagine și equipment în poziție astfel încât examination poate fie
-  performed quickly. Hyperextend pacientul’s neck la approximately correct poziție,
-  și then se centrează receptorul de imagine la acantion. se sprijină pacientul’s
-  chin pe stativ vertical Bucky și adjust it astfel încât MSP este perpendicular pe
-  plane de receptorul de imagine. Using protractor ca guide, se ajustează cap astfel
-  încât linie orbitomeatală (LOM) forms angle de 37 grade de la plane de receptorul
-  de imagine (see Figs. 11.174 și 11.176). ca positioning check pentru average-shaped
-  Craniu, linie mentomeatală (LMM) line trebuie să fie approximately perpendicular
-  pe receptorul de imagine (RI) plane. Se imobilizează capul pacientului.
+position: Se poziționează pacientul în poziție șezândă, în ortostatism, cu fața către
+  stativul vertical Bucky. Se centrează MSP al capului pacientului pe linia mediană
+  a dispozitivului cu grilă. Deoarece această poziție este inconfortabilă pentru pacient
+  pentru menținere, receptorul de imagine și echipamentul trebuie să fie în poziție
+  astfel încât examinarea să poată fi efectuată rapid. Hiperextindeți gâtul pacientului
+  până la poziția corectă aproximativă, apoi centrați receptorul de imagine la acantion.
+  Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât
+  MSP să fie perpendicular pe planul receptorului de imagine. Folosind raportorul
+  ca ghid, ajustați capul astfel încât linia orbitomeatală (LOM) să formeze un unghi
+  de 37 grade față de planul receptorului de imagine (vezi Fig. 11.174 și 11.176).
+  Ca verificare a poziționării pentru un craniu de formă medie, linia mentomeatală
+  (LMM) trebuie să fie aproximativ perpendiculară pe planul receptorului de imagine
+  (RI). Imobilizați capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -41,56 +42,54 @@ source_pages:
 - 954
 source_sections:
   collimation: ''
-  cr: • Horizon̍ al la receptorul de imagine și exiting acantion
-  part_pos: '• Because this poziție este uncomfortable pentru pacientul la hold, have
-    receptorul de imagine și equipment în poziție astfel încât examination poate fie
+  cr: • Orizontal față de receptorul de imagine și ieșind la acantion
+  part_pos: '• Deoarece această poziție este inconfortabilă pentru pacient pentru
+    menținere, receptorul de imagine și echipamentul trebuie să fie în poziție astfel
+    încât examinarea să poată fi efectuată rapid.
 
-    performed quickly.
+    • Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi
+    centrați receptorul de imagine la acantion.
 
-    • Hyperextend pacientul’s neck la approximately correct poziție, și then se centrează
-    receptorul de imagine la acantion.
+    • Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel
+    încât MSP să fie perpendicular pe planul receptorului de imagine.
 
-    • se sprijină pacientul’s chin pe stativ vertical Bucky și adjust it astfel încât
-    MSP este perpendicular pe plane de receptorul de imagine.
+    • Folosind raportorul ca ghid, ajustați capul astfel încât linia orbitomeatală
+    (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine (vezi
+    Fig. 11.174 și 11.176). Ca verificare a poziționării pentru un craniu de formă
+    medie, linia mentomeatală (LMM) trebuie să fie aproximativ perpendiculară pe planul
+    receptorului de imagine (RI).
 
-    • Using protractor ca guide, se ajustează cap astfel încât linie orbitomeatală
-    (LOM) forms angle de 37 grade de la plane de receptorul de imagine (see Figs.
-    11.174 și
+    • Imobilizați capul pacientului.'
+  patient_pos: '• Se poziționează pacientul așezat pe scaun, în ortostatism, cu fața
+    către stativul vertical Bucky.
 
-    11.176). ca positioning check pentru average-shaped skull, linie mentomeatală
-    (LMM) line trebuie să fie approximately perpendicular pe receptorul de imagine
-    (RI) plane.
-
-    • Se imobilizează capul pacientului.'
-  patient_pos: '• se poziționează pacientul așezat pe scaun în ortostatism, facing
-    stativ vertical Bucky.
-
-    • se centrează MSP plane de pacientul’s cap la linia mediană grilă device.'
+    • Se centrează MSP al capului pacientului pe linia mediană a dispozitivului cu
+    grilă.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    (24 ×
 
-    30 cm) longitudinal.
+    30 cm), longitudinal.
 
-    pentru Waters method, 13, 14 goal este la hyperextend pacientul’s neck just enough
-    la place dense petrosae immediately below sinusuri maxilare floors (Fig. 11.174).
-    When gâtul este extins too little, petrosae sunt projected over inferior portions
-    de maxillary
+    Pentru metoda Waters, 13, 14 scopul este hiperextinderea gâtului pacientului suficient
+    pentru a plasa stâncile pietroase imediat sub planșeele sinusurilor maxilare (Fig.
+    11.174). Când gâtul este extins insuficient, stâncile pietroase sunt proiectate
+    peste porțiunile inferioare ale sinusurilor maxilare și ascund condițiile patologice
+    subiacente (Fig. 11.175). Când gâtul este extins excesiv, sinusurile maxilare
+    sunt scurtate,
 
-    sinuses și obscure underlying pathologic conditions (Fig. 11.175). When gâtul
-    este extins too much, sinusuri maxilare sunt foreshortened,
-
-    și antral floors sunt nu vizualizat.'
+    iar planșeele antrale nu sunt vizualizate.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 953–954
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=953
+- title: Merrill’s Atlas, 11. Cranium, pagini 953–954
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Maxillary Sinuses — Parietoacanthial Incidență — Incidență Occipito-Mentonieră
-  (Metoda Waters) (Merrill)
+title: Radiografia sinusurilor maxilare — incidență parietoacantială — incidență occipito-mentonieră
+  (metoda Waters) (Merrill)
 ---
-# Rx Maxillary Sinuses — Parietoacanthial Incidență — Incidență Occipito-Mentonieră (Metoda Waters) (Merrill)
+# Radiografia sinusurilor maxilare — incidență parietoacantială — incidență occipito-mentonieră (metoda Waters) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -123,8 +122,8 @@ title: Rx Maxillary Sinuses — Parietoacanthial Incidență — Incidență Occ
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul Poziție Șezândă în ortostatism, facing stativ vertical Bucky. se centrează MSP plane de pacientul’s cap la linia mediană grilă device.; Because this poziție este uncomfortable pentru pacientul la hold, have receptorul de imagine și equipment în poziție astfel încât examination poate fie performed quickly. Hyperextend pacientul’s neck la approximately correct poziție, și then se centrează receptorul de imagine la acantion. se sprijină pacientul’s chin pe stativ vertical Bucky și adjust it astfel încât MSP este perpendicular pe plane de receptorul de imagine. Using protractor ca guide, se ajustează cap astfel încât linie orbitomeatală (LOM) forms angle de 37 grade de la plane de receptorul de imagine (see Figs. 11.174 și 11.176). ca positioning check pentru average-shaped Craniu, linie mentomeatală (LMM) line trebuie să fie approximately perpendicular pe receptorul de imagine (RI) plane. Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** Horizon̍ al la receptorul de imagine și exiting acantion
+    - **Poziție Pacient:** Se poziționează pacientul în poziție șezândă, în ortostatism, cu fața către stativul vertical Bucky. Se centrează MSP al capului pacientului pe linia mediană a dispozitivului cu grilă. Deoarece această poziție este inconfortabilă pentru pacient pentru menținere, receptorul de imagine și echipamentul trebuie să fie în poziție astfel încât examinarea să poată fi efectuată rapid. Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi centrați receptorul de imagine la acantion. Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât MSP să fie perpendicular pe planul receptorului de imagine. Folosind raportorul ca ghid, ajustați capul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine (vezi Fig. 11.174 și 11.176). Ca verificare a poziționării pentru un craniu de formă medie, linia mentomeatală (LMM) trebuie să fie aproximativ perpendiculară pe planul receptorului de imagine (RI). Imobilizați capul pacientului.
+    - **Punct de Centrare Fascicul:** Orizontal față de receptorul de imagine și ieșind la acantion
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -167,25 +166,25 @@ title: Rx Maxillary Sinuses — Parietoacanthial Incidență — Incidență Occ
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 954, imaginea 1](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig1.png)
+![Merrill — pagina 954, imaginea 1](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 954, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 954, imaginea 2](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 954, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 954, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 954, imaginea 3](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig3.png)
+![Merrill — pagina 954, imaginea 2](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 954, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 954, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 954, imaginea 3](../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig3.png)
+
+<figcaption><strong>Merrill — pagina 954, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -202,42 +201,39 @@ title: Rx Maxillary Sinuses — Parietoacanthial Incidență — Incidență Occ
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 953–954](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=953)
+- [Merrill’s Atlas, 11. Cranium, pagini 953–954](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### collimation
+### colimare
 
 
 
-### cr
+### raza centrală
 
-• Horizon̍ al la receptorul de imagine și exiting acantion
+• Orizontal față de receptorul de imagine și ieșind la acantion
 
 ### part_pos
 
-• Because this poziție este uncomfortable pentru pacientul la hold, have receptorul de imagine și equipment în poziție astfel încât examination poate fie
-performed quickly.
-• Hyperextend pacientul’s neck la approximately correct poziție, și then se centrează receptorul de imagine la acantion.
-• se sprijină pacientul’s chin pe stativ vertical Bucky și adjust it astfel încât MSP este perpendicular pe plane de receptorul de imagine.
-• Using protractor ca guide, se ajustează cap astfel încât linie orbitomeatală (LOM) forms angle de 37 grade de la plane de receptorul de imagine (see Figs. 11.174 și
-11.176). ca positioning check pentru average-shaped skull, linie mentomeatală (LMM) line trebuie să fie approximately perpendicular pe receptorul de imagine (RI) plane.
-• Se imobilizează capul pacientului.
+• Deoarece această poziție este inconfortabilă pentru pacient pentru menținere, receptorul de imagine și echipamentul trebuie să fie în poziție astfel încât examinarea să poată fi efectuată rapid.
+• Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi centrați receptorul de imagine la acantion.
+• Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
+• Folosind raportorul ca ghid, ajustați capul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine (vezi Fig. 11.174 și 11.176). Ca verificare a poziționării pentru un craniu de formă medie, linia mentomeatală (LMM) trebuie să fie aproximativ perpendiculară pe planul receptorului de imagine (RI).
+• Imobilizați capul pacientului.
 
 ### patient_pos
 
-• se poziționează pacientul așezat pe scaun în ortostatism, facing stativ vertical Bucky.
-• se centrează MSP plane de pacientul’s cap la linia mediană grilă device.
+• Se poziționează pacientul așezat pe scaun, în ortostatism, cu fața către stativul vertical Bucky.
+• Se centrează MSP al capului pacientului pe linia mediană a dispozitivului cu grilă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-pentru Waters method, 13, 14 goal este la hyperextend pacientul’s neck just enough la place dense petrosae immediately below sinusuri maxilare floors (Fig. 11.174). When gâtul este extins too little, petrosae sunt projected over inferior portions de maxillary
-sinuses și obscure underlying pathologic conditions (Fig. 11.175). When gâtul este extins too much, sinusuri maxilare sunt foreshortened,
-și antral floors sunt nu vizualizat.
+poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
+30 cm), longitudinal.
+Pentru metoda Waters, 13, 14 scopul este hiperextinderea gâtului pacientului suficient pentru a plasa stâncile pietroase imediat sub planșeele sinusurilor maxilare (Fig. 11.174). Când gâtul este extins insuficient, stâncile pietroase sunt proiectate peste porțiunile inferioare ale sinusurilor maxilare și ascund condițiile patologice subiacente (Fig. 11.175). Când gâtul este extins excesiv, sinusurile maxilare sunt scurtate,
+iar planșeele antrale nu sunt vizualizate.
 

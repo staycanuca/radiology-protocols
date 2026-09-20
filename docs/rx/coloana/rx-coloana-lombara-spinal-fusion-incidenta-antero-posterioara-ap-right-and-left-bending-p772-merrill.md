@@ -2,45 +2,45 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: perpendicular pe level de third lumbar vertebra, 1 la 1.5 inches (2.5 la
-  3.8 cm) above crestele iliace pe MSP Se centrează receptorul de imagine pe raza
-  centrală.
+centering: perpendicular pe nivelul celei de-a treia vertebre lombare, la 1 la 1.5
+  inches (2.5 la 3.8 cm) deasupra crestelor iliace, pe MSP. Se centrează receptorul
+  de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 773, imaginea 1
+- caption: Merrill — pagina 773, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p773_fig1.png
-- caption: Merrill — pagina PDF 774, imaginea 2
+- caption: Merrill — pagina 774, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p774_fig2.png
-- caption: Merrill — pagina PDF 775, imaginea 3
+- caption: Merrill — pagina 775, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p775_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție și se centrează MSP de corp
-  la linia mediană grilă. These bending poziții poate also fie performed cu pacientul
-  în ortostatism.; Take first radiografie cu maximum drept bending. Take second radiografie
-  cu maximum stâng bending. la obtain equal bending force throughout coloană vertebrală
-  when pacientul este Decubit dorsal, cross pacientul’s membru inferior pe opposite
-  side la fie flectat over other membru inferior. drept bending requires stâng membru
-  inferior la fie crossed over drept. Move pacientul’s heels spre side that este flectat.
-  se imobilizează heels cu săculeți cu nisip. Move umerii directly lateral ca far
-  ca possible fără rotating Bazin (bazin (pelvis)) (Fig. 9.142). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: se așază pacientul în decubit dorsal și se centrează MSP al corpului pe
+  linia mediană a grilei. Aceste poziții de înclinare pot fi efectuate și cu pacientul
+  în ortostatism.; Se efectuează prima radiografie cu înclinare maximă spre dreapta.
+  Se efectuează a doua radiografie cu înclinare maximă spre stânga. Pentru a obține
+  o forță egală de înclinare pe toată lungimea coloanei vertebrale atunci când pacientul
+  este în decubit dorsal, se trece membrul inferior al pacientului peste partea opusă
+  pentru a fi flectat peste celălalt membru inferior. Înclinarea spre dreapta necesită
+  trecerea membrului inferior stâng peste cel drept. Se deplasează călcâiele pacientului
+  spre partea care este flectată. Se imobilizează călcâiele cu săculeți cu nisip.
+  Se deplasează umerii direct lateral, cât mai mult posibil, fără rotirea bazinului
+  (Fig. 9.142). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Site de spinal fusion centrat și including superior și inferior vertebre
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Bazin (bazin (pelvis))
-  (simetric ilia)
-- Bending directions correctly identified cu appropriate lead markeri
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Sediul fuziunii vertebrale centrat și incluzând vertebrele superioară și inferioară
+- Absența rotației anatomice (simetrie bilaterală perfectă) a bazinului (ilii simetrici)
+- Direcțiile de înclinare identificate corect cu markeri de plumb adecvați
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill
 source_pages:
@@ -49,74 +49,69 @@ source_pages:
 - 774
 - 775
 source_sections:
-  anatomy: 'coloană lombară, în maximum drept și stâng bending (lateral flexion) (Figs.
-    9.143 și 9.144). These studies sunt used la evaluate integrity
-
-    de spinal fusion și sunt usually performed 6 months after fusion procedure. This
-    procedure poate also fie used în pacienți cu early scoliosis
-
-    la determine presence de structural change when bending la drept și stâng. studies
-    poate fie used la localize herniated disk, ca vizualizat
-
-    prin limitation de mișcare la site de lesion.'
-  collimation: • Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17
-    inches (35 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated
-    expunere field.
-  cr: '• perpendicular pe level de third lumbar vertebra, 1 la 1.5 inches (2.5 la
-    3.8 cm) above crestele iliace pe MSP
+  anatomy: coloana lombară în înclinare maximă spre dreapta și spre stânga (flexie
+    laterală) (Fig. 9.143 și 9.144). Aceste examinări sunt utilizate pentru evaluarea
+    integrității fuziunii vertebrale și sunt efectuate de obicei la 6 months după
+    procedura de fuziune. Această procedură poate fi utilizată și la pacienții cu
+    scolioză incipientă pentru a determina prezența modificărilor structurale la înclinarea
+    spre dreapta și spre stânga. Examinările pot fi utilizate pentru localizarea discului
+    herniat, evidențiat prin limitarea mișcării la sediul leziunii.
+  collimation: • Se ajustează câmpul de iradiere la 10 × 12 inches (24 × 30 cm) sau
+    14 × 17 inches (35 × 43 cm) pe colimator. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• perpendicular pe nivelul celei de-a treia vertebre lombare, la 1 la 1.5 inches
+    (2.5 la 3.8 cm) deasupra crestelor iliace, pe MSP
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Site de spinal fusion centrat și including superior și inferior vertebre
+    • Sediul fuziunii vertebrale centrat și incluzând vertebrele superioară și inferioară
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de bazinul (simetric
-    ilia)
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a bazinului (ilii
+    simetrici)
 
-    • Bending directions correctly identified cu appropriate lead markeri
+    • Direcțiile de înclinare identificate corect cu markeri de plumb adecvați
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Take first radiografie cu maximum drept bending. Take second radiografie
-    cu maximum stâng bending.
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: '• Se efectuează prima radiografie cu înclinare maximă spre dreapta. Se
+    efectuează a doua radiografie cu înclinare maximă spre stânga.
 
-    • la obtain equal bending force throughout coloană vertebrală when pacientul este
-    în decubit dorsal, cross pacientul’s membru inferior pe opposite side la fie flectat
+    • Pentru a obține o forță egală de înclinare pe toată lungimea coloanei vertebrale
+    atunci când pacientul este în decubit dorsal, se trece membrul inferior al pacientului
+    peste partea opusă pentru a fi flectat peste celălalt membru inferior. Înclinarea
+    spre dreapta necesită trecerea membrului inferior stâng peste cel drept.
 
-    over other membru inferior. drept bending requires stâng membru inferior la fie
-    crossed over drept.
+    • Se deplasează călcâiele pacientului spre partea care este flectată. Se imobilizează
+    călcâiele cu săculeți cu nisip.
 
-    • Move pacientul’s heels spre side that este flectat. se imobilizează heels cu
-    săculeți cu nisip.
+    • Se deplasează umerii direct lateral, cât mai mult posibil, fără rotirea bazinului
+    (Fig. 9.142).
 
-    • Move umerii directly lateral ca far ca possible fără rotating bazinul (Fig.
-    9.142).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal și se centrează MSP de corp
-    la linia mediană grilă. These bending poziții poate also fie
-
-    performed cu pacientul în ortostatism.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • se așază pacientul în decubit dorsal și se centrează MSP al corpului
+    pe linia mediană a grilei. Aceste poziții de înclinare pot fi efectuate și cu
+    pacientul în ortostatism.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal pentru fiecare expunere. receptorul
-    de imagine size este determined prin number de vertebral segments la fie imaged.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; placa pentru raza centrală: 10 × 12 inches
+    (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm), dispusă longitudinal pentru fiecare
+    expunere. Dimensiunea receptorului de imagine este determinată de numărul segmentelor
+    vertebrale care trebuie imaginate.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 772–775
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=772
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 772–775
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17
-    inches (35 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated
-    expunere field.
-title: 'Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară (AP) — Right
-  and left bending (Merrill)'
+  collimation: Se ajustează câmpul de iradiere la 10 × 12 inches (24 × 30 cm) sau
+    14 × 17 inches (35 × 43 cm) pe colimator. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: 'Rx Coloană Lombară: Fuziune vertebrală — Incidență antero-posterioară (AP)
+  — Înclinare spre dreapta și spre stânga (Merrill)'
 ---
-# Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară (AP) — Right and left bending (Merrill)
+# Rx Coloană Lombară: Fuziune vertebrală — Incidență antero-posterioară (AP) — Înclinare spre dreapta și spre stânga (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -149,8 +144,8 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară 
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție și se centrează MSP de corp la linia mediană grilă. These bending poziții poate also fie performed cu pacientul în ortostatism.; Take first radiografie cu maximum drept bending. Take second radiografie cu maximum stâng bending. la obtain equal bending force throughout coloană vertebrală when pacientul este Decubit dorsal, cross pacientul’s membru inferior pe opposite side la fie flectat over other membru inferior. drept bending requires stâng membru inferior la fie crossed over drept. Move pacientul’s heels spre side that este flectat. se imobilizează heels cu săculeți cu nisip. Move umerii directly lateral ca far ca possible fără rotating Bazin (bazin (pelvis)) (Fig. 9.142). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe level de third lumbar vertebra, 1 la 1.5 inches (2.5 la 3.8 cm) above crestele iliace pe MSP Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** se așază pacientul în decubit dorsal și se centrează MSP al corpului pe linia mediană a grilei. Aceste poziții de înclinare pot fi efectuate și cu pacientul în ortostatism.; Se efectuează prima radiografie cu înclinare maximă spre dreapta. Se efectuează a doua radiografie cu înclinare maximă spre stânga. Pentru a obține o forță egală de înclinare pe toată lungimea coloanei vertebrale atunci când pacientul este în decubit dorsal, se trece membrul inferior al pacientului peste partea opusă pentru a fi flectat peste celălalt membru inferior. Înclinarea spre dreapta necesită trecerea membrului inferior stâng peste cel drept. Se deplasează călcâiele pacientului spre partea care este flectată. Se imobilizează călcâiele cu săculeți cu nisip. Se deplasează umerii direct lateral, cât mai mult posibil, fără rotirea bazinului (Fig. 9.142). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe nivelul celei de-a treia vertebre lombare, la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace, pe MSP. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -166,19 +161,19 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Site de spinal fusion centrat și including superior și inferior vertebre
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Bazin (bazin (pelvis)) (simetric ilia)
-    - Bending directions correctly identified cu appropriate lead markeri
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Sediul fuziunii vertebrale centrat și incluzând vertebrele superioară și inferioară
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a bazinului (ilii simetrici)
+    - Direcțiile de înclinare identificate corect cu markeri de plumb adecvați
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -198,25 +193,25 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 773, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p773_fig1.png)
+![Merrill — pagina 773, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p773_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 773, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 774, imaginea 2](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p774_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 774, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 773, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 775, imaginea 3](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p775_fig3.png)
+![Merrill — pagina 774, imaginea 2](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p774_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 775, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 774, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 775, imaginea 3](../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-antero-posterioara-ap-right-and-left-bending-p772-merrill/p775_fig3.png)
+
+<figcaption><strong>Merrill — pagina 775, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -233,55 +228,49 @@ title: 'Rx Coloană Lombară: Spinal Fusion — Incidență Antero-Posterioară 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 772–775](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=772)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 772–775](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-coloană lombară, în maximum drept și stâng bending (lateral flexion) (Figs. 9.143 și 9.144). These studies sunt used la evaluate integrity
-de spinal fusion și sunt usually performed 6 months after fusion procedure. This procedure poate also fie used în pacienți cu early scoliosis
-la determine presence de structural change when bending la drept și stâng. studies poate fie used la localize herniated disk, ca vizualizat
-prin limitation de mișcare la site de lesion.
+coloana lombară în înclinare maximă spre dreapta și spre stânga (flexie laterală) (Fig. 9.143 și 9.144). Aceste examinări sunt utilizate pentru evaluarea integrității fuziunii vertebrale și sunt efectuate de obicei la 6 months după procedura de fuziune. Această procedură poate fi utilizată și la pacienții cu scolioză incipientă pentru a determina prezența modificărilor structurale la înclinarea spre dreapta și spre stânga. Examinările pot fi utilizate pentru localizarea discului herniat, evidențiat prin limitarea mișcării la sediul leziunii.
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe level de third lumbar vertebra, 1 la 1.5 inches (2.5 la 3.8 cm) above crestele iliace pe MSP
+• perpendicular pe nivelul celei de-a treia vertebre lombare, la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace, pe MSP
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Site de spinal fusion centrat și including superior și inferior vertebre
-• Absența rotației anatomice (simetrie bilaterală perfectă) de bazinul (simetric ilia)
-• Bending directions correctly identified cu appropriate lead markeri
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Sediul fuziunii vertebrale centrat și incluzând vertebrele superioară și inferioară
+• Absența rotației anatomice (simetrie bilaterală perfectă) a bazinului (ilii simetrici)
+• Direcțiile de înclinare identificate corect cu markeri de plumb adecvați
+• Detalii osoase trabeculare și țesuturi moi adiacente
 
 ### part_pos
 
-• Take first radiografie cu maximum drept bending. Take second radiografie cu maximum stâng bending.
-• la obtain equal bending force throughout coloană vertebrală when pacientul este în decubit dorsal, cross pacientul’s membru inferior pe opposite side la fie flectat
-over other membru inferior. drept bending requires stâng membru inferior la fie crossed over drept.
-• Move pacientul’s heels spre side that este flectat. se imobilizează heels cu săculeți cu nisip.
-• Move umerii directly lateral ca far ca possible fără rotating bazinul (Fig. 9.142).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se efectuează prima radiografie cu înclinare maximă spre dreapta. Se efectuează a doua radiografie cu înclinare maximă spre stânga.
+• Pentru a obține o forță egală de înclinare pe toată lungimea coloanei vertebrale atunci când pacientul este în decubit dorsal, se trece membrul inferior al pacientului peste partea opusă pentru a fi flectat peste celălalt membru inferior. Înclinarea spre dreapta necesită trecerea membrului inferior stâng peste cel drept.
+• Se deplasează călcâiele pacientului spre partea care este flectată. Se imobilizează călcâiele cu săculeți cu nisip.
+• Se deplasează umerii direct lateral, cât mai mult posibil, fără rotirea bazinului (Fig. 9.142).
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal și se centrează MSP de corp la linia mediană grilă. These bending poziții poate also fie
-performed cu pacientul în ortostatism.
+• se așază pacientul în decubit dorsal și se centrează MSP al corpului pe linia mediană a grilei. Aceste poziții de înclinare pot fi efectuate și cu pacientul în ortostatism.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal pentru fiecare expunere. receptorul de imagine size este determined prin number de vertebral segments la fie imaged.
+poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; placa pentru raza centrală: 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm), dispusă longitudinal pentru fiecare expunere. Dimensiunea receptorului de imagine este determinată de numărul segmentelor vertebrale care trebuie imaginate.
 

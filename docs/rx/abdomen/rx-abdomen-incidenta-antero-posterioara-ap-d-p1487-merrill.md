@@ -1,53 +1,54 @@
 ---
 author: Referință Merrill
-breathing: Expiration.
+breathing: Expir.
 category: abdomen
-centering: perpendicular pe center de grila along planul mediosagital și la nivelul
-  crestele iliace sau 10th rib laterally.
+centering: Perpendicular pe centrul grilei, în planul mediosagital și la nivelul crestelor
+  iliace sau al coastei a 10-a, lateral.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1488, imaginea 1
+- caption: Merrill — pagina 1488, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1488_fig1.png
-- caption: Merrill — pagina PDF 1489, imaginea 2
+- caption: Merrill — pagina 1489, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1489_fig2.png
-- caption: Merrill — pagina PDF 1490, imaginea 3
+- caption: Merrill — pagina 1490, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1490_fig3.png
 last_updated: '2026-09-16'
 modality: rx
-notes: Hypersthenic pacienți poate require two separate incidențe using transversal
-  grilă. One grilă este poziționat pentru etajul abdominal superior și other pentru
-  etajul abdominal inferior.
-position: If necessary, se ajustează pacient’s bed la achieve orizontal bed poziție.
-  se așază pacientul în Decubit dorsal poziție.; poziție grila under pacientul la
-  show abdominal anatomy de la simfiză pubiană la upper abdominal region. Keep grila
-  de la tipping side la side prin placing it în center de bed și, if necessary, stabilize
-  it cu blankets sau towels. Use pacientul’s draw sheet la roll pacientul; this makes
-  it easier la shift pacientul de la side la side during positioning de receptorul
-  de imagine și provides barrier între pacient’s skin și grila. Se centrează planul
-  mediosagital al pacientului pe linia mediană grilei antidifuzoare. se centrează
-  grilă la level de crestele iliace. If emphasis este pe etajul abdominal superior,
-  se centrează grilă 2 inches (5 cm) above crestele iliace sau high enough pentru
-  include cupole diafragmatice. Umerii și bazinul pacientului se aliniază în același
-  plan coronal, fără rotație (Fig. 20.14). Move pacientul’s brațe out de region de
-  abdomenul.
+notes: La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând
+  grila orientată transversal. O grilă este poziționată pentru etajul abdominal superior,
+  iar cealaltă pentru etajul abdominal inferior.
+position: Dacă este necesar, se reglează patul pacientului pentru a-l aduce în poziție
+  orizontală. Se așază pacientul în decubit dorsal. Se poziționează grila sub pacient
+  pentru a vizualiza anatomia abdominală de la simfiza pubiană până la regiunea abdominală
+  superioară. Se previne înclinarea laterală a grilei prin plasarea acesteia în centrul
+  patului și, dacă este necesar, se stabilizează cu pături sau prosoape. Se folosește
+  cearșaful de mobilizare al pacientului pentru a-l întoarce; acesta facilitează deplasarea
+  pacientului dintr-o parte în alta în timpul poziționării receptorului de imagine
+  și asigură o barieră între pielea pacientului și grilă. Se centrează planul mediosagital
+  al pacientului pe linia mediană a grilei antidifuzoare. Se centrează grila la nivelul
+  crestelor iliace. Dacă se urmărește în special etajul abdominal superior, se centrează
+  grila la 2 inchi (5 cm) deasupra crestelor iliace sau suficient de sus pentru a
+  include cupolele diafragmatice. Umerii și bazinul pacientului se aliniază în același
+  plan coronal, fără rotație (Fig. 20.14). Se deplasează brațele pacientului în afara
+  regiunii abdominale.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- Evidence de corect collimation
+- 'Următoarele trebuie să fie clar vizualizate:'
+- Dovada unei colimări corecte
 - fără mișcare
-- Outlines de abdominal viscera
-- Abdominal region, including simfiză pubiană sau cupole diafragmatice (ambele poate
-  fie seen pe some pacienți)
-- coloană vertebrală în center de imagine
-- Psoas muscles, lower margin de ficat, și rinichi margins
+- Contururile viscerelor abdominale
+- Regiunea abdominală, inclusiv simfiza pubiană sau cupolele diafragmatice (ambele
+  pot fi vizualizate la unii pacienți)
+- Coloana vertebrală în centrul imaginii
+- Mușchii psoas, marginea inferioară a ficatului și contururile rinichilor
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- simetric appearance de coloană vertebrală și iliac wings
-- Radiographic markeri (ca appropriate)
+- Aspect simetric al coloanei vertebrale și al aripilor iliace
+- Markeri radiografici (după caz)
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill
 source_pages:
@@ -56,72 +57,74 @@ source_pages:
 - 1489
 - 1490
 source_sections:
-  anatomy: This incidență shows inferior margin de ficat, splină, rinichi, și psoas
-    muscles, calcifications, și evidence de tumor masses. If imagine includes etajul
-    abdominal superior și cupole diafragmatice, size și shape de ficat poate fie seen
-    (Fig. 20.15).
-  collimation: • Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-  cr: • perpendicular pe center de grila along planul mediosagital și la nivelul crestele
-    iliace sau 10th rib laterally.
-  criteria: 'following trebuie să fie clearly vizualizat:
+  anatomy: Această incidență evidențiază marginea inferioară a ficatului, splina,
+    rinichii și mușchii psoas, calcificările și semnele de mase tumorale. Dacă imaginea
+    include etajul abdominal superior și cupolele diafragmatice, pot fi vizualizate
+    dimensiunile și forma ficatului (Fig. 20.15).
+  collimation: • Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
+  cr: • Perpendicular pe centrul grilei, în planul mediosagital și la nivelul crestelor
+    iliace sau al coastei a 10-a, lateral.
+  criteria: 'Următoarele trebuie să fie clar vizualizate:
 
-    • Evidence de corect collimation
+    • Dovada unei colimări corecte
 
     • fără mișcare
 
-    • Outlines de abdominal viscera
+    • Contururile viscerelor abdominale
 
-    • Abdominal region, including simfiză pubiană sau cupole diafragmatice (ambele
-    poate fie seen pe some pacienți)
+    • Regiunea abdominală, inclusiv simfiza pubiană sau cupolele diafragmatice (ambele
+    pot fi vizualizate la unii pacienți)
 
-    • coloană vertebrală în center de imagine
+    • Coloana vertebrală în centrul imaginii
 
-    • Psoas muscles, lower margin de ficat, și rinichi margins
+    • Mușchii psoas, marginea inferioară a ficatului și contururile rinichilor
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • simetric appearance de coloană vertebrală și iliac wings
+    • Aspect simetric al coloanei vertebrale și al aripilor iliace
 
-    • Radiographic markeri (ca appropriate)'
-  notes: 'Hypersthenic pacienți poate require two separate incidențe using transversal
-    grilă. One grilă este poziționat pentru etajul abdominal superior și
+    • Markeri radiografici (după caz)'
+  notes: 'La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând
+    grila orientată transversal. O grilă este poziționată pentru etajul abdominal
+    superior, iar
 
-    other pentru etajul abdominal inferior.'
-  part_pos: '• poziție grila under pacientul la show abdominal anatomy de la simfiză
-    pubiană la upper abdominal region.
+    cealaltă pentru etajul abdominal inferior.'
+  part_pos: '• Se poziționează grila sub pacient pentru a vizualiza anatomia abdominală
+    de la simfiza pubiană până la regiunea abdominală superioară.
 
-    • Keep grila de la tipping side la side prin placing it în center de bed și, if
-    necessary, stabilize it cu blankets sau towels.
+    • Se previne înclinarea laterală a grilei prin plasarea acesteia în centrul patului
+    și, dacă este necesar, se stabilizează cu pături sau prosoape.
 
-    • Use pacientul’s draw sheet la roll pacientul; this makes it easier la shift
-    pacientul de la side la side during positioning de receptorul de imagine
+    • Se folosește cearșaful de mobilizare al pacientului pentru a-l întoarce; acesta
+    facilitează deplasarea pacientului dintr-o parte în alta în timpul poziționării
+    receptorului de imagine
 
-    și provides barrier între pacient’s skin și grila.
+    și asigură o barieră între pielea pacientului și grilă.
 
-    • Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare.
+    • Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare.
 
-    • se centrează grilă la level de crestele iliace. If emphasis este pe etajul abdominal
-    superior, se centrează grilă 2 inches (5 cm) above iliac
+    • Se centrează grila la nivelul crestelor iliace. Dacă se urmărește în special
+    etajul abdominal superior, se centrează grila la 2 inchi (5 cm) deasupra crestelor
 
-    creste sau high enough pentru include cupole diafragmatice.
+    iliace sau suficient de sus pentru a include cupolele diafragmatice.
 
     • Umerii și bazinul pacientului se aliniază în același plan coronal, fără rotație
     (Fig. 20.14).
 
-    • Move pacientul’s brațe out de region de abdomenul.'
-  patient_pos: '• If necessary, se ajustează pacient’s bed la achieve orizontal bed
-    poziție.
+    • Se deplasează brațele pacientului în afara regiunii abdominale.'
+  patient_pos: '• Dacă este necesar, se reglează patul pacientului pentru a-l aduce
+    în poziție orizontală.
 
-    • se așază pacientul în decubit dorsal.'
-  respiration: Expiration.
-  tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu longitudinal
-    grilă.
+    • Se așază pacientul în decubit dorsal.'
+  respiration: Expir.
+  tech: Receptorul de imagine trebuie să aibă dimensiunile de 14 × 17 inchi (35 ×
+    43 cm), cu grila orientată longitudinal.
 sources:
-- title: Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1487–1490
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1487
+- title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1487–1490
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
+  collimation: Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
 title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 ---
 # Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
@@ -157,10 +160,10 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 
     ---
 
-    - **Poziție Pacient:** If necessary, se ajustează pacient’s bed la achieve orizontal bed poziție. se așază pacientul în Decubit dorsal poziție.; poziție grila under pacientul la show abdominal anatomy de la simfiză pubiană la upper abdominal region. Keep grila de la tipping side la side prin placing it în center de bed și, if necessary, stabilize it cu blankets sau towels. Use pacientul’s draw sheet la roll pacientul; this makes it easier la shift pacientul de la side la side during positioning de receptorul de imagine și provides barrier între pacient’s skin și grila. Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare. se centrează grilă la level de crestele iliace. If emphasis este pe etajul abdominal superior, se centrează grilă 2 inches (5 cm) above crestele iliace sau high enough pentru include cupole diafragmatice. Umerii și bazinul pacientului se aliniază în același plan coronal, fără rotație (Fig. 20.14). Move pacientul’s brațe out de region de abdomenul.
-    - **Punct de Centrare Fascicul:** perpendicular pe center de grila along planul mediosagital și la nivelul crestele iliace sau 10th rib laterally.
+    - **Poziție Pacient:** Dacă este necesar, se reglează patul pacientului pentru a-l aduce în poziție orizontală. Se așază pacientul în decubit dorsal. Se poziționează grila sub pacient pentru a vizualiza anatomia abdominală de la simfiza pubiană până la regiunea abdominală superioară. Se previne înclinarea laterală a grilei prin plasarea acesteia în centrul patului și, dacă este necesar, se stabilizează cu pături sau prosoape. Se folosește cearșaful de mobilizare al pacientului pentru a-l întoarce; acesta facilitează deplasarea pacientului dintr-o parte în alta în timpul poziționării receptorului de imagine și asigură o barieră între pielea pacientului și grilă. Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare. Se centrează grila la nivelul crestelor iliace. Dacă se urmărește în special etajul abdominal superior, se centrează grila la 2 inchi (5 cm) deasupra crestelor iliace sau suficient de sus pentru a include cupolele diafragmatice. Umerii și bazinul pacientului se aliniază în același plan coronal, fără rotație (Fig. 20.14). Se deplasează brațele pacientului în afara regiunii abdominale.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul grilei, în planul mediosagital și la nivelul crestelor iliace sau al coastei a 10-a, lateral.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Expiration.
+    - **Comandă Respiratorie:** Expir.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -174,23 +177,23 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust la 14 × 17 inches (35 × 43 cm) pe collimator. |
+    | **Colimare Fascicul** | Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm). |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - Evidence de corect collimation
+    - Următoarele trebuie să fie clar vizualizate:
+    - Dovada unei colimări corecte
     - fără mișcare
-    - Outlines de abdominal viscera
-    - Abdominal region, including simfiză pubiană sau cupole diafragmatice (ambele poate fie seen pe some pacienți)
-    - coloană vertebrală în center de imagine
-    - Psoas muscles, lower margin de ficat, și rinichi margins
+    - Contururile viscerelor abdominale
+    - Regiunea abdominală, inclusiv simfiza pubiană sau cupolele diafragmatice (ambele pot fi vizualizate la unii pacienți)
+    - Coloana vertebrală în centrul imaginii
+    - Mușchii psoas, marginea inferioară a ficatului și contururile rinichilor
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - simetric appearance de coloană vertebrală și iliac wings
-    - Radiographic markeri (ca appropriate)
+    - Aspect simetric al coloanei vertebrale și al aripilor iliace
+    - Markeri radiografici (după caz)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -201,7 +204,7 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Hypersthenic pacienți poate require two separate incidențe using transversal grilă. One grilă este poziționat pentru etajul abdominal superior și other pentru etajul abdominal inferior.
+    La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând grila orientată transversal. O grilă este poziționată pentru etajul abdominal superior, iar cealaltă pentru etajul abdominal inferior.
 
 
 ### 🖼️ Imagini
@@ -210,25 +213,25 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1488, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1488_fig1.png)
+![Merrill — pagina 1488, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1488_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1488, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1489, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1489_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1489, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1488, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1490, imaginea 3](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1490_fig3.png)
+![Merrill — pagina 1489, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1489_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1490, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1489, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1490, imaginea 3](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1490_fig3.png)
+
+<figcaption><strong>Merrill — pagina 1490, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -245,62 +248,62 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1487–1490](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1487)
+- [Merrill’s Atlas, 20. Mobile Radiography, pagini 1487–1490](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-This incidență shows inferior margin de ficat, splină, rinichi, și psoas muscles, calcifications, și evidence de tumor masses. If imagine includes etajul abdominal superior și cupole diafragmatice, size și shape de ficat poate fie seen (Fig. 20.15).
+Această incidență evidențiază marginea inferioară a ficatului, splina, rinichii și mușchii psoas, calcificările și semnele de mase tumorale. Dacă imaginea include etajul abdominal superior și cupolele diafragmatice, pot fi vizualizate dimensiunile și forma ficatului (Fig. 20.15).
 
-### collimation
+### colimare
 
-• Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
+• Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
 
-### cr
+### raza centrală
 
-• perpendicular pe center de grila along planul mediosagital și la nivelul crestele iliace sau 10th rib laterally.
+• Perpendicular pe centrul grilei, în planul mediosagital și la nivelul crestelor iliace sau al coastei a 10-a, lateral.
 
-### criteria
+### criterii
 
-following trebuie să fie clearly vizualizat:
-• Evidence de corect collimation
+Următoarele trebuie să fie clar vizualizate:
+• Dovada unei colimări corecte
 • fără mișcare
-• Outlines de abdominal viscera
-• Abdominal region, including simfiză pubiană sau cupole diafragmatice (ambele poate fie seen pe some pacienți)
-• coloană vertebrală în center de imagine
-• Psoas muscles, lower margin de ficat, și rinichi margins
+• Contururile viscerelor abdominale
+• Regiunea abdominală, inclusiv simfiza pubiană sau cupolele diafragmatice (ambele pot fi vizualizate la unii pacienți)
+• Coloana vertebrală în centrul imaginii
+• Mușchii psoas, marginea inferioară a ficatului și contururile rinichilor
 • Absența rotației anatomice (simetrie bilaterală perfectă)
-• simetric appearance de coloană vertebrală și iliac wings
-• Radiographic markeri (ca appropriate)
+• Aspect simetric al coloanei vertebrale și al aripilor iliace
+• Markeri radiografici (după caz)
 
-### notes
+### note
 
-Hypersthenic pacienți poate require two separate incidențe using transversal grilă. One grilă este poziționat pentru etajul abdominal superior și
-other pentru etajul abdominal inferior.
+La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând grila orientată transversal. O grilă este poziționată pentru etajul abdominal superior, iar
+cealaltă pentru etajul abdominal inferior.
 
 ### part_pos
 
-• poziție grila under pacientul la show abdominal anatomy de la simfiză pubiană la upper abdominal region.
-• Keep grila de la tipping side la side prin placing it în center de bed și, if necessary, stabilize it cu blankets sau towels.
-• Use pacientul’s draw sheet la roll pacientul; this makes it easier la shift pacientul de la side la side during positioning de receptorul de imagine
-și provides barrier între pacient’s skin și grila.
-• Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare.
-• se centrează grilă la level de crestele iliace. If emphasis este pe etajul abdominal superior, se centrează grilă 2 inches (5 cm) above iliac
-creste sau high enough pentru include cupole diafragmatice.
+• Se poziționează grila sub pacient pentru a vizualiza anatomia abdominală de la simfiza pubiană până la regiunea abdominală superioară.
+• Se previne înclinarea laterală a grilei prin plasarea acesteia în centrul patului și, dacă este necesar, se stabilizează cu pături sau prosoape.
+• Se folosește cearșaful de mobilizare al pacientului pentru a-l întoarce; acesta facilitează deplasarea pacientului dintr-o parte în alta în timpul poziționării receptorului de imagine
+și asigură o barieră între pielea pacientului și grilă.
+• Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare.
+• Se centrează grila la nivelul crestelor iliace. Dacă se urmărește în special etajul abdominal superior, se centrează grila la 2 inchi (5 cm) deasupra crestelor
+iliace sau suficient de sus pentru a include cupolele diafragmatice.
 • Umerii și bazinul pacientului se aliniază în același plan coronal, fără rotație (Fig. 20.14).
-• Move pacientul’s brațe out de region de abdomenul.
+• Se deplasează brațele pacientului în afara regiunii abdominale.
 
 ### patient_pos
 
-• If necessary, se ajustează pacient’s bed la achieve orizontal bed poziție.
-• se așază pacientul în decubit dorsal.
+• Dacă este necesar, se reglează patul pacientului pentru a-l aduce în poziție orizontală.
+• Se așază pacientul în decubit dorsal.
 
-### respiration
+### respirație
 
-Expiration.
+Expir.
 
-### tech
+### tehnică
 
-receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu longitudinal grilă.
+Receptorul de imagine trebuie să aibă dimensiunile de 14 × 17 inchi (35 × 43 cm), cu grila orientată longitudinal.
 

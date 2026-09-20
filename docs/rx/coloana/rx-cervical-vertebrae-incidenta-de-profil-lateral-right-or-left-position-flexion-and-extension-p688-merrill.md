@@ -2,60 +2,62 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: orizontal și perpendicular la C4
+centering: Orizontal și perpendicular la nivelul C4
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 689, imaginea 1
+- caption: Merrill — pagina 689, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p689_fig1.png
-- caption: Merrill — pagina PDF 690, imaginea 2
+- caption: Merrill — pagina 690, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p690_fig2.png
-- caption: Merrill — pagina PDF 691, imaginea 3
+- caption: Merrill — pagina 691, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p691_fig3.png
 last_updated: '2026-09-16'
 modality: rx
-notes: This procedure trebuie să nu fie attempted until Coloană Cervicală pathology
-  sau suspiciune de fractură has been ruled out. Functional studies de coloană cervicală
-  în Incidență de Profil (lateral) sunt performed la show normal intersegmental movement
-  sau changes în intersegmental alignment resulting de la Traumatism / Regim Urgență
-  sau disease. procese spinoase sunt ridicat și widely separated în flexion poziție
-  și sunt coborât în close approximation în extension poziție. radiologist evaluates
-  posterior aspect de vertebral corpuri pentru intersegmental alignment.
-position: se așază pacientul în true Incidență de Profil (lateral), either Poziție
-  Șezândă sau în ortostatism, before stativ vertical Bucky. Se instruiește pacientul
-  să sit sau stand straight, then se ajustează height de receptorul de imagine so
-  that it este centrat la nivelul level de C4. top de receptorul de imagine este about
-  2 inches (5 cm) above conduct auditiv extern (CAE).; Move pacientul close enough
-  la stativ vertical Bucky la permit adjacent Umăr la rest pe / sprijinit de grilă
-  pentru support. Keep MSP de pacientul’s cap și neck paralel cu plane de receptorul
-  de imagine. Alternatively, perform incidență fără using grilă. Flexion Se instruiește
-  pacientul să drop capul forward și then draw bărbia ca close ca possible la Torace,
-  astfel încât coloană cervicală sunt plasat în poziție de maximum flexion pentru
-  first expunere (Fig. 9.45). Extension Se instruiește pacientul să elevate bărbia
-  ca much ca possible, astfel încât coloană cervicală sunt plasat în poziție de maximum
-  extension pentru second expunere (Fig. 9.46). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+notes: Această procedură nu trebuie încercată până când patologia coloanei cervicale
+  sau suspiciunea de fractură nu a fost exclusă. Studiile funcționale ale coloanei
+  cervicale în incidență de profil se efectuează pentru a evidenția mișcarea intersegmentară
+  normală sau modificările alinierii intersegmentare rezultate în urma unui traumatism
+  / în regim de urgență sau a unei boli. Procesele spinoase sunt ridicate și mult
+  distanțate în poziția de flexie și sunt coborâte și foarte apropiate în poziția
+  de extensie. Radiologul evaluează aspectul posterior al corpurilor vertebrale pentru
+  aprecierea alinierii intersegmentare.
+position: Se așază pacientul în poziție de profil strict, fie în poziție șezândă,
+  fie în ortostatism, în fața stativului vertical Bucky. Se instruiește pacientul
+  să stea drept, așezat sau în picioare, apoi se ajustează înălțimea receptorului
+  de imagine astfel încât acesta să fie centrat la nivelul C4. Marginea superioară
+  a receptorului de imagine se află la aproximativ 2 inch (5 cm) deasupra conductului
+  auditiv extern (CAE).; Se apropie pacientul suficient de stativul vertical Bucky
+  pentru a permite sprijinirea umărului adiacent de grilă. Se menține MSP al capului
+  și gâtului pacientului paralel cu planul receptorului de imagine. Alternativ, se
+  realizează incidența fără utilizarea grilei. Flexie Se instruiește pacientul să
+  aplece capul înainte și apoi să apropie bărbia cât mai mult posibil de torace, astfel
+  încât coloana cervicală să fie în poziție de flexie maximă pentru prima expunere
+  (Fig. 9.45). Extensie Se instruiește pacientul să ridice bărbia cât mai mult posibil,
+  astfel încât coloana cervicală să fie în poziție de extensie maximă pentru a doua
+  expunere (Fig. 9.46). se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- toate seven coloană cervicală în true Incidență de Profil (lateral)
-- Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de Coloană Cervicală
-- Superimposed zygapophyseal articulații și open intervertebral disk spaces
-- Superimposed sau nearly superimposed rami de Mandibulă
-- procese spinoase vizualizat în profile
-- Bony detalii trabeculare osoase și surrounding soft tissues Flexion
-- corp de Mandibulă almost vertical în normal pacient
-- toate seven procese spinoase în profile, ridicat și widely separated Extension
-- corp de Mandibulă almost orizontal în normal pacient
-- toate seven procese spinoase în profile, coborât și closely spaced
-sid_dff: A 60- to 72-inch (152- to 183-cm) SID is recommended to compensate for the
-  increased OID. A longer distance helps show C7.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Toate cele șapte vertebre cervicale în incidență de profil strict
+- Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei
+  cervicale
+- Articulații zigapofizare suprapuse și spații discale intervertebrale deschise
+- Ramurile mandibulei suprapuse sau aproape suprapuse
+- Procesele spinoase vizualizate din profil
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare Flexie
+- Corpul mandibulei aproape vertical la pacientul normal
+- Toate cele șapte procese spinoase de profil, ridicate și mult distanțate Extensie
+- Corpul mandibulei aproape orizontal la pacientul normal
+- Toate cele șapte procese spinoase de profil, coborâte și apropiate
+sid_dff: Se recomandă o SID de 60 până la 72 inci (152 până la 183 cm), pentru a compensa
+  OID crescută. O distanță mai mare facilitează vizualizarea vertebrei C7.
 slug: rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill
 source_pages:
 - 688
@@ -63,111 +65,114 @@ source_pages:
 - 690
 - 691
 source_sections:
-  anatomy: 'Intersegmental alignment de cervical coloană vertebrală when flectat (Fig.
-    9.47) și extins (Fig. 9.48). intervertebral disks și zygapophyseal
+  anatomy: 'Alinierea intersegmentară a coloanei cervicale în flexie (Fig. 9.47) și
+    în extensie (Fig. 9.48). Discurile intervertebrale și articulațiile zigapofizare
 
-    articulații sunt also vizualizat.'
+    sunt, de asemenea, vizualizate.'
   collimation: '• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    pentru flexion, light trebuie să extend de la EAC anteriorly la C7
+    Pentru flexie, câmpul luminos trebuie să se întindă de la EAC anterior până la
+    procesul spinos C7
 
-    spinous process posteriorly. pentru extension, light trebuie să extend de la midmandible
-    anteriorly la C7 spinous process posteriorly. Place
+    posterior. Pentru extensie, câmpul luminos trebuie să se întindă de la mijlocul
+    mandibulei anterior până la procesul spinos C7 posterior. Se plasează
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • orizontal și perpendicular la C4
-  criteria: 'Criterii radiologice de calitate imaginii:
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: • Orizontal și perpendicular la nivelul C4
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a
+    se suprapune peste anatomia de interes
 
-    • toate seven coloană cervicală în true poziție de profil (lateral)
+    • Toate cele șapte vertebre cervicale în poziție de profil strict
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cervical
-    coloană vertebrală
+    • Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei
+    cervicale
 
-    • Superimposed zygapophyseal articulații și open intervertebral disk spaces
+    • Articulații zigapofizare suprapuse și spații discale intervertebrale deschise
 
-    • Superimposed sau nearly superimposed rami de mandible
+    • Ramuri mandibulare suprapuse sau aproape suprapuse
 
-    • procese spinoase vizualizat în profile
+    • Procese spinoase vizualizate de profil
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
-    Flexion
+    Flexie
 
-    • corp de mandible almost vertical în normal pacient
+    • Corpul mandibulei aproape vertical la pacientul normal
 
-    • toate seven procese spinoase în profile, ridicat și widely separated
+    • Toate cele șapte procese spinoase de profil, ridicate și mult distanțate
 
-    Extension
+    Extensie
 
-    • corp de mandible almost orizontal în normal pacient
+    • Corpul mandibulei aproape orizontal la pacientul normal
 
-    • toate seven procese spinoase în profile, coborât și closely spaced'
-  notes: 'This procedure trebuie să nu fie attempted until cervical coloană vertebrală
-    pathology sau suspiciune de fractură has been ruled out.
+    • Toate cele șapte procese spinoase de profil, coborâte și apropiate'
+  notes: 'Această procedură nu trebuie încercată până când patologia coloanei cervicale
+    sau suspiciunea de fractură nu a fost exclusă.
 
-    Functional studies de coloană cervicală în poziție de profil (lateral) sunt performed
-    la show normal intersegmental movement sau changes în
+    Studiile funcționale ale coloanei cervicale în poziție de profil se efectuează
+    pentru a evidenția mișcarea intersegmentară normală sau modificările
 
-    intersegmental alignment resulting de la trauma sau disease. procese spinoase
-    sunt ridicat și widely separated în flexion poziție și
+    alinierii intersegmentare rezultate în urma unui traumatism sau a unei boli. Procesele
+    spinoase sunt ridicate și mult distanțate în poziția de flexie și
 
-    sunt coborât în close approximation în extension poziție.
+    sunt coborâte și foarte apropiate în poziția de extensie.
 
-    radiologist evaluates posterior aspect de vertebral corpuri pentru intersegmental
-    alignment.'
-  part_pos: '• Move pacientul close enough la stativ vertical Bucky la permit adjacent
-    umăr la rest pe / sprijinit de grilă pentru support.
+    Radiologul evaluează aspectul posterior al corpurilor vertebrale pentru aprecierea
+    alinierii intersegmentare.'
+  part_pos: '• Se apropie pacientul suficient de stativul vertical Bucky pentru a
+    permite sprijinirea umărului adiacent de grilă.
 
-    • Keep MSP de pacientul’s cap și neck paralel cu plane de receptorul de imagine.
+    • Se menține MSP al capului și gâtului pacientului paralel cu planul receptorului
+    de imagine.
 
-    • Alternatively, perform incidență fără using grilă.
+    • Alternativ, se realizează incidența fără utilizarea grilei.
 
-    Flexion
+    Flexie
 
-    • Se instruiește pacientul să drop capul forward și then draw bărbia ca close
-    ca possible la toracele, astfel încât coloană cervicală sunt
+    • Se instruiește pacientul să aplece capul înainte și apoi să apropie bărbia cât
+    mai mult posibil de torace, astfel încât coloana cervicală să fie
 
-    plasat în poziție de maximum flexion pentru first expunere (Fig. 9.45).
+    în poziție de flexie maximă pentru prima expunere (Fig. 9.45).
 
-    Extension
+    Extensie
 
-    • Se instruiește pacientul să elevate bărbia ca much ca possible, astfel încât
-    coloană cervicală sunt plasat în poziție de maximum extension pentru
+    • Se instruiește pacientul să ridice bărbia cât mai mult posibil, astfel încât
+    coloana cervicală să fie în poziție de extensie maximă pentru
 
-    second expunere (Fig. 9.46).
+    a doua expunere (Fig. 9.46).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în true poziție de profil (lateral), either așezat
-    pe scaun sau în ortostatism, before stativ vertical Bucky.
+  patient_pos: '• Se așază pacientul în poziție de profil strict, fie așezat pe scaun,
+    fie în ortostatism, în fața stativului vertical Bucky.
 
-    • Se instruiește pacientul să sit sau stand straight, then se ajustează height
-    de receptorul de imagine so that it este centrat la nivelul level de C4. top de
-    receptorul de imagine este about
+    • Se instruiește pacientul să stea drept, așezat sau în picioare, apoi se ajustează
+    înălțimea receptorului de imagine astfel încât acesta să fie centrat la nivelul
+    C4. Marginea superioară a receptorului de imagine se află la aproximativ
 
-    2 inches (5 cm) above conduct auditiv extern (CAE).'
+    2 inch (5 cm) deasupra conductului auditiv extern (CAE).'
   respiration: apnee (oprirea respirației).
-  sid: A 60- la 72-inch (152- la 183-cm) SID este recommended la compensate pentru
-    increased OID. longer distance helps show C7.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  sid: Se recomandă o SID de 60–72 inch (152–183 cm) pentru a compensa OID crescută.
+    Distanța mai mare ajută la vizualizarea C7.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 688–691
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=688
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 688–691
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    pentru flexion, light trebuie să extend de la EAC anteriorly la C7 spinous process
-    posteriorly. pentru extension, light trebuie să extend de la midmandible anteriorly
-    la C7 spinous process posteriorly. Place marker de lateralitate (D/S) în collimated
-    expunere field.
+    Pentru flexie, câmpul luminos trebuie să se întindă de la EAC anterior până la
+    procesul spinos C7 posterior. Pentru extensie, câmpul luminos trebuie să se întindă
+    de la mijlocul mandibulei anterior până la procesul spinos C7 posterior. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Drept sau Stâng)
-  Flexion and extension (Merrill)
+  Flexie și extensie (Merrill)
 ---
-# Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) Flexion and extension (Merrill)
+# Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) Flexie și extensie (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -200,9 +205,9 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Dr
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în true Incidență de Profil (lateral), either Poziție Șezândă sau în ortostatism, before stativ vertical Bucky. Se instruiește pacientul să sit sau stand straight, then se ajustează height de receptorul de imagine so that it este centrat la nivelul level de C4. top de receptorul de imagine este about 2 inches (5 cm) above conduct auditiv extern (CAE).; Move pacientul close enough la stativ vertical Bucky la permit adjacent Umăr la rest pe / sprijinit de grilă pentru support. Keep MSP de pacientul’s cap și neck paralel cu plane de receptorul de imagine. Alternatively, perform incidență fără using grilă. Flexion Se instruiește pacientul să drop capul forward și then draw bărbia ca close ca possible la Torace, astfel încât coloană cervicală sunt plasat în poziție de maximum flexion pentru first expunere (Fig. 9.45). Extension Se instruiește pacientul să elevate bărbia ca much ca possible, astfel încât coloană cervicală sunt plasat în poziție de maximum extension pentru second expunere (Fig. 9.46). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orizontal și perpendicular la C4
-    - **Distanță Focar-Film (DFF / SID):** A 60- to 72-inch (152- to 183-cm) SID is recommended to compensate for the increased OID. A longer distance helps show C7.
+    - **Poziție Pacient:** Se așază pacientul în poziție de profil strict, fie în poziție șezândă, fie în ortostatism, în fața stativului vertical Bucky. Se instruiește pacientul să stea drept, așezat sau în picioare, apoi se ajustează înălțimea receptorului de imagine astfel încât acesta să fie centrat la nivelul C4. Marginea superioară a receptorului de imagine se află la aproximativ 2 inch (5 cm) deasupra conductului auditiv extern (CAE).; Se apropie pacientul suficient de stativul vertical Bucky pentru a permite sprijinirea umărului adiacent de grilă. Se menține MSP al capului și gâtului pacientului paralel cu planul receptorului de imagine. Alternativ, se realizează incidența fără utilizarea grilei. Flexie Se instruiește pacientul să aplece capul înainte și apoi să apropie bărbia cât mai mult posibil de torace, astfel încât coloana cervicală să fie în poziție de flexie maximă pentru prima expunere (Fig. 9.45). Extensie Se instruiește pacientul să ridice bărbia cât mai mult posibil, astfel încât coloana cervicală să fie în poziție de extensie maximă pentru a doua expunere (Fig. 9.46). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontal și perpendicular la nivelul C4
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID de 60 până la 72 inci (152 până la 183 cm), pentru a compensa OID crescută. O distanță mai mare facilitează vizualizarea vertebrei C7.
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
 -   __3. Parametri Tehnici Expunere__
@@ -213,29 +218,29 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Dr
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | A 60- to 72-inch (152- to 183-cm) SID is recommended to compensate for the increased OID. A longer distance helps show C7. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID de 60 până la 72 inci (152 până la 183 cm), pentru a compensa OID crescută. O distanță mai mare facilitează vizualizarea vertebrei C7. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. pentru flexion, light trebuie să extend de la EAC anteriorly la C7 spinous process posteriorly. pentru extension, light trebuie să extend de la midmandible anteriorly la C7 spinous process posteriorly. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Pentru flexie, câmpul luminos trebuie să se întindă de la EAC anterior până la procesul spinos C7 posterior. Pentru extensie, câmpul luminos trebuie să se întindă de la mijlocul mandibulei anterior până la procesul spinos C7 posterior. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - toate seven coloană cervicală în true Incidență de Profil (lateral)
-    - Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de Coloană Cervicală
-    - Superimposed zygapophyseal articulații și open intervertebral disk spaces
-    - Superimposed sau nearly superimposed rami de Mandibulă
-    - procese spinoase vizualizat în profile
-    - Bony detalii trabeculare osoase și surrounding soft tissues Flexion
-    - corp de Mandibulă almost vertical în normal pacient
-    - toate seven procese spinoase în profile, ridicat și widely separated Extension
-    - corp de Mandibulă almost orizontal în normal pacient
-    - toate seven procese spinoase în profile, coborât și closely spaced
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Toate cele șapte vertebre cervicale în incidență de profil strict
+    - Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei cervicale
+    - Articulații zigapofizare suprapuse și spații discale intervertebrale deschise
+    - Ramurile mandibulei suprapuse sau aproape suprapuse
+    - Procesele spinoase vizualizate din profil
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare Flexie
+    - Corpul mandibulei aproape vertical la pacientul normal
+    - Toate cele șapte procese spinoase de profil, ridicate și mult distanțate Extensie
+    - Corpul mandibulei aproape orizontal la pacientul normal
+    - Toate cele șapte procese spinoase de profil, coborâte și apropiate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -246,7 +251,7 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Dr
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    This procedure trebuie să nu fie attempted until Coloană Cervicală pathology sau suspiciune de fractură has been ruled out. Functional studies de coloană cervicală în Incidență de Profil (lateral) sunt performed la show normal intersegmental movement sau changes în intersegmental alignment resulting de la Traumatism / Regim Urgență sau disease. procese spinoase sunt ridicat și widely separated în flexion poziție și sunt coborât în close approximation în extension poziție. radiologist evaluates posterior aspect de vertebral corpuri pentru intersegmental alignment.
+    Această procedură nu trebuie încercată până când patologia coloanei cervicale sau suspiciunea de fractură nu a fost exclusă. Studiile funcționale ale coloanei cervicale în incidență de profil se efectuează pentru a evidenția mișcarea intersegmentară normală sau modificările alinierii intersegmentare rezultate în urma unui traumatism / în regim de urgență sau a unei boli. Procesele spinoase sunt ridicate și mult distanțate în poziția de flexie și sunt coborâte și foarte apropiate în poziția de extensie. Radiologul evaluează aspectul posterior al corpurilor vertebrale pentru aprecierea alinierii intersegmentare.
 
 
 ### 🖼️ Imagini
@@ -255,25 +260,25 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Dr
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 689, imaginea 1](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p689_fig1.png)
+![Merrill — pagina 689, imaginea 1](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p689_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 689, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 690, imaginea 2](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p690_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 690, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 689, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 691, imaginea 3](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p691_fig3.png)
+![Merrill — pagina 690, imaginea 2](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p690_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 691, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 690, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 691, imaginea 3](../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p688-merrill/p691_fig3.png)
+
+<figcaption><strong>Merrill — pagina 691, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -283,86 +288,86 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Dr
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (A 60- to 72-inch (152- to 183-cm) SID is recommended to compensate for the increased OID. A longer distance helps show C7.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID de 60 până la 72 inci (152 până la 183 cm), pentru a compensa OID crescută. O distanță mai mare facilitează vizualizarea vertebrei C7.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 688–691](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=688)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 688–691](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Intersegmental alignment de cervical coloană vertebrală when flectat (Fig. 9.47) și extins (Fig. 9.48). intervertebral disks și zygapophyseal
-articulații sunt also vizualizat.
+Alinierea intersegmentară a coloanei cervicale în flexie (Fig. 9.47) și în extensie (Fig. 9.48). Discurile intervertebrale și articulațiile zigapofizare
+sunt, de asemenea, vizualizate.
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. pentru flexion, light trebuie să extend de la EAC anteriorly la C7
-spinous process posteriorly. pentru extension, light trebuie să extend de la midmandible anteriorly la C7 spinous process posteriorly. Place
-marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Pentru flexie, câmpul luminos trebuie să se întindă de la EAC anterior până la procesul spinos C7
+posterior. Pentru extensie, câmpul luminos trebuie să se întindă de la mijlocul mandibulei anterior până la procesul spinos C7 posterior. Se plasează
+markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orizontal și perpendicular la C4
+• Orizontal și perpendicular la nivelul C4
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• toate seven coloană cervicală în true poziție de profil (lateral)
-• Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cervical coloană vertebrală
-• Superimposed zygapophyseal articulații și open intervertebral disk spaces
-• Superimposed sau nearly superimposed rami de mandible
-• procese spinoase vizualizat în profile
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Flexion
-• corp de mandible almost vertical în normal pacient
-• toate seven procese spinoase în profile, ridicat și widely separated
-Extension
-• corp de mandible almost orizontal în normal pacient
-• toate seven procese spinoase în profile, coborât și closely spaced
+Criterii radiologice de calitate a imaginii:
+• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+• Toate cele șapte vertebre cervicale în poziție de profil strict
+• Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei cervicale
+• Articulații zigapofizare suprapuse și spații discale intervertebrale deschise
+• Ramuri mandibulare suprapuse sau aproape suprapuse
+• Procese spinoase vizualizate de profil
+• Detalii trabeculare osoase și țesuturile moi înconjurătoare
+Flexie
+• Corpul mandibulei aproape vertical la pacientul normal
+• Toate cele șapte procese spinoase de profil, ridicate și mult distanțate
+Extensie
+• Corpul mandibulei aproape orizontal la pacientul normal
+• Toate cele șapte procese spinoase de profil, coborâte și apropiate
 
-### notes
+### note
 
-This procedure trebuie să nu fie attempted until cervical coloană vertebrală pathology sau suspiciune de fractură has been ruled out.
-Functional studies de coloană cervicală în poziție de profil (lateral) sunt performed la show normal intersegmental movement sau changes în
-intersegmental alignment resulting de la trauma sau disease. procese spinoase sunt ridicat și widely separated în flexion poziție și
-sunt coborât în close approximation în extension poziție.
-radiologist evaluates posterior aspect de vertebral corpuri pentru intersegmental alignment.
+Această procedură nu trebuie încercată până când patologia coloanei cervicale sau suspiciunea de fractură nu a fost exclusă.
+Studiile funcționale ale coloanei cervicale în poziție de profil se efectuează pentru a evidenția mișcarea intersegmentară normală sau modificările
+alinierii intersegmentare rezultate în urma unui traumatism sau a unei boli. Procesele spinoase sunt ridicate și mult distanțate în poziția de flexie și
+sunt coborâte și foarte apropiate în poziția de extensie.
+Radiologul evaluează aspectul posterior al corpurilor vertebrale pentru aprecierea alinierii intersegmentare.
 
 ### part_pos
 
-• Move pacientul close enough la stativ vertical Bucky la permit adjacent umăr la rest pe / sprijinit de grilă pentru support.
-• Keep MSP de pacientul’s cap și neck paralel cu plane de receptorul de imagine.
-• Alternatively, perform incidență fără using grilă.
-Flexion
-• Se instruiește pacientul să drop capul forward și then draw bărbia ca close ca possible la toracele, astfel încât coloană cervicală sunt
-plasat în poziție de maximum flexion pentru first expunere (Fig. 9.45).
-Extension
-• Se instruiește pacientul să elevate bărbia ca much ca possible, astfel încât coloană cervicală sunt plasat în poziție de maximum extension pentru
-second expunere (Fig. 9.46).
+• Se apropie pacientul suficient de stativul vertical Bucky pentru a permite sprijinirea umărului adiacent de grilă.
+• Se menține MSP al capului și gâtului pacientului paralel cu planul receptorului de imagine.
+• Alternativ, se realizează incidența fără utilizarea grilei.
+Flexie
+• Se instruiește pacientul să aplece capul înainte și apoi să apropie bărbia cât mai mult posibil de torace, astfel încât coloana cervicală să fie
+în poziție de flexie maximă pentru prima expunere (Fig. 9.45).
+Extensie
+• Se instruiește pacientul să ridice bărbia cât mai mult posibil, astfel încât coloana cervicală să fie în poziție de extensie maximă pentru
+a doua expunere (Fig. 9.46).
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în true poziție de profil (lateral), either așezat pe scaun sau în ortostatism, before stativ vertical Bucky.
-• Se instruiește pacientul să sit sau stand straight, then se ajustează height de receptorul de imagine so that it este centrat la nivelul level de C4. top de receptorul de imagine este about
-2 inches (5 cm) above conduct auditiv extern (CAE).
+• Se așază pacientul în poziție de profil strict, fie așezat pe scaun, fie în ortostatism, în fața stativului vertical Bucky.
+• Se instruiește pacientul să stea drept, așezat sau în picioare, apoi se ajustează înălțimea receptorului de imagine astfel încât acesta să fie centrat la nivelul C4. Marginea superioară a receptorului de imagine se află la aproximativ
+2 inch (5 cm) deasupra conductului auditiv extern (CAE).
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
 ### sid
 
-A 60- la 72-inch (152- la 183-cm) SID este recommended la compensate pentru increased OID. longer distance helps show C7.
+Se recomandă o SID de 60–72 inch (152–183 cm) pentru a compensa OID crescută. Distanța mai mare ajută la vizualizarea C7.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), longitudinal.
 

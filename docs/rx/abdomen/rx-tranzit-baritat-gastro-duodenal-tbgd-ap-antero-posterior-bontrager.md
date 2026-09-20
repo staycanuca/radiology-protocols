@@ -1,33 +1,36 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Apnee la sfârșitul expirului pe durata expunerii. Alternative AP: Slight
-  Trendelenburg poziție Trendelenburg (headdown) poziție poate fie necessary la fill
-  fundus pe thin asthenic pacient. moderate Trendelenburg angulation facilitates demonstration
-  de hiatal hernia. (Install Umăr brace pentru pacient safety.) Fig. 12.104 AP—Decubit
-  dorsal. Fig. 12.105 AP—Trendelenburg poziție. Tranzit Baritat Gastro-Duodenal (TBGD)
-  ROUTINE RAO PA drept lateral LPO AP Fig. 12.103 AP Decubit dorsal. Inset, Trendelenburg
-  option.'
+breathing: 'Apnee la sfârșitul expirului pe durata expunerii. Alternativă AP: poziție
+  Trendelenburg cu înclinare ușoară. Poziția Trendelenburg (cu capul în jos) poate
+  fi necesară pentru umplerea fundului gastric la pacientul slab, astenic. O înclinare
+  moderată în poziție Trendelenburg facilitează evidențierea herniei hiatale. (Montați
+  suportul pentru umeri pentru siguranța pacientului.) Fig. 12.104 AP—Decubit dorsal.
+  Fig. 12.105 AP—Poziție Trendelenburg. Tranzit Baritat Gastro-Duodenal (TBGD) DE
+  RUTINĂ RAO PA profil drept LPO AP Fig. 12.103 AP Decubit dorsal. În imaginea inserată,
+  varianta în poziție Trendelenburg.'
 category: abdomen
-centering: 'Center Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic
-  corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway
-  între xiphoid tip și lower margin de Coaste (Grilaj Costal)), midway între midline
-  și stâng lateral margin de Abdomen Hypersthenic corp type: Center about 2 inches
-  (5 cm) above L1 Asthenic corp type: poziție raza centrală about 2 inches (5 cm)
-  below și nearer la midline'
+centering: 'Centrați raza centrală (RC) perpendicular pe receptorul de imagine. Tip
+  constituțional stenic: centrați raza centrală și receptorul de imagine la nivelul
+  l1 (aproximativ la jumătatea distanței dintre vârful apendicelui xifoid și marginea
+  inferioară a coastelor (grilajului costal)), la jumătatea distanței dintre linia
+  mediană și marginea laterală stângă a abdomenului. Tip constituțional hiperstenic:
+  centrați la aproximativ 2 țoli (5 cm) deasupra L1. Tip constituțional astenic: poziționați
+  raza centrală la aproximativ 2 țoli (5 cm) mai jos și mai aproape de linia mediană.'
 clinical_indications:
-- Possible hiatal hernia poate fie evidențiat în Trendelenburg poziție
+- O posibilă hernie hiatală poate fi evidențiată în poziție Trendelenburg.
 images:
 - caption: Fig. 12.104 AP—Decubit dorsal.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.104 AP—în decubit
     dorsal.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 12.105 AP—Trendelenburg poziție.
+- caption: Fig. 12.105 AP—Poziție Trendelenburg.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.105
-    AP—Trendelenburg poziție.)
+    AP—Poziție Trendelenburg.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 12.103 AP Decubit dorsal. Inset, Trendelenburg option.
+- caption: Fig. 12.103 AP Decubit dorsal. În imaginea inserată, varianta în poziție
+    Trendelenburg.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.103
-    AP în decubit dorsal. Inset, Trendelenburg option.)
+    AP în decubit dorsal. În imaginea inserată, varianta în poziție Trendelenburg.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -36,11 +39,12 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: poziție pacient Decubit dorsal, brațele pe lângă corp; provide
-  support pentru pacient’s cap și genunchi (Fig. 12.103).; Regiune anatomică: Align
-  MSP la linia mediană mesei. Ensure that corp este nu rotit. Se centrează receptorul
-  de imagine pe raza centrală. Bottom de receptorul de imagine trebuie să fie about
-  la level de creasta iliacă (corespunzător L4-L5).'
+position: 'Pacient: poziționați pacientul în decubit dorsal, cu brațele pe lângă corp;
+  asigurați sprijin pentru capul și genunchii pacientului (Fig. 12.103).; Regiune
+  anatomică: aliniați MSP cu linia mediană a mesei. Asigurați-vă că nu este rotit
+  corpul. Se centrează receptorul de imagine pe raza centrală. Marginea inferioară
+  a receptorului de imagine trebuie să fie aproximativ la nivelul crestei iliace (corespunzător
+  L4-L5).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,25 +52,26 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire stomac și duoden sunt vizibil (Figs. 12.104 și 12.105).
-- 'cupole diafragmatice și lower câmpuri pulmonare sunt included pentru demonstration
-  de possible hiatal hernia. poziție:'
-- Fundus de stomach este filled cu barium și este near center de receptorul de imagine.
-- corect collimation field size este applied.
-- 'raza centrală este centrat pe duodenal bulb la level de L1. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize gastric folds fără
-  overexposing other pertinent anatomy.
-- net structural margins indicate fără mișcare.
+- Stomacul și duodenul sunt vizibile în întregime (Fig. 12.104 și 12.105).
+- 'Cupolele diafragmatice și câmpurile pulmonare inferioare sunt incluse pentru evidențierea
+  unei posibile hernii hiatale. Poziție:'
+- Fundul gastric este umplut cu bariu și se află aproape de centrul receptorului de
+  imagine.
+- Se aplică dimensiunea corectă a câmpului de colimare.
+- 'Raza centrală este centrată pe bulbul duodenal, la nivelul L1. Expunere:'
+- Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor
+  gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+- Marginile nete ale structurilor indică absența mișcării.
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 512
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la outer margins de receptorul de
-    imagine sau la aria de interes diagnostic if larger receptorul de imagine este
-    used.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi până la marginile
+    exterioare ale receptorului de imagine sau la aria de interes diagnostic dacă
+    se utilizează un receptor de imagine mai mare.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -93,7 +98,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Possible hiatal hernia poate fie evidențiat în Trendelenburg poziție
+        - O posibilă hernie hiatală poate fi evidențiată în poziție Trendelenburg.
 
     === "Ghid Național IRIS"
 
@@ -107,10 +112,10 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit dorsal, brațele pe lângă corp; provide support pentru pacient’s cap și genunchi (Fig. 12.103).; Regiune anatomică: Align MSP la linia mediană mesei. Ensure that corp este nu rotit. Se centrează receptorul de imagine pe raza centrală. Bottom de receptorul de imagine trebuie să fie about la level de creasta iliacă (corespunzător L4-L5).
-    - **Punct de Centrare Fascicul:** Center Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway între xiphoid tip și lower margin de Coaste (Grilaj Costal)), midway între midline și stâng lateral margin de Abdomen Hypersthenic corp type: Center about 2 inches (5 cm) above L1 Asthenic corp type: poziție raza centrală about 2 inches (5 cm) below și nearer la midline
+    - **Poziție Pacient:** Pacient: poziționați pacientul în decubit dorsal, cu brațele pe lângă corp; asigurați sprijin pentru capul și genunchii pacientului (Fig. 12.103).; Regiune anatomică: aliniați MSP cu linia mediană a mesei. Asigurați-vă că nu este rotit corpul. Se centrează receptorul de imagine pe raza centrală. Marginea inferioară a receptorului de imagine trebuie să fie aproximativ la nivelul crestei iliace (corespunzător L4-L5).
+    - **Punct de Centrare Fascicul:** Centrați raza centrală (RC) perpendicular pe receptorul de imagine. Tip constituțional stenic: centrați raza centrală și receptorul de imagine la nivelul l1 (aproximativ la jumătatea distanței dintre vârful apendicelui xifoid și marginea inferioară a coastelor (grilajului costal)), la jumătatea distanței dintre linia mediană și marginea laterală stângă a abdomenului. Tip constituțional hiperstenic: centrați la aproximativ 2 țoli (5 cm) deasupra L1. Tip constituțional astenic: poziționați raza centrală la aproximativ 2 țoli (5 cm) mai jos și mai aproape de linia mediană.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternative AP: Slight Trendelenburg poziție Trendelenburg (headdown) poziție poate fie necessary la fill fundus pe thin asthenic pacient. moderate Trendelenburg angulation facilitates demonstration de hiatal hernia. (Install Umăr brace pentru pacient safety.) Fig. 12.104 AP—Decubit dorsal. Fig. 12.105 AP—Trendelenburg poziție. Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.103 AP Decubit dorsal. Inset, Trendelenburg option.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternativă AP: poziție Trendelenburg cu înclinare ușoară. Poziția Trendelenburg (cu capul în jos) poate fi necesară pentru umplerea fundului gastric la pacientul slab, astenic. O înclinare moderată în poziție Trendelenburg facilitează evidențierea herniei hiatale. (Montați suportul pentru umeri pentru siguranța pacientului.) Fig. 12.104 AP—Decubit dorsal. Fig. 12.105 AP—Poziție Trendelenburg. Tranzit Baritat Gastro-Duodenal (TBGD) DE RUTINĂ RAO PA profil drept LPO AP Fig. 12.103 AP Decubit dorsal. În imaginea inserată, varianta în poziție Trendelenburg.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,21 +128,21 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) AP (Antero-Posterior)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de receptorul de imagine sau la aria de interes diagnostic if larger receptorul de imagine este used. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi până la marginile exterioare ale receptorului de imagine sau la aria de interes diagnostic dacă se utilizează un receptor de imagine mai mare. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomac și duoden sunt vizibil (Figs. 12.104 și 12.105).
-    - cupole diafragmatice și lower câmpuri pulmonare sunt included pentru demonstration de possible hiatal hernia. poziție:
-    - Fundus de stomach este filled cu barium și este near center de receptorul de imagine.
-    - corect collimation field size este applied.
-    - raza centrală este centrat pe duodenal bulb la level de L1. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize gastric folds fără overexposing other pertinent anatomy.
-    - net structural margins indicate fără mișcare.
+    - Stomacul și duodenul sunt vizibile în întregime (Fig. 12.104 și 12.105).
+    - Cupolele diafragmatice și câmpurile pulmonare inferioare sunt incluse pentru evidențierea unei posibile hernii hiatale. Poziție:
+    - Fundul gastric este umplut cu bariu și se află aproape de centrul receptorului de imagine.
+    - Se aplică dimensiunea corectă a câmpului de colimare.
+    - Raza centrală este centrată pe bulbul duodenal, la nivelul L1. Expunere:
+    - Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+    - Marginile nete ale structurilor indică absența mișcării.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,17 +170,17 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.105 AP—Trendelenburg poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_2.jpeg)
+![Fig. 12.105 AP—Poziție Trendelenburg.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.105 AP—Trendelenburg poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.105 AP—Trendelenburg poziție.)</span></figcaption>
+<figcaption><strong>Fig. 12.105 AP—Poziție Trendelenburg.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.105 AP—Poziție Trendelenburg.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.103 AP Decubit dorsal. Inset, Trendelenburg option.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 12.103 AP Decubit dorsal. În imaginea inserată, varianta în poziție Trendelenburg.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-ap-antero-posterior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 12.103 AP Decubit dorsal. Inset, Trendelenburg option.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.103 AP în decubit dorsal. Inset, Trendelenburg option.)</span></figcaption>
+<figcaption><strong>Fig. 12.103 AP Decubit dorsal. În imaginea inserată, varianta în poziție Trendelenburg.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.103 AP în decubit dorsal. În imaginea inserată, varianta în poziție Trendelenburg.)</span></figcaption>
 
 </figure>
 

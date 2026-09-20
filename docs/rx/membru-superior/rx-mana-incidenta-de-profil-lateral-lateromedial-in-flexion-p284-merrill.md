@@ -78,8 +78,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 ×30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 284–285
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=284
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 284–285
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
@@ -173,7 +173,7 @@ title: Rx Mână — Incidență de Profil (Lateral) — Latero-Medial in flexio
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 284–285](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=284)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 284–285](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -2,11 +2,11 @@
 author: Departamentul de Radiologie
 breathing: Apnee în expir complet
 category: coloana
-centering: 'Față & Profil: Nivel L3 (la 2-3 cm deasupra crestelor iliace); L5-S1:
+centering: 'Față și profil: nivel L3 (la 2-3 cm deasupra crestelor iliace); L5-S1:
   la 4 cm sub creasta iliacă și 5 cm anterior de apofiza spinoasă'
 clinical_indications:
 - Lombalgie acută sau cronică, lombosciatică
-- Suspiciune spondilolistezis sau spondiloliză (incidențe oblice)
+- Suspiciune de spondilolistezis sau spondiloliză (incidențe oblice)
 - Tasări vertebrale osteoporotice
 - Modificări degenerative discale, osteofitoză marginală
 iris_reference:
@@ -15,21 +15,21 @@ iris_reference:
   recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Incidențele oblice (pentru vizualizarea 'cățelușului Lachapelle' în spondiloliză)
+notes: Incidențele oblice (pentru vizualizarea „cățelușului Lachapelle” în spondiloliză)
   se realizează doar dacă există suspiciune specifică de liză istmică.
-position: '1) AP (Față): decubit dorsal cu genunchii flectați (aplatizează lordoza
-  lombară); 2) lateral (Profil): decubit lateral cu genunchii flectați; 3) Joncțiune
+position: '1) AP (față): decubit dorsal cu genunchii flectați (aplatizează lordoza
+  lombară); 2) lateral (profil): decubit lateral cu genunchii flectați; 3) joncțiune
   L5-S1: profil centrat cu tub angulat 5-8° caudal'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și
   examinării solicitate.
 quality_criteria:
-- Includerea vertebrelor L1 la L5 și sacrului superior
+- Includerea vertebrelor L1 la L5 și a sacrului superior
 - 'Pe profil: găurile de conjugare deschise și spațiile discale intervertebrale paralele'
-- Pediculii vertebrali și procesele spinoase aliniate simetric pe fața AP
-- 'Pe clișeul L5-S1: spațiul discal lombo-sacrat bine deschis și vizibil'
+- Pediculii vertebrali și procesele spinoase aliniate simetric pe incidența AP
+- 'Pe clișeul L5-S1: spațiul discal lombosacrat bine deschis și vizibil'
 sid_dff: 100 - 115 cm
 slug: rx-coloana-lombara
 sources:
@@ -56,15 +56,15 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Camera centrală activată
-  collimation: De la T12 la joncțiunea sacro-coccigiană
+  collimation: De la T12 la joncțiunea sacrococcigiană
   filtration: Totală ≥ 2.5 mm Al
-  focal_spot: Focar Mare (1.0 mm)
+  focal_spot: Focar mare (1.0 mm)
   grid: Cu grilă antidifuzoare Bucky
-  kv: 75 - 80 (Față); 85 - 95 (Profil); 95 - 100 (L5-S1 spot)
-  mas: 25 - 45 (Față); 40 - 70 (Profil); 60 - 90 (L5-S1)
-title: Rx Coloană Lombară (Față, Profil & L5-S1)
+  kv: 75 - 80 (față); 85 - 95 (profil); 95 - 100 (L5-S1 spot)
+  mas: 25 - 45 (față); 40 - 70 (profil); 60 - 90 (L5-S1)
+title: Rx Coloană Lombară (față, profil și L5-S1)
 ---
-# Rx Coloană Lombară (Față, Profil & L5-S1)
+# Rx Coloană Lombară (față, profil și L5-S1)
 
 
 <div class="rx-meta-bar">
@@ -84,7 +84,7 @@ title: Rx Coloană Lombară (Față, Profil & L5-S1)
     === "Indicații Clinice"
 
         - Lombalgie acută sau cronică, lombosciatică
-        - Suspiciune spondilolistezis sau spondiloliză (incidențe oblice)
+        - Suspiciune de spondilolistezis sau spondiloliză (incidențe oblice)
         - Tasări vertebrale osteoporotice
         - Modificări degenerative discale, osteofitoză marginală
 
@@ -100,8 +100,8 @@ title: Rx Coloană Lombară (Față, Profil & L5-S1)
 
     ---
 
-    - **Poziție Pacient:** 1) AP (Față): decubit dorsal cu genunchii flectați (aplatizează lordoza lombară); 2) lateral (Profil): decubit lateral cu genunchii flectați; 3) Joncțiune L5-S1: profil centrat cu tub angulat 5-8° caudal
-    - **Punct de Centrare Fascicul:** Față & Profil: Nivel L3 (la 2-3 cm deasupra crestelor iliace); L5-S1: la 4 cm sub creasta iliacă și 5 cm anterior de apofiza spinoasă
+    - **Poziție Pacient:** 1) AP (față): decubit dorsal cu genunchii flectați (aplatizează lordoza lombară); 2) lateral (profil): decubit lateral cu genunchii flectați; 3) joncțiune L5-S1: profil centrat cu tub angulat 5-8° caudal
+    - **Punct de Centrare Fascicul:** Față și profil: nivel L3 (la 2-3 cm deasupra crestelor iliace); L5-S1: la 4 cm sub creasta iliacă și 5 cm anterior de apofiza spinoasă
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Apnee în expir complet
 
@@ -111,35 +111,35 @@ title: Rx Coloană Lombară (Față, Profil & L5-S1)
 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
-    | **Tensiune Tub (kV)** | 75 - 80 (Față); 85 - 95 (Profil); 95 - 100 (L5-S1 spot) kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | 25 - 45 (Față); 40 - 70 (Profil); 60 - 90 (L5-S1) mAs |
+    | **Tensiune Tub (kV)** | 75 - 80 (față); 85 - 95 (profil); 95 - 100 (L5-S1 spot) kV |
+    | **Sarcină / Produs Curent-Timp (mAs)** | 25 - 45 (față); 40 - 70 (profil); 60 - 90 (L5-S1) mAs |
     | **Distanță Focar-Film (DFF / SID)** | 100 - 115 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
-    | **Dimensiune Focar** | Focar Mare (1.0 mm) |
+    | **Dimensiune Focar** | Focar mare (1.0 mm) |
     | **Camere de Ionizare AEC** | Camera centrală activată |
-    | **Colimare Fascicul** | De la T12 la joncțiunea sacro-coccigiană |
+    | **Colimare Fascicul** | De la T12 la joncțiunea sacrococcigiană |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Includerea vertebrelor L1 la L5 și sacrului superior
+    - Includerea vertebrelor L1 la L5 și a sacrului superior
     - Pe profil: găurile de conjugare deschise și spațiile discale intervertebrale paralele
-    - Pediculii vertebrali și procesele spinoase aliniate simetric pe fața AP
-    - Pe clișeul L5-S1: spațiul discal lombo-sacrat bine deschis și vizibil
+    - Pediculii vertebrali și procesele spinoase aliniate simetric pe incidența AP
+    - Pe clișeul L5-S1: spațiul discal lombosacrat bine deschis și vizibil
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Incidențele oblice (pentru vizualizarea 'cățelușului Lachapelle' în spondiloliză) se realizează doar dacă există suspiciune specifică de liză istmică.
+    Incidențele oblice (pentru vizualizarea „cățelușului Lachapelle” în spondiloliză) se realizează doar dacă există suspiciune specifică de liză istmică.
 
 === "Ghid Rapid de Execuție"
 

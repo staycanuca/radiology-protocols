@@ -3,32 +3,36 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• raza centrală de Craniu unit trebuie să fie perpendicular pe casetă
-  holder și prin design will fie centred la middle de receptorul de imagine. If this
-  este case și above positioning este performed accurately, then fascicul will already
-  fie centred.
+centering: '• Raza centrală a unității de Craniu trebuie să fie perpendiculară pe
+  suportul casetei și, prin proiectare, va fi centrată la mijlocul receptorului de
+  imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect,
+  atunci fasciculul va fi deja centrat.
 
-  • If using Bucky, tubul trebuie să fie centred la Bucky using Fascicul Orizontal
-  before positioning este undertaken. Again, if above positioning este performed accurately
-  și Bucky height este nu altered, then fascicul will already fie centred.
+  • Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul
+  Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai
+  sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul
+  va fi deja centrat.
 
-  • la check that fascicul este centred properly, cross-lines pe Bucky sau casetă
-  holder trebuie să coincide cu linia mediană la nivelul mid-orbital region.
+  • Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe
+  Bucky sau de pe suportul casetei trebuie să coincidă cu linia mediană la nivelul
+  regiunii medio-orbitale.
 
 
-  • orizontal raza centrală este orientat through centre de Oase Proprii Nazale (OPN)
-  și collimated pentru include nose.'
+  • Raza centrală orizontală este orientată prin centrul Oaselor Proprii Nazale (OPN)
+  și colimată pentru a include nasul.'
 clinical_indications:
-- Nasal suspiciune de fractură poate usually fie detected clinically și este rarely
-  treated actively. If suspiciune de fractură causes nasal deformity sau respirație
-  difficulty, then it poate fie straightened, but Profil (lateral) incidențe will
-  nu help. Considering dose de radiation la eye, this incidență trebuie să fie avoided
-  în most instances.
+- Suspiciunea de fractură nazală poate fi de obicei detectată clinic și este rareori
+  tratată activ. Dacă suspiciunea de fractură determină deformarea nasului sau dificultăți
+  de respirație, atunci acesta poate fi îndreptat, dar incidențele de profil nu vor
+  fi utile. Având în vedere doza de radiație la nivelul ochiului, această incidență
+  trebuie evitată în majoritatea cazurilor.
 images:
-- caption: • orbits trebuie să fie roughly circular în appearance (they
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: orbitele trebuie să fie aproximativ circulare ca aspect (vor
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_1.jpeg
-- caption: la orbital region (e.g. blow-out suspiciune de fractură de orbital floor)
+- caption: la nivelul regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out”
+    a planșeului orbitar)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_2.jpeg
@@ -36,61 +40,77 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_3.jpeg
-- caption: Nasal suspiciune de fractură poate usually fie detected clinically și este
-    rarely
+- caption: Suspiciunea de fractură nazală poate fi de obicei detectată clinic și este
+    rareori
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_4.jpeg
-- caption: treated actively. If suspiciune de fractură causes nasal deformity sau
-    respirație
+- caption: tratată activ. Dacă suspiciunea de fractură determină deformarea nazală
+    sau dificultăți de respirație
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• If examination este purely la exclude corp străin radiopac în eye, then
-  tight ‘letter-box’ collimation la orbital region trebuie să fie applied.
+notes: '• Dacă examinarea are ca unic scop excluderea unui corp străin radiopac în
+  ochi, trebuie aplicată colimarea strânsă, de tip „cutie de scris”, asupra regiunii
+  orbitare.
 
-  • dedicated casetă trebuie să fie used pentru corp străin radiopac This trebuie
-  să fie cleaned regularly la avoid small artefacts pe screens being confused cu corp
-  străin radiopac.
+  • Pentru corpul străin radiopac trebuie utilizată o casetă dedicată. Aceasta trebuie
+  curățată regulat pentru a evita confundarea artefactelor mici de pe ecrane cu un
+  corp străin radiopac.
 
-  • If corp străin radiopac este suspected, then second incidență poate fie undertaken,
-  cu eyes în different poziție la differentiate this de la imagine artefact. initial
-  expunere could fie taken cu eyes pointing up și second cu eyes pointing down.
+  • Dacă se suspectează un corp străin radiopac, poate fi efectuată o a doua incidență,
+  cu ochii în poziții diferite, pentru a-l diferenția de un artefact de imagine. Expunerea
+  inițială poate fi efectuată cu ochii orientați în sus, iar a doua cu ochii orientați
+  în jos.
 
-  This este frequently undertaken incidență used la assess injuries la orbital region
-  (e.g. blow-out suspiciune de fractură de orbital floor) și la exclude presence de
-  metallic corp străin radiopac în eyes before magnetic resonance imaging (MRI) investigations.
+  Aceasta este o incidență utilizată frecvent pentru evaluarea leziunilor regiunii
+  orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar) și
+  pentru excluderea prezenței unui corp străin metalic radiopac în ochi înaintea investigațiilor
+  prin rezonanță magnetică (MRI).
 
-  incidență este essentially under-tilted occipito-mental cu orbito-meatal baseline
-  raised 10 grade less than în standard occipito-mental incidență.
+  Incidența este, în esență, o incidență occipito-mentală subînclinată, cu linia de
+  bază orbito-meatală ridicată cu 10 grade mai puțin decât în incidența occipito-mentală
+  standard.
 
 
-  • high-resolution casetă poate fie used if detail este required.
+  • Dacă este necesar un detaliu suplimentar, poate fi utilizată o casetă de înaltă
+  rezoluție.
 
-  • This incidență poate fie useful pentru corp străin radiopac în nasul.
+  • Această incidență poate fi utilă pentru un corp străin radiopac în nas.
 
-  în this case, părți moi expunere trebuie să fie employed.
+  În acest caz trebuie utilizată o expunere pentru părți moi.
 
-  • în majority de cases, severe nasal injuries will require only occipito-mental
-  incidență la assess nasal septum și surrounding structures.
+  • În majoritatea cazurilor, leziunile nazale severe vor necesita doar o incidență
+  occipito-mentală pentru evaluarea septului nazal și a structurilor înconjurătoare.
 
-  • incidență poate also fie undertaken cu pacientul Decubit dorsal și caseta sprijinit
-  pe / sprijinit de side de capul.
+  • Incidența poate fi efectuată și cu pacientul în decubit dorsal, iar caseta sprijinită
+  pe/lângă partea laterală a capului.
 
   270'
-position: "• Incidența se realizează optim cu pacientul așezat cu fața spre Craniu\
-  \ unit casetă holder sau stativ vertical Bucky.\n• Nasul și bărbia pacientului sunt\
-  \ plasate în contact cu linia mediană stativului/casetei. capul este then ajustat\
-  \ la bring orbito-meatal baseline la a 35-grade angle la caseta holder.\n• orizontal\
-  \ central line de stativ vertical Bucky sau casetă holder trebuie să fie la nivelul\
-  \ midpoint de orbits.\n• Ensure that planul mediosagital este la drept-angles la\
-  \ Bucky sau casetă holder prin checking that outer canthi de eyes și extern auditory\
-  \ meatuses sunt equidistant.\n\n• pacientul stă așezat facing an 18 \x02 24-cm casetă\
-  \ sprijinit în caseta stand de stativ vertical Bucky.\n• capul este turned astfel\
-  \ încât plan mediosagital este paralel cu casetă și inter-pupillary line este perpendicular\
-  \ pe casetă.\n• nasul trebuie să fie roughly coincident cu centre de caseta."
+position: '• Incidența se realizează optim cu pacientul așezat cu fața spre suportul
+  casetei unității de Craniu sau spre stativul vertical Bucky.
+
+  • Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei.
+  Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi
+  de 35 de grade față de suportul casetei.
+
+  • Linia centrală orizontală a stativului vertical Bucky sau a suportului casetei
+  trebuie să fie la nivelul punctului median al orbitelor.
+
+  • Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul
+  casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe
+  sunt echidistante.
+
+
+  • Pacientul stă așezat cu fața spre o casetă de 18 × 24 cm, sprijinită în suportul
+  casetei stativului vertical Bucky.
+
+  • Capul este rotit astfel încât planul mediosagital să fie paralel cu caseta, iar
+  linia interpupilară să fie perpendiculară pe casetă.
+
+  • Nasul trebuie să coincidă aproximativ cu centrul casetei.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -99,26 +119,26 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- orbits trebuie să fie roughly circular în appearance (they will fie more oval în
-  occipito-mental incidență).
-- stânci temporale (piramide pietroase) trebuie să appear în lower third de maxillary
-  Sinusuri Paranazale (SAF).
-- There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă).
-  This poate fie checked prin ensuring that distance de la Profil (lateral) orbital
-  perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
+- orbitele trebuie să fie aproximativ circulare ca aspect (vor fi mai ovale în incidența
+  occipito-mentală).
+- stâncile temporale (piramidele pietroase) trebuie să apară în treimea inferioară
+  a sinusurilor maxilare paranazale (SAF).
+- Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta
+  poate fi verificată asigurându-se că distanța de la peretele orbital de profil la
+  marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-35-p284-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 284
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=284
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Masiv Facial (Oase ale Feței) 35°
 ---
 # Rx Masiv Facial (Oase ale Feței) 35°
@@ -140,7 +160,7 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
 
     === "Indicații Clinice"
 
-        - Nasal suspiciune de fractură poate usually fie detected clinically și este rarely treated actively. If suspiciune de fractură causes nasal deformity sau respirație difficulty, then it poate fie straightened, but Profil (lateral) incidențe will nu help. Considering dose de radiation la eye, this incidență trebuie să fie avoided în most instances.
+        - Suspiciunea de fractură nazală poate fi de obicei detectată clinic și este rareori tratată activ. Dacă suspiciunea de fractură determină deformarea nasului sau dificultăți de respirație, atunci acesta poate fi îndreptat, dar incidențele de profil nu vor fi utile. Având în vedere doza de radiație la nivelul ochiului, această incidență trebuie evitată în majoritatea cazurilor.
 
     === "Ghid Național IRIS"
 
@@ -154,19 +174,19 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
 
     ---
 
-    - **Poziție Pacient:** • Incidența se realizează optim cu pacientul așezat cu fața spre Craniu unit casetă holder sau stativ vertical Bucky.
-• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană stativului/casetei. capul este then ajustat la bring orbito-meatal baseline la a 35-grade angle la caseta holder.
-• orizontal central line de stativ vertical Bucky sau casetă holder trebuie să fie la nivelul midpoint de orbits.
-• Ensure that planul mediosagital este la drept-angles la Bucky sau casetă holder prin checking that outer canthi de eyes și extern auditory meatuses sunt equidistant.
+    - **Poziție Pacient:** • Incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei unității de Craniu sau spre stativul vertical Bucky.
+• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi de 35 de grade față de suportul casetei.
+• Linia centrală orizontală a stativului vertical Bucky sau a suportului casetei trebuie să fie la nivelul punctului median al orbitelor.
+• Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe sunt echidistante.
 
-• pacientul stă așezat facing an 18  24-cm casetă sprijinit în caseta stand de stativ vertical Bucky.
-• capul este turned astfel încât plan mediosagital este paralel cu casetă și inter-pupillary line este perpendicular pe casetă.
-• nasul trebuie să fie roughly coincident cu centre de caseta.
-    - **Punct de Centrare Fascicul:** • raza centrală de Craniu unit trebuie să fie perpendicular pe casetă holder și prin design will fie centred la middle de receptorul de imagine. If this este case și above positioning este performed accurately, then fascicul will already fie centred.
-• If using Bucky, tubul trebuie să fie centred la Bucky using Fascicul Orizontal before positioning este undertaken. Again, if above positioning este performed accurately și Bucky height este nu altered, then fascicul will already fie centred.
-• la check that fascicul este centred properly, cross-lines pe Bucky sau casetă holder trebuie să coincide cu linia mediană la nivelul mid-orbital region.
+• Pacientul stă așezat cu fața spre o casetă de 18 × 24 cm, sprijinită în suportul casetei stativului vertical Bucky.
+• Capul este rotit astfel încât planul mediosagital să fie paralel cu caseta, iar linia interpupilară să fie perpendiculară pe casetă.
+• Nasul trebuie să coincidă aproximativ cu centrul casetei.
+    - **Punct de Centrare Fascicul:** • Raza centrală a unității de Craniu trebuie să fie perpendiculară pe suportul casetei și, prin proiectare, va fi centrată la mijlocul receptorului de imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, atunci fasciculul va fi deja centrat.
+• Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul va fi deja centrat.
+• Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe Bucky sau de pe suportul casetei trebuie să coincidă cu linia mediană la nivelul regiunii medio-orbitale.
 
-• orizontal raza centrală este orientat through centre de Oase Proprii Nazale (OPN) și collimated pentru include nose.
+• Raza centrală orizontală este orientată prin centrul Oaselor Proprii Nazale (OPN) și colimată pentru a include nasul.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -177,21 +197,21 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - orbits trebuie să fie roughly circular în appearance (they will fie more oval în occipito-mental incidență).
-    - stânci temporale (piramide pietroase) trebuie să appear în lower third de maxillary Sinusuri Paranazale (SAF).
-    - There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă). This poate fie checked prin ensuring that distance de la Profil (lateral) orbital perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
+    - orbitele trebuie să fie aproximativ circulare ca aspect (vor fi mai ovale în incidența occipito-mentală).
+    - stâncile temporale (piramidele pietroase) trebuie să apară în treimea inferioară a sinusurilor maxilare paranazale (SAF).
+    - Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta poate fi verificată asigurându-se că distanța de la peretele orbital de profil la marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -204,17 +224,17 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • If examination este purely la exclude corp străin radiopac în eye, then tight ‘letter-box’ collimation la orbital region trebuie să fie applied.
-• dedicated casetă trebuie să fie used pentru corp străin radiopac This trebuie să fie cleaned regularly la avoid small artefacts pe screens being confused cu corp străin radiopac.
-• If corp străin radiopac este suspected, then second incidență poate fie undertaken, cu eyes în different poziție la differentiate this de la imagine artefact. initial expunere could fie taken cu eyes pointing up și second cu eyes pointing down.
-This este frequently undertaken incidență used la assess injuries la orbital region (e.g. blow-out suspiciune de fractură de orbital floor) și la exclude presence de metallic corp străin radiopac în eyes before magnetic resonance imaging (MRI) investigations.
-incidență este essentially under-tilted occipito-mental cu orbito-meatal baseline raised 10 grade less than în standard occipito-mental incidență.
+    • Dacă examinarea are ca unic scop excluderea unui corp străin radiopac în ochi, trebuie aplicată colimarea strânsă, de tip „cutie de scris”, asupra regiunii orbitare.
+• Pentru corpul străin radiopac trebuie utilizată o casetă dedicată. Aceasta trebuie curățată regulat pentru a evita confundarea artefactelor mici de pe ecrane cu un corp străin radiopac.
+• Dacă se suspectează un corp străin radiopac, poate fi efectuată o a doua incidență, cu ochii în poziții diferite, pentru a-l diferenția de un artefact de imagine. Expunerea inițială poate fi efectuată cu ochii orientați în sus, iar a doua cu ochii orientați în jos.
+Aceasta este o incidență utilizată frecvent pentru evaluarea leziunilor regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar) și pentru excluderea prezenței unui corp străin metalic radiopac în ochi înaintea investigațiilor prin rezonanță magnetică (MRI).
+Incidența este, în esență, o incidență occipito-mentală subînclinată, cu linia de bază orbito-meatală ridicată cu 10 grade mai puțin decât în incidența occipito-mentală standard.
 
-• high-resolution casetă poate fie used if detail este required.
-• This incidență poate fie useful pentru corp străin radiopac în nasul.
-în this case, părți moi expunere trebuie să fie employed.
-• în majority de cases, severe nasal injuries will require only occipito-mental incidență la assess nasal septum și surrounding structures.
-• incidență poate also fie undertaken cu pacientul Decubit dorsal și caseta sprijinit pe / sprijinit de side de capul.
+• Dacă este necesar un detaliu suplimentar, poate fi utilizată o casetă de înaltă rezoluție.
+• Această incidență poate fi utilă pentru un corp străin radiopac în nas.
+În acest caz trebuie utilizată o expunere pentru părți moi.
+• În majoritatea cazurilor, leziunile nazale severe vor necesita doar o incidență occipito-mentală pentru evaluarea septului nazal și a structurilor înconjurătoare.
+• Incidența poate fi efectuată și cu pacientul în decubit dorsal, iar caseta sprijinită pe/lângă partea laterală a capului.
 270
 
 
@@ -224,17 +244,17 @@ incidență este essentially under-tilted occipito-mental cu orbito-meatal basel
 
 <figure class="protocol-image-card" markdown>
 
-![• orbits trebuie să fie roughly circular în appearance (they](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_1.jpeg)
+![orbitele trebuie să fie aproximativ circulare ca aspect (vor](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_1.jpeg)
 
-<figcaption><strong>• orbits trebuie să fie roughly circular în appearance (they</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>orbitele trebuie să fie aproximativ circulare ca aspect (vor</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![la orbital region (e.g. blow-out suspiciune de fractură de orbital floor)](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_2.jpeg)
+![la nivelul regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar)](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_2.jpeg)
 
-<figcaption><strong>la orbital region (e.g. blow-out suspiciune de fractură de orbital floor)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>la nivelul regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -248,17 +268,17 @@ incidență este essentially under-tilted occipito-mental cu orbito-meatal basel
 
 <figure class="protocol-image-card" markdown>
 
-![Nasal suspiciune de fractură poate usually fie detected clinically și este rarely](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_4.jpeg)
+![Suspiciunea de fractură nazală poate fi de obicei detectată clinic și este rareori](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_4.jpeg)
 
-<figcaption><strong>Nasal suspiciune de fractură poate usually fie detected clinically și este rarely</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Suspiciunea de fractură nazală poate fi de obicei detectată clinic și este rareori</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![treated actively. If suspiciune de fractură causes nasal deformity sau respirație](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_5.jpeg)
+![tratată activ. Dacă suspiciunea de fractură determină deformarea nazală sau dificultăți de respirație](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_5.jpeg)
 
-<figcaption><strong>treated actively. If suspiciune de fractură causes nasal deformity sau respirație</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>tratată activ. Dacă suspiciunea de fractură determină deformarea nazală sau dificultăți de respirație</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -275,4 +295,4 @@ incidență este essentially under-tilted occipito-mental cu orbito-meatal basel
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 284](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=284)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 284](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -3,72 +3,84 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: "• tubul este plasat well down below pacientul’s chin și Orientat vertical\
-  \ la 90 grade la plan ocluzal și film radiologic.\n• Centre tubul în linia mediană\
-  \ la 90 grade la imaginary line joining first permanent molars (i.e. \x013 cm distal\
-  \ la linia mediană chin).\nanterior This incidență este designed la imagine anterior\
-  \ regions de Mandibulă.\nonly modification la technique described pentru linia mediană\
-  \ true occlusal este that tubul este centred pe simfiză menti, cu fascicul poziționat\
-  \ astfel încât raza centrală passes through root canals de lower central incisors.\n\
-  308 true occlusal radiografie de Mandibulă Positioning de pacientul și X-ray tube\
-  \ pentru true occlusal radiografie de Mandibulă true occlusal radiografie de Mandibulă\
-  \ evidențiind cystic lesion în anterior region de jaw"
+centering: '• Tubul este plasat mult sub bărbia pacientului și orientat vertical la
+  90 grade față de planul ocluzal și filmul radiologic.
+
+  • Centrați tubul pe linia mediană, la 90 grade față de linia imaginară care unește
+  primii molari permanenți (adică [simbol deteriorat în sursă] 3 cm distal față de
+  linia mediană a bărbiei).
+
+  Incidență anterioară. Această incidență este concepută pentru a vizualiza regiunile
+  anterioare ale mandibulei.
+
+  Singura modificare a tehnicii descrise pentru incidența ocluzală adevărată pe linia
+  mediană este că tubul este centrat pe simfiza mentonieră, cu fasciculul poziționat
+  astfel încât raza centrală să treacă prin canalele radiculare ale incisivilor centrali
+  inferiori.
+
+  308 Radiografie ocluzală adevărată a mandibulei Poziționarea pacientului și a tubului
+  radiogen pentru radiografia ocluzală adevărată a mandibulei Radiografie ocluzală
+  adevărată a mandibulei evidențiind o leziune chistică în regiunea anterioară a mandibulei'
 clinical_indications:
-- More than one-third (35%) de submandibular litiază urinară / Litiază urinară / calculi
-  radio-opaci radiopaci sunt found la hilum de gland. While true occlusal de Mandibulă
-  (see p. 308 opposite) imagini anterior aspects de submandibular duct adequately,
-  posterior portion este obscured prin imagine de lingual cortex de Mandibulă. Oblică
-  Posterioară occlusal (see p. 313) overcomes problem.
+- Mai mult de o treime (35%) dintre litiazele urinare submandibulare / litiazele urinare
+  / calculii radioopaci se găsesc la hilul glandei. În timp ce incidența ocluzală
+  adevărată a mandibulei (vezi p. 308 alăturat) vizualizează adecvat aspectele anterioare
+  ale canalului submandibular, porțiunea posterioară este obscurată prin vizualizarea
+  corticalei linguale a mandibulei. Ocluzala oblică posterioară (vezi p. 313) înlătură
+  problema.
 images:
-- caption: 10 Radiografie Dentară Ocluzală
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 10 Radiografie dentară ocluzală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_1.jpeg
-- caption: true occlusal radiografie de Mandibulă
+- caption: Radiografie ocluzală adevărată a mandibulei
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_2.jpeg
-- caption: Positioning de pacientul și X-ray tube pentru true occlusal radiografie
+- caption: Poziționarea pacientului și a tubului radiogen pentru radiografia ocluzală
+    adevărată
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_3.jpeg
-- caption: Radiografie Dentară Ocluzală
+- caption: Radiografie dentară ocluzală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_4.jpeg
-- caption: effectively fragments de suspiciune de fracturăd tooth și radio-opaque
-    pentru-
+- caption: identificarea eficientă a fragmentelor dentare suspectate a fi fracturate
+    și radioopace pentru-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_5.jpeg
-- caption: Other radiographic incidențe sunt available la imagine litiază urinară
-    / Litiază urinară / calculi radio-opaci radiopaci în
+- caption: Alte incidențe radiografice sunt disponibile pentru vizualizarea litiazei
+    urinare / litiazei urinare / calculilor radioopaci în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Other radiographic incidențe sunt available la imagine litiază urinară / Litiază
-  urinară / calculi radio-opaci radiopaci în this region, including true Profil (lateral)
-  cu floor de mouth coborât și panoramic incidență.
+notes: 'Sunt disponibile și alte incidențe radiografice pentru vizualizarea litiazei
+  urinare / litiazei urinare / calculilor radioopaci în această regiune, inclusiv
+  profilul adevărat (lateral), cu planșeul bucal coborât, și incidența panoramică.
 
-  posterior true occlusal radiografie de drept Mandibulă posterior true occlusal radiografie
-  de stâng Mandibulă. cystic lesion este apparent în premolar region True occlusal
-  (cu părți moi expunere) evidențiind discrete salivary calculus în linia mediană,
-  adjacent la stâng submandibular duct orifice'
-position: '• occlusal film radiologic trebuie să fie plasat ca far back în mouth ca
-  pacientul will tolerate, cu film radiologic resting pe occlusal surfaces de lower
-  teeth. tubul side de film radiologic faces floor de mouth cu axa longitudinală de
-  film radiologic extending across oral cavity (i.e. perpendicular pe plan sagital).
+  Radiografie ocluzală adevărată posterioară a mandibulei drepte. Radiografie ocluzală
+  adevărată posterioară a mandibulei stângi. Leziunea chistică este evidentă în regiunea
+  premolară. Ocluzală adevărată (cu expunere pentru părți moi) evidențiind un calcul
+  salivar discret pe linia mediană, adiacent orificiului canalului submandibular stâng'
+position: '• Filmul ocluzal trebuie plasat cât mai posterior în gură, atât cât tolerează
+  pacientul, cu filmul radiologic sprijinit pe suprafețele ocluzale ale dinților inferiori.
+  Partea filmului radiologic este orientată spre planșeul bucal, cu axa longitudinală
+  a filmului radiologic extinsă transversal în cavitatea bucală (adică perpendicular
+  pe planul sagital).
 
-  • anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial
-  aspects de Mandibulă incisor teeth.
+  • Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo
+  de aspectele labiale ale dinților incisivi mandibulari.
 
-  • pacientul este instructed la extend their cap backwards astfel încât ala-tragus
-  line este almost perpendicular pe floor.
+  • Pacientului i se cere să-și extindă capul posterior, astfel încât linia ala-tragus
+  să fie aproape perpendiculară pe planșeu.
 
-  capul este then sprijinit adequately în this poziție.
+  Capul este apoi susținut adecvat în această poziție.
 
-  • pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.'
+  • Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -77,7 +89,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+- Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -85,18 +97,18 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 323
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=323
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Ocluzală True occlusal of the Mandibulă
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie dentară ocluzală Ocluzală adevărată a mandibulei
 ---
-# Rx Radiografie Dentară Ocluzală True occlusal of the Mandibulă
+# Rx Radiografie dentară ocluzală Ocluzală adevărată a mandibulei
 
 
 <div class="rx-meta-bar">
@@ -115,7 +127,7 @@ title: Rx Radiografie Dentară Ocluzală True occlusal of the Mandibulă
 
     === "Indicații Clinice"
 
-        - More than one-third (35%) de submandibular litiază urinară / Litiază urinară / calculi radio-opaci radiopaci sunt found la hilum de gland. While true occlusal de Mandibulă (see p. 308 opposite) imagini anterior aspects de submandibular duct adequately, posterior portion este obscured prin imagine de lingual cortex de Mandibulă. Oblică Posterioară occlusal (see p. 313) overcomes problem.
+        - Mai mult de o treime (35%) dintre litiazele urinare submandibulare / litiazele urinare / calculii radioopaci se găsesc la hilul glandei. În timp ce incidența ocluzală adevărată a mandibulei (vezi p. 308 alăturat) vizualizează adecvat aspectele anterioare ale canalului submandibular, porțiunea posterioară este obscurată prin vizualizarea corticalei linguale a mandibulei. Ocluzala oblică posterioară (vezi p. 313) înlătură problema.
 
     === "Ghid Național IRIS"
 
@@ -129,16 +141,16 @@ title: Rx Radiografie Dentară Ocluzală True occlusal of the Mandibulă
 
     ---
 
-    - **Poziție Pacient:** • occlusal film radiologic trebuie să fie plasat ca far back în mouth ca pacientul will tolerate, cu film radiologic resting pe occlusal surfaces de lower teeth. tubul side de film radiologic faces floor de mouth cu axa longitudinală de film radiologic extending across oral cavity (i.e. perpendicular pe plan sagital).
-• anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial aspects de Mandibulă incisor teeth.
-• pacientul este instructed la extend their cap backwards astfel încât ala-tragus line este almost perpendicular pe floor.
-capul este then sprijinit adequately în this poziție.
-• pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
-    - **Punct de Centrare Fascicul:** • tubul este plasat well down below pacientul’s chin și Orientat vertical la 90 grade la plan ocluzal și film radiologic.
-• Centre tubul în linia mediană la 90 grade la imaginary line joining first permanent molars (i.e. 3 cm distal la linia mediană chin).
-anterior This incidență este designed la imagine anterior regions de Mandibulă.
-only modification la technique described pentru linia mediană true occlusal este that tubul este centred pe simfiză menti, cu fascicul poziționat astfel încât raza centrală passes through root canals de lower central incisors.
-308 true occlusal radiografie de Mandibulă Positioning de pacientul și X-ray tube pentru true occlusal radiografie de Mandibulă true occlusal radiografie de Mandibulă evidențiind cystic lesion în anterior region de jaw
+    - **Poziție Pacient:** • Filmul ocluzal trebuie plasat cât mai posterior în gură, atât cât tolerează pacientul, cu filmul radiologic sprijinit pe suprafețele ocluzale ale dinților inferiori. Partea filmului radiologic este orientată spre planșeul bucal, cu axa longitudinală a filmului radiologic extinsă transversal în cavitatea bucală (adică perpendicular pe planul sagital).
+• Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi mandibulari.
+• Pacientului i se cere să-și extindă capul posterior, astfel încât linia ala-tragus să fie aproape perpendiculară pe planșeu.
+Capul este apoi susținut adecvat în această poziție.
+• Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+    - **Punct de Centrare Fascicul:** • Tubul este plasat mult sub bărbia pacientului și orientat vertical la 90 grade față de planul ocluzal și filmul radiologic.
+• Centrați tubul pe linia mediană, la 90 grade față de linia imaginară care unește primii molari permanenți (adică [simbol deteriorat în sursă] 3 cm distal față de linia mediană a bărbiei).
+Incidență anterioară. Această incidență este concepută pentru a vizualiza regiunile anterioare ale mandibulei.
+Singura modificare a tehnicii descrise pentru incidența ocluzală adevărată pe linia mediană este că tubul este centrat pe simfiza mentonieră, cu fasciculul poziționat astfel încât raza centrală să treacă prin canalele radiculare ale incisivilor centrali inferiori.
+308 Radiografie ocluzală adevărată a mandibulei Poziționarea pacientului și a tubului radiogen pentru radiografia ocluzală adevărată a mandibulei Radiografie ocluzală adevărată a mandibulei evidențiind o leziune chistică în regiunea anterioară a mandibulei
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -149,19 +161,19 @@ only modification la technique described pentru linia mediană true occlusal est
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+    - Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -176,8 +188,8 @@ only modification la technique described pentru linia mediană true occlusal est
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Other radiographic incidențe sunt available la imagine litiază urinară / Litiază urinară / calculi radio-opaci radiopaci în this region, including true Profil (lateral) cu floor de mouth coborât și panoramic incidență.
-posterior true occlusal radiografie de drept Mandibulă posterior true occlusal radiografie de stâng Mandibulă. cystic lesion este apparent în premolar region True occlusal (cu părți moi expunere) evidențiind discrete salivary calculus în linia mediană, adjacent la stâng submandibular duct orifice
+    Sunt disponibile și alte incidențe radiografice pentru vizualizarea litiazei urinare / litiazei urinare / calculilor radioopaci în această regiune, inclusiv profilul adevărat (lateral), cu planșeul bucal coborât, și incidența panoramică.
+Radiografie ocluzală adevărată posterioară a mandibulei drepte. Radiografie ocluzală adevărată posterioară a mandibulei stângi. Leziunea chistică este evidentă în regiunea premolară. Ocluzală adevărată (cu expunere pentru părți moi) evidențiind un calcul salivar discret pe linia mediană, adiacent orificiului canalului submandibular stâng
 
 
 ### 🖼️ Imagini
@@ -186,49 +198,49 @@ posterior true occlusal radiografie de drept Mandibulă posterior true occlusal 
 
 <figure class="protocol-image-card" markdown>
 
-![10 Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_1.jpeg)
+![10 Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Ocluzală</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![true occlusal radiografie de Mandibulă](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_2.jpeg)
-
-<figcaption><strong>true occlusal radiografie de Mandibulă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie dentară ocluzală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Positioning de pacientul și X-ray tube pentru true occlusal radiografie](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_3.jpeg)
+![Radiografie ocluzală adevărată a mandibulei](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_2.jpeg)
 
-<figcaption><strong>Positioning de pacientul și X-ray tube pentru true occlusal radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_4.jpeg)
-
-<figcaption><strong>Radiografie Dentară Ocluzală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie ocluzală adevărată a mandibulei</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![effectively fragments de suspiciune de fracturăd tooth și radio-opaque pentru-](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_5.jpeg)
+![Poziționarea pacientului și a tubului radiogen pentru radiografia ocluzală adevărată](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_3.jpeg)
 
-<figcaption><strong>effectively fragments de suspiciune de fracturăd tooth și radio-opaque pentru-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Poziționarea pacientului și a tubului radiogen pentru radiografia ocluzală adevărată</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Other radiographic incidențe sunt available la imagine litiază urinară / Litiază urinară / calculi radio-opaci radiopaci în](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_6.jpeg)
+![Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_4.jpeg)
 
-<figcaption><strong>Other radiographic incidențe sunt available la imagine litiază urinară / Litiază urinară / calculi radio-opaci radiopaci în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie dentară ocluzală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![identificarea eficientă a fragmentelor dentare suspectate a fi fracturate și radioopace pentru-](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_5.jpeg)
+
+<figcaption><strong>identificarea eficientă a fragmentelor dentare suspectate a fi fracturate și radioopace pentru-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Alte incidențe radiografice sunt disponibile pentru vizualizarea litiazei urinare / litiazei urinare / calculilor radioopaci în](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-true-occlusal-of-the-mandibula-p323-clark/fig_6.jpeg)
+
+<figcaption><strong>Alte incidențe radiografice sunt disponibile pentru vizualizarea litiazei urinare / litiazei urinare / calculilor radioopaci în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -245,4 +257,4 @@ posterior true occlusal radiografie de drept Mandibulă posterior true occlusal 
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 323](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=323)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 323](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

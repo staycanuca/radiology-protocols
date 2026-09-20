@@ -71,7 +71,7 @@ sid_dff: 100 cm
 slug: rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 412
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=412
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -213,4 +213,4 @@ title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 412](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=412)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 412](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

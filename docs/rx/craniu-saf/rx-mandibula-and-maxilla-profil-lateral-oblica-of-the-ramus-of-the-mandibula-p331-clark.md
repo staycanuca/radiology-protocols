@@ -3,38 +3,51 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• raza centrală este orientat posteriorly cu upward angulation (cranial)
-  de 10 grade spre centre de ramus de Mandibulă pe side de interest.
+centering: '• Raza centrală este orientată posterior, cu o angulație ascendentă (cranială)
+  de 10 grade, spre centrul ramurii mandibulei de partea de interes.
 
-  • centring poziție de tubul este contralateral side de Mandibulă la point 2 cm below
-  inferior margine în region de first/second permanent molar.'
+  • Poziția de centrare a tubului este pe partea contralaterală a mandibulei, într-un
+  punct situat la 2 cm sub marginea inferioară, în regiunea primului/al doilea molar
+  permanent.'
 clinical_indications:
-- Evaluare radiografică regiunii Mandibulă și maxilla (Profil (lateral) Oblică de
-  ramus de Mandibulă).
+- Evaluarea radiografică a regiunii mandibulei și maxilei (incidență oblică de profil
+  a ramurii mandibulei).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Profil (lateral) Oblică radiografie de ramus de Mandibulă
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică de profil a ramurii mandibulei
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_1.jpeg
-- caption: casetă și X-ray tube poziții pentru drept Profil (lateral) Oblică radiografie
+- caption: Pozițiile casetei și tubului de raze X pentru radiografia oblică de profil
+    dreaptă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: "Some operators prefer slight (\x01 10 grade) downward (caudal) angulation\
-  \ de tubul la prevent imagine de os hioid being superimposed pe corp de Mandibulă."
-position: "• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. planul\
-  \ mediosagital este vertical.\n• A 13 \x02 18-cm casetă este used cu removable film\
-  \ radiologic marker attached la designate side de Mandibulă la fie imaged.\n• caseta\
-  \ este poziționat pe / sprijinit de pacient’s cheek overlying ascending ramus și\
-  \ posterior aspect de condyle de Mandibulă under investigation.\n• caseta este poziționat\
-  \ so that its lower margine este paralel cu inferior margine de Mandibulă but lies\
-  \ la least 2 cm below it.\n• positioning achieves a 10-grade angle de separation\
-  \ între plan mediosagital și film radiologic.\n• pacientul este instructed la support\
-  \ caseta în this poziție.\n• Mandibulă este extins ca far ca possible.\n• Limit\
-  \ rotație de cap (\x01 10 grade) spre caseta."
+notes: Unii operatori preferă o angulație ușor descendentă (± 10 grade) a tubului
+  pentru a preveni suprapunerea osului hioid peste corpul mandibulei.
+position: '• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul
+  mediosagital este vertical.
+
+  • Se utilizează o casetă de 13 × 18 cm, cu marker de film radiologic detașabil atașat,
+  pentru a indica partea mandibulei care urmează să fie reprezentată.
+
+  • Caseta este poziționată pe obrazul pacientului / sprijinită de obrazul pacientului,
+  deasupra ramurii ascendente și a aspectului posterior al condilului mandibulei examinate.
+
+  • Caseta este poziționată astfel încât marginea sa inferioară să fie paralelă cu
+  marginea inferioară a mandibulei, dar situată la cel puțin 2 cm sub aceasta.
+
+  • Poziționarea realizează un unghi de separare de 10 grade între planul mediosagital
+  și filmul radiologic.
+
+  • Pacientul este instruit să sprijine caseta în această poziție.
+
+  • Mandibula este extinsă cât mai mult posibil.
+
+  • Se limitează rotația capului (± 10 grade) spre casetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -43,41 +56,42 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- There trebuie să fie fără removable metallic corp străin radiopac.
-- There trebuie să fie fără mișcare artefacts.
-- There trebuie să fie fără Antero-posterior (AP) positioning errors.
-- There trebuie să fie fără evidence de excessive elongation.
-- There trebuie să fie fără evidence de incorrect orizontal angulation.
-- There trebuie să fie minimal superimposition de os hioid pe region de (clinical)
-  interest.
-- There trebuie să fie good densitate optică și adecvat contrast între enamel și dentine.
-- There trebuie să fie fără pressure marks pe film radiologic și fără emulsion scratches.
-  316
-- There trebuie să fie fără roller marks (automatic processing only).
-- There trebuie să fie fără evidence de film radiologic fog.
-- There trebuie să fie fără chemical streaks/splashes/contamination.
-- There trebuie să fie fără evidence de inadequate fixation/washing.
-- name/date/stâng sau drept marker trebuie să fie legible. Profil (lateral) Oblică
-  radiografie de ramus de Mandibulă casetă și X-ray tube poziții pentru drept Profil
-  (lateral) Oblică radiografie de ramus de Mandibulă casetă Direction de X-ray fascicul
-  Schematic la illustrate direction de fascicul pentru Profil (lateral) Oblică radiografie
-  de ramus de Mandibulă
+- Nu trebuie să existe corp străin metalic radiopac detașabil.
+- Nu trebuie să existe artefacte de mișcare.
+- Nu trebuie să existe erori de poziționare anteroposterioară (AP).
+- Nu trebuie să existe dovezi de alungire excesivă.
+- Nu trebuie să existe dovezi de angulație orizontală incorectă.
+- Trebuie să existe o suprapunere minimă a osului hioid peste regiunea de interes
+  (clinică).
+- Trebuie să existe o densitate optică bună și un contrast adecvat între smalț și
+  dentină.
+- Nu trebuie să existe urme de presiune pe filmul radiologic și nici zgârieturi ale
+  emulsiei. 316
+- Nu trebuie să existe urme de role (numai la procesarea automată).
+- Nu trebuie să existe dovezi de voalare a filmului radiologic.
+- Nu trebuie să existe dâre/picături de substanțe chimice/contaminare.
+- Nu trebuie să existe dovezi de fixare/spălare insuficientă.
+- Markerul cu numele/data/stânga sau dreapta trebuie să fie lizibil. Radiografie oblică
+  de profil a ramurii mandibulei; pozițiile casetei și tubului de raze X pentru radiografia
+  oblică de profil dreaptă a ramurii mandibulei; casetă; direcția fasciculului de
+  raze X; schemă pentru ilustrarea direcției fasciculului pentru radiografia oblică
+  de profil a ramurii mandibulei
 sid_dff: 100 cm
 slug: rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 331
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=331
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Colimare strictă adaptată pe receptor 13 x 18 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  collimation: Colimare strictă adaptată la receptorul de 13 × 18 cm
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Mandibulă
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie oblică de profil a ramurii mandibulei
 ---
-# Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Mandibulă
+# Radiografie oblică de profil a ramurii mandibulei
 
 
 <div class="rx-meta-bar">
@@ -96,7 +110,7 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Mandibulă și maxilla (Profil (lateral) Oblică de ramus de Mandibulă).
+        - Evaluarea radiografică a regiunii mandibulei și maxilei (incidență oblică de profil a ramurii mandibulei).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -112,16 +126,16 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. planul mediosagital este vertical.
-• A 13  18-cm casetă este used cu removable film radiologic marker attached la designate side de Mandibulă la fie imaged.
-• caseta este poziționat pe / sprijinit de pacient’s cheek overlying ascending ramus și posterior aspect de condyle de Mandibulă under investigation.
-• caseta este poziționat so that its lower margine este paralel cu inferior margine de Mandibulă but lies la least 2 cm below it.
-• positioning achieves a 10-grade angle de separation între plan mediosagital și film radiologic.
-• pacientul este instructed la support caseta în this poziție.
-• Mandibulă este extins ca far ca possible.
-• Limit rotație de cap ( 10 grade) spre caseta.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat posteriorly cu upward angulation (cranial) de 10 grade spre centre de ramus de Mandibulă pe side de interest.
-• centring poziție de tubul este contralateral side de Mandibulă la point 2 cm below inferior margine în region de first/second permanent molar.
+    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
+• Se utilizează o casetă de 13 × 18 cm, cu marker de film radiologic detașabil atașat, pentru a indica partea mandibulei care urmează să fie reprezentată.
+• Caseta este poziționată pe obrazul pacientului / sprijinită de obrazul pacientului, deasupra ramurii ascendente și a aspectului posterior al condilului mandibulei examinate.
+• Caseta este poziționată astfel încât marginea sa inferioară să fie paralelă cu marginea inferioară a mandibulei, dar situată la cel puțin 2 cm sub aceasta.
+• Poziționarea realizează un unghi de separare de 10 grade între planul mediosagital și filmul radiologic.
+• Pacientul este instruit să sprijine caseta în această poziție.
+• Mandibula este extinsă cât mai mult posibil.
+• Se limitează rotația capului (± 10 grade) spre casetă.
+    - **Punct de Centrare Fascicul:** • Raza centrală este orientată posterior, cu o angulație ascendentă (cranială) de 10 grade, spre centrul ramurii mandibulei de partea de interes.
+• Poziția de centrare a tubului este pe partea contralaterală a mandibulei, într-un punct situat la 2 cm sub marginea inferioară, în regiunea primului/al doilea molar permanent.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -132,31 +146,31 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 13 x 18 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Colimare Fascicul** | Colimare strictă adaptată la receptorul de 13 × 18 cm |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - There trebuie să fie fără removable metallic corp străin radiopac.
-    - There trebuie să fie fără mișcare artefacts.
-    - There trebuie să fie fără Antero-posterior (AP) positioning errors.
-    - There trebuie să fie fără evidence de excessive elongation.
-    - There trebuie să fie fără evidence de incorrect orizontal angulation.
-    - There trebuie să fie minimal superimposition de os hioid pe region de (clinical) interest.
-    - There trebuie să fie good densitate optică și adecvat contrast între enamel și dentine.
-    - There trebuie să fie fără pressure marks pe film radiologic și fără emulsion scratches. 316
-    - There trebuie să fie fără roller marks (automatic processing only).
-    - There trebuie să fie fără evidence de film radiologic fog.
-    - There trebuie să fie fără chemical streaks/splashes/contamination.
-    - There trebuie să fie fără evidence de inadequate fixation/washing.
-    - name/date/stâng sau drept marker trebuie să fie legible. Profil (lateral) Oblică radiografie de ramus de Mandibulă casetă și X-ray tube poziții pentru drept Profil (lateral) Oblică radiografie de ramus de Mandibulă casetă Direction de X-ray fascicul Schematic la illustrate direction de fascicul pentru Profil (lateral) Oblică radiografie de ramus de Mandibulă
+    - Nu trebuie să existe corp străin metalic radiopac detașabil.
+    - Nu trebuie să existe artefacte de mișcare.
+    - Nu trebuie să existe erori de poziționare anteroposterioară (AP).
+    - Nu trebuie să existe dovezi de alungire excesivă.
+    - Nu trebuie să existe dovezi de angulație orizontală incorectă.
+    - Trebuie să existe o suprapunere minimă a osului hioid peste regiunea de interes (clinică).
+    - Trebuie să existe o densitate optică bună și un contrast adecvat între smalț și dentină.
+    - Nu trebuie să existe urme de presiune pe filmul radiologic și nici zgârieturi ale emulsiei. 316
+    - Nu trebuie să existe urme de role (numai la procesarea automată).
+    - Nu trebuie să existe dovezi de voalare a filmului radiologic.
+    - Nu trebuie să existe dâre/picături de substanțe chimice/contaminare.
+    - Nu trebuie să existe dovezi de fixare/spălare insuficientă.
+    - Markerul cu numele/data/stânga sau dreapta trebuie să fie lizibil. Radiografie oblică de profil a ramurii mandibulei; pozițiile casetei și tubului de raze X pentru radiografia oblică de profil dreaptă a ramurii mandibulei; casetă; direcția fasciculului de raze X; schemă pentru ilustrarea direcției fasciculului pentru radiografia oblică de profil a ramurii mandibulei
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,7 +183,7 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Some operators prefer slight ( 10 grade) downward (caudal) angulation de tubul la prevent imagine de os hioid being superimposed pe corp de Mandibulă.
+    Unii operatori preferă o angulație ușor descendentă (± 10 grade) a tubului pentru a preveni suprapunerea osului hioid peste corpul mandibulei.
 
 
 ### 🖼️ Imagini
@@ -178,17 +192,17 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) Oblică radiografie de ramus de Mandibulă](../../assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_1.jpeg)
+![Radiografie oblică de profil a ramurii mandibulei](../../assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) Oblică radiografie de ramus de Mandibulă</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică de profil a ramurii mandibulei</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![casetă și X-ray tube poziții pentru drept Profil (lateral) Oblică radiografie](../../assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_2.jpeg)
+![Pozițiile casetei și tubului de raze X pentru radiografia oblică de profil dreaptă](../../assets/images/protocols/clark/rx-mandibula-and-maxilla-profil-lateral-oblica-of-the-ramus-of-the-mandibula-p331-clark/fig_2.jpeg)
 
-<figcaption><strong>casetă și X-ray tube poziții pentru drept Profil (lateral) Oblică radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Pozițiile casetei și tubului de raze X pentru radiografia oblică de profil dreaptă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -205,4 +219,4 @@ title: Rx Mandibulă and maxilla Profil (Lateral) Oblică of the ramus of the Ma
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 331](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=331)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 331](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

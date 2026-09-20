@@ -3,22 +3,24 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• Direct raza centrală orizontală centrală paralel la line joining anterior
-  superior iliac spines și spre point 7.5 cm anterior la third lumbar spinous process
-  la nivelul lower costal margin.
+centering: '• Se direcționează raza centrală orizontală paralel cu linia care unește
+  spinele iliace anterosuperioare și spre un punct situat la 7.5 cm anterior de procesul
+  spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
 
 
-  • se orientează raza centrală centrală la drept-angles la film radiologic și spre
-  point 7.5 cm anterior la third lumbar spinous process la nivelul lower costal margin.'
+  • Se orientează raza centrală perpendicular pe filmul radiologic și spre un punct
+  situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare,
+  la nivelul marginii costale inferioare.'
 clinical_indications:
-- 185 6 Coloană Lombară Profil (lateral) Fascicul Orizontal pacient cu suspected suspiciune
-  de fractură la Coloană Lombară trebuie să nu fie moved de la casualty trolley fără
-  medical supervision. Similarly, pacientul trebuie să nu fie moved into Profil (lateral)
-  decubit poziție în these circumstances. This will necessitate use de Fascicul Orizontal
-  technique în order la obtain second incidență required pentru complete examination.
+- 185 6 Coloană lombară – profil (lateral) – fascicul orizontal. Pacientul cu suspiciune
+  de fractură a coloanei lombare nu trebuie deplasat de pe targa de traumă fără supraveghere
+  medicală. În mod similar, pacientul nu trebuie deplasat în poziție de decubit lateral
+  în aceste situații. Acest lucru va necesita utilizarea tehnicii cu fascicul orizontal
+  pentru obținerea celei de-a doua incidențe necesare examinării complete.
 images:
-- caption: pacient cu suspected suspiciune de fractură la Coloană Lombară
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: pacient cu suspiciune de fractură a coloanei lombare
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-fascicul-orizontal-p200-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -47,37 +49,40 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• trauma trolley este plasat adjacent la stativ vertical Bucky.
+position: '• Targa de traumă este plasată adiacent stativului vertical Bucky.
 
-  • se ajustează poziție de trolley astfel încât lower costal margin de pacientul
-  coincides cu vertical central line de Bucky și planul mediosagital este paralel
-  cu casetă.
+  • Se ajustează poziția tărgii astfel încât marginea costală inferioară a pacientului
+  să coincidă cu linia centrală verticală a Bucky, iar planul mediosagital să fie
+  paralel cu caseta.
 
-  • Bucky trebuie să fie raised sau lowered astfel încât pacient’s mid-plan coronal
-  este coincident cu linia mediană casetă within Bucky, along its axa longitudinală.
+  • Bucky trebuie ridicat sau coborât astfel încât planul coronal median al pacientului
+  să coincidă cu linia mediană a casetei în interiorul Bucky, de-a lungul axei sale
+  longitudinale.
 
-  • If possible, brațele trebuie să fie raised above capul.
+  • Dacă este posibil, brațele trebuie ridicate deasupra capului.
 
 
-  • This incidență poate fie performed Decubit dorsal, but it este most commonly performed
-  Ortostatism cu pacientul așezat pe scaun pe stool cu either side pe / sprijinit
-  de stativ vertical Bucky.
+  • Această incidență poate fi efectuată în decubit dorsal, dar este cel mai frecvent
+  efectuată în ortostatism, cu pacientul așezat pe un scaun sau pe un taburet, cu
+  una dintre laturi sprijinită de stativul vertical Bucky.
 
-  • așezat pe scaun poziție este preferred, since apparent flexion și extension de
-  lumbar region este less likely la fie due la movement de Șold articulații when using
-  Ortostatism poziție.
+  • Poziția așezat este preferată, deoarece flexia și extensia aparentă a regiunii
+  lombare este mai puțin probabil să se datoreze mișcării articulațiilor șoldurilor
+  atunci când se utilizează poziția în ortostatism.
 
-  • dorsal surface de trunk trebuie să fie la drept-angles la caseta și Coloană Vertebrală
-  paralel cu casetă.
+  • Suprafața dorsală a trunchiului trebuie să fie perpendiculară pe casetă, iar coloana
+  vertebrală paralelă cu caseta.
 
-  • pentru first expunere pacientul leans forward, flexing lumbar region ca far ca
-  possible, și grips front de seat la assist în maintaining poziție.
+  • Pentru prima expunere, pacientul se apleacă înainte, flectând regiunea lombară
+  cât mai mult posibil, și se prinde de partea anterioară a șezutului pentru a ajuta
+  la menținerea poziției.
 
-  • pentru second expunere pacientul then leans backward, extending lumbar region
-  ca far ca possible, și grips back de seat sau another support plasat behind pacientul.
+  • Pentru a doua expunere, pacientul se apleacă apoi înapoi, extinzând regiunea lombară
+  cât mai mult posibil, și se prinde de partea posterioară a șezutului sau de un alt
+  suport plasat în spatele pacientului.
 
-  • caseta este centred la nivelul lower costal margin, și Expunerea se efectuează
-  în apnee la sfârșitul expirului complet.'
+  • Caseta este centrată la nivelul marginii costale inferioare, iar expunerea se
+  efectuează în apnee la sfârșitul expirului complet.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -86,38 +91,41 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Refer la Profil (lateral) lumbar coloană vertebrală (p. 183).
-- Extreme care trebuie să fie taken if using automatic expunere control. chamber selected
-  trebuie să fie directly în line cu vertebre, otherwise incorrect expunere will result.
-- If manual expunere este selected, them higher expunere will fie required than cu
-  Decubit dorsal Profil (lateral). This este due la effect de gravity pe intern organs,
-  causing them la lie either side de coloană vertebrală. Fascicul Orizontal Refer
-  la Profil (lateral) lumbar coloană vertebrală (p. 183). toate de aria de interes
-  diagnostic trebuie să fie included pe ambele incidențe.
-- 'Erori de evitat / remedii: Extreme care trebuie să fie taken if using automatic
-  expunere control. chamber selected trebuie să fie directly în line cu vertebre,
-  otherwise incorrect expunere will result.'
-- 'Erori de evitat / remedii: If manual expunere este selected, higher expunere will
-  fie required than cu Decubit dorsal Profil (lateral). This este due la effect de
-  gravity pe intern organs, causing them la lie either side de coloană vertebrală.'
-- 'Erori de evitat / remedii: short expunere time este desirable, ca it este difficult
-  pentru pacientul la remain stable. 186 Flexion Extension Flexion Extension'
+- Consultați coloana vertebrală lombară de profil (lateral) (p. 183).
+- Este necesară o atenție deosebită dacă se utilizează controlul automat al expunerii.
+  Camera selectată trebuie să fie direct aliniată cu vertebrele; în caz contrar, va
+  rezulta o expunere incorectă.
+- Dacă se selectează expunerea manuală, va fi necesară o expunere mai mare decât în
+  cazul incidenței de profil (lateral) în decubit dorsal. Acest lucru se datorează
+  efectului gravitației asupra organelor interne, determinându-le să se dispună de
+  o parte și de alta a coloanei vertebrale. Fascicul orizontal. Consultați coloana
+  vertebrală lombară de profil (lateral) (p. 183). Întreaga arie de interes diagnostic
+  trebuie inclusă pe ambele incidențe.
+- 'Erori de evitat / remedii: Este necesară o atenție deosebită dacă se utilizează
+  controlul automat al expunerii. Camera selectată trebuie să fie direct aliniată
+  cu vertebrele; în caz contrar, va rezulta o expunere incorectă.'
+- 'Erori de evitat / remedii: Dacă se selectează expunerea manuală, va fi necesară
+  o expunere mai mare decât în cazul incidenței de profil (lateral) în decubit dorsal.
+  Acest lucru se datorează efectului gravitației asupra organelor interne, determinându-le
+  să se dispună de o parte și de alta a coloanei vertebrale.'
+- 'Erori de evitat / remedii: Este de dorit un timp scurt de expunere, deoarece pacientului
+  îi este dificil să rămână stabil. 186 Flexie Extensie Flexie Extensie'
 sid_dff: 100 cm
 slug: rx-coloana-lombara-profil-lateral-fascicul-orizontal-p200-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 200
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=200
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie a coloanei lombare – profil (lateral) – fascicul orizontal
 ---
-# Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
+# Radiografie a coloanei lombare – profil (lateral) – fascicul orizontal
 
 
 <div class="rx-meta-bar">
@@ -136,7 +144,7 @@ title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
 
     === "Indicații Clinice"
 
-        - 185 6 Coloană Lombară Profil (lateral) Fascicul Orizontal pacient cu suspected suspiciune de fractură la Coloană Lombară trebuie să nu fie moved de la casualty trolley fără medical supervision. Similarly, pacientul trebuie să nu fie moved into Profil (lateral) decubit poziție în these circumstances. This will necessitate use de Fascicul Orizontal technique în order la obtain second incidență required pentru complete examination.
+        - 185 6 Coloană lombară – profil (lateral) – fascicul orizontal. Pacientul cu suspiciune de fractură a coloanei lombare nu trebuie deplasat de pe targa de traumă fără supraveghere medicală. În mod similar, pacientul nu trebuie deplasat în poziție de decubit lateral în aceste situații. Acest lucru va necesita utilizarea tehnicii cu fascicul orizontal pentru obținerea celei de-a doua incidențe necesare examinării complete.
 
     === "Ghid Național IRIS"
 
@@ -150,20 +158,20 @@ title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
 
     ---
 
-    - **Poziție Pacient:** • trauma trolley este plasat adjacent la stativ vertical Bucky.
-• se ajustează poziție de trolley astfel încât lower costal margin de pacientul coincides cu vertical central line de Bucky și planul mediosagital este paralel cu casetă.
-• Bucky trebuie să fie raised sau lowered astfel încât pacient’s mid-plan coronal este coincident cu linia mediană casetă within Bucky, along its axa longitudinală.
-• If possible, brațele trebuie să fie raised above capul.
+    - **Poziție Pacient:** • Targa de traumă este plasată adiacent stativului vertical Bucky.
+• Se ajustează poziția tărgii astfel încât marginea costală inferioară a pacientului să coincidă cu linia centrală verticală a Bucky, iar planul mediosagital să fie paralel cu caseta.
+• Bucky trebuie ridicat sau coborât astfel încât planul coronal median al pacientului să coincidă cu linia mediană a casetei în interiorul Bucky, de-a lungul axei sale longitudinale.
+• Dacă este posibil, brațele trebuie ridicate deasupra capului.
 
-• This incidență poate fie performed Decubit dorsal, but it este most commonly performed Ortostatism cu pacientul așezat pe scaun pe stool cu either side pe / sprijinit de stativ vertical Bucky.
-• așezat pe scaun poziție este preferred, since apparent flexion și extension de lumbar region este less likely la fie due la movement de Șold articulații when using Ortostatism poziție.
-• dorsal surface de trunk trebuie să fie la drept-angles la caseta și Coloană Vertebrală paralel cu casetă.
-• pentru first expunere pacientul leans forward, flexing lumbar region ca far ca possible, și grips front de seat la assist în maintaining poziție.
-• pentru second expunere pacientul then leans backward, extending lumbar region ca far ca possible, și grips back de seat sau another support plasat behind pacientul.
-• caseta este centred la nivelul lower costal margin, și Expunerea se efectuează în apnee la sfârșitul expirului complet.
-    - **Punct de Centrare Fascicul:** • Direct raza centrală orizontală centrală paralel la line joining anterior superior iliac spines și spre point 7.5 cm anterior la third lumbar spinous process la nivelul lower costal margin.
+• Această incidență poate fi efectuată în decubit dorsal, dar este cel mai frecvent efectuată în ortostatism, cu pacientul așezat pe un scaun sau pe un taburet, cu una dintre laturi sprijinită de stativul vertical Bucky.
+• Poziția așezat este preferată, deoarece flexia și extensia aparentă a regiunii lombare este mai puțin probabil să se datoreze mișcării articulațiilor șoldurilor atunci când se utilizează poziția în ortostatism.
+• Suprafața dorsală a trunchiului trebuie să fie perpendiculară pe casetă, iar coloana vertebrală paralelă cu caseta.
+• Pentru prima expunere, pacientul se apleacă înainte, flectând regiunea lombară cât mai mult posibil, și se prinde de partea anterioară a șezutului pentru a ajuta la menținerea poziției.
+• Pentru a doua expunere, pacientul se apleacă apoi înapoi, extinzând regiunea lombară cât mai mult posibil, și se prinde de partea posterioară a șezutului sau de un alt suport plasat în spatele pacientului.
+• Caseta este centrată la nivelul marginii costale inferioare, iar expunerea se efectuează în apnee la sfârșitul expirului complet.
+    - **Punct de Centrare Fascicul:** • Se direcționează raza centrală orizontală paralel cu linia care unește spinele iliace anterosuperioare și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
 
-• se orientează raza centrală centrală la drept-angles la film radiologic și spre point 7.5 cm anterior la third lumbar spinous process la nivelul lower costal margin.
+• Se orientează raza centrală perpendicular pe filmul radiologic și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -174,24 +182,24 @@ title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Refer la Profil (lateral) lumbar coloană vertebrală (p. 183).
-    - Extreme care trebuie să fie taken if using automatic expunere control. chamber selected trebuie să fie directly în line cu vertebre, otherwise incorrect expunere will result.
-    - If manual expunere este selected, them higher expunere will fie required than cu Decubit dorsal Profil (lateral). This este due la effect de gravity pe intern organs, causing them la lie either side de coloană vertebrală. Fascicul Orizontal Refer la Profil (lateral) lumbar coloană vertebrală (p. 183). toate de aria de interes diagnostic trebuie să fie included pe ambele incidențe.
-    - Erori de evitat / remedii: Extreme care trebuie să fie taken if using automatic expunere control. chamber selected trebuie să fie directly în line cu vertebre, otherwise incorrect expunere will result.
-    - Erori de evitat / remedii: If manual expunere este selected, higher expunere will fie required than cu Decubit dorsal Profil (lateral). This este due la effect de gravity pe intern organs, causing them la lie either side de coloană vertebrală.
-    - Erori de evitat / remedii: short expunere time este desirable, ca it este difficult pentru pacientul la remain stable. 186 Flexion Extension Flexion Extension
+    - Consultați coloana vertebrală lombară de profil (lateral) (p. 183).
+    - Este necesară o atenție deosebită dacă se utilizează controlul automat al expunerii. Camera selectată trebuie să fie direct aliniată cu vertebrele; în caz contrar, va rezulta o expunere incorectă.
+    - Dacă se selectează expunerea manuală, va fi necesară o expunere mai mare decât în cazul incidenței de profil (lateral) în decubit dorsal. Acest lucru se datorează efectului gravitației asupra organelor interne, determinându-le să se dispună de o parte și de alta a coloanei vertebrale. Fascicul orizontal. Consultați coloana vertebrală lombară de profil (lateral) (p. 183). Întreaga arie de interes diagnostic trebuie inclusă pe ambele incidențe.
+    - Erori de evitat / remedii: Este necesară o atenție deosebită dacă se utilizează controlul automat al expunerii. Camera selectată trebuie să fie direct aliniată cu vertebrele; în caz contrar, va rezulta o expunere incorectă.
+    - Erori de evitat / remedii: Dacă se selectează expunerea manuală, va fi necesară o expunere mai mare decât în cazul incidenței de profil (lateral) în decubit dorsal. Acest lucru se datorează efectului gravitației asupra organelor interne, determinându-le să se dispună de o parte și de alta a coloanei vertebrale.
+    - Erori de evitat / remedii: Este de dorit un timp scurt de expunere, deoarece pacientului îi este dificil să rămână stabil. 186 Flexie Extensie Flexie Extensie
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -213,9 +221,9 @@ title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
 
 <figure class="protocol-image-card" markdown>
 
-![pacient cu suspected suspiciune de fractură la Coloană Lombară](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-fascicul-orizontal-p200-clark/fig_1.jpeg)
+![pacient cu suspiciune de fractură a coloanei lombare](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-fascicul-orizontal-p200-clark/fig_1.jpeg)
 
-<figcaption><strong>pacient cu suspected suspiciune de fractură la Coloană Lombară</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>pacient cu suspiciune de fractură a coloanei lombare</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -280,4 +288,4 @@ title: Rx Coloană Lombară Profil (Lateral) Fascicul Orizontal
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 200](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=200)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 200](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

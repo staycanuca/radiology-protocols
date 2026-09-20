@@ -1,45 +1,52 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii pe expiration.
+breathing: Apnee pe durata expunerii, la sfârșitul expirului.
 category: coloana
-centering: perpendicular pe receptorul de imagine. Se centrează receptorul de imagine
+centering: Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine
   pe raza centrală.
 clinical_indications:
-- Assessment de range de mișcare de coloană vertebrală
+- Evaluarea amplitudinii de mișcare a coloanei vertebrale
 images:
-- caption: Fig. 9.58 AP—L bending.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.58 AP—L bending.)
+- caption: Fig. 9.58 AP—înclinare spre stânga.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.58 AP—înclinare
+    spre stânga.)
   url: assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_1.jpeg
-- caption: Fig. 9.56 AP Decubit dorsal—L bending. Inset, PA Ortostatism—L bending.
+- caption: Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare
+    spre stânga.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.56
-    AP în decubit dorsal—L bending. Inset, PA în ortostatism—L bending.)
+    AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare
+    spre stânga.)
   url: assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_2.jpeg
-- caption: Fig. 9.57 AP Decubit dorsal—R bending. Inset, PA Ortostatism—R bending.
+- caption: Fig. 9.57 AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în
+    ortostatism—înclinare spre dreapta.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.57
-    AP în decubit dorsal—R bending. Inset, PA în ortostatism—R bending.)
+    AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în ortostatism—înclinare
+    spre dreapta.)
   url: assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_3.jpeg
-- caption: Fig. 9.59 AP—R bending.
+- caption: Fig. 9.59 AP—înclinare spre dreapta.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.59
-    AP—R bending.)
+    AP—înclinare spre dreapta.)
   url: assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Bazin (bazin (pelvis)) trebuie să remain ca stationary ca possible during
-  positioning. Bazin (bazin (pelvis)) acts ca fulcrum (pivot point) during changes
-  în poziție. PA incidențe sunt recommended when performed Ortostatism la reduce expunere
-  significantly la radiationsensitive organs. Fig. 9.58 AP—L bending. scolioză / vicii
-  de postură ale coloanei SERIES SPECIAL PA—Incidență Scolioză / Joncțiune L5-S1 (Metoda
-  Ferguson) PA—R și L bending'
-position: 'Pacient: Ortostatism sau Decubit poziție pacient Ortostatism (preferred)
-  sau Decubit (în Decubit dorsal poziție), cu brațe la side (see NOTES).; Regiune
-  anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau
-  receptorul de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante
-  față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists, if possible.
-  Place bottom edge de receptorul de imagine 1 la 2 inches (2.5 la 5 cm) below creasta
-  iliacă (corespunzător L4-L5). cu Bazin (bazin (pelvis)) acting ca fulcrum, ask pacient
-  la bend laterally (lateral flexion) ca far ca possible la either side (Figs. 9.56
-  și 9.57). If Decubit, move ambele upper torso și membre inferioare la achieve maximum
-  lateral flexion. Repeat above steps pentru opposite side.'
+notes: 'S: Bazinul trebuie să rămână cât mai staționar posibil în timpul poziționării.
+  Bazinul acționează ca punct de sprijin în timpul modificărilor de poziție. Incidențele
+  PA sunt recomandate când sunt efectuate în ortostatism pentru a reduce semnificativ
+  expunerea organelor radiosensibile. Fig. 9.58 AP—înclinare spre stânga. Incidența
+  pentru scolioză / vicii de postură ale coloanei SPECIALĂ PA—incidența pentru scolioză
+  / joncțiunea L5-S1 (metoda Ferguson) PA—înclinare spre dreapta și stânga'
+position: 'Pacient: Pacient în ortostatism sau decubit, ortostatism (preferat) sau
+  decubit (în decubit dorsal), cu brațele pe lângă corp (vezi NOTE).; Regiune anatomică:
+  Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau
+  a receptorului de imagine. Se verifică absența rotației: claviculele sunt riguros
+  echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului,
+  dacă acesta este prezent, pe cât posibil. Se plasează marginea inferioară a receptorului
+  de imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
+  Cu bazinul acționând ca punct de sprijin, se cere pacientului să se încline lateral
+  (flexie laterală) cât mai mult posibil spre fiecare parte (Fig. 9.56 și 9.57). Dacă
+  pacientul este în decubit, se deplasează simultan partea superioară a trunchiului
+  și membrele inferioare pentru a obține flexia laterală maximă. Se repetă pașii de
+  mai sus pentru partea opusă.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,18 +54,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Thoracic și coloană lombară including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă
-  (corespunzător L4-L5)s (Figs. 9.58 și 9.59). poziție
-- Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open
-  intervertebral foramina și open intervertebral spații articulare.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.'
-- Collimation field size la aria de interes diagnostic. expunere
-- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
-  și trabecular markings de thoracic și coloană lombară.
-- fără mișcare. Fig. 9.56 AP Decubit dorsal—L bending. Inset, PA Ortostatism—L bending.
-  Fig. 9.57 AP Decubit dorsal—R bending. Inset, PA Ortostatism—R bending. R Fig. 9.59
-  AP—R bending.
+- Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă
+  (corespunzător L4-L5) (Fig. 9.58 și 9.59). poziție
+- Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum
+  indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
+- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
+  indicată prin suprapunerea incizurilor sciatice mari și a corpilor vertebrali posteriori.'
+- Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+- Expunere și contrast optime la receptorul de imagine. Demonstrarea clară a marginilor
+  osoase și a desenului trabecular al coloanei toracale și lombare.
+- Fără mișcare. Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA
+  în ortostatism—înclinare spre stânga. Fig. 9.57 AP în decubit dorsal—înclinare spre
+  dreapta. Inserție, PA în ortostatism—înclinare spre dreapta. R Fig. 9.59 AP—înclinare
+  spre dreapta.
 sid_dff: 150 cm
 slug: rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager
 sources:
@@ -66,17 +74,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe two sides la anatomy de interest (four sides
-    este possible)
+  collimation: 'Dimensiunea câmpului: se colimează pe două laturi până la anatomia
+    de interes (sunt posibile patru laturi)'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Conform grosimii anatomice (> 10 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postură ale
-  coloanei SERIES)
+title: Rx INCIDENȚĂ PA PENTRU ÎNCLINARE SPRE DREAPTA ȘI STÂNGA (AP) (SERIE PENTRU
+  SCOLIOZĂ / VICII DE POSTURĂ ALE COLOANEI)
 ---
-# Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postură ale coloanei SERIES)
+# Rx INCIDENȚĂ PA PENTRU ÎNCLINARE SPRE DREAPTA ȘI STÂNGA (AP) (SERIE PENTRU SCOLIOZĂ / VICII DE POSTURĂ ALE COLOANEI)
 
 
 <div class="rx-meta-bar">
@@ -95,7 +103,7 @@ title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postu
 
     === "Indicații Clinice"
 
-        - Assessment de range de mișcare de coloană vertebrală
+        - Evaluarea amplitudinii de mișcare a coloanei vertebrale
 
     === "Ghid Național IRIS"
 
@@ -109,10 +117,10 @@ title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postu
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism sau Decubit poziție pacient Ortostatism (preferred) sau Decubit (în Decubit dorsal poziție), cu brațe la side (see NOTES).; Regiune anatomică: Align plan mediosagital la raza centrală și linia mediană mesei și/sau receptorul de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists, if possible. Place bottom edge de receptorul de imagine 1 la 2 inches (2.5 la 5 cm) below creasta iliacă (corespunzător L4-L5). cu Bazin (bazin (pelvis)) acting ca fulcrum, ask pacient la bend laterally (lateral flexion) ca far ca possible la either side (Figs. 9.56 și 9.57). If Decubit, move ambele upper torso și membre inferioare la achieve maximum lateral flexion. Repeat above steps pentru opposite side.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: Pacient în ortostatism sau decubit, ortostatism (preferat) sau decubit (în decubit dorsal), cu brațele pe lângă corp (vezi NOTE).; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului, dacă acesta este prezent, pe cât posibil. Se plasează marginea inferioară a receptorului de imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Cu bazinul acționând ca punct de sprijin, se cere pacientului să se încline lateral (flexie laterală) cât mai mult posibil spre fiecare parte (Fig. 9.56 și 9.57). Dacă pacientul este în decubit, se deplasează simultan partea superioară a trunchiului și membrele inferioare pentru a obține flexia laterală maximă. Se repetă pașii de mai sus pentru partea opusă.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -126,19 +134,19 @@ title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postu
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe two sides la anatomy de interest (four sides este possible) |
+    | **Colimare Fascicul** | Dimensiunea câmpului: se colimează pe două laturi până la anatomia de interes (sunt posibile patru laturi) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Thoracic și coloană lombară including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă (corespunzător L4-L5)s (Figs. 9.58 și 9.59). poziție
-    - Spinal column aliniat paralel cu receptorul de imagine (RI), ca indicated prin open intervertebral foramina și open intervertebral spații articulare.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.
-    - Collimation field size la aria de interes diagnostic. expunere
-    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de thoracic și coloană lombară.
-    - fără mișcare. Fig. 9.56 AP Decubit dorsal—L bending. Inset, PA Ortostatism—L bending. Fig. 9.57 AP Decubit dorsal—R bending. Inset, PA Ortostatism—R bending. R Fig. 9.59 AP—R bending.
+    - Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5) (Fig. 9.58 și 9.59). poziție
+    - Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, indicată prin suprapunerea incizurilor sciatice mari și a corpilor vertebrali posteriori.
+    - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+    - Expunere și contrast optime la receptorul de imagine. Demonstrarea clară a marginilor osoase și a desenului trabecular al coloanei toracale și lombare.
+    - Fără mișcare. Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare spre stânga. Fig. 9.57 AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în ortostatism—înclinare spre dreapta. R Fig. 9.59 AP—înclinare spre dreapta.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +159,7 @@ title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postu
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Bazin (bazin (pelvis)) trebuie să remain ca stationary ca possible during positioning. Bazin (bazin (pelvis)) acts ca fulcrum (pivot point) during changes în poziție. PA incidențe sunt recommended when performed Ortostatism la reduce expunere significantly la radiationsensitive organs. Fig. 9.58 AP—L bending. scolioză / vicii de postură ale coloanei SERIES SPECIAL PA—Incidență Scolioză / Joncțiune L5-S1 (Metoda Ferguson) PA—R și L bending
+    S: Bazinul trebuie să rămână cât mai staționar posibil în timpul poziționării. Bazinul acționează ca punct de sprijin în timpul modificărilor de poziție. Incidențele PA sunt recomandate când sunt efectuate în ortostatism pentru a reduce semnificativ expunerea organelor radiosensibile. Fig. 9.58 AP—înclinare spre stânga. Incidența pentru scolioză / vicii de postură ale coloanei SPECIALĂ PA—incidența pentru scolioză / joncțiunea L5-S1 (metoda Ferguson) PA—înclinare spre dreapta și stânga
 
 
 ### 🖼️ Imagini
@@ -160,33 +168,33 @@ title: Rx RIGHT AND LEFT BENDING PA (AP) Incidență (scolioză / vicii de postu
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.58 AP—L bending.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_1.jpeg)
+![Fig. 9.58 AP—înclinare spre stânga.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.58 AP—L bending.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.58 AP—L bending.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 9.56 AP Decubit dorsal—L bending. Inset, PA Ortostatism—L bending.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 9.56 AP Decubit dorsal—L bending. Inset, PA Ortostatism—L bending.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.56 AP în decubit dorsal—L bending. Inset, PA în ortostatism—L bending.)</span></figcaption>
+<figcaption><strong>Fig. 9.58 AP—înclinare spre stânga.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.58 AP—înclinare spre stânga.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.57 AP Decubit dorsal—R bending. Inset, PA Ortostatism—R bending.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_3.jpeg)
+![Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare spre stânga.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 9.57 AP Decubit dorsal—R bending. Inset, PA Ortostatism—R bending.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.57 AP în decubit dorsal—R bending. Inset, PA în ortostatism—R bending.)</span></figcaption>
+<figcaption><strong>Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare spre stânga.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.56 AP în decubit dorsal—înclinare spre stânga. Inserție, PA în ortostatism—înclinare spre stânga.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.59 AP—R bending.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_4.jpeg)
+![Fig. 9.57 AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în ortostatism—înclinare spre dreapta.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 9.59 AP—R bending.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.59 AP—R bending.)</span></figcaption>
+<figcaption><strong>Fig. 9.57 AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în ortostatism—înclinare spre dreapta.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.57 AP în decubit dorsal—înclinare spre dreapta. Inserție, PA în ortostatism—înclinare spre dreapta.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 9.59 AP—înclinare spre dreapta.](../../assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 9.59 AP—înclinare spre dreapta.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.59 AP—înclinare spre dreapta.)</span></figcaption>
 
 </figure>
 

@@ -2,32 +2,32 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: orientat perpendicular la L3 sau through L4–L5 sau L5–S1 intervertebral
-  disk spaces, if these sunt areas de interest
+centering: orientat perpendicular pe L3 sau prin spațiile discale intervertebrale
+  L4–L5 sau L5–S1, dacă acestea sunt regiunile de interes
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 760, imaginea 1
+- caption: Merrill — pagina 760, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-intervertebral-joints-incidenta-postero-anterioara-pa-in-incarcare-ortostatism-method-right-and-left-bending-p759-merrill/p760_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Perform this examination cu pacientul în ortostatism poziție. Duncan și
-  Hoen 26 recommended that Incidență Postero-Anterioară (PA) fie used because, în
-  this direction, divergent rays sunt more nearly paralel cu intervertebral disk spaces.;
-  cu pacientul facing stativ vertical Bucky, se ajustează height de receptorul de
-  imagine la fie centrat la nivelul level de L3. se ajustează pacient’s Bazin (bazin
-  (pelvis)) pentru rotație prin ensuring that spină iliacă antero-superioară (SIAS)
-  sunt echidistant față de receptorul de imagine. se centrează MSP de pacientul’s
-  corp la linia mediană stativ vertical Bucky (Fig. 9.129). Let pacientul’s brațe
-  hang unsupported prin sides. Make one radiografie cu pacientul bending la drept
-  și one cu pacientul bending la stâng (Fig. 9.130). Se instruiește pacientul să lean
-  directly lateral ca far ca possible fără rotație și fără elevation de Picior. grade
-  de bending trebuie să nu fie forced, și pacientul trebuie să nu fie sprijinit în
-  poziție. Ensure that MSP de lower Coloană Lombară și Sacru remains centrat pe grila
-  device ca upper portion moves laterally. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: Efectuați această examinare cu pacientul în ortostatism. Duncan și Hoen
+  26 au recomandat utilizarea incidenței postero-anterioare (PA) deoarece, în această
+  direcție, razele divergente sunt mai aproape paralele cu spațiile discale intervertebrale.;
+  cu pacientul orientat către stativul vertical Bucky, ajustați înălțimea receptorului
+  de imagine astfel încât să fie centrat la nivelul L3. Ajustați bazinul pacientului
+  pentru rotație, asigurându-vă că spinele iliace antero-superioare (SIAS) sunt echidistante
+  față de receptorul de imagine. Centrați MSP al corpului pacientului pe linia mediană
+  a stativului vertical Bucky (Fig. 9.129). Lăsați brațele pacientului să atârne liber
+  pe lângă corp. Efectuați o radiografie cu pacientul înclinat la dreapta și una cu
+  pacientul înclinat la stânga (Fig. 9.130). Instruiți pacientul să se încline direct
+  lateral cât mai mult posibil, fără rotație și fără ridicarea piciorului. Gradul
+  de înclinare nu trebuie forțat, iar pacientul nu trebuie sprijinit în această poziție.
+  Asigurați-vă că MSP al porțiunii inferioare a coloanei lombare și al sacrului rămâne
+  centrat pe dispozitivul cu grilă în timp ce porțiunea superioară se deplasează lateral.
+  Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -38,51 +38,49 @@ source_pages:
 - 759
 - 760
 source_sections:
-  cr: • orientat perpendicular la L3 sau through L4–L5 sau L5–S1 intervertebral disk
-    spaces, if these sunt areas de interest
-  part_pos: '• cu pacientul facing stativ vertical Bucky, se ajustează height de receptorul
-    de imagine la fie centrat la nivelul level de L3.
+  cr: • orientat perpendicular pe L3 sau prin spațiile discale intervertebrale L4–L5
+    sau L5–S1, dacă acestea sunt regiunile de interes
+  part_pos: '• Cu pacientul cu fața spre stativul vertical Bucky, se ajustează înălțimea
+    receptorului de imagine pentru a fi centrat la nivelul L3.
 
-    • se ajustează pacient’s bazin (pelvis) pentru rotație prin ensuring that spină
-    iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine.
+    • Se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace
+    antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
 
-    • se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky
-    (Fig. 9.129).
+    • Se centrează MSP al corpului pacientului pe linia mediană a stativului vertical
+    Bucky (Fig. 9.129).
 
-    • Let pacientul’s brațe hang unsupported prin sides.
+    • Se lasă brațele pacientului să atârne nesusținute pe lângă corp.
 
-    • Make one radiografie cu pacientul bending la drept și one cu pacientul bending
-    la stâng (Fig. 9.130).
+    • Se efectuează o radiografie cu pacientul în flexie spre dreapta și una cu pacientul
+    în flexie spre stânga (Fig. 9.130).
 
-    • Se instruiește pacientul să lean directly lateral ca far ca possible fără rotație
-    și fără elevation de picior. grade de bending trebuie să
+    • Se instruiește pacientul să se încline direct lateral cât mai mult posibil,
+    fără rotație și fără ridicarea piciorului. Gradul de flexie nu trebuie forțat,
+    iar pacientul nu trebuie sprijinit în această poziție.
 
-    nu fie forced, și pacientul trebuie să nu fie sprijinit în poziție.
+    • Se asigură că MSP al coloanei lombare inferioare și al sacrului rămâne centrat
+    pe grila dispozitivului pe măsură ce partea superioară se deplasează lateral.
 
-    • Ensure that MSP de lower lumbar coloană vertebrală și sacrum remains centrat
-    pe grila device ca upper portion moves laterally.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Perform this examination cu pacientul în ortostatism poziție. Duncan
-    și Hoen 26 recommended that PA incidență fie used
-
-    because, în this direction, divergent rays sunt more nearly paralel cu intervertebral
-    disk spaces.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se efectuează această examinare cu pacientul în ortostatism. Duncan
+    și Hoen 26 au recomandat utilizarea incidenței PA deoarece, în această direcție,
+    razele divergente sunt mai aproape de paralelism cu spațiile discale intervertebrale.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 759–760
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=759
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 759–760
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Lumbar Intervertebral Joints — Incidență Postero-Anterioară (PA) — În Încărcare
-  (Ortostatism) Method Right and left bending (Merrill)
+title: Rx articulațiile intervertebrale lombare — Incidență postero-anterioară (PA)
+  — În încărcare (ortostatism) — Metoda flexiei spre dreapta și spre stânga (Merrill)
 ---
-# Rx Lumbar Intervertebral Joints — Incidență Postero-Anterioară (PA) — În Încărcare (Ortostatism) Method Right and left bending (Merrill)
+# Rx articulațiile intervertebrale lombare — Incidență postero-anterioară (PA) — În încărcare (ortostatism) — Metoda flexiei spre dreapta și spre stânga (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -115,8 +113,8 @@ title: Rx Lumbar Intervertebral Joints — Incidență Postero-Anterioară (PA) 
 
     ---
 
-    - **Poziție Pacient:** Perform this examination cu pacientul în ortostatism poziție. Duncan și Hoen 26 recommended that Incidență Postero-Anterioară (PA) fie used because, în this direction, divergent rays sunt more nearly paralel cu intervertebral disk spaces.; cu pacientul facing stativ vertical Bucky, se ajustează height de receptorul de imagine la fie centrat la nivelul level de L3. se ajustează pacient’s Bazin (bazin (pelvis)) pentru rotație prin ensuring that spină iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine. se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky (Fig. 9.129). Let pacientul’s brațe hang unsupported prin sides. Make one radiografie cu pacientul bending la drept și one cu pacientul bending la stâng (Fig. 9.130). Se instruiește pacientul să lean directly lateral ca far ca possible fără rotație și fără elevation de Picior. grade de bending trebuie să nu fie forced, și pacientul trebuie să nu fie sprijinit în poziție. Ensure that MSP de lower Coloană Lombară și Sacru remains centrat pe grila device ca upper portion moves laterally. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat perpendicular la L3 sau through L4–L5 sau L5–S1 intervertebral disk spaces, if these sunt areas de interest
+    - **Poziție Pacient:** Efectuați această examinare cu pacientul în ortostatism. Duncan și Hoen 26 au recomandat utilizarea incidenței postero-anterioare (PA) deoarece, în această direcție, razele divergente sunt mai aproape paralele cu spațiile discale intervertebrale.; cu pacientul orientat către stativul vertical Bucky, ajustați înălțimea receptorului de imagine astfel încât să fie centrat la nivelul L3. Ajustați bazinul pacientului pentru rotație, asigurându-vă că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine. Centrați MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.129). Lăsați brațele pacientului să atârne liber pe lângă corp. Efectuați o radiografie cu pacientul înclinat la dreapta și una cu pacientul înclinat la stânga (Fig. 9.130). Instruiți pacientul să se încline direct lateral cât mai mult posibil, fără rotație și fără ridicarea piciorului. Gradul de înclinare nu trebuie forțat, iar pacientul nu trebuie sprijinit în această poziție. Asigurați-vă că MSP al porțiunii inferioare a coloanei lombare și al sacrului rămâne centrat pe dispozitivul cu grilă în timp ce porțiunea superioară se deplasează lateral. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orientat perpendicular pe L3 sau prin spațiile discale intervertebrale L4–L5 sau L5–S1, dacă acestea sunt regiunile de interes
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -159,9 +157,9 @@ title: Rx Lumbar Intervertebral Joints — Incidență Postero-Anterioară (PA) 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 760, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-intervertebral-joints-incidenta-postero-anterioara-pa-in-incarcare-ortostatism-method-right-and-left-bending-p759-merrill/p760_fig1.png)
+![Merrill — pagina 760, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-intervertebral-joints-incidenta-postero-anterioara-pa-in-incarcare-ortostatism-method-right-and-left-bending-p759-merrill/p760_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 760, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 760, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -178,37 +176,35 @@ title: Rx Lumbar Intervertebral Joints — Incidență Postero-Anterioară (PA) 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 759–760](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=759)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 759–760](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### cr
+### raza centrală
 
-• orientat perpendicular la L3 sau through L4–L5 sau L5–S1 intervertebral disk spaces, if these sunt areas de interest
+• orientat perpendicular pe L3 sau prin spațiile discale intervertebrale L4–L5 sau L5–S1, dacă acestea sunt regiunile de interes
 
 ### part_pos
 
-• cu pacientul facing stativ vertical Bucky, se ajustează height de receptorul de imagine la fie centrat la nivelul level de L3.
-• se ajustează pacient’s bazin (pelvis) pentru rotație prin ensuring that spină iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine.
-• se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky (Fig. 9.129).
-• Let pacientul’s brațe hang unsupported prin sides.
-• Make one radiografie cu pacientul bending la drept și one cu pacientul bending la stâng (Fig. 9.130).
-• Se instruiește pacientul să lean directly lateral ca far ca possible fără rotație și fără elevation de picior. grade de bending trebuie să
-nu fie forced, și pacientul trebuie să nu fie sprijinit în poziție.
-• Ensure that MSP de lower lumbar coloană vertebrală și sacrum remains centrat pe grila device ca upper portion moves laterally.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Cu pacientul cu fața spre stativul vertical Bucky, se ajustează înălțimea receptorului de imagine pentru a fi centrat la nivelul L3.
+• Se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
+• Se centrează MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.129).
+• Se lasă brațele pacientului să atârne nesusținute pe lângă corp.
+• Se efectuează o radiografie cu pacientul în flexie spre dreapta și una cu pacientul în flexie spre stânga (Fig. 9.130).
+• Se instruiește pacientul să se încline direct lateral cât mai mult posibil, fără rotație și fără ridicarea piciorului. Gradul de flexie nu trebuie forțat, iar pacientul nu trebuie sprijinit în această poziție.
+• Se asigură că MSP al coloanei lombare inferioare și al sacrului rămâne centrat pe grila dispozitivului pe măsură ce partea superioară se deplasează lateral.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Perform this examination cu pacientul în ortostatism poziție. Duncan și Hoen 26 recommended that PA incidență fie used
-because, în this direction, divergent rays sunt more nearly paralel cu intervertebral disk spaces.
+• Se efectuează această examinare cu pacientul în ortostatism. Duncan și Hoen 26 au recomandat utilizarea incidenței PA deoarece, în această direcție, razele divergente sunt mai aproape de paralelism cu spațiile discale intervertebrale.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

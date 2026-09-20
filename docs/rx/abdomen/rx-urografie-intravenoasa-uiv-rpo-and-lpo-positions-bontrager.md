@@ -1,17 +1,18 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii after expiration și expose.
+breathing: Apnee pe durata expunerii, după expir, și efectuați expunerea.
 category: abdomen
-centering: este perpendicular pe receptorul de imagine. Center raza centrală și receptorul
-  de imagine la level de creasta iliacă (corespunzător L4-L5) și coloană vertebrală.
+centering: este perpendicular pe receptorul de imagine. Centrați raza centrală și
+  receptorul de imagine la nivelul crestei iliace (corespunzător L4-L5) și al coloanei
+  vertebrale.
 clinical_indications:
-- semne de infecție respiratorie (pneumonie, bronhopneumonie), traumatism acuttism
-  / Regim Urgență, și obstruction de ridicat rinichi sunt manifested.
-- traumatism acuttism / Regim Urgență sau obstruction de downside ureter.
+- Sunt evidențiate semne de infecție respiratorie (pneumonie, bronhopneumonie), traumatism
+  acut / regim de urgență și obstrucția rinichiului de pe partea ridicată.
+- Traumatism acut / regim de urgență sau obstrucția ureterului de pe partea declivă.
 images:
-- caption: Fig. 14.76 RPO, 30°. Inset, 30° LPO.
+- caption: Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.76 RPO, 30°.
-    Inset, 30° LPO.)
+    Imagine inserată, 30° LPO.)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager/fig_1.jpeg
 - caption: Fig. 14.77 RPO IVU.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.77
@@ -27,15 +28,16 @@ images:
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Some department routines include smaller receptorul de imagine plasat landscape
-  pentru include rinichi și proximal ureters. Centering then would fie midway între
-  apendice xifoid și creasta iliacă (corespunzător L4-L5)s. Fig. 14.76 RPO, 30°. Inset,
-  30° LPO.
-position: 'Pacient: pacientul este Decubit dorsal și este partially rotit spre drept
-  sau stâng side.; Regiune anatomică: Rotate corp 30° pentru ambele R și L posterior
-  oblic poziții (Fig. 14.76). Flex elevatedside Genunchi pentru support de lower corp.
-  Raise braț pe ridicat side și place across upper Torace. Center coloană vertebrală
-  la linia mediană mesei sau physical grilă și la raza centrală.'
+notes: Unele protocoale ale departamentului includ un receptor de imagine mai mic,
+  plasat transversal pentru a include rinichii și porțiunile proximale ale ureterelor.
+  Centrarea se face atunci la jumătatea distanței dintre apendicele xifoid și crestele
+  iliace (corespunzător L4-L5). Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.
+position: 'Pacient: pacientul este în decubit dorsal și este rotit parțial spre partea
+  dreaptă sau stângă.; Regiune anatomică: Rotiți corpul la 30° pentru ambele poziții
+  oblice posterioare R și L (Fig. 14.76). Flectați genunchiul de pe partea ridicată
+  pentru a susține partea inferioară a corpului. Ridicați brațul de pe partea ridicată
+  și așezați-l peste partea superioară a toracelui. Centrați coloana vertebrală pe
+  linia mediană a mesei sau a grilei fizice și pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,15 +45,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- rinichi pe ridicat side este plasat în profile sau paralel cu receptorul de imagine
-  (RI) și este best evidențiat cu fiecare oblic.
-- 'downside ureter este projected away de la coloană vertebrală, providing unobstructed
-  incidență de this ureter (Figs. 14.77 și 14.78). poziție:'
-- fără excessive obliquity este evident.
-- ridicat rinichi este paralel cu plane de receptorul de imagine și este nu projected
-  into vertebral corpuri de Coloană Lombară.
-- Complete arch de simfiza pubiană este vizibil pe bottom margin de radiografie și
-  rinichi sunt included la upper margin.
+- Rinichiul de pe partea ridicată este poziționat în profil sau paralel cu receptorul
+  de imagine (RI) și este cel mai bine evidențiat în fiecare incidență oblică.
+- 'Ureterul de pe partea declivă se proiectează la distanță de coloana vertebrală,
+  permițând vizualizarea acestuia fără suprapuneri (Fig. 14.77 și 14.78). Poziție:'
+- Nu se evidențiază o oblicitate excesivă.
+- Rinichiul de pe partea ridicată este paralel cu planul receptorului de imagine și
+  nu se proiectează peste corpurile vertebrale ale coloanei lombare.
+- Întregul arc al simfizei pubiene este vizibil la marginea inferioară a radiografiei,
+  iar rinichii sunt incluși la marginea superioară.
 - corect
 sid_dff: 100 cm
 slug: rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager
@@ -59,23 +61,24 @@ sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 582
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 'applied. expunere: fără mișcare due la respirație sau movement este
-    evident. optim receptorul de imagine expunere și contrast la visualize urinary
-    system. markeri: Minute markeri și R sau L markeri trebuie să fie vizibil. drept
-    ureter (best evidențiat) drept rinichi stâng rinichi (ridicat side) stâng ureter
-    Fig. 14.77 RPO IVU. drept ureter drept rinichi (ridicat side) stâng rinichi stâng
-    ureter (best evidențiat) Fig. 14.78 LPO IVU. Urografie Intravenoasă (UIV)—IVU
-    BASIC AP (scout și series) Nephrogram RPO și LPO (30°) AP—Post-Micțional Ortostatism
-    sau Decubit'
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 'aplicat. Expunere: nu se evidențiază mișcare cauzată de respirație
+    sau de deplasare. Expunere optimă a receptorului de imagine și contrast optim
+    pentru vizualizarea sistemului urinar. Markeri: markerii de minute și markerii
+    R sau L trebuie să fie vizibili. Ureter drept (cel mai bine evidențiat) Rinichi
+    drept Rinichi stâng (partea ridicată) Ureter stâng Fig. 14.77 RPO IVU. Ureter
+    drept Rinichi drept (partea ridicată) Rinichi stâng Ureter stâng (cel mai bine
+    evidențiat) Fig. 14.78 LPO IVU. Urografie Intravenoasă (UIV)—IVU DE BAZĂ AP (radiografie
+    preliminară și serie) Nefrogramă RPO și LPO (30°) AP—Postmicțional în ortostatism
+    sau decubit'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (OPS / LPO)S
+title: Rx Urografie Intravenoasă (UIV) RPO ȘI Oblică Posterioară Stângă (OPS / LPO)S
 ---
-# Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (OPS / LPO)S
+# Rx Urografie Intravenoasă (UIV) RPO ȘI Oblică Posterioară Stângă (OPS / LPO)S
 
 
 <div class="rx-meta-bar">
@@ -94,8 +97,8 @@ title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (O
 
     === "Indicații Clinice"
 
-        - semne de infecție respiratorie (pneumonie, bronhopneumonie), traumatism acuttism / Regim Urgență, și obstruction de ridicat rinichi sunt manifested.
-        - traumatism acuttism / Regim Urgență sau obstruction de downside ureter.
+        - Sunt evidențiate semne de infecție respiratorie (pneumonie, bronhopneumonie), traumatism acut / regim de urgență și obstrucția rinichiului de pe partea ridicată.
+        - Traumatism acut / regim de urgență sau obstrucția ureterului de pe partea declivă.
 
     === "Ghid Național IRIS"
 
@@ -109,10 +112,10 @@ title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (O
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacientul este Decubit dorsal și este partially rotit spre drept sau stâng side.; Regiune anatomică: Rotate corp 30° pentru ambele R și L posterior oblic poziții (Fig. 14.76). Flex elevatedside Genunchi pentru support de lower corp. Raise braț pe ridicat side și place across upper Torace. Center coloană vertebrală la linia mediană mesei sau physical grilă și la raza centrală.
-    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center raza centrală și receptorul de imagine la level de creasta iliacă (corespunzător L4-L5) și coloană vertebrală.
+    - **Poziție Pacient:** Pacient: pacientul este în decubit dorsal și este rotit parțial spre partea dreaptă sau stângă.; Regiune anatomică: Rotiți corpul la 30° pentru ambele poziții oblice posterioare R și L (Fig. 14.76). Flectați genunchiul de pe partea ridicată pentru a susține partea inferioară a corpului. Ridicați brațul de pe partea ridicată și așezați-l peste partea superioară a toracelui. Centrați coloana vertebrală pe linia mediană a mesei sau a grilei fizice și pe raza centrală.
+    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Centrați raza centrală și receptorul de imagine la nivelul crestei iliace (corespunzător L4-L5) și al coloanei vertebrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii after expiration și expose.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii, după expir, și efectuați expunerea.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -125,19 +128,19 @@ title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (O
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | applied. expunere: fără mișcare due la respirație sau movement este evident. optim receptorul de imagine expunere și contrast la visualize urinary system. markeri: Minute markeri și R sau L markeri trebuie să fie vizibil. drept ureter (best evidențiat) drept rinichi stâng rinichi (ridicat side) stâng ureter Fig. 14.77 RPO IVU. drept ureter drept rinichi (ridicat side) stâng rinichi stâng ureter (best evidențiat) Fig. 14.78 LPO IVU. Urografie Intravenoasă (UIV)—IVU BASIC AP (scout și series) Nephrogram RPO și LPO (30°) AP—Post-Micțional Ortostatism sau Decubit |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | aplicat. Expunere: nu se evidențiază mișcare cauzată de respirație sau de deplasare. Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea sistemului urinar. Markeri: markerii de minute și markerii R sau L trebuie să fie vizibili. Ureter drept (cel mai bine evidențiat) Rinichi drept Rinichi stâng (partea ridicată) Ureter stâng Fig. 14.77 RPO IVU. Ureter drept Rinichi drept (partea ridicată) Rinichi stâng Ureter stâng (cel mai bine evidențiat) Fig. 14.78 LPO IVU. Urografie Intravenoasă (UIV)—IVU DE BAZĂ AP (radiografie preliminară și serie) Nefrogramă RPO și LPO (30°) AP—Postmicțional în ortostatism sau decubit |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - rinichi pe ridicat side este plasat în profile sau paralel cu receptorul de imagine (RI) și este best evidențiat cu fiecare oblic.
-    - downside ureter este projected away de la coloană vertebrală, providing unobstructed incidență de this ureter (Figs. 14.77 și 14.78). poziție:
-    - fără excessive obliquity este evident.
-    - ridicat rinichi este paralel cu plane de receptorul de imagine și este nu projected into vertebral corpuri de Coloană Lombară.
-    - Complete arch de simfiza pubiană este vizibil pe bottom margin de radiografie și rinichi sunt included la upper margin.
+    - Rinichiul de pe partea ridicată este poziționat în profil sau paralel cu receptorul de imagine (RI) și este cel mai bine evidențiat în fiecare incidență oblică.
+    - Ureterul de pe partea declivă se proiectează la distanță de coloana vertebrală, permițând vizualizarea acestuia fără suprapuneri (Fig. 14.77 și 14.78). Poziție:
+    - Nu se evidențiază o oblicitate excesivă.
+    - Rinichiul de pe partea ridicată este paralel cu planul receptorului de imagine și nu se proiectează peste corpurile vertebrale ale coloanei lombare.
+    - Întregul arc al simfizei pubiene este vizibil la marginea inferioară a radiografiei, iar rinichii sunt incluși la marginea superioară.
     - corect
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -151,7 +154,7 @@ title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (O
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Some department routines include smaller receptorul de imagine plasat landscape pentru include rinichi și proximal ureters. Centering then would fie midway între apendice xifoid și creasta iliacă (corespunzător L4-L5)s. Fig. 14.76 RPO, 30°. Inset, 30° LPO.
+    Unele protocoale ale departamentului includ un receptor de imagine mai mic, plasat transversal pentru a include rinichii și porțiunile proximale ale ureterelor. Centrarea se face atunci la jumătatea distanței dintre apendicele xifoid și crestele iliace (corespunzător L4-L5). Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.
 
 
 ### 🖼️ Imagini
@@ -160,9 +163,9 @@ title: Rx Urografie Intravenoasă (UIV) RPO AND Oblică Posterioară Stângă (O
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.76 RPO, 30°. Inset, 30° LPO.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager/fig_1.jpeg)
+![Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 14.76 RPO, 30°. Inset, 30° LPO.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.76 RPO, 30°. Inset, 30° LPO.)</span></figcaption>
+<figcaption><strong>Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.)</span></figcaption>
 
 </figure>
 

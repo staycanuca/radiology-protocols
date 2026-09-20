@@ -3,26 +3,29 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• Centre raza centrală orizontală centrală la point 2.5 cm inferior la
-  outer canthus de eye.
+centering: '• Se centrează raza centrală orizontală la 2,5 cm inferior față de cantusul
+  extern al ochiului.
 
 
-  • raza centrală trebuie să fie perpendicular pe casetă și axa longitudinală de zygomatic
-  arch.
+  • Raza centrală trebuie să fie perpendiculară pe casetă și pe axa longitudinală
+  a arcului zigomatic.
 
-  • centring point trebuie să fie located astfel încât raza centrală passes through
-  space între midpoint de zygomatic arch și Profil (lateral) margine de Masiv Facial
-  (Oase ale Feței).
+  • Punctul de centrare trebuie să fie localizat astfel încât raza centrală să treacă
+  prin spațiul dintre punctul de mijloc al arcului zigomatic și marginea laterală
+  a masivului facial (oaselor feței).
 
-  • colimare strictă poate fie applied la reduce scatter și la avoid irradiating eyes.'
+  • Se poate aplica o colimare strictă pentru a reduce radiația difuzată și pentru
+  a evita iradierea ochilor.'
 clinical_indications:
-- coborât suspiciune de fractură de zygoma poate fie missed clinically due la edem
-  / tumefiere de părți moi, making bony defect less obvious. radiografie has important
-  role în ensuring that potentially disfiguring depression de cheekbones este nu missed.
+- O suspiciune redusă de fractură a zigomului poate fi omisă clinic din cauza edemului/tumefierii
+  părților moi, ceea ce face defectul osos mai puțin evident. Radiografia are un rol
+  important în asigurarea faptului că o eventuală depresiune deformantă a pomeților
+  nu este omisă.
 images:
-- caption: Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin
-    radiopac
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență de profil a masivului facial (oaselor feței), evidențiind un
+    corp străin radiopac
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -32,56 +35,73 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_3.jpeg
-- caption: coborât suspiciune de fractură de zygoma poate fie missed clinically due
+- caption: O suspiciune redusă de fractură a zigomului poate fi omisă clinic din cauza
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_4.jpeg
-- caption: radiografie has important role în ensuring that potentially
+- caption: Radiografia are un rol important în asigurarea faptului că o eventuală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_5.jpeg
-- caption: • It este important pentru radiographer la have good understand-
+- caption: • Este important ca tehnicianul radiolog să aibă o bună înțelegere—
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• This incidență este often reserved pentru gross trauma, ca facial structures
-  sunt superimposed.
+notes: '• Această incidență este adesea rezervată traumatismelor severe, deoarece
+  structurile faciale sunt suprapuse.
 
-  • If Profil (lateral) este undertaken pentru suspected corp străin radiopac în eye,
-  then additional collimation și alteration în centring point will fie required.
+  • Dacă incidența de profil este efectuată pentru un corp străin radiopac în ochi,
+  vor fi necesare colimarea suplimentară și modificarea punctului de centrare.
 
-  Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiopac
+  Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin
+  radiopac
 
 
-  • ambele părți (bilateral) poate fie examined pe one casetă using two expuneri.
+  • Ambele părți pot fi examinate pe o singură casetă, utilizând două expuneri.
 
-  • It este important pentru radiographer la have good understanding de anatomy la
-  correctly locate poziție de zygomatic arch și thus allow pentru precis positioning
-  și collimation.
+  • Este important ca tehnicianul radiolog să aibă o bună înțelegere a anatomiei pentru
+  a localiza corect poziția arcului zigomatic și a permite astfel o poziționare și
+  o colimare precise.
 
-  • în some individuals, variations în anatomy poate nu allow arch la fie projected
-  clear de Craniu.
+  • La unele persoane, variațiile anatomice pot să nu permită proiectarea clară a
+  arcului față de craniu.
 
-  268 Zygomatic arch evidențiind double suspiciune de fractură'
-position: "Ortostatism\n• pacientul stă așezat facing stativ vertical Bucky sau casetă\
-  \ holder de Craniu unit. capul este rotit, astfel încât side under examination este\
-  \ în contact cu Bucky sau casetă holder.\n• braț pe same side este extins comfortably\
-  \ prin trunk, whilst other braț poate fie used la grip Bucky pentru stability. Bucky\
-  \ height este altered, such that its centre este 2.5 cm inferior la outer canthus\
-  \ de eye.\nDecubit dorsal\n• pacientul este culcat pe trolley, cu brațele extins\
-  \ prin sides și planul mediosagital vertical la trolley top.\n• gridded casetă este\
-  \ sprijinit vertically pe / sprijinit de side under examination, astfel încât centre\
-  \ de caseta este 2.5 cm inferior la outer canthus de eye.\n\n• pacientul este culcat\
-  \ Decubit dorsal, cu one sau two pillows under umerii la allow gâtul la fie extins\
-  \ fully.\n• An 18 \x02 24-cm casetă este plasat pe / sprijinit de vertex de Craniu,\
-  \ such that its axa longitudinală este paralel cu Axială plane de corp. It trebuie\
-  \ să fie sprijinit în this poziție cu foam pads și săculeți cu nisip.\n• flexion\
-  \ de gâtul este now ajustat la bring axa longitudinală de zygomatic arch paralel\
-  \ cu casetă.\n• capul în now tilted five la ten grade away de la side under examination.\
-  \ This allows zygomatic arch under examination la fie projected pe la film radiologic\
-  \ fără superimposition de Craniu vault sau Masiv Facial (Oase ale Feței)."
+  268 Arc zigomatic evidențiind o suspiciune dublă de fractură'
+position: 'Ortostatism
+
+  • Pacientul stă așezat cu fața spre stativul vertical Bucky sau spre suportul de
+  casetă al unității craniene. Capul este rotit astfel încât partea examinată să fie
+  în contact cu Bucky sau cu suportul de casetă.
+
+  • Brațul de aceeași parte este extins confortabil pe lângă trunchi, în timp ce celălalt
+  braț poate fi folosit pentru prinderea stativului Bucky, pentru stabilitate. Înălțimea
+  stativului Bucky este modificată astfel încât centrul acestuia să fie la 2,5 cm
+  inferior față de cantusul extern al ochiului.
+
+  Decubit dorsal
+
+  • Pacientul este culcat pe targa mobilă, cu brațele întinse pe lângă corp și planul
+  mediosagital vertical față de suprafața tărgii.
+
+  • Caseta cu grilă este sprijinită vertical pe/lângă partea examinată, astfel încât
+  centrul casetei să fie la 2,5 cm inferior față de cantusul extern al ochiului.
+
+
+  • Pacientul este culcat în decubit dorsal, cu una sau două perne sub umeri pentru
+  a permite extensia completă a gâtului.
+
+  • O casetă de 18 × 24 cm este plasată pe/sprijinită de vertexul craniului, astfel
+  încât axa sa longitudinală să fie paralelă cu planul axial al corpului. Aceasta
+  trebuie susținută în această poziție cu tampoane de spumă și săculeți cu nisip.
+
+  • Flexia gâtului este apoi ajustată pentru a aduce axa longitudinală a arcului zigomatic
+  paralelă cu caseta.
+
+  • Capul este apoi înclinat cu cinci până la zece grade în direcția opusă părții
+  examinate. Aceasta permite proiectarea arcului zigomatic examinat pe filmul radiologic
+  fără suprapunerea bolții craniene sau a masivului facial (oaselor feței).'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -90,30 +110,31 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să contain toate de Masiv Facial (Oase ale Feței) Sinusuri Paranazale
-  (SAF), including sinusuri frontale și posteriorly la anterior margine de cervical
-  coloană vertebrală.
-- true Profil (lateral) will have been obtained if Profil (lateral) portions de floor
-  de anterior cranial fossa sunt superimposed.
-- whole length de zygomatic arch trebuie să fie evidențiat clear de Craniu. If this
-  has nu been achieved, then it poate fie necessary la repeat examination și alter
-  grade de cap tilt la try și bring zygomatic arch clear de Craniu.
+- Imaginea trebuie să conțină toate sinusurile paranazale ale masivului facial (oaselor
+  feței) (SAF), inclusiv sinusurile frontale și posterior, până la marginea anterioară
+  a coloanei cervicale.
+- O incidență reală de profil va fi fost obținută dacă porțiunile de profil ale planșeului
+  fosei craniene anterioare sunt suprapuse.
+- Întreaga lungime a arcului zigomatic trebuie să fie evidențiată clar față de craniu.
+  Dacă acest lucru nu a fost obținut, poate fi necesară repetarea examinării și modificarea
+  gradului de înclinare a capului pentru a încerca să aducă arcul zigomatic clar față
+  de craniu.
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 282
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=282
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Masiv Facial (Oase ale Feței) Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx Masiv facial (oasele feței) profil (lateral)
 ---
-# Rx Masiv Facial (Oase ale Feței) Profil (Lateral)
+# Rx Masiv facial (oasele feței) profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -132,7 +153,7 @@ title: Rx Masiv Facial (Oase ale Feței) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - coborât suspiciune de fractură de zygoma poate fie missed clinically due la edem / tumefiere de părți moi, making bony defect less obvious. radiografie has important role în ensuring that potentially disfiguring depression de cheekbones este nu missed.
+        - O suspiciune redusă de fractură a zigomului poate fi omisă clinic din cauza edemului/tumefierii părților moi, ceea ce face defectul osos mai puțin evident. Radiografia are un rol important în asigurarea faptului că o eventuală depresiune deformantă a pomeților nu este omisă.
 
     === "Ghid Național IRIS"
 
@@ -147,21 +168,21 @@ title: Rx Masiv Facial (Oase ale Feței) Profil (Lateral)
     ---
 
     - **Poziție Pacient:** Ortostatism
-• pacientul stă așezat facing stativ vertical Bucky sau casetă holder de Craniu unit. capul este rotit, astfel încât side under examination este în contact cu Bucky sau casetă holder.
-• braț pe same side este extins comfortably prin trunk, whilst other braț poate fie used la grip Bucky pentru stability. Bucky height este altered, such that its centre este 2.5 cm inferior la outer canthus de eye.
+• Pacientul stă așezat cu fața spre stativul vertical Bucky sau spre suportul de casetă al unității craniene. Capul este rotit astfel încât partea examinată să fie în contact cu Bucky sau cu suportul de casetă.
+• Brațul de aceeași parte este extins confortabil pe lângă trunchi, în timp ce celălalt braț poate fi folosit pentru prinderea stativului Bucky, pentru stabilitate. Înălțimea stativului Bucky este modificată astfel încât centrul acestuia să fie la 2,5 cm inferior față de cantusul extern al ochiului.
 Decubit dorsal
-• pacientul este culcat pe trolley, cu brațele extins prin sides și planul mediosagital vertical la trolley top.
-• gridded casetă este sprijinit vertically pe / sprijinit de side under examination, astfel încât centre de caseta este 2.5 cm inferior la outer canthus de eye.
+• Pacientul este culcat pe targa mobilă, cu brațele întinse pe lângă corp și planul mediosagital vertical față de suprafața tărgii.
+• Caseta cu grilă este sprijinită vertical pe/lângă partea examinată, astfel încât centrul casetei să fie la 2,5 cm inferior față de cantusul extern al ochiului.
 
-• pacientul este culcat Decubit dorsal, cu one sau two pillows under umerii la allow gâtul la fie extins fully.
-• An 18  24-cm casetă este plasat pe / sprijinit de vertex de Craniu, such that its axa longitudinală este paralel cu Axială plane de corp. It trebuie să fie sprijinit în this poziție cu foam pads și săculeți cu nisip.
-• flexion de gâtul este now ajustat la bring axa longitudinală de zygomatic arch paralel cu casetă.
-• capul în now tilted five la ten grade away de la side under examination. This allows zygomatic arch under examination la fie projected pe la film radiologic fără superimposition de Craniu vault sau Masiv Facial (Oase ale Feței).
-    - **Punct de Centrare Fascicul:** • Centre raza centrală orizontală centrală la point 2.5 cm inferior la outer canthus de eye.
+• Pacientul este culcat în decubit dorsal, cu una sau două perne sub umeri pentru a permite extensia completă a gâtului.
+• O casetă de 18 × 24 cm este plasată pe/sprijinită de vertexul craniului, astfel încât axa sa longitudinală să fie paralelă cu planul axial al corpului. Aceasta trebuie susținută în această poziție cu tampoane de spumă și săculeți cu nisip.
+• Flexia gâtului este apoi ajustată pentru a aduce axa longitudinală a arcului zigomatic paralelă cu caseta.
+• Capul este apoi înclinat cu cinci până la zece grade în direcția opusă părții examinate. Aceasta permite proiectarea arcului zigomatic examinat pe filmul radiologic fără suprapunerea bolții craniene sau a masivului facial (oaselor feței).
+    - **Punct de Centrare Fascicul:** • Se centrează raza centrală orizontală la 2,5 cm inferior față de cantusul extern al ochiului.
 
-• raza centrală trebuie să fie perpendicular pe casetă și axa longitudinală de zygomatic arch.
-• centring point trebuie să fie located astfel încât raza centrală passes through space între midpoint de zygomatic arch și Profil (lateral) margine de Masiv Facial (Oase ale Feței).
-• colimare strictă poate fie applied la reduce scatter și la avoid irradiating eyes.
+• Raza centrală trebuie să fie perpendiculară pe casetă și pe axa longitudinală a arcului zigomatic.
+• Punctul de centrare trebuie să fie localizat astfel încât raza centrală să treacă prin spațiul dintre punctul de mijloc al arcului zigomatic și marginea laterală a masivului facial (oaselor feței).
+• Se poate aplica o colimare strictă pentru a reduce radiația difuzată și pentru a evita iradierea ochilor.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -172,21 +193,21 @@ Decubit dorsal
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să contain toate de Masiv Facial (Oase ale Feței) Sinusuri Paranazale (SAF), including sinusuri frontale și posteriorly la anterior margine de cervical coloană vertebrală.
-    - true Profil (lateral) will have been obtained if Profil (lateral) portions de floor de anterior cranial fossa sunt superimposed.
-    - whole length de zygomatic arch trebuie să fie evidențiat clear de Craniu. If this has nu been achieved, then it poate fie necessary la repeat examination și alter grade de cap tilt la try și bring zygomatic arch clear de Craniu.
+    - Imaginea trebuie să conțină toate sinusurile paranazale ale masivului facial (oaselor feței) (SAF), inclusiv sinusurile frontale și posterior, până la marginea anterioară a coloanei cervicale.
+    - O incidență reală de profil va fi fost obținută dacă porțiunile de profil ale planșeului fosei craniene anterioare sunt suprapuse.
+    - Întreaga lungime a arcului zigomatic trebuie să fie evidențiată clar față de craniu. Dacă acest lucru nu a fost obținut, poate fi necesară repetarea examinării și modificarea gradului de înclinare a capului pentru a încerca să aducă arcul zigomatic clar față de craniu.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -199,14 +220,14 @@ Decubit dorsal
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • This incidență este often reserved pentru gross trauma, ca facial structures sunt superimposed.
-• If Profil (lateral) este undertaken pentru suspected corp străin radiopac în eye, then additional collimation și alteration în centring point will fie required.
-Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiopac
+    • Această incidență este adesea rezervată traumatismelor severe, deoarece structurile faciale sunt suprapuse.
+• Dacă incidența de profil este efectuată pentru un corp străin radiopac în ochi, vor fi necesare colimarea suplimentară și modificarea punctului de centrare.
+Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin radiopac
 
-• ambele părți (bilateral) poate fie examined pe one casetă using two expuneri.
-• It este important pentru radiographer la have good understanding de anatomy la correctly locate poziție de zygomatic arch și thus allow pentru precis positioning și collimation.
-• în some individuals, variations în anatomy poate nu allow arch la fie projected clear de Craniu.
-268 Zygomatic arch evidențiind double suspiciune de fractură
+• Ambele părți pot fi examinate pe o singură casetă, utilizând două expuneri.
+• Este important ca tehnicianul radiolog să aibă o bună înțelegere a anatomiei pentru a localiza corect poziția arcului zigomatic și a permite astfel o poziționare și o colimare precise.
+• La unele persoane, variațiile anatomice pot să nu permită proiectarea clară a arcului față de craniu.
+268 Arc zigomatic evidențiind o suspiciune dublă de fractură
 
 
 ### 🖼️ Imagini
@@ -215,9 +236,9 @@ Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiop
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiopac](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_1.jpeg)
+![Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin radiopac](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiopac</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin radiopac</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -239,25 +260,25 @@ Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiop
 
 <figure class="protocol-image-card" markdown>
 
-![coborât suspiciune de fractură de zygoma poate fie missed clinically due](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_4.jpeg)
+![O suspiciune redusă de fractură a zigomului poate fi omisă clinic din cauza](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_4.jpeg)
 
-<figcaption><strong>coborât suspiciune de fractură de zygoma poate fie missed clinically due</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![radiografie has important role în ensuring that potentially](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_5.jpeg)
-
-<figcaption><strong>radiografie has important role în ensuring that potentially</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>O suspiciune redusă de fractură a zigomului poate fi omisă clinic din cauza</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• It este important pentru radiographer la have good understand-](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_6.jpeg)
+![Radiografia are un rol important în asigurarea faptului că o eventuală](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_5.jpeg)
 
-<figcaption><strong>• It este important pentru radiographer la have good understand-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografia are un rol important în asigurarea faptului că o eventuală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![• Este important ca tehnicianul radiolog să aibă o bună înțelegere—](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_6.jpeg)
+
+<figcaption><strong>• Este important ca tehnicianul radiolog să aibă o bună înțelegere—</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -274,4 +295,4 @@ Profil (lateral) Masiv Facial (Oase ale Feței) evidențiind corp străin radiop
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 282](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=282)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 282](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -3,15 +3,16 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: • se orientează raza centrală centrală la drept-angles la axa longitudinală
-  de Sacru și spre palpable Coccis.
+centering: • Se orientează raza centrală în unghi drept față de axa longitudinală
+  a sacrului și spre coccisul palpabil.
 clinical_indications:
-- Evaluare radiografică regiunii Coccis (Antero - posterior).
+- Evaluarea radiografică a regiunii coccigiene (antero-posterior).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coccis-antero-posterior-p207-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -28,15 +29,16 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este culcat pe either side pe masa radiologică, cu palpable
-  Coccis în linia mediană Bucky. brațele sunt raised, cu mâinile resting pe pillow.
-  Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
+position: '• Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu
+  coccisul palpabil pe linia mediană a sistemului Bucky. Brațele sunt ridicate, cu
+  mâinile sprijinite pe pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate
+  și confort.
 
-  • Fața dorsală trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă.
-  Alinierea corectă se verifică prin palparea crestelor iliace sau spinelor iliace
-  postero-superioare. planul mediosagital trebuie să fie paralel cu Bucky.
+  • Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă.
+  Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace
+  postero-superioare. Planul mediosagital trebuie să fie paralel cu sistemul Bucky.
 
-  • caseta este centred la coincide cu raza centrală centrală la nivelul Coccis.'
+  • Caseta este centrată pentru a coincide cu raza centrală la nivelul coccisului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -45,22 +47,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: Care trebuie să fie taken when using automatic expunere
-  control, ca underexposure poate easily result if chamber este poziționat slightly
-  posterior la Coccis. 192'
+- 'Erori de evitat / remedii: Trebuie acordată atenție utilizării controlului automat
+  al expunerii, deoarece subexpunerea poate apărea cu ușurință dacă camera este poziționată
+  ușor posterior de coccis. 192'
 sid_dff: 100 cm
 slug: rx-coccis-antero-posterior-p207-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 207
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=207
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Coccis Antero-Posterior (AP)
 ---
 # Rx Coccis Antero-Posterior (AP)
@@ -82,7 +84,7 @@ title: Rx Coccis Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Coccis (Antero - posterior).
+        - Evaluarea radiografică a regiunii coccigiene (antero-posterior).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -98,10 +100,10 @@ title: Rx Coccis Antero-Posterior (AP)
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat pe either side pe masa radiologică, cu palpable Coccis în linia mediană Bucky. brațele sunt raised, cu mâinile resting pe pillow. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
-• Fața dorsală trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau spinelor iliace postero-superioare. planul mediosagital trebuie să fie paralel cu Bucky.
-• caseta este centred la coincide cu raza centrală centrală la nivelul Coccis.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală la drept-angles la axa longitudinală de Sacru și spre palpable Coccis.
+    - **Poziție Pacient:** • Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu coccisul palpabil pe linia mediană a sistemului Bucky. Brațele sunt ridicate, cu mâinile sprijinite pe pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
+• Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare. Planul mediosagital trebuie să fie paralel cu sistemul Bucky.
+• Caseta este centrată pentru a coincide cu raza centrală la nivelul coccisului.
+    - **Punct de Centrare Fascicul:** • Se orientează raza centrală în unghi drept față de axa longitudinală a sacrului și spre coccisul palpabil.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -112,19 +114,19 @@ title: Rx Coccis Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: Care trebuie să fie taken when using automatic expunere control, ca underexposure poate easily result if chamber este poziționat slightly posterior la Coccis. 192
+    - Erori de evitat / remedii: Trebuie acordată atenție utilizării controlului automat al expunerii, deoarece subexpunerea poate apărea cu ușurință dacă camera este poziționată ușor posterior de coccis. 192
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -148,7 +150,7 @@ title: Rx Coccis Antero-Posterior (AP)
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coccis-antero-posterior-p207-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -189,4 +191,4 @@ title: Rx Coccis Antero-Posterior (AP)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 207](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=207)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 207](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

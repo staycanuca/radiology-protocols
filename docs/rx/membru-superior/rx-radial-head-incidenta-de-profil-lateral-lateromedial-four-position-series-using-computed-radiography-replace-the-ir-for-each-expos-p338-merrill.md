@@ -6,28 +6,28 @@ centering: perpendicular pe Cot articulație
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 339, imaginea 1
+- caption: Merrill — pagina 339, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p339_fig1.png
-- caption: Merrill — pagina PDF 340, imaginea 2
+- caption: Merrill — pagina 340, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig2.png
-- caption: Merrill — pagina PDF 340, imaginea 3
+- caption: Merrill — pagina 340, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig3.png
-- caption: Merrill — pagina PDF 341, imaginea 4
+- caption: Merrill — pagina 341, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p341_fig4.png
-- caption: Merrill — pagina PDF 342, imaginea 5
+- caption: Merrill — pagina 342, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig5.png
-- caption: Merrill — pagina PDF 342, imaginea 6
+- caption: Merrill — pagina 342, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig6.png
-- caption: Merrill — pagina PDF 343, imaginea 7
+- caption: Merrill — pagina 343, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig7.png
-- caption: Merrill — pagina PDF 343, imaginea 8
+- caption: Merrill — pagina 343, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig8.png
 last_updated: '2026-09-16'
@@ -101,8 +101,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 338–343
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=338
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 338–343
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
@@ -192,65 +192,65 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 339, imaginea 1](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p339_fig1.png)
+![Merrill — pagina 339, imaginea 1](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p339_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 339, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 340, imaginea 2](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 340, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 339, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 340, imaginea 3](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig3.png)
+![Merrill — pagina 340, imaginea 2](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 340, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 341, imaginea 4](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p341_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 341, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 340, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 342, imaginea 5](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig5.png)
+![Merrill — pagina 340, imaginea 3](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p340_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 342, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 342, imaginea 6](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 342, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 340, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 343, imaginea 7](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig7.png)
+![Merrill — pagina 341, imaginea 4](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p341_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 343, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 341, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 343, imaginea 8](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig8.png)
+![Merrill — pagina 342, imaginea 5](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig5.png)
 
-<figcaption><strong>Merrill — pagina PDF 343, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 342, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 342, imaginea 6](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p342_fig6.png)
+
+<figcaption><strong>Merrill — pagina 342, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 343, imaginea 7](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig7.png)
+
+<figcaption><strong>Merrill — pagina 343, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 343, imaginea 8](../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig8.png)
+
+<figcaption><strong>Merrill — pagina 343, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -267,7 +267,7 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 338–343](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=338)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 338–343](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -3,15 +3,15 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală verticală centrală este centred midway între epicondyles
-  de Humerus.
+centering: • Raza centrală verticală este centrată la mijlocul distanței dintre epicondilii
+  humerusului.
 clinical_indications:
-- 63 2 Cot Antero-posterior (AP) – Antebraț (Radius și Ulna) în contact
+- 'Cot, incidență antero-posterioară (AP): antebrațul în contact.'
 images:
-- caption: Antero-posterior (AP) radiografie de Cot în partial flexion
+- caption: Radiografie antero-posterioară a cotului în flexie parțială
   description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) radiografie de Cot – upper braț în contact cu caseta
+- caption: 'Radiografie antero-posterioară a cotului: brațul în contact cu caseta'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_2.jpeg
@@ -29,15 +29,15 @@ notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-op
 position: '• Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată
   sprijinită pe masă.
 
-  • posterior aspect de Humerus este plasat pe masa de examinare, cu palm de Mână
-  facing upwards.
+  • Fața posterioară a humerusului este plasată pe masa de examinare, cu palma orientată
+  în sus.
 
-  • caseta este plasat under Antebraț (Radius și Ulna), cu its centre under Cot articulație.
+  • Caseta este plasată sub antebraț, cu centrul sub articulația cotului.
 
-  • braț este ajustat astfel încât medial și Profil (lateral) epicondyles de Humerus
-  sunt echidistant față de film radiologic.
+  • Brațul este ajustat astfel încât epicondilii medial și lateral ai humerusului
+  să fie la distanță egală față de filmul radiologic.
 
-  • limb este sprijinit și imobilizat în this poziție.'
+  • Membrul este sprijinit și imobilizat în această poziție.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -46,14 +46,14 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază distal third de Humerus și proximal third de radius
-  și ulna. Antero-posterior (AP) radiografie de Cot în partial flexion Antero-posterior
-  (AP) radiografie de Cot – upper braț în contact cu caseta
+- 'Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală
+  a radiusului și a ulnei. Radiografie antero-posterioară a cotului în flexie parțială.
+  Radiografie antero-posterioară a cotului: brațul în contact cu caseta.'
 sid_dff: 100 cm
 slug: rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 78
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=78
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -83,7 +83,7 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
     === "Indicații Clinice"
 
-        - 63 2 Cot Antero-posterior (AP) – Antebraț (Radius și Ulna) în contact
+        - Cot, incidență antero-posterioară (AP): antebrațul în contact.
 
     === "Ghid Național IRIS"
 
@@ -98,11 +98,11 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
     ---
 
     - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• posterior aspect de Humerus este plasat pe masa de examinare, cu palm de Mână facing upwards.
-• caseta este plasat under Antebraț (Radius și Ulna), cu its centre under Cot articulație.
-• braț este ajustat astfel încât medial și Profil (lateral) epicondyles de Humerus sunt echidistant față de film radiologic.
-• limb este sprijinit și imobilizat în this poziție.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred midway între epicondyles de Humerus.
+• Fața posterioară a humerusului este plasată pe masa de examinare, cu palma orientată în sus.
+• Caseta este plasată sub antebraț, cu centrul sub articulația cotului.
+• Brațul este ajustat astfel încât epicondilii medial și lateral ai humerusului să fie la distanță egală față de filmul radiologic.
+• Membrul este sprijinit și imobilizat în această poziție.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată la mijlocul distanței dintre epicondilii humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -125,7 +125,7 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
     ---
 
-    - imagine trebuie să evidențiază distal third de Humerus și proximal third de radius și ulna. Antero-posterior (AP) radiografie de Cot în partial flexion Antero-posterior (AP) radiografie de Cot – upper braț în contact cu caseta
+    - Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală a radiusului și a ulnei. Radiografie antero-posterioară a cotului în flexie parțială. Radiografie antero-posterioară a cotului: brațul în contact cu caseta.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,17 +147,17 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de Cot în partial flexion](../../assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_1.jpeg)
+![Radiografie antero-posterioară a cotului în flexie parțială](../../assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_1.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de Cot în partial flexion</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară a cotului în flexie parțială</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de Cot – upper braț în contact cu caseta](../../assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_2.jpeg)
+![Radiografie antero-posterioară a cotului: brațul în contact cu caseta](../../assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de Cot – upper braț în contact cu caseta</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară a cotului: brațul în contact cu caseta</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -190,4 +190,4 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 78](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=78)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 78](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

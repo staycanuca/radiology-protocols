@@ -2,18 +2,18 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: craniu-saf
-centering: perpendicular (Fig. 11.63) sau orientat la nazion la angle 15 grade cranial
-  (Fig. 11.64). Center receptorul de imagine la raza centrală.
+centering: perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial
+  de 15 grade (Fig. 11.64). Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 876, imaginea 1
+- caption: Merrill — pagina 876, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p876_fig1.png
-- caption: Merrill — pagina PDF 877, imaginea 2
+- caption: Merrill — pagina 877, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig2.png
-- caption: Merrill — pagina PDF 877, imaginea 3
+- caption: Merrill — pagina 877, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig3.png
 last_updated: '2026-09-16'
@@ -24,17 +24,17 @@ position: Conform reperelor anatomice standard din tratat; Conform reperelor ana
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire
-  Craniu fără rotație sau tilt, evidențiat prin:'
-- Equal distances de la lateral margini de Craniu la lateral margini de Orbite pe
-  ambele părți (bilateral)
-- simetric stânci temporale (piramide pietroase)
-- MSP de Craniu aliniat cu axa longitudinală de câmp colimat n stânci temporale (piramide
-  pietroase) culcat în lower third de orbit cu cranial raza centrală angulation de
-  15 grade și filling Orbite cu a 0-grade raza centrală angulation n Entire cranial
-  perimeter evidențiind three distinct areas de squamous bone n Bony detail de frontal
-  bone și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența
+  markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Întregul
+  craniu fără rotație sau înclinare, evidențiat prin:'
+- Distanțe egale de la marginile laterale ale craniului la marginile laterale ale
+  orbitelor pe ambele părți (bilateral)
+- stânci temporale (piramide pietroase) simetrice
+- MSP al craniului aliniat cu axa longitudinală a câmpului colimat n stâncile temporale
+  (piramidele pietroase) situate în treimea inferioară a orbitelor, cu o angulație
+  cranială a razei centrale de 15 grade și cu umplerea orbitelor la o angulație de
+  0 grade a razei centrale n Întregul perimetru cranian, evidențiind trei zone distincte
+  ale osului scuamos n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill
 source_pages:
@@ -42,71 +42,68 @@ source_pages:
 - 876
 - 877
 source_sections:
-  anatomy: 'structures vizualizat pe AP incidență sunt same ca structures vizualizat
-    pe PA incidență. pe AP incidență (Fig. 11.65), orbits sunt considerably magnified
-    because de increased object–la–receptorul de imagine distance (OID). Similarly,
-    because de magnification, distance de la lateral margin de orbit la lateral margin
-    de temporal bone measures less pe AP incidență than pe PA
+  anatomy: Structurile vizualizate pe incidența AP sunt aceleași cu cele vizualizate
+    pe incidența PA. Pe incidența AP (Fig. 11.65), orbitele sunt considerabil mărite
+    din cauza distanței crescute obiect–receptor de imagine (OID). În mod similar,
+    din cauza măririi, distanța de la marginea laterală a orbitei la marginea laterală
+    a osului temporal este mai mică pe incidența AP decât pe incidența PA.
+  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch
+    (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra
+    vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial de
+    15 grade (Fig. 11.64).
 
-    incidență.'
-  collimation: '• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line
-    de craniul. Check pentru light above vertex și pe ambele părți (bilateral) de
+    • Centrați receptorul de imagine pe raza centrală.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    fața. Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• perpendicular (Fig. 11.63) sau orientat la nazion la angle 15 grade cranial
-    (Fig. 11.64).
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Center receptorul de imagine la raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n Întregul craniu fără rotație sau înclinare, evidențiat prin:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Distanțe egale de la marginile laterale ale craniului la marginile laterale
+    ale orbitelor pe ambele părți (bilateral)
 
-    n Entire cranium fără rotație sau tilt, evidențiat prin:
+    • stânci temporale (piramide pietroase) simetrice
 
-    • Equal distances de la lateral margini de skull la lateral margini de orbits
-    pe ambele părți (bilateral)
+    • MSP al craniului aliniat cu axa longitudinală a câmpului colimat
 
-    • simetric stânci temporale (piramide pietroase)
+    n stâncile temporale (piramidele pietroase) situate în treimea inferioară a orbitelor,
+    cu o angulație cranială a razei centrale de 15 grade și cu umplerea orbitelor
+    la o angulație de 0 grade a razei centrale
 
-    • MSP de cranium aliniat cu axa longitudinală de câmp colimat
+    n Întregul perimetru cranian, evidențiind trei zone distincte ale osului scuamos
 
-    n stânci temporale (piramide pietroase) culcat în lower third de orbit cu cranial
-    raza centrală angulation de 15 grade și filling orbits cu a 0-grade
+    n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare'
+  tech: 'poziționat de producător sau prin protocolul departamentului pentru orientarea
+    corectă a afișării anatomiei; placă pentru raza centrală: 10 × 12 inches (24 ×
+    30 cm), longitudinal.
 
-    raza centrală angulation
+    Când pacientul nu poate fi poziționat pentru incidența PA sau PA axială, o imagine
+    similară, dar mărită, poate fi obținută cu incidența AP.
 
-    n Entire cranial perimeter evidențiind three distinct areas de squamous bone
+    Incidența AP axială este denumită adesea Caldwell inversă.
 
-    n Bony detail de frontal bone și surrounding soft tissues'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+    Poziția pacientului și a regiunii anatomice
 
-    30 cm) longitudinal.
+    • Poziționați pacientul în decubit dorsal, cu MSP al corpului centrat pe grilă.
 
-    When pacientul cannot fie poziționat pentru PA sau PA axial incidență, similar
-    but magnified imagine poate fie obtained cu AP incidență.
-
-    AP axial este often referred la ca reverse Caldwell.
-
-    poziție de pacient și part
-
-    • se poziționează pacientul în decubit dorsal cu MSP de corp centrat pe grila.
-
-    • Ensure that MSP și linie orbitomeatală (LOM) sunt perpendicular pe receptorul
+    • Asigurați-vă că MSP și linia orbitomeatală (LOM) sunt perpendiculare pe receptorul
     de imagine (RI).'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 875–877
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=875
+- title: Merrill’s Atlas, 11. Cranium, pagini 875–877
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line
-    de Craniu. Check pentru light above vertex și pe ambele părți (bilateral) de fața.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axială — Reverse
-  Incidență Occipito-Frontală (Metoda Caldwell) (Merrill)
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5
+    cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului
+    și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
+title: Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axială — Incidență
+  Occipito-Frontală inversă (Metoda Caldwell) (Merrill)
 ---
-# Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axială — Reverse Incidență Occipito-Frontală (Metoda Caldwell) (Merrill)
+# Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axială — Incidență Occipito-Frontală inversă (Metoda Caldwell) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -140,7 +137,7 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axi
     ---
 
     - **Poziție Pacient:** Conform reperelor anatomice standard din tratat; Conform reperelor anatomice standard din tratat
-    - **Punct de Centrare Fascicul:** perpendicular (Fig. 11.63) sau orientat la nazion la angle 15 grade cranial (Fig. 11.64). Center receptorul de imagine la raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial de 15 grade (Fig. 11.64). Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -156,17 +153,17 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de Craniu. Check pentru light above vertex și pe ambele părți (bilateral) de fața. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire Craniu fără rotație sau tilt, evidențiat prin:
-    - Equal distances de la lateral margini de Craniu la lateral margini de Orbite pe ambele părți (bilateral)
-    - simetric stânci temporale (piramide pietroase)
-    - MSP de Craniu aliniat cu axa longitudinală de câmp colimat n stânci temporale (piramide pietroase) culcat în lower third de orbit cu cranial raza centrală angulation de 15 grade și filling Orbite cu a 0-grade raza centrală angulation n Entire cranial perimeter evidențiind three distinct areas de squamous bone n Bony detail de frontal bone și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n Întregul craniu fără rotație sau înclinare, evidențiat prin:
+    - Distanțe egale de la marginile laterale ale craniului la marginile laterale ale orbitelor pe ambele părți (bilateral)
+    - stânci temporale (piramide pietroase) simetrice
+    - MSP al craniului aliniat cu axa longitudinală a câmpului colimat n stâncile temporale (piramidele pietroase) situate în treimea inferioară a orbitelor, cu o angulație cranială a razei centrale de 15 grade și cu umplerea orbitelor la o angulație de 0 grade a razei centrale n Întregul perimetru cranian, evidențiind trei zone distincte ale osului scuamos n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -186,25 +183,25 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axi
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 876, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p876_fig1.png)
+![Merrill — pagina 876, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p876_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 876, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 877, imaginea 2](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 877, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 876, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 877, imaginea 3](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig3.png)
+![Merrill — pagina 877, imaginea 2](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 877, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 877, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 877, imaginea 3](../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig3.png)
+
+<figcaption><strong>Merrill — pagina 877, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -221,45 +218,41 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) And Incidență AP Axi
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 875–877](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=875)
+- [Merrill’s Atlas, 11. Cranium, pagini 875–877](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-structures vizualizat pe AP incidență sunt same ca structures vizualizat pe PA incidență. pe AP incidență (Fig. 11.65), orbits sunt considerably magnified because de increased object–la–receptorul de imagine distance (OID). Similarly, because de magnification, distance de la lateral margin de orbit la lateral margin de temporal bone measures less pe AP incidență than pe PA
-incidență.
+Structurile vizualizate pe incidența AP sunt aceleași cu cele vizualizate pe incidența PA. Pe incidența AP (Fig. 11.65), orbitele sunt considerabil mărite din cauza distanței crescute obiect–receptor de imagine (OID). În mod similar, din cauza măririi, distanța de la marginea laterală a orbitei la marginea laterală a osului temporal este mai mică pe incidența AP decât pe incidența PA.
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de craniul. Check pentru light above vertex și pe ambele părți (bilateral) de
-fața. Place marker de lateralitate (D/S) în collimated expunere field.
+• Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular (Fig. 11.63) sau orientat la nazion la angle 15 grade cranial (Fig. 11.64).
-• Center receptorul de imagine la raza centrală.
+• perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial de 15 grade (Fig. 11.64).
+• Centrați receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Entire cranium fără rotație sau tilt, evidențiat prin:
-• Equal distances de la lateral margini de skull la lateral margini de orbits pe ambele părți (bilateral)
-• simetric stânci temporale (piramide pietroase)
-• MSP de cranium aliniat cu axa longitudinală de câmp colimat
-n stânci temporale (piramide pietroase) culcat în lower third de orbit cu cranial raza centrală angulation de 15 grade și filling orbits cu a 0-grade
-raza centrală angulation
-n Entire cranial perimeter evidențiind three distinct areas de squamous bone
-n Bony detail de frontal bone și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+n Întregul craniu fără rotație sau înclinare, evidențiat prin:
+• Distanțe egale de la marginile laterale ale craniului la marginile laterale ale orbitelor pe ambele părți (bilateral)
+• stânci temporale (piramide pietroase) simetrice
+• MSP al craniului aliniat cu axa longitudinală a câmpului colimat
+n stâncile temporale (piramidele pietroase) situate în treimea inferioară a orbitelor, cu o angulație cranială a razei centrale de 15 grade și cu umplerea orbitelor la o angulație de 0 grade a razei centrale
+n Întregul perimetru cranian, evidențiind trei zone distincte ale osului scuamos
+n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-When pacientul cannot fie poziționat pentru PA sau PA axial incidență, similar but magnified imagine poate fie obtained cu AP incidență.
-AP axial este often referred la ca reverse Caldwell.
-poziție de pacient și part
-• se poziționează pacientul în decubit dorsal cu MSP de corp centrat pe grila.
-• Ensure that MSP și linie orbitomeatală (LOM) sunt perpendicular pe receptorul de imagine (RI).
+poziționat de producător sau prin protocolul departamentului pentru orientarea corectă a afișării anatomiei; placă pentru raza centrală: 10 × 12 inches (24 × 30 cm), longitudinal.
+Când pacientul nu poate fi poziționat pentru incidența PA sau PA axială, o imagine similară, dar mărită, poate fi obținută cu incidența AP.
+Incidența AP axială este denumită adesea Caldwell inversă.
+Poziția pacientului și a regiunii anatomice
+• Poziționați pacientul în decubit dorsal, cu MSP al corpului centrat pe grilă.
+• Asigurați-vă că MSP și linia orbitomeatală (LOM) sunt perpendiculare pe receptorul de imagine (RI).
 

@@ -1,59 +1,61 @@
 ---
 author: Referință Merrill
-breathing: apnee (oprirea respirației). lateral se poziționează pacientul’s side pe
-  / sprijinit de stativ vertical Bucky. se ajustează poziție de pacientul astfel încât
-  MSP de corp este paralel cu receptorul de imagine și adjacent Umăr este touching
-  grila device. se centrează thorax la grila; MCP trebuie să fie perpendicular și
-  centrat pe linia mediană grilă (see Fig. 9.131B). poziție special ruler adjacent
-  la coloană vertebrală, if needed. Se instruiește pacientul să se extinde brațe upward
-  la prevent superimposition over coloană vertebrală. se efectuează ecranarea gonadelor
-  cu șorț plumbat și breasts ca appropriate. apnee (oprirea respirației).
+breathing: 'apnee (oprirea respirației). lateral: se poziționează partea laterală
+  a pacientului pe sau lipită de stativul vertical Bucky. se ajustează poziția pacientului
+  astfel încât MSP al corpului să fie paralel cu receptorul de imagine, iar umărul
+  adiacent să atingă dispozitivul grilei. se centrează toracele la nivelul grilei;
+  MCP trebuie să fie perpendiculară și centrată pe linia mediană a grilei (vezi Fig.
+  9.131B). se poziționează un reper special adiacent coloanei vertebrale, dacă este
+  necesar. se instruiește pacientul să extindă brațele în sus pentru a preveni suprapunerea
+  peste coloana vertebrală. se efectuează ecranarea gonadelor cu șorț plumbat și a
+  sânilor, după caz. apnee (oprirea respirației).'
 category: coloana
-centering: perpendicular pe centrul receptorului de imagine. centering points pentru
-  fiecare radiografie în sequence will fie dictated prin system used. two- (sau three-)
-  imagine sequence este performed pentru ambele PA și lateral incidențe (Figs. 9.132
-  și 9.133).
+centering: perpendicular pe centrul receptorului de imagine. punctele de centrare
+  pentru fiecare radiografie din serie vor fi dictate de sistemul utilizat. se efectuează
+  o serie de două (sau trei) imagini atât pentru incidențele PA, cât și pentru cele
+  de profil (Fig. 9.132 și 9.133).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 763, imaginea 1
+- caption: Merrill — pagina 763, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig1.png
-- caption: Merrill — pagina PDF 763, imaginea 2
+- caption: Merrill — pagina 763, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig2.png
-- caption: Merrill — pagina PDF 764, imaginea 3
+- caption: Merrill — pagina 764, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p764_fig3.png
-- caption: Merrill — pagina PDF 765, imaginea 4
+- caption: Merrill — pagina 765, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p765_fig4.png
-- caption: Merrill — pagina PDF 766, imaginea 5
+- caption: Merrill — pagina 766, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p766_fig5.png
-- caption: Merrill — pagina PDF 767, imaginea 6
+- caption: Merrill — pagina 767, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p767_fig6.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: This procedure este usually performed cu pacientul în ortostatism.; PA (sau
-  AP) pacient faces stativ vertical Bucky pentru PA sau rests back pe / sprijinit
-  de device pentru AP. se ajustează pacient’s Bazin (bazin (pelvis)) pentru rotație
-  prin ensuring that spină iliacă antero-superioară (SIAS) sunt echidistant față de
-  receptorul de imagine. se centrează MSP de pacientul’s corp la linia mediană stativ
-  vertical Bucky (Fig. 9.131A). Let pacientul’s brațe hang prin sides. poziție special
-  ruler adjacent la coloană vertebrală, if needed. se efectuează ecranarea gonadelor
-  cu șorț plumbat și breasts ca appropriate.
+position: 'Această procedură se efectuează de obicei cu pacientul în ortostatism.
+  PA (sau AP): pacientul este orientat cu fața către stativul vertical Bucky pentru
+  PA sau se sprijină cu spatele pe dispozitiv pentru AP. se ajustează bazinul pacientului
+  pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante
+  față de receptorul de imagine. se centrează MSP al corpului pacientului pe linia
+  mediană a stativului vertical Bucky (Fig. 9.131A). se lasă brațele pacientului să
+  atârne pe lângă corp. se poziționează un reper special adiacent coloanei vertebrale,
+  dacă este necesar. se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor,
+  după caz.'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation, presence de special ruler if used, și presence de
-  marker de lateralitate (D/S) plasat clear de anatomy de interest
-- Entire cervical, thoracic, și lumbosacral spines
-- coloană vertebrală aliniat down center de imagine
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- dovada colimării corecte, prezența reperului special, dacă a fost utilizat, și prezența
+  markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+- întreaga coloană cervicală, toracală și lombosacrală
+- coloana vertebrală aliniată pe centrul imaginii
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill
 source_pages:
@@ -65,92 +67,88 @@ source_pages:
 - 766
 - 767
 source_sections:
-  anatomy: entire coloană vertebrală de la base de skull la tip de coccyx (Fig. 9.134).
-  collimation: '• Extent de collimation depends pe type de imaging system used, ca
-    well ca extent de pacientul’s scoliosis. Care trebuie să fie taken
+  anatomy: întreaga coloană vertebrală, de la baza craniului până la vârful coccisului
+    (Fig. 9.134).
+  collimation: • amploarea colimării depinde de tipul sistemului de imagistică utilizat,
+    precum și de extinderea scoliozei pacientului. trebuie acordată atenție includerii
+    exclusiv a anatomiei de interes. dacă este posibil, lățimea câmpului colimat trebuie
+    să fie mai mică decât lățimea receptorului de imagine. se verifică întotdeauna
+    imaginile examinării anterioare pentru a determina amploarea curburii.
+  cr: '• perpendicular pe centrul receptorului de imagine. punctele de centrare pentru
+    fiecare radiografie din serie vor fi dictate de sistemul utilizat.
 
-    la include only anatomy de interest. If possible, width de câmp colimat trebuie
-    să fie less than width de receptorul de imagine. Always
+    • se efectuează o serie de două (sau trei) imagini atât pentru incidențele PA,
+    cât și pentru cele de profil (Fig. 9.132 și 9.133).'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    check previous examination imagini la determine extent de curvature.'
-  cr: '• perpendicular pe centrul receptorului de imagine. centering points pentru
-    fiecare radiografie în sequence will fie dictated prin system used.
+    • dovada colimării corecte, prezența reperului special, dacă a fost utilizat,
+    și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de
+    interes
 
-    • two- (sau three-) imagine sequence este performed pentru ambele PA și lateral
-    incidențe (Figs. 9.132 și 9.133).'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • întreaga coloană cervicală, toracală și lombosacrală
 
-    • Evidence de corect collimation, presence de special ruler if used, și presence
-    de marker de lateralitate (D/S) plasat clear de anatomy de interest
+    • coloana vertebrală aliniată pe centrul imaginii
 
-    • Entire cervical, thoracic, și lumbosacral spines
-
-    • coloană vertebrală aliniat down center de imagine
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
+    • detalii osoase trabeculare și țesuturile moi înconjurătoare'
   part_pos: 'PA (sau AP)
 
-    • pacient faces stativ vertical Bucky pentru PA sau rests back pe / sprijinit
-    de device pentru AP.
+    • pacientul este orientat cu fața spre stativul vertical Bucky pentru PA sau cu
+    spatele sprijinit de dispozitiv pentru AP.
 
-    • se ajustează pacient’s bazin (pelvis) pentru rotație prin ensuring that spină
-    iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine.
+    • se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace
+    antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
 
-    • se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky
-    (Fig. 9.131A).
+    • se centrează MSP al corpului pacientului pe linia mediană a stativului vertical
+    Bucky (Fig. 9.131A).
 
-    • Let pacientul’s brațe hang prin sides.
+    • Se lasă brațele pacientului să atârne pe lângă corp.
 
-    • poziție special ruler adjacent la coloană vertebrală, if needed.
+    • se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate.'
-  patient_pos: • This procedure este usually performed cu pacientul în ortostatism.
+    • se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.'
+  patient_pos: • Această procedură se efectuează de obicei cu pacientul în ortostatism.
   respiration: 'apnee (oprirea respirației).
 
-    lateral
+    profil
 
-    • se poziționează pacientul’s side pe / sprijinit de stativ vertical Bucky.
+    • se poziționează pacientul cu partea laterală sprijinită de stativul vertical
+    Bucky.
 
-    • se ajustează poziție de pacientul astfel încât MSP de corp este paralel cu receptorul
-    de imagine și adjacent umăr este touching grila
+    • se ajustează poziția pacientului astfel încât MSP al corpului să fie paralel
+    cu receptorul de imagine, iar umărul adiacent să atingă dispozitivul grilei.
 
-    device.
+    • se centrează toracele pe grilă; MCP trebuie să fie perpendicular și centrat
+    pe linia mediană a grilei (vezi Fig. 9.131B).
 
-    • se centrează thorax la grila; MCP trebuie să fie perpendicular și centrat pe
-    linia mediană grilă (see Fig. 9.131B).
+    • se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
 
-    • poziție special ruler adjacent la coloană vertebrală, if needed.
+    • Se instruiește pacientul să ridice brațele în sus pentru a preveni suprapunerea
+    peste coloana vertebrală.
 
-    • Se instruiește pacientul să se extinde brațe upward la prevent superimposition
-    over coloană vertebrală.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate.
+    • se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
 
     apnee (oprirea respirației).'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation. variety de devices și receptorul de imagine
-
-    holders have been developed pentru ambele raza centrală și DR systems. toate systems
-    allow multiple imagini encompassing entire coloană vertebrală la fie captured
-
-    fără need pentru repositioning de pacientul. acquired imagini sunt combined, sau
-    “stitched,” prin computer system into composite
-
-    imagine that evidențiază entire coloană vertebrală în one imagine.'
+  tech: poziționat de producător sau prin protocolul departamentului pentru orientarea
+    corectă a afișării anatomiei. au fost dezvoltate diverse dispozitive și suporturi
+    pentru receptoare de imagine, atât pentru sistemele cu rază centrală, cât și pentru
+    sistemele DR. toate sistemele permit captarea mai multor imagini care cuprind
+    întreaga coloană vertebrală, fără a fi necesară repoziționarea pacientului. imaginile
+    obținute sunt combinate sau „asamblate” de sistemul informatic într-o imagine
+    compozită care evidențiază întreaga coloană vertebrală într-o singură imagine.
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 761–767
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=761
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 761–767
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Extent de collimation depends pe type de imaging system used, ca well
-    ca extent de pacientul’s scoliosis. Care trebuie să fie taken la include only
-    anatomy de interest. If possible, width de câmp colimat trebuie să fie less than
-    width de receptorul de imagine. Always check previous examination imagini la determine
-    extent de curvature.
-title: 'Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Lateral) —
-  Frank et al. Method 27–29 (Merrill)'
+  collimation: Extinderea colimării depinde de tipul sistemului de imagistică utilizat,
+    precum și de amploarea scoliozei pacientului. Trebuie avut grijă să fie inclusă
+    numai anatomia de interes. Dacă este posibil, lățimea câmpului colimat trebuie
+    să fie mai mică decât lățimea receptorului de imagine. Se verifică întotdeauna
+    imaginile examinării anterioare pentru a determina amploarea curburii.
+title: 'Radiografia coloanei toracolombare: scolioză — PA și incidență de profil —
+  metoda Frank, 27–29 (Merrill)'
 ---
-# Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Lateral) — Frank et al. Method 27–29 (Merrill)
+# Radiografia coloanei toracolombare: scolioză — PA și incidență de profil — metoda Frank, 27–29 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -183,10 +181,10 @@ title: 'Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Late
 
     ---
 
-    - **Poziție Pacient:** This procedure este usually performed cu pacientul în ortostatism.; PA (sau AP) pacient faces stativ vertical Bucky pentru PA sau rests back pe / sprijinit de device pentru AP. se ajustează pacient’s Bazin (bazin (pelvis)) pentru rotație prin ensuring that spină iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine. se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky (Fig. 9.131A). Let pacientul’s brațe hang prin sides. poziție special ruler adjacent la coloană vertebrală, if needed. se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. centering points pentru fiecare radiografie în sequence will fie dictated prin system used. two- (sau three-) imagine sequence este performed pentru ambele PA și lateral incidențe (Figs. 9.132 și 9.133).
+    - **Poziție Pacient:** Această procedură se efectuează de obicei cu pacientul în ortostatism. PA (sau AP): pacientul este orientat cu fața către stativul vertical Bucky pentru PA sau se sprijină cu spatele pe dispozitiv pentru AP. se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine. se centrează MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.131A). se lasă brațele pacientului să atârne pe lângă corp. se poziționează un reper special adiacent coloanei vertebrale, dacă este necesar. se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. punctele de centrare pentru fiecare radiografie din serie vor fi dictate de sistemul utilizat. se efectuează o serie de două (sau trei) imagini atât pentru incidențele PA, cât și pentru cele de profil (Fig. 9.132 și 9.133).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației). lateral se poziționează pacientul’s side pe / sprijinit de stativ vertical Bucky. se ajustează poziție de pacientul astfel încât MSP de corp este paralel cu receptorul de imagine și adjacent Umăr este touching grila device. se centrează thorax la grila; MCP trebuie să fie perpendicular și centrat pe linia mediană grilă (see Fig. 9.131B). poziție special ruler adjacent la coloană vertebrală, if needed. Se instruiește pacientul să se extinde brațe upward la prevent superimposition over coloană vertebrală. se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate. apnee (oprirea respirației).
+    - **Comandă Respiratorie:** apnee (oprirea respirației). lateral: se poziționează partea laterală a pacientului pe sau lipită de stativul vertical Bucky. se ajustează poziția pacientului astfel încât MSP al corpului să fie paralel cu receptorul de imagine, iar umărul adiacent să atingă dispozitivul grilei. se centrează toracele la nivelul grilei; MCP trebuie să fie perpendiculară și centrată pe linia mediană a grilei (vezi Fig. 9.131B). se poziționează un reper special adiacent coloanei vertebrale, dacă este necesar. se instruiește pacientul să extindă brațele în sus pentru a preveni suprapunerea peste coloana vertebrală. se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz. apnee (oprirea respirației).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -200,18 +198,18 @@ title: 'Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Late
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Extent de collimation depends pe type de imaging system used, ca well ca extent de pacientul’s scoliosis. Care trebuie să fie taken la include only anatomy de interest. If possible, width de câmp colimat trebuie să fie less than width de receptorul de imagine. Always check previous examination imagini la determine extent de curvature. |
+    | **Colimare Fascicul** | Extinderea colimării depinde de tipul sistemului de imagistică utilizat, precum și de amploarea scoliozei pacientului. Trebuie avut grijă să fie inclusă numai anatomia de interes. Dacă este posibil, lățimea câmpului colimat trebuie să fie mai mică decât lățimea receptorului de imagine. Se verifică întotdeauna imaginile examinării anterioare pentru a determina amploarea curburii. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation, presence de special ruler if used, și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire cervical, thoracic, și lumbosacral spines
-    - coloană vertebrală aliniat down center de imagine
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - dovada colimării corecte, prezența reperului special, dacă a fost utilizat, și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+    - întreaga coloană cervicală, toracală și lombosacrală
+    - coloana vertebrală aliniată pe centrul imaginii
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -231,49 +229,49 @@ title: 'Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Late
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 763, imaginea 1](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig1.png)
+![Merrill — pagina 763, imaginea 1](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 763, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 763, imaginea 2](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 763, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 763, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 764, imaginea 3](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p764_fig3.png)
+![Merrill — pagina 763, imaginea 2](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p763_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 764, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 765, imaginea 4](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p765_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 765, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 763, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 766, imaginea 5](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p766_fig5.png)
+![Merrill — pagina 764, imaginea 3](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p764_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 766, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 764, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 767, imaginea 6](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p767_fig6.png)
+![Merrill — pagina 765, imaginea 4](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p765_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 767, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 765, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 766, imaginea 5](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p766_fig5.png)
+
+<figcaption><strong>Merrill — pagina 766, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 767, imaginea 6](../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p767_fig6.png)
+
+<figcaption><strong>Merrill — pagina 767, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -290,64 +288,58 @@ title: 'Rx Thoracolumbar Spine: Scoliosis — Pa And Incidență de Profil (Late
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 761–767](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=761)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 761–767](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-entire coloană vertebrală de la base de skull la tip de coccyx (Fig. 9.134).
+întreaga coloană vertebrală, de la baza craniului până la vârful coccisului (Fig. 9.134).
 
-### collimation
+### colimare
 
-• Extent de collimation depends pe type de imaging system used, ca well ca extent de pacientul’s scoliosis. Care trebuie să fie taken
-la include only anatomy de interest. If possible, width de câmp colimat trebuie să fie less than width de receptorul de imagine. Always
-check previous examination imagini la determine extent de curvature.
+• amploarea colimării depinde de tipul sistemului de imagistică utilizat, precum și de extinderea scoliozei pacientului. trebuie acordată atenție includerii exclusiv a anatomiei de interes. dacă este posibil, lățimea câmpului colimat trebuie să fie mai mică decât lățimea receptorului de imagine. se verifică întotdeauna imaginile examinării anterioare pentru a determina amploarea curburii.
 
-### cr
+### raza centrală
 
-• perpendicular pe centrul receptorului de imagine. centering points pentru fiecare radiografie în sequence will fie dictated prin system used.
-• two- (sau three-) imagine sequence este performed pentru ambele PA și lateral incidențe (Figs. 9.132 și 9.133).
+• perpendicular pe centrul receptorului de imagine. punctele de centrare pentru fiecare radiografie din serie vor fi dictate de sistemul utilizat.
+• se efectuează o serie de două (sau trei) imagini atât pentru incidențele PA, cât și pentru cele de profil (Fig. 9.132 și 9.133).
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation, presence de special ruler if used, și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire cervical, thoracic, și lumbosacral spines
-• coloană vertebrală aliniat down center de imagine
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• dovada colimării corecte, prezența reperului special, dacă a fost utilizat, și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• întreaga coloană cervicală, toracală și lombosacrală
+• coloana vertebrală aliniată pe centrul imaginii
+• detalii osoase trabeculare și țesuturile moi înconjurătoare
 
 ### part_pos
 
 PA (sau AP)
-• pacient faces stativ vertical Bucky pentru PA sau rests back pe / sprijinit de device pentru AP.
-• se ajustează pacient’s bazin (pelvis) pentru rotație prin ensuring that spină iliacă antero-superioară (SIAS) sunt echidistant față de receptorul de imagine.
-• se centrează MSP de pacientul’s corp la linia mediană stativ vertical Bucky (Fig. 9.131A).
-• Let pacientul’s brațe hang prin sides.
-• poziție special ruler adjacent la coloană vertebrală, if needed.
-• se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate.
+• pacientul este orientat cu fața spre stativul vertical Bucky pentru PA sau cu spatele sprijinit de dispozitiv pentru AP.
+• se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
+• se centrează MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.131A).
+• Se lasă brațele pacientului să atârne pe lângă corp.
+• se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
+• se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
 
 ### patient_pos
 
-• This procedure este usually performed cu pacientul în ortostatism.
+• Această procedură se efectuează de obicei cu pacientul în ortostatism.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
-lateral
-• se poziționează pacientul’s side pe / sprijinit de stativ vertical Bucky.
-• se ajustează poziție de pacientul astfel încât MSP de corp este paralel cu receptorul de imagine și adjacent umăr este touching grila
-device.
-• se centrează thorax la grila; MCP trebuie să fie perpendicular și centrat pe linia mediană grilă (see Fig. 9.131B).
-• poziție special ruler adjacent la coloană vertebrală, if needed.
-• Se instruiește pacientul să se extinde brațe upward la prevent superimposition over coloană vertebrală.
-• se efectuează ecranarea gonadelor cu șorț plumbat și breasts ca appropriate.
+profil
+• se poziționează pacientul cu partea laterală sprijinită de stativul vertical Bucky.
+• se ajustează poziția pacientului astfel încât MSP al corpului să fie paralel cu receptorul de imagine, iar umărul adiacent să atingă dispozitivul grilei.
+• se centrează toracele pe grilă; MCP trebuie să fie perpendicular și centrat pe linia mediană a grilei (vezi Fig. 9.131B).
+• se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
+• Se instruiește pacientul să ridice brațele în sus pentru a preveni suprapunerea peste coloana vertebrală.
+• se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation. variety de devices și receptorul de imagine
-holders have been developed pentru ambele raza centrală și DR systems. toate systems allow multiple imagini encompassing entire coloană vertebrală la fie captured
-fără need pentru repositioning de pacientul. acquired imagini sunt combined, sau “stitched,” prin computer system into composite
-imagine that evidențiază entire coloană vertebrală în one imagine.
+poziționat de producător sau prin protocolul departamentului pentru orientarea corectă a afișării anatomiei. au fost dezvoltate diverse dispozitive și suporturi pentru receptoare de imagine, atât pentru sistemele cu rază centrală, cât și pentru sistemele DR. toate sistemele permit captarea mai multor imagini care cuprind întreaga coloană vertebrală, fără a fi necesară repoziționarea pacientului. imaginile obținute sunt combinate sau „asamblate” de sistemul informatic într-o imagine compozită care evidențiază întreaga coloană vertebrală într-o singură imagine.
 

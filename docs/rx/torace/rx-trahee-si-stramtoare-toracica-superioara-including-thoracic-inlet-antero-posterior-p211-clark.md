@@ -87,7 +87,7 @@ sid_dff: 100 cm
 slug: rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 211
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=211
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -251,4 +251,4 @@ title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 211](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=211)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 211](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

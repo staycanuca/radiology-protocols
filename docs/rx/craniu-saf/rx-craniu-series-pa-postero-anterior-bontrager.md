@@ -1,28 +1,28 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. Fig. 11.116 PA Craniu - Ortostatism și Decubit
-  ventral (inset). Crista galli sinusuri maxilare posterior clinoid Frontal bone stânci
-  temporale (piramide pietroase) oblic orbital line anterior clinoid Fig. 11.118 PA
-  Craniu. Fig. 11.117 PA Craniu.
+breathing: Apnee pe durata expunerii. Fig. 11.116 PA craniu - ortostatism și decubit
+  ventral (detaliu). Crista galli sinusuri maxilare procese clinoide posterioare os
+  frontal stânci temporale (piramide pietroase) linie orbitală oblică proces clinoid
+  anterior Fig. 11.118 PA craniu. Fig. 11.117 PA craniu.
 category: craniu-saf
-centering: este perpendicular pe receptorul de imagine (paralel la linie orbitomeatală
-  (LOM)) și este centrat pe exit la glabelă (Fig. 11.116).
+centering: Este perpendicular pe receptorul de imagine (paralel cu linia orbitomeatală
+  (LOM)) și este centrat la ieșire la nivelul glabelei (Fig. 11.116).
 clinical_indications:
-- Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes,
-  și Paget disease. This incidență este intended la evidențiază frontal bone cu minimal
-  distortion.
+- 'Craniu: suspiciune de fractură (deplasare medială și laterală), procese neoplazice
+  și boala Paget. Această incidență este destinată evidențierii osului frontal cu
+  distorsiune minimă.'
 images:
-- caption: Fig. 11.116 PA Craniu -
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.116 PA skull
-    -)
+- caption: Fig. 11.116 PA craniu -
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.116 PA
+    craniu -)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_1.jpeg
-- caption: Fig. 11.118 PA Craniu.
+- caption: Fig. 11.118 PA craniu.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.118
-    PA skull.)
+    PA craniu.)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_2.jpeg
-- caption: Fig. 11.117 PA Craniu.
+- caption: Fig. 11.117 PA craniu.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.117
-    PA skull.)
+    PA craniu.)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -31,14 +31,15 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din
-  plastic) de la pacient’s cap și neck. expunere este taken cu pacient în Ortostatism
-  sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead
-  against table/imaging surface. Flex neck, aligning linie orbitomeatală (LOM) perpendicular
-  pe receptorul de imagine. Align MsP perpendicular la linia mediană mesei/imaging
-  device la prevent cap rotație sau tilt (conduct auditiv extern (CAE) same distance
-  de la table/ imaging device surface). Se centrează receptorul de imagine pe raza
-  centrală.'
+position: 'Pacient: se îndepărtează toate obiectele radioopace (metalice sau din plastic)
+  de la nivelul capului și gâtului pacientului. Expunerea se efectuează cu pacientul
+  în ortostatism sau în decubit ventral. Regiune anatomică: pacientul își sprijină
+  nasul și fruntea pe suprafața mesei/dispozitivului de imagistică. Se flectează gâtul,
+  aliniind linia orbitomeatală (LOM) perpendicular pe receptorul de imagine. Se aliniază
+  MSP perpendicular pe linia mediană a mesei/dispozitivului de imagistică pentru a
+  preveni rotația sau înclinarea capului (conductul auditiv extern (CAE) la aceeași
+  distanță față de suprafața mesei/dispozitivului de imagistică). Se centrează receptorul
+  de imagine pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,25 +47,26 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Frontal bone, crista galli, intern auditory canals, frontal și anterior sinusuri
-  etmoidale, stânci temporale (piramide pietroase), greater și lesser wings de sphenoid,
-  și dorsum sellae sunt evidențiat (Figs. 11.117 și 11.118). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evident, ca indicated prin equal distance bilaterally de la lateral orbital
-  margin la lateral cortex de Craniu (side rotit spre receptorul de imagine will appear
-  wider).'
-- Petrous portion de temporal bone fills Orbite cu stânci temporale (piramide pietroase)
-  la nivelul supraorbital margin.
-- posterior și anterior clinoid processes sunt visualized just superior la sinusuri
+- 'Osul frontal, crista galli, conductele auditive interne, sinusurile frontale și
+  etmoidale anterioare, stâncile temporale (piramidele pietroase), aripile mare și
+  mică ale sfenoidului și dorsum sellae sunt evidențiate (Fig. 11.117 și 11.118).
+  Poziție:'
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  sunt evidente, după cum indică distanța egală bilateral de la marginea orbitală
+  laterală la cortexul lateral al craniului (partea rotită spre receptorul de imagine
+  va apărea mai largă).'
+- Porțiunea pietroasă a osului temporal umple orbitele, cu stâncile temporale (piramidele
+  pietroase) la nivelul marginii supraorbitale.
+- Procesele clinoide posterioare și anterioare sunt vizualizate imediat superior sinusurilor
   etmoidale.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal
-  bone și surrounding bony structures.
-- net bony margins indicate fără mișcare. Craniu SERIES ROUTINE
-- AP axial (Incidență AP Axială (Metoda Towne))
-- lateral
-- PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la
-  30°
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru
+  vizualizarea osului frontal și a structurilor osoase înconjurătoare.
+- Marginile osoase nete indică absența mișcării. Craniu SERIE DE RUTINĂ
+- AP axială (incidență AP axială (metoda Towne))
+- laterală
+- PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25°
+  la 30°
 - PA
 sid_dff: 100 cm
 slug: rx-craniu-series-pa-postero-anterior-bontrager
@@ -72,16 +74,16 @@ sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 440
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Craniu SERIES PA (Postero-Anterior)
+title: Rx Craniu SERIE PA (postero-anterioară)
 ---
-# Rx Craniu SERIES PA (Postero-Anterior)
+# Rx Craniu SERIE PA (postero-anterioară)
 
 
 <div class="rx-meta-bar">
@@ -100,7 +102,7 @@ title: Rx Craniu SERIES PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes, și Paget disease. This incidență este intended la evidențiază frontal bone cu minimal distortion.
+        - Craniu: suspiciune de fractură (deplasare medială și laterală), procese neoplazice și boala Paget. Această incidență este destinată evidențierii osului frontal cu distorsiune minimă.
 
     === "Ghid Național IRIS"
 
@@ -114,10 +116,10 @@ title: Rx Craniu SERIES PA (Postero-Anterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radio-opace (metalice sau din plastic) de la pacient’s cap și neck. expunere este taken cu pacient în Ortostatism sau Decubit ventral poziție.; Regiune anatomică: Rest pacient’s nose și forehead against table/imaging surface. Flex neck, aligning linie orbitomeatală (LOM) perpendicular pe receptorul de imagine. Align MsP perpendicular la linia mediană mesei/imaging device la prevent cap rotație sau tilt (conduct auditiv extern (CAE) same distance de la table/ imaging device surface). Se centrează receptorul de imagine pe raza centrală.
-    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine (paralel la linie orbitomeatală (LOM)) și este centrat pe exit la glabelă (Fig. 11.116).
+    - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radioopace (metalice sau din plastic) de la nivelul capului și gâtului pacientului. Expunerea se efectuează cu pacientul în ortostatism sau în decubit ventral. Regiune anatomică: pacientul își sprijină nasul și fruntea pe suprafața mesei/dispozitivului de imagistică. Se flectează gâtul, aliniind linia orbitomeatală (LOM) perpendicular pe receptorul de imagine. Se aliniază MSP perpendicular pe linia mediană a mesei/dispozitivului de imagistică pentru a preveni rotația sau înclinarea capului (conductul auditiv extern (CAE) la aceeași distanță față de suprafața mesei/dispozitivului de imagistică). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Este perpendicular pe receptorul de imagine (paralel cu linia orbitomeatală (LOM)) și este centrat la ieșire la nivelul glabelei (Fig. 11.116).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.116 PA Craniu - Ortostatism și Decubit ventral (inset). Crista galli sinusuri maxilare posterior clinoid Frontal bone stânci temporale (piramide pietroase) oblic orbital line anterior clinoid Fig. 11.118 PA Craniu. Fig. 11.117 PA Craniu.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.116 PA craniu - ortostatism și decubit ventral (detaliu). Crista galli sinusuri maxilare procese clinoide posterioare os frontal stânci temporale (piramide pietroase) linie orbitală oblică proces clinoid anterior Fig. 11.118 PA craniu. Fig. 11.117 PA craniu.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -130,24 +132,24 @@ title: Rx Craniu SERIES PA (Postero-Anterior)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Frontal bone, crista galli, intern auditory canals, frontal și anterior sinusuri etmoidale, stânci temporale (piramide pietroase), greater și lesser wings de sphenoid, și dorsum sellae sunt evidențiat (Figs. 11.117 și 11.118). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evident, ca indicated prin equal distance bilaterally de la lateral orbital margin la lateral cortex de Craniu (side rotit spre receptorul de imagine will appear wider).
-    - Petrous portion de temporal bone fills Orbite cu stânci temporale (piramide pietroase) la nivelul supraorbital margin.
-    - posterior și anterior clinoid processes sunt visualized just superior la sinusuri etmoidale.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize frontal bone și surrounding bony structures.
-    - net bony margins indicate fără mișcare. Craniu SERIES ROUTINE
-    - AP axial (Incidență AP Axială (Metoda Towne))
-    - lateral
-    - PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30°
+    - Osul frontal, crista galli, conductele auditive interne, sinusurile frontale și etmoidale anterioare, stâncile temporale (piramidele pietroase), aripile mare și mică ale sfenoidului și dorsum sellae sunt evidențiate (Fig. 11.117 și 11.118). Poziție:
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase sunt evidente, după cum indică distanța egală bilateral de la marginea orbitală laterală la cortexul lateral al craniului (partea rotită spre receptorul de imagine va apărea mai largă).
+    - Porțiunea pietroasă a osului temporal umple orbitele, cu stâncile temporale (piramidele pietroase) la nivelul marginii supraorbitale.
+    - Procesele clinoide posterioare și anterioare sunt vizualizate imediat superior sinusurilor etmoidale.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru vizualizarea osului frontal și a structurilor osoase înconjurătoare.
+    - Marginile osoase nete indică absența mișcării. Craniu SERIE DE RUTINĂ
+    - AP axială (incidență AP axială (metoda Towne))
+    - laterală
+    - PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25° la 30°
     - PA
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -168,25 +170,25 @@ title: Rx Craniu SERIES PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.116 PA Craniu -](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 11.116 PA craniu -](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.116 PA Craniu -</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.116 PA skull -)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.118 PA Craniu.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.118 PA Craniu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.118 PA skull.)</span></figcaption>
+<figcaption><strong>Fig. 11.116 PA craniu -</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.116 PA craniu -)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.117 PA Craniu.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_3.jpeg)
+![Fig. 11.118 PA craniu.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.117 PA Craniu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.117 PA skull.)</span></figcaption>
+<figcaption><strong>Fig. 11.118 PA craniu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.118 PA craniu.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.117 PA craniu.](../../assets/images/protocols/bontrager/rx-craniu-series-pa-postero-anterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.117 PA craniu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.117 PA craniu.)</span></figcaption>
 
 </figure>
 

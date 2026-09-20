@@ -3,18 +3,19 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• se orientează raza centrală centrală horizontally spre mid-cervical
-  region (C4).
+centering: '• se orientează raza centrală orizontal spre regiunea cervicală mijlocie
+  (C4).
 
 
-  • fascicul este înclinat 15 grade cranially de la orizontal și raza centrală este
-  orientat la middle de gâtul pe side nearest tubul.'
+  • fasciculul este înclinat cu 15 grade cranial față de orizontală, iar raza centrală
+  este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub.'
 clinical_indications:
-- If this și swimmers’ incidențe sunt nu successful, pacientul poate require more
-  complex imaging (e.g. CT).
+- Dacă aceasta și incidențele înotătorului nu sunt reușite, pacientul poate necesita
+  o investigație imagistică mai complexă (de exemplu, CT).
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-profil-lateral-flexion-and-extension-p190-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -42,55 +43,58 @@ images:
   url: assets/images/protocols/clark/rx-coloana-cervicala-profil-lateral-flexion-and-extension-p190-clark/fig_7.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• large OFD will increase geometric unsharpness. This este overcome prin increasing
-  focal film radiologic distance la 150 cm.
+notes: '• un OFD mare va crește neclaritatea geometrică. Aceasta se poate compensa
+  prin creșterea distanței focar–film radiologic la 150 cm.
 
-  • air gap între neck și film radiologic eliminates need la employ secondary radiation
-  grilă la attenuate scatter.
+  • spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării
+  unei grile de radiație secundară pentru atenuarea radiației împrăștiate.
 
-  • Refer la local protocols pentru removal de imobilizare collars when undertaking
-  these examinations.
+  • Consultați protocoalele locale pentru îndepărtarea gulerelor de imobilizare la
+  efectuarea acestor examinări.
 
-  Whiplash injury (coloană vertebrală în neutral poziție) Flexion Extension
+  Leziune de tip whiplash (coloana vertebrală în poziție neutră) Flexie Extensie
 
 
-  • Oblică Anterioară incidențe sunt usually undertaken pe mobile pacienți. poziție
-  used este exactly opposite la Oblică Posterioară incidență, i.e. pacientul faces
-  caseta și a 15-grade caudal angulation este used. Use de this incidență will reduce
-  radiation dose la thyroid.
+  • incidențele oblice anterioare se efectuează de obicei la pacienți mobili. Poziția
+  utilizată este exact opusă incidenței oblice posterioare, adică pacientul este orientat
+  cu fața spre casetă și se utilizează o angulație caudală de 15 grade. Utilizarea
+  acestei incidențe reduce doza de radiații la nivelul tiroidei.
 
-  • foraminae evidențiat pe Oblică Posterioară sunt those nearest X-ray tube.
+  • foramenele evidențiate pe incidența oblică posterioară sunt cele mai apropiate
+  de tubul cu raze X.
 
   176'
-position: '• pacientul este poziționat ca pentru Profil (lateral) basic sau Profil
-  (lateral) Decubit dorsal incidențe; however, Ortostatism positioning este more convenient.
-  pacientul este asked la se flectează neck și la tuck bărbia în spre toracele ca
-  far ca este possible.
+position: '• pacientul este poziționat ca pentru incidențele de profil de bază sau
+  de profil în decubit dorsal; totuși, poziționarea în ortostatism este mai convenabilă.
+  Pacientului i se cere să flecteze gâtul și să își ducă bărbia spre torace cât mai
+  mult posibil.
 
-  • pentru second incidență, pacientul este asked la se extinde neck prin raising
-  bărbia ca far ca possible.
+  • pentru a doua incidență, pacientului i se cere să extindă gâtul, ridicând bărbia
+  cât mai mult posibil.
 
-  • imobilizare poate fie facilitated prin asking pacientul la hold pe la solid object,
-  such ca back de chair.
+  • imobilizarea poate fi facilitată cerându-i pacientului să se țină de un obiect
+  solid, cum ar fi spătarul unui scaun.
 
-  • caseta este centred la mid-cervical region și poate have la fie plasat transversely
-  pentru Profil (lateral) în flexion, depending pe grade de movement și caseta size
-  used.
+  • caseta este centrată la nivelul regiunii cervicale mijlocii și poate fi plasată
+  transversal pentru profilul în flexie, în funcție de gradul de mișcare și de dimensiunea
+  casetei utilizate.
 
-  • If imaged Decubit dorsal, gâtul poate fie flectat prin placing pads under gâtul.
-  Extension de gâtul poate fie achieved prin placing pillows under pacientul’s umeri.
+  • dacă imaginea este efectuată în decubit dorsal, gâtul poate fi flectat prin plasarea
+  unor suporturi sub gât. Extensia gâtului poate fi obținută prin plasarea unor perne
+  sub umerii pacientului.
 
 
-  • pacientul stă în ortostatism sau sits cu posterior aspect de their cap și umeri
-  pe / sprijinit de stativ vertical Bucky (sau casetă if fără grilă este preferred).
+  • pacientul stă în ortostatism sau așezat, cu partea posterioară a capului și umerii
+  pe / sprijiniți de stativul vertical Bucky (sau pe casetă, dacă se preferă fără
+  grilă).
 
-  • planul mediosagital de trunk este rotit through 45 grade pentru drept și stâng
-  sides în turn.
+  • planul mediosagital al trunchiului este rotit cu 45 grade pentru partea dreaptă
+  și partea stângă, pe rând.
 
-  • capul poate fie rotit astfel încât plan mediosagital de capul este paralel cu
-  casetă, thus avoiding superimposition de Mandibulă pe vertebra.
+  • capul poate fi rotit astfel încât planul mediosagital al capului să fie paralel
+  cu caseta, evitând astfel suprapunerea mandibulei peste vertebre.
 
-  • caseta este centred la prominence de cartilaj tiroid (mărul lui Adam).'
+  • caseta este centrată la proeminența cartilajului tiroid (mărul lui Adam).'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -99,27 +103,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- final imagine trebuie să include toate cervical vertebra, including atlanto-occipital
-  articulații, procese spinoase și soft tissues de gâtul.
-- intervertebral foramina trebuie să fie clar evidențiat(e).
-- C1 la T1 trebuie să fie included within imagine.
-- Mandibulă și occipital bone trebuie să fie clear de vertebre.
+- Imaginea finală trebuie să includă toate vertebrele cervicale, inclusiv articulațiile
+  atlanto-occipitale, procesele spinoase și părțile moi ale gâtului.
+- Foramenele intervertebrale trebuie să fie clar evidențiate.
+- C1 până la T1 trebuie să fie incluse în imagine.
+- Mandibula și osul occipital trebuie să fie libere de suprapunerea vertebrelor.
 sid_dff: 100 cm
 slug: rx-coloana-cervicala-profil-lateral-flexion-and-extension-p190-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 190
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=190
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Cervicală Profil (Lateral) - flexion and extension
+  mas: Conform AEC / grosimii anatomice
+title: Rx Coloană Cervicală Profil (Lateral) - flexie și extensie
 ---
-# Rx Coloană Cervicală Profil (Lateral) - flexion and extension
+# Rx Coloană Cervicală Profil (Lateral) - flexie și extensie
 
 
 <div class="rx-meta-bar">
@@ -138,7 +142,7 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexion and extension
 
     === "Indicații Clinice"
 
-        - If this și swimmers’ incidențe sunt nu successful, pacientul poate require more complex imaging (e.g. CT).
+        - Dacă aceasta și incidențele înotătorului nu sunt reușite, pacientul poate necesita o investigație imagistică mai complexă (de exemplu, CT).
 
     === "Ghid Național IRIS"
 
@@ -152,19 +156,19 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexion and extension
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat ca pentru Profil (lateral) basic sau Profil (lateral) Decubit dorsal incidențe; however, Ortostatism positioning este more convenient. pacientul este asked la se flectează neck și la tuck bărbia în spre toracele ca far ca este possible.
-• pentru second incidență, pacientul este asked la se extinde neck prin raising bărbia ca far ca possible.
-• imobilizare poate fie facilitated prin asking pacientul la hold pe la solid object, such ca back de chair.
-• caseta este centred la mid-cervical region și poate have la fie plasat transversely pentru Profil (lateral) în flexion, depending pe grade de movement și caseta size used.
-• If imaged Decubit dorsal, gâtul poate fie flectat prin placing pads under gâtul. Extension de gâtul poate fie achieved prin placing pillows under pacientul’s umeri.
+    - **Poziție Pacient:** • pacientul este poziționat ca pentru incidențele de profil de bază sau de profil în decubit dorsal; totuși, poziționarea în ortostatism este mai convenabilă. Pacientului i se cere să flecteze gâtul și să își ducă bărbia spre torace cât mai mult posibil.
+• pentru a doua incidență, pacientului i se cere să extindă gâtul, ridicând bărbia cât mai mult posibil.
+• imobilizarea poate fi facilitată cerându-i pacientului să se țină de un obiect solid, cum ar fi spătarul unui scaun.
+• caseta este centrată la nivelul regiunii cervicale mijlocii și poate fi plasată transversal pentru profilul în flexie, în funcție de gradul de mișcare și de dimensiunea casetei utilizate.
+• dacă imaginea este efectuată în decubit dorsal, gâtul poate fi flectat prin plasarea unor suporturi sub gât. Extensia gâtului poate fi obținută prin plasarea unor perne sub umerii pacientului.
 
-• pacientul stă în ortostatism sau sits cu posterior aspect de their cap și umeri pe / sprijinit de stativ vertical Bucky (sau casetă if fără grilă este preferred).
-• planul mediosagital de trunk este rotit through 45 grade pentru drept și stâng sides în turn.
-• capul poate fie rotit astfel încât plan mediosagital de capul este paralel cu casetă, thus avoiding superimposition de Mandibulă pe vertebra.
-• caseta este centred la prominence de cartilaj tiroid (mărul lui Adam).
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală horizontally spre mid-cervical region (C4).
+• pacientul stă în ortostatism sau așezat, cu partea posterioară a capului și umerii pe / sprijiniți de stativul vertical Bucky (sau pe casetă, dacă se preferă fără grilă).
+• planul mediosagital al trunchiului este rotit cu 45 grade pentru partea dreaptă și partea stângă, pe rând.
+• capul poate fi rotit astfel încât planul mediosagital al capului să fie paralel cu caseta, evitând astfel suprapunerea mandibulei peste vertebre.
+• caseta este centrată la proeminența cartilajului tiroid (mărul lui Adam).
+    - **Punct de Centrare Fascicul:** • se orientează raza centrală orizontal spre regiunea cervicală mijlocie (C4).
 
-• fascicul este înclinat 15 grade cranially de la orizontal și raza centrală este orientat la middle de gâtul pe side nearest tubul.
+• fasciculul este înclinat cu 15 grade cranial față de orizontală, iar raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -175,22 +179,22 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexion and extension
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - final imagine trebuie să include toate cervical vertebra, including atlanto-occipital articulații, procese spinoase și soft tissues de gâtul.
-    - intervertebral foramina trebuie să fie clar evidențiat(e).
-    - C1 la T1 trebuie să fie included within imagine.
-    - Mandibulă și occipital bone trebuie să fie clear de vertebre.
+    - Imaginea finală trebuie să includă toate vertebrele cervicale, inclusiv articulațiile atlanto-occipitale, procesele spinoase și părțile moi ale gâtului.
+    - Foramenele intervertebrale trebuie să fie clar evidențiate.
+    - C1 până la T1 trebuie să fie incluse în imagine.
+    - Mandibula și osul occipital trebuie să fie libere de suprapunerea vertebrelor.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -203,13 +207,13 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexion and extension
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • large OFD will increase geometric unsharpness. This este overcome prin increasing focal film radiologic distance la 150 cm.
-• air gap între neck și film radiologic eliminates need la employ secondary radiation grilă la attenuate scatter.
-• Refer la local protocols pentru removal de imobilizare collars when undertaking these examinations.
-Whiplash injury (coloană vertebrală în neutral poziție) Flexion Extension
+    • un OFD mare va crește neclaritatea geometrică. Aceasta se poate compensa prin creșterea distanței focar–film radiologic la 150 cm.
+• spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile de radiație secundară pentru atenuarea radiației împrăștiate.
+• Consultați protocoalele locale pentru îndepărtarea gulerelor de imobilizare la efectuarea acestor examinări.
+Leziune de tip whiplash (coloana vertebrală în poziție neutră) Flexie Extensie
 
-• Oblică Anterioară incidențe sunt usually undertaken pe mobile pacienți. poziție used este exactly opposite la Oblică Posterioară incidență, i.e. pacientul faces caseta și a 15-grade caudal angulation este used. Use de this incidență will reduce radiation dose la thyroid.
-• foraminae evidențiat pe Oblică Posterioară sunt those nearest X-ray tube.
+• incidențele oblice anterioare se efectuează de obicei la pacienți mobili. Poziția utilizată este exact opusă incidenței oblice posterioare, adică pacientul este orientat cu fața spre casetă și se utilizează o angulație caudală de 15 grade. Utilizarea acestei incidențe reduce doza de radiații la nivelul tiroidei.
+• foramenele evidențiate pe incidența oblică posterioară sunt cele mai apropiate de tubul cu raze X.
 176
 
 
@@ -221,7 +225,7 @@ Whiplash injury (coloană vertebrală în neutral poziție) Flexion Extension
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-cervicala-profil-lateral-flexion-and-extension-p190-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -286,4 +290,4 @@ Whiplash injury (coloană vertebrală în neutral poziție) Flexion Extension
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 190](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=190)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 190](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

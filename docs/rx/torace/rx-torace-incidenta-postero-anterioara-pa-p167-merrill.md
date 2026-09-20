@@ -13,25 +13,25 @@ centering: perpendicular pe centrul receptorului de imagine. raza centrală treb
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 168, imaginea 1
+- caption: Merrill — pagina 168, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p168_fig1.png
-- caption: Merrill — pagina PDF 169, imaginea 2
+- caption: Merrill — pagina 169, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p169_fig2.png
-- caption: Merrill — pagina PDF 170, imaginea 3
+- caption: Merrill — pagina 170, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p170_fig3.png
-- caption: Merrill — pagina PDF 171, imaginea 4
+- caption: Merrill — pagina 171, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p171_fig4.png
-- caption: Merrill — pagina PDF 172, imaginea 5
+- caption: Merrill — pagina 172, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p172_fig5.png
-- caption: Merrill — pagina PDF 173, imaginea 6
+- caption: Merrill — pagina 173, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p173_fig6.png
-- caption: Merrill — pagina PDF 174, imaginea 7
+- caption: Merrill — pagina 174, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p174_fig7.png
 last_updated: '2026-09-16'
@@ -226,9 +226,9 @@ source_sections:
 
     × 43 cm) longitudinal, sau transversal pentru hypersthenic pacienți.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     167–174'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=167
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 17 inches (43 cm) longitudinal și
@@ -326,57 +326,57 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 168, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p168_fig1.png)
+![Merrill — pagina 168, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p168_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 168, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 169, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p169_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 169, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 168, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 170, imaginea 3](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p170_fig3.png)
+![Merrill — pagina 169, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p169_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 170, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 171, imaginea 4](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p171_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 171, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 169, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 172, imaginea 5](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p172_fig5.png)
+![Merrill — pagina 170, imaginea 3](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p170_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 172, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 173, imaginea 6](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p173_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 173, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 170, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 174, imaginea 7](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p174_fig7.png)
+![Merrill — pagina 171, imaginea 4](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p171_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 174, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 171, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 172, imaginea 5](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p172_fig5.png)
+
+<figcaption><strong>Merrill — pagina 172, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 173, imaginea 6](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p173_fig6.png)
+
+<figcaption><strong>Merrill — pagina 173, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 174, imaginea 7](../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p174_fig7.png)
+
+<figcaption><strong>Merrill — pagina 174, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -393,7 +393,7 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 167–174](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=167)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 167–174](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

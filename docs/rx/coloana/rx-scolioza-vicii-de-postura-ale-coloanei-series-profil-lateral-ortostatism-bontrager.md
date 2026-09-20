@@ -1,19 +1,19 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Apnee pe durata expunerii pe expiration. scolioză / vicii de postură ale
-  coloanei SERIES ROUTINE PA Ortostatism și/sau Decubit Ortostatism lateral Fig. 9.49
-  Ortostatism lateral. Clear Pb lateral thoracic compensating filter în place. (de
-  la Bachmann KR: Spinal deformities în adolescent athlete. Clin Sports Med 40[3]:541–554,
-  2021.)'
+breathing: 'Apnee pe durata expunerii, în expir. Scolioză / vicii de postură ale coloanei
+  SERIE DE RUTINĂ PA Ortostatism și/sau decubit Ortostatism lateral Fig. 9.49 Ortostatism
+  lateral. Filtru compensator lateral toracic clar, din Pb, montat. (din Bachmann
+  KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554, 2021.)'
 category: coloana
-centering: perpendicular pe receptorul de imagine. Se centrează receptorul de imagine
+centering: Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine
   pe raza centrală.
 clinical_indications:
-- Spondylolisthesis, grade de kyphosis, sau lordosis
+- Spondilolistezis, gradul cifozei sau lordozei
 images:
-- caption: Fig. 9.49 Ortostatism lateral. Clear Pb lateral thoracic compensating filter
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 9.49 în ortostatism
-    lateral. Clear Pb lateral thoracic compensating filter)
+- caption: Fig. 9.49 Ortostatism lateral. Filtru compensatoriu toracic lateral Pb
+    detașabil
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.49 în ortostatism
+    lateral. Filtru compensatoriu toracic lateral Pb detașabil)
   url: assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-profil-lateral-ortostatism-bontrager/fig_1.jpeg
 - caption: Fig. 9.50 Ortostatism drept lateral.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.50
@@ -26,15 +26,16 @@ images:
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Ortostatism Incidență de Profil (lateral) Place pacient în Ortostatism
-  Incidență de Profil (lateral) cu brațe ridicat, sau, if unsteady, grasping support
-  în front. Place convex side de curve pe / sprijinit de receptorul de imagine.; Regiune
-  anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau
-  receptorul de imagine (Fig. 9.50). Se verifică absența rotației: claviculele sunt
-  riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis))
-  exists. Place lower margin de receptorul de imagine minimum de 1 la 2 inches (2.5
-  la 5 cm) below level de creasta iliacă (corespunzător L4-L5)s (centering determined
-  prin recommended field size și pacient size).'
+position: 'Pacient: Ortostatism, incidență de profil (lateral). Se plasează pacientul
+  în ortostatism, în incidență de profil (lateral), cu brațele ridicate sau, dacă
+  este instabil, apucând un suport în față. Se plasează partea convexă a curbei pe/lângă
+  receptorul de imagine.; Regiune anatomică: Se aliniază planul mediocoronal cu raza
+  centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică
+  absența rotației: claviculele sunt riguros echidistante față de linia proceselor
+  spinoase ale toracelui sau bazinului, dacă există. Se plasează marginea inferioară
+  a receptorului de imagine la minimum 1 la 2 inches (2.5 la 5 cm) sub nivelul crestei
+  iliace (corespunzător L4-L5)s (centrarea determinată prin dimensiunea recomandată
+  a câmpului și dimensiunea pacientului).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,17 +43,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Thoracic și coloană lombară including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă
-  (corespunzător L4-L5)s (Figs. 9.49 și 9.51). poziție
-- Thoracic și coloană lombară aliniat paralel cu receptorul de imagine (RI), ca indicated
-  prin open intervertebral foramina și open intervertebral spații articulare.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  indicated prin superimposed greater sciatic notches și posterior vertebral corpuri.
-  However, scolioză / vicii de postură ale coloanei este often accompanied prin twisting
-  sau rotație de involved vertebre.'
-- Collimation field size la aria de interes diagnostic. expunere
-- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
-  și trabecular markings de thoracic și coloană lombară.
+- Coloana toracală și lombară, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta iliacă
+  (corespunzătoare L4-L5) (Fig. 9.49 și 9.51). poziție
+- Coloana toracală și lombară aliniată paralel cu receptorul de imagine (RI), după
+  cum indică foramenele intervertebrale deschise și spațiile articulare intervertebrale
+  deschise.
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase,
+  indicată prin incizurile sciatice mari suprapuse și corpurile vertebrale posterioare.
+  Totuși, scolioza / viciile de postură ale coloanei sunt adesea însoțite de răsucirea
+  sau rotația vertebrelor implicate.'
+- Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+- Expunere și contrast optime la receptorul de imagine. Demonstrarea clară a marginilor
+  osoase și a desenului trabecular al coloanei toracale și lombare.
 - fără mișcare. Fig. 9.50 Ortostatism drept lateral. Fig. 9.51 Ortostatism stâng lateral.
 sid_dff: 150 cm
 slug: rx-scolioza-vicii-de-postura-ale-coloanei-series-profil-lateral-ortostatism-bontrager
@@ -60,17 +62,18 @@ sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 367
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe two sides la anatomy de interest (four sides
-    este possible).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Se colimează pe două laturi până la anatomia de
+    interes (este posibil pe patru laturi).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 85-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Ortostatism)
+title: Rx scolioză / vicii de postură ale coloanei — serie de incidențe de profil
+  (lateral), în ortostatism
 ---
-# Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Ortostatism)
+# Rx scolioză / vicii de postură ale coloanei — serie de incidențe de profil (lateral), în ortostatism
 
 
 <div class="rx-meta-bar">
@@ -89,7 +92,7 @@ title: Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Or
 
     === "Indicații Clinice"
 
-        - Spondylolisthesis, grade de kyphosis, sau lordosis
+        - Spondilolistezis, gradul cifozei sau lordozei
 
     === "Ghid Național IRIS"
 
@@ -103,10 +106,10 @@ title: Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Or
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism Incidență de Profil (lateral) Place pacient în Ortostatism Incidență de Profil (lateral) cu brațe ridicat, sau, if unsteady, grasping support în front. Place convex side de curve pe / sprijinit de receptorul de imagine.; Regiune anatomică: Align plan mediocoronal la raza centrală și linia mediană mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase thorax sau Bazin (bazin (pelvis)) exists. Place lower margin de receptorul de imagine minimum de 1 la 2 inches (2.5 la 5 cm) below level de creasta iliacă (corespunzător L4-L5)s (centering determined prin recommended field size și pacient size).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: Ortostatism, incidență de profil (lateral). Se plasează pacientul în ortostatism, în incidență de profil (lateral), cu brațele ridicate sau, dacă este instabil, apucând un suport în față. Se plasează partea convexă a curbei pe/lângă receptorul de imagine.; Regiune anatomică: Se aliniază planul mediocoronal cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă există. Se plasează marginea inferioară a receptorului de imagine la minimum 1 la 2 inches (2.5 la 5 cm) sub nivelul crestei iliace (corespunzător L4-L5)s (centrarea determinată prin dimensiunea recomandată a câmpului și dimensiunea pacientului).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii pe expiration. scolioză / vicii de postură ale coloanei SERIES ROUTINE PA Ortostatism și/sau Decubit Ortostatism lateral Fig. 9.49 Ortostatism lateral. Clear Pb lateral thoracic compensating filter în place. (de la Bachmann KR: Spinal deformities în adolescent athlete. Clin Sports Med 40[3]:541–554, 2021.)
+    - **Comandă Respiratorie:** Apnee pe durata expunerii, în expir. Scolioză / vicii de postură ale coloanei SERIE DE RUTINĂ PA Ortostatism și/sau decubit Ortostatism lateral Fig. 9.49 Ortostatism lateral. Filtru compensator lateral toracic clar, din Pb, montat. (din Bachmann KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554, 2021.)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -119,19 +122,19 @@ title: Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Or
     | **Distanță Focar-Film (DFF / SID)** | 150 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe two sides la anatomy de interest (four sides este possible). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Se colimează pe două laturi până la anatomia de interes (este posibil pe patru laturi). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Thoracic și coloană lombară including 1 la 2 inches (2.5 la 5 cm) de creasta iliacă (corespunzător L4-L5)s (Figs. 9.49 și 9.51). poziție
-    - Thoracic și coloană lombară aliniat paralel cu receptorul de imagine (RI), ca indicated prin open intervertebral foramina și open intervertebral spații articulare.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase indicated prin superimposed greater sciatic notches și posterior vertebral corpuri. However, scolioză / vicii de postură ale coloanei este often accompanied prin twisting sau rotație de involved vertebre.
-    - Collimation field size la aria de interes diagnostic. expunere
-    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de thoracic și coloană lombară.
+    - Coloana toracală și lombară, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzătoare L4-L5) (Fig. 9.49 și 9.51). poziție
+    - Coloana toracală și lombară aliniată paralel cu receptorul de imagine (RI), după cum indică foramenele intervertebrale deschise și spațiile articulare intervertebrale deschise.
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată prin incizurile sciatice mari suprapuse și corpurile vertebrale posterioare. Totuși, scolioza / viciile de postură ale coloanei sunt adesea însoțite de răsucirea sau rotația vertebrelor implicate.
+    - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
+    - Expunere și contrast optime la receptorul de imagine. Demonstrarea clară a marginilor osoase și a desenului trabecular al coloanei toracale și lombare.
     - fără mișcare. Fig. 9.50 Ortostatism drept lateral. Fig. 9.51 Ortostatism stâng lateral.
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -152,9 +155,9 @@ title: Rx scolioză / vicii de postură ale coloanei SERIES Profil (Lateral) (Or
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 9.49 Ortostatism lateral. Clear Pb lateral thoracic compensating filter](../../assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-profil-lateral-ortostatism-bontrager/fig_1.jpeg)
+![Fig. 9.49 Ortostatism lateral. Filtru compensatoriu toracic lateral Pb detașabil](../../assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-profil-lateral-ortostatism-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 9.49 Ortostatism lateral. Clear Pb lateral thoracic compensating filter</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 9.49 în ortostatism lateral. Clear Pb lateral thoracic compensating filter)</span></figcaption>
+<figcaption><strong>Fig. 9.49 Ortostatism lateral. Filtru compensatoriu toracic lateral Pb detașabil</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 9.49 în ortostatism lateral. Filtru compensatoriu toracic lateral Pb detașabil)</span></figcaption>
 
 </figure>
 

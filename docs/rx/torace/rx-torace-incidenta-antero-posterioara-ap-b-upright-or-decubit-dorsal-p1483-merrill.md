@@ -1,52 +1,55 @@
 ---
 author: Referință Merrill
-breathing: Inspiration unless otherwise requested. If pacientul este receiving respiratory
-  assistance, carefully watch pacientul’s Torace la determine inspiratory phase pentru
-  expunere.
+breathing: Inspir, dacă nu se solicită altfel. Dacă pacientul beneficiază de asistență
+  respiratorie, se urmărește atent toracele pacientului pentru a identifica faza inspiratorie
+  în vederea expunerii.
 category: torace
-centering: perpendicular pe axa longitudinală de Stern și center de receptorul de
-  imagine; raza centrală trebuie să enter about 3 inches (7.6 cm) below incizură jugulară
-  (furculiță sternală) la nivelul T7.
+centering: Perpendicular pe axa longitudinală a sternului și centrat pe receptorul
+  de imagine; raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub
+  incizura jugulară (furculița sternală), la nivelul T7.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1484, imaginea 1
+- caption: Merrill — pagina 1484, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1484_fig1.png
-- caption: Merrill — pagina PDF 1485, imaginea 2
+- caption: Merrill — pagina 1485, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1485_fig2.png
 last_updated: '2026-09-16'
 modality: rx
-notes: la ensure corect angle de la x-ray tube la receptorul de imagine, radiographer
-  poate double-check shadow de umerii de la field light projected onto receptorul
-  de imagine. If shadow de umerii este thrown far above upper edge de receptorul de
-  imagine, angle de tubul trebuie să fie corrected.
-position: Depending pe condition de pacientul, incidență trebuie să fie performed
-  cu pacientul în ortostatism sau la greatest angle pacientul poate tolerate (if possible).
-  Use Decubit dorsal poziție pentru critically ill sau injured pacienți.; se centrează
-  plan mediosagital la receptorul de imagine. pentru include entire Torace, poziție
-  receptorul de imagine under pacientul cu top about 2 inches (5 cm) above relaxat
-  umeri. exact distance depends pe size de pacientul. When pacientul este Decubit
-  dorsal, umerii poate move la higher poziție relative la plămânii. Adjust accordingly.
-  Make sure that pacientul’s umeri sunt relaxat, then internally se rotește pacient’s
-  brațe la prevent scapular superimposition de câmpuri pulmonare if nu contraindicated.
-  Make sure that pacientul’s upper torso este nu rotit sau leaning spre one side (Fig.
-  20.10). se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine,
+  tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul
+  luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată
+  mult deasupra marginii superioare a receptorului de imagine, trebuie corectat unghiul
+  tubului.
+position: În funcție de starea pacientului, incidența trebuie efectuată cu pacientul
+  în ortostatism sau la cel mai mare unghi pe care îl poate tolera (dacă este posibil).
+  Se utilizează decubitul dorsal la pacienții în stare critică sau traumatizați. Se
+  centrează planul mediosagital pe receptorul de imagine. Pentru a include întregul
+  torace, se poziționează receptorul de imagine sub pacient, cu marginea superioară
+  la aproximativ 2 inci (5 cm) deasupra umerilor relaxați. Distanța exactă depinde
+  de dimensiunile pacientului. Când pacientul este în decubit dorsal, umerii se pot
+  deplasa într-o poziție mai înaltă față de plămâni. Se ajustează corespunzător. Se
+  verifică dacă umerii pacientului sunt relaxați, apoi se rotesc intern brațele pentru
+  a preveni suprapunerea scapulelor peste câmpurile pulmonare, dacă nu există contraindicații.
+  Se verifică dacă partea superioară a trunchiului pacientului nu este rotită sau
+  înclinată într-o parte (Fig. 20.10). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- Evidence de corect collimation
-- fără mișcare și well-defined (nu blurred) diaphragmatic domes și câmpuri pulmonare
-- câmpuri pulmonare în their entirety, including sinusuri costodiafragmatice
-- Pleural markings
-- Coaste (Grilaj Costal) și thoracic intervertebral disk spaces faintly vizibil through
-  heart shadow
-- Absența rotației anatomice (simetrie bilaterală perfectă) cu medial portion de clavicles
-  și lateral margine de Coaste (Grilaj Costal) echidistant față de coloană vertebrală
-- radiografie markeri ca appropriate (R sau L marker, și orice la indicate how pacientul
-  este poziționat; that este, Decubit dorsal, așezat în ortostatism, etc.).
+- 'Următoarele trebuie să fie clar vizualizate:'
+- Dovada unei colimări corecte
+- Absența mișcării și cupole diafragmatice și câmpuri pulmonare bine definite (neestompate)
+- Câmpurile pulmonare în întregime, inclusiv sinusurile costodiafragmatice
+- Desenul pleural
+- Coastele (grilajul costal) și spațiile discale intervertebrale toracice slab vizibile
+  prin umbra cordului
+- Absența rotației anatomice (simetrie bilaterală perfectă), cu porțiunile mediale
+  ale claviculelor și marginile laterale ale coastelor (grilajului costal) echidistante
+  față de coloana vertebrală
+- 'Markeri radiografici adecvați (marker R sau L și orice marker care indică poziția
+  pacientului: decubit dorsal, șezut cu trunchiul vertical etc.).'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill
 source_pages:
@@ -54,78 +57,74 @@ source_pages:
 - 1484
 - 1485
 source_sections:
-  anatomy: 'This incidență shows anatomy de thorax, including cordul, trachea, diaphragmatic
-    domes, și most importantly, entire câmpuri pulmonare
+  anatomy: Această incidență evidențiază anatomia toracelui, inclusiv cordul, traheea,
+    cupolele diafragmatice și, mai ales, câmpurile pulmonare în întregime (inclusiv
+    desenul vascular) (Fig. 20.11).
+  collimation: • Se reglează colimatorul la cel puțin 14 × 17 inci (35 × 43 cm), mai
+    puțin pentru pacienții de talie mică.
+  cr: • Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de
+    imagine; raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub
+    incizura jugulară (furculița sternală), la nivelul T7.
+  criteria: 'Următoarele trebuie să fie clar vizualizate:
 
-    (including vascular markings) (Fig. 20.11).'
-  collimation: • Adjust la least 14 × 17 inches (35 × 43 cm) pe collimator, less pentru
-    smaller pacienți.
-  cr: • perpendicular pe axa longitudinală de sternum și center de receptorul de imagine;
-    raza centrală trebuie să enter about 3 inches (7.6 cm) below incizură jugulară
-    (furculiță sternală) la nivelul T7.
-  criteria: 'following trebuie să fie clearly vizualizat:
+    • Colimare corectă vizibilă
 
-    • Evidence de corect collimation
+    • Absența mișcării și cupole diafragmatice și câmpuri pulmonare bine definite
+    (neestompate)
 
-    • fără mișcare și well-defined (nu blurred) diaphragmatic domes și câmpuri pulmonare
+    • Câmpurile pulmonare în întregime, inclusiv sinusurile costodiafragmatice
 
-    • câmpuri pulmonare în their entirety, including sinusuri costodiafragmatice
+    • Desenul pleural
 
-    • Pleural markings
+    • Coastele și spațiile discale intervertebrale toracice slab vizibile prin umbra
+    cordului
 
-    • coaste și thoracic intervertebral disk spaces faintly vizibil through heart
-    shadow
+    • Absența rotației anatomice (simetrie bilaterală perfectă), cu porțiunile mediale
+    ale claviculelor și marginile laterale ale coastelor echidistante față de coloana
+    vertebrală
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) cu medial portion
-    de clavicles și lateral margine de coaste echidistant față de coloană vertebrală
+    • Markeri radiografici adecvați (marker R sau L și orice marker care indică poziția
+    pacientului: decubit dorsal, șezut cu trunchiul vertical etc.).'
+  notes: Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine,
+    tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul
+    luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată
+    mult deasupra marginii superioare a receptorului de imagine, trebuie corectat
+    unghiul tubului.
+  part_pos: '• Se centrează planul mediosagital pe receptorul de imagine.
 
-    • radiografie markeri ca appropriate (R sau L marker, și orice la indicate how
-    pacientul este poziționat; that este, în decubit dorsal, așezat în ortostatism,
+    • Pentru a include întregul torace, se poziționează receptorul de imagine sub
+    pacient, cu marginea superioară la aproximativ 2 inci (5 cm) deasupra umerilor
+    relaxați. Distanța exactă depinde de dimensiunile pacientului. Când pacientul
+    este în decubit dorsal, umerii se pot deplasa într-o poziție mai înaltă față de
+    plămâni. Se ajustează corespunzător.
 
-    etc.).'
-  notes: 'la ensure corect angle de la x-ray tube la receptorul de imagine, radiographer
-    poate double-check shadow de umerii de la field light projected onto receptorul
-    de imagine. If shadow de umerii este thrown far above upper edge de receptorul
-    de imagine, angle de tubul trebuie să fie
+    • Se verifică dacă umerii pacientului sunt relaxați, apoi se rotesc intern brațele
+    pentru a preveni suprapunerea scapulelor peste câmpurile pulmonare, dacă nu există
+    contraindicații.
 
-    corrected.'
-  part_pos: '• se centrează plan mediosagital la receptorul de imagine.
+    • Se verifică dacă partea superioară a trunchiului pacientului nu este rotită
+    sau înclinată într-o parte (Fig. 20.10).
 
-    • pentru include entire chest, poziție receptorul de imagine under pacientul cu
-    top about 2 inches (5 cm) above relaxat umeri. exact
-
-    distance depends pe size de pacientul. When pacientul este în decubit dorsal,
-    umerii poate move la higher poziție relative la plămâni. Adjust accordingly.
-
-    • Make sure that pacientul’s umeri sunt relaxat, then internally se rotește pacient’s
-    brațe la prevent scapular superimposition de câmpuri pulmonare if nu contraindicated.
-
-    • Make sure that pacientul’s upper torso este nu rotit sau leaning spre one side
-    (Fig. 20.10).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: 'Depending pe condition de pacientul, incidență trebuie să fie performed
-    cu pacientul în ortostatism sau la greatest angle
-
-    pacientul poate tolerate (if possible). Use decubit dorsal pentru critically ill
-    sau injured pacienți.'
-  respiration: 'Inspiration unless otherwise requested. If pacientul este receiving
-    respiratory assistance, carefully watch pacientul’s chest
-
-    la determine inspiratory phase pentru expunere.'
-  tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) longitudinal
-    sau transversal, depending pe corp habitus.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: În funcție de starea pacientului, incidența trebuie efectuată cu pacientul
+    în ortostatism sau la cel mai mare unghi pe care îl poate tolera (dacă este posibil).
+    Se utilizează decubitul dorsal la pacienții în stare critică sau traumatizați.
+  respiration: Inspir, dacă nu se solicită altfel. Dacă pacientul beneficiază de asistență
+    respiratorie, se urmărește atent toracele pacientului pentru a identifica faza
+    inspiratorie în vederea expunerii.
+  tech: Receptorul de imagine trebuie să aibă 14 × 17 inci (35 × 43 cm), orientat
+    longitudinal sau transversal, în funcție de constituția corporală.
 sources:
-- title: Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1483–1485
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1483
+- title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1483–1485
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust la least 14 × 17 inches (35 × 43 cm) pe collimator, less pentru
-    smaller pacienți.
-title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or Decubit Dorsal
+  collimation: Se reglează colimatorul la cel puțin 14 × 17 inci (35 × 43 cm), mai
+    puțin pentru pacienții de talie mică.
+title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism sau Decubit Dorsal
   (Merrill)
 ---
-# Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or Decubit Dorsal (Merrill)
+# Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism sau Decubit Dorsal (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -158,10 +157,10 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or D
 
     ---
 
-    - **Poziție Pacient:** Depending pe condition de pacientul, incidență trebuie să fie performed cu pacientul în ortostatism sau la greatest angle pacientul poate tolerate (if possible). Use Decubit dorsal poziție pentru critically ill sau injured pacienți.; se centrează plan mediosagital la receptorul de imagine. pentru include entire Torace, poziție receptorul de imagine under pacientul cu top about 2 inches (5 cm) above relaxat umeri. exact distance depends pe size de pacientul. When pacientul este Decubit dorsal, umerii poate move la higher poziție relative la plămânii. Adjust accordingly. Make sure that pacientul’s umeri sunt relaxat, then internally se rotește pacient’s brațe la prevent scapular superimposition de câmpuri pulmonare if nu contraindicated. Make sure that pacientul’s upper torso este nu rotit sau leaning spre one side (Fig. 20.10). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de Stern și center de receptorul de imagine; raza centrală trebuie să enter about 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) la nivelul T7.
+    - **Poziție Pacient:** În funcție de starea pacientului, incidența trebuie efectuată cu pacientul în ortostatism sau la cel mai mare unghi pe care îl poate tolera (dacă este posibil). Se utilizează decubitul dorsal la pacienții în stare critică sau traumatizați. Se centrează planul mediosagital pe receptorul de imagine. Pentru a include întregul torace, se poziționează receptorul de imagine sub pacient, cu marginea superioară la aproximativ 2 inci (5 cm) deasupra umerilor relaxați. Distanța exactă depinde de dimensiunile pacientului. Când pacientul este în decubit dorsal, umerii se pot deplasa într-o poziție mai înaltă față de plămâni. Se ajustează corespunzător. Se verifică dacă umerii pacientului sunt relaxați, apoi se rotesc intern brațele pentru a preveni suprapunerea scapulelor peste câmpurile pulmonare, dacă nu există contraindicații. Se verifică dacă partea superioară a trunchiului pacientului nu este rotită sau înclinată într-o parte (Fig. 20.10). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de imagine; raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub incizura jugulară (furculița sternală), la nivelul T7.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Inspiration unless otherwise requested. If pacientul este receiving respiratory assistance, carefully watch pacientul’s Torace la determine inspiratory phase pentru expunere.
+    - **Comandă Respiratorie:** Inspir, dacă nu se solicită altfel. Dacă pacientul beneficiază de asistență respiratorie, se urmărește atent toracele pacientului pentru a identifica faza inspiratorie în vederea expunerii.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -175,21 +174,21 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or D
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust la least 14 × 17 inches (35 × 43 cm) pe collimator, less pentru smaller pacienți. |
+    | **Colimare Fascicul** | Se reglează colimatorul la cel puțin 14 × 17 inci (35 × 43 cm), mai puțin pentru pacienții de talie mică. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - Evidence de corect collimation
-    - fără mișcare și well-defined (nu blurred) diaphragmatic domes și câmpuri pulmonare
-    - câmpuri pulmonare în their entirety, including sinusuri costodiafragmatice
-    - Pleural markings
-    - Coaste (Grilaj Costal) și thoracic intervertebral disk spaces faintly vizibil through heart shadow
-    - Absența rotației anatomice (simetrie bilaterală perfectă) cu medial portion de clavicles și lateral margine de Coaste (Grilaj Costal) echidistant față de coloană vertebrală
-    - radiografie markeri ca appropriate (R sau L marker, și orice la indicate how pacientul este poziționat; that este, Decubit dorsal, așezat în ortostatism, etc.).
+    - Următoarele trebuie să fie clar vizualizate:
+    - Dovada unei colimări corecte
+    - Absența mișcării și cupole diafragmatice și câmpuri pulmonare bine definite (neestompate)
+    - Câmpurile pulmonare în întregime, inclusiv sinusurile costodiafragmatice
+    - Desenul pleural
+    - Coastele (grilajul costal) și spațiile discale intervertebrale toracice slab vizibile prin umbra cordului
+    - Absența rotației anatomice (simetrie bilaterală perfectă), cu porțiunile mediale ale claviculelor și marginile laterale ale coastelor (grilajului costal) echidistante față de coloana vertebrală
+    - Markeri radiografici adecvați (marker R sau L și orice marker care indică poziția pacientului: decubit dorsal, șezut cu trunchiul vertical etc.).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -200,7 +199,7 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or D
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    la ensure corect angle de la x-ray tube la receptorul de imagine, radiographer poate double-check shadow de umerii de la field light projected onto receptorul de imagine. If shadow de umerii este thrown far above upper edge de receptorul de imagine, angle de tubul trebuie să fie corrected.
+    Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine, tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată mult deasupra marginii superioare a receptorului de imagine, trebuie corectat unghiul tubului.
 
 
 ### 🖼️ Imagini
@@ -209,17 +208,17 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or D
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1484, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1484_fig1.png)
+![Merrill — pagina 1484, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1484_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1484, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1484, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1485, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1485_fig2.png)
+![Merrill — pagina 1485, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1485_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1485, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1485, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -236,60 +235,54 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism or D
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1483–1485](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1483)
+- [Merrill’s Atlas, 20. Mobile Radiography, pagini 1483–1485](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-This incidență shows anatomy de thorax, including cordul, trachea, diaphragmatic domes, și most importantly, entire câmpuri pulmonare
-(including vascular markings) (Fig. 20.11).
+Această incidență evidențiază anatomia toracelui, inclusiv cordul, traheea, cupolele diafragmatice și, mai ales, câmpurile pulmonare în întregime (inclusiv desenul vascular) (Fig. 20.11).
 
-### collimation
+### colimare
 
-• Adjust la least 14 × 17 inches (35 × 43 cm) pe collimator, less pentru smaller pacienți.
+• Se reglează colimatorul la cel puțin 14 × 17 inci (35 × 43 cm), mai puțin pentru pacienții de talie mică.
 
-### cr
+### raza centrală
 
-• perpendicular pe axa longitudinală de sternum și center de receptorul de imagine; raza centrală trebuie să enter about 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) la nivelul T7.
+• Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de imagine; raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub incizura jugulară (furculița sternală), la nivelul T7.
 
-### criteria
+### criterii
 
-following trebuie să fie clearly vizualizat:
-• Evidence de corect collimation
-• fără mișcare și well-defined (nu blurred) diaphragmatic domes și câmpuri pulmonare
-• câmpuri pulmonare în their entirety, including sinusuri costodiafragmatice
-• Pleural markings
-• coaste și thoracic intervertebral disk spaces faintly vizibil through heart shadow
-• Absența rotației anatomice (simetrie bilaterală perfectă) cu medial portion de clavicles și lateral margine de coaste echidistant față de coloană vertebrală
-• radiografie markeri ca appropriate (R sau L marker, și orice la indicate how pacientul este poziționat; that este, în decubit dorsal, așezat în ortostatism,
-etc.).
+Următoarele trebuie să fie clar vizualizate:
+• Colimare corectă vizibilă
+• Absența mișcării și cupole diafragmatice și câmpuri pulmonare bine definite (neestompate)
+• Câmpurile pulmonare în întregime, inclusiv sinusurile costodiafragmatice
+• Desenul pleural
+• Coastele și spațiile discale intervertebrale toracice slab vizibile prin umbra cordului
+• Absența rotației anatomice (simetrie bilaterală perfectă), cu porțiunile mediale ale claviculelor și marginile laterale ale coastelor echidistante față de coloana vertebrală
+• Markeri radiografici adecvați (marker R sau L și orice marker care indică poziția pacientului: decubit dorsal, șezut cu trunchiul vertical etc.).
 
-### notes
+### note
 
-la ensure corect angle de la x-ray tube la receptorul de imagine, radiographer poate double-check shadow de umerii de la field light projected onto receptorul de imagine. If shadow de umerii este thrown far above upper edge de receptorul de imagine, angle de tubul trebuie să fie
-corrected.
+Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine, tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată mult deasupra marginii superioare a receptorului de imagine, trebuie corectat unghiul tubului.
 
 ### part_pos
 
-• se centrează plan mediosagital la receptorul de imagine.
-• pentru include entire chest, poziție receptorul de imagine under pacientul cu top about 2 inches (5 cm) above relaxat umeri. exact
-distance depends pe size de pacientul. When pacientul este în decubit dorsal, umerii poate move la higher poziție relative la plămâni. Adjust accordingly.
-• Make sure that pacientul’s umeri sunt relaxat, then internally se rotește pacient’s brațe la prevent scapular superimposition de câmpuri pulmonare if nu contraindicated.
-• Make sure that pacientul’s upper torso este nu rotit sau leaning spre one side (Fig. 20.10).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se centrează planul mediosagital pe receptorul de imagine.
+• Pentru a include întregul torace, se poziționează receptorul de imagine sub pacient, cu marginea superioară la aproximativ 2 inci (5 cm) deasupra umerilor relaxați. Distanța exactă depinde de dimensiunile pacientului. Când pacientul este în decubit dorsal, umerii se pot deplasa într-o poziție mai înaltă față de plămâni. Se ajustează corespunzător.
+• Se verifică dacă umerii pacientului sunt relaxați, apoi se rotesc intern brațele pentru a preveni suprapunerea scapulelor peste câmpurile pulmonare, dacă nu există contraindicații.
+• Se verifică dacă partea superioară a trunchiului pacientului nu este rotită sau înclinată într-o parte (Fig. 20.10).
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-Depending pe condition de pacientul, incidență trebuie să fie performed cu pacientul în ortostatism sau la greatest angle
-pacientul poate tolerate (if possible). Use decubit dorsal pentru critically ill sau injured pacienți.
+În funcție de starea pacientului, incidența trebuie efectuată cu pacientul în ortostatism sau la cel mai mare unghi pe care îl poate tolera (dacă este posibil). Se utilizează decubitul dorsal la pacienții în stare critică sau traumatizați.
 
-### respiration
+### respirație
 
-Inspiration unless otherwise requested. If pacientul este receiving respiratory assistance, carefully watch pacientul’s chest
-la determine inspiratory phase pentru expunere.
+Inspir, dacă nu se solicită altfel. Dacă pacientul beneficiază de asistență respiratorie, se urmărește atent toracele pacientului pentru a identifica faza inspiratorie în vederea expunerii.
 
-### tech
+### tehnică
 
-receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) longitudinal sau transversal, depending pe corp habitus.
+Receptorul de imagine trebuie să aibă 14 × 17 inci (35 × 43 cm), orientat longitudinal sau transversal, în funcție de constituția corporală.
 

@@ -1,46 +1,49 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: expunere trebuie să fie made la end de expiration.
+breathing: Expunerea trebuie efectuată la sfârșitul expirului.
 category: abdomen
-centering: perpendicular, la center de receptorul de imagine
+centering: perpendicular, pe centrul receptorului de imagine
 clinical_indications:
-- Abnormal masses, airfluid levels, și accumulations de intraperitoneal air under
-  cupole diafragmatice Perform Ortostatism abdominal imagine first if pacientul comes
-  la department ambulatory sau în wheelchair în Ortostatism poziție.
+- Mase anormale, nivele hidroaerice și acumulări de aer intraperitoneal sub cupolele
+  diafragmatice. Efectuați mai întâi radiografia abdominală în ortostatism dacă pacientul
+  se prezintă la departament mergând sau în scaun cu rotile, în poziție verticală.
 images:
-- caption: Fig. 3.39 Ortostatism AP—la include cupole diafragmatice.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.39 în ortostatism
-    AP—la include cupole diafragmatice.)
+- caption: Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 3.39 AP în ortostatism—pentru
+    a include cupolele diafragmatice.)
   url: assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_1.jpeg
-- caption: Fig. 3.40 Ortostatism AP—la include cupole diafragmatice. ocluzie intestinală
-    (nivele hidroaerice) este
+- caption: Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Ocluzia
+    intestinală (nivele hidroaerice) este
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.40
-    în ortostatism AP—la include cupole diafragmatice. Bowel obstruction este)
+    AP în ortostatism—pentru a include cupolele diafragmatice. Ocluzia intestinală
+    este)
   url: assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_2.jpeg
-- caption: Fig. 3.41 Ortostatism AP.
+- caption: Fig. 3.41 AP în ortostatism.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.41
-    în ortostatism AP.)
+    AP în ortostatism.)
   url: assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: pacient trebuie să fie în ortostatism pentru minimum de 5 minutes, but 10 la
-  20 minutes este desirable, if possible, before expunere pentru visualizing small
-  amounts de intraperitoneal air. If pacient este too Ortostatism Fig. 3.39 Ortostatism
-  AP—la include cupole diafragmatice. Fig. 3.40 Ortostatism AP—la include cupole diafragmatice.
-  ocluzie intestinală (nivele hidroaerice) este present (note airfluid level). Air-nivele
-  hidroaerice Gastric bubble stâng hemidiaphragm stâng creasta iliacă (corespunzător
-  L4-L5) drept hemidiaphragm Air-filled intestine (bowel) T-12 ficat Fig. 3.41 Ortostatism
-  AP. weak la maintain Ortostatism poziție, lateral decubit trebuie să fie performed.
-  pentru hypersthenic pacienți, two landscape IRs poate fie required pentru include
-  entire Abdomen.
-position: 'Pacient: în ortostatism, membre inferioare slightly spread apart, back
-  against table sau grilă device (see NOTE regarding weak sau unsteady pacienți) brațele
-  pe lângă corp away de la corp plan mediosagital de corp centrat pe linia mediană
-  mesei sau Ortostatism bucky; Regiune anatomică: Do nu rotate Bazin (bazin (pelvis))
-  sau umeri. Adjust height de receptorul de imagine astfel încât center este approximately
-  2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) (la include cupole diafragmatice),
-  which pentru average pacient places top de receptorul de imagine approximately la
-  nivelul axilla (Fig. 3.39).'
+notes: Pacientul trebuie să stea în ortostatism minimum 5 minute, dar este de dorit
+  să stea 10 până la 20 minute, dacă este posibil, înainte de expunere, pentru vizualizarea
+  unor cantități mici de aer intraperitoneal. Dacă pacientul este prea slăbit pentru
+  a menține poziția în ortostatism, examinarea trebuie efectuată în decubit lateral.
+  Ortostatism. Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice.
+  Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Este prezentă
+  ocluzia intestinală (nivele hidroaerice) (observați nivelul hidroaeric). Nivele
+  hidroaerice. Bulă gastrică. Hemidiafragm stâng. Creasta iliacă stângă (corespunzător
+  L4-L5). Hemidiafragm drept. Intestin plin cu aer. T-12. Ficat. Fig. 3.41 AP în ortostatism.
+  Pentru pacienții hiperstenici, pot fi necesare două IR în format orizontal pentru
+  a include întregul abdomen.
+position: 'Pacient: în ortostatism, cu membrele inferioare ușor depărtate, cu spatele
+  sprijinit de masă sau de dispozitivul cu grilă (vezi NOTA privind pacienții slăbiți
+  sau instabili), cu brațele pe lângă corp, depărtate de acesta, cu planul mediosagital
+  al corpului centrat pe linia mediană a mesei sau a dispozitivului Bucky vertical;
+  Regiune anatomică: Nu rotiți bazinul (pelvisul) sau umerii. Ajustați înălțimea receptorului
+  de imagine astfel încât centrul să fie la aproximativ 2 inci (5 cm) deasupra crestei
+  iliace (corespunzător L4-L5) (pentru a include cupolele diafragmatice), ceea ce,
+  la un pacient de constituție medie, plasează marginea superioară a receptorului
+  de imagine aproximativ la nivelul axilei (Fig. 3.39).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,30 +51,34 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Airfilled stomach și loops de bowel și airfluid levels where present.
-- trebuie să include bilateral cupole diafragmatice și ca much de etajul abdominal
-  inferior ca possible.
-- Small liber, intraperitoneal crescentshaped air bubble, if present, seen under drept
-  hemidiaphragm, away de la gas în stomach (Figs. 3.40 și 3.41). poziție
+- Stomacul și ansele intestinale destinse cu aer și nivelurile hidroaerice, acolo
+  unde sunt prezente.
+- trebuie să includă cupolele diafragmatice bilateral și cât mai mult posibil din
+  etajul abdominal inferior.
+- O mică bulă de aer liber intraperitoneal, în formă de semilună, dacă este prezentă,
+  se vizualizează sub hemidiafragmul drept, la distanță de gazul din stomac (Fig.
+  3.40 și 3.41). Poziție
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase;
-  iliac wings appear simetric, și outer rib margins sunt same distance de la coloană
-  vertebrală.'
-- 'fără tilt: coloană vertebrală trebuie să fie straight (unless scolioză / vicii
-  de postură ale coloanei este present), aliniat cu center de receptorul de imagine.'
-- Collimation la aria de interes diagnostic. expunere fără mișcare; Coaste (Grilaj
-  Costal) și toate gas bubble margins appear net.
-- expunere este sufficient la visualize coloană vertebrală și Coaste (Grilaj Costal)
-  și părți moi but nu la overexpose possible intraperitoneal air în etajul abdominal
-  superior.
+  aripile iliace apar simetrice, iar marginile externe ale coastelor sunt la aceeași
+  distanță de coloana vertebrală.'
+- 'Fără înclinare: coloana vertebrală trebuie să fie dreaptă (cu excepția prezenței
+  scoliozei / viciilor de postură ale coloanei), aliniată cu centrul receptorului
+  de imagine.'
+- Colimare la aria de interes diagnostic. Expunere fără mișcare; coastele (grilajul
+  costal) și toate contururile bulelor de gaz apar nete.
+- Expunerea este suficientă pentru a vizualiza coloana vertebrală, coastele (grilajul
+  costal) și părțile moi, fără a supraexpune eventualul aer intraperitoneal din etajul
+  abdominal superior.
 sid_dff: 100 cm
 slug: rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 132
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: 14 × 17 inches (35 × 43 cm), field de incidență sau collimate pe four
-    sides la anatomy de interest trebuie să include etajul abdominal superior
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 14 × 17 inci (35 × 43 cm), câmpul de incidență sau colimarea pe cele
+    patru laturi la regiunea anatomică de interes trebuie să includă etajul abdominal
+    superior
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -98,7 +105,7 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
 
     === "Indicații Clinice"
 
-        - Abnormal masses, airfluid levels, și accumulations de intraperitoneal air under cupole diafragmatice Perform Ortostatism abdominal imagine first if pacientul comes la department ambulatory sau în wheelchair în Ortostatism poziție.
+        - Mase anormale, nivele hidroaerice și acumulări de aer intraperitoneal sub cupolele diafragmatice. Efectuați mai întâi radiografia abdominală în ortostatism dacă pacientul se prezintă la departament mergând sau în scaun cu rotile, în poziție verticală.
 
     === "Ghid Național IRIS"
 
@@ -112,10 +119,10 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
 
     ---
 
-    - **Poziție Pacient:** Pacient: în ortostatism, membre inferioare slightly spread apart, back against table sau grilă device (see NOTE regarding weak sau unsteady pacienți) brațele pe lângă corp away de la corp plan mediosagital de corp centrat pe linia mediană mesei sau Ortostatism bucky; Regiune anatomică: Do nu rotate Bazin (bazin (pelvis)) sau umeri. Adjust height de receptorul de imagine astfel încât center este approximately 2 inches (5 cm) above creasta iliacă (corespunzător L4-L5) (la include cupole diafragmatice), which pentru average pacient places top de receptorul de imagine approximately la nivelul axilla (Fig. 3.39).
-    - **Punct de Centrare Fascicul:** perpendicular, la center de receptorul de imagine
+    - **Poziție Pacient:** Pacient: în ortostatism, cu membrele inferioare ușor depărtate, cu spatele sprijinit de masă sau de dispozitivul cu grilă (vezi NOTA privind pacienții slăbiți sau instabili), cu brațele pe lângă corp, depărtate de acesta, cu planul mediosagital al corpului centrat pe linia mediană a mesei sau a dispozitivului Bucky vertical; Regiune anatomică: Nu rotiți bazinul (pelvisul) sau umerii. Ajustați înălțimea receptorului de imagine astfel încât centrul să fie la aproximativ 2 inci (5 cm) deasupra crestei iliace (corespunzător L4-L5) (pentru a include cupolele diafragmatice), ceea ce, la un pacient de constituție medie, plasează marginea superioară a receptorului de imagine aproximativ la nivelul axilei (Fig. 3.39).
+    - **Punct de Centrare Fascicul:** perpendicular, pe centrul receptorului de imagine
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere trebuie să fie made la end de expiration.
+    - **Comandă Respiratorie:** Expunerea trebuie efectuată la sfârșitul expirului.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,21 +135,21 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | 14 × 17 inches (35 × 43 cm), field de incidență sau collimate pe four sides la anatomy de interest trebuie să include etajul abdominal superior |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | 14 × 17 inci (35 × 43 cm), câmpul de incidență sau colimarea pe cele patru laturi la regiunea anatomică de interes trebuie să includă etajul abdominal superior |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Airfilled stomach și loops de bowel și airfluid levels where present.
-    - trebuie să include bilateral cupole diafragmatice și ca much de etajul abdominal inferior ca possible.
-    - Small liber, intraperitoneal crescentshaped air bubble, if present, seen under drept hemidiaphragm, away de la gas în stomach (Figs. 3.40 și 3.41). poziție
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; iliac wings appear simetric, și outer rib margins sunt same distance de la coloană vertebrală.
-    - fără tilt: coloană vertebrală trebuie să fie straight (unless scolioză / vicii de postură ale coloanei este present), aliniat cu center de receptorul de imagine.
-    - Collimation la aria de interes diagnostic. expunere fără mișcare; Coaste (Grilaj Costal) și toate gas bubble margins appear net.
-    - expunere este sufficient la visualize coloană vertebrală și Coaste (Grilaj Costal) și părți moi but nu la overexpose possible intraperitoneal air în etajul abdominal superior.
+    - Stomacul și ansele intestinale destinse cu aer și nivelurile hidroaerice, acolo unde sunt prezente.
+    - trebuie să includă cupolele diafragmatice bilateral și cât mai mult posibil din etajul abdominal inferior.
+    - O mică bulă de aer liber intraperitoneal, în formă de semilună, dacă este prezentă, se vizualizează sub hemidiafragmul drept, la distanță de gazul din stomac (Fig. 3.40 și 3.41). Poziție
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; aripile iliace apar simetrice, iar marginile externe ale coastelor sunt la aceeași distanță de coloana vertebrală.
+    - Fără înclinare: coloana vertebrală trebuie să fie dreaptă (cu excepția prezenței scoliozei / viciilor de postură ale coloanei), aliniată cu centrul receptorului de imagine.
+    - Colimare la aria de interes diagnostic. Expunere fără mișcare; coastele (grilajul costal) și toate contururile bulelor de gaz apar nete.
+    - Expunerea este suficientă pentru a vizualiza coloana vertebrală, coastele (grilajul costal) și părțile moi, fără a supraexpune eventualul aer intraperitoneal din etajul abdominal superior.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,7 +162,7 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    pacient trebuie să fie în ortostatism pentru minimum de 5 minutes, but 10 la 20 minutes este desirable, if possible, before expunere pentru visualizing small amounts de intraperitoneal air. If pacient este too Ortostatism Fig. 3.39 Ortostatism AP—la include cupole diafragmatice. Fig. 3.40 Ortostatism AP—la include cupole diafragmatice. ocluzie intestinală (nivele hidroaerice) este present (note airfluid level). Air-nivele hidroaerice Gastric bubble stâng hemidiaphragm stâng creasta iliacă (corespunzător L4-L5) drept hemidiaphragm Air-filled intestine (bowel) T-12 ficat Fig. 3.41 Ortostatism AP. weak la maintain Ortostatism poziție, lateral decubit trebuie să fie performed. pentru hypersthenic pacienți, two landscape IRs poate fie required pentru include entire Abdomen.
+    Pacientul trebuie să stea în ortostatism minimum 5 minute, dar este de dorit să stea 10 până la 20 minute, dacă este posibil, înainte de expunere, pentru vizualizarea unor cantități mici de aer intraperitoneal. Dacă pacientul este prea slăbit pentru a menține poziția în ortostatism, examinarea trebuie efectuată în decubit lateral. Ortostatism. Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice. Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Este prezentă ocluzia intestinală (nivele hidroaerice) (observați nivelul hidroaeric). Nivele hidroaerice. Bulă gastrică. Hemidiafragm stâng. Creasta iliacă stângă (corespunzător L4-L5). Hemidiafragm drept. Intestin plin cu aer. T-12. Ficat. Fig. 3.41 AP în ortostatism. Pentru pacienții hiperstenici, pot fi necesare două IR în format orizontal pentru a include întregul abdomen.
 
 
 ### 🖼️ Imagini
@@ -164,25 +171,25 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.39 Ortostatism AP—la include cupole diafragmatice.](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_1.jpeg)
+![Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice.](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 3.39 Ortostatism AP—la include cupole diafragmatice.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.39 în ortostatism AP—la include cupole diafragmatice.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 3.40 Ortostatism AP—la include cupole diafragmatice. ocluzie intestinală (nivele hidroaerice) este](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 3.40 Ortostatism AP—la include cupole diafragmatice. ocluzie intestinală (nivele hidroaerice) este</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.40 în ortostatism AP—la include cupole diafragmatice. Bowel obstruction este)</span></figcaption>
+<figcaption><strong>Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 3.41 Ortostatism AP.](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_3.jpeg)
+![Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Ocluzia intestinală (nivele hidroaerice) este](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 3.41 Ortostatism AP.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.41 în ortostatism AP.)</span></figcaption>
+<figcaption><strong>Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Ocluzia intestinală (nivele hidroaerice) este</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Ocluzia intestinală este)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 3.41 AP în ortostatism.](../../assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 3.41 AP în ortostatism.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.41 AP în ortostatism.)</span></figcaption>
 
 </figure>
 

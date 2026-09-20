@@ -3,55 +3,61 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• tubul este centred și angulated ca outlined în masa de examinare pe
-  p. 298 pentru mandibular molar region.
+centering: '• Tubul este centrat și angulat conform indicațiilor din tabelul de examinare
+  de la p. 298 pentru regiunea molarilor mandibulari.
 
-  • X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles
-  la labial sau buccal surfaces de teeth la prevent orizontal overlap, și film radiologic
-  este exposed.
+  • Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular
+  pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea
+  orizontală, iar filmul radiologic să fie expus.
 
-  304 Modified surgical haemostats cu soldered bite block Positioning de pacientul
-  și X-ray tube pentru periapical radiografie de mandibular third molar. holder este
-  stabilized prin pacientul’s Mână Periapical radiografie de lower stâng third molar
-  evidențiind complex root form și close approximation de root Vârfuri Pulmonare (Apexuri)
-  la mandibular canal'
+  304 Hemostate chirurgicale modificate cu bloc de ocluzie lipit Poziționarea pacientului
+  și a tubului de raze X pentru radiografia retroalveolară a molarului de minte mandibular.
+  Suportul este stabilizat prin Mâna pacientului. Radiografia retroalveolară a molarului
+  de minte inferior stâng evidențiind forma complexă a rădăcinilor și apropierea vârfurilor
+  rădăcinilor de canalul mandibular.'
 clinical_indications:
-- Imaging mandibular third molars Surgical haemostats/needle holders poate fie used
-  la stabilize film radiologic. One beak de device este modified into bite block prin
-  soldering semi-circular stainless wire pe la needle holder și covering it cu heavy-duty
-  autoclavable plastic. This simple addition significantly reduces problem de pacientul
-  inadvertently moving holder.
+- Imagistica molarilor de minte mandibulari. Hemostatele chirurgicale/suporturile
+  pentru ace pot fi utilizate pentru stabilizarea filmului radiologic. Unul dintre
+  brațele dispozitivului este modificat într-un bloc de ocluzie prin lipirea unei
+  sârme semicirculare din oțel inoxidabil pe suportul pentru ace și acoperirea acesteia
+  cu plastic autoclavabil rezistent. Această adăugare simplă reduce semnificativ problema
+  deplasării accidentale a suportului de către pacient.
 images:
 - caption: 10 Radiografie Dentară Retroalveolară (Periapicală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_1.jpeg
-- caption: Positioning de pacientul și X-ray tube pentru periapical radiografie de
+- caption: Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară
+    a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_2.jpeg
-- caption: Periapical radiografie de lower stâng third molar evidențiind complex root
+- caption: Radiografia retroalveolară a molarului de minte inferior stâng evidențiind
+    rădăcina complexă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• upper leading anterior edge de size 2 film radiologic este attached securely
-  la beaks de needle holder, ensuring that front aspect (sau imaging surface) will
-  face X-ray tube when poziționat intra-orally.
+position: '• Marginea anterioară superioară a filmului radiologic de dimensiunea 2
+  este fixată ferm pe brațele suportului pentru ace, asigurându-se că fața anterioară
+  (sau suprafața de examinare) va fi orientată spre tubul de raze X atunci când este
+  poziționată intraoral.
 
-  • film radiologic este poziționat în lingual sulcus ca far posteriorly ca possible.
+  • Filmul radiologic este poziționat în șanțul lingual cât mai posterior posibil.
 
-  • pacientul este instructed la bring their teeth together slowly.
+  • Pacientul este instruit să-și apropie lent dinții.
 
-  This has effect de lowering de floor de mouth, thereby providing more space la accommodate
-  film radiologic.
+  Aceasta are ca efect coborârea planșeului bucal, oferind astfel mai mult spațiu
+  pentru acomodarea filmului radiologic.
 
-  • Simultaneously, operator poziții film radiologic holder astfel încât leading edge
-  de film radiologic lies adjacent la mesial aspect de mandibular first molar. It
-  este important la do this gradually la reduce discomfort pentru pacientul.
+  • Simultan, operatorul poziționează suportul pentru film radiologic astfel încât
+  marginea anterioară a filmului radiologic să se afle adiacent aspectului mezial
+  al primului molar mandibular. Este important ca acest lucru să fie efectuat treptat,
+  pentru a reduce disconfortul pacientului.
 
-  • pacientul este instructed la hold handles de needle holder.'
+  • Pacientul este instruit să țină mânerele suportului pentru ace.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -68,18 +74,18 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 319
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=319
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului de minte
 ---
-# Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
+# Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului de minte
 
 
 <div class="rx-meta-bar">
@@ -98,7 +104,7 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
 
     === "Indicații Clinice"
 
-        - Imaging mandibular third molars Surgical haemostats/needle holders poate fie used la stabilize film radiologic. One beak de device este modified into bite block prin soldering semi-circular stainless wire pe la needle holder și covering it cu heavy-duty autoclavable plastic. This simple addition significantly reduces problem de pacientul inadvertently moving holder.
+        - Imagistica molarilor de minte mandibulari. Hemostatele chirurgicale/suporturile pentru ace pot fi utilizate pentru stabilizarea filmului radiologic. Unul dintre brațele dispozitivului este modificat într-un bloc de ocluzie prin lipirea unei sârme semicirculare din oțel inoxidabil pe suportul pentru ace și acoperirea acesteia cu plastic autoclavabil rezistent. Această adăugare simplă reduce semnificativ problema deplasării accidentale a suportului de către pacient.
 
     === "Ghid Național IRIS"
 
@@ -112,15 +118,15 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
 
     ---
 
-    - **Poziție Pacient:** • upper leading anterior edge de size 2 film radiologic este attached securely la beaks de needle holder, ensuring that front aspect (sau imaging surface) will face X-ray tube when poziționat intra-orally.
-• film radiologic este poziționat în lingual sulcus ca far posteriorly ca possible.
-• pacientul este instructed la bring their teeth together slowly.
-This has effect de lowering de floor de mouth, thereby providing more space la accommodate film radiologic.
-• Simultaneously, operator poziții film radiologic holder astfel încât leading edge de film radiologic lies adjacent la mesial aspect de mandibular first molar. It este important la do this gradually la reduce discomfort pentru pacientul.
-• pacientul este instructed la hold handles de needle holder.
-    - **Punct de Centrare Fascicul:** • tubul este centred și angulated ca outlined în masa de examinare pe p. 298 pentru mandibular molar region.
-• X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles la labial sau buccal surfaces de teeth la prevent orizontal overlap, și film radiologic este exposed.
-304 Modified surgical haemostats cu soldered bite block Positioning de pacientul și X-ray tube pentru periapical radiografie de mandibular third molar. holder este stabilized prin pacientul’s Mână Periapical radiografie de lower stâng third molar evidențiind complex root form și close approximation de root Vârfuri Pulmonare (Apexuri) la mandibular canal
+    - **Poziție Pacient:** • Marginea anterioară superioară a filmului radiologic de dimensiunea 2 este fixată ferm pe brațele suportului pentru ace, asigurându-se că fața anterioară (sau suprafața de examinare) va fi orientată spre tubul de raze X atunci când este poziționată intraoral.
+• Filmul radiologic este poziționat în șanțul lingual cât mai posterior posibil.
+• Pacientul este instruit să-și apropie lent dinții.
+Aceasta are ca efect coborârea planșeului bucal, oferind astfel mai mult spațiu pentru acomodarea filmului radiologic.
+• Simultan, operatorul poziționează suportul pentru film radiologic astfel încât marginea anterioară a filmului radiologic să se afle adiacent aspectului mezial al primului molar mandibular. Este important ca acest lucru să fie efectuat treptat, pentru a reduce disconfortul pacientului.
+• Pacientul este instruit să țină mânerele suportului pentru ace.
+    - **Punct de Centrare Fascicul:** • Tubul este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor mandibulari.
+• Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus.
+304 Hemostate chirurgicale modificate cu bloc de ocluzie lipit Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a molarului de minte mandibular. Suportul este stabilizat prin Mâna pacientului. Radiografia retroalveolară a molarului de minte inferior stâng evidențiind forma complexă a rădăcinilor și apropierea vârfurilor rădăcinilor de canalul mandibular.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -131,13 +137,13 @@ This has effect de lowering de floor de mouth, thereby providing more space la a
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -169,23 +175,23 @@ This has effect de lowering de floor de mouth, thereby providing more space la a
 
 ![10 Radiografie Dentară Retroalveolară (Periapicală)](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Positioning de pacientul și X-ray tube pentru periapical radiografie de](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_2.jpeg)
+![Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_2.jpeg)
 
-<figcaption><strong>Positioning de pacientul și X-ray tube pentru periapical radiografie de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Periapical radiografie de lower stâng third molar evidențiind complex root](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_3.jpeg)
+![Radiografia retroalveolară a molarului de minte inferior stâng evidențiind rădăcina complexă](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_3.jpeg)
 
-<figcaption><strong>Periapical radiografie de lower stâng third molar evidențiind complex root</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografia retroalveolară a molarului de minte inferior stâng evidențiind rădăcina complexă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -202,4 +208,4 @@ This has effect de lowering de floor de mouth, thereby providing more space la a
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 319](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=319)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 319](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

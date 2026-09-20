@@ -6,13 +6,13 @@ centering: Înclinat 10 grade cranial, entering proces coracoid
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 407, imaginea 1
+- caption: Merrill — pagina 407, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p407_fig1.png
-- caption: Merrill — pagina PDF 408, imaginea 2
+- caption: Merrill — pagina 408, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p408_fig2.png
-- caption: Merrill — pagina PDF 409, imaginea 3
+- caption: Merrill — pagina 409, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p409_fig3.png
 last_updated: '2026-09-16'
@@ -80,8 +80,8 @@ source_sections:
 
     × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 406–409
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=406
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 406–409
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
@@ -172,25 +172,25 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 407, imaginea 1](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p407_fig1.png)
+![Merrill — pagina 407, imaginea 1](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p407_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 407, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 408, imaginea 2](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p408_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 408, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 407, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 409, imaginea 3](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p409_fig3.png)
+![Merrill — pagina 408, imaginea 2](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p408_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 409, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 408, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 409, imaginea 3](../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p409_fig3.png)
+
+<figcaption><strong>Merrill — pagina 409, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -207,7 +207,7 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 406–409](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=406)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 406–409](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

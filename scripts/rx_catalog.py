@@ -31,11 +31,13 @@ def on_nav(nav, config, files):
                     metadata = read_metadata(Path(config['docs_dir']) / page.file.src_path)
                     if metadata.get('slug'):
                         page.title = ' '.join(str(metadata.get('title') or Path(page.file.src_path).stem).split())
-                children.sort(key=lambda child: (
-                    0 if getattr(child, 'is_page', False) and Path(child.file.src_path).name == 'index.md' else 1,
-                    (child.title or '').casefold(),
-                    getattr(getattr(child, 'file', None), 'src_path', ''),
-                ))
+                # Sort pages alphabetically if this section contains only pages (e.g. subsection items or flat section)
+                if len(pages) == len(children):
+                    children.sort(key=lambda child: (
+                        0 if getattr(child, 'is_page', False) and Path(child.file.src_path).name == 'index.md' else 1,
+                        (child.title or '').casefold(),
+                        getattr(getattr(child, 'file', None), 'src_path', ''),
+                    ))
             visit(children)
     visit(nav.items)
     return nav
@@ -45,7 +47,10 @@ def render_catalog(directory: Path) -> str:
     navigation = directory / '.pages'
     metadata = yaml.safe_load(navigation.read_text(encoding='utf-8')) if navigation.exists() else {}
     title = (metadata or {}).get('title', directory.name.replace('-', ' ').title())
-    protocols = []
+    nav = (metadata or {}).get('nav', [])
+
+    # Map all protocols in this directory to their clean display title
+    proto_map = {}
     for path in directory.glob('*.md'):
         if path.name == 'index.md':
             continue
@@ -53,12 +58,53 @@ def render_catalog(directory: Path) -> str:
         if isinstance(fm, dict) and fm.get('slug'):
             label = ' '.join(str(fm.get('title') or path.stem).split())
             label = label.replace('\\', '\\\\').replace('[', r'\[').replace(']', r'\]')
-            protocols.append((label, path.name))
-    protocols.sort(key=lambda item: (item[0].casefold(), item[1]))
-    links = '\n'.join(f'- [{title}]({name})' for title, name in protocols)
-    return (f'# Protocoale Rx — {title}\n\n'
-            f'Catalog cu **{len(protocols)} protocoale** din această categorie.\n\n'
-            f'{links}\n')
+            proto_map[path.name] = label
+
+    # Check if nav defines subsections (dict entries with lists of files)
+    subsections = []
+    handled_files = set()
+    for item in nav:
+        if isinstance(item, dict):
+            for sec_title, sec_files in item.items():
+                if isinstance(sec_files, list):
+                    subsections.append((sec_title, sec_files))
+                    handled_files.update(sec_files)
+
+    if subsections:
+        total_count = len(proto_map)
+        lines = [
+            f'# Protocoale Rx — {title}\n',
+            f'Catalog cu **{total_count} protocoale** din această categorie, structurate pe segmente anatomice.\n'
+        ]
+        for sec_title, sec_files in subsections:
+            sec_protos = []
+            for fname in sec_files:
+                if fname in proto_map:
+                    sec_protos.append((proto_map[fname], fname))
+            sec_protos.sort(key=lambda x: x[0].casefold())
+            if sec_protos:
+                lines.append(f'## {sec_title} ({len(sec_protos)})\n')
+                for p_label, fname in sec_protos:
+                    lines.append(f'- [{p_label}]({fname})')
+                lines.append('')
+
+        # Uncategorized in subsections if any
+        remaining = [(p_label, fname) for fname, p_label in proto_map.items() if fname not in handled_files]
+        if remaining:
+            remaining.sort(key=lambda x: x[0].casefold())
+            lines.append(f'## Alte Protocoale ({len(remaining)})\n')
+            for p_label, fname in remaining:
+                lines.append(f'- [{p_label}]({fname})')
+            lines.append('')
+
+        return '\n'.join(lines)
+    else:
+        protocols = [(label, fname) for fname, label in proto_map.items()]
+        protocols.sort(key=lambda item: (item[0].casefold(), item[1]))
+        links = '\n'.join(f'- [{label}]({name})' for label, name in protocols)
+        return (f'# Protocoale Rx — {title}\n\n'
+                f'Catalog cu **{len(protocols)} protocoale** din această categorie.\n\n'
+                f'{links}\n')
 
 
 def on_page_markdown(markdown, page, config, files):

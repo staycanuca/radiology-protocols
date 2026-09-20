@@ -81,8 +81,8 @@ source_sections:
 
     bilateral genunchi.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 550–550
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=550
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 550–550
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe collimator.
@@ -178,7 +178,7 @@ title: Rx Knees — Incidență Postero-Anterioară (PA) — Metoda Rosenberg 21
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 550–550](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=550)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 550–550](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

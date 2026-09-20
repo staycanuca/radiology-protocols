@@ -8,13 +8,13 @@ centering: perpendicular la center de receptorul de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 822, imaginea 1
+- caption: Merrill — pagina 822, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p822_fig1.png
-- caption: Merrill — pagina PDF 823, imaginea 2
+- caption: Merrill — pagina 823, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p823_fig2.png
-- caption: Merrill — pagina PDF 824, imaginea 3
+- caption: Merrill — pagina 824, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p824_fig3.png
 last_updated: '2026-09-16'
@@ -119,8 +119,8 @@ source_sections:
 
     43 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 10. Bony Thorax, pagini PDF 821–825
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=821
+- title: Merrill’s Atlas, 10. Bony Thorax, pagini 821–825
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
@@ -211,25 +211,25 @@ title: Rx Grilaj Costal Axilar — Oblică Postero-Anterioară (PA) — RAO or O
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 822, imaginea 1](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p822_fig1.png)
+![Merrill — pagina 822, imaginea 1](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p822_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 822, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 823, imaginea 2](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p823_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 823, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 822, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 824, imaginea 3](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p824_fig3.png)
+![Merrill — pagina 823, imaginea 2](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p823_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 824, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 823, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 824, imaginea 3](../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill/p824_fig3.png)
+
+<figcaption><strong>Merrill — pagina 824, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -246,7 +246,7 @@ title: Rx Grilaj Costal Axilar — Oblică Postero-Anterioară (PA) — RAO or O
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 10. Bony Thorax, pagini PDF 821–825](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=821)
+- [Merrill’s Atlas, 10. Bony Thorax, pagini 821–825](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

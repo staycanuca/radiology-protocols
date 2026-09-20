@@ -2,50 +2,53 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe centrul receptorului de imagine. raza centrală enters
-  2 inches (5 cm) above upper margine de simfiză pubiană și 2 inches (5 cm) medial
-  la upper spină iliacă antero-superioară (SIAS). When bladder neck și proximal urethra
-  sunt main areas de interest, 10-grade caudal angulation de raza centrală este usually
-  suficient la project pubic bones below them. perpendicular la nivelul simfiză pubiană
-  pentru voiding studies.
+centering: Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde
+  la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la 2 țoli (5
+  cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra. Când colul
+  vezical și uretra proximală sunt principalele zone de interes, o angulare caudală
+  de 10 grade a razei centrale este de obicei suficientă pentru a proiecta oasele
+  pubiene sub acestea. Perpendicular la nivelul simfizei pubiene pentru examinările
+  micționale.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1268, imaginea 1
+- caption: Merrill — pagina 1268, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1268_fig1.png
-- caption: Merrill — pagina PDF 1269, imaginea 2
+- caption: Merrill — pagina 1269, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig2.png
-- caption: Merrill — pagina PDF 1269, imaginea 3
+- caption: Merrill — pagina 1269, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție pe masa radiologică.; se rotește
-  pacient 40 la 60 grade RPO sau LPO, according la preference de examining physician
-  (Fig. 16.66). se ajustează pacient astfel încât pubic arch cel mai apropiat de table
-  este aliniat over linia mediană grilă. Extend și abduct uppermost thigh enough la
-  prevent its superimposition pe bladder area. se centrează receptorul de imagine
-  2 inches (5 cm) above upper margine de simfiză pubiană și approximately 2 inches
-  (5 cm) medial la upper spină iliacă antero-superioară (SIAS) (sau la simfiză pubiană
-  pentru voiding studies).
+position: Se așază pacientul în decubit dorsal pe masa radiologică.; Se rotește pacientul
+  cu 40 până la 60 de grade în RPO sau LPO, conform preferinței medicului examinator
+  (Fig. 16.66). Se ajustează poziția pacientului astfel încât arcul pubian cel mai
+  apropiat de masă să fie aliniat cu linia mediană a grilei. Extindeți și abduceți
+  coapsa aflată deasupra suficient pentru a preveni suprapunerea acesteia peste regiunea
+  vezicii urinare. Se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii
+  superioare a simfizei pubiene și la aproximativ 2 țoli (5 cm) medial de spina iliacă
+  antero-superioară (SIAS) aflată deasupra (sau la nivelul simfizei pubiene pentru
+  examinările micționale).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Regions de distal ends de ureters și bladder, și proximal portion de urethra
-- Pubic bones projected below bladder neck și proximal urethra
-- Contrast medium în bladder, distal ureters, și proximal urethra
-- Surrounding anatomy
-- fără superimposition de bladder prin uppermost thigh Voiding studies
-- Entire urethra vizibil și filled cu contrast medium
-- Urethra overlapping thigh pe oblic incidențe pentru improved visibility
-- Urethra culcat posterior la superimposed pubic și ischial rami pe side down în oblic
-  incidențe
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Regiunile extremităților distale ale ureterelor și ale vezicii urinare și porțiunea
+  proximală a uretrei
+- Oasele pubiene proiectate sub colul vezical și uretra proximală
+- Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
+- Structurile anatomice învecinate
+- Fără suprapunerea coapsei aflate deasupra peste vezica urinară. Examinări micționale
+- Întreaga uretră vizibilă și umplută cu substanță de contrast
+- Uretra suprapusă peste coapsă în incidențele oblice pentru o vizibilitate mai bună
+- Uretra situată posterior de ramurile pubiene și ischiatice suprapuse de pe partea
+  aflată dedesubt în incidențele oblice
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill
 source_pages:
@@ -53,73 +56,77 @@ source_pages:
 - 1268
 - 1269
 source_sections:
-  anatomy: oblic incidențe show bladder filled cu contrast medium. If reflux este
-    present, distal ureters sunt also visualized (Figs. 16.67 și 16.68).
-  collimation: • se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal.
-    Place correct marker de lateralitate (D/S) în collimated expunere field.
-  cr: '• perpendicular pe centrul receptorului de imagine. raza centrală enters 2
-    inches (5 cm) above upper margine de simfiză pubiană și 2 inches
+  anatomy: Incidențele oblice evidențiază vezica urinară umplută cu substanță de contrast.
+    Dacă este prezent refluxul, sunt vizualizate și ureterele distale (Fig. 16.67
+    și 16.68).
+  collimation: • Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal.
+    Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+  cr: '• Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde
+    la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la 2 țoli
 
-    (5 cm) medial la upper spină iliacă antero-superioară (SIAS). When bladder neck
-    și proximal urethra sunt main areas de interest, 10-grade caudal
+    (5 cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra. Când colul
+    vezical și uretra proximală sunt principalele zone de interes, o angulare caudală
+    de 10 grade
 
-    angulation de raza centrală este usually suficient la project pubic bones below
-    them.
+    a razei centrale este de obicei suficientă pentru a proiecta oasele pubiene sub
+    acestea.
 
-    • perpendicular la nivelul simfiză pubiană pentru voiding studies.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Perpendicular la nivelul simfizei pubiene pentru examinările micționale.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără suprapunere peste structurile anatomice de interes
 
-    • Regions de distal ends de ureters și bladder, și proximal portion de urethra
+    • Regiunile extremităților distale ale ureterelor și ale vezicii urinare și porțiunea
+    proximală a uretrei
 
-    • Pubic bones projected below bladder neck și proximal urethra
+    • Oasele pubiene proiectate sub colul vezical și uretra proximală
 
-    • Contrast medium în bladder, distal ureters, și proximal urethra
+    • Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
 
-    • Surrounding anatomy
+    • Structurile anatomice înconjurătoare
 
-    • fără superimposition de bladder prin uppermost thigh
+    • Fără suprapunerea coapsei aflate deasupra peste vezica urinară
 
-    Voiding studies
+    Examinări micționale
 
-    • Entire urethra vizibil și filled cu contrast medium
+    • Întreaga uretră vizibilă și umplută cu substanță de contrast
 
-    • Urethra overlapping thigh pe oblic incidențe pentru improved visibility
+    • Uretra suprapusă peste coapsă în incidențele oblice pentru o vizibilitate mai
+    bună
 
-    • Urethra culcat posterior la superimposed pubic și ischial rami pe side down
-    în oblic incidențe'
-  part_pos: '• se rotește pacient 40 la 60 grade RPO sau LPO, according la preference
-    de examining physician (Fig. 16.66).
+    • Uretra situată posterior de ramurile pubiene și ischiatice suprapuse de pe partea
+    aflată dedesubt în incidențele oblice'
+  part_pos: '• se rotește pacientul cu 40 la 60 grade în RPO sau LPO, conform preferinței
+    medicului examinator (Fig. 16.66).
 
-    • se ajustează pacient astfel încât pubic arch cel mai apropiat de table este
-    aliniat over linia mediană grilă.
+    • se ajustează poziția pacientului astfel încât arcul pubian cel mai apropiat
+    de masă să fie aliniat deasupra liniei mediane a grilei.
 
-    • Extend și abduct uppermost thigh enough la prevent its superimposition pe bladder
-    area.
+    • se extinde și se abduce coapsa de deasupra suficient pentru a preveni suprapunerea
+    acesteia peste regiunea vezicii urinare.
 
-    • se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză
-    pubiană și approximately 2 inches (5 cm) medial la upper
-
-    spină iliacă antero-superioară (SIAS) (sau la simfiză pubiană pentru voiding studies).'
+    • se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare
+    a simfizei pubiene și la aproximativ 2 țoli (5 cm) medial de spina iliacă antero-superioară
+    (SIAS) de deasupra (sau la nivelul simfizei pubiene pentru examinările micționale).'
   patient_pos: • se așază pacientul în decubit dorsal pe masa radiologică.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1267–1269
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1267
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1267–1269
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal.
-    Place correct marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară
+  collimation: Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal.
+    Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+title: Rx Vezică Urinară — Oblică Antero-Posterioară (AP) — RPO sau Oblică Posterioară
   Stângă (OPS / LPO) (Merrill)
 ---
-# Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+# Rx Vezică Urinară — Oblică Antero-Posterioară (AP) — RPO sau Oblică Posterioară Stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -152,8 +159,8 @@ title: Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblic�
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție pe masa radiologică.; se rotește pacient 40 la 60 grade RPO sau LPO, according la preference de examining physician (Fig. 16.66). se ajustează pacient astfel încât pubic arch cel mai apropiat de table este aliniat over linia mediană grilă. Extend și abduct uppermost thigh enough la prevent its superimposition pe bladder area. se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză pubiană și approximately 2 inches (5 cm) medial la upper spină iliacă antero-superioară (SIAS) (sau la simfiză pubiană pentru voiding studies).
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. raza centrală enters 2 inches (5 cm) above upper margine de simfiză pubiană și 2 inches (5 cm) medial la upper spină iliacă antero-superioară (SIAS). When bladder neck și proximal urethra sunt main areas de interest, 10-grade caudal angulation de raza centrală este usually suficient la project pubic bones below them. perpendicular la nivelul simfiză pubiană pentru voiding studies.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal pe masa radiologică.; Se rotește pacientul cu 40 până la 60 de grade în RPO sau LPO, conform preferinței medicului examinator (Fig. 16.66). Se ajustează poziția pacientului astfel încât arcul pubian cel mai apropiat de masă să fie aliniat cu linia mediană a grilei. Extindeți și abduceți coapsa aflată deasupra suficient pentru a preveni suprapunerea acesteia peste regiunea vezicii urinare. Se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la aproximativ 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra (sau la nivelul simfizei pubiene pentru examinările micționale).
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra. Când colul vezical și uretra proximală sunt principalele zone de interes, o angulare caudală de 10 grade a razei centrale este de obicei suficientă pentru a proiecta oasele pubiene sub acestea. Perpendicular la nivelul simfizei pubiene pentru examinările micționale.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -169,23 +176,23 @@ title: Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblic�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Regions de distal ends de ureters și bladder, și proximal portion de urethra
-    - Pubic bones projected below bladder neck și proximal urethra
-    - Contrast medium în bladder, distal ureters, și proximal urethra
-    - Surrounding anatomy
-    - fără superimposition de bladder prin uppermost thigh Voiding studies
-    - Entire urethra vizibil și filled cu contrast medium
-    - Urethra overlapping thigh pe oblic incidențe pentru improved visibility
-    - Urethra culcat posterior la superimposed pubic și ischial rami pe side down în oblic incidențe
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Regiunile extremităților distale ale ureterelor și ale vezicii urinare și porțiunea proximală a uretrei
+    - Oasele pubiene proiectate sub colul vezical și uretra proximală
+    - Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
+    - Structurile anatomice învecinate
+    - Fără suprapunerea coapsei aflate deasupra peste vezica urinară. Examinări micționale
+    - Întreaga uretră vizibilă și umplută cu substanță de contrast
+    - Uretra suprapusă peste coapsă în incidențele oblice pentru o vizibilitate mai bună
+    - Uretra situată posterior de ramurile pubiene și ischiatice suprapuse de pe partea aflată dedesubt în incidențele oblice
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -205,25 +212,25 @@ title: Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblic�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1268, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1268_fig1.png)
+![Merrill — pagina 1268, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1268_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1268, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1269, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1269, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1268, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1269, imaginea 3](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig3.png)
+![Merrill — pagina 1269, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1269, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1269, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1269, imaginea 3](../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig3.png)
+
+<figcaption><strong>Merrill — pagina 1269, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -240,57 +247,56 @@ title: Rx Urinary Bladder — Oblică Antero-Posterioară (AP) — RPO or Oblic�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1267–1269](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1267)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1267–1269](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-oblic incidențe show bladder filled cu contrast medium. If reflux este present, distal ureters sunt also visualized (Figs. 16.67 și 16.68).
+Incidențele oblice evidențiază vezica urinară umplută cu substanță de contrast. Dacă este prezent refluxul, sunt vizualizate și ureterele distale (Fig. 16.67 și 16.68).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal. Place correct marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe centrul receptorului de imagine. raza centrală enters 2 inches (5 cm) above upper margine de simfiză pubiană și 2 inches
-(5 cm) medial la upper spină iliacă antero-superioară (SIAS). When bladder neck și proximal urethra sunt main areas de interest, 10-grade caudal
-angulation de raza centrală este usually suficient la project pubic bones below them.
-• perpendicular la nivelul simfiză pubiană pentru voiding studies.
+• Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la 2 țoli
+(5 cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra. Când colul vezical și uretra proximală sunt principalele zone de interes, o angulare caudală de 10 grade
+a razei centrale este de obicei suficientă pentru a proiecta oasele pubiene sub acestea.
+• Perpendicular la nivelul simfizei pubiene pentru examinările micționale.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Regions de distal ends de ureters și bladder, și proximal portion de urethra
-• Pubic bones projected below bladder neck și proximal urethra
-• Contrast medium în bladder, distal ureters, și proximal urethra
-• Surrounding anatomy
-• fără superimposition de bladder prin uppermost thigh
-Voiding studies
-• Entire urethra vizibil și filled cu contrast medium
-• Urethra overlapping thigh pe oblic incidențe pentru improved visibility
-• Urethra culcat posterior la superimposed pubic și ischial rami pe side down în oblic incidențe
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără suprapunere peste structurile anatomice de interes
+• Regiunile extremităților distale ale ureterelor și ale vezicii urinare și porțiunea proximală a uretrei
+• Oasele pubiene proiectate sub colul vezical și uretra proximală
+• Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
+• Structurile anatomice înconjurătoare
+• Fără suprapunerea coapsei aflate deasupra peste vezica urinară
+Examinări micționale
+• Întreaga uretră vizibilă și umplută cu substanță de contrast
+• Uretra suprapusă peste coapsă în incidențele oblice pentru o vizibilitate mai bună
+• Uretra situată posterior de ramurile pubiene și ischiatice suprapuse de pe partea aflată dedesubt în incidențele oblice
 
 ### part_pos
 
-• se rotește pacient 40 la 60 grade RPO sau LPO, according la preference de examining physician (Fig. 16.66).
-• se ajustează pacient astfel încât pubic arch cel mai apropiat de table este aliniat over linia mediană grilă.
-• Extend și abduct uppermost thigh enough la prevent its superimposition pe bladder area.
-• se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză pubiană și approximately 2 inches (5 cm) medial la upper
-spină iliacă antero-superioară (SIAS) (sau la simfiză pubiană pentru voiding studies).
+• se rotește pacientul cu 40 la 60 grade în RPO sau LPO, conform preferinței medicului examinator (Fig. 16.66).
+• se ajustează poziția pacientului astfel încât arcul pubian cel mai apropiat de masă să fie aliniat deasupra liniei mediane a grilei.
+• se extinde și se abduce coapsa de deasupra suficient pentru a preveni suprapunerea acesteia peste regiunea vezicii urinare.
+• se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la aproximativ 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) de deasupra (sau la nivelul simfizei pubiene pentru examinările micționale).
 
 ### patient_pos
 
 • se așază pacientul în decubit dorsal pe masa radiologică.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

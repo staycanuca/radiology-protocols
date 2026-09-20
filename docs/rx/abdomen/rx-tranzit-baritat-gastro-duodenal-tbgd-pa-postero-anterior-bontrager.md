@@ -1,38 +1,43 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee la sfârșitul expirului pe durata expunerii. Alternate PA axial poziție
-  de high transverse stomach pe hypersthenic pacient causes almost endon incidență,
-  cu much overlapping de pyloric region de stomach și duodenal bulb cu Incidență Postero-Anterioară
-  (PA) (Fig. 12.97). Therefore, a 35° la 45° cephalic angle de raza centrală separates
-  these areas pentru better visualization. greater și lesser curvatures de stomach
-  also sunt better visualized în profile. pentru infants, a 20° la 25° cephalic raza
-  centrală angle este recommended la open corp și pylorus de stomach. (35) (43) Tranzit
-  Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.96 PA
-  poziție. Fig. 12.97 Incidență Postero-Anterioară (PA).
+breathing: 'Apnee la sfârșitul expirului pe durata expunerii. Poziție alternativă
+  PA axială: poziția înaltă și transversală a stomacului la pacientul hiperstenic
+  determină o vizualizare aproape de-a lungul axului său, cu suprapunere importantă
+  a regiunii pilorice a stomacului și a bulbului duodenal în incidența postero-anterioară
+  (PA) (Fig. 12.97). Prin urmare, o înclinare cranială de 35° la 45° a razei centrale
+  separă aceste regiuni pentru o vizualizare mai bună. Curbura mare și curbura mică
+  ale stomacului sunt, de asemenea, mai bine vizualizate din profil. Pentru sugari,
+  se recomandă o înclinare cranială de 20° la 25° a razei centrale pentru a deschide
+  corpul și pilorul stomacului. (35) (43) Tranzit Baritat Gastro-Duodenal (TBGD) DE
+  RUTINĂ RAO PA profil drept LPO AP Fig. 12.96 Poziție PA. Fig. 12.97 Incidență Postero-Anterioară
+  (PA).'
 category: abdomen
-centering: 'Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Sthenic
-  corp type: Center raza centrală și receptorul de imagine la level de pylorus și
-  duodenal bulb la level de l1 (1 la 2 inches [2.5 la 5 cm] above lower lateral rib
-  margin) și about 1 inch (2.5 cm) stâng de coloană vertebrală. Asthenic corp type:
-  Center about 2 inches (5 cm) below level de L1. Hypersthenic corp type: Center about
-  2 inches (5 cm) above level de L1 și nearer midline. Se centrează receptorul de
-  imagine pe raza centrală.'
+centering: 'Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine.
+  Tip constituțional stenic: se centrează raza centrală și receptorul de imagine la
+  nivelul pilorului și al bulbului duodenal, la nivelul l1 (1 la 2 inchi [2.5 la 5
+  cm] deasupra marginii costale inferolaterale) și la aproximativ 1 inch (2.5 cm)
+  la stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ
+  2 inchi (5 cm) sub nivelul L1. Tip constituțional hiperstenic: se centrează la aproximativ
+  2 inchi (5 cm) deasupra nivelului L1 și mai aproape de linia mediană. Se centrează
+  receptorul de imagine pe raza centrală.'
 clinical_indications:
-- Polyps, diverticula, bezoars, și signs de gastritis în corp și pylorus de stomach
+- Polipi, diverticuli, bezoari și semne de gastrită la nivelul corpului și al pilorului
+  stomacului
 images:
-- caption: Fig. 12.96 PA poziție.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.96 PA poziție.)
+- caption: Fig. 12.96 Poziție PA.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.96 Poziție
+    PA.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_1.jpeg
 - caption: Fig. 12.97 Incidență Postero-Anterioară (PA).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.97
-    PA incidență.)
+    Incidență PA.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: poziție pacient Decubit ventral, cu brațe up beside cap; provide
-  support pentru pacient’s cap (Fig. 12.96).; Regiune anatomică: Align MSP la raza
-  centrală și la table. Ensure that corp este nu rotit.'
+position: 'Pacient: se poziționează pacientul în decubit ventral, cu brațele ridicate
+  lângă cap; se asigură sprijin pentru capul pacientului (Fig. 12.96).; Regiune anatomică:
+  se aliniază MSP cu raza centrală și cu masa. Se asigură absența rotației corpului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,22 +45,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire stomac și duoden sunt vizibil. poziție:'
-- 'corp și pylorus de stomach sunt filled cu barium. corect collimation field size
-  este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize gastric folds fără
-  overexposing other pertinent anatomy.
-- net structural margins indicate fără mișcare.
+- 'Stomacul și duodenul sunt vizibile în întregime. Poziție:'
+- 'Corpul și pilorul stomacului sunt umplute cu bariu. Se aplică dimensiunea corectă
+  a câmpului de colimare. Expunere:'
+- Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor
+  gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+- Marginile nete ale structurilor indică absența mișcării.
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 509
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la outer margins de receptorul de
-    imagine sau la aria de interes diagnostic pe larger receptorul de imagine. L sau
-    R marker trebuie să fie plasat within collimation field size.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 'Dimensiunea câmpului: se colimează pe cele patru laturi până la marginile
+    exterioare ale receptorului de imagine sau la zona de interes diagnostic pe un
+    receptor de imagine mai mare. Marcajul L sau R trebuie plasat în interiorul câmpului
+    de colimare.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -82,7 +88,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Polyps, diverticula, bezoars, și signs de gastritis în corp și pylorus de stomach
+        - Polipi, diverticuli, bezoari și semne de gastrită la nivelul corpului și al pilorului stomacului
 
     === "Ghid Național IRIS"
 
@@ -96,10 +102,10 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit ventral, cu brațe up beside cap; provide support pentru pacient’s cap (Fig. 12.96).; Regiune anatomică: Align MSP la raza centrală și la table. Ensure that corp este nu rotit.
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Sthenic corp type: Center raza centrală și receptorul de imagine la level de pylorus și duodenal bulb la level de l1 (1 la 2 inches [2.5 la 5 cm] above lower lateral rib margin) și about 1 inch (2.5 cm) stâng de coloană vertebrală. Asthenic corp type: Center about 2 inches (5 cm) below level de L1. Hypersthenic corp type: Center about 2 inches (5 cm) above level de L1 și nearer midline. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: se poziționează pacientul în decubit ventral, cu brațele ridicate lângă cap; se asigură sprijin pentru capul pacientului (Fig. 12.96).; Regiune anatomică: se aliniază MSP cu raza centrală și cu masa. Se asigură absența rotației corpului.
+    - **Punct de Centrare Fascicul:** Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine. Tip constituțional stenic: se centrează raza centrală și receptorul de imagine la nivelul pilorului și al bulbului duodenal, la nivelul l1 (1 la 2 inchi [2.5 la 5 cm] deasupra marginii costale inferolaterale) și la aproximativ 1 inch (2.5 cm) la stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ 2 inchi (5 cm) sub nivelul L1. Tip constituțional hiperstenic: se centrează la aproximativ 2 inchi (5 cm) deasupra nivelului L1 și mai aproape de linia mediană. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternate PA axial poziție de high transverse stomach pe hypersthenic pacient causes almost endon incidență, cu much overlapping de pyloric region de stomach și duodenal bulb cu Incidență Postero-Anterioară (PA) (Fig. 12.97). Therefore, a 35° la 45° cephalic angle de raza centrală separates these areas pentru better visualization. greater și lesser curvatures de stomach also sunt better visualized în profile. pentru infants, a 20° la 25° cephalic raza centrală angle este recommended la open corp și pylorus de stomach. (35) (43) Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.96 PA poziție. Fig. 12.97 Incidență Postero-Anterioară (PA).
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Poziție alternativă PA axială: poziția înaltă și transversală a stomacului la pacientul hiperstenic determină o vizualizare aproape de-a lungul axului său, cu suprapunere importantă a regiunii pilorice a stomacului și a bulbului duodenal în incidența postero-anterioară (PA) (Fig. 12.97). Prin urmare, o înclinare cranială de 35° la 45° a razei centrale separă aceste regiuni pentru o vizualizare mai bună. Curbura mare și curbura mică ale stomacului sunt, de asemenea, mai bine vizualizate din profil. Pentru sugari, se recomandă o înclinare cranială de 20° la 25° a razei centrale pentru a deschide corpul și pilorul stomacului. (35) (43) Tranzit Baritat Gastro-Duodenal (TBGD) DE RUTINĂ RAO PA profil drept LPO AP Fig. 12.96 Poziție PA. Fig. 12.97 Incidență Postero-Anterioară (PA).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -112,18 +118,18 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de receptorul de imagine sau la aria de interes diagnostic pe larger receptorul de imagine. L sau R marker trebuie să fie plasat within collimation field size. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului: se colimează pe cele patru laturi până la marginile exterioare ale receptorului de imagine sau la zona de interes diagnostic pe un receptor de imagine mai mare. Marcajul L sau R trebuie plasat în interiorul câmpului de colimare. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomac și duoden sunt vizibil. poziție:
-    - corp și pylorus de stomach sunt filled cu barium. corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize gastric folds fără overexposing other pertinent anatomy.
-    - net structural margins indicate fără mișcare.
+    - Stomacul și duodenul sunt vizibile în întregime. Poziție:
+    - Corpul și pilorul stomacului sunt umplute cu bariu. Se aplică dimensiunea corectă a câmpului de colimare. Expunere:
+    - Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+    - Marginile nete ale structurilor indică absența mișcării.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,9 +149,9 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.96 PA poziție.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 12.96 Poziție PA.](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.96 PA poziție.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.96 PA poziție.)</span></figcaption>
+<figcaption><strong>Fig. 12.96 Poziție PA.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.96 Poziție PA.)</span></figcaption>
 
 </figure>
 
@@ -153,7 +159,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
 
 ![Fig. 12.97 Incidență Postero-Anterioară (PA).](../../assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.97 Incidență Postero-Anterioară (PA).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.97 PA incidență.)</span></figcaption>
+<figcaption><strong>Fig. 12.97 Incidență Postero-Anterioară (PA).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.97 Incidență PA.)</span></figcaption>
 
 </figure>
 

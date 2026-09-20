@@ -10,25 +10,25 @@ centering: 'orientat one de two ways: (1) 10 grade spre heel entering base de th
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 479, imaginea 1
+- caption: Merrill — pagina 479, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig1.png
-- caption: Merrill — pagina PDF 479, imaginea 2
+- caption: Merrill — pagina 479, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig2.png
-- caption: Merrill — pagina PDF 480, imaginea 3
+- caption: Merrill — pagina 480, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p480_fig3.png
-- caption: Merrill — pagina PDF 481, imaginea 4
+- caption: Merrill — pagina 481, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p481_fig4.png
-- caption: Merrill — pagina PDF 482, imaginea 5
+- caption: Merrill — pagina 482, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p482_fig5.png
-- caption: Merrill — pagina PDF 483, imaginea 6
+- caption: Merrill — pagina 483, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p483_fig6.png
-- caption: Merrill — pagina PDF 484, imaginea 7
+- caption: Merrill — pagina 484, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p484_fig7.png
 last_updated: '2026-09-16'
@@ -139,8 +139,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 478–484
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=478
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 478–484
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1 inch
@@ -233,57 +233,57 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 479, imaginea 1](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig1.png)
+![Merrill — pagina 479, imaginea 1](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 479, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 479, imaginea 2](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 479, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 479, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 480, imaginea 3](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p480_fig3.png)
+![Merrill — pagina 479, imaginea 2](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p479_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 480, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 481, imaginea 4](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p481_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 481, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 479, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 482, imaginea 5](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p482_fig5.png)
+![Merrill — pagina 480, imaginea 3](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p480_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 482, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 483, imaginea 6](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p483_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 483, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 480, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 484, imaginea 7](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p484_fig7.png)
+![Merrill — pagina 481, imaginea 4](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p481_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 484, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 481, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 482, imaginea 5](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p482_fig5.png)
+
+<figcaption><strong>Merrill — pagina 482, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 483, imaginea 6](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p483_fig6.png)
+
+<figcaption><strong>Merrill — pagina 483, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 484, imaginea 7](../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p484_fig7.png)
+
+<figcaption><strong>Merrill — pagina 484, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -300,7 +300,7 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 478–484](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=478)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 478–484](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

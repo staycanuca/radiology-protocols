@@ -2,26 +2,26 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Raza centrală se înclină 30° caudal (spre picioare) la linie orbitomeatală
-  (LOM) sau 37° caudal la IOM linie infraorbitomeatală (LIOM) (Fig. 11.107) (see NOTE).
-  Center la MSP 2½ inches (6.5 cm) above glabelă la pass through gaură occipitală
-  mare (foramen magnum) la nivelul base de occiput. Se centrează receptorul de imagine
-  pe proiecția razei centrale.
+centering: Raza centrală se înclină cu 30° caudal (spre picioare) față de linia orbitomeatală
+  (LOM) sau cu 37° caudal față de linia infraorbitomeatală (LIOM) (Fig. 11.107) (vezi
+  NOTA). Se centrează la MSP, la 2½ inches (6.5 cm) deasupra glabelei, pentru a trece
+  prin gaura occipitală mare (foramen magnum) la nivelul bazei occiputului. Se centrează
+  receptorul de imagine pe proiecția razei centrale.
 clinical_indications:
-- Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes,
-  și Paget disease
+- Craniu, suspiciune de fractură (deplasare medială și laterală), procese neoplazice
+  și boala Paget
 images:
-- caption: Fig. 11.107 Ortostatism și Decubit dorsal (inset)—AP axial.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.107 în ortostatism
-    și în decubit dorsal (inset)—AP axial.)
+- caption: Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.107 în
+    ortostatism și în decubit dorsal (inserție)—AP axială.)
   url: assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg
-- caption: Fig. 11.108 AP axial.
+- caption: Fig. 11.108 AP axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.108
-    AP axial.)
+    AP axială.)
   url: assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg
-- caption: Fig. 11.109 AP axial.
+- caption: Fig. 11.109 AP axială.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.109
-    AP axial.)
+    AP axială.)
   url: assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -29,19 +29,20 @@ images:
   url: assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: If pacient este unable la depress bărbia sufficiently la bring linie orbitomeatală
-  (LOM) perpendicular pe receptorul de imagine even cu small sponge under capul, linie
-  infraorbitomeatală (LIOM) poate fie plasat perpendicular instead și raza centrală
-  angle increased la 37° caudal. This maintains 30° angle între linie orbitomeatală
-  (LOM) și raza centrală și evidențiază same anatomic relationships. (A 7° difference
-  exists între linie orbitomeatală (LOM) și linie infraorbitomeatală (LIOM).) 37°
-  Fig. 11.107 Ortostatism și Decubit dorsal (inset)—AP axial.
-position: 'Pacient: Remove toate metal, plastic, sau other removable objects de la
-  pacient’s cap. Take radiografie cu pacientul în Ortostatism sau Decubit dorsal poziție.;
-  Regiune anatomică: Depress chin, bringing linie orbitomeatală (LOM) perpendicular
-  pe receptorul de imagine. pentru pacienți unable la se flectează neck la this extent,
-  align linie infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine. Add
-  radiolucent support under capul if needed (see'
+notes: Dacă pacientul nu poate coborî suficient bărbia pentru a aduce linia orbitomeatală
+  (LOM) perpendiculară pe receptorul de imagine, chiar și cu un burete mic sub cap,
+  linia infraorbitomeatală (LIOM) poate fi plasată perpendicular în schimb, iar unghiul
+  razei centrale este mărit la 37° caudal. Astfel se menține un unghi de 30° între
+  linia orbitomeatală (LOM) și raza centrală și se evidențiază aceleași relații anatomice.
+  (Există o diferență de 7° între linia orbitomeatală (LOM) și linia infraorbitomeatală
+  (LIOM).) 37° Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.
+position: 'Pacient: Se îndepărtează toate obiectele metalice, din plastic sau alte
+  obiecte detașabile de pe capul pacientului. Se efectuează radiografia cu pacientul
+  în poziție de ortostatism sau decubit dorsal.; Regiune anatomică: Se coboară bărbia,
+  aducând linia orbitomeatală (LOM) perpendiculară pe receptorul de imagine. Pentru
+  pacienții care nu pot flecta gâtul până la acest nivel, se aliniază linia infraorbitomeatală
+  (LIOM) perpendicular pe receptorul de imagine. Se adaugă, dacă este necesar, un
+  suport radiotransparent sub cap (vezi'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,33 +50,36 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Occipital bone, stânci temporale (piramide pietroase), și gaură occipitală mare
-  (foramen magnum) sunt evidențiat cu dorsum sellae și posterior clinoid processes
-  visualized în shadow de gaură occipitală mare (foramen magnum) (Figs. 11.108 și
-  11.109). poziție:'
-- 'stânci temporale (piramide pietroase) trebuie să fie simetric, indicating Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase (stânci
-  temporale (piramide pietroase) will appear wider în direction de rotație spre receptorul
-  de imagine).'
-- Dorsum sellae și posterior clinoid processes visualized în gaură occipitală mare
-  (foramen magnum) indicate correct raza centrală angle și corect neck flexion/extension.
-- underangulation de raza centrală sau insufficient flexion de neck projects dorsum
-  sellae superior la gaură occipitală mare (foramen magnum). overangulation de raza
-  centrală sau excessive neck flexion superimposes posterior arch de C1 over dorsum
-  sellae within gaură occipitală mare (foramen magnum) și produces foreshortening
-  de dorsum sellae.
-- Shifting de anterior sau posterior clinoid processes laterally within gaură occipitală
-  mare (foramen magnum) indicates tilt.7
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize occipital
-  bone și sellar structures within gaură occipitală mare (foramen magnum).
-- net bony margins indicate fără mișcare. Fig. 11.108 AP axial. posterior clinoid
-  process gaură occipitală mare (foramen magnum) Occipital bone stânci temporale (piramide
-  pietroase) Mastoid region Dorsum sellae Fig. 11.109 AP axial. Craniu SERIES ROUTINE
-- AP axial (Incidență AP Axială (Metoda Towne))
-- lateral
-- PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la
-  30°
+- 'Osul occipital, stâncile temporale (piramidele pietroase) și gaura occipitală mare
+  (foramen magnum) sunt evidențiate, cu dorsum sellae și procesele clinoide posterioare
+  vizualizate în umbra găurii occipitale mari (foramen magnum) (Fig. 11.108 și 11.109).
+  poziție:'
+- 'Stâncile temporale (piramidele pietroase) trebuie să fie simetrice, indicând absența
+  rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase
+  (stânca temporală (piramida pietroasă) va apărea mai lată în direcția rotației spre
+  receptorul de imagine).'
+- Dorsum sellae și procesele clinoide posterioare vizualizate în gaura occipitală
+  mare (foramen magnum) indică un unghi corect al razei centrale și o flexie/extensie
+  corectă a gâtului.
+- Subangularea razei centrale sau flexia insuficientă a gâtului proiectează dorsum
+  sellae superior față de gaura occipitală mare (foramen magnum). Supraagularea razei
+  centrale sau flexia excesivă a gâtului suprapune arcul posterior al C1 peste dorsum
+  sellae în gaura occipitală mare (foramen magnum) și produce scurtarea aparentă a
+  dorsum sellae.
+- Deplasarea proceselor clinoide anterior și posterior lateral, în interiorul găurii
+  occipitale mari (foramen magnum), indică înclinare.7
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul receptorului de imagine sunt suficiente pentru a vizualiza
+  osul occipital și structurile șeii în interiorul găurii occipitale mari (foramen
+  magnum).
+- Marginile osoase nete indică absența mișcării. Fig. 11.108 AP axială. Proces clinoid
+  posterior Gaura occipitală mare (foramen magnum) Os occipital Stânci temporale (piramide
+  pietroase) Regiune mastoidiană Dorsum sellae Fig. 11.109 AP axială. Craniu SERIE
+  DE RUTINĂ
+- AP axială (incidență AP axială (metoda Towne))
+- laterală
+- PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25°
+  la 30°
 - PA
 sid_dff: 100 cm
 slug: rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager
@@ -83,16 +87,16 @@ sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 437
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-90
   mas: DE CONFIGURAT PE APARAT
-title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
+title: Rx Craniu SERIE AP axială (incidență AP axială (metoda Towne))
 ---
-# Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
+# Rx Craniu SERIE AP axială (incidență AP axială (metoda Towne))
 
 
 <div class="rx-meta-bar">
@@ -111,7 +115,7 @@ title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură (medial și lateral displacement), neoplastic processes, și Paget disease
+        - Craniu, suspiciune de fractură (deplasare medială și laterală), procese neoplazice și boala Paget
 
     === "Ghid Național IRIS"
 
@@ -125,8 +129,8 @@ title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove toate metal, plastic, sau other removable objects de la pacient’s cap. Take radiografie cu pacientul în Ortostatism sau Decubit dorsal poziție.; Regiune anatomică: Depress chin, bringing linie orbitomeatală (LOM) perpendicular pe receptorul de imagine. pentru pacienți unable la se flectează neck la this extent, align linie infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine. Add radiolucent support under capul if needed (see
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 30° caudal (spre picioare) la linie orbitomeatală (LOM) sau 37° caudal la IOM linie infraorbitomeatală (LIOM) (Fig. 11.107) (see NOTE). Center la MSP 2½ inches (6.5 cm) above glabelă la pass through gaură occipitală mare (foramen magnum) la nivelul base de occiput. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice, din plastic sau alte obiecte detașabile de pe capul pacientului. Se efectuează radiografia cu pacientul în poziție de ortostatism sau decubit dorsal.; Regiune anatomică: Se coboară bărbia, aducând linia orbitomeatală (LOM) perpendiculară pe receptorul de imagine. Pentru pacienții care nu pot flecta gâtul până la acest nivel, se aliniază linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine. Se adaugă, dacă este necesar, un suport radiotransparent sub cap (vezi
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 30° caudal (spre picioare) față de linia orbitomeatală (LOM) sau cu 37° caudal față de linia infraorbitomeatală (LIOM) (Fig. 11.107) (vezi NOTA). Se centrează la MSP, la 2½ inches (6.5 cm) deasupra glabelei, pentru a trece prin gaura occipitală mare (foramen magnum) la nivelul bazei occiputului. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -141,25 +145,25 @@ title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Occipital bone, stânci temporale (piramide pietroase), și gaură occipitală mare (foramen magnum) sunt evidențiat cu dorsum sellae și posterior clinoid processes visualized în shadow de gaură occipitală mare (foramen magnum) (Figs. 11.108 și 11.109). poziție:
-    - stânci temporale (piramide pietroase) trebuie să fie simetric, indicating Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase (stânci temporale (piramide pietroase) will appear wider în direction de rotație spre receptorul de imagine).
-    - Dorsum sellae și posterior clinoid processes visualized în gaură occipitală mare (foramen magnum) indicate correct raza centrală angle și corect neck flexion/extension.
-    - underangulation de raza centrală sau insufficient flexion de neck projects dorsum sellae superior la gaură occipitală mare (foramen magnum). overangulation de raza centrală sau excessive neck flexion superimposes posterior arch de C1 over dorsum sellae within gaură occipitală mare (foramen magnum) și produces foreshortening de dorsum sellae.
-    - Shifting de anterior sau posterior clinoid processes laterally within gaură occipitală mare (foramen magnum) indicates tilt.7
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize occipital bone și sellar structures within gaură occipitală mare (foramen magnum).
-    - net bony margins indicate fără mișcare. Fig. 11.108 AP axial. posterior clinoid process gaură occipitală mare (foramen magnum) Occipital bone stânci temporale (piramide pietroase) Mastoid region Dorsum sellae Fig. 11.109 AP axial. Craniu SERIES ROUTINE
-    - AP axial (Incidență AP Axială (Metoda Towne))
-    - lateral
-    - PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30°
+    - Osul occipital, stâncile temporale (piramidele pietroase) și gaura occipitală mare (foramen magnum) sunt evidențiate, cu dorsum sellae și procesele clinoide posterioare vizualizate în umbra găurii occipitale mari (foramen magnum) (Fig. 11.108 și 11.109). poziție:
+    - Stâncile temporale (piramidele pietroase) trebuie să fie simetrice, indicând absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase (stânca temporală (piramida pietroasă) va apărea mai lată în direcția rotației spre receptorul de imagine).
+    - Dorsum sellae și procesele clinoide posterioare vizualizate în gaura occipitală mare (foramen magnum) indică un unghi corect al razei centrale și o flexie/extensie corectă a gâtului.
+    - Subangularea razei centrale sau flexia insuficientă a gâtului proiectează dorsum sellae superior față de gaura occipitală mare (foramen magnum). Supraagularea razei centrale sau flexia excesivă a gâtului suprapune arcul posterior al C1 peste dorsum sellae în gaura occipitală mare (foramen magnum) și produce scurtarea aparentă a dorsum sellae.
+    - Deplasarea proceselor clinoide anterior și posterior lateral, în interiorul găurii occipitale mari (foramen magnum), indică înclinare.7
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul receptorului de imagine sunt suficiente pentru a vizualiza osul occipital și structurile șeii în interiorul găurii occipitale mari (foramen magnum).
+    - Marginile osoase nete indică absența mișcării. Fig. 11.108 AP axială. Proces clinoid posterior Gaura occipitală mare (foramen magnum) Os occipital Stânci temporale (piramide pietroase) Regiune mastoidiană Dorsum sellae Fig. 11.109 AP axială. Craniu SERIE DE RUTINĂ
+    - AP axială (incidență AP axială (metoda Towne))
+    - laterală
+    - PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25° la 30°
     - PA
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -173,7 +177,7 @@ title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If pacient este unable la depress bărbia sufficiently la bring linie orbitomeatală (LOM) perpendicular pe receptorul de imagine even cu small sponge under capul, linie infraorbitomeatală (LIOM) poate fie plasat perpendicular instead și raza centrală angle increased la 37° caudal. This maintains 30° angle între linie orbitomeatală (LOM) și raza centrală și evidențiază same anatomic relationships. (A 7° difference exists între linie orbitomeatală (LOM) și linie infraorbitomeatală (LIOM).) 37° Fig. 11.107 Ortostatism și Decubit dorsal (inset)—AP axial.
+    Dacă pacientul nu poate coborî suficient bărbia pentru a aduce linia orbitomeatală (LOM) perpendiculară pe receptorul de imagine, chiar și cu un burete mic sub cap, linia infraorbitomeatală (LIOM) poate fi plasată perpendicular în schimb, iar unghiul razei centrale este mărit la 37° caudal. Astfel se menține un unghi de 30° între linia orbitomeatală (LOM) și raza centrală și se evidențiază aceleași relații anatomice. (Există o diferență de 7° între linia orbitomeatală (LOM) și linia infraorbitomeatală (LIOM).) 37° Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.
 
 
 ### 🖼️ Imagini
@@ -182,25 +186,25 @@ title: Rx Craniu SERIES AP Axială (Incidență AP Axială (Metoda Towne))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.107 Ortostatism și Decubit dorsal (inset)—AP axial.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
+![Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.107 Ortostatism și Decubit dorsal (inset)—AP axial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.107 în ortostatism și în decubit dorsal (inset)—AP axial.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.108 AP axial.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.108 AP axial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.108 AP axial.)</span></figcaption>
+<figcaption><strong>Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.107 în ortostatism și în decubit dorsal (inserție)—AP axială.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.109 AP axial.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg)
+![Fig. 11.108 AP axială.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.109 AP axial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.109 AP axial.)</span></figcaption>
+<figcaption><strong>Fig. 11.108 AP axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.108 AP axială.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.109 AP axială.](../../assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.109 AP axială.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.109 AP axială.)</span></figcaption>
 
 </figure>
 

@@ -2,41 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: abdomen
-centering: la level de T6 (2 la 3 inches [5 la 8 cm] inferior la incizura jugulară
-  (manubriul sternal))
+centering: la nivelul T6 (2 la 3 țoli [5 la 8 cm] inferior de incizura jugulară (manubriul
+  sternal))
 clinical_indications:
-- Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces
-  proliferativ tumorals de esophagus
+- Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese
+  proliferative tumorale ale esofagului
 images:
-- caption: Fig. 12.85 drept lateral—brațe up.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.85 drept lateral—brațe
-    up.)
+- caption: Fig. 12.85 Profil drept—brațele ridicate.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.85 Profil
+    drept—brațele ridicate.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 12.86 Optional—swimmer’s lateral pentru better visualization de
+- caption: Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare
+    a
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.86
-    Optional—swimmer’s lateral pentru better visualization de)
+    Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 12.87 lateral esophagus—brațe up.
+- caption: Fig. 12.87 Esofag în incidență de profil—brațele ridicate.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.87
-    lateral esophagus—brațe up.)
+    Esofag în incidență de profil—brațele ridicate.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: See preceding page pentru barium swallow instructions. Optional Swimmer’s Incidență
-  de Profil (lateral) This poziție (Fig. 12.86) allows pentru better demonstration
-  de upper esophagus fără superimposition de brațe și umeri. poziție hips și umeri
-  în true Incidență de Profil (lateral); separate umeri de la esophageal region prin
-  placing upside Umăr down și back, cu braț behind back. Place downside Umăr și braț
-  up și în front la hold cup de barium. Tranzit Esofagian (Esofagobaritat) ROUTINE
-  RAO (35° la 40°) lateral AP (PA) Fig. 12.85 drept lateral—brațe up. Fig. 12.86 Optional—swimmer’s
-  lateral pentru better visualization de upper esophagus. Fig. 12.87 lateral esophagus—brațe
-  up.
-position: 'Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig.
-  12.85).; Regiune anatomică: Place pacient’s brațe near capul, cu coate flectat și
-  superimposed. Align plan mediocoronal la midline de receptorul de imagine sau table.
-  Place umeri și hips în true Incidență de Profil (lateral). Place top de receptorul
-  de imagine about 2 inches (5 cm) above level de umeri, la place center de receptorul
-  de imagine la raza centrală.'
+notes: Consultați pagina precedentă pentru instrucțiunile privind înghițirea suspensiei
+  baritate. Incidență de profil în poziția înotătorului, opțională Această poziție
+  (Fig. 12.86) permite o mai bună evidențiere a porțiunii superioare a esofagului,
+  fără suprapunerea brațelor și a umerilor. Poziționați șoldurile și umerii în profil
+  strict; îndepărtați umerii de regiunea esofagiană, așezând umărul de deasupra în
+  jos și înapoi, cu brațul în spatele corpului. Așezați umărul și brațul de dedesubt
+  în sus și în față, pentru a ține paharul cu suspensie baritată. Tranzit Esofagian
+  (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.85 Profil drept—brațele
+  ridicate. Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare
+  a porțiunii superioare a esofagului. Fig. 12.87 Esofag în incidență de profil—brațele
+  ridicate.
+position: 'Pacient: pacientul în decubit sau în ortostatism (de preferat în decubit)
+  (Fig. 12.85).; Regiune anatomică: Așezați brațele pacientului lângă cap, cu coatele
+  flectate și suprapuse. Aliniați planul mediocoronal cu linia mediană a receptorului
+  de imagine sau a mesei. Așezați umerii și șoldurile în profil strict. Așezați marginea
+  superioară a receptorului de imagine la aproximativ 2 țoli (5 cm) deasupra nivelului
+  umerilor, pentru a alinia centrul receptorului de imagine cu raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,23 +47,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire esophagus este seen între Coloană Toracală și heart (Fig. 12.87). poziție:'
-- True lateral este indicated prin direct superimposition de posterior Coaste (Grilaj
-  Costal).
-- pacient’s brațe trebuie să nu superimpose esophagus.
-- Entire esophagus este filled sau lined cu contrast media.
-- 'corect collimation field size este applied. expunere:'
-- Appropriate technique este used la visualize clearly margini de contrast media–filled
-  esophagus.
-- net structural margins indicate fără mișcare.
+- 'Întregul esofag este vizibil între coloana toracală și cord (Fig. 12.87). Poziție:'
+- Profilul strict este indicat de suprapunerea directă a arcurilor costale posterioare
+  (grilaj costal).
+- Brațele pacientului nu trebuie să se suprapună peste esofag.
+- Întregul esofag este umplut sau tapetat cu substanță de contrast.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Se utilizează o tehnică adecvată pentru a vizualiza clar contururile esofagului
+  umplut cu substanță de contrast.
+- Marginile nete ale structurilor indică absența mișcării.
 sid_dff: 100 cm
 slug: rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 505
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: field size.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: dimensiunea câmpului.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -87,7 +90,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces proliferativ tumorals de esophagus
+        - Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese proliferative tumorale ale esofagului
 
     === "Ghid Național IRIS"
 
@@ -101,8 +104,8 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig. 12.85).; Regiune anatomică: Place pacient’s brațe near capul, cu coate flectat și superimposed. Align plan mediocoronal la midline de receptorul de imagine sau table. Place umeri și hips în true Incidență de Profil (lateral). Place top de receptorul de imagine about 2 inches (5 cm) above level de umeri, la place center de receptorul de imagine la raza centrală.
-    - **Punct de Centrare Fascicul:** la level de T6 (2 la 3 inches [5 la 8 cm] inferior la incizura jugulară (manubriul sternal))
+    - **Poziție Pacient:** Pacient: pacientul în decubit sau în ortostatism (de preferat în decubit) (Fig. 12.85).; Regiune anatomică: Așezați brațele pacientului lângă cap, cu coatele flectate și suprapuse. Aliniați planul mediocoronal cu linia mediană a receptorului de imagine sau a mesei. Așezați umerii și șoldurile în profil strict. Așezați marginea superioară a receptorului de imagine la aproximativ 2 țoli (5 cm) deasupra nivelului umerilor, pentru a alinia centrul receptorului de imagine cu raza centrală.
+    - **Punct de Centrare Fascicul:** la nivelul T6 (2 la 3 țoli [5 la 8 cm] inferior de incizura jugulară (manubriul sternal))
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -117,21 +120,21 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | field size. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | dimensiunea câmpului. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire esophagus este seen între Coloană Toracală și heart (Fig. 12.87). poziție:
-    - True lateral este indicated prin direct superimposition de posterior Coaste (Grilaj Costal).
-    - pacient’s brațe trebuie să nu superimpose esophagus.
-    - Entire esophagus este filled sau lined cu contrast media.
-    - corect collimation field size este applied. expunere:
-    - Appropriate technique este used la visualize clearly margini de contrast media–filled esophagus.
-    - net structural margins indicate fără mișcare.
+    - Întregul esofag este vizibil între coloana toracală și cord (Fig. 12.87). Poziție:
+    - Profilul strict este indicat de suprapunerea directă a arcurilor costale posterioare (grilaj costal).
+    - Brațele pacientului nu trebuie să se suprapună peste esofag.
+    - Întregul esofag este umplut sau tapetat cu substanță de contrast.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Se utilizează o tehnică adecvată pentru a vizualiza clar contururile esofagului umplut cu substanță de contrast.
+    - Marginile nete ale structurilor indică absența mișcării.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -144,7 +147,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    See preceding page pentru barium swallow instructions. Optional Swimmer’s Incidență de Profil (lateral) This poziție (Fig. 12.86) allows pentru better demonstration de upper esophagus fără superimposition de brațe și umeri. poziție hips și umeri în true Incidență de Profil (lateral); separate umeri de la esophageal region prin placing upside Umăr down și back, cu braț behind back. Place downside Umăr și braț up și în front la hold cup de barium. Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° la 40°) lateral AP (PA) Fig. 12.85 drept lateral—brațe up. Fig. 12.86 Optional—swimmer’s lateral pentru better visualization de upper esophagus. Fig. 12.87 lateral esophagus—brațe up.
+    Consultați pagina precedentă pentru instrucțiunile privind înghițirea suspensiei baritate. Incidență de profil în poziția înotătorului, opțională Această poziție (Fig. 12.86) permite o mai bună evidențiere a porțiunii superioare a esofagului, fără suprapunerea brațelor și a umerilor. Poziționați șoldurile și umerii în profil strict; îndepărtați umerii de regiunea esofagiană, așezând umărul de deasupra în jos și înapoi, cu brațul în spatele corpului. Așezați umărul și brațul de dedesubt în sus și în față, pentru a ține paharul cu suspensie baritată. Tranzit Esofagian (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.85 Profil drept—brațele ridicate. Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a porțiunii superioare a esofagului. Fig. 12.87 Esofag în incidență de profil—brațele ridicate.
 
 
 ### 🖼️ Imagini
@@ -153,25 +156,25 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.85 drept lateral—brațe up.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 12.85 Profil drept—brațele ridicate.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.85 drept lateral—brațe up.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.85 drept lateral—brațe up.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 12.86 Optional—swimmer’s lateral pentru better visualization de](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 12.86 Optional—swimmer’s lateral pentru better visualization de</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.86 Optional—swimmer’s lateral pentru better visualization de)</span></figcaption>
+<figcaption><strong>Fig. 12.85 Profil drept—brațele ridicate.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.85 Profil drept—brațele ridicate.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.87 lateral esophagus—brațe up.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.87 lateral esophagus—brațe up.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.87 lateral esophagus—brațe up.)</span></figcaption>
+<figcaption><strong>Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 12.87 Esofag în incidență de profil—brațele ridicate.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 12.87 Esofag în incidență de profil—brațele ridicate.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.87 Esofag în incidență de profil—brațele ridicate.)</span></figcaption>
 
 </figure>
 

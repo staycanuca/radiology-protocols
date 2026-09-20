@@ -8,7 +8,7 @@ centering: orizontal și perpendicular pe centrul receptorului de imagine, enter
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1486, imaginea 1
+- caption: Merrill — pagina 1486, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-20-mobile-radiography-ap-or-incidenta-postero-anterioara-pa-c-right-or-left-incidenta-decubit-lateral-p1485-merrill/p1486_fig1.png
 last_updated: '2026-09-16'
@@ -78,8 +78,8 @@ source_sections:
   tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu longitudinal
     grilă.
 sources:
-- title: Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1485–1486
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1485
+- title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1485–1486
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
@@ -163,9 +163,9 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1486, imaginea 1](../../assets/images/protocols/merrill/rx-20-mobile-radiography-ap-or-incidenta-postero-anterioara-pa-c-right-or-left-incidenta-decubit-lateral-p1485-merrill/p1486_fig1.png)
+![Merrill — pagina 1486, imaginea 1](../../assets/images/protocols/merrill/rx-20-mobile-radiography-ap-or-incidenta-postero-anterioara-pa-c-right-or-left-incidenta-decubit-lateral-p1485-merrill/p1486_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1486, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1486, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -182,7 +182,7 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1485–1486](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1485)
+- [Merrill’s Atlas, 20. Mobile Radiography, pagini 1485–1486](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

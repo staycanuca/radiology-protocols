@@ -57,7 +57,7 @@ sid_dff: 100 cm
 slug: rx-canal-carpian-axiala-method-1-p69-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 69
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=69
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -186,4 +186,4 @@ title: Rx Canal Carpian Axială - method 1
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 69](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=69)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 69](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

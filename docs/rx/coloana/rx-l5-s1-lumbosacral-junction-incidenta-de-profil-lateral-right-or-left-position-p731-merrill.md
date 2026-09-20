@@ -2,51 +2,52 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: 'ridicat spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară
-  (SIAS)) este easily palpated și found în toate pacienți when culcat pe side. spină
-  iliacă antero-superioară (SIAS) provides standardized și precis reference point
-  de la which la se centrează L5–S1 junction. Center pe plan coronal 2 inches (5 cm)
-  posterior la spină iliacă antero-superioară (SIAS) și 1.5 inches (3.8 cm) inferior
-  la crestele iliace. Se centrează receptorul de imagine pe raza centrală. When coloană
-  vertebrală cannot fie poziționat orizontal, raza centrală este înclinat 5 grade
-  caudally pentru male pacienți și 8 grade caudally pentru female pacienți. Francis
-  20 identified alternative technique la show open L5–S1 intervertebral disk space
-  when coloană vertebrală este nu orizontal: 1. cu pacientul în Incidență de Profil
-  (lateral), locate ambele creste iliace. 2. Draw imaginary line între two points
-  (interiliac plane). 3. Adjust raza centrală angulation la fie paralel cu interiliac
-  line (see Fig. 9.93B–D).'
+centering: 'Spina iliacă antero-superioară (SIAS) este ușor palpabilă și poate fi
+  identificată la toți pacienții aflați în decubit lateral. SIAS oferă un punct de
+  reper standardizat și precis pentru centrarea joncțiunii L5–S1. Centrați în plan
+  coronal la 2 inches (5 cm) posterior de SIAS și la 1.5 inches (3.8 cm) inferior
+  de crestele iliace. Centrați receptorul de imagine pe raza centrală. Când coloana
+  vertebrală nu poate fi poziționată orizontal, raza centrală este înclinată cu 5
+  grade caudal pentru pacienții de sex masculin și cu 8 grade caudal pentru pacienții
+  de sex feminin. Francis 20 a identificat o tehnică alternativă pentru evidențierea
+  deschisă a spațiului discului intervertebral L5–S1 atunci când coloana vertebrală
+  nu este orizontală: 1. Cu pacientul în incidență de profil, identificați ambele
+  creste iliace. 2. Trasați o linie imaginară între cele două puncte (plan interiliac).
+  3. Ajustați angulația razei centrale astfel încât să fie paralelă cu linia interiliacă
+  (vezi Fig. 9.93B–D).'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 732, imaginea 1
+- caption: Merrill — pagina 732, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p732_fig1.png
-- caption: Merrill — pagina PDF 733, imaginea 2
+- caption: Merrill — pagina 733, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p733_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Examine L5–S1 lumbosacral region cu pacientul în lateral Decubit poziție.;
-  cu pacientul în Decubit poziție, se ajustează pillow la place MSP de capul în same
-  plane cu coloană vertebrală. Adjust MCP de corp (passing through șoldurile și umeri)
-  aliniat perpendicular pe receptorul de imagine (RI). se flectează pacient’s Cot
-  și se ajustează dependent braț în poziție în unghi drept față de corp (Fig. 9.93A).
-  se flectează pacient’s hips și genunchi, superimpose genunchii, și place support
-  între them. ca described pentru Incidență de Profil (lateral), place radiolucent
-  support under lower thorax și adjust it astfel încât axa longitudinală de coloană
-  vertebrală este horizon̍ al (see Fig. 9.93A). This este preferred method. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Examinați regiunea lombosacrată L5–S1 cu pacientul în decubit lateral.;
+  cu pacientul în decubit, ajustați perna pentru a plasa MSP al capului în același
+  plan cu coloana vertebrală. Ajustați MCP al corpului (care trece prin șolduri și
+  umeri) astfel încât să fie aliniat perpendicular pe receptorul de imagine (RI).
+  Flectați cotul pacientului și ajustați brațul dependent în poziție perpendiculară
+  pe corp (Fig. 9.93A). Flectați șoldurile și genunchii pacientului, suprapuneți genunchii
+  și plasați un suport între aceștia. Așa cum este descris pentru incidența de profil,
+  plasați un suport radiotransparent sub partea inferioară a toracelui și ajustați-l
+  astfel încât axa longitudinală a coloanei vertebrale să fie orizontală (vezi Fig.
+  9.93A). Aceasta este metoda preferată. Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Lumbosacral articulație în center de imagine
-- Open lumbosacral intervertebral disk space
-- creste de ilia closely superimposing fiecare other when x-ray fascicul este nu înclinat
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Articulația lombosacrată în centrul imaginii
+- Spațiul deschis al discului intervertebral lombosacrat
+- Crestele iliace se suprapun îndeaproape una peste cealaltă atunci când fasciculul
+  de raze X nu este înclinat
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill
 source_pages:
@@ -54,85 +55,84 @@ source_pages:
 - 732
 - 733
 source_sections:
-  anatomy: lumbosacral junction, lower one sau two coloană lombară, și upper sacrum
-    (Fig. 9.94).
-  collimation: '• Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
-    This este high-scatter incidență. colimare strânsă este essential. Place
+  anatomy: Joncțiunea lombosacrată, una sau două vertebre lombare inferioare și partea
+    superioară a sacrului (Fig. 9.94).
+  collimation: • Ajustați câmpul de iradiere la formatul 15 × 20 cm pe colimator.
+    Aceasta este o incidență cu împrăștiere mare. Colimarea strânsă este esențială.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• Spina iliacă antero-superioară (SIAS) este ușor palpabilă și poate fi identificată
+    la toți pacienții aflați în decubit lateral. SIAS oferă un punct de reper standardizat
+    și precis pentru centrarea joncțiunii L5–S1.
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• ridicat spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară
-    (SIAS)) este easily palpated și found în toate pacienți when culcat pe side. spină
-    iliacă antero-superioară (SIAS) provides standardized și precis reference point
-    de la which la se centrează L5–S1 junction.
+    • Centrați în plan coronal la 2 inches (5 cm) posterior de SIAS și la 1.5 inches
+    (3.8 cm) inferior de crestele iliace.
 
-    • Center pe plan coronal 2 inches (5 cm) posterior la spină iliacă antero-superioară
-    (SIAS) și 1.5 inches (3.8 cm) inferior la crestele iliace.
+    • Centrați receptorul de imagine pe raza centrală.
 
-    • Se centrează receptorul de imagine pe raza centrală.
+    • Când coloana vertebrală nu poate fi poziționată orizontal, raza centrală este
+    înclinată cu 5 grade caudal pentru pacienții de sex masculin și cu 8 grade caudal
+    pentru pacienții de sex feminin.
 
-    • When coloană vertebrală cannot fie poziționat orizontal, raza centrală este
-    înclinat 5 grade caudally pentru male pacienți și 8 grade caudally
+    • Francis 20 a identificat o tehnică alternativă pentru evidențierea deschisă
+    a spațiului discului intervertebral L5–S1 atunci când coloana vertebrală nu este
+    orizontală:
 
-    pentru female pacienți.
+    1. Cu pacientul în poziție de profil, identificați ambele creste iliace.
 
-    • Francis 20 identified alternative technique la show open L5–S1 intervertebral
-    disk space when coloană vertebrală este nu orizontal:
+    2. Trasați o linie imaginară între cele două puncte (plan interiliac).
 
-    1. cu pacientul în poziție de profil (lateral), locate ambele creste iliace.
+    3. Ajustați angulația razei centrale astfel încât să fie paralelă cu linia interiliacă
+    (vezi Fig. 9.93B–D).'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    2. Draw imaginary line între two points (interiliac plane).
+    • Evidența colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    3. Adjust raza centrală angulation la fie paralel cu interiliac line (see Fig.
-    9.93B–D).'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Articulația lombosacrată în centrul imaginii
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Spațiul deschis al discului intervertebral lombosacrat
 
-    • Lumbosacral articulație în center de imagine
+    • Crestele iliace se suprapun îndeaproape una peste cealaltă atunci când fasciculul
+    de raze X nu este înclinat
 
-    • Open lumbosacral intervertebral disk space
+    • Detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• Cu pacientul în poziție de decubit, ajustați perna pentru a plasa MSP
+    al capului în același plan cu coloana vertebrală.
 
-    • creste de ilia closely superimposing fiecare other when x-ray fascicul este
-    nu înclinat
+    • Ajustați MCP al corpului (care trece prin șolduri și umeri) astfel încât să
+    fie aliniat perpendicular pe receptorul de imagine (RI).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu pacientul în recumbent poziție, se ajustează pillow la place MSP
-    de capul în same plane cu coloană vertebrală.
+    • Flectați cotul pacientului și ajustați brațul dependent în poziție perpendiculară
+    pe corp (Fig. 9.93A).
 
-    • Adjust MCP de corp (passing through șoldurile și umeri) aliniat perpendicular
-    pe receptorul de imagine (RI).
+    • Flectați șoldurile și genunchii pacientului, suprapuneți genunchii și plasați
+    un suport între aceștia.
 
-    • se flectează pacient’s cot și se ajustează dependent braț în poziție în unghi
-    drept față de corp (Fig. 9.93A).
+    • Așa cum este descris pentru incidența laterală, plasați un suport radiotransparent
+    sub partea inferioară a toracelui și ajustați-l astfel încât axa longitudinală
+    a coloanei vertebrale să fie orizontală (vezi Fig. 9.93A). Aceasta este metoda
+    preferată.
 
-    • se flectează pacient’s hips și genunchi, superimpose genunchii, și place support
-    între them.
-
-    • ca described pentru lateral incidență, place radiolucent support under lower
-    thorax și adjust it astfel încât axa longitudinală de coloană vertebrală este
-    horizon̍ al (see Fig. 9.93A). This este preferred method.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Examine L5–S1 lumbosacral region cu pacientul în lateral recumbent
-    poziție.
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Examinați regiunea lombosacrată L5–S1 cu pacientul în decubit lateral.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 731–733
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=731
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 731–733
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
-    This este high-scatter incidență. colimare strânsă este essential. Place marker
-    de lateralitate (D/S) în collimated expunere field.
-title: Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — Profil (Drept
-  sau Stâng) (Merrill)
+  collimation: Ajustați câmpul de iradiere la formatul 15 × 20 cm pe colimator. Aceasta
+    este o incidență cu împrăștiere mare. Colimarea strânsă este esențială. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx L5–S1 Joncțiune lombosacrată — Incidență de profil (lateral) — Profil drept
+  sau stâng
 ---
-# Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) (Merrill)
+# Rx L5–S1 Joncțiune lombosacrată — Incidență de profil (lateral) — Profil drept sau stâng
 
 
 <div class="rx-meta-bar">
@@ -165,8 +165,8 @@ title: Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — P
 
     ---
 
-    - **Poziție Pacient:** Examine L5–S1 lumbosacral region cu pacientul în lateral Decubit poziție.; cu pacientul în Decubit poziție, se ajustează pillow la place MSP de capul în same plane cu coloană vertebrală. Adjust MCP de corp (passing through șoldurile și umeri) aliniat perpendicular pe receptorul de imagine (RI). se flectează pacient’s Cot și se ajustează dependent braț în poziție în unghi drept față de corp (Fig. 9.93A). se flectează pacient’s hips și genunchi, superimpose genunchii, și place support între them. ca described pentru Incidență de Profil (lateral), place radiolucent support under lower thorax și adjust it astfel încât axa longitudinală de coloană vertebrală este horizon̍ al (see Fig. 9.93A). This este preferred method. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** ridicat spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) este easily palpated și found în toate pacienți when culcat pe side. spină iliacă antero-superioară (SIAS) provides standardized și precis reference point de la which la se centrează L5–S1 junction. Center pe plan coronal 2 inches (5 cm) posterior la spină iliacă antero-superioară (SIAS) și 1.5 inches (3.8 cm) inferior la crestele iliace. Se centrează receptorul de imagine pe raza centrală. When coloană vertebrală cannot fie poziționat orizontal, raza centrală este înclinat 5 grade caudally pentru male pacienți și 8 grade caudally pentru female pacienți. Francis 20 identified alternative technique la show open L5–S1 intervertebral disk space when coloană vertebrală este nu orizontal: 1. cu pacientul în Incidență de Profil (lateral), locate ambele creste iliace. 2. Draw imaginary line între two points (interiliac plane). 3. Adjust raza centrală angulation la fie paralel cu interiliac line (see Fig. 9.93B–D).
+    - **Poziție Pacient:** Examinați regiunea lombosacrată L5–S1 cu pacientul în decubit lateral.; cu pacientul în decubit, ajustați perna pentru a plasa MSP al capului în același plan cu coloana vertebrală. Ajustați MCP al corpului (care trece prin șolduri și umeri) astfel încât să fie aliniat perpendicular pe receptorul de imagine (RI). Flectați cotul pacientului și ajustați brațul dependent în poziție perpendiculară pe corp (Fig. 9.93A). Flectați șoldurile și genunchii pacientului, suprapuneți genunchii și plasați un suport între aceștia. Așa cum este descris pentru incidența de profil, plasați un suport radiotransparent sub partea inferioară a toracelui și ajustați-l astfel încât axa longitudinală a coloanei vertebrale să fie orizontală (vezi Fig. 9.93A). Aceasta este metoda preferată. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Spina iliacă antero-superioară (SIAS) este ușor palpabilă și poate fi identificată la toți pacienții aflați în decubit lateral. SIAS oferă un punct de reper standardizat și precis pentru centrarea joncțiunii L5–S1. Centrați în plan coronal la 2 inches (5 cm) posterior de SIAS și la 1.5 inches (3.8 cm) inferior de crestele iliace. Centrați receptorul de imagine pe raza centrală. Când coloana vertebrală nu poate fi poziționată orizontal, raza centrală este înclinată cu 5 grade caudal pentru pacienții de sex masculin și cu 8 grade caudal pentru pacienții de sex feminin. Francis 20 a identificat o tehnică alternativă pentru evidențierea deschisă a spațiului discului intervertebral L5–S1 atunci când coloana vertebrală nu este orizontală: 1. Cu pacientul în incidență de profil, identificați ambele creste iliace. 2. Trasați o linie imaginară între cele două puncte (plan interiliac). 3. Ajustați angulația razei centrale astfel încât să fie paralelă cu linia interiliacă (vezi Fig. 9.93B–D).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -182,19 +182,19 @@ title: Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — P
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator. This este high-scatter incidență. colimare strânsă este essential. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la formatul 15 × 20 cm pe colimator. Aceasta este o incidență cu împrăștiere mare. Colimarea strânsă este esențială. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Lumbosacral articulație în center de imagine
-    - Open lumbosacral intervertebral disk space
-    - creste de ilia closely superimposing fiecare other when x-ray fascicul este nu înclinat
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Articulația lombosacrată în centrul imaginii
+    - Spațiul deschis al discului intervertebral lombosacrat
+    - Crestele iliace se suprapun îndeaproape una peste cealaltă atunci când fasciculul de raze X nu este înclinat
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -214,17 +214,17 @@ title: Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — P
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 732, imaginea 1](../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p732_fig1.png)
+![Merrill — pagina 732, imaginea 1](../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p732_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 732, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 732, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 733, imaginea 2](../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p733_fig2.png)
+![Merrill — pagina 733, imaginea 2](../../assets/images/protocols/merrill/rx-l5-s1-lumbosacral-junction-incidenta-de-profil-lateral-right-or-left-position-p731-merrill/p733_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 733, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 733, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -241,59 +241,57 @@ title: Rx L5–S1 Lumbosacral Junction — Incidență de Profil (Lateral) — P
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 731–733](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=731)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 731–733](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lumbosacral junction, lower one sau two coloană lombară, și upper sacrum (Fig. 9.94).
+Joncțiunea lombosacrată, una sau două vertebre lombare inferioare și partea superioară a sacrului (Fig. 9.94).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator. This este high-scatter incidență. colimare strânsă este essential. Place
-marker de lateralitate (D/S) în collimated expunere field.
+• Ajustați câmpul de iradiere la formatul 15 × 20 cm pe colimator. Aceasta este o incidență cu împrăștiere mare. Colimarea strânsă este esențială. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• ridicat spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) este easily palpated și found în toate pacienți when culcat pe side. spină iliacă antero-superioară (SIAS) provides standardized și precis reference point de la which la se centrează L5–S1 junction.
-• Center pe plan coronal 2 inches (5 cm) posterior la spină iliacă antero-superioară (SIAS) și 1.5 inches (3.8 cm) inferior la crestele iliace.
-• Se centrează receptorul de imagine pe raza centrală.
-• When coloană vertebrală cannot fie poziționat orizontal, raza centrală este înclinat 5 grade caudally pentru male pacienți și 8 grade caudally
-pentru female pacienți.
-• Francis 20 identified alternative technique la show open L5–S1 intervertebral disk space when coloană vertebrală este nu orizontal:
-1. cu pacientul în poziție de profil (lateral), locate ambele creste iliace.
-2. Draw imaginary line între two points (interiliac plane).
-3. Adjust raza centrală angulation la fie paralel cu interiliac line (see Fig. 9.93B–D).
+• Spina iliacă antero-superioară (SIAS) este ușor palpabilă și poate fi identificată la toți pacienții aflați în decubit lateral. SIAS oferă un punct de reper standardizat și precis pentru centrarea joncțiunii L5–S1.
+• Centrați în plan coronal la 2 inches (5 cm) posterior de SIAS și la 1.5 inches (3.8 cm) inferior de crestele iliace.
+• Centrați receptorul de imagine pe raza centrală.
+• Când coloana vertebrală nu poate fi poziționată orizontal, raza centrală este înclinată cu 5 grade caudal pentru pacienții de sex masculin și cu 8 grade caudal pentru pacienții de sex feminin.
+• Francis 20 a identificat o tehnică alternativă pentru evidențierea deschisă a spațiului discului intervertebral L5–S1 atunci când coloana vertebrală nu este orizontală:
+1. Cu pacientul în poziție de profil, identificați ambele creste iliace.
+2. Trasați o linie imaginară între cele două puncte (plan interiliac).
+3. Ajustați angulația razei centrale astfel încât să fie paralelă cu linia interiliacă (vezi Fig. 9.93B–D).
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Lumbosacral articulație în center de imagine
-• Open lumbosacral intervertebral disk space
-• creste de ilia closely superimposing fiecare other when x-ray fascicul este nu înclinat
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Evidența colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Articulația lombosacrată în centrul imaginii
+• Spațiul deschis al discului intervertebral lombosacrat
+• Crestele iliace se suprapun îndeaproape una peste cealaltă atunci când fasciculul de raze X nu este înclinat
+• Detalii osoase trabeculare și țesuturile moi înconjurătoare
 
 ### part_pos
 
-• cu pacientul în recumbent poziție, se ajustează pillow la place MSP de capul în same plane cu coloană vertebrală.
-• Adjust MCP de corp (passing through șoldurile și umeri) aliniat perpendicular pe receptorul de imagine (RI).
-• se flectează pacient’s cot și se ajustează dependent braț în poziție în unghi drept față de corp (Fig. 9.93A).
-• se flectează pacient’s hips și genunchi, superimpose genunchii, și place support între them.
-• ca described pentru lateral incidență, place radiolucent support under lower thorax și adjust it astfel încât axa longitudinală de coloană vertebrală este horizon̍ al (see Fig. 9.93A). This este preferred method.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Cu pacientul în poziție de decubit, ajustați perna pentru a plasa MSP al capului în același plan cu coloana vertebrală.
+• Ajustați MCP al corpului (care trece prin șolduri și umeri) astfel încât să fie aliniat perpendicular pe receptorul de imagine (RI).
+• Flectați cotul pacientului și ajustați brațul dependent în poziție perpendiculară pe corp (Fig. 9.93A).
+• Flectați șoldurile și genunchii pacientului, suprapuneți genunchii și plasați un suport între aceștia.
+• Așa cum este descris pentru incidența laterală, plasați un suport radiotransparent sub partea inferioară a toracelui și ajustați-l astfel încât axa longitudinală a coloanei vertebrale să fie orizontală (vezi Fig. 9.93A). Aceasta este metoda preferată.
+• Efectuați ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Examine L5–S1 lumbosacral region cu pacientul în lateral recumbent poziție.
+• Examinați regiunea lombosacrată L5–S1 cu pacientul în decubit lateral.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

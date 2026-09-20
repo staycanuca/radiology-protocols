@@ -2,47 +2,50 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: Direct raza centrală orizontal, perpendicular pe receptorul de imagine.
-  Center raza centrală la level de creasta iliacă (corespunzător L4-L5) și MSP.
+centering: Orientați raza centrală orizontal, perpendicular pe receptorul de imagine.
+  Centrați raza centrală la nivelul crestei iliace (corespunzător L4-L5) și al MSP.
 clinical_indications:
-- evidențiază entire contrastfilled intestin gros (colon), especially helpful în identifying
-  polyps
-- drept side este evidențiat best, which includes airfilled portions de intestin gros
-  (colon)
-- ambele drept și stâng decubit poziții (AP sau PA) generally sunt taken cu doublecontrast
-  study.
+- Evidențiază întregul intestin gros (colon) umplut cu substanță de contrast, fiind
+  deosebit de utilă pentru identificarea polipilor
+- Partea dreaptă este evidențiată cel mai bine, incluzând porțiunile cu conținut aeric
+  ale intestinului gros (colonului)
+- În general, examinarea cu dublu contrast se realizează în ambele poziții de decubit,
+  drept și stâng (AP sau PA).
 images:
-- caption: Fig. 13.79 stâng lateral decubit—Incidență Antero-Posterioară (AP). Inset,
-    Incidență Postero-Anterioară (PA).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.79 stâng lateral
-    decubit—AP incidență. Inset, PA incidență.)
+- caption: Fig. 13.79 Decubit lateral stâng—Incidență Antero-Posterioară (AP). În
+    medalion, Incidență Postero-Anterioară (PA).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.79 Decubit
+    lateral stâng—incidență AP. În medalion, incidență PA.)
   url: assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_1.jpeg
-- caption: Fig. 13.81 stâng lateral decubit.
+- caption: Fig. 13.81 Decubit lateral stâng.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.81
-    stâng lateral decubit.)
+    Decubit lateral stâng.)
   url: assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_2.jpeg
-- caption: Fig. 13.80 stâng lateral decubit.
+- caption: Fig. 13.80 Decubit lateral stâng.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.80
-    stâng lateral decubit.)
+    Decubit lateral stâng.)
   url: assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Because most doublecontrast Irigografie (Clismă Baritată) studies include
-  ambele drept și stâng lateral decubit poziții, it este generally easier la take
-  one incidență cu back pe / sprijinit de table sau casetă holder și then Se instruiește
-  pacientul să roll over pe other side și move cart around, cu pacientul’s cap la
-  other end de masa de examinare. This task poate fie easier than așezat pacientul
-  up și turning pacientul endto- end pe cart sau table. pentru hypersthenic pacienți,
-  use two IRs (fiecare 14 × 17 inches [35 × 43 cm]) plasat landscape la include toate
-  de intestin gros (colon). Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO
-  LPO sau RPO lateral rectum R și L lateral decubit (doublecontrast study)'
-position: 'Pacient: poziție pacient lateral Decubit, cu support pentru capul, și culcat
-  pe stâng side pe radiolucent pad. (If pe cart, lock wheels sau secure cart la prevent
-  pacient de la falling.); Regiune anatomică: poziție pacient sau receptorul de imagine
-  so that creasta iliacă (corespunzător L4-L5) este plasat la center de receptorul
-  de imagine și raza centrală (Fig. 13.79). Place brațe up, cu genunchi flectat. Ensure
-  that Absența rotației anatomice: clavicule echidistante față de linia apofizelor
-  spinoase occurs; superimpose umeri și hips de la above.'
+notes: 'S: Deoarece majoritatea examinărilor de irigografie (clismă baritată) cu dublu
+  contrast includ ambele poziții de decubit lateral, drept și stâng, este în general
+  mai ușor să se realizeze o incidență cu spatele sprijinit de masă sau de suportul
+  casetei, apoi să se instruiască pacientul să se întoarcă pe cealaltă parte și să
+  se rotească targa, astfel încât capul pacientului să ajungă la celălalt capăt al
+  mesei de examinare. Această manevră poate fi mai ușoară decât ridicarea pacientului
+  în șezut și întoarcerea acestuia cap la picioare pe targă sau pe masă. Pentru pacienții
+  hiperstenici, utilizați două IR (fiecare de 14 × 17 inchi [35 × 43 cm]) orientate
+  transversal, pentru a include întregul intestin gros (colon). Irigografie (Clismă
+  Baritată) DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil Decubit
+  lateral R și L (examinare cu dublu contrast)'
+position: 'Pacient: poziționați pacientul în decubit lateral stâng, cu un suport pentru
+  cap, culcat pe o pernă radiotransparentă. (Dacă se află pe targă, blocați roțile
+  sau imobilizați targa pentru a preveni căderea pacientului.); Regiune anatomică:
+  poziționați pacientul sau receptorul de imagine astfel încât creasta iliacă (corespunzător
+  L4-L5) să se afle în centrul receptorului de imagine și la nivelul razei centrale
+  (Fig. 13.79). Poziționați brațele în sus și genunchii flectați. Asigurați absența
+  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; suprapuneți
+  umerii și șoldurile, privind de sus.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,38 +53,40 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire intestin gros (colon) este evidențiat, cu airfilled drept colic flexure,
-  ascending intestin gros (colon), și cecum (Figs. 13.80 și 13.81). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  occurs, ca evidenced prin simetric appearance de Bazin (bazin (pelvis)) și ribcage.'
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize margini de entire
-  intestin gros (colon), including bariumfilled portions, but la avoid overpenetration
-  de airfilled portion de intestin gros (colon).
-- Mucosal patterns de airfilled intestin gros (colon) trebuie să fie clearly vizibil.
-- If airfilled portion de intestin gros (colon) este overpenetrated, compensating
-  filter trebuie să fie considered.
-- net structural margins indicate fără mișcare. Fig. 13.79 stâng lateral decubit—Incidență
-  Antero-Posterioară (AP). Inset, Incidență Postero-Anterioară (PA). stâng colic flexure
-  Transverse intestin gros (colon) drept colic flexure R Descending intestin gros
-  (colon) Sigmoid intestin gros (colon) Ascending intestin gros (colon) Fig. 13.81
-  stâng lateral decubit. R Fig. 13.80 stâng lateral decubit.
+- 'Este evidențiat întregul intestin gros (colon), cu flexura colică dreaptă, colonul
+  ascendent și cecul cu conținut aeric (Fig. 13.80 și 13.81). Poziție:'
+- Absența rotației anatomice, cu clavicule echidistante față de linia apofizelor spinoase,
+  este demonstrată de aspectul simetric al bazinului (pelvisului) și al cutiei toracice.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  contururilor întregului intestin gros (colon), inclusiv a porțiunilor umplute cu
+  bariu, dar cu evitarea penetrării excesive a porțiunii cu conținut aeric a intestinului
+  gros (colonului).
+- Relieful mucoasei intestinului gros (colonului) cu conținut aeric trebuie să fie
+  clar vizibil.
+- Dacă porțiunea cu conținut aeric a intestinului gros (colonului) este penetrată
+  excesiv, trebuie luată în considerare utilizarea unui filtru compensator.
+- Marginile nete ale structurilor indică absența mișcării. Fig. 13.79 Decubit lateral
+  stâng—Incidență Antero-Posterioară (AP). În medalion, Incidență Postero-Anterioară
+  (PA). Flexura colică stângă Colon transvers Flexura colică dreaptă R Colon descendent
+  Colon sigmoid Colon ascendent Fig. 13.81 Decubit lateral stâng. R Fig. 13.80 Decubit
+  lateral stâng.
 sid_dff: 100 cm
 slug: rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 547
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 90-100
   mas: DE CONFIGURAT PE APARAT
-title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) (ENEMA)
+title: Rx CU BARIU ÎN DECUBIT LATERAL STÂNG (AP SAU PA (Postero-Anterior)) (CLISMĂ)
 ---
-# Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) (ENEMA)
+# Rx CU BARIU ÎN DECUBIT LATERAL STÂNG (AP SAU PA (Postero-Anterior)) (CLISMĂ)
 
 
 <div class="rx-meta-bar">
@@ -100,9 +105,9 @@ title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) 
 
     === "Indicații Clinice"
 
-        - evidențiază entire contrastfilled intestin gros (colon), especially helpful în identifying polyps
-        - drept side este evidențiat best, which includes airfilled portions de intestin gros (colon)
-        - ambele drept și stâng decubit poziții (AP sau PA) generally sunt taken cu doublecontrast study.
+        - Evidențiază întregul intestin gros (colon) umplut cu substanță de contrast, fiind deosebit de utilă pentru identificarea polipilor
+        - Partea dreaptă este evidențiată cel mai bine, incluzând porțiunile cu conținut aeric ale intestinului gros (colonului)
+        - În general, examinarea cu dublu contrast se realizează în ambele poziții de decubit, drept și stâng (AP sau PA).
 
     === "Ghid Național IRIS"
 
@@ -116,8 +121,8 @@ title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) 
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient lateral Decubit, cu support pentru capul, și culcat pe stâng side pe radiolucent pad. (If pe cart, lock wheels sau secure cart la prevent pacient de la falling.); Regiune anatomică: poziție pacient sau receptorul de imagine so that creasta iliacă (corespunzător L4-L5) este plasat la center de receptorul de imagine și raza centrală (Fig. 13.79). Place brațe up, cu genunchi flectat. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs; superimpose umeri și hips de la above.
-    - **Punct de Centrare Fascicul:** Direct raza centrală orizontal, perpendicular pe receptorul de imagine. Center raza centrală la level de creasta iliacă (corespunzător L4-L5) și MSP.
+    - **Poziție Pacient:** Pacient: poziționați pacientul în decubit lateral stâng, cu un suport pentru cap, culcat pe o pernă radiotransparentă. (Dacă se află pe targă, blocați roțile sau imobilizați targa pentru a preveni căderea pacientului.); Regiune anatomică: poziționați pacientul sau receptorul de imagine astfel încât creasta iliacă (corespunzător L4-L5) să se afle în centrul receptorului de imagine și la nivelul razei centrale (Fig. 13.79). Poziționați brațele în sus și genunchii flectați. Asigurați absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; suprapuneți umerii și șoldurile, privind de sus.
+    - **Punct de Centrare Fascicul:** Orientați raza centrală orizontal, perpendicular pe receptorul de imagine. Centrați raza centrală la nivelul crestei iliace (corespunzător L4-L5) și al MSP.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -132,21 +137,21 @@ title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) 
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire intestin gros (colon) este evidențiat, cu airfilled drept colic flexure, ascending intestin gros (colon), și cecum (Figs. 13.80 și 13.81). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs, ca evidenced prin simetric appearance de Bazin (bazin (pelvis)) și ribcage.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize margini de entire intestin gros (colon), including bariumfilled portions, but la avoid overpenetration de airfilled portion de intestin gros (colon).
-    - Mucosal patterns de airfilled intestin gros (colon) trebuie să fie clearly vizibil.
-    - If airfilled portion de intestin gros (colon) este overpenetrated, compensating filter trebuie să fie considered.
-    - net structural margins indicate fără mișcare. Fig. 13.79 stâng lateral decubit—Incidență Antero-Posterioară (AP). Inset, Incidență Postero-Anterioară (PA). stâng colic flexure Transverse intestin gros (colon) drept colic flexure R Descending intestin gros (colon) Sigmoid intestin gros (colon) Ascending intestin gros (colon) Fig. 13.81 stâng lateral decubit. R Fig. 13.80 stâng lateral decubit.
+    - Este evidențiat întregul intestin gros (colon), cu flexura colică dreaptă, colonul ascendent și cecul cu conținut aeric (Fig. 13.80 și 13.81). Poziție:
+    - Absența rotației anatomice, cu clavicule echidistante față de linia apofizelor spinoase, este demonstrată de aspectul simetric al bazinului (pelvisului) și al cutiei toracice.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea contururilor întregului intestin gros (colon), inclusiv a porțiunilor umplute cu bariu, dar cu evitarea penetrării excesive a porțiunii cu conținut aeric a intestinului gros (colonului).
+    - Relieful mucoasei intestinului gros (colonului) cu conținut aeric trebuie să fie clar vizibil.
+    - Dacă porțiunea cu conținut aeric a intestinului gros (colonului) este penetrată excesiv, trebuie luată în considerare utilizarea unui filtru compensator.
+    - Marginile nete ale structurilor indică absența mișcării. Fig. 13.79 Decubit lateral stâng—Incidență Antero-Posterioară (AP). În medalion, Incidență Postero-Anterioară (PA). Flexura colică stângă Colon transvers Flexura colică dreaptă R Colon descendent Colon sigmoid Colon ascendent Fig. 13.81 Decubit lateral stâng. R Fig. 13.80 Decubit lateral stâng.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,7 +164,7 @@ title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Because most doublecontrast Irigografie (Clismă Baritată) studies include ambele drept și stâng lateral decubit poziții, it este generally easier la take one incidență cu back pe / sprijinit de table sau casetă holder și then Se instruiește pacientul să roll over pe other side și move cart around, cu pacientul’s cap la other end de masa de examinare. This task poate fie easier than așezat pacientul up și turning pacientul endto- end pe cart sau table. pentru hypersthenic pacienți, use two IRs (fiecare 14 × 17 inches [35 × 43 cm]) plasat landscape la include toate de intestin gros (colon). Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum R și L lateral decubit (doublecontrast study)
+    S: Deoarece majoritatea examinărilor de irigografie (clismă baritată) cu dublu contrast includ ambele poziții de decubit lateral, drept și stâng, este în general mai ușor să se realizeze o incidență cu spatele sprijinit de masă sau de suportul casetei, apoi să se instruiască pacientul să se întoarcă pe cealaltă parte și să se rotească targa, astfel încât capul pacientului să ajungă la celălalt capăt al mesei de examinare. Această manevră poate fi mai ușoară decât ridicarea pacientului în șezut și întoarcerea acestuia cap la picioare pe targă sau pe masă. Pentru pacienții hiperstenici, utilizați două IR (fiecare de 14 × 17 inchi [35 × 43 cm]) orientate transversal, pentru a include întregul intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil Decubit lateral R și L (examinare cu dublu contrast)
 
 
 ### 🖼️ Imagini
@@ -168,25 +173,25 @@ title: Rx BARIUM LEFT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.79 stâng lateral decubit—Incidență Antero-Posterioară (AP). Inset, Incidență Postero-Anterioară (PA).](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_1.jpeg)
+![Fig. 13.79 Decubit lateral stâng—Incidență Antero-Posterioară (AP). În medalion, Incidență Postero-Anterioară (PA).](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.79 stâng lateral decubit—Incidență Antero-Posterioară (AP). Inset, Incidență Postero-Anterioară (PA).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.79 stâng lateral decubit—AP incidență. Inset, PA incidență.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 13.81 stâng lateral decubit.](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 13.81 stâng lateral decubit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.81 stâng lateral decubit.)</span></figcaption>
+<figcaption><strong>Fig. 13.79 Decubit lateral stâng—Incidență Antero-Posterioară (AP). În medalion, Incidență Postero-Anterioară (PA).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.79 Decubit lateral stâng—incidență AP. În medalion, incidență PA.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.80 stâng lateral decubit.](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_3.jpeg)
+![Fig. 13.81 Decubit lateral stâng.](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.80 stâng lateral decubit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.80 stâng lateral decubit.)</span></figcaption>
+<figcaption><strong>Fig. 13.81 Decubit lateral stâng.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.81 Decubit lateral stâng.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 13.80 Decubit lateral stâng.](../../assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 13.80 Decubit lateral stâng.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.80 Decubit lateral stâng.)</span></figcaption>
 
 </figure>
 

@@ -1,23 +1,23 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii after expiration și expose.
+breathing: Apnee pe durata expunerii, după expir, și efectuați expunerea.
 category: abdomen
-centering: este perpendicular pe receptorul de imagine. Center la midway între apendice
-  xifoid și creasta iliacă (corespunzător L4-L5)s.
+centering: Este perpendiculară pe receptorul de imagine. Se centrează la jumătatea
+  distanței dintre apendicele xifoid și creasta iliacă (corespunzător L4-L5).
 clinical_indications:
-- Pyelonephritis și other conditions involving collecting system de rinichi
+- Pielonefrită și alte afecțiuni care implică sistemul colector renal
 images:
-- caption: Fig. 14.82 AP—Compresie Ureterală being applied.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.82 AP—ureteric
-    compression being applied.)
+- caption: Fig. 14.82 AP—Aplicarea compresiei ureterale.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 14.82 AP—Aplicarea
+    compresiei ureterale.)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_1.jpeg
-- caption: Fig. 14.83 Compresie Ureterală, cu inflated paddles plasat
+- caption: Fig. 14.83 Compresie ureterală, cu pelotele umflate poziționate
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.83
-    Ureteric compression, cu inflated paddles plasat)
+    Compresie ureterală, cu pelotele umflate poziționate)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_2.jpeg
 - caption: Fig. 14.84 AP, Compresie Ureterală, 5-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.84
-    AP, ureteric compression, 5-)
+    AP, compresie ureterală, 5-)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_3.png
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -25,17 +25,18 @@ images:
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Immediately after injection de contrast medium, paddles sunt inflated și remain
-  în place until radiologist indicates that they trebuie să fie released. imaging
-  sequence este la fie determined prin department protocol sau prin radiologist.
-position: 'Pacient: se poziționează pacientul Decubit dorsal, cu compression device
-  în place (Figs. 14.82 și 14.83).; Regiune anatomică: Align plan mediosagital la
-  centerline de table sau physical grilă și la raza centrală. Flex și support genunchi.
-  poziție brațe away de la corp. Place upper edge de compression paddles la level
-  de creasta iliacă (corespunzător L4-L5). Inner edges de paddles trebuie să almost
-  touch, just lateral la vertebral coloană vertebrală pe fiecare side. (This places
-  maximum pressure over area de ureters, which sunt just lateral la Coloană Lombară
-  și medial la sacroiliac [SI] articulații.)'
+notes: Imediat după injectarea substanței de contrast, pelotele se umflă și rămân
+  pe poziție până când radiologul indică eliberarea lor. Succesiunea imaginilor se
+  stabilește conform protocolului departamentului sau de către radiolog.
+position: 'Pacient: se poziționează pacientul în decubit dorsal, cu dispozitivul de
+  compresie montat (Fig. 14.82 și 14.83).; Regiune anatomică: se aliniază planul mediosagital
+  cu linia mediană a mesei sau a grilei fizice și cu raza centrală. Se flectează și
+  se sprijină genunchii. Se poziționează brațele la distanță de corp. Se așază marginea
+  superioară a pelotelor de compresie la nivelul crestei iliace (corespunzător L4-L5).
+  Marginile interne ale pelotelor trebuie aproape să se atingă, imediat lateral de
+  coloana vertebrală, de fiecare parte. (Astfel, presiunea maximă se exercită asupra
+  regiunii ureterelor, situate imediat lateral de coloana lombară și medial de articulațiile
+  sacroiliace [SI].)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,18 +44,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire urinary system este visualized, cu enhanced pelvic calyceal filling (Fig.
-  14.84). poziție:'
+- 'Se vizualizează întregul aparat urinar, cu umplere pielocaliceală accentuată (Fig.
+  14.84). Poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
-  ca evident prin symmetry de iliac wings și/sau Coloană Lombară.'
-- 'corect collimation applied. expunere:'
-- fără mișcare due la respirație sau movement este evident.
-- optim receptorul de imagine expunere și contrast la visualize urinary system. Fig.
-  14.82 AP—Compresie Ureterală being applied. spină iliacă antero-superioară (SIAS)
-  spină iliacă antero-superioară (SIAS) Fig. 14.83 Compresie Ureterală, cu inflated
-  paddles plasat correctly. Inset, Paddles la medial la spină iliacă antero-superioară
-  (SIAS). Fig. 14.84 AP, Compresie Ureterală, 5minute imagine. Urografie Intravenoasă
-  (UIV)—IVU SPECIAL
+  evidențiată prin simetria aripilor iliace și/sau a coloanei lombare.'
+- 'Colimare corectă. Expunere:'
+- Nu se evidențiază mișcare datorată respirației sau deplasării pacientului.
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  aparatului urinar. Fig. 14.82 AP—Aplicarea compresiei ureterale. spină iliacă antero-superioară
+  (SIAS) spină iliacă antero-superioară (SIAS) Fig. 14.83 Compresie ureterală, cu
+  pelotele umflate poziționate corect. Imagine inserată, pelotele situate medial de
+  spina iliacă antero-superioară (SIAS). Fig. 14.84 AP, compresie ureterală, imagine
+  la 5 minute. Urografie Intravenoasă (UIV)—IVU SPECIALĂ
 - AP Compresie Ureterală
 sid_dff: 100 cm
 slug: rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager
@@ -62,8 +63,8 @@ sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 584
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -90,7 +91,7 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
 
     === "Indicații Clinice"
 
-        - Pyelonephritis și other conditions involving collecting system de rinichi
+        - Pielonefrită și alte afecțiuni care implică sistemul colector renal
 
     === "Ghid Național IRIS"
 
@@ -104,10 +105,10 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
 
     ---
 
-    - **Poziție Pacient:** Pacient: se poziționează pacientul Decubit dorsal, cu compression device în place (Figs. 14.82 și 14.83).; Regiune anatomică: Align plan mediosagital la centerline de table sau physical grilă și la raza centrală. Flex și support genunchi. poziție brațe away de la corp. Place upper edge de compression paddles la level de creasta iliacă (corespunzător L4-L5). Inner edges de paddles trebuie să almost touch, just lateral la vertebral coloană vertebrală pe fiecare side. (This places maximum pressure over area de ureters, which sunt just lateral la Coloană Lombară și medial la sacroiliac [SI] articulații.)
-    - **Punct de Centrare Fascicul:** este perpendicular pe receptorul de imagine. Center la midway între apendice xifoid și creasta iliacă (corespunzător L4-L5)s.
+    - **Poziție Pacient:** Pacient: se poziționează pacientul în decubit dorsal, cu dispozitivul de compresie montat (Fig. 14.82 și 14.83).; Regiune anatomică: se aliniază planul mediosagital cu linia mediană a mesei sau a grilei fizice și cu raza centrală. Se flectează și se sprijină genunchii. Se poziționează brațele la distanță de corp. Se așază marginea superioară a pelotelor de compresie la nivelul crestei iliace (corespunzător L4-L5). Marginile interne ale pelotelor trebuie aproape să se atingă, imediat lateral de coloana vertebrală, de fiecare parte. (Astfel, presiunea maximă se exercită asupra regiunii ureterelor, situate imediat lateral de coloana lombară și medial de articulațiile sacroiliace [SI].)
+    - **Punct de Centrare Fascicul:** Este perpendiculară pe receptorul de imagine. Se centrează la jumătatea distanței dintre apendicele xifoid și creasta iliacă (corespunzător L4-L5).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii after expiration și expose.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii, după expir, și efectuați expunerea.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -120,19 +121,19 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire urinary system este visualized, cu enhanced pelvic calyceal filling (Fig. 14.84). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, ca evident prin symmetry de iliac wings și/sau Coloană Lombară.
-    - corect collimation applied. expunere:
-    - fără mișcare due la respirație sau movement este evident.
-    - optim receptorul de imagine expunere și contrast la visualize urinary system. Fig. 14.82 AP—Compresie Ureterală being applied. spină iliacă antero-superioară (SIAS) spină iliacă antero-superioară (SIAS) Fig. 14.83 Compresie Ureterală, cu inflated paddles plasat correctly. Inset, Paddles la medial la spină iliacă antero-superioară (SIAS). Fig. 14.84 AP, Compresie Ureterală, 5minute imagine. Urografie Intravenoasă (UIV)—IVU SPECIAL
+    - Se vizualizează întregul aparat urinar, cu umplere pielocaliceală accentuată (Fig. 14.84). Poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, evidențiată prin simetria aripilor iliace și/sau a coloanei lombare.
+    - Colimare corectă. Expunere:
+    - Nu se evidențiază mișcare datorată respirației sau deplasării pacientului.
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea aparatului urinar. Fig. 14.82 AP—Aplicarea compresiei ureterale. spină iliacă antero-superioară (SIAS) spină iliacă antero-superioară (SIAS) Fig. 14.83 Compresie ureterală, cu pelotele umflate poziționate corect. Imagine inserată, pelotele situate medial de spina iliacă antero-superioară (SIAS). Fig. 14.84 AP, compresie ureterală, imagine la 5 minute. Urografie Intravenoasă (UIV)—IVU SPECIALĂ
     - AP Compresie Ureterală
 
 -   __5. Protecție Radiologică (ALARA)__
@@ -146,7 +147,7 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Immediately after injection de contrast medium, paddles sunt inflated și remain în place until radiologist indicates that they trebuie să fie released. imaging sequence este la fie determined prin department protocol sau prin radiologist.
+    Imediat după injectarea substanței de contrast, pelotele se umflă și rămân pe poziție până când radiologul indică eliberarea lor. Succesiunea imaginilor se stabilește conform protocolului departamentului sau de către radiolog.
 
 
 ### 🖼️ Imagini
@@ -155,17 +156,17 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.82 AP—Compresie Ureterală being applied.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_1.jpeg)
+![Fig. 14.82 AP—Aplicarea compresiei ureterale.](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 14.82 AP—Compresie Ureterală being applied.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.82 AP—ureteric compression being applied.)</span></figcaption>
+<figcaption><strong>Fig. 14.82 AP—Aplicarea compresiei ureterale.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 14.82 AP—Aplicarea compresiei ureterale.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 14.83 Compresie Ureterală, cu inflated paddles plasat](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_2.jpeg)
+![Fig. 14.83 Compresie ureterală, cu pelotele umflate poziționate](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 14.83 Compresie Ureterală, cu inflated paddles plasat</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.83 Ureteric compression, cu inflated paddles plasat)</span></figcaption>
+<figcaption><strong>Fig. 14.83 Compresie ureterală, cu pelotele umflate poziționate</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.83 Compresie ureterală, cu pelotele umflate poziționate)</span></figcaption>
 
 </figure>
 
@@ -173,7 +174,7 @@ title: Rx Urografie Intravenoasă (UIV) AP (Antero-Posterior) (Compresie Uretera
 
 ![Fig. 14.84 AP, Compresie Ureterală, 5-](../../assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-ap-antero-posterior-compresie-ureterala-bontrager/fig_3.png)
 
-<figcaption><strong>Fig. 14.84 AP, Compresie Ureterală, 5-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.84 AP, ureteric compression, 5-)</span></figcaption>
+<figcaption><strong>Fig. 14.84 AP, Compresie Ureterală, 5-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.84 AP, compresie ureterală, 5-)</span></figcaption>
 
 </figure>
 

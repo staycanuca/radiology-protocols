@@ -2,112 +2,122 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat la cranial angle de 25 grade la linie orbitomeatală (LOM) la enter
-  point 1 inches (3.8 cm) below extern occipital protuberance (inion) și la exit approximately
-  1 inches (3.8 cm) superior la nazion. raza centrală poate fie varied la show other
-  cranial anatomy.
+centering: Orientată cu un unghi cranial de 25 grade față de linia orbitomeatală (LOM),
+  la punctul de intrare situat la 1 inches (3.8 cm) sub protuberanța occipitală externă
+  (inion) și la punctul de ieșire situat la aproximativ 1 inches (3.8 cm) superior
+  de nazion. Raza centrală poate fi variată pentru a evidenția alte structuri anatomice
+  craniene.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 886, imaginea 1
+- caption: Merrill — pagina 886, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-pa-axiala-metoda-haas-p885-merrill/p886_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se ajustează pacient în Decubit ventral sau Poziție Șezândă-ortostatism,
-  și center MSP de corp la linia mediană grilă. se flectează pacient’s coate, place
-  brațele în comfortable poziție, și se ajustează umeri la lie în same plan orizontal.;
-  se sprijină pacientul’s forehead și nose pe masa de examinare, cu MSP perpendicular
-  pe linia mediană grilă. se ajustează flexion de gâtul astfel încât linie orbitomeatală
-  (LOM) este perpendicular pe receptorul de imagine (RI) (Figs. 11.77–11.79). Se imobilizează
-  capul pacientului. pentru localized imagine de sellar region sau stânci temporale
-  (piramide pietroase), sau ambele, se ajustează poziție de receptorul de imagine
-  astfel încât midpoint coincides cu raza centrală centrală; shift receptorul de imagine
-  cranial approximately 3 inches (7.6 cm) pentru include vertex de Craniu.
+position: Se poziționează pacientul în decubit ventral sau în poziție șezândă-în ortostatism
+  și se centrează MSP al corpului pe linia mediană a grilei. Se flectează coatele
+  pacientului, se așază brațele într-o poziție confortabilă și se ajustează umerii
+  pentru a se afla în același plan orizontal.; se sprijină fruntea și nasul pacientului
+  pe masa de examinare, cu MSP perpendicular pe linia mediană a grilei. Se ajustează
+  flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe receptorul
+  de imagine (RI) (Fig. 11.77–11.79). Se imobilizează capul pacientului. Pentru imaginea
+  localizată a regiunii selare sau a stâncilor temporale (piramidele pietroase), sau
+  a ambelor, se ajustează poziția receptorului de imagine astfel încât punctul median
+  să coincidă cu raza centrală; se deplasează receptorul de imagine cranial cu aproximativ
+  3 inches (7.6 cm) pentru a include vertexul craniului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire
-  Craniu, fără rotație sau tilt, evidențiat prin:'
-- Equal distances de la lateral margini de Craniu la lateral margins de gaură occipitală
-  mare (foramen magnum) pe ambele părți (bilateral)
-- simetric stânci temporale (piramide pietroase)
-- MSP de Craniu aliniat cu axa longitudinală de câmp colimat n Dorsum sellae și posterior
-  clinoid processes within gaură occipitală mare (foramen magnum) n Bony detail de
-  occipital bone și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:
+
+  • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  clar față de anatomia de interes
+
+  • Craniul în întregime, fără rotație sau înclinare, evidențiat prin:'
+- Distanțe egale de la marginile laterale ale craniului la marginile laterale ale
+  găurii occipitale mari (foramen magnum), pe ambele părți (bilateral)
+- stânci temporale (piramide pietroase) simetrice
+- 'MSP al craniului aliniat cu axa longitudinală a câmpului colimat
+
+  • Dorsum sellae și procesele clinoide posterioare în interiorul găurii occipitale
+  mari (foramen magnum)
+
+  • Detaliu osos al osului occipital și al țesuturilor moi înconjurătoare'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-craniu-incidenta-pa-axiala-metoda-haas-p885-merrill
 source_pages:
 - 885
 - 886
 source_sections:
-  anatomy: occipital region de cranium, simetric imagine de stânci temporale (piramide
-    pietroase), și dorsum sellae și posterior clinoid processes within gaură occipitală
-    mare (foramen magnum) (Figs. 11.80 și 11.81).
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond skin
-    line de craniul. Check pentru light above vertex și pe ambele părți (bilateral).
+  anatomy: Regiunea occipitală a craniului, imagine simetrică a stâncilor temporale
+    (piramidelor pietroase) și dorsum sellae și procesele clinoide posterioare în
+    interiorul găurii occipitale mari (foramen magnum) (Fig. 11.80 și 11.81).
+  collimation: '• se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de conturul cutanat al craniului. Se verifică lumina deasupra vertexului
+    și pe ambele părți (bilateral).
 
-    Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• orientat la cranial angle de 25 grade la linie orbitomeatală (LOM) la enter
-    point 1
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: '• se orientează la un unghi cranial de 25 grade față de linia orbitomeatală
+    (LOM), cu punctul de intrare la 1
 
-    inches (3.8 cm) below extern occipital protuberance (inion) și la exit approximately
-    1
+    inch (3.8 cm) sub protuberanța occipitală externă (inion) și cu punctul de ieșire
+    la aproximativ 1
 
-    inches (3.8 cm) superior la nazion. raza centrală poate fie varied la show other
-    cranial anatomy.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    inch (3.8 cm) superior de nazion. Raza centrală poate fi variată pentru a evidenția
+    alte structuri craniene.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    n Entire cranium, fără rotație sau tilt, evidențiat prin:
+    • Întregul craniu, fără rotație sau înclinare, evidențiat prin:
 
-    • Equal distances de la lateral margini de skull la lateral margins de gaură occipitală
-    mare (foramen magnum) pe ambele părți (bilateral)
+    • distanțe egale de la marginile laterale ale craniului la marginile laterale
+    ale găurii occipitale mari (foramen magnum), pe ambele părți (bilateral)
 
-    • simetric stânci temporale (piramide pietroase)
+    • stânci temporale (piramide pietroase) simetrice
 
-    • MSP de cranium aliniat cu axa longitudinală de câmp colimat
+    • MSP al craniului aliniat cu axa longitudinală a câmpului colimat
 
-    n Dorsum sellae și posterior clinoid processes within gaură occipitală mare (foramen
-    magnum)
+    • Dorsum sellae și procesele clinoide posterioare în interiorul găurii occipitale
+    mari (foramen magnum)
 
-    n Bony detail de occipital bone și surrounding soft tissues'
-  part_pos: '• se sprijină pacientul’s forehead și nose pe masa de examinare, cu MSP
-    perpendicular pe linia mediană grilă.
+    • Detaliu osos al osului occipital și al țesuturilor moi adiacente'
+  part_pos: '• se sprijină fruntea și nasul pacientului pe masa de examinare, cu MSP
+    perpendicular pe linia mediană a grilei.
 
-    • se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular
+    • se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară
     pe receptorul de imagine (RI) (Figs. 11.77–11.79).
 
     • Se imobilizează capul pacientului.
 
-    • pentru localized imagine de sellar region sau stânci temporale (piramide pietroase),
-    sau ambele, se ajustează poziție de receptorul de imagine astfel încât midpoint
-    coincides
+    • pentru imagine localizată a regiunii șeii turcești sau a stâncilor temporale
+    (piramide pietroase), ori a ambelor, se ajustează poziția receptorului de imagine
+    astfel încât punctul de mijloc să coincidă cu raza centrală; se deplasează receptorul
+    de imagine cranial cu aproximativ 3 inches (7.6 cm) pentru a include vertexul
+    craniului.'
+  patient_pos: '• se ajustează pacientul în decubit ventral sau în poziție șezândă
+    pe scaun-ortostatism și se centrează MSP al corpului pe linia mediană a grilei.
 
-    cu raza centrală centrală; shift receptorul de imagine cranial approximately 3
-    inches (7.6 cm) pentru include vertex de craniul.'
-  patient_pos: '• se ajustează pacient în decubit ventral sau așezat pe scaun-ortostatism,
-    și center MSP de corp la linia mediană grilă.
-
-    • se flectează pacient’s coate, place brațele în comfortable poziție, și se ajustează
-    umeri la lie în same plan orizontal.'
+    • se flectează coatele pacientului, se așază brațele într-o poziție confortabilă
+    și se ajustează umerii pentru a se afla în același plan orizontal.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 885–886
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=885
+- title: Merrill’s Atlas, 11. Cranium, pagini 885–886
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond skin
-    line de Craniu. Check pentru light above vertex și pe ambele părți (bilateral).
-    Place marker de lateralitate (D/S) în collimated expunere field.
+  collimation: se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de conturul cutanat al craniului. Se verifică lumina deasupra vertexului
+    și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
 title: Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
 ---
 # Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
@@ -143,8 +153,8 @@ title: Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se ajustează pacient în Decubit ventral sau Poziție Șezândă-ortostatism, și center MSP de corp la linia mediană grilă. se flectează pacient’s coate, place brațele în comfortable poziție, și se ajustează umeri la lie în same plan orizontal.; se sprijină pacientul’s forehead și nose pe masa de examinare, cu MSP perpendicular pe linia mediană grilă. se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular pe receptorul de imagine (RI) (Figs. 11.77–11.79). Se imobilizează capul pacientului. pentru localized imagine de sellar region sau stânci temporale (piramide pietroase), sau ambele, se ajustează poziție de receptorul de imagine astfel încât midpoint coincides cu raza centrală centrală; shift receptorul de imagine cranial approximately 3 inches (7.6 cm) pentru include vertex de Craniu.
-    - **Punct de Centrare Fascicul:** orientat la cranial angle de 25 grade la linie orbitomeatală (LOM) la enter point 1 inches (3.8 cm) below extern occipital protuberance (inion) și la exit approximately 1 inches (3.8 cm) superior la nazion. raza centrală poate fie varied la show other cranial anatomy.
+    - **Poziție Pacient:** Se poziționează pacientul în decubit ventral sau în poziție șezândă-în ortostatism și se centrează MSP al corpului pe linia mediană a grilei. Se flectează coatele pacientului, se așază brațele într-o poziție confortabilă și se ajustează umerii pentru a se afla în același plan orizontal.; se sprijină fruntea și nasul pacientului pe masa de examinare, cu MSP perpendicular pe linia mediană a grilei. Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe receptorul de imagine (RI) (Fig. 11.77–11.79). Se imobilizează capul pacientului. Pentru imaginea localizată a regiunii selare sau a stâncilor temporale (piramidele pietroase), sau a ambelor, se ajustează poziția receptorului de imagine astfel încât punctul median să coincidă cu raza centrală; se deplasează receptorul de imagine cranial cu aproximativ 3 inches (7.6 cm) pentru a include vertexul craniului.
+    - **Punct de Centrare Fascicul:** Orientată cu un unghi cranial de 25 grade față de linia orbitomeatală (LOM), la punctul de intrare situat la 1 inches (3.8 cm) sub protuberanța occipitală externă (inion) și la punctul de ieșire situat la aproximativ 1 inches (3.8 cm) superior de nazion. Raza centrală poate fi variată pentru a evidenția alte structuri anatomice craniene.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -160,17 +170,21 @@ title: Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de Craniu. Check pentru light above vertex și pe ambele părți (bilateral). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina deasupra vertexului și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire Craniu, fără rotație sau tilt, evidențiat prin:
-    - Equal distances de la lateral margini de Craniu la lateral margins de gaură occipitală mare (foramen magnum) pe ambele părți (bilateral)
-    - simetric stânci temporale (piramide pietroase)
-    - MSP de Craniu aliniat cu axa longitudinală de câmp colimat n Dorsum sellae și posterior clinoid processes within gaură occipitală mare (foramen magnum) n Bony detail de occipital bone și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Craniul în întregime, fără rotație sau înclinare, evidențiat prin:
+    - Distanțe egale de la marginile laterale ale craniului la marginile laterale ale găurii occipitale mari (foramen magnum), pe ambele părți (bilateral)
+    - stânci temporale (piramide pietroase) simetrice
+    - MSP al craniului aliniat cu axa longitudinală a câmpului colimat
+• Dorsum sellae și procesele clinoide posterioare în interiorul găurii occipitale mari (foramen magnum)
+• Detaliu osos al osului occipital și al țesuturilor moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -190,9 +204,9 @@ title: Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 886, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-pa-axiala-metoda-haas-p885-merrill/p886_fig1.png)
+![Merrill — pagina 886, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-pa-axiala-metoda-haas-p885-merrill/p886_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 886, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 886, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -209,55 +223,54 @@ title: Rx Craniu — Incidență PA Axială — Metoda Haas (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 885–886](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=885)
+- [Merrill’s Atlas, 11. Cranium, pagini 885–886](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-occipital region de cranium, simetric imagine de stânci temporale (piramide pietroase), și dorsum sellae și posterior clinoid processes within gaură occipitală mare (foramen magnum) (Figs. 11.80 și 11.81).
+Regiunea occipitală a craniului, imagine simetrică a stâncilor temporale (piramidelor pietroase) și dorsum sellae și procesele clinoide posterioare în interiorul găurii occipitale mari (foramen magnum) (Fig. 11.80 și 11.81).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de craniul. Check pentru light above vertex și pe ambele părți (bilateral).
-Place marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina deasupra vertexului și pe ambele părți (bilateral).
+Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat la cranial angle de 25 grade la linie orbitomeatală (LOM) la enter point 1
-inches (3.8 cm) below extern occipital protuberance (inion) și la exit approximately 1
-inches (3.8 cm) superior la nazion. raza centrală poate fie varied la show other cranial anatomy.
+• se orientează la un unghi cranial de 25 grade față de linia orbitomeatală (LOM), cu punctul de intrare la 1
+inch (3.8 cm) sub protuberanța occipitală externă (inion) și cu punctul de ieșire la aproximativ 1
+inch (3.8 cm) superior de nazion. Raza centrală poate fi variată pentru a evidenția alte structuri craniene.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Entire cranium, fără rotație sau tilt, evidențiat prin:
-• Equal distances de la lateral margini de skull la lateral margins de gaură occipitală mare (foramen magnum) pe ambele părți (bilateral)
-• simetric stânci temporale (piramide pietroase)
-• MSP de cranium aliniat cu axa longitudinală de câmp colimat
-n Dorsum sellae și posterior clinoid processes within gaură occipitală mare (foramen magnum)
-n Bony detail de occipital bone și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Întregul craniu, fără rotație sau înclinare, evidențiat prin:
+• distanțe egale de la marginile laterale ale craniului la marginile laterale ale găurii occipitale mari (foramen magnum), pe ambele părți (bilateral)
+• stânci temporale (piramide pietroase) simetrice
+• MSP al craniului aliniat cu axa longitudinală a câmpului colimat
+• Dorsum sellae și procesele clinoide posterioare în interiorul găurii occipitale mari (foramen magnum)
+• Detaliu osos al osului occipital și al țesuturilor moi adiacente
 
 ### part_pos
 
-• se sprijină pacientul’s forehead și nose pe masa de examinare, cu MSP perpendicular pe linia mediană grilă.
-• se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular pe receptorul de imagine (RI) (Figs. 11.77–11.79).
+• se sprijină fruntea și nasul pacientului pe masa de examinare, cu MSP perpendicular pe linia mediană a grilei.
+• se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe receptorul de imagine (RI) (Figs. 11.77–11.79).
 • Se imobilizează capul pacientului.
-• pentru localized imagine de sellar region sau stânci temporale (piramide pietroase), sau ambele, se ajustează poziție de receptorul de imagine astfel încât midpoint coincides
-cu raza centrală centrală; shift receptorul de imagine cranial approximately 3 inches (7.6 cm) pentru include vertex de craniul.
+• pentru imagine localizată a regiunii șeii turcești sau a stâncilor temporale (piramide pietroase), ori a ambelor, se ajustează poziția receptorului de imagine astfel încât punctul de mijloc să coincidă cu raza centrală; se deplasează receptorul de imagine cranial cu aproximativ 3 inches (7.6 cm) pentru a include vertexul craniului.
 
 ### patient_pos
 
-• se ajustează pacient în decubit ventral sau așezat pe scaun-ortostatism, și center MSP de corp la linia mediană grilă.
-• se flectează pacient’s coate, place brațele în comfortable poziție, și se ajustează umeri la lie în same plan orizontal.
+• se ajustează pacientul în decubit ventral sau în poziție șezândă pe scaun-ortostatism și se centrează MSP al corpului pe linia mediană a grilei.
+• se flectează coatele pacientului, se așază brațele într-o poziție confortabilă și se ajustează umerii pentru a se afla în același plan orizontal.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), longitudinal.
 

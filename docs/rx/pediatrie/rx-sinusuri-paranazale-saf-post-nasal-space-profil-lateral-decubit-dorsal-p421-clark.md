@@ -54,7 +54,7 @@ sid_dff: 100 cm
 slug: rx-sinusuri-paranazale-saf-post-nasal-space-profil-lateral-decubit-dorsal-p421-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 421
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=421
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -185,4 +185,4 @@ title: Rx Sinusuri Paranazale (SAF) - Post-nasal space Profil (Lateral) - Decubi
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 421](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=421)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 421](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

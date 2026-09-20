@@ -2,47 +2,49 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: coloana
-centering: perpendicular pe receptorul de imagine (RI) exiting sau entering level
-  de T7
+centering: Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de
+  intrare al T7
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 719, imaginea 1
+- caption: Merrill — pagina 719, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p719_fig1.png
-- caption: Merrill — pagina PDF 720, imaginea 2
+- caption: Merrill — pagina 720, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p720_fig2.png
-- caption: Merrill — pagina PDF 721, imaginea 3
+- caption: Merrill — pagina 721, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p721_fig3.png
 last_updated: '2026-09-16'
 modality: rx
-notes: AP Incidență Oblică shows cervicothoracic procese spinoase well și este used
-  pentru this purpose when pacientul cannot fie satisfactorily poziționat pentru direct
-  Incidență de Profil (lateral).
-position: se așază pacientul în lateral Decubit poziție. Elevate capul pe firm pillow
-  so that its MSP este continuous cu that de coloană vertebrală. se flectează pacient’s
-  hips și genunchi la comfortable poziție.; pentru PA oblic, place lower braț behind
-  back și upper braț forward cu Mână pe masa de examinare pentru support (Fig. 9.79).
-  pentru AP oblic, se ajustează lower braț în unghi drept față de axa longitudinală
-  de corp, se flectează Cot, și place Mână under sau beside capul. Place upper braț
-  posteriorly și support it (Fig. 9.80). se rotește corp slightly, either anteriorly
-  sau posteriorly 20 grade, astfel încât plan coronal forms angle de 70 grade cu orizontal.
-  se centrează coloană vertebrală la linia mediană grilă. se centrează receptorul
-  de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii la center it la nivelul T7.
-  If needed, apply compression band across șoldurile, but fie careful nu la change
-  poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și
+  este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător
+  pentru incidența directă de profil (laterală).
+position: Se așază pacientul în decubit lateral. Se ridică capul pe o pernă fermă,
+  astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale. Se flectează
+  șoldurile și genunchii pacientului într-o poziție confortabilă. Pentru oblica PA,
+  se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna
+  pe masa de examinare pentru sprijin (Fig. 9.79). Pentru oblica AP, se ajustează
+  brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează
+  cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior
+  și se sprijină (Fig. 9.80). Se rotește ușor corpul, anterior sau posterior, cu 20
+  grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala.
+  Se centrează coloana vertebrală pe linia mediană a grilei. Se centrează receptorul
+  de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul
+  T7. Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are
+  grijă să nu se modifice poziția. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- toate 12 coloană toracală
-- Zygapophyseal articulații cel mai apropiat de receptorul de imagine pe PA obliques
-  și articulații farthest de la receptorul de imagine pe AP obliques
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- toate cele 12 vertebre toracale
+- Articulațiile zigapofizare cele mai apropiate de receptorul de imagine în incidențele
+  oblice PA și articulațiile cele mai îndepărtate de receptorul de imagine în incidențele
+  oblice AP
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill
 source_pages:
@@ -51,75 +53,73 @@ source_pages:
 - 720
 - 721
 source_sections:
-  anatomy: 'thoracic zygapophyseal articulații (arrows pe Figs. 9.81 și 9.82). number
-    de articulații vizualizat depends pe thoracic curve. greater grade de
-
-    rotație de la poziție de profil (lateral) este required la show articulații la
-    proximal și distal ends de region în pacienți cu accentuated
-
-    dorsal kyphosis. inferior articular processes de T12, having inclination de about
-    45 grade, sunt nu vizualizat în this incidență. (See Summary de oblic incidențe
-    pe p. 440.)'
+  anatomy: Articulațiile zigapofizare toracale (săgeți în Fig. 9.81 și 9.82). Numărul
+    articulațiilor vizualizate depinde de curbura toracalei. Pentru evidențierea articulațiilor
+    de la extremitățile proximală și distală ale regiunii, la pacienții cu cifoză
+    dorsală accentuată este necesar un grad mai mare de rotație față de poziția de
+    profil (laterală). Procesele articulare inferioare ale T12, având o înclinație
+    de aproximativ 45 grade, nu sunt vizualizate în această incidență. (Vezi Rezumatul
+    incidențelor oblice la p. 440.)
   collimation: • Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe receptorul de imagine (RI) exiting sau entering level de
-    T7
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de intrare
+    al T7
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • toate 12 coloană toracală
+    • Toate cele 12 vertebre toracale
 
-    • Zygapophyseal articulații cel mai apropiat de receptorul de imagine pe PA obliques
-    și articulații farthest de la receptorul de imagine pe AP obliques
+    • Articulațiile zigapofizare cele mai apropiate de receptorul de imagine în incidențele
+    oblice PA și articulațiile cele mai îndepărtate de receptorul de imagine în incidențele
+    oblice AP
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'AP oblic incidență shows cervicothoracic procese spinoase well și este used
-    pentru this purpose when pacientul cannot fie
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și
+    este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător
+    pentru incidența directă de profil.
+  part_pos: '• Pentru oblica PA, se plasează brațul inferior în spatele spatelui și
+    brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79).
 
-    satisfactorily poziționat pentru direct lateral incidență.'
-  part_pos: '• pentru PA oblic, place lower braț behind back și upper braț forward
-    cu mână pe masa de examinare pentru support (Fig. 9.79).
+    • Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală
+    a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează
+    brațul superior posterior și se sprijină (Fig. 9.80).
 
-    • pentru AP oblic, se ajustează lower braț în unghi drept față de axa longitudinală
-    de corp, se flectează cot, și place mână under sau beside
+    • Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul
+    coronal să formeze un unghi de 70 grade cu orizontala.
 
-    capul. Place upper braț posteriorly și support it (Fig. 9.80).
+    • Se centrează coloana vertebrală pe linia mediană a grilei.
 
-    • se rotește corp slightly, either anteriorly sau posteriorly 20 grade, astfel
-    încât plan coronal forms angle de 70 grade cu orizontal.
+    • Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor
+    pentru a-l centra la nivelul T7.
 
-    • se centrează coloană vertebrală la linia mediană grilă.
+    • Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are
+    grijă să nu se modifice poziția.
 
-    • se centrează receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii
-    la center it la nivelul T7.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit lateral.
 
-    • If needed, apply compression band across șoldurile, but fie careful nu la change
-    poziție.
+    • Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate
+    cu cel al coloanei vertebrale.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în lateral recumbent poziție.
-
-    • Elevate capul pe firm pillow so that its MSP este continuous cu that de coloană
-    vertebrală.
-
-    • se flectează pacient’s hips și genunchi la comfortable poziție.'
+    • Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 718–721
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=718
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 718–721
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Articulații zigapofizare toracale — Poziționare în decubit (Merrill)
 ---
-# Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
+# Rx Articulații zigapofizare toracale — Poziționare în decubit (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -152,8 +152,8 @@ title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în lateral Decubit poziție. Elevate capul pe firm pillow so that its MSP este continuous cu that de coloană vertebrală. se flectează pacient’s hips și genunchi la comfortable poziție.; pentru PA oblic, place lower braț behind back și upper braț forward cu Mână pe masa de examinare pentru support (Fig. 9.79). pentru AP oblic, se ajustează lower braț în unghi drept față de axa longitudinală de corp, se flectează Cot, și place Mână under sau beside capul. Place upper braț posteriorly și support it (Fig. 9.80). se rotește corp slightly, either anteriorly sau posteriorly 20 grade, astfel încât plan coronal forms angle de 70 grade cu orizontal. se centrează coloană vertebrală la linia mediană grilă. se centrează receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii la center it la nivelul T7. If needed, apply compression band across șoldurile, but fie careful nu la change poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) exiting sau entering level de T7
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral. Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale. Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă. Pentru oblica PA, se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79). Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior și se sprijină (Fig. 9.80). Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala. Se centrează coloana vertebrală pe linia mediană a grilei. Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul T7. Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are grijă să nu se modifice poziția. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de intrare al T7
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -169,18 +169,18 @@ title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - toate 12 coloană toracală
-    - Zygapophyseal articulații cel mai apropiat de receptorul de imagine pe PA obliques și articulații farthest de la receptorul de imagine pe AP obliques
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - toate cele 12 vertebre toracale
+    - Articulațiile zigapofizare cele mai apropiate de receptorul de imagine în incidențele oblice PA și articulațiile cele mai îndepărtate de receptorul de imagine în incidențele oblice AP
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -191,7 +191,7 @@ title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    AP Incidență Oblică shows cervicothoracic procese spinoase well și este used pentru this purpose when pacientul cannot fie satisfactorily poziționat pentru direct Incidență de Profil (lateral).
+    Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător pentru incidența directă de profil (laterală).
 
 
 ### 🖼️ Imagini
@@ -200,25 +200,25 @@ title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 719, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p719_fig1.png)
+![Merrill — pagina 719, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p719_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 719, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 720, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p720_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 720, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 719, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 721, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p721_fig3.png)
+![Merrill — pagina 720, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p720_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 721, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 720, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 721, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p721_fig3.png)
+
+<figcaption><strong>Merrill — pagina 721, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -235,60 +235,56 @@ title: Rx Thoracic Zygapophyseal Joints — Decubit Poziționare (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 718–721](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=718)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 718–721](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-thoracic zygapophyseal articulații (arrows pe Figs. 9.81 și 9.82). number de articulații vizualizat depends pe thoracic curve. greater grade de
-rotație de la poziție de profil (lateral) este required la show articulații la proximal și distal ends de region în pacienți cu accentuated
-dorsal kyphosis. inferior articular processes de T12, having inclination de about 45 grade, sunt nu vizualizat în this incidență. (See Summary de oblic incidențe pe p. 440.)
+Articulațiile zigapofizare toracale (săgeți în Fig. 9.81 și 9.82). Numărul articulațiilor vizualizate depinde de curbura toracalei. Pentru evidențierea articulațiilor de la extremitățile proximală și distală ale regiunii, la pacienții cu cifoză dorsală accentuată este necesar un grad mai mare de rotație față de poziția de profil (laterală). Procesele articulare inferioare ale T12, având o înclinație de aproximativ 45 grade, nu sunt vizualizate în această incidență. (Vezi Rezumatul incidențelor oblice la p. 440.)
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) exiting sau entering level de T7
+• Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de intrare al T7
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• toate 12 coloană toracală
-• Zygapophyseal articulații cel mai apropiat de receptorul de imagine pe PA obliques și articulații farthest de la receptorul de imagine pe AP obliques
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Toate cele 12 vertebre toracale
+• Articulațiile zigapofizare cele mai apropiate de receptorul de imagine în incidențele oblice PA și articulațiile cele mai îndepărtate de receptorul de imagine în incidențele oblice AP
+• Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
-### notes
+### note
 
-AP oblic incidență shows cervicothoracic procese spinoase well și este used pentru this purpose when pacientul cannot fie
-satisfactorily poziționat pentru direct lateral incidență.
+Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător pentru incidența directă de profil.
 
 ### part_pos
 
-• pentru PA oblic, place lower braț behind back și upper braț forward cu mână pe masa de examinare pentru support (Fig. 9.79).
-• pentru AP oblic, se ajustează lower braț în unghi drept față de axa longitudinală de corp, se flectează cot, și place mână under sau beside
-capul. Place upper braț posteriorly și support it (Fig. 9.80).
-• se rotește corp slightly, either anteriorly sau posteriorly 20 grade, astfel încât plan coronal forms angle de 70 grade cu orizontal.
-• se centrează coloană vertebrală la linia mediană grilă.
-• se centrează receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii la center it la nivelul T7.
-• If needed, apply compression band across șoldurile, but fie careful nu la change poziție.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Pentru oblica PA, se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79).
+• Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior și se sprijină (Fig. 9.80).
+• Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala.
+• Se centrează coloana vertebrală pe linia mediană a grilei.
+• Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul T7.
+• Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are grijă să nu se modifice poziția.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în lateral recumbent poziție.
-• Elevate capul pe firm pillow so that its MSP este continuous cu that de coloană vertebrală.
-• se flectează pacient’s hips și genunchi la comfortable poziție.
+• Se așază pacientul în decubit lateral.
+• Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale.
+• Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

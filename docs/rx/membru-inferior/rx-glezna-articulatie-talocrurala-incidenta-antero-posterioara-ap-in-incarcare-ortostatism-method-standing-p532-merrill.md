@@ -7,7 +7,7 @@ centering: 'perpendicular pe centrul receptorului de imagine. TECHNICAL NOTE: If
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 533, imaginea 1
+- caption: Merrill — pagina 533, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p532-merrill/p533_fig1.png
 last_updated: '2026-09-16'
@@ -79,8 +79,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 532–533
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=532
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 532–533
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) outside shadows de
@@ -173,9 +173,9 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 533, imaginea 1](../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p532-merrill/p533_fig1.png)
+![Merrill — pagina 533, imaginea 1](../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p532-merrill/p533_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 533, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 533, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -192,7 +192,7 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 532–533](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=532)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 532–533](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

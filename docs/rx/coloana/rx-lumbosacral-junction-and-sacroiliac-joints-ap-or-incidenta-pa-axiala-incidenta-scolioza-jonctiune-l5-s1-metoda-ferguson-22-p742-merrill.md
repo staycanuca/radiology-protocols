@@ -2,56 +2,57 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: orientat through lumbosacral articulație la average angle de 30 la 35 grade
-  cranial. 23 angulation de 30 grade în male pacienți și 35 grade în female pacienți
-  este usually satisfactory. prin noting contour de lower back, unusual accentuation
-  sau diminution de lumbosacral angle poate fie estimated, și raza centrală angulation
-  poate fie varied accordingly. raza centrală enters MSP la point about 1.5 inches
-  (3.8 cm) superior la simfiză pubiană sau 2 la 2.5 inches (5 la 6.5 cm) inferior
-  la spină iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson originally recommended
-  angle de 45 grade. Se centrează receptorul de imagine pe raza centrală.
+centering: Orientată prin articulația lombosacrală la un unghi mediu de 30 la 35 de
+  grade cranial. 23 O angulare de 30 de grade la pacienții de sex masculin și de 35
+  de grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea
+  conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a
+  unghiului lombosacral poate fi estimată, iar angularea razei centrale poate fi variată
+  corespunzător. Raza centrală pătrunde în MSP într-un punct situat la aproximativ
+  1.5 inches (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5
+  cm) inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat
+  inițial un unghi de 45 de grade. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 742, imaginea 1
+- caption: Merrill — pagina 742, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p742_fig1.png
-- caption: Merrill — pagina PDF 743, imaginea 2
+- caption: Merrill — pagina 743, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig2.png
-- caption: Merrill — pagina PDF 743, imaginea 3
+- caption: Merrill — pagina 743, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig3.png
-- caption: Merrill — pagina PDF 744, imaginea 4
+- caption: Merrill — pagina 744, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p744_fig4.png
 last_updated: '2026-09-16'
 modality: rx
-notes: Incidență PA Axială pentru lumbosacral junction poate fie modified în accordance
-  cu Incidență AP Axială just described. cu pacientul în Decubit ventral poziție,
-  raza centrală este orientat through lumbosacral articulație la midpoint de receptorul
-  de imagine la average angle de 35 grade caudal. raza centrală enters spinous process
-  de L4 (Figs. 9.107 și 9.108). Meese 24 recommended Decubit ventral poziție pentru
-  examinations de sacroiliac articulații because their obliquity places them în poziție
-  more nearly paralel cu divergence de fascicul de radiation. raza centrală este orientat
-  perpendicularly și este centrat la nivelul level de spină iliacă antero-superioară
-  (SIAS). It enters linia mediană pacient about 2 inches (5 cm) distal la spinous
-  process de L5 (Fig. 9.109).
-position: pentru Incidență AP Axială de lumbosacral și sacroiliac articulații, se
-  poziționează pacientul în Decubit dorsal poziție.; cu pacientul Decubit dorsal și
-  MSP centrat pe grila, se extinde pacient’s lower limbs sau abduct thighs și adjust
-  în vertical poziție (Fig. 9.104). Ensure that Bazin (bazin (pelvis)) este nu rotit.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform
+  incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală
+  este orientată prin articulația lumbosacrală către punctul median al receptorului
+  de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul
+  procesului spinos al L4 (Fig. 9.107 și 9.108). Meese 24 a recomandat poziția în
+  decubit ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea
+  lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de
+  radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei
+  iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la
+  aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
+position: Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace,
+  se poziționează pacientul în decubit dorsal; cu pacientul în decubit dorsal și MSP
+  centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele
+  și se ajustează în poziție verticală (Fig. 9.104). Se asigură că bazinul nu este
+  rotit. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Lumbosacral junction și Sacru
-- Open intervertebral disk space între L5 și S1
-- ambele sacroiliac articulații
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Joncțiunea lumbosacrală și sacrul
+- Spațiul discal intervertebral deschis între L5 și S1
+- Ambele articulații sacroiliace
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill
 source_pages:
@@ -59,82 +60,75 @@ source_pages:
 - 743
 - 744
 source_sections:
-  anatomy: lumbosacral articulație și simetric imagine de ambele sacroiliac articulații
-    liber de superimposition (Fig. 9.106).
+  anatomy: Articulația lumbosacrală și imaginea simetrică a ambelor articulații sacroiliace,
+    fără suprapunere (Fig. 9.106).
   collimation: • Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: '• orientat through lumbosacral articulație la average angle de 30 la 35 grade
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• orientată prin articulația lumbosacrală la un unghi mediu de 30 la 35 grade
     cranial. 23
 
-    • angulation de 30 grade în male pacienți și 35 grade în female pacienți este
-    usually satisfactory. prin noting contour de lower
+    • O angulație de 30 grade la pacienții de sex masculin și de 35 grade la pacienții
+    de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii
+    lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lumbosacral
+    poate fi estimată, iar angulația razei centrale poate fi variată în consecință.
 
-    back, unusual accentuation sau diminution de lumbosacral angle poate fie estimated,
-    și raza centrală angulation poate fie varied
+    • Raza centrală intră în MSP la un punct situat la aproximativ 1.5 inches (3.8
+    cm) superior față de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior
+    față de spina iliacă anterosuperioară (SIAS) (Fig. 9.105).
 
-    accordingly.
-
-    • raza centrală enters MSP la point about 1.5 inches (3.8 cm) superior la simfiză
-    pubiană sau 2 la 2.5 inches (5 la 6.5 cm)
-
-    inferior la spină iliacă antero-superioară (SIAS) (Fig. 9.105).
-
-    • Ferguson originally recommended angle de 45 grade.
+    • Ferguson a recomandat inițial un unghi de 45 grade.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Lumbosacral junction și sacrum
+    • Joncțiunea lumbosacrală și sacrul
 
-    • Open intervertebral disk space între L5 și S1
+    • Spațiul discal intervertebral deschis între L5 și S1
 
-    • ambele sacroiliac articulații
+    • Ambele articulații sacroiliace
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'PA axial incidență pentru lumbosacral junction poate fie modified în accordance
-    cu AP axial incidență just described. cu
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  notes: 'Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform
+    incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza
+    centrală este orientată prin articulația lumbosacrală către punctul median al
+    receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră
+    la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108).
 
-    pacientul în decubit ventral, raza centrală este orientat through lumbosacral
-    articulație la midpoint de receptorul de imagine la average angle de 35
-
-    grade caudal. raza centrală enters spinous process de L4 (Figs. 9.107 și 9.108).
-
-    Meese 24 recommended decubit ventral pentru examinations de sacroiliac articulații
-    because their obliquity places them în poziție more
-
-    nearly paralel cu divergence de fascicul de radiation. raza centrală este orientat
-    perpendicularly și este centrat la nivelul level de spină iliacă antero-superioară
-    (SIAS). It
-
-    enters linia mediană pacient about 2 inches (5 cm) distal la spinous process de
+    Meese 24 a recomandat decubitul ventral pentru examinările articulațiilor sacroiliace,
+    deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența
+    fasciculului de radiație. Raza centrală este orientată perpendicular și centrată
+    la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană
+    a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al
     L5 (Fig. 9.109).'
-  part_pos: '• cu pacientul în decubit dorsal și MSP centrat pe grila, se extinde
-    pacient’s lower limbs sau abduct thighs și adjust în vertical poziție (Fig. 9.104).
+  part_pos: '• Cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele
+    inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală
+    (Fig. 9.104).
 
-    • Ensure that bazinul este nu rotit.
+    • Se asigură că bazinul nu este rotit.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • pentru AP axial incidență de lumbosacral și sacroiliac articulații,
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace,
     se poziționează pacientul în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 742–744
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=742
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 742–744
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Axială —
-  Incidență Scolioză / Joncțiune L5-S1 (Metoda Ferguson) 22 (Merrill)
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx joncțiunea lumbosacrală și articulațiile sacroiliace — AP sau incidența
+  PA axială — incidența pentru scolioză / joncțiunea L5-S1 (metoda Ferguson) 22 (Merrill)
 ---
-# Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Axială — Incidență Scolioză / Joncțiune L5-S1 (Metoda Ferguson) 22 (Merrill)
+# Rx joncțiunea lumbosacrală și articulațiile sacroiliace — AP sau incidența PA axială — incidența pentru scolioză / joncțiunea L5-S1 (metoda Ferguson) 22 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -167,8 +161,8 @@ title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Ax
 
     ---
 
-    - **Poziție Pacient:** pentru Incidență AP Axială de lumbosacral și sacroiliac articulații, se poziționează pacientul în Decubit dorsal poziție.; cu pacientul Decubit dorsal și MSP centrat pe grila, se extinde pacient’s lower limbs sau abduct thighs și adjust în vertical poziție (Fig. 9.104). Ensure that Bazin (bazin (pelvis)) este nu rotit. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat through lumbosacral articulație la average angle de 30 la 35 grade cranial. 23 angulation de 30 grade în male pacienți și 35 grade în female pacienți este usually satisfactory. prin noting contour de lower back, unusual accentuation sau diminution de lumbosacral angle poate fie estimated, și raza centrală angulation poate fie varied accordingly. raza centrală enters MSP la point about 1.5 inches (3.8 cm) superior la simfiză pubiană sau 2 la 2.5 inches (5 la 6.5 cm) inferior la spină iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson originally recommended angle de 45 grade. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace, se poziționează pacientul în decubit dorsal; cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală (Fig. 9.104). Se asigură că bazinul nu este rotit. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată prin articulația lombosacrală la un unghi mediu de 30 la 35 de grade cranial. 23 O angulare de 30 de grade la pacienții de sex masculin și de 35 de grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lombosacral poate fi estimată, iar angularea razei centrale poate fi variată corespunzător. Raza centrală pătrunde în MSP într-un punct situat la aproximativ 1.5 inches (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat inițial un unghi de 45 de grade. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -184,19 +178,19 @@ title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Ax
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Lumbosacral junction și Sacru
-    - Open intervertebral disk space între L5 și S1
-    - ambele sacroiliac articulații
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Joncțiunea lumbosacrală și sacrul
+    - Spațiul discal intervertebral deschis între L5 și S1
+    - Ambele articulații sacroiliace
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -207,7 +201,7 @@ title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Ax
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Incidență PA Axială pentru lumbosacral junction poate fie modified în accordance cu Incidență AP Axială just described. cu pacientul în Decubit ventral poziție, raza centrală este orientat through lumbosacral articulație la midpoint de receptorul de imagine la average angle de 35 grade caudal. raza centrală enters spinous process de L4 (Figs. 9.107 și 9.108). Meese 24 recommended Decubit ventral poziție pentru examinations de sacroiliac articulații because their obliquity places them în poziție more nearly paralel cu divergence de fascicul de radiation. raza centrală este orientat perpendicularly și este centrat la nivelul level de spină iliacă antero-superioară (SIAS). It enters linia mediană pacient about 2 inches (5 cm) distal la spinous process de L5 (Fig. 9.109).
+    Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală este orientată prin articulația lumbosacrală către punctul median al receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108). Meese 24 a recomandat poziția în decubit ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
 
 
 ### 🖼️ Imagini
@@ -216,33 +210,33 @@ title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Ax
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 742, imaginea 1](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p742_fig1.png)
+![Merrill — pagina 742, imaginea 1](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p742_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 742, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 743, imaginea 2](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 743, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 742, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 743, imaginea 3](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig3.png)
+![Merrill — pagina 743, imaginea 2](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 743, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 743, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 744, imaginea 4](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p744_fig4.png)
+![Merrill — pagina 743, imaginea 3](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p743_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 744, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 743, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 744, imaginea 4](../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p744_fig4.png)
+
+<figcaption><strong>Merrill — pagina 744, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -259,63 +253,56 @@ title: Rx Lumbosacral Junction and Sacroiliac Joints — Ap or Incidență PA Ax
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 742–744](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=742)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 742–744](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lumbosacral articulație și simetric imagine de ambele sacroiliac articulații liber de superimposition (Fig. 9.106).
+Articulația lumbosacrală și imaginea simetrică a ambelor articulații sacroiliace, fără suprapunere (Fig. 9.106).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat through lumbosacral articulație la average angle de 30 la 35 grade cranial. 23
-• angulation de 30 grade în male pacienți și 35 grade în female pacienți este usually satisfactory. prin noting contour de lower
-back, unusual accentuation sau diminution de lumbosacral angle poate fie estimated, și raza centrală angulation poate fie varied
-accordingly.
-• raza centrală enters MSP la point about 1.5 inches (3.8 cm) superior la simfiză pubiană sau 2 la 2.5 inches (5 la 6.5 cm)
-inferior la spină iliacă antero-superioară (SIAS) (Fig. 9.105).
-• Ferguson originally recommended angle de 45 grade.
+• orientată prin articulația lumbosacrală la un unghi mediu de 30 la 35 grade cranial. 23
+• O angulație de 30 grade la pacienții de sex masculin și de 35 grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lumbosacral poate fi estimată, iar angulația razei centrale poate fi variată în consecință.
+• Raza centrală intră în MSP la un punct situat la aproximativ 1.5 inches (3.8 cm) superior față de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior față de spina iliacă anterosuperioară (SIAS) (Fig. 9.105).
+• Ferguson a recomandat inițial un unghi de 45 grade.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Lumbosacral junction și sacrum
-• Open intervertebral disk space între L5 și S1
-• ambele sacroiliac articulații
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• Joncțiunea lumbosacrală și sacrul
+• Spațiul discal intervertebral deschis între L5 și S1
+• Ambele articulații sacroiliace
+• Detalii osoase trabeculare și țesuturile moi din jur
 
-### notes
+### note
 
-PA axial incidență pentru lumbosacral junction poate fie modified în accordance cu AP axial incidență just described. cu
-pacientul în decubit ventral, raza centrală este orientat through lumbosacral articulație la midpoint de receptorul de imagine la average angle de 35
-grade caudal. raza centrală enters spinous process de L4 (Figs. 9.107 și 9.108).
-Meese 24 recommended decubit ventral pentru examinations de sacroiliac articulații because their obliquity places them în poziție more
-nearly paralel cu divergence de fascicul de radiation. raza centrală este orientat perpendicularly și este centrat la nivelul level de spină iliacă antero-superioară (SIAS). It
-enters linia mediană pacient about 2 inches (5 cm) distal la spinous process de L5 (Fig. 9.109).
+Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală este orientată prin articulația lumbosacrală către punctul median al receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108).
+Meese 24 a recomandat decubitul ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
 
 ### part_pos
 
-• cu pacientul în decubit dorsal și MSP centrat pe grila, se extinde pacient’s lower limbs sau abduct thighs și adjust în vertical poziție (Fig. 9.104).
-• Ensure that bazinul este nu rotit.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală (Fig. 9.104).
+• Se asigură că bazinul nu este rotit.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• pentru AP axial incidență de lumbosacral și sacroiliac articulații, se poziționează pacientul în decubit dorsal.
+• Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace, se poziționează pacientul în decubit dorsal.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

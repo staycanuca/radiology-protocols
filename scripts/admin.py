@@ -80,9 +80,29 @@ def parse_frontmatter(content: str) -> tuple[dict, str]:
     return fm, body
 
 
-def load_all_protocols() -> list[dict]:
-    """Return [{filepath: Path, fm: dict}] sorted by (modality, category, title)."""
+_PROTOCOLS_CACHE = None
+_PROTOCOLS_CACHE_TIME = 0.0
+_PROTOCOLS_BY_SLUG = {}
+CACHE_TTL = 60.0  # seconds
+
+
+def invalidate_protocols_cache():
+    global _PROTOCOLS_CACHE, _PROTOCOLS_CACHE_TIME, _PROTOCOLS_BY_SLUG
+    _PROTOCOLS_CACHE = None
+    _PROTOCOLS_CACHE_TIME = 0.0
+    _PROTOCOLS_BY_SLUG = {}
+
+
+def load_all_protocols(force_reload: bool = False) -> list[dict]:
+    """Return [{filepath: Path, fm: dict}] sorted by (modality, category, title) with in-memory caching."""
+    global _PROTOCOLS_CACHE, _PROTOCOLS_CACHE_TIME, _PROTOCOLS_BY_SLUG
+    import time
+    now = time.time()
+    if not force_reload and _PROTOCOLS_CACHE is not None and (now - _PROTOCOLS_CACHE_TIME < CACHE_TTL):
+        return _PROTOCOLS_CACHE
+
     results = []
+    by_slug = {}
     for base_dir in (DOCS_CT, DOCS_RX, DOCS_FLUORO, DOCS_IRM, DOCS_ECO):
         if not base_dir.exists():
             continue
@@ -92,16 +112,28 @@ def load_all_protocols() -> list[dict]:
             try:
                 content = md_file.read_text(encoding="utf-8")
                 fm, _ = parse_frontmatter(content)
-                if fm and fm.get("slug"):
-                    results.append({"filepath": md_file, "fm": fm})
+                slug = fm.get("slug") or md_file.stem
+                if fm and slug:
+                    fm["slug"] = slug
+                    fm["modality"] = fm.get("modality") or base_dir.name
+                    entry = {"filepath": md_file, "fm": fm}
+                    results.append(entry)
+                    by_slug[slug] = entry
             except Exception:
                 pass
     results.sort(key=lambda x: (x["fm"].get("modality", "ct"), x["fm"].get("category", ""), x["fm"].get("title", "")))
+    _PROTOCOLS_CACHE = results
+    _PROTOCOLS_CACHE_TIME = now
+    _PROTOCOLS_BY_SLUG = by_slug
     return results
 
 
 def find_protocol(slug: str) -> dict | None:
-    """Find protocol by slug from load_all_protocols()."""
+    """Find protocol by slug in O(1) time using cache."""
+    if _PROTOCOLS_CACHE is None:
+        load_all_protocols()
+    if slug in _PROTOCOLS_BY_SLUG:
+        return _PROTOCOLS_BY_SLUG[slug]
     for item in load_all_protocols():
         if item["fm"].get("slug") == slug:
             return item
@@ -2777,4 +2809,4 @@ if __name__ == "__main__":
     # Open browser after a short delay so Flask is ready
     import threading
     threading.Timer(1.0, lambda: webbrowser.open(url)).start()
-    app.run(host="127.0.0.1", port=port, debug=False)
+    app.run(host="127.0.0.1", port=port, debug=False, threaded=True)

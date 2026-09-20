@@ -1,47 +1,49 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Make expunere during slow, deep inspiration la ensure filling trachea și
-  Căi Aeriene Superioare cu air.
+breathing: Efectuați expunerea în timpul unui inspir lent și profund pentru a asigura
+  umplerea cu aer a traheei și căilor aeriene superioare.
 category: torace
-centering: perpendicular la center de receptorul de imagine la level de C6 sau C7,
-  midway între laryngeal prominence de cartilaj tiroid (mărul lui Adam) și incizura
-  jugulară (manubriul sternal)
+centering: Perpendicular pe centrul receptorului de imagine, la nivelul C6 sau C7,
+  la jumătatea distanței dintre proeminența laringiană a cartilajului tiroid (mărul
+  lui Adam) și incizura jugulară (manubriul sternal).
 clinical_indications:
-- Investigate pathology de airfilled laringe și trachea, including region de thyroid
-  și thymus glands și upper esophagus, pentru opaque foreign object sau if contrast
-  medium este present.
-- Rule out epiglottitis, which poate fie lifethreatening pentru young child.
+- Investigarea patologiei laringelui și traheei umplute cu aer, inclusiv regiunea
+  glandelor tiroidă și timus și porțiunea superioară a esofagului, pentru identificarea
+  unui corp străin radiopac sau dacă este prezentă substanță de contrast.
+- Excluderea epiglotitei, care poate pune în pericol viața copilului mic.
 images:
-- caption: Fig. 2.86 drept Incidență de Profil (lateral)—Căi Aeriene Superioare.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.86 drept poziție
-    de profil (lateral)—upper airway.)
+- caption: Fig. 2.86 Incidență de profil drept—căi aeriene superioare.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.86 Poziție
+    de profil drept—căi aeriene superioare.)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 2.87 lateral—upper
+- caption: Fig. 2.87 Profil—superior
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.87
-    lateral—upper)
+    Profil—superior)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 2.88 lateral—Căi Aeriene Superioare.
+- caption: Fig. 2.88 Profil—căi aeriene superioare.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.88
-    lateral—upper airway.)
+    Profil—căi aeriene superioare.)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: '(centering și expunere pentru distal laringe și trachea region): If distal
-  laringe și upper trachea și midtrachea sunt primary areas de interest, receptorul
-  de imagine și raza centrală trebuie să fie lowered la place raza centrală la upper
-  incizura jugulară (manubriul sternal) (T1–T2) cu parametri de expunere approximately
-  those pentru lateral Torace. Căi Aeriene Superioare ROUTINE lateral AP Fig. 2.86
-  drept Incidență de Profil (lateral)—Căi Aeriene Superioare.'
-position: 'Pacient: pacient trebuie să fie în ortostatism if possible, Poziție Șezândă,
-  sau în ortostatism în Incidență de Profil (lateral) (poate fie taken în R sau L
-  lateral și poate fie taken Decubit tabletop if necessary).; Regiune anatomică: poziție
-  pacient la center Căi Aeriene Superioare la raza centrală și la center de receptorul
-  de imagine (laringe și trachea lie anterior la cervical și coloană toracală). Rotate
-  umeri posteriorly cu brațe hanging down și mâini clasped behind back. Raise chin
-  slightly și have pacient look directly ahead (Fig. 2.86). Adjust receptorul de imagine
-  height la place top de receptorul de imagine la level de extern auditory meatus
-  (conduct auditiv extern (CAE)), which este opening de extern ear canal (see respirație
-  if area de primary interest este trachea rather than laringe).'
+notes: '(Centrarea și expunerea pentru regiunea laringelui distal și a traheei): Dacă
+  laringele distal și porțiunile superioară și mijlocie ale traheei constituie principalele
+  zone de interes, receptorul de imagine și raza centrală trebuie coborâte pentru
+  a plasa raza centrală la partea superioară a incizurii jugulare (manubriul sternal)
+  (T1–T2), cu parametri de expunere aproximativ ca pentru toracele de profil. CĂI
+  AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. Fig. 2.86 Incidență de profil
+  drept—căi aeriene superioare.'
+position: 'Pacient: Dacă este posibil, pacientul trebuie să fie în poziție verticală,
+  șezând sau în ortostatism, pentru incidența de profil (poate fi realizată în profil
+  R sau L și, dacă este necesar, în decubit pe masa de examinare).; Regiune anatomică:
+  Poziționați pacientul pentru a centra căile aeriene superioare pe raza centrală
+  și pe centrul receptorului de imagine (laringele și traheea se află anterior de
+  coloana cervicală și toracală). Rotiți umerii posterior, cu brațele lăsate în jos
+  și mâinile împreunate la spate. Ridicați ușor bărbia și cereți pacientului să privească
+  drept înainte (Fig. 2.86). Ajustați înălțimea receptorului de imagine pentru a-i
+  plasa marginea superioară la nivelul meatului auditiv extern (conduct auditiv extern
+  (CAE)), care reprezintă orificiul canalului urechii externe (consultați indicațiile
+  de respirație dacă zona principală de interes este traheea, mai degrabă decât laringele).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,37 +51,39 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- laringe și trachea trebuie să fie filled cu air și well visualized (Figs. 2.87 și
-  2.88). poziție
-- Centering pentru gâtul region (laringe și proximal trachea) trebuie să include conduct
-  auditiv extern (CAE) la upper margine de imagine și T2 sau T3 pe lower margine.
-  If distal laringe și trachea este primary aria de interes diagnostic, centering
-  trebuie să fie lower pentru include area de la C3 la T4 sau T5 pe imagine.
-- shadows de umerii trebuie să fie primarily posterior la și trebuie să nu superimpose
-  area de trachea.
-- Collimation margini trebuie să appear pe ambele părți (bilateral) cu ideally only
-  minimal (≤¼ inch) margini pe top și bottom. expunere
-- optim expunere includes părți moi technique și processing algorithm wherein airfilled
-  laringe și upper trachea sunt nu overexposed, but well visualized.
-- coloană cervicală appear underexposed. R Fig. 2.87 lateral—Căi Aeriene Superioare
-  (pentru distal laringe și trachea region). R laringe Trachea Epiglottis Fig. 2.88
-  lateral—Căi Aeriene Superioare.
+- Laringele și traheea trebuie să fie umplute cu aer și bine vizualizate (Fig. 2.87
+  și 2.88). Poziție.
+- Centrarea pentru regiunea gâtului (laringe și trahee proximală) trebuie să includă
+  conductul auditiv extern (CAE) la marginea superioară a imaginii și T2 sau T3 la
+  marginea inferioară. Dacă laringele distal și traheea reprezintă principala arie
+  de interes diagnostic, centrarea trebuie coborâtă pentru a include pe imagine zona
+  de la C3 până la T4 sau T5.
+- Umbrele umerilor trebuie să fie situate în principal posterior de regiunea traheei
+  și să nu se suprapună peste aceasta.
+- Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼
+  inch) la partea superioară și inferioară. Expunere.
+- Expunerea optimă include o tehnică pentru părți moi și un algoritm de procesare
+  prin care laringele umplut cu aer și traheea superioară să fie bine vizualizate,
+  fără supraexpunere.
+- Coloana cervicală apare subexpusă. R Fig. 2.87 Profil—căi aeriene superioare (pentru
+  regiunea laringelui distal și a traheei). R Laringe. Trahee. Epiglotă. Fig. 2.88
+  Profil—căi aeriene superioare.
 sid_dff: 180 cm
 slug: rx-cai-aeriene-superioare-profil-lateral-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 112
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate la region de părți moi de gâtul.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați la regiunea părților moi ale gâtului.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Căi Aeriene Superioare Profil (Lateral)
+title: Rx căi aeriene superioare de profil
 ---
-# Rx Căi Aeriene Superioare Profil (Lateral)
+# Rx căi aeriene superioare de profil
 
 
 <div class="rx-meta-bar">
@@ -98,8 +102,8 @@ title: Rx Căi Aeriene Superioare Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Investigate pathology de airfilled laringe și trachea, including region de thyroid și thymus glands și upper esophagus, pentru opaque foreign object sau if contrast medium este present.
-        - Rule out epiglottitis, which poate fie lifethreatening pentru young child.
+        - Investigarea patologiei laringelui și traheei umplute cu aer, inclusiv regiunea glandelor tiroidă și timus și porțiunea superioară a esofagului, pentru identificarea unui corp străin radiopac sau dacă este prezentă substanță de contrast.
+        - Excluderea epiglotitei, care poate pune în pericol viața copilului mic.
 
     === "Ghid Național IRIS"
 
@@ -113,10 +117,10 @@ title: Rx Căi Aeriene Superioare Profil (Lateral)
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient trebuie să fie în ortostatism if possible, Poziție Șezândă, sau în ortostatism în Incidență de Profil (lateral) (poate fie taken în R sau L lateral și poate fie taken Decubit tabletop if necessary).; Regiune anatomică: poziție pacient la center Căi Aeriene Superioare la raza centrală și la center de receptorul de imagine (laringe și trachea lie anterior la cervical și coloană toracală). Rotate umeri posteriorly cu brațe hanging down și mâini clasped behind back. Raise chin slightly și have pacient look directly ahead (Fig. 2.86). Adjust receptorul de imagine height la place top de receptorul de imagine la level de extern auditory meatus (conduct auditiv extern (CAE)), which este opening de extern ear canal (see respirație if area de primary interest este trachea rather than laringe).
-    - **Punct de Centrare Fascicul:** perpendicular la center de receptorul de imagine la level de C6 sau C7, midway între laryngeal prominence de cartilaj tiroid (mărul lui Adam) și incizura jugulară (manubriul sternal)
+    - **Poziție Pacient:** Pacient: Dacă este posibil, pacientul trebuie să fie în poziție verticală, șezând sau în ortostatism, pentru incidența de profil (poate fi realizată în profil R sau L și, dacă este necesar, în decubit pe masa de examinare).; Regiune anatomică: Poziționați pacientul pentru a centra căile aeriene superioare pe raza centrală și pe centrul receptorului de imagine (laringele și traheea se află anterior de coloana cervicală și toracală). Rotiți umerii posterior, cu brațele lăsate în jos și mâinile împreunate la spate. Ridicați ușor bărbia și cereți pacientului să privească drept înainte (Fig. 2.86). Ajustați înălțimea receptorului de imagine pentru a-i plasa marginea superioară la nivelul meatului auditiv extern (conduct auditiv extern (CAE)), care reprezintă orificiul canalului urechii externe (consultați indicațiile de respirație dacă zona principală de interes este traheea, mai degrabă decât laringele).
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, la nivelul C6 sau C7, la jumătatea distanței dintre proeminența laringiană a cartilajului tiroid (mărul lui Adam) și incizura jugulară (manubriul sternal).
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Make expunere during slow, deep inspiration la ensure filling trachea și Căi Aeriene Superioare cu air.
+    - **Comandă Respiratorie:** Efectuați expunerea în timpul unui inspir lent și profund pentru a asigura umplerea cu aer a traheei și căilor aeriene superioare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,20 +133,20 @@ title: Rx Căi Aeriene Superioare Profil (Lateral)
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate la region de părți moi de gâtul. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați la regiunea părților moi ale gâtului. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - laringe și trachea trebuie să fie filled cu air și well visualized (Figs. 2.87 și 2.88). poziție
-    - Centering pentru gâtul region (laringe și proximal trachea) trebuie să include conduct auditiv extern (CAE) la upper margine de imagine și T2 sau T3 pe lower margine. If distal laringe și trachea este primary aria de interes diagnostic, centering trebuie să fie lower pentru include area de la C3 la T4 sau T5 pe imagine.
-    - shadows de umerii trebuie să fie primarily posterior la și trebuie să nu superimpose area de trachea.
-    - Collimation margini trebuie să appear pe ambele părți (bilateral) cu ideally only minimal (≤¼ inch) margini pe top și bottom. expunere
-    - optim expunere includes părți moi technique și processing algorithm wherein airfilled laringe și upper trachea sunt nu overexposed, but well visualized.
-    - coloană cervicală appear underexposed. R Fig. 2.87 lateral—Căi Aeriene Superioare (pentru distal laringe și trachea region). R laringe Trachea Epiglottis Fig. 2.88 lateral—Căi Aeriene Superioare.
+    - Laringele și traheea trebuie să fie umplute cu aer și bine vizualizate (Fig. 2.87 și 2.88). Poziție.
+    - Centrarea pentru regiunea gâtului (laringe și trahee proximală) trebuie să includă conductul auditiv extern (CAE) la marginea superioară a imaginii și T2 sau T3 la marginea inferioară. Dacă laringele distal și traheea reprezintă principala arie de interes diagnostic, centrarea trebuie coborâtă pentru a include pe imagine zona de la C3 până la T4 sau T5.
+    - Umbrele umerilor trebuie să fie situate în principal posterior de regiunea traheei și să nu se suprapună peste aceasta.
+    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ inch) la partea superioară și inferioară. Expunere.
+    - Expunerea optimă include o tehnică pentru părți moi și un algoritm de procesare prin care laringele umplut cu aer și traheea superioară să fie bine vizualizate, fără supraexpunere.
+    - Coloana cervicală apare subexpusă. R Fig. 2.87 Profil—căi aeriene superioare (pentru regiunea laringelui distal și a traheei). R Laringe. Trahee. Epiglotă. Fig. 2.88 Profil—căi aeriene superioare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,7 +159,7 @@ title: Rx Căi Aeriene Superioare Profil (Lateral)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    (centering și expunere pentru distal laringe și trachea region): If distal laringe și upper trachea și midtrachea sunt primary areas de interest, receptorul de imagine și raza centrală trebuie să fie lowered la place raza centrală la upper incizura jugulară (manubriul sternal) (T1–T2) cu parametri de expunere approximately those pentru lateral Torace. Căi Aeriene Superioare ROUTINE lateral AP Fig. 2.86 drept Incidență de Profil (lateral)—Căi Aeriene Superioare.
+    (Centrarea și expunerea pentru regiunea laringelui distal și a traheei): Dacă laringele distal și porțiunile superioară și mijlocie ale traheei constituie principalele zone de interes, receptorul de imagine și raza centrală trebuie coborâte pentru a plasa raza centrală la partea superioară a incizurii jugulare (manubriul sternal) (T1–T2), cu parametri de expunere aproximativ ca pentru toracele de profil. CĂI AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. Fig. 2.86 Incidență de profil drept—căi aeriene superioare.
 
 
 ### 🖼️ Imagini
@@ -164,25 +168,25 @@ title: Rx Căi Aeriene Superioare Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.86 drept Incidență de Profil (lateral)—Căi Aeriene Superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 2.86 Incidență de profil drept—căi aeriene superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.86 drept Incidență de Profil (lateral)—Căi Aeriene Superioare.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.86 drept poziție de profil (lateral)—upper airway.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.87 lateral—upper](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.87 lateral—upper</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.87 lateral—upper)</span></figcaption>
+<figcaption><strong>Fig. 2.86 Incidență de profil drept—căi aeriene superioare.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.86 Poziție de profil drept—căi aeriene superioare.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.88 lateral—Căi Aeriene Superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 2.87 Profil—superior](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.88 lateral—Căi Aeriene Superioare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.88 lateral—upper airway.)</span></figcaption>
+<figcaption><strong>Fig. 2.87 Profil—superior</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.87 Profil—superior)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.88 Profil—căi aeriene superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 2.88 Profil—căi aeriene superioare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.88 Profil—căi aeriene superioare.)</span></figcaption>
 
 </figure>
 

@@ -1,61 +1,62 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise requested.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 category: abdomen
 centering: perpendicular pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1107, imaginea 1
+- caption: Merrill — pagina 1107, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig1.png
-- caption: Merrill — pagina PDF 1107, imaginea 2
+- caption: Merrill — pagina 1107, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig2.png
-- caption: Merrill — pagina PDF 1108, imaginea 3
+- caption: Merrill — pagina 1108, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1108_fig3.png
-- caption: Merrill — pagina PDF 1109, imaginea 4
+- caption: Merrill — pagina 1109, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1109_fig4.png
-- caption: Merrill — pagina PDF 1110, imaginea 5
+- caption: Merrill — pagina 1110, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1110_fig5.png
-- caption: Merrill — pagina PDF 1111, imaginea 6
+- caption: Merrill — pagina 1111, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1111_fig6.png
-- caption: Merrill — pagina PDF 1112, imaginea 7
+- caption: Merrill — pagina 1112, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1112_fig7.png
 last_updated: '2026-09-16'
 modality: rx
-notes: A 14- × 17-inch (35- × 43-cm) expunere field este often used when distal esophagus
-  sau intestin subțire este la fie visualized along cu stomach.
-position: pentru radiographic studies de stomac și duoden, se așază pacientul în Decubit
-  poziție. ortostatism este sometimes used la show relative poziție de stomach. When
-  adjusting thin pacienți în Decubit ventral poziție, support weight de corp pe pillows
-  sau other suitable pads poziționat under thorax și Bazin (bazin (pelvis)). This
-  adjustment keeps stomach sau duodenum de la pressing pe / sprijinit de vertebre,
-  cu resultant pressure- filling defects.; se ajustează pacient’s poziție Decubit
-  sau în ortostatism astfel încât linia mediană grilă coincides cu plan sagital passing
-  halfway între coloană vertebrală și stâng lateral margine de abdomenul (Fig. 15.58).
-  se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower
-  rib margin la nivelul L1-L2 when pacientul este Decubit ventral (Figs. 15.59 și
-  15.60). pentru în ortostatism imagini, se centrează receptorul de imagine 3 la 6
-  inches (7.6 la 15 cm) lower than L1-L2. greatest visceral movement între Decubit
-  ventral și în ortostatism poziții occurs în asthenic pacienți. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+notes: Un câmp de iradiere de 14 × 17 țoli (35 × 43 cm) este adesea utilizat când
+  esofagul distal sau intestinul subțire trebuie vizualizat împreună cu stomacul.
+position: Pentru examinările radiografice ale stomacului și duodenului, se așază pacientul
+  în decubit. Ortostatismul este uneori utilizat pentru a evidenția poziția relativă
+  a stomacului. La poziționarea pacienților slabi în decubit ventral, se sprijină
+  greutatea corpului pe perne sau alte suporturi adecvate, așezate sub torace și bazin
+  (pelvis). Această ajustare împiedică presarea stomacului sau duodenului pe vertebre,
+  cu apariția consecutivă a defectelor de umplere prin compresiune. Se ajustează poziția
+  pacientului în decubit sau în ortostatism astfel încât linia mediană a grilei să
+  coincidă cu planul sagital care trece la jumătatea distanței dintre coloana vertebrală
+  și marginea laterală stângă a abdomenului (Fig. 15.58). Se centrează receptorul
+  de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii
+  costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral (Fig.
+  15.59 și 15.60). Pentru imaginile în ortostatism, se centrează receptorul de imagine
+  cu 3 până la 6 țoli (7.6 până la 15 cm) mai jos de L1-L2. Cea mai mare deplasare
+  viscerală între pozițiile de decubit ventral și ortostatism apare la pacienții astenici.
+  se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și duodenal loop
-- Stomach centrat la nivelul level de pylorus
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-- Penetration de contrast medium
-- Surrounding anatomy
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și ansa duodenală
+- Stomacul centrat la nivelul pilorului
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill
 source_pages:
@@ -67,92 +68,79 @@ source_pages:
 - 1111
 - 1112
 source_sections:
-  anatomy: 'PA incidență de contour de barium-filled stomach și duodenal bulb este
-    vizualizat. ortostatism shows size, shape, și relative
+  anatomy: 'În incidența PA se vizualizează conturul stomacului umplut cu bariu și
+    al bulbului duodenal. Ortostatismul evidențiază dimensiunea, forma și poziția
+    relativă a stomacului umplut, dar nu evidențiază adecvat porțiunea fundică neumplută
+    a organului. În decubit ventral, stomacul se deplasează superior cu 1 până la
+    4 țoli (3.8 până la 10 cm), în funcție de tipul constituțional al pacientului
+    (Fig. 15.61–15.64). În același timp, stomacul se lărgește în plan orizontal, cu
+    o scădere comparabilă a lungimii sale. (Rețineți că fundul gastric se umple de
+    obicei la pacienții astenici.)
 
-    poziție de filled stomach, but it does nu adequately show unfilled fundic portion
-    de organ. în decubit ventral, stomach moves
-
-    superiorly 1
-
-    la 4 inches (3.8 la 10 cm) according la pacientul’s corp habitus (Figs. 15.61–15.64).
-    la same time, stomach spreads horizontally, cu comparable decrease în its length.
-    (Note that fundus usually fills în asthenic pacienți.)
-
-    pyloric canal și duodenal bulb sunt well vizualizat în pacienți cu asthenic sau
-    hyposthenic habitus. These structures sunt often
-
-    partially obscured în pacienți cu sthenic habitus și, except în PA axial incidență,
-    sunt completely obscured prin prepyloric portion de
-
-    stomach în pacienți cu hypersthenic habitus.'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 10 × 12 inches
-    (24 × 30 cm) pentru smaller pacienți sau 11 × 14 inches (28 × 35 cm) pentru larger
-
-    pacienți. Se plasează markerul de lateralitate în câmpul colimat.'
+    Canalul piloric și bulbul duodenal sunt bine vizualizate la pacienții cu tip constituțional
+    astenic sau hipostenic. Aceste structuri sunt adesea parțial mascate la pacienții
+    cu tip constituțional stenic și, cu excepția incidenței PA axiale, sunt complet
+    mascate de porțiunea prepilorică a stomacului la pacienții cu tip constituțional
+    hiperstenic.'
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 10
+    × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică sau 11 × 14 țoli (28
+    × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate
+    în câmpul colimat.
   cr: • perpendicular pe centrul receptorului de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste anatomia de interes
 
-    • Entire stomach și duodenal loop
+    • Întregul stomac și ansa duodenală
 
-    • Stomach centrat la nivelul level de pylorus
+    • Stomacul centrat la nivelul pilorului
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului
 
-    • Penetration de contrast medium
+    • Penetrarea mediului de contrast
 
-    • Surrounding anatomy'
-  notes: 'A 14- × 17-inch (35- × 43-cm) expunere field este often used when distal
-    esophagus sau intestin subțire este la fie visualized along cu
+    • Anatomia înconjurătoare'
+  notes: Un câmp de iradiere de 14 × 17 țoli (35 × 43 cm) este adesea utilizat când
+    esofagul distal sau intestinul subțire trebuie vizualizat împreună cu stomacul.
+  part_pos: '• Se ajustează poziția pacientului în decubit sau în ortostatism astfel
+    încât linia mediană a grilei să coincidă cu planul sagital care trece la jumătatea
+    distanței dintre coloana vertebrală și marginea laterală stângă a abdomenului
+    (Fig. 15.58).
 
-    stomach.'
-  part_pos: '• se ajustează pacient’s poziție recumbent sau în ortostatism astfel
-    încât linia mediană grilă coincides cu plan sagital passing halfway
+    • Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până
+    la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul
+    este în decubit ventral (Fig. 15.59 și 15.60).
 
-    între coloană vertebrală și stâng lateral margine de abdomenul (Fig. 15.58).
-
-    • se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower
-    rib margin la nivelul L1-L2 when pacientul este în decubit ventral (Figs. 15.59
-    și
-
-    15.60).
-
-    • pentru în ortostatism imagini, se centrează receptorul de imagine 3 la 6 inches
-    (7.6 la 15 cm) lower than L1-L2. greatest visceral movement între în decubit ventral
-    și
-
-    în ortostatism poziții occurs în asthenic pacienți.
+    • Pentru imaginile în ortostatism, se centrează receptorul de imagine cu 3 până
+    la 6 țoli (7.6 până la 15 cm) mai jos de L1-L2. Cea mai mare deplasare viscerală
+    între pozițiile de decubit ventral și ortostatism apare la pacienții astenici.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• pentru radiographic studies de stomac și duoden, se așază pacientul
-    în recumbent poziție. ortostatism este sometimes
+  patient_pos: '• Pentru examinările radiografice ale stomacului și duodenului, se
+    așază pacientul în decubit. Ortostatismul este uneori utilizat pentru a evidenția
+    poziția relativă a stomacului.
 
-    used la show relative poziție de stomach.
+    • La poziționarea pacienților slabi în decubit ventral, se sprijină greutatea
+    corpului pe perne sau alte suporturi adecvate, așezate sub torace și bazin (pelvis).
+    Această ajustare împiedică presarea stomacului sau duodenului pe vertebre, cu
+    apariția consecutivă a defectelor de umplere prin compresiune.'
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    • When adjusting thin pacienți în decubit ventral, support weight de corp pe pillows
-    sau other suitable pads poziționat under
-
-    thorax și bazin (pelvis). This adjustment keeps stomach sau duodenum de la pressing
-    pe / sprijinit de vertebre, cu resultant pressure-
-
-    filling defects.'
-  respiration: Apnee la sfârșitul expirului complet unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.'
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1106–1112'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1106
+    And Biliary System, pagini 1106–1112'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24
-    × 30 cm) pentru smaller pacienți sau 11 × 14 inches (28 × 35 cm) pentru larger
-    pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 10 ×
+    12 țoli (24 × 30 cm) pentru pacienții de talie mai mică sau 11 × 14 țoli (28 ×
+    35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate
+    în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioară (PA) (Merrill)
 ---
 # Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioară (PA) (Merrill)
@@ -188,10 +176,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioar�
 
     ---
 
-    - **Poziție Pacient:** pentru radiographic studies de stomac și duoden, se așază pacientul în Decubit poziție. ortostatism este sometimes used la show relative poziție de stomach. When adjusting thin pacienți în Decubit ventral poziție, support weight de corp pe pillows sau other suitable pads poziționat under thorax și Bazin (bazin (pelvis)). This adjustment keeps stomach sau duodenum de la pressing pe / sprijinit de vertebre, cu resultant pressure- filling defects.; se ajustează pacient’s poziție Decubit sau în ortostatism astfel încât linia mediană grilă coincides cu plan sagital passing halfway între coloană vertebrală și stâng lateral margine de abdomenul (Fig. 15.58). se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower rib margin la nivelul L1-L2 when pacientul este Decubit ventral (Figs. 15.59 și 15.60). pentru în ortostatism imagini, se centrează receptorul de imagine 3 la 6 inches (7.6 la 15 cm) lower than L1-L2. greatest visceral movement între Decubit ventral și în ortostatism poziții occurs în asthenic pacienți. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Pentru examinările radiografice ale stomacului și duodenului, se așază pacientul în decubit. Ortostatismul este uneori utilizat pentru a evidenția poziția relativă a stomacului. La poziționarea pacienților slabi în decubit ventral, se sprijină greutatea corpului pe perne sau alte suporturi adecvate, așezate sub torace și bazin (pelvis). Această ajustare împiedică presarea stomacului sau duodenului pe vertebre, cu apariția consecutivă a defectelor de umplere prin compresiune. Se ajustează poziția pacientului în decubit sau în ortostatism astfel încât linia mediană a grilei să coincidă cu planul sagital care trece la jumătatea distanței dintre coloana vertebrală și marginea laterală stângă a abdomenului (Fig. 15.58). Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral (Fig. 15.59 și 15.60). Pentru imaginile în ortostatism, se centrează receptorul de imagine cu 3 până la 6 țoli (7.6 până la 15 cm) mai jos de L1-L2. Cea mai mare deplasare viscerală între pozițiile de decubit ventral și ortostatism apare la pacienții astenici. se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -205,20 +193,20 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioar�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți sau 11 × 14 inches (28 × 35 cm) pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică sau 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și duodenal loop
-    - Stomach centrat la nivelul level de pylorus
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-    - Penetration de contrast medium
-    - Surrounding anatomy
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și ansa duodenală
+    - Stomacul centrat la nivelul pilorului
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -229,7 +217,7 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioar�
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    A 14- × 17-inch (35- × 43-cm) expunere field este often used when distal esophagus sau intestin subțire este la fie visualized along cu stomach.
+    Un câmp de iradiere de 14 × 17 țoli (35 × 43 cm) este adesea utilizat când esofagul distal sau intestinul subțire trebuie vizualizat împreună cu stomacul.
 
 
 ### 🖼️ Imagini
@@ -238,57 +226,57 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioar�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1107, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig1.png)
+![Merrill — pagina 1107, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1107, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1107, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1107, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1107, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1108, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1108_fig3.png)
+![Merrill — pagina 1107, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1107_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1108, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1109, imaginea 4](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1109_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 1109, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1107, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1110, imaginea 5](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1110_fig5.png)
+![Merrill — pagina 1108, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1108_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 1110, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1111, imaginea 6](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1111_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 1111, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1108, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1112, imaginea 7](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1112_fig7.png)
+![Merrill — pagina 1109, imaginea 4](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1109_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 1112, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1109, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1110, imaginea 5](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1110_fig5.png)
+
+<figcaption><strong>Merrill — pagina 1110, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1111, imaginea 6](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1111_fig6.png)
+
+<figcaption><strong>Merrill — pagina 1111, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1112, imaginea 7](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-postero-anterioara-pa-p1106-merrill/p1112_fig7.png)
+
+<figcaption><strong>Merrill — pagina 1112, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -305,68 +293,55 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență Postero-Anterioar�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1106–1112](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1106)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1106–1112](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-PA incidență de contour de barium-filled stomach și duodenal bulb este vizualizat. ortostatism shows size, shape, și relative
-poziție de filled stomach, but it does nu adequately show unfilled fundic portion de organ. în decubit ventral, stomach moves
-superiorly 1
-la 4 inches (3.8 la 10 cm) according la pacientul’s corp habitus (Figs. 15.61–15.64). la same time, stomach spreads horizontally, cu comparable decrease în its length. (Note that fundus usually fills în asthenic pacienți.)
-pyloric canal și duodenal bulb sunt well vizualizat în pacienți cu asthenic sau hyposthenic habitus. These structures sunt often
-partially obscured în pacienți cu sthenic habitus și, except în PA axial incidență, sunt completely obscured prin prepyloric portion de
-stomach în pacienți cu hypersthenic habitus.
+În incidența PA se vizualizează conturul stomacului umplut cu bariu și al bulbului duodenal. Ortostatismul evidențiază dimensiunea, forma și poziția relativă a stomacului umplut, dar nu evidențiază adecvat porțiunea fundică neumplută a organului. În decubit ventral, stomacul se deplasează superior cu 1 până la 4 țoli (3.8 până la 10 cm), în funcție de tipul constituțional al pacientului (Fig. 15.61–15.64). În același timp, stomacul se lărgește în plan orizontal, cu o scădere comparabilă a lungimii sale. (Rețineți că fundul gastric se umple de obicei la pacienții astenici.)
+Canalul piloric și bulbul duodenal sunt bine vizualizate la pacienții cu tip constituțional astenic sau hipostenic. Aceste structuri sunt adesea parțial mascate la pacienții cu tip constituțional stenic și, cu excepția incidenței PA axiale, sunt complet mascate de porțiunea prepilorică a stomacului la pacienții cu tip constituțional hiperstenic.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți sau 11 × 14 inches (28 × 35 cm) pentru larger
-pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică sau 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
 • perpendicular pe centrul receptorului de imagine.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și duodenal loop
-• Stomach centrat la nivelul level de pylorus
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-• Penetration de contrast medium
-• Surrounding anatomy
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste anatomia de interes
+• Întregul stomac și ansa duodenală
+• Stomacul centrat la nivelul pilorului
+• Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului
+• Penetrarea mediului de contrast
+• Anatomia înconjurătoare
 
-### notes
+### note
 
-A 14- × 17-inch (35- × 43-cm) expunere field este often used when distal esophagus sau intestin subțire este la fie visualized along cu
-stomach.
+Un câmp de iradiere de 14 × 17 țoli (35 × 43 cm) este adesea utilizat când esofagul distal sau intestinul subțire trebuie vizualizat împreună cu stomacul.
 
 ### part_pos
 
-• se ajustează pacient’s poziție recumbent sau în ortostatism astfel încât linia mediană grilă coincides cu plan sagital passing halfway
-între coloană vertebrală și stâng lateral margine de abdomenul (Fig. 15.58).
-• se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower rib margin la nivelul L1-L2 when pacientul este în decubit ventral (Figs. 15.59 și
-15.60).
-• pentru în ortostatism imagini, se centrează receptorul de imagine 3 la 6 inches (7.6 la 15 cm) lower than L1-L2. greatest visceral movement între în decubit ventral și
-în ortostatism poziții occurs în asthenic pacienți.
+• Se ajustează poziția pacientului în decubit sau în ortostatism astfel încât linia mediană a grilei să coincidă cu planul sagital care trece la jumătatea distanței dintre coloana vertebrală și marginea laterală stângă a abdomenului (Fig. 15.58).
+• Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral (Fig. 15.59 și 15.60).
+• Pentru imaginile în ortostatism, se centrează receptorul de imagine cu 3 până la 6 țoli (7.6 până la 15 cm) mai jos de L1-L2. Cea mai mare deplasare viscerală între pozițiile de decubit ventral și ortostatism apare la pacienții astenici.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• pentru radiographic studies de stomac și duoden, se așază pacientul în recumbent poziție. ortostatism este sometimes
-used la show relative poziție de stomach.
-• When adjusting thin pacienți în decubit ventral, support weight de corp pe pillows sau other suitable pads poziționat under
-thorax și bazin (pelvis). This adjustment keeps stomach sau duodenum de la pressing pe / sprijinit de vertebre, cu resultant pressure-
-filling defects.
+• Pentru examinările radiografice ale stomacului și duodenului, se așază pacientul în decubit. Ortostatismul este uneori utilizat pentru a evidenția poziția relativă a stomacului.
+• La poziționarea pacienților slabi în decubit ventral, se sprijină greutatea corpului pe perne sau alte suporturi adecvate, așezate sub torace și bazin (pelvis). Această ajustare împiedică presarea stomacului sau duodenului pe vertebre, cu apariția consecutivă a defectelor de umplere prin compresiune.
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise requested.
+Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
 

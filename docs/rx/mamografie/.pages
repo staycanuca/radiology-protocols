@@ -1,0 +1,20 @@
+title: Mamografie & Senologie
+nav:
+  - index.md
+  - Incidențe Standard (CC & MLO):
+    - rx-mamografie-craniocaudal-cc-projection-bontrager.md
+    - rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager.md
+    - rx-mamografie-san-craniocaudal-cc-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1353-merrill.md
+    - rx-mamografie-san-mediolateral-oblique-mlo-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1355-merrill.md
+  - Incidențe Speciale & Suplimentare:
+    - rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark.md
+    - rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager.md
+    - rx-mamografie-san-exaggerated-craniocaudal-xccl-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1380-merrill.md
+    - rx-mamografie-san-lateromedial-oblique-lmo-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1399-merrill.md
+    - rx-mamografie-san-superolateral-to-inferomedial-oblique-sio-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1401-merrill.md
+    - rx-mamografie-san-90-degree-lateromedial-lm-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1379-merrill.md
+    - rx-mamografie-san-90-degree-mediolateral-ml-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1376-merrill.md
+    - rx-mediolateral-ml-projection-special-projections-additional-views-true-lateral-mamografie-san-position-bontrager.md
+    - rx-profil-lateral-projections-medio-profil-lateral-p470-clark.md
+    - rx-uniform-tissue-exposure-if-compression-is-adequate-tangential-tan-projection-paddle-8-10-inches-18-24-cm-p1388-merrill.md
+  - ...

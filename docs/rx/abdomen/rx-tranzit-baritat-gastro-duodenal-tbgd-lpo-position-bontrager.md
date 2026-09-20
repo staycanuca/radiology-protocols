@@ -2,15 +2,17 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: 'Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic
-  corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway
-  între xiphoid tip și lower lateral margin de Coaste (Grilaj Costal)) și midway între
-  midline de corp și stâng lateral margin de Abdomen, 45° oblic Hypersthenic corp
-  type: Center about 2 inches (5 cm) above L1, 60° oblic Asthenic corp type: Center
-  about 2 inches (5 cm) below L1 și nearer la midline, 30° oblic'
+centering: 'Orientați raza centrală (RC) perpendicular pe receptorul de imagine. Tip
+  constituțional stenic: centrați raza centrală și receptorul de imagine la nivelul
+  l1 (aproximativ la jumătatea distanței dintre vârful apendicelui xifoid și marginea
+  laterală inferioară a coastelor (grilajului costal)) și la jumătatea distanței dintre
+  linia mediană a corpului și marginea laterală stângă a abdomenului, oblic la 45°.
+  Tip constituțional hiperstenic: centrați la aproximativ 2 țoli (5 cm) deasupra L1,
+  oblic la 60°. Tip constituțional astenic: centrați la aproximativ 2 țoli (5 cm)
+  sub L1 și mai aproape de linia mediană, oblic la 30°.'
 clinical_indications:
-- When doublecontrast technique este used, airfilled pylorus și duodenal bulb poate
-  better evidențiază signs de gastritis și ulcers.
+- Când se utilizează tehnica cu dublu contrast, pilorul și bulbul duodenal umplute
+  cu aer pot evidenția mai bine semnele de gastrită și ulcerele.
 images:
 - caption: Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.101 poziție
@@ -22,20 +24,22 @@ images:
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: stomach generally este located higher în this poziție than în lateral; therefore,
-  center one vertebra higher than pe PA sau poziție oblică anterioară dreaptă (OAD
-  / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO
-  AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
-position: 'Pacient: poziție pacient Decubit, cu corp partially rotit into poziție
-  oblică posterioară stângă (OPS / LPO); provide support pentru pacient’s cap și upper
-  torso (Fig. 12.101).; Regiune anatomică: Rotate 30° la 60° de la Decubit dorsal
-  poziție, cu stâng posterior against receptorul de imagine sau table (more rotație
-  (up la 60°) este often required pentru hypersthenic corp habitus și less rotație
-  (30°) pentru asthenic corp habitus7). Flex drept Genunchi pentru support. Extend
-  stâng braț de la corp și raise drept braț high across Torace la grasp end de table
-  pentru support. (Do nu pinch Degete Mână when moving bucky.) Center receptorul de
-  imagine la raza centrală (bottom de receptorul de imagine la level de creasta iliacă
-  (corespunzător L4-L5)).'
+notes: Stomacul este în general situat mai sus în această poziție decât în poziția
+  de profil; prin urmare, centrați cu o vertebră mai sus decât în PA sau în poziția
+  oblică anterioară dreaptă (OAD / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) DE
+  RUTINĂ RAO PA profil drept LPO AP Fig. 12.101 poziție oblică posterioară stângă
+  (OPS / LPO).
+position: 'Pacient: poziționați pacientul în decubit, cu corpul rotit parțial în poziție
+  oblică posterioară stângă (OPS / LPO); asigurați sprijin pentru capul și partea
+  superioară a trunchiului pacientului (Fig. 12.101).; Regiune anatomică: rotiți cu
+  30° până la 60° din poziția de decubit dorsal, cu partea posterioară stângă sprijinită
+  pe receptorul de imagine sau pe masă (o rotație mai mare (până la 60°) este adesea
+  necesară pentru tipul constituțional hiperstenic și o rotație mai mică (30°) pentru
+  tipul constituțional astenic7). Flectați genunchiul drept pentru sprijin. Întindeți
+  brațul stâng îndepărtându-l de corp și ridicați brațul drept sus, peste torace,
+  pentru a apuca capătul mesei pentru sprijin. (Nu prindeți degetele mâinii la deplasarea
+  sistemului Bucky.) Centrați receptorul de imagine pe raza centrală (marginea inferioară
+  a receptorului de imagine la nivelul crestei iliace (corespunzător L4-L5)).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,27 +47,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire stomac și duoden sunt vizibil (Fig. 12.102).
-- 'Unobstructed incidență de duodenal bulb trebuie să fie provided, fără superimposition
-  prin pylorus de stomach. poziție:'
-- Fundus trebuie să fie filled cu barium.
-- cu doublecontrast procedure, corp și pylorus și occasionally duodenal bulb sunt
-  air filled.
-- corect collimation field size este applied.
-- 'raza centrală este centrat level la duodenal bulb. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize gastric folds fără
-  overexposing other pertinent anatomy.
-- net structural margins indicate fără mișcare. Fig. 12.102 poziție oblică posterioară
-  stângă (OPS / LPO).
+- Stomacul și duodenul sunt vizibile în întregime (Fig. 12.102).
+- 'Trebuie obținută o imagine neobstrucționată a bulbului duodenal, fără suprapunerea
+  pilorului gastric. Poziție:'
+- Fundul gastric trebuie să fie umplut cu bariu.
+- În procedura cu dublu contrast, corpul gastric și pilorul și, ocazional, bulbul
+  duodenal sunt umplute cu aer.
+- Se aplică dimensiunea corectă a câmpului de colimare.
+- 'Raza centrală este centrată la nivelul bulbului duodenal. Expunere:'
+- Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor
+  gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+- Marginile nete ale structurilor indică absența mișcării. Fig. 12.102 poziție oblică
+  posterioară stângă (OPS / LPO).
 sid_dff: 100 cm
 slug: rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 511
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la outer margins de receptorul de
-    imagine sau la aria de interes diagnostic pe larger receptorul de imagine.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi până la marginile
+    exterioare ale receptorului de imagine sau la aria de interes diagnostic pe un
+    receptor de imagine mai mare.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -91,7 +96,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
 
     === "Indicații Clinice"
 
-        - When doublecontrast technique este used, airfilled pylorus și duodenal bulb poate better evidențiază signs de gastritis și ulcers.
+        - Când se utilizează tehnica cu dublu contrast, pilorul și bulbul duodenal umplute cu aer pot evidenția mai bine semnele de gastrită și ulcerele.
 
     === "Ghid Național IRIS"
 
@@ -105,8 +110,8 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit, cu corp partially rotit into poziție oblică posterioară stângă (OPS / LPO); provide support pentru pacient’s cap și upper torso (Fig. 12.101).; Regiune anatomică: Rotate 30° la 60° de la Decubit dorsal poziție, cu stâng posterior against receptorul de imagine sau table (more rotație (up la 60°) este often required pentru hypersthenic corp habitus și less rotație (30°) pentru asthenic corp habitus7). Flex drept Genunchi pentru support. Extend stâng braț de la corp și raise drept braț high across Torace la grasp end de table pentru support. (Do nu pinch Degete Mână when moving bucky.) Center receptorul de imagine la raza centrală (bottom de receptorul de imagine la level de creasta iliacă (corespunzător L4-L5)).
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine Sthenic corp type: Center raza centrală și receptorul de imagine la level de l1 (about midway între xiphoid tip și lower lateral margin de Coaste (Grilaj Costal)) și midway între midline de corp și stâng lateral margin de Abdomen, 45° oblic Hypersthenic corp type: Center about 2 inches (5 cm) above L1, 60° oblic Asthenic corp type: Center about 2 inches (5 cm) below L1 și nearer la midline, 30° oblic
+    - **Poziție Pacient:** Pacient: poziționați pacientul în decubit, cu corpul rotit parțial în poziție oblică posterioară stângă (OPS / LPO); asigurați sprijin pentru capul și partea superioară a trunchiului pacientului (Fig. 12.101).; Regiune anatomică: rotiți cu 30° până la 60° din poziția de decubit dorsal, cu partea posterioară stângă sprijinită pe receptorul de imagine sau pe masă (o rotație mai mare (până la 60°) este adesea necesară pentru tipul constituțional hiperstenic și o rotație mai mică (30°) pentru tipul constituțional astenic7). Flectați genunchiul drept pentru sprijin. Întindeți brațul stâng îndepărtându-l de corp și ridicați brațul drept sus, peste torace, pentru a apuca capătul mesei pentru sprijin. (Nu prindeți degetele mâinii la deplasarea sistemului Bucky.) Centrați receptorul de imagine pe raza centrală (marginea inferioară a receptorului de imagine la nivelul crestei iliace (corespunzător L4-L5)).
+    - **Punct de Centrare Fascicul:** Orientați raza centrală (RC) perpendicular pe receptorul de imagine. Tip constituțional stenic: centrați raza centrală și receptorul de imagine la nivelul l1 (aproximativ la jumătatea distanței dintre vârful apendicelui xifoid și marginea laterală inferioară a coastelor (grilajului costal)) și la jumătatea distanței dintre linia mediană a corpului și marginea laterală stângă a abdomenului, oblic la 45°. Tip constituțional hiperstenic: centrați la aproximativ 2 țoli (5 cm) deasupra L1, oblic la 60°. Tip constituțional astenic: centrați la aproximativ 2 țoli (5 cm) sub L1 și mai aproape de linia mediană, oblic la 30°.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -121,22 +126,22 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de receptorul de imagine sau la aria de interes diagnostic pe larger receptorul de imagine. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi până la marginile exterioare ale receptorului de imagine sau la aria de interes diagnostic pe un receptor de imagine mai mare. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire stomac și duoden sunt vizibil (Fig. 12.102).
-    - Unobstructed incidență de duodenal bulb trebuie să fie provided, fără superimposition prin pylorus de stomach. poziție:
-    - Fundus trebuie să fie filled cu barium.
-    - cu doublecontrast procedure, corp și pylorus și occasionally duodenal bulb sunt air filled.
-    - corect collimation field size este applied.
-    - raza centrală este centrat level la duodenal bulb. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize gastric folds fără overexposing other pertinent anatomy.
-    - net structural margins indicate fără mișcare. Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).
+    - Stomacul și duodenul sunt vizibile în întregime (Fig. 12.102).
+    - Trebuie obținută o imagine neobstrucționată a bulbului duodenal, fără suprapunerea pilorului gastric. Poziție:
+    - Fundul gastric trebuie să fie umplut cu bariu.
+    - În procedura cu dublu contrast, corpul gastric și pilorul și, ocazional, bulbul duodenal sunt umplute cu aer.
+    - Se aplică dimensiunea corectă a câmpului de colimare.
+    - Raza centrală este centrată la nivelul bulbului duodenal. Expunere:
+    - Expunere a receptorului de imagine și contrast optime pentru vizualizarea pliurilor gastrice fără supraexpunerea celorlalte structuri anatomice relevante.
+    - Marginile nete ale structurilor indică absența mișcării. Fig. 12.102 poziție oblică posterioară stângă (OPS / LPO).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,7 +154,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    stomach generally este located higher în this poziție than în lateral; therefore, center one vertebra higher than pe PA sau poziție oblică anterioară dreaptă (OAD / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) ROUTINE RAO PA drept lateral LPO AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
+    Stomacul este în general situat mai sus în această poziție decât în poziția de profil; prin urmare, centrați cu o vertebră mai sus decât în PA sau în poziția oblică anterioară dreaptă (OAD / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) DE RUTINĂ RAO PA profil drept LPO AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).
 
 
 ### 🖼️ Imagini

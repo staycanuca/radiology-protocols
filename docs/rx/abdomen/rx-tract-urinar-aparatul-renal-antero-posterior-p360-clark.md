@@ -1,73 +1,89 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: respirație after expir profund complet
+breathing: respirație după un expir profund complet
 category: abdomen
-centering: '• raza centrală verticală centrală este orientat la centre de caseta,
-  which este în linia mediană about level de lower costal margin în mid-axillary line.
-  X-ray fascicul este collimated la just within margins de caseta.
+centering: '• Raza centrală verticală este orientată spre centrul casetei, care se
+  află pe linia mediană, aproximativ la nivelul marginii costale inferioare de pe
+  linia axilară medie. Fasciculul de raze X este colimat imediat în interiorul marginilor
+  casetei.
 
-  • Using high mA și short expunere time, expunere este made pe Apnee la sfârșitul
-  expirului complet (diafragm ridicat).'
+  • Utilizând un mA ridicat și un timp de expunere scurt, expunerea se efectuează
+  în apnee la sfârșitul expirului complet (diafragm ridicat).'
 clinical_indications:
 - 345 11 Tract Urinar (Aparatul Renal) Antero-posterior (AP)
 images:
-- caption: rinichi substance. further radiografie taken pe arrested
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: parenchim renal. O radiografie suplimentară efectuată în apnee
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind
-    stâng lower pole
+- caption: Imagine radiografică simplă a abdomenului în incidență antero-posterioară
+    (AP), în decubit dorsal, care evidențiază polul inferior stâng
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Small opacities overlying rinichi poate fie inside sau outside rinichi substance.
-  further radiografie taken pe arrested respirație after inspir profund complet might
-  show difference în extent și direction de movement de rinichi și calcificări patologice
-  culcat outside rinichi.
+notes: '• Opacitățile mici suprapuse peste rinichi pot fi în interiorul sau în afara
+  parenchimului renal. O radiografie suplimentară efectuată în apnee după un inspir
+  profund complet ar putea evidenția o diferență în amplitudinea și direcția deplasării
+  rinichiului și a calcificărilor patologice situate în afara acestuia.
 
-  • în some cases it poate fie necessary la include collimated rinichi area if superior
-  renal margini sunt excluded în full-length film radiologic.
+  • În unele cazuri, poate fi necesară includerea unei imagini colimate a regiunii
+  renale dacă marginile renale superioare nu sunt cuprinse pe filmul radiologic de
+  ansamblu.
 
-  Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind stâng
-  lower pole renal calculus și calculus în upper drept ureter Plain radiografie de
-  abdominal și pelvic cavity este carried out la visualize:
+  Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP),
+  în decubit dorsal, care evidențiază un calcul la polul inferior al rinichiului stâng
+  și un calcul în porțiunea superioară a ureterului drept. Radiografia simplă a cavității
+  abdominale și pelvine se efectuează pentru a vizualiza:
 
-  • outline de Aparat Renal (Rinichi), surrounded prin their perirenal fat;
+  • conturul rinichilor, înconjurați de grăsimea perirenală;
 
-  • Profil (lateral) margine de psoas muscle;
+  • marginea laterală a mușchiului psoas;
 
-  • opaque stones în rinichi area, în line de ureters și în region de bladder;
+  • calculii radioopaci din regiunea renală, de pe traiectul ureterelor și din regiunea
+  vezicii urinare;
 
-  • calcificări patologice within rinichi sau în bladder perete;
+  • calcificările patologice din interiorul rinichiului sau din peretele vezicii urinare;
 
-  • presence de gas within Tract Urinar (Aparatul Renal).'
-position: "• Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul\
-  \ mediosagital de corp la drept-angles la și în linia mediană mesei.\n• mâinile\
-  \ poate fie plasat high pe toracele, sau brațele poate fie prin pacientul’s side\
-  \ și slightly away de la trunk.\n• size de casetă used trebuie să fie large enough\
-  \ la cover region de la above upper poles de Aparat Renal (Rinichi) la simfiză pubiană\
-  \ (e.g. a 35 \x02 43-cm casetă).\n• caseta este plasat în tăvița Bucky și poziționat\
-  \ astfel încât simfiză pubiană este included pe lower part de film radiologic, bearing\
-  \ în mind that Oblică rays will project simfiză downwards.\n• centre de caseta will\
-  \ fie approximately la nivelul point located 1 cm below line joining crestele iliace.\
-  \ This will ensure that simfiză pubiană este included pe imagine.\n• wide imobilizare\
-  \ band este applied la pacientul’s Abdomen și, depending pe pacientul’s condition,\
-  \ compression este applied. This compression este more effective if long pad este\
-  \ plasat along linia mediană under compression band before tightening band."
+  • prezența gazelor în tractul urinar (aparatul renal).'
+position: '• Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul
+  mediosagital al corpului în unghi drept față de masă și aliniat cu linia mediană
+  a mesei.
+
+  • Mâinile pot fi așezate sus pe torace sau brațele pot fi pe lângă corpul pacientului,
+  ușor depărtate de trunchi.
+
+  • Caseta utilizată trebuie să fie suficient de mare pentru a cuprinde regiunea de
+  deasupra polilor superiori ai rinichilor până la simfiza pubiană (de exemplu, o
+  casetă de 35 × 43-cm).
+
+  • Caseta se așază în tăvița Bucky și se poziționează astfel încât simfiza pubiană
+  să fie inclusă în partea inferioară a filmului radiologic, ținând cont de faptul
+  că razele oblice vor proiecta simfiza în jos.
+
+  • Centrul casetei se va afla aproximativ la nivelul unui punct situat la 1 cm sub
+  linia care unește crestele iliace. Astfel, simfiza pubiană va fi inclusă pe imagine.
+
+  • Se aplică o bandă lată de imobilizare pe abdomenul pacientului și, în funcție
+  de starea acestuia, se aplică o compresie. Această compresie este mai eficientă
+  dacă se așază o pernă lungă de-a lungul liniei mediane, sub banda de compresie,
+  înainte de strângerea benzii.'
 protection:
-- The ‘pregnancy rule’ should be observed unless permission has been given to ignore
-  it in the case of emergency. If the whole of the renal tract including bladder is
-  to be visualized, then no gonad shielding is possible for females; for males, a
-  lead sheet can be placed over the lower edge of the symphysis pubis to protect the
-  testes. If the bladder and lower ureters are not to be included on the image, then
-  females can also be given gonad protection by placing a lead-rubber sheet over the
-  lower Abdomen to protect the ovaries. Other methods discussed previously that reduce
-  radiation dose to the patient should be followed. Preparation of the patient If
-  possible, the patient should have a low-residue diet and laxatives during the 48
-  hours prior to the examination to clear the bowel of gas and faecal matter that
-  might overlie the renal tract. In the case of emergency radiography, no bowel preparation
-  is possible. The patient wears a clean gown.
+- „Regula privind sarcina” trebuie respectată, cu excepția cazului în care s-a acordat
+  permisiunea de a nu o aplica într-o situație de urgență. Dacă trebuie vizualizat
+  întregul tract urinar, inclusiv vezica urinară, protecția gonadelor nu este posibilă
+  la femei; la bărbați, se poate așeza o foaie de plumb peste marginea inferioară
+  a simfizei pubiene pentru a proteja testiculele. Dacă vezica urinară și porțiunile
+  inferioare ale ureterelor nu trebuie incluse pe imagine, se poate asigura protecția
+  gonadelor și la femei, prin așezarea unei foi de cauciuc plumbat peste partea inferioară
+  a abdomenului, pentru a proteja ovarele. Trebuie aplicate și celelalte metode discutate
+  anterior care reduc doza de radiații administrată pacientului. Pregătirea pacientului
+  Dacă este posibil, pacientul trebuie să urmeze o dietă săracă în reziduuri și să
+  ia laxative în cele 48 de ore dinaintea examinării, pentru a elimina din intestin
+  gazele și materiile fecale care s-ar putea suprapune peste tractul urinar. În cazul
+  radiografiei de urgență, pregătirea intestinală nu este posibilă. Pacientul poartă
+  un halat curat.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -75,7 +91,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Tract Urinar (Aparatul Renal)).
+- Vizualizarea clară a întregii arii anatomice (Tract Urinar (Aparatul Renal)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -83,15 +99,15 @@ sid_dff: 100 cm
 slug: rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 360
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=360
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
 ---
 # Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
@@ -127,16 +143,16 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul mediosagital de corp la drept-angles la și în linia mediană mesei.
-• mâinile poate fie plasat high pe toracele, sau brațele poate fie prin pacientul’s side și slightly away de la trunk.
-• size de casetă used trebuie să fie large enough la cover region de la above upper poles de Aparat Renal (Rinichi) la simfiză pubiană (e.g. a 35  43-cm casetă).
-• caseta este plasat în tăvița Bucky și poziționat astfel încât simfiză pubiană este included pe lower part de film radiologic, bearing în mind that Oblică rays will project simfiză downwards.
-• centre de caseta will fie approximately la nivelul point located 1 cm below line joining crestele iliace. This will ensure that simfiză pubiană este included pe imagine.
-• wide imobilizare band este applied la pacientul’s Abdomen și, depending pe pacientul’s condition, compression este applied. This compression este more effective if long pad este plasat along linia mediană under compression band before tightening band.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat la centre de caseta, which este în linia mediană about level de lower costal margin în mid-axillary line. X-ray fascicul este collimated la just within margins de caseta.
-• Using high mA și short expunere time, expunere este made pe Apnee la sfârșitul expirului complet (diafragm ridicat).
+    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul mediosagital al corpului în unghi drept față de masă și aliniat cu linia mediană a mesei.
+• Mâinile pot fi așezate sus pe torace sau brațele pot fi pe lângă corpul pacientului, ușor depărtate de trunchi.
+• Caseta utilizată trebuie să fie suficient de mare pentru a cuprinde regiunea de deasupra polilor superiori ai rinichilor până la simfiza pubiană (de exemplu, o casetă de 35 × 43-cm).
+• Caseta se așază în tăvița Bucky și se poziționează astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont de faptul că razele oblice vor proiecta simfiza în jos.
+• Centrul casetei se va afla aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace. Astfel, simfiza pubiană va fi inclusă pe imagine.
+• Se aplică o bandă lată de imobilizare pe abdomenul pacientului și, în funcție de starea acestuia, se aplică o compresie. Această compresie este mai eficientă dacă se așază o pernă lungă de-a lungul liniei mediane, sub banda de compresie, înainte de strângerea benzii.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei, care se află pe linia mediană, aproximativ la nivelul marginii costale inferioare de pe linia axilară medie. Fasciculul de raze X este colimat imediat în interiorul marginilor casetei.
+• Utilizând un mA ridicat și un timp de expunere scurt, expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** respirație after expir profund complet
+    - **Comandă Respiratorie:** respirație după un expir profund complet
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -145,19 +161,19 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 43 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Tract Urinar (Aparatul Renal)).
+    - Vizualizarea clară a întregii arii anatomice (Tract Urinar (Aparatul Renal)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -165,7 +181,7 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
 
     ---
 
-    - The ‘pregnancy rule’ should be observed unless permission has been given to ignore it in the case of emergency. If the whole of the renal tract including bladder is to be visualized, then no gonad shielding is possible for females; for males, a lead sheet can be placed over the lower edge of the symphysis pubis to protect the testes. If the bladder and lower ureters are not to be included on the image, then females can also be given gonad protection by placing a lead-rubber sheet over the lower Abdomen to protect the ovaries. Other methods discussed previously that reduce radiation dose to the patient should be followed. Preparation of the patient If possible, the patient should have a low-residue diet and laxatives during the 48 hours prior to the examination to clear the bowel of gas and faecal matter that might overlie the renal tract. In the case of emergency radiography, no bowel preparation is possible. The patient wears a clean gown.
+    - „Regula privind sarcina” trebuie respectată, cu excepția cazului în care s-a acordat permisiunea de a nu o aplica într-o situație de urgență. Dacă trebuie vizualizat întregul tract urinar, inclusiv vezica urinară, protecția gonadelor nu este posibilă la femei; la bărbați, se poate așeza o foaie de plumb peste marginea inferioară a simfizei pubiene pentru a proteja testiculele. Dacă vezica urinară și porțiunile inferioare ale ureterelor nu trebuie incluse pe imagine, se poate asigura protecția gonadelor și la femei, prin așezarea unei foi de cauciuc plumbat peste partea inferioară a abdomenului, pentru a proteja ovarele. Trebuie aplicate și celelalte metode discutate anterior care reduc doza de radiații administrată pacientului. Pregătirea pacientului Dacă este posibil, pacientul trebuie să urmeze o dietă săracă în reziduuri și să ia laxative în cele 48 de ore dinaintea examinării, pentru a elimina din intestin gazele și materiile fecale care s-ar putea suprapune peste tractul urinar. În cazul radiografiei de urgență, pregătirea intestinală nu este posibilă. Pacientul poartă un halat curat.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
@@ -173,14 +189,14 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • Small opacities overlying rinichi poate fie inside sau outside rinichi substance. further radiografie taken pe arrested respirație after inspir profund complet might show difference în extent și direction de movement de rinichi și calcificări patologice culcat outside rinichi.
-• în some cases it poate fie necessary la include collimated rinichi area if superior renal margini sunt excluded în full-length film radiologic.
-Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind stâng lower pole renal calculus și calculus în upper drept ureter Plain radiografie de abdominal și pelvic cavity este carried out la visualize:
-• outline de Aparat Renal (Rinichi), surrounded prin their perirenal fat;
-• Profil (lateral) margine de psoas muscle;
-• opaque stones în rinichi area, în line de ureters și în region de bladder;
-• calcificări patologice within rinichi sau în bladder perete;
-• presence de gas within Tract Urinar (Aparatul Renal).
+    • Opacitățile mici suprapuse peste rinichi pot fi în interiorul sau în afara parenchimului renal. O radiografie suplimentară efectuată în apnee după un inspir profund complet ar putea evidenția o diferență în amplitudinea și direcția deplasării rinichiului și a calcificărilor patologice situate în afara acestuia.
+• În unele cazuri, poate fi necesară includerea unei imagini colimate a regiunii renale dacă marginile renale superioare nu sunt cuprinse pe filmul radiologic de ansamblu.
+Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP), în decubit dorsal, care evidențiază un calcul la polul inferior al rinichiului stâng și un calcul în porțiunea superioară a ureterului drept. Radiografia simplă a cavității abdominale și pelvine se efectuează pentru a vizualiza:
+• conturul rinichilor, înconjurați de grăsimea perirenală;
+• marginea laterală a mușchiului psoas;
+• calculii radioopaci din regiunea renală, de pe traiectul ureterelor și din regiunea vezicii urinare;
+• calcificările patologice din interiorul rinichiului sau din peretele vezicii urinare;
+• prezența gazelor în tractul urinar (aparatul renal).
 
 
 ### 🖼️ Imagini
@@ -189,17 +205,17 @@ Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind st�
 
 <figure class="protocol-image-card" markdown>
 
-![rinichi substance. further radiografie taken pe arrested](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_1.jpeg)
+![parenchim renal. O radiografie suplimentară efectuată în apnee](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_1.jpeg)
 
-<figcaption><strong>rinichi substance. further radiografie taken pe arrested</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>parenchim renal. O radiografie suplimentară efectuată în apnee</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind stâng lower pole](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_2.jpeg)
+![Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP), în decubit dorsal, care evidențiază polul inferior stâng](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind stâng lower pole</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP), în decubit dorsal, care evidențiază polul inferior stâng</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -216,4 +232,4 @@ Antero-posterior (AP) Decubit dorsal plain imagine de abdomenul evidențiind st�
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 360](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=360)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 360](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

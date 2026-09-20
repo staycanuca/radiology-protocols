@@ -3,18 +3,19 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: • Using well-collimated fascicul, raza centrală este înclinat caudally
-  so that it makes angle de 70 grade la orbitomeatal plane și centred în linia mediană
-  la pass midway între extern auditory meatuses.
+centering: • Utilizând un fascicul bine colimat, raza centrală este înclinată caudal
+  astfel încât formează un unghi de 70 grade față de planul orbitomeatal și este centrată
+  pe linia mediană, trecând la jumătatea distanței dintre conductele auditive externe.
 clinical_indications:
-- '249 8 Craniu Jugular foramina: submento-vertical 20 grade caudal jugular foramina
-  lie în posterior cranial fossa între petrous temporal și occipital bones pe fiecare
-  side de gaură occipitală mare (foramen magnum). ambele părți (bilateral) sunt imaged
-  simultaneously pe single imagine prin undertaking submento-vertical (SMV) 20 grade
-  caudal incidență.'
+- '249 8 Craniu Foramine jugulare: submento-verticală 20 grade caudal. Foraminele
+  jugulare sunt situate în fosa craniană posterioară, între osul temporal pietros
+  și osul occipital, de fiecare parte a găurii occipitale mari (foramen magnum). Ambele
+  părți (bilateral) sunt imagiate simultan pe o singură imagine prin efectuarea unei
+  incidențe submento-verticale (SMV), cu 20 grade caudal.'
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-jugular-foramina-submento-vertical-p264-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -26,12 +27,12 @@ images:
   url: assets/images/protocols/clark/rx-craniu-jugular-foramina-submento-vertical-p264-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• cu pacientul’s neck less extins, capul poate fie poziționat cu orbito-meatal
-  plane la un unghi de 20 grade la Bucky, în which case orizontal raza centrală will
-  make required angle de 70 grade la base plane (see photograph).
+notes: '• cu gâtul pacientului mai puțin extins, capul poate fi poziționat cu planul
+  orbito-meatal la un unghi de 20 grade față de Bucky, caz în care raza centrală orizontală
+  va forma unghiul necesar de 70 grade față de planul bazei craniului (vezi fotografia).
 
   20° 20°'
-position: • ca per SMV incidență described previously (p. 246).
+position: • ca pentru incidența SMV descrisă anterior (p. 246).
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -40,7 +41,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Craniu).
+- Vizualizarea clară a întregii arii anatomice (craniu).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -48,18 +49,18 @@ sid_dff: 100 cm
 slug: rx-craniu-jugular-foramina-submento-vertical-p264-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 264
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=264
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: 'Rx Craniu Jugular foramina: submento - vertical'
+  mas: Conform AEC / grosimii anatomice
+title: 'Rx Craniu Foramine jugulare: submento-verticală'
 ---
-# Rx Craniu Jugular foramina: submento - vertical
+# Rx Craniu Foramine jugulare: submento-verticală
 
 
 <div class="rx-meta-bar">
@@ -78,7 +79,7 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
 
     === "Indicații Clinice"
 
-        - 249 8 Craniu Jugular foramina: submento-vertical 20 grade caudal jugular foramina lie în posterior cranial fossa între petrous temporal și occipital bones pe fiecare side de gaură occipitală mare (foramen magnum). ambele părți (bilateral) sunt imaged simultaneously pe single imagine prin undertaking submento-vertical (SMV) 20 grade caudal incidență.
+        - 249 8 Craniu Foramine jugulare: submento-verticală 20 grade caudal. Foraminele jugulare sunt situate în fosa craniană posterioară, între osul temporal pietros și osul occipital, de fiecare parte a găurii occipitale mari (foramen magnum). Ambele părți (bilateral) sunt imagiate simultan pe o singură imagine prin efectuarea unei incidențe submento-verticale (SMV), cu 20 grade caudal.
 
     === "Ghid Național IRIS"
 
@@ -92,8 +93,8 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
 
     ---
 
-    - **Poziție Pacient:** • ca per SMV incidență described previously (p. 246).
-    - **Punct de Centrare Fascicul:** • Using well-collimated fascicul, raza centrală este înclinat caudally so that it makes angle de 70 grade la orbitomeatal plane și centred în linia mediană la pass midway între extern auditory meatuses.
+    - **Poziție Pacient:** • ca pentru incidența SMV descrisă anterior (p. 246).
+    - **Punct de Centrare Fascicul:** • Utilizând un fascicul bine colimat, raza centrală este înclinată caudal astfel încât formează un unghi de 70 grade față de planul orbitomeatal și este centrată pe linia mediană, trecând la jumătatea distanței dintre conductele auditive externe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -104,19 +105,19 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Craniu).
+    - Vizualizarea clară a întregii arii anatomice (craniu).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -131,7 +132,7 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • cu pacientul’s neck less extins, capul poate fie poziționat cu orbito-meatal plane la un unghi de 20 grade la Bucky, în which case orizontal raza centrală will make required angle de 70 grade la base plane (see photograph).
+    • cu gâtul pacientului mai puțin extins, capul poate fi poziționat cu planul orbito-meatal la un unghi de 20 grade față de Bucky, caz în care raza centrală orizontală va forma unghiul necesar de 70 grade față de planul bazei craniului (vezi fotografia).
 20° 20°
 
 
@@ -143,7 +144,7 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-jugular-foramina-submento-vertical-p264-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -176,4 +177,4 @@ title: 'Rx Craniu Jugular foramina: submento - vertical'
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 264](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=264)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 264](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

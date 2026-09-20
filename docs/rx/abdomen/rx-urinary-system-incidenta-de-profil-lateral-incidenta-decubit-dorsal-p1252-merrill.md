@@ -2,122 +2,124 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: Horizon̍ al și perpendicular pe centrul receptorului de imagine, entering
-  planul mediocoronal la nivelul crestele iliace
+centering: Orizontal și perpendicular pe centrul receptorului de imagine, cu punctul
+  de intrare în planul mediocoronal, la nivelul crestelor iliace
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1253, imaginea 1
+- caption: Merrill — pagina 1253, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-incidenta-decubit-dorsal-p1252-merrill/p1253_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție pe radiographic cart cu side
-  în question în contact cu stativ vertical Bucky. Ensure that wheels sunt locked.
-  se poziționează pacientul’s brațe across upper Torace la ensure that they sunt nu
-  projected over orice abdominal contents, sau place them behind capul. se flectează
-  pacient’s genunchi slightly la relieve strain pe back.; se ajustează height de stativ
-  vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat
-  pe planul mediocoronal de pacientul’s corp. se poziționează pacientul so that point
-  approximately la nivelul crestele iliace este centrat pe receptorul de imagine (Fig.
-  16.49). se ajustează pacient la ensure that Absența rotației anatomice (simetrie
-  bilaterală perfectă) de la Decubit dorsal sau Decubit ventral poziție este present.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal pe targa radiologică, cu partea de
+  examinat în contact cu stativul vertical Bucky. Se verifică dacă roțile sunt blocate.
+  Se poziționează brațele pacientului peste partea superioară a toracelui, astfel
+  încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele capului.
+  Se flectează ușor genunchii pacientului pentru a reduce tensiunea asupra spatelui.;
+  Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală
+  a receptorului de imagine să fie centrată pe planul mediocoronal al corpului pacientului.
+  Se poziționează pacientul astfel încât un punct situat aproximativ la nivelul crestelor
+  iliace să fie centrat pe receptorul de imagine (Fig. 16.49). Se ajustează poziția
+  pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă)
+  în decubit dorsal sau în decubit ventral. Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire urinary system
-- Bladder și simfiză pubiană
-- Contrast medium în renal area, ureters, și bladder
-- Surrounding anatomy
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check Bazin
-  (bazin (pelvis)) și coloană lombară)
-- Time marker
-- pacient ridicat so that entire Abdomen este vizibil
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul aparat urinar
+- Vezica urinară și simfiza pubiană
+- Substanță de contrast în regiunea renală, uretere și vezica urinară
+- Structurile anatomice învecinate
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică
+  bazinul (pelvisul) și coloana lombară)
+- Marker de timp
+- Pacientul este ridicat astfel încât întregul abdomen să fie vizibil
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-system-incidenta-de-profil-lateral-incidenta-decubit-dorsal-p1252-merrill
 source_pages:
 - 1252
 - 1253
 source_sections:
-  anatomy: 'Rolleston și Reay 8 recommended ventral decubit poziție la show UPī în
-    presence de hydronephrosis. Cook et al. 9 advocated
+  anatomy: 'Rolleston și Reay 8 au recomandat poziția de decubit ventral pentru a
+    evidenția UPī în prezența hidronefrozei. Cook și colab. 9 au susținut utilizarea
 
-    this poziție la determine whether extrarenal mass în flank este intraperitoneal
-    sau extraperitoneal, și they stated that poziție makes it
+    acestei poziții pentru a determina dacă o masă extrarenală din flanc este intraperitoneală
+    sau extraperitoneală și au afirmat că poziția facilitează
 
-    easy la screen rinichi și ureters pentru abnormal anterior displacement (Fig.
-    16.50).'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch
-    (2.5
+    examinarea rinichilor și ureterelor pentru depistarea unei deplasări anterioare
+    anormale (Fig. 16.50).'
+  collimation: '• Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie
+    mai mică, se colimează la cel mult 1 țol (2.5
 
-    cm) de skin shadow. Place correct marker de lateralitate (D/S) în collimated expunere
-    field.'
-  cr: • Horizon̍ al și perpendicular pe centrul receptorului de imagine, entering
-    planul mediocoronal la nivelul crestele iliace
-  criteria: 'Criterii radiologice de calitate imaginii:
+    cm) de conturul cutanat. Se plasează markerul de lateralitate (D/S) corect în
+    câmpul de expunere colimat.'
+  cr: • Orizontală și perpendiculară pe centrul receptorului de imagine, pătrunzând
+    în planul mediocoronal la nivelul crestelor iliace
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste structurile anatomice de interes
 
-    • Entire urinary system
+    • Întregul aparat urinar
 
-    • Bladder și simfiză pubiană
+    • Vezica urinară și simfiza pubiană
 
-    • Contrast medium în renal area, ureters, și bladder
+    • Substanță de contrast în regiunea renală, uretere și vezica urinară
 
-    • Surrounding anatomy
+    • Structurile anatomice învecinate
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check
-    bazin (pelvis) și coloană lombară)
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se
+    verifică bazinul (pelvisul) și coloana lombară)
 
-    • Time marker
+    • Marker temporal
 
-    • pacient ridicat so that entire abdomen este vizibil'
-  part_pos: '• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală
-    de receptorul de imagine este centrat pe planul mediocoronal de pacientul’s corp.
+    • Pacientul este ridicat astfel încât întregul abdomen să fie vizibil'
+  part_pos: '• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală
+    a receptorului de imagine să fie centrată pe planul mediocoronal al corpului pacientului.
 
-    • se poziționează pacientul so that point approximately la nivelul crestele iliace
-    este centrat pe receptorul de imagine (Fig. 16.49).
+    • Se poziționează pacientul astfel încât un punct situat aproximativ la nivelul
+    crestelor iliace să fie centrat pe receptorul de imagine (Fig. 16.49).
 
-    • se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală
-    perfectă) de la în decubit dorsal sau decubit ventral este present.
+    • Se ajustează poziția pacientului pentru a asigura absența rotației anatomice
+    (simetrie bilaterală perfectă) în decubit dorsal sau în decubit ventral.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal pe radiographic cart cu side
-    în question în contact cu stativ vertical Bucky. Ensure
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit dorsal pe targa radiologică, cu partea
+    de examinat în contact cu stativul vertical Bucky. Se verifică
 
-    that wheels sunt locked.
+    dacă roțile sunt blocate.
 
-    • se poziționează pacientul’s brațe across upper chest la ensure that they sunt
-    nu projected over orice abdominal contents, sau place them behind
+    • Se poziționează brațele pacientului peste partea superioară a toracelui, astfel
+    încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
 
-    capul.
+    capului.
 
-    • se flectează pacient’s genunchi slightly la relieve strain pe back.'
+    • Se flectează ușor genunchii pacientului pentru a reduce tensiunea asupra spatelui.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1252–1253
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1252
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1252–1253
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-    cm) de skin shadow. Place correct marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx Urinary System — Incidență de Profil (Lateral) — Incidență Decubit Dorsal
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai
+    mică, se colimează la cel mult 1 țol (2.5 cm) de conturul cutanat. Se plasează
+    markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+title: Rx aparat urinar — Incidență de profil (laterală) — Incidență în decubit dorsal
   (Merrill)
 ---
-# Rx Urinary System — Incidență de Profil (Lateral) — Incidență Decubit Dorsal (Merrill)
+# Rx aparat urinar — Incidență de profil (laterală) — Incidență în decubit dorsal (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -150,8 +152,8 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Incidență Dec
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție pe radiographic cart cu side în question în contact cu stativ vertical Bucky. Ensure that wheels sunt locked. se poziționează pacientul’s brațe across upper Torace la ensure that they sunt nu projected over orice abdominal contents, sau place them behind capul. se flectează pacient’s genunchi slightly la relieve strain pe back.; se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediocoronal de pacientul’s corp. se poziționează pacientul so that point approximately la nivelul crestele iliace este centrat pe receptorul de imagine (Fig. 16.49). se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de la Decubit dorsal sau Decubit ventral poziție este present. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Horizon̍ al și perpendicular pe centrul receptorului de imagine, entering planul mediocoronal la nivelul crestele iliace
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal pe targa radiologică, cu partea de examinat în contact cu stativul vertical Bucky. Se verifică dacă roțile sunt blocate. Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele capului. Se flectează ușor genunchii pacientului pentru a reduce tensiunea asupra spatelui.; Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal al corpului pacientului. Se poziționează pacientul astfel încât un punct situat aproximativ la nivelul crestelor iliace să fie centrat pe receptorul de imagine (Fig. 16.49). Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) în decubit dorsal sau în decubit ventral. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontal și perpendicular pe centrul receptorului de imagine, cu punctul de intrare în planul mediocoronal, la nivelul crestelor iliace
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -167,22 +169,22 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Incidență Dec
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de skin shadow. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul cutanat. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire urinary system
-    - Bladder și simfiză pubiană
-    - Contrast medium în renal area, ureters, și bladder
-    - Surrounding anatomy
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check Bazin (bazin (pelvis)) și coloană lombară)
-    - Time marker
-    - pacient ridicat so that entire Abdomen este vizibil
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul aparat urinar
+    - Vezica urinară și simfiza pubiană
+    - Substanță de contrast în regiunea renală, uretere și vezica urinară
+    - Structurile anatomice învecinate
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
+    - Marker de timp
+    - Pacientul este ridicat astfel încât întregul abdomen să fie vizibil
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -202,9 +204,9 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Incidență Dec
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1253, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-incidenta-decubit-dorsal-p1252-merrill/p1253_fig1.png)
+![Merrill — pagina 1253, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-incidenta-decubit-dorsal-p1252-merrill/p1253_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1253, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1253, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -221,58 +223,58 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Incidență Dec
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1252–1253](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1252)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1252–1253](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Rolleston și Reay 8 recommended ventral decubit poziție la show UPī în presence de hydronephrosis. Cook et al. 9 advocated
-this poziție la determine whether extrarenal mass în flank este intraperitoneal sau extraperitoneal, și they stated that poziție makes it
-easy la screen rinichi și ureters pentru abnormal anterior displacement (Fig. 16.50).
+Rolleston și Reay 8 au recomandat poziția de decubit ventral pentru a evidenția UPī în prezența hidronefrozei. Cook și colab. 9 au susținut utilizarea
+acestei poziții pentru a determina dacă o masă extrarenală din flanc este intraperitoneală sau extraperitoneală și au afirmat că poziția facilitează
+examinarea rinichilor și ureterelor pentru depistarea unei deplasări anterioare anormale (Fig. 16.50).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-cm) de skin shadow. Place correct marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5
+cm) de conturul cutanat. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• Horizon̍ al și perpendicular pe centrul receptorului de imagine, entering planul mediocoronal la nivelul crestele iliace
+• Orizontală și perpendiculară pe centrul receptorului de imagine, pătrunzând în planul mediocoronal la nivelul crestelor iliace
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire urinary system
-• Bladder și simfiză pubiană
-• Contrast medium în renal area, ureters, și bladder
-• Surrounding anatomy
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check bazin (pelvis) și coloană lombară)
-• Time marker
-• pacient ridicat so that entire abdomen este vizibil
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
+• Întregul aparat urinar
+• Vezica urinară și simfiza pubiană
+• Substanță de contrast în regiunea renală, uretere și vezica urinară
+• Structurile anatomice învecinate
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
+• Marker temporal
+• Pacientul este ridicat astfel încât întregul abdomen să fie vizibil
 
 ### part_pos
 
-• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediocoronal de pacientul’s corp.
-• se poziționează pacientul so that point approximately la nivelul crestele iliace este centrat pe receptorul de imagine (Fig. 16.49).
-• se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de la în decubit dorsal sau decubit ventral este present.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal al corpului pacientului.
+• Se poziționează pacientul astfel încât un punct situat aproximativ la nivelul crestelor iliace să fie centrat pe receptorul de imagine (Fig. 16.49).
+• Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) în decubit dorsal sau în decubit ventral.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal pe radiographic cart cu side în question în contact cu stativ vertical Bucky. Ensure
-that wheels sunt locked.
-• se poziționează pacientul’s brațe across upper chest la ensure that they sunt nu projected over orice abdominal contents, sau place them behind
-capul.
-• se flectează pacient’s genunchi slightly la relieve strain pe back.
+• Se așază pacientul în decubit dorsal pe targa radiologică, cu partea de examinat în contact cu stativul vertical Bucky. Se verifică
+dacă roțile sunt blocate.
+• Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
+capului.
+• Se flectează ușor genunchii pacientului pentru a reduce tensiunea asupra spatelui.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

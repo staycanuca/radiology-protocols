@@ -1,1 +1,31 @@
 title: Pediatrie Rx
+nav:
+  - index.md
+  - Torace Pediatric:
+    - rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-special-care-baby-unit-p380-clark.md
+    - rx-torace-neonatal-nou-nascut-antero-posterior-ap-decubit-dorsal-p405-clark.md
+    - rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark.md
+    - rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark.md
+    - rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark.md
+    - rx-torace-pediatric.md
+  - Abdomen & Bazin Pediatric:
+    - rx-abdomen-antero-posterior-p413-clark.md
+    - rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark.md
+    - rx-bazin-solduri-sugari.md
+    - rx-bazin-pelvis-hips-antero-posterior-p423-clark.md
+    - rx-bazin-pelvis-hips-incidenta-von-rosen-displazie-sold-p425-clark.md
+    - rx-abdomen-neonatal.md
+  - Craniu & Coloană Pediatrică:
+    - rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark.md
+    - rx-craniu-fronto-occipital-p418-clark.md
+    - rx-craniu-fronto-occipital-30-degrees-p419-clark.md
+    - rx-craniu-profil-lateral-decubit-dorsal-p420-clark.md
+  - Membre Pediatrie:
+    - rx-picior-in-incarcare-ortostatism-projections-p439-clark.md
+  - Proceduri & Tehnici Speciale Pediatrice:
+    - rx-masurare-lungime-membre-inferioare-telemetrie-metoda-expunere-unica-format-lung-p433-clark.md
+    - rx-bilant-scheletic-suspiciune-abuz.md
+    - rx-corp-strain-ingerat.md
+    - rx-sinusuri-paranazale-saf-post-nasal-space-profil-lateral-decubit-dorsal-p421-clark.md
+    - rx-varsta-osoasa.md
+  - ...

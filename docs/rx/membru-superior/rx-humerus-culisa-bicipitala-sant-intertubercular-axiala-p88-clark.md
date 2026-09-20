@@ -57,7 +57,7 @@ sid_dff: 100 cm
 slug: rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 88
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=88
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -197,4 +197,4 @@ Alternative Axială incidență
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 88](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=88)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 88](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

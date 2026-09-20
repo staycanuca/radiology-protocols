@@ -62,7 +62,7 @@ sid_dff: 100 cm
 slug: rx-diafiza-femurala-profil-lateral-basic-p152-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 152
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=152
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -210,4 +210,4 @@ title: Rx Diafiză Femurală Profil (Lateral) - basic
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 152](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=152)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 152](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

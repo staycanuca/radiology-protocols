@@ -1,0 +1,11 @@
+title: Imagistică Pediatrică (WFPI)
+nav:
+  - index.md
+  - rm-cerebral-rapid: irm-pediatric-rapid-brain.md
+  - rm-epilepsie: irm-pediatric-epilepsie-convulsii.md
+  - rm-hidrocefalie: irm-pediatric-hidrocefalie-control-ventriculi.md
+  - rm-tumori-creier: irm-pediatric-tumori-infectii-cerebrale.md
+  - rm-coloana: irm-pediatric-tumori-infectii-coloana.md
+  - rm-abdomen-scurt: irm-pediatric-abdomen-scurt-free-breathing.md
+  - rm-abdomen-lung: irm-pediatric-abdomen-lung-extins.md
+  - rm-osteomielita: irm-pediatric-osteomielita-infectii-msk.md

@@ -11,7 +11,7 @@ centering: CVA Cerebrovascular accident conduct auditiv extern (CAE) conduct aud
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 974, imaginea 1
+- caption: Merrill — pagina 974, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-12-traumatism-regim-urgenta-radiography-di-erent-position-vomiting-without-abdominal-complaints-hyperemesis-head-injury-p972-merrill/p974_fig1.png
 last_updated: '2026-09-16'
@@ -84,8 +84,8 @@ source_sections:
 
     Cervical coloană vertebrală'
 sources:
-- title: Merrill’s Atlas, 12. Trauma Radiography, pagini PDF 972–975
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=972
+- title: Merrill’s Atlas, 12. Trauma Radiography, pagini 972–975
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
@@ -169,9 +169,9 @@ title: Rx Traumatism / Regim Urgență Radiography — diЎerent Poziționare �
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 974, imaginea 1](../../assets/images/protocols/merrill/rx-12-traumatism-regim-urgenta-radiography-di-erent-position-vomiting-without-abdominal-complaints-hyperemesis-head-injury-p972-merrill/p974_fig1.png)
+![Merrill — pagina 974, imaginea 1](../../assets/images/protocols/merrill/rx-12-traumatism-regim-urgenta-radiography-di-erent-position-vomiting-without-abdominal-complaints-hyperemesis-head-injury-p972-merrill/p974_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 974, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 974, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -188,7 +188,7 @@ title: Rx Traumatism / Regim Urgență Radiography — diЎerent Poziționare �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 12. Trauma Radiography, pagini PDF 972–975](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=972)
+- [Merrill’s Atlas, 12. Trauma Radiography, pagini 972–975](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -2,44 +2,47 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: orientat horizon̍ al și perpendicular pe centrul receptorului de imagine,
-  entering planul mediocoronal 2 inches (5 cm) deasupra nivelului crestele iliace.
+centering: orientat orizontal și perpendicular pe centrul receptorului de imagine,
+  pătrunzând în planul mediocoronal la 2 țoli (5 cm) deasupra nivelului crestelor
+  iliace.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 224, imaginea 1
+- caption: Merrill — pagina 224, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p224_fig1.png
-- caption: Merrill — pagina PDF 225, imaginea 2
+- caption: Merrill — pagina 225, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p225_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: When pacientul cannot stand sau lie pe side, se așază pacientul în Decubit
-  dorsal poziție pe transportation cart sau other suitable support cu drept sau stâng
-  side în contact cu stativ vertical Bucky. se poziționează pacientul’s brațe across
-  upper Torace la ensure that they sunt nu projected over orice abdominal contents
-  sau place them behind pacientul’s cap. se flectează pacient’s genunchi slightly
-  la relieve strain pe back. Exercise care la ensure that pacientul does nu fall de
-  la cart sau table; if cart este used, lock toate wheels securely în poziție.; se
-  ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul
-  de imagine este centrat pe planul mediocoronal. se poziționează pacientul so that
-  point approximately 2 inches (5 cm) deasupra nivelului crestele iliace este centrat
-  pe receptorul de imagine (Fig. 4.19). se ajustează pacient la ensure that Absența
-  rotației anatomice (simetrie bilaterală perfectă) de la Decubit dorsal poziție occurs.
+position: Când pacientul nu poate sta în picioare sau culcat pe o parte, se așază
+  în decubit dorsal pe căruciorul de transport sau pe un alt suport adecvat, cu partea
+  dreaptă sau stângă în contact cu stativul vertical Bucky. Se poziționează brațele
+  pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze
+  peste conținutul abdominal, sau se așază în spatele capului pacientului. Se flectează
+  ușor genunchii pacientului pentru a reduce solicitarea spatelui. Se acordă atenție
+  pentru a preveni căderea pacientului de pe cărucior sau de pe masă; dacă se utilizează
+  un cărucior, se blochează ferm toate roțile în poziție. Se ajustează înălțimea stativului
+  vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată
+  pe planul mediocoronal. Se poziționează pacientul astfel încât un punct situat la
+  aproximativ 2 țoli (5 cm) deasupra nivelului crestelor iliace să fie centrat pe
+  receptorul de imagine (Fig. 4.19). Se ajustează poziția pacientului pentru a asigura
+  absența rotației anatomice (simetrie bilaterală perfectă) față de poziția de decubit
+  dorsal.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit
-  marker plasat clear de anatomy de interest
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului
+  de decubit, plasate în afara structurilor anatomice de interes
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- Superimposed ilia
-- Superimposed coloană lombară pedicles și open intervertebral foramina
-- Open intervertebral foramina
-- ca much de remaining Abdomen ca possible when cupole diafragmatice este included
-- Abdominal contents vizibil fără contrast media
+- Oasele iliace suprapuse
+- Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+- Foramene intervertebrale deschise
+- o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+- Conținutul abdominal vizibil fără substanță de contrast
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill
 source_pages:
@@ -47,70 +50,74 @@ source_pages:
 - 224
 - 225
 source_sections:
-  anatomy: 'lateral incidență de abdomenul este valuable în evidențiind prevertebral
-    space și este useful în determining air-nivele hidroaerice în abdomenul
+  anatomy: 'Incidența de profil a abdomenului este valoroasă pentru evidențierea spațiului
+    prevertebral și este utilă pentru identificarea nivelurilor hidroaerice din abdomen
 
     (Fig. 4.20).'
   collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior
-    shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• orientat horizon̍ al și perpendicular pe centrul receptorului de imagine,
-    entering planul mediocoronal 2 inches (5 cm) deasupra nivelului iliac
+    Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de
+    contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate
+    în câmpul colimat.
+  cr: '• orientat orizontal și perpendicular pe centrul receptorului de imagine, pătrunzând
+    în planul mediocoronal la 2 țoli (5 cm) deasupra nivelului crestelor
 
-    creste.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    iliace.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit
-    marker plasat clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a
+    markerului de decubit, plasate în afara structurilor anatomice de interes
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • Superimposed ilia
+    • Oasele iliace suprapuse
 
-    • Superimposed coloană lombară pedicles și open intervertebral foramina
+    • Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
 
-    • Open intervertebral foramina
+    • Foramene intervertebrale deschise
 
-    • ca much de remaining abdomen ca possible when cupole diafragmatice este included
+    • o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
 
-    • Abdominal contents vizibil fără contrast media'
-  part_pos: '• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală
-    de receptorul de imagine este centrat pe planul mediocoronal.
+    • Conținutul abdominal vizibil fără substanță de contrast'
+  part_pos: '• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală
+    a receptorului de imagine să fie centrată pe planul mediocoronal.
 
-    • se poziționează pacientul so that point approximately 2 inches (5 cm) deasupra
-    nivelului crestele iliace este centrat pe receptorul de imagine (Fig. 4.19).
+    • Se poziționează pacientul astfel încât un punct situat la aproximativ 2 țoli
+    (5 cm) deasupra nivelului crestelor iliace să fie centrat pe receptorul de imagine
+    (Fig. 4.19).
 
-    • se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală
-    perfectă) de la decubit dorsal occurs.'
-  patient_pos: '• When pacientul cannot stand sau lie pe side, se așază pacientul
-    în decubit dorsal pe transportation cart sau other suitable
+    • Se ajustează poziția pacientului pentru a asigura absența rotației anatomice
+    (simetrie bilaterală perfectă) față de poziția de decubit dorsal.'
+  patient_pos: '• Când pacientul nu poate sta în picioare sau culcat pe o parte, se
+    așază în decubit dorsal pe căruciorul de transport sau pe un alt
 
-    support cu drept sau stâng side în contact cu stativ vertical Bucky.
+    suport adecvat, cu partea dreaptă sau stângă în contact cu stativul vertical Bucky.
 
-    • se poziționează pacientul’s brațe across upper chest la ensure that they sunt
-    nu projected over orice abdominal contents sau place them behind
+    • Se poziționează brațele pacientului peste partea superioară a toracelui, astfel
+    încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
 
-    pacientul’s cap.
+    capului pacientului.
 
-    • se flectează pacient’s genunchi slightly la relieve strain pe back.
+    • Se flectează ușor genunchii pacientului pentru a reduce solicitarea spatelui.
 
-    • Exercise care la ensure that pacientul does nu fall de la cart sau table; if
-    cart este used, lock toate wheels securely în poziție.'
+    • Se acordă atenție pentru a preveni căderea pacientului de pe cărucior sau de
+    pe masă; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 4. Abdomen, pagini PDF 223–225
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=223
+- title: Merrill’s Atlas, 4. Abdomen, pagini 223–225
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior
-    shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Abdomen — Incidență de Profil (Lateral) — Right or left Incidență Decubit
+    Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de
+    contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stâng în Decubit
   Dorsal (Merrill)
 ---
-# Rx Abdomen — Incidență de Profil (Lateral) — Right or left Incidență Decubit Dorsal (Merrill)
+# Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stâng în Decubit Dorsal (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -143,8 +150,8 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Right or left Inciden�
 
     ---
 
-    - **Poziție Pacient:** When pacientul cannot stand sau lie pe side, se așază pacientul în Decubit dorsal poziție pe transportation cart sau other suitable support cu drept sau stâng side în contact cu stativ vertical Bucky. se poziționează pacientul’s brațe across upper Torace la ensure that they sunt nu projected over orice abdominal contents sau place them behind pacientul’s cap. se flectează pacient’s genunchi slightly la relieve strain pe back. Exercise care la ensure that pacientul does nu fall de la cart sau table; if cart este used, lock toate wheels securely în poziție.; se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediocoronal. se poziționează pacientul so that point approximately 2 inches (5 cm) deasupra nivelului crestele iliace este centrat pe receptorul de imagine (Fig. 4.19). se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de la Decubit dorsal poziție occurs.
-    - **Punct de Centrare Fascicul:** orientat horizon̍ al și perpendicular pe centrul receptorului de imagine, entering planul mediocoronal 2 inches (5 cm) deasupra nivelului crestele iliace.
+    - **Poziție Pacient:** Când pacientul nu poate sta în picioare sau culcat pe o parte, se așază în decubit dorsal pe căruciorul de transport sau pe un alt suport adecvat, cu partea dreaptă sau stângă în contact cu stativul vertical Bucky. Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele capului pacientului. Se flectează ușor genunchii pacientului pentru a reduce solicitarea spatelui. Se acordă atenție pentru a preveni căderea pacientului de pe cărucior sau de pe masă; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție. Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal. Se poziționează pacientul astfel încât un punct situat la aproximativ 2 țoli (5 cm) deasupra nivelului crestelor iliace să fie centrat pe receptorul de imagine (Fig. 4.19). Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) față de poziția de decubit dorsal.
+    - **Punct de Centrare Fascicul:** orientat orizontal și perpendicular pe centrul receptorului de imagine, pătrunzând în planul mediocoronal la 2 țoli (5 cm) deasupra nivelului crestelor iliace.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -160,21 +167,21 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Right or left Inciden�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate în afara structurilor anatomice de interes
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Superimposed ilia
-    - Superimposed coloană lombară pedicles și open intervertebral foramina
-    - Open intervertebral foramina
-    - ca much de remaining Abdomen ca possible when cupole diafragmatice este included
-    - Abdominal contents vizibil fără contrast media
+    - Oasele iliace suprapuse
+    - Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+    - Foramene intervertebrale deschise
+    - o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+    - Conținutul abdominal vizibil fără substanță de contrast
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -194,17 +201,17 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Right or left Inciden�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 224, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p224_fig1.png)
+![Merrill — pagina 224, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p224_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 224, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 224, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 225, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p225_fig2.png)
+![Merrill — pagina 225, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p225_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 225, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 225, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -221,55 +228,55 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Right or left Inciden�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 4. Abdomen, pagini PDF 223–225](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=223)
+- [Merrill’s Atlas, 4. Abdomen, pagini 223–225](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lateral incidență de abdomenul este valuable în evidențiind prevertebral space și este useful în determining air-nivele hidroaerice în abdomenul
+Incidența de profil a abdomenului este valoroasă pentru evidențierea spațiului prevertebral și este utilă pentru identificarea nivelurilor hidroaerice din abdomen
 (Fig. 4.20).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• orientat horizon̍ al și perpendicular pe centrul receptorului de imagine, entering planul mediocoronal 2 inches (5 cm) deasupra nivelului iliac
-creste.
+• orientat orizontal și perpendicular pe centrul receptorului de imagine, pătrunzând în planul mediocoronal la 2 țoli (5 cm) deasupra nivelului crestelor
+iliace.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate în afara structurilor anatomice de interes
 • Absența rotației anatomice (simetrie bilaterală perfectă)
-• Superimposed ilia
-• Superimposed coloană lombară pedicles și open intervertebral foramina
-• Open intervertebral foramina
-• ca much de remaining abdomen ca possible when cupole diafragmatice este included
-• Abdominal contents vizibil fără contrast media
+• Oasele iliace suprapuse
+• Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+• Foramene intervertebrale deschise
+• o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+• Conținutul abdominal vizibil fără substanță de contrast
 
 ### part_pos
 
-• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediocoronal.
-• se poziționează pacientul so that point approximately 2 inches (5 cm) deasupra nivelului crestele iliace este centrat pe receptorul de imagine (Fig. 4.19).
-• se ajustează pacient la ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de la decubit dorsal occurs.
+• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal.
+• Se poziționează pacientul astfel încât un punct situat la aproximativ 2 țoli (5 cm) deasupra nivelului crestelor iliace să fie centrat pe receptorul de imagine (Fig. 4.19).
+• Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) față de poziția de decubit dorsal.
 
 ### patient_pos
 
-• When pacientul cannot stand sau lie pe side, se așază pacientul în decubit dorsal pe transportation cart sau other suitable
-support cu drept sau stâng side în contact cu stativ vertical Bucky.
-• se poziționează pacientul’s brațe across upper chest la ensure that they sunt nu projected over orice abdominal contents sau place them behind
-pacientul’s cap.
-• se flectează pacient’s genunchi slightly la relieve strain pe back.
-• Exercise care la ensure that pacientul does nu fall de la cart sau table; if cart este used, lock toate wheels securely în poziție.
+• Când pacientul nu poate sta în picioare sau culcat pe o parte, se așază în decubit dorsal pe căruciorul de transport sau pe un alt
+suport adecvat, cu partea dreaptă sau stângă în contact cu stativul vertical Bucky.
+• Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
+capului pacientului.
+• Se flectează ușor genunchii pacientului pentru a reduce solicitarea spatelui.
+• Se acordă atenție pentru a preveni căderea pacientului de pe cărucior sau de pe masă; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
 

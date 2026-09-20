@@ -2,79 +2,81 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat 35 grade caudal, centrat midway între TMīs, și entering la point
-  approximately 3 inches (7.6 cm) above nazion. Expose one imagine cu mouth closed;
-  when nu contraindicated, expose one imagine cu mouth open. Se centrează receptorul
-  de imagine pe raza centrală.
+centering: Orientată la 35 grade caudal, centrată la jumătatea distanței dintre ATM
+  și intrând la un punct situat la aproximativ 3 inches (7.6 cm) deasupra nazionului.
+  Se efectuează o imagine cu gura închisă; dacă nu există contraindicații, se efectuează
+  o imagine cu gura deschisă. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă-ortostatism cu
-  posterior Craniu în contact cu stativ vertical Bucky.; se ajustează pacient’s cap
-  so that MSP este perpendicular pe plane de receptorul de imagine. se flectează pacient’s
-  neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul
-  de imagine (Figs. 11.149–11.151).
+position: Se așază pacientul în decubit dorsal sau în poziție șezândă-ortostatism,
+  cu partea posterioară a craniului în contact cu stativul vertical Bucky; se ajustează
+  capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de
+  imagine. Se flectează gâtul pacientului astfel încât linia orbitomeatală (LOM) să
+  fie perpendiculară pe planul receptorului de imagine (Fig. 11.149–11.151).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Absența
-  rotației anatomice (simetrie bilaterală perfectă) de cap n Minimal superimposition
-  de petrosa pe condyle în closed-mouth examination'
+- 'Criterii radiologice de calitate a imaginii: n Dovada unei colimări corecte și
+  prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+  n Absența rotației anatomice (simetrie bilaterală perfectă) a capului n Suprapunere
+  minimă a porțiunii pietroase peste condil la examinarea cu gura închisă'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-temporomandibular-articulations-incidenta-ap-axiala-p936-merrill
 source_pages:
 - 936
 - 937
 source_sections:
-  anatomy: condyles de mandible și mandibular fossae de temporal bones (Figs. 11.152
+  anatomy: condilii mandibulei și fosele mandibulare ale oaselor temporale (Fig. 11.152
     și 11.153).
-  collimation: • se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, superiorly la glabelă, și inferiorly la lips. expunere field trebuie să
-    fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate
-    (D/S) în collimated expunere field.
-  cr: '• orientat 35 grade caudal, centrat midway între TMīs, și entering la point
-    approximately 3 inches (7.6 cm) above nazion.
+  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de marginile laterale, superior până la glabelă și inferior până la
+    buze. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24
+    cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• Orientată la 35 grade caudal, centrată la jumătatea distanței dintre ATM
+    și intrând la un punct situat la aproximativ 3 inches (7.6 cm) deasupra nazionului.
 
-    • Expose one imagine cu mouth closed; when nu contraindicated, expose one imagine
-    cu mouth open.
+    • Se efectuează o imagine cu gura închisă; dacă nu există contraindicații, se
+    efectuează o imagine cu gura deschisă.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Dovada unei colimări corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) de cap
+    n Absența rotației anatomice (simetrie bilaterală perfectă) a capului
 
-    n Minimal superimposition de petrosa pe condyle în closed-mouth examination'
-  part_pos: '• se ajustează pacient’s cap so that MSP este perpendicular pe plane
-    de receptorul de imagine.
+    n Suprapunere minimă a porțiunii pietroase peste condil la examinarea cu gura
+    închisă'
+  part_pos: '• Se ajustează capul pacientului astfel încât MSP să fie perpendicular
+    pe planul receptorului de imagine.
 
-    • se flectează pacient’s neck astfel încât linie orbitomeatală (LOM) este perpendicular
-    pe plane de receptorul de imagine (Figs. 11.149–11.151).'
-  patient_pos: • se așază pacientul în decubit dorsal sau așezat pe scaun-ortostatism
-    cu posterior skull în contact cu stativ vertical Bucky.
+    • Se flectează gâtul pacientului astfel încât linia orbitomeatală (LOM) să fie
+    perpendiculară pe planul receptorului de imagine (Fig. 11.149–11.151).'
+  patient_pos: • Se așază pacientul în decubit dorsal sau pe scaun, în ortostatism,
+    cu partea posterioară a craniului în contact cu stativul vertical Bucky.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inch (24 ×
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inch (24
+    ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 936–937
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=936
+- title: Merrill’s Atlas, 11. Cranium, pagini 936–937
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides, superiorly la glabelă, și inferiorly la lips. expunere field trebuie să
-    fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate
-    (D/S) în collimated expunere field.
-title: Rx Temporomandibular Articulations — Incidență AP Axială (Merrill)
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de marginile laterale, superior până la glabelă și inferior până la
+    buze. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24
+    cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Radiografia articulațiilor temporomandibulare — incidență AP axială (Merrill)
 ---
-# Rx Temporomandibular Articulations — Incidență AP Axială (Merrill)
+# Radiografia articulațiilor temporomandibulare — incidență AP axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -107,8 +109,8 @@ title: Rx Temporomandibular Articulations — Incidență AP Axială (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă-ortostatism cu posterior Craniu în contact cu stativ vertical Bucky.; se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine. se flectează pacient’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine (Figs. 11.149–11.151).
-    - **Punct de Centrare Fascicul:** orientat 35 grade caudal, centrat midway între TMīs, și entering la point approximately 3 inches (7.6 cm) above nazion. Expose one imagine cu mouth closed; when nu contraindicated, expose one imagine cu mouth open. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în poziție șezândă-ortostatism, cu partea posterioară a craniului în contact cu stativul vertical Bucky; se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine. Se flectează gâtul pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.149–11.151).
+    - **Punct de Centrare Fascicul:** Orientată la 35 grade caudal, centrată la jumătatea distanței dintre ATM și intrând la un punct situat la aproximativ 3 inches (7.6 cm) deasupra nazionului. Se efectuează o imagine cu gura închisă; dacă nu există contraindicații, se efectuează o imagine cu gura deschisă. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -124,14 +126,14 @@ title: Rx Temporomandibular Articulations — Incidență AP Axială (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, superiorly la glabelă, și inferiorly la lips. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de marginile laterale, superior până la glabelă și inferior până la buze. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Absența rotației anatomice (simetrie bilaterală perfectă) de cap n Minimal superimposition de petrosa pe condyle în closed-mouth examination
+    - Criterii radiologice de calitate a imaginii: n Dovada unei colimări corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Absența rotației anatomice (simetrie bilaterală perfectă) a capului n Suprapunere minimă a porțiunii pietroase peste condil la examinarea cu gura închisă
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,46 +157,46 @@ title: Rx Temporomandibular Articulations — Incidență AP Axială (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 936–937](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=936)
+- [Merrill’s Atlas, 11. Cranium, pagini 936–937](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-condyles de mandible și mandibular fossae de temporal bones (Figs. 11.152 și 11.153).
+condilii mandibulei și fosele mandibulare ale oaselor temporale (Fig. 11.152 și 11.153).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides, superiorly la glabelă, și inferiorly la lips. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de marginile laterale, superior până la glabelă și inferior până la buze. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat 35 grade caudal, centrat midway între TMīs, și entering la point approximately 3 inches (7.6 cm) above nazion.
-• Expose one imagine cu mouth closed; when nu contraindicated, expose one imagine cu mouth open.
+• Orientată la 35 grade caudal, centrată la jumătatea distanței dintre ATM și intrând la un punct situat la aproximativ 3 inches (7.6 cm) deasupra nazionului.
+• Se efectuează o imagine cu gura închisă; dacă nu există contraindicații, se efectuează o imagine cu gura deschisă.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Absența rotației anatomice (simetrie bilaterală perfectă) de cap
-n Minimal superimposition de petrosa pe condyle în closed-mouth examination
+Criterii radiologice de calitate a imaginii:
+n Dovada unei colimări corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n Absența rotației anatomice (simetrie bilaterală perfectă) a capului
+n Suprapunere minimă a porțiunii pietroase peste condil la examinarea cu gura închisă
 
 ### part_pos
 
-• se ajustează pacient’s cap so that MSP este perpendicular pe plane de receptorul de imagine.
-• se flectează pacient’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine (Figs. 11.149–11.151).
+• Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
+• Se flectează gâtul pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.149–11.151).
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal sau așezat pe scaun-ortostatism cu posterior skull în contact cu stativ vertical Bucky.
+• Se așază pacientul în decubit dorsal sau pe scaun, în ortostatism, cu partea posterioară a craniului în contact cu stativul vertical Bucky.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inch (24 ×
-30 cm) longitudinal.
+Poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inch (24 ×
+30 cm), longitudinal.
 

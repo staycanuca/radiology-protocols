@@ -3,20 +3,21 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: abdomen
-centering: '• raza centrală verticală centrală este orientat la centre de caseta și
-  expunere made pe arrested expiration.
+centering: '• Raza centrală verticală este orientată spre centrul casetei, iar expunerea
+  se efectuează în apnee după expir.
 
-  346 stâng rinichi Psoas major drept rinichi 12th rib Stomach 2nd–3rd lumbar disc
-  Direction de X-ray fascicul Pancreas Gallbladder ficat Shadow de gallbladder Shadow
-  de Aparat Renal (Rinichi) și coloană vertebrală casetă Profil (lateral) radiografie
-  de Abdomen'
+  346 Rinichiul stâng Mușchiul psoas mare Rinichiul drept Coasta a 12-a Stomac Discul
+  intervertebral lombar 2–3 Direcția fasciculului de raze X Pancreas Vezică biliară
+  Ficat Umbra vezicii biliare Umbra rinichilor și a coloanei vertebrale Casetă Radiografie
+  de profil a abdomenului'
 clinical_indications:
-- Profil (lateral) incidență poate fie necessary la confirm sau otherwise presence
-  de opacities anterior la renal tract, which will fie seen superimposed pe Antero-posterior
-  (AP) incidență. drept Oblică Posterioară
+- Incidența de profil poate fi necesară pentru a confirma sau infirma prezența opacităților
+  situate anterior de tractul urinar, care se văd suprapuse în incidența antero-posterioară
+  (AP). Oblică posterioară dreaptă
 images:
-- caption: Profil (lateral) radiografie de Abdomen
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie de profil a abdomenului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -28,19 +29,19 @@ images:
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Excessive rotație de pacientul will show drept rinichi projected over coloană
-  vertebrală.
+notes: 'Rotirea excesivă a pacientului va determina proiectarea rinichiului drept
+  peste coloana vertebrală.
 
   Profil (lateral)'
-position: '• pacientul este întors pe la side under examination, cu mâinile resting
-  near capul. șoldurile și genunchi sunt flectat la aid stability.
+position: '• Pacientul este întors pe partea examinată, cu mâinile sprijinite lângă
+  cap. Șoldurile și genunchii sunt flectați pentru a asigura stabilitatea.
 
-  • cu planul mediosagital paralel cu table, Coloană Vertebrală (about 8 cm anterior
-  la posterior skin surface) este poziționat over linia mediană mesei și imobilizare
-  band applied.
+  • Cu planul mediosagital paralel cu masa, coloana vertebrală (la aproximativ 8 cm
+  anterior de suprafața cutanată posterioară) este poziționată deasupra liniei mediane
+  a mesei și se aplică o bandă de imobilizare.
 
-  • caseta este plasat în tray și, pentru rinichi area, este centred la LV1/2, about
-  5 cm superior la lower costal margin.'
+  • Caseta se așază în tăviță și, pentru regiunea renală, se centrează la LV1/2, la
+  aproximativ 5 cm superior de marginea costală inferioară.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -49,7 +50,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Tract Urinar (Aparatul Renal)).
+- Vizualizarea clară a întregii arii anatomice (Tract Urinar (Aparatul Renal)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -57,18 +58,18 @@ sid_dff: 100 cm
 slug: rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 361
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=361
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
+  mas: Conform AEC / grosimii anatomice
+title: Rx Tract Urinar (Aparatul Renal) Oblică Posterioară Dreaptă
 ---
-# Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
+# Rx Tract Urinar (Aparatul Renal) Oblică Posterioară Dreaptă
 
 
 <div class="rx-meta-bar">
@@ -87,7 +88,7 @@ title: Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
 
     === "Indicații Clinice"
 
-        - Profil (lateral) incidență poate fie necessary la confirm sau otherwise presence de opacities anterior la renal tract, which will fie seen superimposed pe Antero-posterior (AP) incidență. drept Oblică Posterioară
+        - Incidența de profil poate fi necesară pentru a confirma sau infirma prezența opacităților situate anterior de tractul urinar, care se văd suprapuse în incidența antero-posterioară (AP). Oblică posterioară dreaptă
 
     === "Ghid Național IRIS"
 
@@ -101,11 +102,11 @@ title: Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
 
     ---
 
-    - **Poziție Pacient:** • pacientul este întors pe la side under examination, cu mâinile resting near capul. șoldurile și genunchi sunt flectat la aid stability.
-• cu planul mediosagital paralel cu table, Coloană Vertebrală (about 8 cm anterior la posterior skin surface) este poziționat over linia mediană mesei și imobilizare band applied.
-• caseta este plasat în tray și, pentru rinichi area, este centred la LV1/2, about 5 cm superior la lower costal margin.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat la centre de caseta și expunere made pe arrested expiration.
-346 stâng rinichi Psoas major drept rinichi 12th rib Stomach 2nd–3rd lumbar disc Direction de X-ray fascicul Pancreas Gallbladder ficat Shadow de gallbladder Shadow de Aparat Renal (Rinichi) și coloană vertebrală casetă Profil (lateral) radiografie de Abdomen
+    - **Poziție Pacient:** • Pacientul este întors pe partea examinată, cu mâinile sprijinite lângă cap. Șoldurile și genunchii sunt flectați pentru a asigura stabilitatea.
+• Cu planul mediosagital paralel cu masa, coloana vertebrală (la aproximativ 8 cm anterior de suprafața cutanată posterioară) este poziționată deasupra liniei mediane a mesei și se aplică o bandă de imobilizare.
+• Caseta se așază în tăviță și, pentru regiunea renală, se centrează la LV1/2, la aproximativ 5 cm superior de marginea costală inferioară.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei, iar expunerea se efectuează în apnee după expir.
+346 Rinichiul stâng Mușchiul psoas mare Rinichiul drept Coasta a 12-a Stomac Discul intervertebral lombar 2–3 Direcția fasciculului de raze X Pancreas Vezică biliară Ficat Umbra vezicii biliare Umbra rinichilor și a coloanei vertebrale Casetă Radiografie de profil a abdomenului
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -116,19 +117,19 @@ title: Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Tract Urinar (Aparatul Renal)).
+    - Vizualizarea clară a întregii arii anatomice (Tract Urinar (Aparatul Renal)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -143,7 +144,7 @@ title: Rx Tract Urinar (Aparatul Renal) Right Oblică Posterioară
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Excessive rotație de pacientul will show drept rinichi projected over coloană vertebrală.
+    Rotirea excesivă a pacientului va determina proiectarea rinichiului drept peste coloana vertebrală.
 Profil (lateral)
 
 
@@ -153,9 +154,9 @@ Profil (lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Abdomen](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark/fig_1.jpeg)
+![Radiografie de profil a abdomenului](../../assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Abdomen</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil a abdomenului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -188,4 +189,4 @@ Profil (lateral)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 361](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=361)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 361](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

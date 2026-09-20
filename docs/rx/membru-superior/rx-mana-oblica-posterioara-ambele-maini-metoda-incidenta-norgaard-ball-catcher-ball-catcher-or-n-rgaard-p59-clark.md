@@ -97,7 +97,7 @@ sid_dff: 100 cm
 slug: rx-mana-oblica-posterioara-ambele-maini-metoda-incidenta-norgaard-ball-catcher-ball-catcher-or-n-rgaard-p59-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 59
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=59
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -258,4 +258,4 @@ title: Rx Mână Oblică Posterioară - Ambele Mâini (Metoda Incidența Norgaar
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 59](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=59)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 59](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

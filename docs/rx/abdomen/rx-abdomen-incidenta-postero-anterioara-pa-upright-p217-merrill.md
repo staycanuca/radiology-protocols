@@ -8,16 +8,18 @@ clinical_indications:
 images: []
 last_updated: '2026-09-16'
 modality: rx
-notes: When rinichi sunt nu de primary interest, în ortostatism Incidență Postero-Anterioară
-  (PA) trebuie să fie considered. Compared cu Incidență Antero-Posterioară (AP), Incidență
-  Postero-Anterioară (PA) de abdomenul greatly reduces pacient gonadal dose.
-position: cu pacientul în ortostatism, place anterior abdominal surface în contact
-  cu stativ vertical Bucky. se centrează abdominal midline la linia mediană receptorul
-  de imagine. se centrează receptorul de imagine/câmp colimat 2 inches (5 cm) deasupra
-  nivelului crestele iliace (Fig. 4.14), ca previously described pentru în ortostatism
-  Incidență Antero-Posterioară (AP). raza centrală, structures vizualizat, și evaluation
-  criteria sunt same ca pentru în ortostatism Incidență Antero-Posterioară (AP).;
-  Conform reperelor anatomice standard din tratat
+notes: Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența
+  posteroanterioară (PA) în ortostatism. Comparativ cu incidența anteroposterioară
+  (AP), incidența posteroanterioară (PA) a abdomenului reduce considerabil doza la
+  nivelul gonadelor pacientului.
+position: Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului
+  în contact cu stativul vertical Bucky. Se centrează linia mediană a abdomenului
+  pe linia mediană a receptorului de imagine. Se centrează receptorul de imagine/câmpul
+  colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform
+  descrierii anterioare pentru incidența anteroposterioară (AP) în ortostatism. Raza
+  centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru
+  incidența anteroposterioară (AP) în ortostatism.; Conform reperelor anatomice standard
+  din tratat
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -27,25 +29,28 @@ slug: rx-abdomen-incidenta-postero-anterioara-pa-upright-p217-merrill
 source_pages:
 - 217
 source_sections:
-  notes: 'When rinichi sunt nu de primary interest, în ortostatism PA incidență trebuie
-    să fie considered. Compared cu AP incidență, PA
+  notes: 'Când rinichii nu prezintă interes principal, trebuie luată în considerare
+    incidența PA în ortostatism. Comparativ cu incidența AP, incidența PA
 
-    incidență de abdomenul greatly reduces pacient gonadal dose.'
-  patient_pos: '• cu pacientul în ortostatism, place anterior abdominal surface în
-    contact cu stativ vertical Bucky.
+    a abdomenului reduce considerabil doza la nivelul gonadelor pacientului.'
+  patient_pos: '• Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului
+    în contact cu stativul vertical Bucky.
 
-    • se centrează abdominal midline la linia mediană receptorul de imagine.
+    • Se centrează linia mediană a abdomenului pe linia mediană a receptorului de
+    imagine.
 
-    • se centrează receptorul de imagine/câmp colimat 2 inches (5 cm) deasupra nivelului
-    crestele iliace (Fig. 4.14), ca previously described pentru în ortostatism AP
+    • Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra
+    nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența
+    AP
 
-    incidență. raza centrală, structures vizualizat, și evaluation criteria sunt same
-    ca pentru în ortostatism AP incidență.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+    în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare
+    sunt aceleași ca pentru incidența AP în ortostatism.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 4. Abdomen, pagini PDF 217–217
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=217
+- title: Merrill’s Atlas, 4. Abdomen, pagini 217–217
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
@@ -84,7 +89,7 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
 
     ---
 
-    - **Poziție Pacient:** cu pacientul în ortostatism, place anterior abdominal surface în contact cu stativ vertical Bucky. se centrează abdominal midline la linia mediană receptorul de imagine. se centrează receptorul de imagine/câmp colimat 2 inches (5 cm) deasupra nivelului crestele iliace (Fig. 4.14), ca previously described pentru în ortostatism Incidență Antero-Posterioară (AP). raza centrală, structures vizualizat, și evaluation criteria sunt same ca pentru în ortostatism Incidență Antero-Posterioară (AP).; Conform reperelor anatomice standard din tratat
+    - **Poziție Pacient:** Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului în contact cu stativul vertical Bucky. Se centrează linia mediană a abdomenului pe linia mediană a receptorului de imagine. Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența anteroposterioară (AP) în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru incidența anteroposterioară (AP) în ortostatism.; Conform reperelor anatomice standard din tratat
     - **Punct de Centrare Fascicul:** Conform reperelor anatomice standard din tratat
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
@@ -119,7 +124,7 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    When rinichi sunt nu de primary interest, în ortostatism Incidență Postero-Anterioară (PA) trebuie să fie considered. Compared cu Incidență Antero-Posterioară (AP), Incidență Postero-Anterioară (PA) de abdomenul greatly reduces pacient gonadal dose.
+    Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența posteroanterioară (PA) în ortostatism. Comparativ cu incidența anteroposterioară (AP), incidența posteroanterioară (PA) a abdomenului reduce considerabil doza la nivelul gonadelor pacientului.
 
 === "Ghid Rapid de Execuție"
 
@@ -132,23 +137,23 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 4. Abdomen, pagini PDF 217–217](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=217)
+- [Merrill’s Atlas, 4. Abdomen, pagini 217–217](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### notes
+### note
 
-When rinichi sunt nu de primary interest, în ortostatism PA incidență trebuie să fie considered. Compared cu AP incidență, PA
-incidență de abdomenul greatly reduces pacient gonadal dose.
+Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența PA în ortostatism. Comparativ cu incidența AP, incidența PA
+a abdomenului reduce considerabil doza la nivelul gonadelor pacientului.
 
 ### patient_pos
 
-• cu pacientul în ortostatism, place anterior abdominal surface în contact cu stativ vertical Bucky.
-• se centrează abdominal midline la linia mediană receptorul de imagine.
-• se centrează receptorul de imagine/câmp colimat 2 inches (5 cm) deasupra nivelului crestele iliace (Fig. 4.14), ca previously described pentru în ortostatism AP
-incidență. raza centrală, structures vizualizat, și evaluation criteria sunt same ca pentru în ortostatism AP incidență.
+• Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului în contact cu stativul vertical Bucky.
+• Se centrează linia mediană a abdomenului pe linia mediană a receptorului de imagine.
+• Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența AP
+în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru incidența AP în ortostatism.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
 

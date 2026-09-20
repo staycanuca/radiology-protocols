@@ -65,7 +65,7 @@ sid_dff: 100 cm
 slug: rx-bazin-pelvis-profil-lateral-p172-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 172
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=172
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -191,4 +191,4 @@ Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term 
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 172](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=172)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 172](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

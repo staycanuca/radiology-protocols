@@ -1,24 +1,24 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Make expunere during slow, deep inspiration la ensure filling de trachea
-  și Căi Aeriene Superioare cu air.
+breathing: Efectuați expunerea în timpul unui inspir lent și profund, pentru a asigura
+  umplerea cu aer a traheei și a căilor aeriene superioare.
 category: torace
-centering: perpendicular la center de receptorul de imagine la level de T1–T2, about
-  1 inch (2.5 cm) above incizura jugulară (manubriul sternal)
+centering: Perpendicular pe centrul receptorului de imagine, la nivelul T1–T2, la
+  aproximativ 1 inch (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
 clinical_indications:
-- Investigate pathology de airfilled laringe și trachea, including region de thyroid
-  și thymus glands și upper esophagus pentru opaque foreign object sau if contrast
-  medium este present
+- Investigarea patologiei laringelui și traheei umplute cu aer, inclusiv regiunea
+  glandelor tiroidă și timus și porțiunea superioară a esofagului, pentru identificarea
+  unui corp străin radiopac sau dacă este prezentă substanță de contrast.
 images:
-- caption: Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic
-    portion de trachea (Gothic arch sign). (B) Normal trachea cu broad
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.90 Croup. (A)
-    Arrow indicates smooth, tapered narrowing de subglottic portion de trachea (Gothic
-    arch sign). (B) Normal trachea cu broad)
+- caption: Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii
+    subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu porțiune largă
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.90 Crup.
+    (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei
+    (semnul arcului gotic). (B) Trahee normală cu porțiune largă)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 2.89 AP—Căi Aeriene Superioare.
+- caption: Fig. 2.89 AP—căi aeriene superioare.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.89
-    AP—upper airway.)
+    AP—căi aeriene superioare.)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -26,24 +26,26 @@ images:
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: '(centering pentru Căi Aeriene Superioare și trachea): Centering pentru this
-  Incidență Antero-Posterioară (AP) este similar la that de lateral distal laringe
-  și upper trachea poziție described pe previous page because most proximal area de
-  laringe este nu visualized pe AP ca result de superimposed base de Craniu și Mandibulă.
-  Therefore, more de trachea poate fie visualized. Căi Aeriene Superioare ROUTINE
-  lateral AP B Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic
-  portion de trachea (Gothic arch sign). (B) Normal trachea cu broad shouldering în
-  subglottic region. (de la Eisenberg R, Johnson N: Comprehensive radiographic pathology,
-  ed 7, St Louis, 2021, Elsevier.) Fig. 2.89 AP—Căi Aeriene Superioare.'
-position: 'Pacient: pacient trebuie să fie în ortostatism if possible, Poziție Șezândă
-  sau în ortostatism cu back de cap și umeri against receptorul de imagine (poate
-  fie taken Decubit tabletop if necessary).; Regiune anatomică: Alinierea planului
-  medio-sagital cu raza centrală și cu midline de grilă sau table. Raise chin so that
-  linie acantiomeatală (LAM) este perpendicular pe receptorul de imagine (RI) (line
-  de la acantion sau area directly under nasul și meatus sau conduct auditiv extern
-  (CAE)); have pacient look directly ahead (Fig. 2.89). se ajustează receptorul de
-  imagine height la place top de receptorul de imagine about 1 sau 1½ inches (3 la
-  4 cm) below conduct auditiv extern (CAE) (see NOTE pentru explanation de centering).'
+notes: '(Centrarea pentru căile aeriene superioare și trahee): Centrarea pentru această
+  incidență antero-posterioară (AP) este similară celei pentru poziția de profil a
+  laringelui distal și a traheei superioare descrise pe pagina anterioară, deoarece
+  porțiunea cea mai proximală a laringelui nu se vizualizează în AP din cauza suprapunerii
+  bazei craniului și mandibulei. Prin urmare, poate fi vizualizată o porțiune mai
+  mare a traheei. CĂI AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. B Fig.
+  2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a
+  traheei (semnul arcului gotic). (B) Trahee normală cu umeri largi în regiunea subglotică.
+  (Din Eisenberg R, Johnson N: Patologie radiografică cuprinzătoare, ediția 7, St
+  Louis, 2021, Elsevier.) Fig. 2.89 AP—căi aeriene superioare.'
+position: 'Pacient: Dacă este posibil, pacientul trebuie să fie în poziție verticală,
+  șezând sau în ortostatism, cu partea posterioară a capului și umerii sprijiniți
+  de receptorul de imagine (dacă este necesar, examinarea se poate efectua în decubit
+  pe masa de examinare).; Regiune anatomică: Aliniați planul medio-sagital cu raza
+  centrală și cu linia mediană a grilei sau a mesei. Ridicați bărbia astfel încât
+  linia acantiomeatală (LAM) să fie perpendiculară pe receptorul de imagine (RI) (linia
+  dintre acantion, adică zona imediat sub nas, și meat sau conductul auditiv extern
+  (CAE)); pacientul privește drept înainte (Fig. 2.89). Ajustați înălțimea receptorului
+  de imagine pentru a-i plasa marginea superioară la aproximativ 1 sau 1½ inci (3
+  la 4 cm) sub conductul auditiv extern (CAE) (consultați NOTA pentru explicația centrării).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,36 +53,36 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- laringe și trachea de la C3 la T4 trebuie să fie filled cu air și visualized through
-  coloană vertebrală.
-- area de proximal coloană cervicală (lower margin de shadow de superimposed Mandibulă
-  și base de Craniu) la midthoracic region trebuie să fie included (Fig. 2.90). poziție
-  (see previous notes)
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  trebuie să occur, ca evidenced prin simetric appearance de articulații sternoclaviculare.'
-- Mandibulă trebuie să superimpose base de Craniu cu coloană vertebrală aliniat cu
-  center de film radiologic.
-- Collimation margini trebuie să appear pe ambele părți (bilateral) cu ideally only
-  minimal (≤¼ inch) margini pe top și bottom.
-- collimation field (raza centrală) trebuie să fie centrat pe area de T1–T2. expunere
-- optim expunere și processing algorithm trebuie să allow visualization de airfilled
-  trachea through cervical și coloană toracală.
+- Laringele și traheea, de la C3 la T4, trebuie să fie umplute cu aer și vizualizate
+  prin suprapunerea coloanei vertebrale.
+- Trebuie inclusă zona de la porțiunea proximală a coloanei cervicale (marginea inferioară
+  a umbrei mandibulei și bazei craniului suprapuse) până la regiunea toracică mijlocie
+  (Fig. 2.90). Poziție (consultați notele anterioare).
+- 'Absența rotației anatomice: claviculele trebuie să fie echidistante față de linia
+  apofizelor spinoase, evidențiată prin aspectul simetric al articulațiilor sternoclaviculare.'
+- Mandibula trebuie să se suprapună peste baza craniului, cu coloana vertebrală aliniată
+  cu centrul filmului radiologic.
+- Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼
+  inch) la partea superioară și inferioară.
+- Câmpul de colimare (raza centrală) trebuie să fie centrat pe regiunea T1–T2. Expunere.
+- Expunerea și algoritmul de procesare optime trebuie să permită vizualizarea traheei
+  umplute cu aer prin suprapunerea coloanei cervicale și toracale.
 sid_dff: 100 cm
 slug: rx-cai-aeriene-superioare-ap-antero-posterior-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 113
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate la region de părți moi de gâtul.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați la regiunea părților moi ale gâtului.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
+title: Rx căi aeriene superioare AP (antero-posterior)
 ---
-# Rx Căi Aeriene Superioare AP (Antero-Posterior)
+# Rx căi aeriene superioare AP (antero-posterior)
 
 
 <div class="rx-meta-bar">
@@ -99,7 +101,7 @@ title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Investigate pathology de airfilled laringe și trachea, including region de thyroid și thymus glands și upper esophagus pentru opaque foreign object sau if contrast medium este present
+        - Investigarea patologiei laringelui și traheei umplute cu aer, inclusiv regiunea glandelor tiroidă și timus și porțiunea superioară a esofagului, pentru identificarea unui corp străin radiopac sau dacă este prezentă substanță de contrast.
 
     === "Ghid Național IRIS"
 
@@ -113,10 +115,10 @@ title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient trebuie să fie în ortostatism if possible, Poziție Șezândă sau în ortostatism cu back de cap și umeri against receptorul de imagine (poate fie taken Decubit tabletop if necessary).; Regiune anatomică: Alinierea planului medio-sagital cu raza centrală și cu midline de grilă sau table. Raise chin so that linie acantiomeatală (LAM) este perpendicular pe receptorul de imagine (RI) (line de la acantion sau area directly under nasul și meatus sau conduct auditiv extern (CAE)); have pacient look directly ahead (Fig. 2.89). se ajustează receptorul de imagine height la place top de receptorul de imagine about 1 sau 1½ inches (3 la 4 cm) below conduct auditiv extern (CAE) (see NOTE pentru explanation de centering).
-    - **Punct de Centrare Fascicul:** perpendicular la center de receptorul de imagine la level de T1–T2, about 1 inch (2.5 cm) above incizura jugulară (manubriul sternal)
+    - **Poziție Pacient:** Pacient: Dacă este posibil, pacientul trebuie să fie în poziție verticală, șezând sau în ortostatism, cu partea posterioară a capului și umerii sprijiniți de receptorul de imagine (dacă este necesar, examinarea se poate efectua în decubit pe masa de examinare).; Regiune anatomică: Aliniați planul medio-sagital cu raza centrală și cu linia mediană a grilei sau a mesei. Ridicați bărbia astfel încât linia acantiomeatală (LAM) să fie perpendiculară pe receptorul de imagine (RI) (linia dintre acantion, adică zona imediat sub nas, și meat sau conductul auditiv extern (CAE)); pacientul privește drept înainte (Fig. 2.89). Ajustați înălțimea receptorului de imagine pentru a-i plasa marginea superioară la aproximativ 1 sau 1½ inci (3 la 4 cm) sub conductul auditiv extern (CAE) (consultați NOTA pentru explicația centrării).
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, la nivelul T1–T2, la aproximativ 1 inch (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Make expunere during slow, deep inspiration la ensure filling de trachea și Căi Aeriene Superioare cu air.
+    - **Comandă Respiratorie:** Efectuați expunerea în timpul unui inspir lent și profund, pentru a asigura umplerea cu aer a traheei și a căilor aeriene superioare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,21 +131,21 @@ title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate la region de părți moi de gâtul. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați la regiunea părților moi ale gâtului. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - laringe și trachea de la C3 la T4 trebuie să fie filled cu air și visualized through coloană vertebrală.
-    - area de proximal coloană cervicală (lower margin de shadow de superimposed Mandibulă și base de Craniu) la midthoracic region trebuie să fie included (Fig. 2.90). poziție (see previous notes)
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase trebuie să occur, ca evidenced prin simetric appearance de articulații sternoclaviculare.
-    - Mandibulă trebuie să superimpose base de Craniu cu coloană vertebrală aliniat cu center de film radiologic.
-    - Collimation margini trebuie să appear pe ambele părți (bilateral) cu ideally only minimal (≤¼ inch) margini pe top și bottom.
-    - collimation field (raza centrală) trebuie să fie centrat pe area de T1–T2. expunere
-    - optim expunere și processing algorithm trebuie să allow visualization de airfilled trachea through cervical și coloană toracală.
+    - Laringele și traheea, de la C3 la T4, trebuie să fie umplute cu aer și vizualizate prin suprapunerea coloanei vertebrale.
+    - Trebuie inclusă zona de la porțiunea proximală a coloanei cervicale (marginea inferioară a umbrei mandibulei și bazei craniului suprapuse) până la regiunea toracică mijlocie (Fig. 2.90). Poziție (consultați notele anterioare).
+    - Absența rotației anatomice: claviculele trebuie să fie echidistante față de linia apofizelor spinoase, evidențiată prin aspectul simetric al articulațiilor sternoclaviculare.
+    - Mandibula trebuie să se suprapună peste baza craniului, cu coloana vertebrală aliniată cu centrul filmului radiologic.
+    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ inch) la partea superioară și inferioară.
+    - Câmpul de colimare (raza centrală) trebuie să fie centrat pe regiunea T1–T2. Expunere.
+    - Expunerea și algoritmul de procesare optime trebuie să permită vizualizarea traheei umplute cu aer prin suprapunerea coloanei cervicale și toracale.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,7 +158,7 @@ title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    (centering pentru Căi Aeriene Superioare și trachea): Centering pentru this Incidență Antero-Posterioară (AP) este similar la that de lateral distal laringe și upper trachea poziție described pe previous page because most proximal area de laringe este nu visualized pe AP ca result de superimposed base de Craniu și Mandibulă. Therefore, more de trachea poate fie visualized. Căi Aeriene Superioare ROUTINE lateral AP B Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic portion de trachea (Gothic arch sign). (B) Normal trachea cu broad shouldering în subglottic region. (de la Eisenberg R, Johnson N: Comprehensive radiographic pathology, ed 7, St Louis, 2021, Elsevier.) Fig. 2.89 AP—Căi Aeriene Superioare.
+    (Centrarea pentru căile aeriene superioare și trahee): Centrarea pentru această incidență antero-posterioară (AP) este similară celei pentru poziția de profil a laringelui distal și a traheei superioare descrise pe pagina anterioară, deoarece porțiunea cea mai proximală a laringelui nu se vizualizează în AP din cauza suprapunerii bazei craniului și mandibulei. Prin urmare, poate fi vizualizată o porțiune mai mare a traheei. CĂI AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. B Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu umeri largi în regiunea subglotică. (Din Eisenberg R, Johnson N: Patologie radiografică cuprinzătoare, ediția 7, St Louis, 2021, Elsevier.) Fig. 2.89 AP—căi aeriene superioare.
 
 
 ### 🖼️ Imagini
@@ -165,17 +167,17 @@ title: Rx Căi Aeriene Superioare AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic portion de trachea (Gothic arch sign). (B) Normal trachea cu broad](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu porțiune largă](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic portion de trachea (Gothic arch sign). (B) Normal trachea cu broad</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.90 Croup. (A) Arrow indicates smooth, tapered narrowing de subglottic portion de trachea (Gothic arch sign). (B) Normal trachea cu broad)</span></figcaption>
+<figcaption><strong>Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu porțiune largă</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu porțiune largă)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.89 AP—Căi Aeriene Superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_2.jpeg)
+![Fig. 2.89 AP—căi aeriene superioare.](../../assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.89 AP—Căi Aeriene Superioare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.89 AP—upper airway.)</span></figcaption>
+<figcaption><strong>Fig. 2.89 AP—căi aeriene superioare.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.89 AP—căi aeriene superioare.)</span></figcaption>
 
 </figure>
 

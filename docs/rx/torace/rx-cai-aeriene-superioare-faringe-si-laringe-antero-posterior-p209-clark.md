@@ -1,46 +1,48 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe forced expiration
+breathing: Expunerea se efectuează în expir forțat.
 category: torace
-centering: '• se orientează raza centrală centrală 10 grade cranial și în linia mediană
-  la nivelul fourth cervical vertebra.
+centering: '• Orientați raza centrală cu 10 grade cranial, pe linia mediană, la nivelul
+  celei de-a patra vertebre cervicale.
 
-  • expunere este made pe forced expiration.
+  • Expunerea se efectuează în expir forțat.
 
 
-  • raza centrală orizontală centrală este orientat la point vertically below proces
-  mastoidian la nivelul prominence de cartilaj tiroid (mărul lui Adam) through fourth
-  cervical vertebra.'
+  • Raza centrală orizontală este orientată spre punctul situat vertical sub apofiza
+  mastoidă, la nivelul proeminenței cartilajului tiroid (mărul lui Adam), prin cea
+  de-a patra vertebră cervicală.'
 clinical_indications:
-- If prevertebral soft tissues la nivelul C4–C6 sunt wider than corresponding vertebral
-  corp, then edem / tumefiere de părți moi poate fie diagnosed (this poate fie only
-  sign de lucent corp străin radiopac). This sign poate fie mimicked if gâtul este
-  flectat sau poate fie masked if incidență este Oblică. true Profil (lateral) este
-  therefore essential.
-- cartilages de Laringe typically calcify în patchy fashion și poate mimic corp străin
-  radiopac. Profil (lateral) radiografie evidențiind normal air-filled Laringe Mandibulă
-  Oropharynx Laryngopharynx Arytenoid cartilage 7th cervical vertebra anterior margine
-  de neck de first rib Tip de epiglottis os hioid anterior margine de cartilaj tiroid
-  (mărul lui Adam) Laryngeal ventricle cartilaj cricoid Benign thyroid calcificări
-  patologice Tracheal air shadow Clavicles Profil (lateral) radiografie evidențiind
-  suspiciune de fractură de os hioid
+- Dacă țesuturile moi prevertebrale de la nivelul C4–C6 sunt mai late decât corpul
+  vertebral corespunzător, se poate diagnostica edem / tumefiere a părților moi (acesta
+  poate fi singurul semn al unui corp străin descris drept radiotransparent și radiopac).
+  Acest semn poate fi mimat dacă gâtul este flectat sau poate fi mascat dacă incidența
+  este oblică. Prin urmare, profilul strict este esențial.
+- Cartilajele laringelui se calcifică de obicei neuniform și pot mima un corp străin
+  radiopac. Radiografie de profil care evidențiază laringele normal, umplut cu aer.
+  Mandibulă. Orofaringe. Laringofaringe. Cartilaj aritenoid. A 7-a vertebră cervicală.
+  Marginea anterioară a colului primei coaste. Vârful epiglotei. Os hioid. Marginea
+  anterioară a cartilajului tiroid (mărul lui Adam). Ventricul laringian. Cartilaj
+  cricoid. Calcificări patologice benigne tiroidiene. Umbra aerică traheală. Clavicule.
+  Radiografie de profil care evidențiază suspiciune de fractură a osului hioid.
 images:
-- caption: Plain radiografie este requested la investigate presence de
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografia simplă este solicitată pentru investigarea prezenței
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_1.jpeg
-- caption: și la bring radiographic baseline la angle de 20
+- caption: și pentru a aduce linia de bază radiografică la un unghi de 20
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) radiografie evidențiind normal Laringe
+- caption: Radiografie antero-posterioară (AP) care evidențiază laringele normal.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_3.jpeg
-- caption: Profil (lateral) radiografie evidențiind normal air-filled Laringe
+- caption: Radiografie de profil care evidențiază laringele normal, umplut cu aer.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_4.jpeg
-- caption: Profil (lateral) radiografie evidențiind suspiciune de fractură de os hioid
+- caption: Radiografie de profil care evidențiază suspiciune de fractură a osului
+    hioid.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_5.jpeg
@@ -54,47 +56,48 @@ images:
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_7.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• imagine acquisition poate fie made either cu sau fără Bucky grilă.
+notes: '• Achiziția imaginii se poate efectua cu sau fără grila Bucky.
 
-  • Assessment de possible small corp străin radiopac poate nu require Antero-posterior
-  (AP) incidență, ca such corp străin radiopac sunt likely la fie obscured prin virtue
-  de overlying cervical coloană vertebrală.
+  • Evaluarea unui posibil corp străin radiopac mic poate să nu necesite o incidență
+  antero-posterioară (AP), deoarece asemenea corpi străini radiopaci sunt probabil
+  mascați de suprapunerea coloanei cervicale.
 
-  • Air în faringe și Laringe will result în increase în subject contrast în gâtul
-  region. This poate fie reduced using high-kilovoltage technique.
+  • Aerul din faringe și laringe produce o creștere a contrastului subiectului în
+  regiunea gâtului. Acesta poate fi redus folosind o tehnică cu kilovoltaj ridicat.
 
-  194 Antero-posterior (AP) radiografie evidențiind normal Laringe Antero-posterior
-  (AP) radiografie de Laringe evidențiind laryngocoele'
-position: '• pacientul este culcat Decubit dorsal, cu planul mediosagital ajustat
-  la coincide cu central axa longitudinală de couch.
+  194 Radiografie antero-posterioară (AP) care evidențiază laringele normal. Radiografie
+  antero-posterioară (AP) a laringelui care evidențiază un laringocel.'
+position: '• Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat
+  astfel încât să coincidă cu axa longitudinală centrală a mesei.
 
-  • bărbia este raised la show soft tissues below Mandibulă și la bring radiographic
-  baseline la angle de 20 grade de la vertical.
+  • Bărbia este ridicată pentru a evidenția părțile moi de sub mandibulă și a aduce
+  linia de bază radiografică la un unghi de 20 grade față de verticală.
 
-  • caseta este centred la nivelul fourth cervical vertebra.
+  • Caseta este centrată la nivelul celei de-a patra vertebre cervicale.
 
 
-  • pacientul stă în ortostatism sau sits cu either Umăr against vertical casetă.
-  Two 45-grade pads poate fie plasat între pacient’s cap și caseta la aid imobilizare.
+  • Pacientul stă în ortostatism sau șezând, cu unul dintre umeri sprijinit de caseta
+  verticală. Două suporturi de 45 grade pot fi plasate între capul pacientului și
+  casetă pentru a ajuta la imobilizare.
 
-  • planul mediosagital de trunk și cap sunt paralel cu casetă.
+  • Planurile mediosagitale ale trunchiului și capului sunt paralele cu caseta.
 
-  • jaw este raised slightly astfel încât angles de Mandibulă sunt separated de la
-  corpuri de upper Coloană Cervicală.
+  • Mandibula este ridicată ușor, astfel încât unghiurile sale să fie separate de
+  corpurile vertebrelor cervicale superioare.
 
-  • point 2.5 cm posterior la angle de Mandibulă trebuie să fie coincident cu vertical
-  central line de caseta.
+  • Punctul situat la 2.5 cm posterior de unghiul mandibulei trebuie să coincidă cu
+  linia centrală verticală a casetei.
 
-  • caseta este centred la nivelul prominence de cartilaj tiroid (mărul lui Adam)
-  opposite fourth cervical vertebra.
+  • Caseta este centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam),
+  în dreptul celei de-a patra vertebre cervicale.
 
-  • Immediately before expunere, pacientul este asked la depress umerii forcibly so
-  that their structures sunt projected sub nivelul seventh cervical vertebra.
+  • Imediat înaintea expunerii, pacientului i se cere să coboare forțat umerii, astfel
+  încât structurile acestora să se proiecteze sub nivelul celei de-a șaptea vertebre
+  cervicale.
 
-  • When carrying out this manoeuvre, capul și trunk trebuie să fie maintained în
-  poziție.
+  • În timpul acestei manevre, capul și trunchiul trebuie menținute în poziție.
 
-  • expunere este made pe forced expiration.'
+  • Expunerea se efectuează în expir forțat.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -103,27 +106,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- fascicul trebuie să fie collimated la include area de la occipital bone la seventh
-  cervical vertebra.
-- soft tissues trebuie să fie evidențiat de la Craniu base la root de gâtul (C7).
-- expunere trebuie să allow clear visualization de laryngeal cartilages și orice possible
-  corp străin radiopac.
+- Fasciculul trebuie colimat pentru a include zona de la osul occipital până la cea
+  de-a șaptea vertebră cervicală.
+- Părțile moi trebuie evidențiate de la baza craniului până la rădăcina gâtului (C7).
+- Expunerea trebuie să permită vizualizarea clară a cartilajelor laringiene și a oricărui
+  posibil corp străin radiopac.
 sid_dff: 100 cm
 slug: rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 209
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=209
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx căi aeriene superioare (faringe și laringe) antero-posterior (AP)
 ---
-# Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
+# Rx căi aeriene superioare (faringe și laringe) antero-posterior (AP)
 
 
 <div class="rx-meta-bar">
@@ -142,8 +145,8 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - If prevertebral soft tissues la nivelul C4–C6 sunt wider than corresponding vertebral corp, then edem / tumefiere de părți moi poate fie diagnosed (this poate fie only sign de lucent corp străin radiopac). This sign poate fie mimicked if gâtul este flectat sau poate fie masked if incidență este Oblică. true Profil (lateral) este therefore essential.
-        - cartilages de Laringe typically calcify în patchy fashion și poate mimic corp străin radiopac. Profil (lateral) radiografie evidențiind normal air-filled Laringe Mandibulă Oropharynx Laryngopharynx Arytenoid cartilage 7th cervical vertebra anterior margine de neck de first rib Tip de epiglottis os hioid anterior margine de cartilaj tiroid (mărul lui Adam) Laryngeal ventricle cartilaj cricoid Benign thyroid calcificări patologice Tracheal air shadow Clavicles Profil (lateral) radiografie evidențiind suspiciune de fractură de os hioid
+        - Dacă țesuturile moi prevertebrale de la nivelul C4–C6 sunt mai late decât corpul vertebral corespunzător, se poate diagnostica edem / tumefiere a părților moi (acesta poate fi singurul semn al unui corp străin descris drept radiotransparent și radiopac). Acest semn poate fi mimat dacă gâtul este flectat sau poate fi mascat dacă incidența este oblică. Prin urmare, profilul strict este esențial.
+        - Cartilajele laringelui se calcifică de obicei neuniform și pot mima un corp străin radiopac. Radiografie de profil care evidențiază laringele normal, umplut cu aer. Mandibulă. Orofaringe. Laringofaringe. Cartilaj aritenoid. A 7-a vertebră cervicală. Marginea anterioară a colului primei coaste. Vârful epiglotei. Os hioid. Marginea anterioară a cartilajului tiroid (mărul lui Adam). Ventricul laringian. Cartilaj cricoid. Calcificări patologice benigne tiroidiene. Umbra aerică traheală. Clavicule. Radiografie de profil care evidențiază suspiciune de fractură a osului hioid.
 
     === "Ghid Național IRIS"
 
@@ -157,24 +160,24 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal, cu planul mediosagital ajustat la coincide cu central axa longitudinală de couch.
-• bărbia este raised la show soft tissues below Mandibulă și la bring radiographic baseline la angle de 20 grade de la vertical.
-• caseta este centred la nivelul fourth cervical vertebra.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat astfel încât să coincidă cu axa longitudinală centrală a mesei.
+• Bărbia este ridicată pentru a evidenția părțile moi de sub mandibulă și a aduce linia de bază radiografică la un unghi de 20 grade față de verticală.
+• Caseta este centrată la nivelul celei de-a patra vertebre cervicale.
 
-• pacientul stă în ortostatism sau sits cu either Umăr against vertical casetă. Two 45-grade pads poate fie plasat între pacient’s cap și caseta la aid imobilizare.
-• planul mediosagital de trunk și cap sunt paralel cu casetă.
-• jaw este raised slightly astfel încât angles de Mandibulă sunt separated de la corpuri de upper Coloană Cervicală.
-• point 2.5 cm posterior la angle de Mandibulă trebuie să fie coincident cu vertical central line de caseta.
-• caseta este centred la nivelul prominence de cartilaj tiroid (mărul lui Adam) opposite fourth cervical vertebra.
-• Immediately before expunere, pacientul este asked la depress umerii forcibly so that their structures sunt projected sub nivelul seventh cervical vertebra.
-• When carrying out this manoeuvre, capul și trunk trebuie să fie maintained în poziție.
-• expunere este made pe forced expiration.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală 10 grade cranial și în linia mediană la nivelul fourth cervical vertebra.
-• expunere este made pe forced expiration.
+• Pacientul stă în ortostatism sau șezând, cu unul dintre umeri sprijinit de caseta verticală. Două suporturi de 45 grade pot fi plasate între capul pacientului și casetă pentru a ajuta la imobilizare.
+• Planurile mediosagitale ale trunchiului și capului sunt paralele cu caseta.
+• Mandibula este ridicată ușor, astfel încât unghiurile sale să fie separate de corpurile vertebrelor cervicale superioare.
+• Punctul situat la 2.5 cm posterior de unghiul mandibulei trebuie să coincidă cu linia centrală verticală a casetei.
+• Caseta este centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam), în dreptul celei de-a patra vertebre cervicale.
+• Imediat înaintea expunerii, pacientului i se cere să coboare forțat umerii, astfel încât structurile acestora să se proiecteze sub nivelul celei de-a șaptea vertebre cervicale.
+• În timpul acestei manevre, capul și trunchiul trebuie menținute în poziție.
+• Expunerea se efectuează în expir forțat.
+    - **Punct de Centrare Fascicul:** • Orientați raza centrală cu 10 grade cranial, pe linia mediană, la nivelul celei de-a patra vertebre cervicale.
+• Expunerea se efectuează în expir forțat.
 
-• raza centrală orizontală centrală este orientat la point vertically below proces mastoidian la nivelul prominence de cartilaj tiroid (mărul lui Adam) through fourth cervical vertebra.
+• Raza centrală orizontală este orientată spre punctul situat vertical sub apofiza mastoidă, la nivelul proeminenței cartilajului tiroid (mărul lui Adam), prin cea de-a patra vertebră cervicală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe forced expiration
+    - **Comandă Respiratorie:** Expunerea se efectuează în expir forțat.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -183,21 +186,21 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - fascicul trebuie să fie collimated la include area de la occipital bone la seventh cervical vertebra.
-    - soft tissues trebuie să fie evidențiat de la Craniu base la root de gâtul (C7).
-    - expunere trebuie să allow clear visualization de laryngeal cartilages și orice possible corp străin radiopac.
+    - Fasciculul trebuie colimat pentru a include zona de la osul occipital până la cea de-a șaptea vertebră cervicală.
+    - Părțile moi trebuie evidențiate de la baza craniului până la rădăcina gâtului (C7).
+    - Expunerea trebuie să permită vizualizarea clară a cartilajelor laringiene și a oricărui posibil corp străin radiopac.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -210,10 +213,10 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • imagine acquisition poate fie made either cu sau fără Bucky grilă.
-• Assessment de possible small corp străin radiopac poate nu require Antero-posterior (AP) incidență, ca such corp străin radiopac sunt likely la fie obscured prin virtue de overlying cervical coloană vertebrală.
-• Air în faringe și Laringe will result în increase în subject contrast în gâtul region. This poate fie reduced using high-kilovoltage technique.
-194 Antero-posterior (AP) radiografie evidențiind normal Laringe Antero-posterior (AP) radiografie de Laringe evidențiind laryngocoele
+    • Achiziția imaginii se poate efectua cu sau fără grila Bucky.
+• Evaluarea unui posibil corp străin radiopac mic poate să nu necesite o incidență antero-posterioară (AP), deoarece asemenea corpi străini radiopaci sunt probabil mascați de suprapunerea coloanei cervicale.
+• Aerul din faringe și laringe produce o creștere a contrastului subiectului în regiunea gâtului. Acesta poate fi redus folosind o tehnică cu kilovoltaj ridicat.
+194 Radiografie antero-posterioară (AP) care evidențiază laringele normal. Radiografie antero-posterioară (AP) a laringelui care evidențiază un laringocel.
 
 
 ### 🖼️ Imagini
@@ -222,41 +225,41 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
 
 <figure class="protocol-image-card" markdown>
 
-![Plain radiografie este requested la investigate presence de](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_1.jpeg)
+![Radiografia simplă este solicitată pentru investigarea prezenței](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_1.jpeg)
 
-<figcaption><strong>Plain radiografie este requested la investigate presence de</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![și la bring radiographic baseline la angle de 20](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_2.jpeg)
-
-<figcaption><strong>și la bring radiographic baseline la angle de 20</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografia simplă este solicitată pentru investigarea prezenței</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie evidențiind normal Laringe](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_3.jpeg)
+![și pentru a aduce linia de bază radiografică la un unghi de 20](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie evidențiind normal Laringe</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie evidențiind normal air-filled Laringe](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_4.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie evidențiind normal air-filled Laringe</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>și pentru a aduce linia de bază radiografică la un unghi de 20</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie evidențiind suspiciune de fractură de os hioid](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_5.jpeg)
+![Radiografie antero-posterioară (AP) care evidențiază laringele normal.](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie evidențiind suspiciune de fractură de os hioid</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară (AP) care evidențiază laringele normal.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil care evidențiază laringele normal, umplut cu aer.](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie de profil care evidențiază laringele normal, umplut cu aer.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil care evidențiază suspiciune de fractură a osului hioid.](../../assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografie de profil care evidențiază suspiciune de fractură a osului hioid.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -289,4 +292,4 @@ title: Rx Căi Aeriene Superioare (Faringe și Laringe) Antero-Posterior (AP)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 209](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=209)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 209](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

@@ -2,12 +2,12 @@
 author: Departamentul de Radiologie
 breathing: Apnee în inspir liniștit
 category: craniu-saf
-centering: perpendicular prin protuberanța occipitală externă, ieșind la nivelul spinei
-  nazale anterioare
+centering: Perpendiculară prin protuberanța occipitală externă, ieșind la nivelul
+  spinei nazale anterioare
 clinical_indications:
-- Suspiciune de sinuzită acută maxilară sau frontală (nivele hidroaerice)
-- Bilanț inițial traumatism facial (fracturi ale podelei orbitei - blow-out, fracturi
-  malare)
+- Suspiciune de sinuzită acută maxilară sau frontală (niveluri hidroaerice)
+- Bilanț inițial al traumatismului facial (fracturi ale planșeului orbitei — blow-out,
+  fracturi malare)
 - Polipoză nazală / opacifiere sinusală
 iris_reference:
   chapter: Cap — ORL
@@ -15,20 +15,20 @@ iris_reference:
   recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: Ortostatismul este obligatoriu pentru evidențierea nivelelor hidroaerice (puroi/lichid
-  în sinuzita acută sau hemo-sinus în traumatisme).
-position: 'Incidența Mento-Placă (Waters): ortostatism, bărbia lipită de Bucky vertical,
-  nasul la 1-1.5 cm distanță de stativ (linia meato-orbitală face un unghi de 37°
-  cu detectorul), gura larg deschisă pentru vizualizarea sinusului sfenoidal'
+notes: Ortostatismul este obligatoriu pentru evidențierea nivelurilor hidroaerice
+  (puroi/lichid în sinuzita acută sau hemosinus în traumatisme).
+position: 'Incidența mento-plăcii (Waters): ortostatism, bărbia lipită de Bucky vertical,
+  nasul la 1-1.5 cm distanță de stativ (linia meato-orbitală formează un unghi de
+  37° cu detectorul), gura larg deschisă pentru vizualizarea sinusului sfenoidal'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare riguroasă pe masivul facial
 quality_criteria:
-- Stâncile temporale sunt proiectate imediat sub podeaua sinusurilor maxilare
-- Simetrie orbitelor și arcadelor zigomatice
-- Vizualizarea clară transparenței sinusurilor frontale, maxilare și celulelor etmoidale
-  anterioare
+- Stâncile temporale sunt proiectate imediat sub planșeul sinusurilor maxilare
+- Simetria orbitelor și a arcadelor zigomatice
+- Vizualizarea clară a transparenței sinusurilor frontale, maxilare și a celulelor
+  etmoidale anterioare
 - 'Pe varianta cu gura deschisă: sinusul sfenoidal proiectat în cavitatea bucală'
 sid_dff: 100 cm
 slug: rx-sinusuri-saf-waters
@@ -83,8 +83,8 @@ title: Rx Sinusuri Anterioare ale Feței (SAF / Waters)
 
     === "Indicații Clinice"
 
-        - Suspiciune de sinuzită acută maxilară sau frontală (nivele hidroaerice)
-        - Bilanț inițial traumatism facial (fracturi ale podelei orbitei - blow-out, fracturi malare)
+        - Suspiciune de sinuzită acută maxilară sau frontală (niveluri hidroaerice)
+        - Bilanț inițial al traumatismului facial (fracturi ale planșeului orbitei — blow-out, fracturi malare)
         - Polipoză nazală / opacifiere sinusală
 
     === "Ghid Național IRIS"
@@ -99,8 +99,8 @@ title: Rx Sinusuri Anterioare ale Feței (SAF / Waters)
 
     ---
 
-    - **Poziție Pacient:** Incidența Mento-Placă (Waters): ortostatism, bărbia lipită de Bucky vertical, nasul la 1-1.5 cm distanță de stativ (linia meato-orbitală face un unghi de 37° cu detectorul), gura larg deschisă pentru vizualizarea sinusului sfenoidal
-    - **Punct de Centrare Fascicul:** perpendicular prin protuberanța occipitală externă, ieșind la nivelul spinei nazale anterioare
+    - **Poziție Pacient:** Incidența mento-plăcii (Waters): ortostatism, bărbia lipită de Bucky vertical, nasul la 1-1.5 cm distanță de stativ (linia meato-orbitală formează un unghi de 37° cu detectorul), gura larg deschisă pentru vizualizarea sinusului sfenoidal
+    - **Punct de Centrare Fascicul:** Perpendiculară prin protuberanța occipitală externă, ieșind la nivelul spinei nazale anterioare
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee în inspir liniștit
 
@@ -123,22 +123,22 @@ title: Rx Sinusuri Anterioare ale Feței (SAF / Waters)
 
     ---
 
-    - Stâncile temporale sunt proiectate imediat sub podeaua sinusurilor maxilare
-    - Simetrie orbitelor și arcadelor zigomatice
-    - Vizualizarea clară transparenței sinusurilor frontale, maxilare și celulelor etmoidale anterioare
+    - Stâncile temporale sunt proiectate imediat sub planșeul sinusurilor maxilare
+    - Simetria orbitelor și a arcadelor zigomatice
+    - Vizualizarea clară a transparenței sinusurilor frontale, maxilare și a celulelor etmoidale anterioare
     - Pe varianta cu gura deschisă: sinusul sfenoidal proiectat în cavitatea bucală
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare riguroasă pe masivul facial
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Ortostatismul este obligatoriu pentru evidențierea nivelelor hidroaerice (puroi/lichid în sinuzita acută sau hemo-sinus în traumatisme).
+    Ortostatismul este obligatoriu pentru evidențierea nivelurilor hidroaerice (puroi/lichid în sinuzita acută sau hemosinus în traumatisme).
 
 === "Ghid Rapid de Execuție"
 

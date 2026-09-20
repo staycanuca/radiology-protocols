@@ -7,13 +7,13 @@ centering: înclinat 45 grade distally la enter anatomic snuf-box de Pumn (Artic
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 308, imaginea 1
+- caption: Merrill — pagina 308, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p308_fig1.png
-- caption: Merrill — pagina PDF 309, imaginea 2
+- caption: Merrill — pagina 309, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p309_fig2.png
-- caption: Merrill — pagina PDF 310, imaginea 3
+- caption: Merrill — pagina 310, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p310_fig3.png
 last_updated: '2026-09-16'
@@ -97,8 +97,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 307–310
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=307
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 307–310
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
@@ -186,25 +186,25 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 308, imaginea 1](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p308_fig1.png)
+![Merrill — pagina 308, imaginea 1](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p308_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 308, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 309, imaginea 2](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p309_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 309, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 308, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 310, imaginea 3](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p310_fig3.png)
+![Merrill — pagina 309, imaginea 2](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p309_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 310, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 309, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 310, imaginea 3](../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p310_fig3.png)
+
+<figcaption><strong>Merrill — pagina 310, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -221,7 +221,7 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 307–310](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=307)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 307–310](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

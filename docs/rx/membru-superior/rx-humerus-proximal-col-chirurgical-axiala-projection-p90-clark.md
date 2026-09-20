@@ -60,7 +60,7 @@ sid_dff: 100 cm
 slug: rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 90
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=90
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -189,4 +189,4 @@ title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 90](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=90)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 90](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

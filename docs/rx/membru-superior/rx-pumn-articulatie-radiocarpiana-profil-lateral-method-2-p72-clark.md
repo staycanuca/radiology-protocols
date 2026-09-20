@@ -134,7 +134,7 @@ sid_dff: 100 cm
 slug: rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 72
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=72
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -331,4 +331,4 @@ Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), metho
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 72](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=72)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 72](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

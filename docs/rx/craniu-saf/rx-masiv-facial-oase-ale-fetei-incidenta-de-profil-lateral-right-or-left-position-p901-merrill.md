@@ -2,45 +2,45 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: perpendicular și entering lateral surface de zygomatic bone halfway între
-  outer canthus și conduct auditiv extern (CAE). Center receptorul de imagine la raza
-  centrală.
+centering: perpendiculară și intrând pe suprafața laterală a osului zigomatic, la
+  jumătatea distanței dintre unghiul extern al ochiului și conductul auditiv extern
+  (CAE). Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 901, imaginea 1
+- caption: Merrill — pagina 901, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p901_fig1.png
-- caption: Merrill — pagina PDF 902, imaginea 2
+- caption: Merrill — pagina 902, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig2.png
-- caption: Merrill — pagina PDF 902, imaginea 3
+- caption: Merrill — pagina 902, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig3.png
-- caption: Merrill — pagina PDF 904, imaginea 4
+- caption: Merrill — pagina 904, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p904_fig4.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit anterior oblic sau Poziție Șezândă anterior
-  Incidență Oblică before stativ vertical Bucky. This este same basic poziție that
-  este used pentru lateral Craniu poziție.; se ajustează pacient’s cap so that MSP
-  este paralel cu receptorul de imagine și linie interpupilară (LIP) este perpendicular
-  pe receptorul de imagine (RI). se ajustează flexion de pacientul’s neck astfel încât
-  linie infraorbitomeatală (LIOM) este perpendicular pe front edge de receptorul de
-  imagine (Figs. 11.100–11.102). Se imobilizează capul pacientului.
+position: Pacientul se așază în decubit anterior oblic sau în poziție șezândă oblică
+  anterioară înaintea stativului vertical Bucky. Aceasta este aceeași poziție de bază
+  utilizată pentru poziția laterală a craniului. Se ajustează capul pacientului astfel
+  încât MSP să fie paralel cu receptorul de imagine, iar linia interpupilară (LIP)
+  să fie perpendiculară pe receptorul de imagine (RI). Se ajustează flexia gâtului
+  pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe
+  marginea anterioară a receptorului de imagine (Fig. 11.100–11.102). Se imobilizează
+  capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n toate
-  Masiv Facial (Oase ale Feței) în their entirety, cu zygomatic bone în center n Absența
-  rotației anatomice (simetrie bilaterală perfectă) sau tilt de Masiv Facial (Oase
-  ale Feței), evidențiat prin:'
-- Almost perfectly superimposed ramuri mandibulare
-- Superimposed orbital roofs
-- șa turcească în profile n părți moi și bony detalii trabeculare osoase
+- 'Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența
+  unui marker de lateralitate (D/S) plasat clar în afara anatomiei de interes n Toate
+  Oasele Feței în întregime, cu osul zigomatic în centru n Absența rotației anatomice
+  (simetrie bilaterală perfectă) sau a înclinării Oaselor Feței, evidențiată prin:'
+- ramuri mandibulare aproape perfect suprapuse
+- acoperișuri orbitare suprapuse
+- șa turcească de profil n părți moi și detalii trabeculare osoase
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill
 source_pages:
@@ -50,63 +50,64 @@ source_pages:
 - 904
 - 905
 source_sections:
-  anatomy: lateral imagine de bones de fața, cu drept și stâng sides superimposed
+  anatomy: imagine laterală a oaselor feței, cu părțile dreaptă și stângă suprapuse
     (Fig. 11.103).
-  collimation: '• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond shadow
-    de tip de nasul, superiorly la 1 inch (2.5 cm) above supraorbital margins, inferiorly
-    la gonion (unghiul mandibulei), și posteriorly la conduct auditiv extern (CAE).
-    expunere field trebuie să fie set fără larger than 6 × 10
+  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch
+    (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra
+    marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior
+    până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel
+    încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• perpendiculară și intrând pe suprafața laterală a osului zigomatic, la jumătatea
+    distanței dintre unghiul extern al ochiului și conductul auditiv extern (CAE).
 
-    inches (15 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.'
-  cr: '• perpendicular și entering lateral surface de zygomatic bone halfway între
-    outer canthus și conduct auditiv extern (CAE).
+    • Centrați receptorul de imagine pe raza centrală.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Center receptorul de imagine la raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat
+    clar în afara anatomiei de interes
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Toate oasele feței în întregime, cu osul zigomatic în centru
 
-    n toate facial bones în their entirety, cu zygomatic bone în center
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării oaselor
+    feței, evidențiată prin:
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de facial
-    bones, evidențiat prin:
+    • ramuri mandibulare aproape perfect suprapuse
 
-    • Almost perfectly superimposed ramuri mandibulare
+    • acoperișuri orbitare suprapuse
 
-    • Superimposed orbital roofs
+    • șa turcească de profil
 
-    • șa turcească în profile
+    n părți moi și detalii trabeculare osoase'
+  part_pos: '• Se ajustează capul pacientului astfel încât MSP să fie paralel cu receptorul
+    de imagine, iar linia interpupilară (LIP) să fie perpendiculară pe receptorul
+    de imagine (RI).
 
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• se ajustează pacient’s cap so that MSP este paralel cu receptorul de
-    imagine și linie interpupilară (LIP) este perpendicular pe receptorul de imagine
-    (RI).
-
-    • se ajustează flexion de pacientul’s neck astfel încât linie infraorbitomeatală
-    (LIOM) este perpendicular pe front edge de receptorul de imagine (Figs. 11.100–11.102).
+    • Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală
+    (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine
+    (Fig. 11.100–11.102).
 
     • Se imobilizează capul pacientului.'
-  patient_pos: '• se așază pacientul în recumbent anterior oblic sau așezat pe scaun
-    anterior oblic poziție before stativ vertical Bucky. This este same basic
-
-    poziție that este used pentru lateral skull poziție.'
+  patient_pos: • Pacientul se așază în poziție oblică anterioară, în decubit sau șezând,
+    înaintea stativului vertical Bucky. Aceasta este aceeași poziție de bază utilizată
+    pentru poziția laterală a craniului.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 901–905
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=901
+- title: Merrill’s Atlas, 11. Cranium, pagini 901–905
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond shadow de
-    tip de nasul, superiorly la 1 inch (2.5 cm) above supraorbital margins, inferiorly
-    la gonion (unghiul mandibulei), și posteriorly la conduct auditiv extern (CAE).
-    expunere field trebuie să fie set fără larger than 6 × 10 inches (15 × 24 cm).
-    Place marker de lateralitate (D/S) în collimated expunere field.
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5
+    cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor
+    supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până
+    la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel
+    încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
 title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) — Profil (Drept
   sau Stâng) (Merrill)
 ---
@@ -143,8 +144,8 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit anterior oblic sau Poziție Șezândă anterior Incidență Oblică before stativ vertical Bucky. This este same basic poziție that este used pentru lateral Craniu poziție.; se ajustează pacient’s cap so that MSP este paralel cu receptorul de imagine și linie interpupilară (LIP) este perpendicular pe receptorul de imagine (RI). se ajustează flexion de pacientul’s neck astfel încât linie infraorbitomeatală (LIOM) este perpendicular pe front edge de receptorul de imagine (Figs. 11.100–11.102). Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** perpendicular și entering lateral surface de zygomatic bone halfway între outer canthus și conduct auditiv extern (CAE). Center receptorul de imagine la raza centrală.
+    - **Poziție Pacient:** Pacientul se așază în decubit anterior oblic sau în poziție șezândă oblică anterioară înaintea stativului vertical Bucky. Aceasta este aceeași poziție de bază utilizată pentru poziția laterală a craniului. Se ajustează capul pacientului astfel încât MSP să fie paralel cu receptorul de imagine, iar linia interpupilară (LIP) să fie perpendiculară pe receptorul de imagine (RI). Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine (Fig. 11.100–11.102). Se imobilizează capul pacientului.
+    - **Punct de Centrare Fascicul:** perpendiculară și intrând pe suprafața laterală a osului zigomatic, la jumătatea distanței dintre unghiul extern al ochiului și conductul auditiv extern (CAE). Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -160,17 +161,17 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond shadow de tip de nasul, superiorly la 1 inch (2.5 cm) above supraorbital margins, inferiorly la gonion (unghiul mandibulei), și posteriorly la conduct auditiv extern (CAE). expunere field trebuie să fie set fără larger than 6 × 10 inches (15 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n toate Masiv Facial (Oase ale Feței) în their entirety, cu zygomatic bone în center n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de Masiv Facial (Oase ale Feței), evidențiat prin:
-    - Almost perfectly superimposed ramuri mandibulare
-    - Superimposed orbital roofs
-    - șa turcească în profile n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat clar în afara anatomiei de interes n Toate Oasele Feței în întregime, cu osul zigomatic în centru n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării Oaselor Feței, evidențiată prin:
+    - ramuri mandibulare aproape perfect suprapuse
+    - acoperișuri orbitare suprapuse
+    - șa turcească de profil n părți moi și detalii trabeculare osoase
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -190,33 +191,33 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 901, imaginea 1](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p901_fig1.png)
+![Merrill — pagina 901, imaginea 1](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p901_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 901, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 902, imaginea 2](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 902, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 901, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 902, imaginea 3](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig3.png)
+![Merrill — pagina 902, imaginea 2](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 902, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 902, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 904, imaginea 4](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p904_fig4.png)
+![Merrill — pagina 902, imaginea 3](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p902_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 904, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 902, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 904, imaginea 4](../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p904_fig4.png)
+
+<figcaption><strong>Merrill — pagina 904, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -233,52 +234,50 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 901–905](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=901)
+- [Merrill’s Atlas, 11. Cranium, pagini 901–905](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lateral imagine de bones de fața, cu drept și stâng sides superimposed (Fig. 11.103).
+imagine laterală a oaselor feței, cu părțile dreaptă și stângă suprapuse (Fig. 11.103).
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond shadow de tip de nasul, superiorly la 1 inch (2.5 cm) above supraorbital margins, inferiorly la gonion (unghiul mandibulei), și posteriorly la conduct auditiv extern (CAE). expunere field trebuie să fie set fără larger than 6 × 10
-inches (15 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular și entering lateral surface de zygomatic bone halfway între outer canthus și conduct auditiv extern (CAE).
-• Center receptorul de imagine la raza centrală.
+• perpendiculară și intrând pe suprafața laterală a osului zigomatic, la jumătatea distanței dintre unghiul extern al ochiului și conductul auditiv extern (CAE).
+• Centrați receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n toate facial bones în their entirety, cu zygomatic bone în center
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de facial bones, evidențiat prin:
-• Almost perfectly superimposed ramuri mandibulare
-• Superimposed orbital roofs
-• șa turcească în profile
-n părți moi și bony detalii trabeculare osoase
+Criterii radiologice de calitate a imaginii:
+n Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat clar în afara anatomiei de interes
+n Toate oasele feței în întregime, cu osul zigomatic în centru
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării oaselor feței, evidențiată prin:
+• ramuri mandibulare aproape perfect suprapuse
+• acoperișuri orbitare suprapuse
+• șa turcească de profil
+n părți moi și detalii trabeculare osoase
 
 ### part_pos
 
-• se ajustează pacient’s cap so that MSP este paralel cu receptorul de imagine și linie interpupilară (LIP) este perpendicular pe receptorul de imagine (RI).
-• se ajustează flexion de pacientul’s neck astfel încât linie infraorbitomeatală (LIOM) este perpendicular pe front edge de receptorul de imagine (Figs. 11.100–11.102).
+• Se ajustează capul pacientului astfel încât MSP să fie paralel cu receptorul de imagine, iar linia interpupilară (LIP) să fie perpendiculară pe receptorul de imagine (RI).
+• Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine (Fig. 11.100–11.102).
 • Se imobilizează capul pacientului.
 
 ### patient_pos
 
-• se așază pacientul în recumbent anterior oblic sau așezat pe scaun anterior oblic poziție before stativ vertical Bucky. This este same basic
-poziție that este used pentru lateral skull poziție.
+• Pacientul se așază în poziție oblică anterioară, în decubit sau șezând, înaintea stativului vertical Bucky. Aceasta este aceeași poziție de bază utilizată pentru poziția laterală a craniului.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

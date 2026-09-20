@@ -748,7 +748,7 @@ def build_clark_protocol_frontmatter(
         'sources': [
             {
                 'title': f"Clark's Positioning in Radiography (Ed. 12), Pagina {page_data.page_num}",
-                'url': f"{sources_pdf_rel}#page={page_data.page_num}"
+                'url': 'https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ',
             }
         ]
     }

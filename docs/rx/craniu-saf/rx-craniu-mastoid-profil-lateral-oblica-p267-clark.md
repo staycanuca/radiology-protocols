@@ -3,15 +3,16 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• A 25-grade caudal angulation este employed și centred 5 cm above și
-  2.5 cm behind extern auditory meatus remote de la caseta.
+centering: '• se utilizează o angulație caudală de 25 grade și se centrează la 5 cm
+  deasupra și 2.5 cm posterior de conductul auditiv extern, la distanță de casetă.
 
-  • Collimate la area under examination.'
+  • Se colimează la aria examinată.'
 clinical_indications:
-- 8 252 Craniu Mastoid – Profil (lateral) Oblică 25 grade caudal
+- 8 252 Craniu Mastoidă – Profil (lateral) oblică 25 grade caudal
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-mastoid-profil-lateral-oblica-p267-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -23,18 +24,23 @@ images:
   url: assets/images/protocols/clark/rx-craniu-mastoid-profil-lateral-oblica-p267-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Examine ambele părți (bilateral) pentru comparison.
+notes: 'Se examinează ambele părți (bilateral) pentru comparație.
 
-  conduct auditiv extern (CAE) Mastoid air cells'
-position: "• pacientul stă așezat facing Ortostatism Bucky. capul este then rotit,\
-  \ astfel încât plan mediosagital este paralel cu Bucky și inter-orbital line este\
-  \ perpendicular pe Bucky.\n• Umerii pot fi rotiți ușor pentru permite obținerea\
-  \ poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.\n\
-  • auricle de ear adjacent la masa de examinare este folded forward la ensure that\
-  \ its părți moi outline este nu superimposed over region de interest.\n• poziție\
-  \ proces mastoidian în middle de Bucky.\n• An 18 \x02 24-cm casetă este poziționat\
-  \ longitudinally în Bucky și este centred la coincide cu raza centrală centrală\
-  \ și proces mastoidian."
+  Conduct auditiv extern (CAE) Celule mastoidiene aerice'
+position: '• Pacientul stă așezat cu fața spre stativul Bucky vertical. Capul este
+  apoi rotit astfel încât planul mediosagital să fie paralel cu stativul Bucky, iar
+  linia interorbitară să fie perpendiculară pe acesta.
+
+  • Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul
+  se poate sprijini de stativul Bucky pentru stabilitate.
+
+  • Pavilionul urechii de pe partea adiacentă mesei de examinare este pliat înainte,
+  astfel încât conturul său de părți moi să nu se suprapună peste regiunea de interes.
+
+  • Se poziționează procesul mastoidian în centrul stativului Bucky.
+
+  • O casetă de 18 × 24 cm este poziționată longitudinal în stativul Bucky și centrată
+  astfel încât să coincidă cu raza centrală și cu procesul mastoidian.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -43,29 +49,30 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Ensure that toate de mastoid air cells have been included within imagine. size de
-  these structures poate vary greatly de la individual la individual.
-- 'Erori de evitat / remedii: Failure la centre far enough posteriorly might exclude
-  part de mastoid air cells de la imagine if these structures sunt very well developed.'
-- 'Erori de evitat / remedii: Failure la ensure that auricle de ear este folded forward
-  will result în părți moi artefact. Check that ear este în correct poziție just before
-  expunere este undertaken.'
+- Se asigură includerea tuturor celulelor mastoidiene aerice în imagine. Dimensiunea
+  acestor structuri poate varia foarte mult de la un individ la altul.
+- 'Erori de evitat / remedii: Neefectuarea centrării suficient de posterior poate
+  exclude o parte din celulele mastoidiene aerice din imagine, dacă aceste structuri
+  sunt foarte bine dezvoltate.'
+- 'Erori de evitat / remedii: Neasigurarea plierii anterioare a pavilionului urechii
+  va duce la apariția unui artefact al țesuturilor moi. Se verifică dacă urechea este
+  în poziția corectă chiar înainte de efectuarea expunerii.'
 sid_dff: 100 cm
 slug: rx-craniu-mastoid-profil-lateral-oblica-p267-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 267
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=267
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Mastoid - Profil (Lateral) Oblică
+  mas: Conform AEC / grosimii anatomice
+title: Rx Craniu Mastoidă - Profil (Lateral) Oblică
 ---
-# Rx Craniu Mastoid - Profil (Lateral) Oblică
+# Rx Craniu Mastoidă - Profil (Lateral) Oblică
 
 
 <div class="rx-meta-bar">
@@ -84,7 +91,7 @@ title: Rx Craniu Mastoid - Profil (Lateral) Oblică
 
     === "Indicații Clinice"
 
-        - 8 252 Craniu Mastoid – Profil (lateral) Oblică 25 grade caudal
+        - 8 252 Craniu Mastoidă – Profil (lateral) oblică 25 grade caudal
 
     === "Ghid Național IRIS"
 
@@ -98,13 +105,13 @@ title: Rx Craniu Mastoid - Profil (Lateral) Oblică
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat facing Ortostatism Bucky. capul este then rotit, astfel încât plan mediosagital este paralel cu Bucky și inter-orbital line este perpendicular pe Bucky.
-• Umerii pot fi rotiți ușor pentru permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• auricle de ear adjacent la masa de examinare este folded forward la ensure that its părți moi outline este nu superimposed over region de interest.
-• poziție proces mastoidian în middle de Bucky.
-• An 18  24-cm casetă este poziționat longitudinally în Bucky și este centred la coincide cu raza centrală centrală și proces mastoidian.
-    - **Punct de Centrare Fascicul:** • A 25-grade caudal angulation este employed și centred 5 cm above și 2.5 cm behind extern auditory meatus remote de la caseta.
-• Collimate la area under examination.
+    - **Poziție Pacient:** • Pacientul stă așezat cu fața spre stativul Bucky vertical. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu stativul Bucky, iar linia interorbitară să fie perpendiculară pe acesta.
+• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+• Pavilionul urechii de pe partea adiacentă mesei de examinare este pliat înainte, astfel încât conturul său de părți moi să nu se suprapună peste regiunea de interes.
+• Se poziționează procesul mastoidian în centrul stativului Bucky.
+• O casetă de 18 × 24 cm este poziționată longitudinal în stativul Bucky și centrată astfel încât să coincidă cu raza centrală și cu procesul mastoidian.
+    - **Punct de Centrare Fascicul:** • se utilizează o angulație caudală de 25 grade și se centrează la 5 cm deasupra și 2.5 cm posterior de conductul auditiv extern, la distanță de casetă.
+• Se colimează la aria examinată.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -115,21 +122,21 @@ title: Rx Craniu Mastoid - Profil (Lateral) Oblică
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Ensure that toate de mastoid air cells have been included within imagine. size de these structures poate vary greatly de la individual la individual.
-    - Erori de evitat / remedii: Failure la centre far enough posteriorly might exclude part de mastoid air cells de la imagine if these structures sunt very well developed.
-    - Erori de evitat / remedii: Failure la ensure that auricle de ear este folded forward will result în părți moi artefact. Check that ear este în correct poziție just before expunere este undertaken.
+    - Se asigură includerea tuturor celulelor mastoidiene aerice în imagine. Dimensiunea acestor structuri poate varia foarte mult de la un individ la altul.
+    - Erori de evitat / remedii: Neefectuarea centrării suficient de posterior poate exclude o parte din celulele mastoidiene aerice din imagine, dacă aceste structuri sunt foarte bine dezvoltate.
+    - Erori de evitat / remedii: Neasigurarea plierii anterioare a pavilionului urechii va duce la apariția unui artefact al țesuturilor moi. Se verifică dacă urechea este în poziția corectă chiar înainte de efectuarea expunerii.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,8 +149,8 @@ title: Rx Craniu Mastoid - Profil (Lateral) Oblică
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Examine ambele părți (bilateral) pentru comparison.
-conduct auditiv extern (CAE) Mastoid air cells
+    Se examinează ambele părți (bilateral) pentru comparație.
+Conduct auditiv extern (CAE) Celule mastoidiene aerice
 
 
 ### 🖼️ Imagini
@@ -154,7 +161,7 @@ conduct auditiv extern (CAE) Mastoid air cells
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-mastoid-profil-lateral-oblica-p267-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -187,4 +194,4 @@ conduct auditiv extern (CAE) Mastoid air cells
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 267](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=267)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 267](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

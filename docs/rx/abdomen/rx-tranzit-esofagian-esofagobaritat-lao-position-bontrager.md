@@ -2,37 +2,39 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: la level de T5 sau T6 (2 la 3 inches [5 la 7.5 cm] inferior la incizura
-  jugulară (manubriul sternal))
+centering: la nivelul T5 sau T6 (2 la 3 țoli [5 la 7.5 cm] inferior de incizura jugulară
+  (manubriul sternal))
 clinical_indications:
-- Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces
-  proliferativ tumorals de esophagus
+- Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese
+  proliferative tumorale ale esofagului
 images:
-- caption: Fig. 12.90 Decubit poziție oblică anterioară stângă (OAS / LAO).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.90 Recumbent
-    poziție oblică anterioară stângă (OAS / LAO).)
+- caption: Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.90 Poziție
+    oblică anterioară stângă (OAS / LAO) în decubit.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_1.jpeg
-- caption: Fig. 12.91 LAO esophagus—evidențiind constricted area de
+- caption: Fig. 12.91 Esofag în LAO—evidențiind zona îngustată a
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.91
-    LAO esophagus—evidențiind constricted area de)
+    Esofag în LAO—evidențiind zona îngustată a)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_2.jpeg
-- caption: Fig. 12.92 LAO esophageal poziție.
+- caption: Fig. 12.92 Poziție LAO pentru esofag.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.92
-    LAO esophageal poziție.)
+    Poziție LAO pentru esofag.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Thin barium: pentru complete filling de esophagus cu thin barium, pacientul
-  poate have la drink through straw, cu continuous swallowing și expunere made after
-  three sau four swallows fără suspending respirație (using ca short expunere time
-  ca possible). Tranzit Esofagian (Esofagobaritat) SPECIAL LAO Fig. 12.90 Decubit
-  poziție oblică anterioară stângă (OAS / LAO).'
-position: 'Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig.
-  12.90).; Regiune anatomică: Rotate 35° la 40° de la PA, cu stâng anterior corp against
-  receptorul de imagine sau table. Place stâng braț down prin pacient’s side, cu drept
-  braț flectat la Cot și up prin pacient’s cap. Flex drept Genunchi pentru support.
-  Place top de receptorul de imagine about 2 inches (5 cm) above level de umeri, la
-  place raza centrală la center de receptorul de imagine.'
+notes: 'Suspensie baritată fluidă: pentru umplerea completă a esofagului cu suspensie
+  baritată fluidă, poate fi necesar ca pacientul să bea printr-un pai, înghițind continuu,
+  iar expunerea să fie efectuată după trei sau patru înghițituri, fără apnee (utilizând
+  un timp de expunere cât mai scurt posibil). Tranzit Esofagian (Esofagobaritat) SPECIAL
+  LAO Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.'
+position: 'Pacient: pacientul în decubit sau în ortostatism (de preferat în decubit)
+  (Fig. 12.90).; Regiune anatomică: Rotiți pacientul cu 35° la 40° față de poziția
+  PA, cu partea anterioară stângă a corpului sprijinită de receptorul de imagine sau
+  de masă. Așezați brațul stâng în jos, de-a lungul corpului pacientului, cu brațul
+  drept flectat la cot și ridicat lângă capul pacientului. Flectați genunchiul drept
+  pentru sprijin. Așezați marginea superioară a receptorului de imagine la aproximativ
+  2 țoli (5 cm) deasupra nivelului umerilor, pentru a centra raza centrală pe centrul
+  receptorului de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,27 +42,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Esophagus este seen între hilar region de plămâni și Coloană Toracală (Figs. 12.91
-  și 12.92).
-- 'Entire esophagus este filled cu contrast medium. poziție:'
-- pacientul’s upper limbs trebuie să nu superimpose esophagus.
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize clearly margini de
-  contrast media–filled esophagus through cordul shadow.
-- net structural margins indicate fără mișcare. L Fig. 12.91 LAO esophagus—evidențiind
-  constricted area de esophagus, possibly carcinoma (arrows). Esophagus L Hilar region
-  de plămâni Trachea Barium și air în stomach Constricted area de pathologic process
-  Fig. 12.92 LAO esophageal poziție.
+- Esofagul este vizibil între regiunea hilară a plămânilor și coloana toracală (Fig.
+  12.91 și 12.92).
+- 'Întregul esofag este umplut cu substanță de contrast. Poziție:'
+- Membrele superioare ale pacientului nu trebuie să se suprapună peste esofag.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  clară a contururilor esofagului umplut cu substanță de contrast prin opacitatea
+  cardiacă.
+- Contururile nete ale structurilor indică absența mișcării. L Fig. 12.91 Esofag în
+  LAO—evidențiind o zonă îngustată a esofagului, posibil carcinom (săgeți). Esofag
+  L Regiunea hilară a plămânilor Trahee Bariu și aer în stomac Zonă îngustată de procesul
+  patologic Fig. 12.92 Poziție LAO pentru esofag.
 sid_dff: 100 cm
 slug: rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 507
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate lateral margini la create twosided collimation
-    field size about 5 la 6 inches (12 la 15 cm) wide. L sau R marker trebuie să fie
-    plasat within collimation field size.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați marginile laterale pentru a crea un câmp
+    colimat pe două laturi, cu o lățime de aproximativ 5 la 6 țoli (12 la 15 cm).
+    Markerul L sau R trebuie să fie plasat în interiorul câmpului colimat.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -87,7 +90,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Stângă (OAS /
 
     === "Indicații Clinice"
 
-        - Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces proliferativ tumorals de esophagus
+        - Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese proliferative tumorale ale esofagului
 
     === "Ghid Național IRIS"
 
@@ -101,8 +104,8 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Stângă (OAS /
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig. 12.90).; Regiune anatomică: Rotate 35° la 40° de la PA, cu stâng anterior corp against receptorul de imagine sau table. Place stâng braț down prin pacient’s side, cu drept braț flectat la Cot și up prin pacient’s cap. Flex drept Genunchi pentru support. Place top de receptorul de imagine about 2 inches (5 cm) above level de umeri, la place raza centrală la center de receptorul de imagine.
-    - **Punct de Centrare Fascicul:** la level de T5 sau T6 (2 la 3 inches [5 la 7.5 cm] inferior la incizura jugulară (manubriul sternal))
+    - **Poziție Pacient:** Pacient: pacientul în decubit sau în ortostatism (de preferat în decubit) (Fig. 12.90).; Regiune anatomică: Rotiți pacientul cu 35° la 40° față de poziția PA, cu partea anterioară stângă a corpului sprijinită de receptorul de imagine sau de masă. Așezați brațul stâng în jos, de-a lungul corpului pacientului, cu brațul drept flectat la cot și ridicat lângă capul pacientului. Flectați genunchiul drept pentru sprijin. Așezați marginea superioară a receptorului de imagine la aproximativ 2 țoli (5 cm) deasupra nivelului umerilor, pentru a centra raza centrală pe centrul receptorului de imagine.
+    - **Punct de Centrare Fascicul:** la nivelul T5 sau T6 (2 la 3 țoli [5 la 7.5 cm] inferior de incizura jugulară (manubriul sternal))
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -117,20 +120,20 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Stângă (OAS /
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate lateral margini la create twosided collimation field size about 5 la 6 inches (12 la 15 cm) wide. L sau R marker trebuie să fie plasat within collimation field size. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați marginile laterale pentru a crea un câmp colimat pe două laturi, cu o lățime de aproximativ 5 la 6 țoli (12 la 15 cm). Markerul L sau R trebuie să fie plasat în interiorul câmpului colimat. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Esophagus este seen între hilar region de plămâni și Coloană Toracală (Figs. 12.91 și 12.92).
-    - Entire esophagus este filled cu contrast medium. poziție:
-    - pacientul’s upper limbs trebuie să nu superimpose esophagus.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize clearly margini de contrast media–filled esophagus through cordul shadow.
-    - net structural margins indicate fără mișcare. L Fig. 12.91 LAO esophagus—evidențiind constricted area de esophagus, possibly carcinoma (arrows). Esophagus L Hilar region de plămâni Trachea Barium și air în stomach Constricted area de pathologic process Fig. 12.92 LAO esophageal poziție.
+    - Esofagul este vizibil între regiunea hilară a plămânilor și coloana toracală (Fig. 12.91 și 12.92).
+    - Întregul esofag este umplut cu substanță de contrast. Poziție:
+    - Membrele superioare ale pacientului nu trebuie să se suprapună peste esofag.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea clară a contururilor esofagului umplut cu substanță de contrast prin opacitatea cardiacă.
+    - Contururile nete ale structurilor indică absența mișcării. L Fig. 12.91 Esofag în LAO—evidențiind o zonă îngustată a esofagului, posibil carcinom (săgeți). Esofag L Regiunea hilară a plămânilor Trahee Bariu și aer în stomac Zonă îngustată de procesul patologic Fig. 12.92 Poziție LAO pentru esofag.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,7 +146,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Stângă (OAS /
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Thin barium: pentru complete filling de esophagus cu thin barium, pacientul poate have la drink through straw, cu continuous swallowing și expunere made after three sau four swallows fără suspending respirație (using ca short expunere time ca possible). Tranzit Esofagian (Esofagobaritat) SPECIAL LAO Fig. 12.90 Decubit poziție oblică anterioară stângă (OAS / LAO).
+    Suspensie baritată fluidă: pentru umplerea completă a esofagului cu suspensie baritată fluidă, poate fi necesar ca pacientul să bea printr-un pai, înghițind continuu, iar expunerea să fie efectuată după trei sau patru înghițituri, fără apnee (utilizând un timp de expunere cât mai scurt posibil). Tranzit Esofagian (Esofagobaritat) SPECIAL LAO Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.
 
 
 ### 🖼️ Imagini
@@ -152,25 +155,25 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Oblică Anterioară Stângă (OAS /
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.90 Decubit poziție oblică anterioară stângă (OAS / LAO).](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_1.jpeg)
+![Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.90 Decubit poziție oblică anterioară stângă (OAS / LAO).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.90 Recumbent poziție oblică anterioară stângă (OAS / LAO).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 12.91 LAO esophagus—evidențiind constricted area de](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 12.91 LAO esophagus—evidențiind constricted area de</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.91 LAO esophagus—evidențiind constricted area de)</span></figcaption>
+<figcaption><strong>Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.90 Poziție oblică anterioară stângă (OAS / LAO) în decubit.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.92 LAO esophageal poziție.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_3.jpeg)
+![Fig. 12.91 Esofag în LAO—evidențiind zona îngustată a](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.92 LAO esophageal poziție.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.92 LAO esophageal poziție.)</span></figcaption>
+<figcaption><strong>Fig. 12.91 Esofag în LAO—evidențiind zona îngustată a</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.91 Esofag în LAO—evidențiind zona îngustată a)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 12.92 Poziție LAO pentru esofag.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-lao-position-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 12.92 Poziție LAO pentru esofag.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.92 Poziție LAO pentru esofag.)</span></figcaption>
 
 </figure>
 

@@ -7,10 +7,10 @@ centering: orientat la point 1 inch (2.5 cm) distal și 1 inch (2.5 cm) anterior
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 515, imaginea 1
+- caption: Merrill — pagina 515, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p515_fig1.png
-- caption: Merrill — pagina PDF 516, imaginea 2
+- caption: Merrill — pagina 516, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p516_fig2.png
 last_updated: '2026-09-16'
@@ -83,8 +83,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 514–516
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=514
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 514–516
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și
@@ -174,17 +174,17 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație In
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 515, imaginea 1](../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p515_fig1.png)
+![Merrill — pagina 515, imaginea 1](../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p515_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 515, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 515, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 516, imaginea 2](../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p516_fig2.png)
+![Merrill — pagina 516, imaginea 2](../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-medial-rotation-glezna-articulatie-talocrurala-p514-merrill/p516_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 516, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 516, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -201,7 +201,7 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație In
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 514–516](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=514)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 514–516](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

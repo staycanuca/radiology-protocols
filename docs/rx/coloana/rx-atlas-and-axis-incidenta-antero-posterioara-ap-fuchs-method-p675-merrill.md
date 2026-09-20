@@ -2,82 +2,85 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: perpendicular pe midpoint de receptorul de imagine; enters gâtul pe MSP
-  just distal la tip de bărbia
+centering: perpendicular pe centrul receptorului de imagine; pătrunde în gât pe MSP,
+  imediat distal de vârful bărbiei
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție. se centrează MSP de corp la
-  linia mediană grilă. Place brațele along sides de corp. Place support under pacientul’s
-  genunchi pentru comfort.; Place receptorul de imagine în tăvița Bucky, then se centrează
-  receptorul de imagine la level de tips de mastoid processes. se extinde chin until
-  tip de bărbia și tips de proces mastoidian sunt vertical (Fig. 9.29). se ajustează
-  cap astfel încât MSP este perpendicular pe plane de grila. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal. Se centrează MSP al corpului pe linia
+  mediană a grilei. Se așază brațele de-a lungul corpului. Se așază un suport sub
+  genunchii pacientului pentru confort.; Se așază receptorul de imagine în tăvița
+  Bucky, apoi se centrează la nivelul vârfurilor proceselor mastoidiene. Se ridică
+  bărbia prin extensie până când vârful bărbiei și vârfurile proceselor mastoidiene
+  sunt aliniate pe verticală (Fig. 9.29). Se ajustează poziția capului astfel încât
+  MSP să fie perpendicular pe planul grilei. Se efectuează ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire dens within gaură occipitală mare (foramen magnum)
-- Absența rotației anatomice (simetrie bilaterală perfectă) de capul sau neck, evidențiat
-  prin symmetry de Mandibulă, Craniu, și vertebre
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Întregul proces odontoid în interiorul găurii occipitale mari (foramen magnum)
+- Absența rotației anatomice (simetrie bilaterală perfectă) a capului sau gâtului,
+  evidențiată prin simetria mandibulei, craniului și vertebrelor
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-atlas-and-axis-incidenta-antero-posterioara-ap-fuchs-method-p675-merrill
 source_pages:
 - 675
 - 676
 source_sections:
-  anatomy: AP incidență de dens culcat within circular gaură occipitală mare (foramen
-    magnum) (Fig. 9.30).
+  anatomy: Incidență AP a procesului odontoid situat în interiorul găurii occipitale
+    mari (foramen magnum), de formă circulară (Fig. 9.30).
   collimation: • Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe midpoint de receptorul de imagine; enters gâtul pe MSP just
-    distal la tip de bărbia
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe centrul receptorului de imagine; pătrunde în gât pe MSP,
+    imediat distal de vârful bărbiei
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Evidențierea colimării corecte și prezența markerului de lateralitate (D/S),
+    plasat fără a se suprapune peste anatomia de interes
 
-    • Entire dens within gaură occipitală mare (foramen magnum)
+    • Întregul proces odontoid în interiorul găurii occipitale mari (foramen magnum)
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de capul sau neck,
-    evidențiat prin symmetry de mandible, cranium, și vertebre
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a capului sau gâtului,
+    evidențiată prin simetria mandibulei, craniului și vertebrelor
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place receptorul de imagine în tăvița Bucky, then se centrează receptorul
-    de imagine la level de tips de mastoid processes.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se așază receptorul de imagine în tăvița Bucky, apoi se centrează la
+    nivelul vârfurilor proceselor mastoidiene.
 
-    • se extinde chin until tip de bărbia și tips de proces mastoidian sunt vertical
-    (Fig. 9.29).
+    • Se ridică bărbia prin extensie până când vârful bărbiei și vârfurile proceselor
+    mastoidiene sunt aliniate pe verticală (Fig. 9.29).
 
-    • se ajustează cap astfel încât MSP este perpendicular pe plane de grila.
+    • Se ajustează poziția capului astfel încât MSP să fie perpendicular pe planul
+    grilei.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: '• se așază pacientul în decubit dorsal.
 
-    • se centrează MSP de corp la linia mediană grilă.
+    • Se centrează MSP al corpului pe linia mediană a grilei.
 
-    • Place brațele along sides de corp.
+    • Se așază brațele de-a lungul corpului.
 
-    • Place support under pacientul’s genunchi pentru comfort.'
+    • Se așază un suport sub genunchii pacientului pentru confort.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) transversal.'
+    × 30 cm), transversal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 675–676
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=675
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 675–676
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Metoda Fuchs
   (Merrill)
 ---
@@ -114,8 +117,8 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție. se centrează MSP de corp la linia mediană grilă. Place brațele along sides de corp. Place support under pacientul’s genunchi pentru comfort.; Place receptorul de imagine în tăvița Bucky, then se centrează receptorul de imagine la level de tips de mastoid processes. se extinde chin until tip de bărbia și tips de proces mastoidian sunt vertical (Fig. 9.29). se ajustează cap astfel încât MSP este perpendicular pe plane de grila. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine; enters gâtul pe MSP just distal la tip de bărbia
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal. Se centrează MSP al corpului pe linia mediană a grilei. Se așază brațele de-a lungul corpului. Se așază un suport sub genunchii pacientului pentru confort.; Se așază receptorul de imagine în tăvița Bucky, apoi se centrează la nivelul vârfurilor proceselor mastoidiene. Se ridică bărbia prin extensie până când vârful bărbiei și vârfurile proceselor mastoidiene sunt aliniate pe verticală (Fig. 9.29). Se ajustează poziția capului astfel încât MSP să fie perpendicular pe planul grilei. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine; pătrunde în gât pe MSP, imediat distal de vârful bărbiei
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -131,18 +134,18 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire dens within gaură occipitală mare (foramen magnum)
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de capul sau neck, evidențiat prin symmetry de Mandibulă, Craniu, și vertebre
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Întregul proces odontoid în interiorul găurii occipitale mari (foramen magnum)
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a capului sau gâtului, evidențiată prin simetria mandibulei, craniului și vertebrelor
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,50 +169,50 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 675–676](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=675)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 675–676](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-AP incidență de dens culcat within circular gaură occipitală mare (foramen magnum) (Fig. 9.30).
+Incidență AP a procesului odontoid situat în interiorul găurii occipitale mari (foramen magnum), de formă circulară (Fig. 9.30).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe midpoint de receptorul de imagine; enters gâtul pe MSP just distal la tip de bărbia
+• perpendicular pe centrul receptorului de imagine; pătrunde în gât pe MSP, imediat distal de vârful bărbiei
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire dens within gaură occipitală mare (foramen magnum)
-• Absența rotației anatomice (simetrie bilaterală perfectă) de capul sau neck, evidențiat prin symmetry de mandible, cranium, și vertebre
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+• Întregul proces odontoid în interiorul găurii occipitale mari (foramen magnum)
+• Absența rotației anatomice (simetrie bilaterală perfectă) a capului sau gâtului, evidențiată prin simetria mandibulei, craniului și vertebrelor
+• Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 ### part_pos
 
-• Place receptorul de imagine în tăvița Bucky, then se centrează receptorul de imagine la level de tips de mastoid processes.
-• se extinde chin until tip de bărbia și tips de proces mastoidian sunt vertical (Fig. 9.29).
-• se ajustează cap astfel încât MSP este perpendicular pe plane de grila.
+• Se așază receptorul de imagine în tăvița Bucky, apoi se centrează la nivelul vârfurilor proceselor mastoidiene.
+• Se ridică bărbia prin extensie până când vârful bărbiei și vârfurile proceselor mastoidiene sunt aliniate pe verticală (Fig. 9.29).
+• Se ajustează poziția capului astfel încât MSP să fie perpendicular pe planul grilei.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit dorsal.
-• se centrează MSP de corp la linia mediană grilă.
-• Place brațele along sides de corp.
-• Place support under pacientul’s genunchi pentru comfort.
+• Se centrează MSP al corpului pe linia mediană a grilei.
+• Se așază brațele de-a lungul corpului.
+• Se așază un suport sub genunchii pacientului pentru confort.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului, pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), transversal.
 

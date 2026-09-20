@@ -1,73 +1,76 @@
 ---
 author: Referință Merrill
-breathing: expunere poate fie made while pacientul continues la breathe normally,
-  “Tehnică de estompare prin respirație superficială (respirație technique),” la blur
-  pulmonary vascular markings și Coaste (Grilaj Costal) sau after respirație este
-  suspended la end de expiration. When Tehnică de estompare prin respirație superficială
-  (respirație technique) este used, pacientul trebuie să fie instructed nu la move
-  during expunere. increased expunere time, preferably 2 la 3 seconds (cu corresponding
-  decrease în mA), este needed la ensure pulmonary vasculature și Coaste (Grilaj Costal)
-  will fie blurred.
+breathing: Expunerea poate fi efectuată în timp ce pacientul continuă să respire normal,
+  folosind „Tehnica de estompare prin respirație superficială (tehnica respirației)”,
+  pentru a estompa desenul vascular pulmonar și coastele (grilajul costal), sau după
+  menținerea apneei la sfârșitul expirului. Când se utilizează Tehnica de estompare
+  prin respirație superficială (tehnica respirației), pacientul trebuie instruit să
+  nu se miște în timpul expunerii. Este necesar un timp de expunere mai lung, preferabil
+  de 2 la 3 secunde (cu scăderea corespunzătoare a mA), pentru a asigura estomparea
+  vasculaturii pulmonare și a coastelor (grilajului costal).
 category: coloana
-centering: perpendicular pe centrul receptorului de imagine la nivelul T7 (inferior
-  angles de scapulae). raza centrală enters posterior half de thorax. If coloană vertebrală
-  este nu ridicat la plan orizontal when pacientul este în Decubit poziție, angle
-  tubul la se orientează raza centrală centrală perpendicular pe axa longitudinală
-  de thoracic column, și then center it la nivelul T7. average angle de 10 grade cranial
-  este suficient în most female pacienți; average angle de 15 grade este satisfactory
-  în most male pacienți because de their greater Umăr width (Fig. 9.74). Fig. 9.75
-  shows positioning de raza centrală pentru în ortostatism lateral Coloană Toracală.
+centering: perpendicular pe centrul receptorului de imagine la nivelul T7 (unghiurile
+  inferioare ale scapulelor). Raza centrală pătrunde în jumătatea posterioară a toracelui.
+  Dacă coloana vertebrală nu este ridicată la planul orizontal când pacientul se află
+  în decubit, se angulează tubul astfel încât raza centrală să fie perpendiculară
+  pe axa longitudinală a coloanei toracale, apoi se centrează la nivelul T7. O angulație
+  cranială medie de 10 grade este suficientă la majoritatea pacientelor; o angulație
+  medie de 15 grade este satisfăcătoare la majoritatea pacienților, din cauza lățimii
+  mai mari a umerilor lor (Fig. 9.74). Fig. 9.75 prezintă poziționarea razei centrale
+  pentru coloana toracală în ortostatism lateral.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 713, imaginea 1
+- caption: Merrill — pagina 713, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p713_fig1.png
-- caption: Merrill — pagina PDF 714, imaginea 2
+- caption: Merrill — pagina 714, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig2.png
-- caption: Merrill — pagina PDF 714, imaginea 3
+- caption: Merrill — pagina 714, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig3.png
-- caption: Merrill — pagina PDF 715, imaginea 4
+- caption: Merrill — pagina 715, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p715_fig4.png
-- caption: Merrill — pagina PDF 716, imaginea 5
+- caption: Merrill — pagina 716, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p716_fig5.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: 'se așază pacientul în lateral Decubit poziție. (Note: Oppenheimer 17 also
-  suСests use de ortostatism.) If possible, use stâng Incidență de Profil (lateral)
-  la place cordul closer la receptorul de imagine, which minimizes superimposition
-  de vertebre prin cordul. Se instruiește pacientul să dressed în open-backed gown
-  astfel încât coloană vertebrală poate fie exposed pentru adjustment de poziție.;
-  Place firm pillow under pacientul’s cap la keep axa longitudinală de coloană vertebrală
-  orizontal. se flectează pacient’s hips și genunchi la comfortable poziție. Place
-  superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above relaxat
-  umeri. se centrează posterior half de thorax la linia mediană grilă și la nivelul
-  T7 (Fig. 9.72). T7 este la inferior angle de scapulae. cu pacientul’s genunchi exactly
-  superimposed la prevent rotație de Bazin (bazin (pelvis)), small sponge sau cloth
-  poate fie plasat între genunchi. se ajustează pacient’s brațe în unghi drept față
-  de axa longitudinală de corp la elevate Coaste (Grilaj Costal) enough la clear intervertebral
-  foramina. If axa longitudinală de coloană vertebrală este nu orizontal, elevate
-  lower sau upper thoracic region cu radiolucent support (Fig. 9.73). This este preferred
-  method. se efectuează ecranarea gonadelor cu șorț plumbat.'
+position: 'Se așază pacientul în decubit lateral. (Notă: Oppenheimer 17 sugerează,
+  de asemenea, utilizarea ortostatismului.) Dacă este posibil, se utilizează incidența
+  de profil (laterală) stângă pentru a plasa cordul mai aproape de receptorul de imagine,
+  ceea ce minimizează suprapunerea vertebrelor prin cord. Se instruiește pacientul
+  să îmbrace un halat cu deschidere posterior, astfel încât coloana vertebrală să
+  poată fi expusă pentru ajustarea poziției. Se plasează o pernă fermă sub capul pacientului
+  pentru a menține axa longitudinală a coloanei vertebrale orizontală. Se flectează
+  șoldurile și genunchii pacientului într-o poziție confortabilă. Se plasează marginea
+  superioară a receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor
+  relaxați. Se centrează jumătatea posterioară a toracelui pe linia mediană a grilei
+  și la nivelul T7 (Fig. 9.72). T7 se află la nivelul unghiurilor inferioare ale scapulelor.
+  Cu genunchii pacientului exact suprapuși pentru a preveni rotația bazinului, se
+  poate plasa un burete mic sau o bucată de material între genunchi. Se ajustează
+  brațele pacientului în unghi drept față de axa longitudinală a corpului pentru a
+  ridica coastele suficient ca să elibereze foramenele intervertebrale. Dacă axa longitudinală
+  a coloanei vertebrale nu este orizontală, se ridică regiunea toracică inferioară
+  sau superioară cu un suport radiotransparent (Fig. 9.73). Aceasta este metoda preferată.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation, posterior field shielding și presence de marker
-  de lateralitate (D/S) plasat clear de anatomy de interest
-- vertebre clar vizibil(e) through rib și lung shadows
-- Twelve coloană toracală centrat pe receptorul de imagine. Superimposition de umerii
-  pe upper vertebre poate cause underexposure în this area. number de vertebre visualized
-  depends pe size și shape de pacientul. T1 la T3 sunt nu well seen.
-- Coaste (Grilaj Costal) superimposed posteriorly la indicate that pacientul was nu
-  rotit
-- Open intervertebral disk spaces
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Dovada colimării corecte, ecranarea posterioară a câmpului și prezența markerului
+  de lateralitate (D/S), plasat clar în afara anatomiei de interes
+- Vertebre clar vizibile prin umbrele coastelor și plămânilor
+- Cele douăsprezece vertebre toracale sunt centrate pe receptorul de imagine. Suprapunerea
+  umerilor peste vertebrele superioare poate cauza subexpunerea acestei zone. Numărul
+  vertebrelor vizualizate depinde de dimensiunile și conformația pacientului. T1 până
+  la T3 nu se văd bine.
+- Coastele suprapuse posterior indică faptul că pacientul nu a fost rotit
+- Spații discale intervertebrale deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill
 source_pages:
@@ -77,132 +80,118 @@ source_pages:
 - 715
 - 716
 source_sections:
-  anatomy: 'thoracic corpuri, intervertebral disk spaces, intervertebral foramina,
-    și lower procese spinoase. Because de overlapping umeri, upper vertebre poate
-    nu fie vizualizat în this poziție (Figs. 9.76 și 9.77). If upper thoracic area
-    este de interest, swimmer’s lateral poate fie
+  anatomy: Corpurile vertebrale toracale, spațiile discale intervertebrale, foramenele
+    intervertebrale și procesele spinoase inferioare. Din cauza suprapunerii umerilor,
+    vertebrele superioare pot să nu fie vizualizate în această poziție (Fig. 9.76
+    și 9.77). Dacă regiunea toracică superioară este de interes, incidența de profil
+    a înotătorului poate fi inclusă în examinare. Cu cât pacientul este mai tânăr,
+    cu atât este mai ușor să fie evidențiate corpurile vertebrale toracale superioare.
+  collimation: '• Se ajustează câmpul de iradiere la 7 × 17 inches (18 × 43 cm) pe
+    colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-    included cu examination. younger pacientul, easier it este la show upper thoracic
-    corpuri.'
-  collimation: '• se ajustează câmp de iradiere la 7 × 17 inches (18 × 43 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
+    Îmbunătățirea calității radiografice
 
-    Improving radiographic quality
+    Pe lângă colimarea strânsă, calitatea imaginii radiografice poate fi îmbunătățită
+    în mai multe moduri. Se recomandă un SID de 48 inches (112 cm) sau mai mare pentru
+    a reduce mărirea inerentă acestei imagini, deoarece OID-ul coloanei toracale este
+    semnificativ în această incidență. În plus, dacă pe masa de examinare, în spatele
+    pacientului, este plasată o folie de cauciuc plumbat (vezi Fig. 9.73 și 9.74),
+    plumbul absoarbe radiația difuzată provenită de la pacient și împiedică radiația
+    difuzată de masă să afecteze imaginea. Radiația difuzată reduce calitatea radiografiei
+    și întunecă imaginea proceselor spinoase. Mai important, în cazul controlului
+    automat al expunerii (AEC), radiația difuzată provenită de la pacient este adesea
+    suficientă pentru a termina prematur expunerea. Imaginea rezultată poate fi subexpusă
+    din cauza efectului radiației difuzate asupra dispozitivului AEC.'
+  cr: '• Perpendicular pe centrul receptorului de imagine, la nivelul T7 (unghiurile
+    inferioare ale scapulelor). Raza centrală intră prin jumătatea posterioară a toracelui.
 
-    în addition la colimare strânsă, quality de radiographic imagine poate fie improved
-    în several ways. A 48-inch (112-cm) sau greater SID este
+    • Dacă coloana vertebrală nu este ridicată în plan orizontal când pacientul se
+    află în decubit, se angulează tubul pentru a direcționa raza centrală perpendicular
+    pe axa longitudinală a coloanei toracale, apoi se centrează la nivelul T7. O angulație
+    cranială medie de 10 grade este suficientă la majoritatea pacientelor; o angulație
+    medie de 15 grade este satisfăcătoare la majoritatea pacienților, din cauza lățimii
+    mai mari a umerilor acestora (Fig. 9.74). Fig. 9.75 prezintă poziționarea razei
+    centrale pentru coloana toracală în profil, în ortostatism.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    recommended la reduce magnification inherent în this imagine, because OID de thoracic
-    coloană vertebrală este significant în this incidență. în addition,
+    • Semne de colimare corectă, ecranarea câmpului posterior și prezența markerului
+    de lateralitate (D/S), plasat în afara anatomiei de interes
 
-    if sheet de leaded rubber este plasat pe masa de examinare behind pacientul (see
-    Figs. 9.73 și 9.74), lead absorbs scatter radiation coming de la
+    • Vertebre clar vizibile prin umbrele coastelor și ale plămânilor
 
-    pacientul și prevents table scatter de la afecting imagine. Scatter radiation
-    decreases quality de radiografie și darkens imagine de
+    • Cele douăsprezece vertebre toracale sunt centrate pe receptorul de imagine.
+    Suprapunerea umerilor peste vertebrele superioare poate cauza subexpunerea acestei
+    zone. Numărul vertebrelor vizualizate depinde de dimensiunile și conformația pacientului.
+    T1 până la T3 nu se văd bine.
 
-    procese spinoase. More important, cu automatic expunere control (AEC), scatter
-    radiation coming de la pacient este often suficient
+    • Coaste suprapuse posterior, indicând că pacientul nu a fost rotit
 
-    la terminate expunere prematurely. resulting imagine poate fie underexposed because
-    de efect de scatter radiation pe AEC device.'
-  cr: '• perpendicular pe centrul receptorului de imagine la nivelul T7 (inferior
-    angles de scapulae). raza centrală enters posterior half de thorax.
+    • Spații discale intervertebrale deschise
 
-    • If coloană vertebrală este nu ridicat la plan orizontal when pacientul este
-    în recumbent poziție, angle tubul la direct raza centrală perpendicular pe axa
-    longitudinală de thoracic column, și then center it la nivelul T7. average angle
-    de 10 grade
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se plasează o pernă fermă sub capul pacientului pentru a menține axa
+    longitudinală a coloanei vertebrale orizontală.
 
-    cranial este suficient în most female pacienți; average angle de 15 grade este
-    satisfactory în most male pacienți because de their
+    • Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă.
 
-    greater umăr width (Fig. 9.74). Fig. 9.75 shows positioning de raza centrală pentru
-    în ortostatism lateral thoracic coloană vertebrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Se plasează marginea superioară a receptorului de imagine la 1½–2 inches (3.8–5
+    cm) deasupra umerilor relaxați. Se centrează jumătatea posterioară a toracelui
+    pe linia mediană a grilei și la nivelul T7 (Fig. 9.72). T7 se află la nivelul
+    unghiurilor inferioare ale scapulelor.
 
-    • Evidence de corect collimation, posterior field shielding și presence de marker
-    de lateralitate (D/S) plasat clear de anatomy de interest
+    • Cu genunchii pacientului exact suprapuși pentru a preveni rotația bazinului,
+    se poate plasa un burete mic sau o bucată de material între genunchi.
 
-    • vertebre clar vizibil(e) through rib și lung shadows
+    • Se ajustează brațele pacientului în unghi drept față de axa longitudinală a
+    corpului pentru a ridica coastele suficient ca să elibereze foramenele intervertebrale.
 
-    • Twelve coloană toracală centrat pe receptorul de imagine. Superimposition de
-    umerii pe upper vertebre poate cause underexposure în
+    • Dacă axa longitudinală a coloanei vertebrale nu este orizontală, se ridică regiunea
+    toracică inferioară sau superioară cu un suport radiotransparent (Fig. 9.73).
+    Aceasta este metoda preferată.
 
-    this area. number de vertebre visualized depends pe size și shape de pacientul.
-    T1 la T3 sunt nu well seen.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit lateral. (Notă: Oppenheimer 17 sugerează,
+    de asemenea, utilizarea ortostatismului.)
 
-    • coaste superimposed posteriorly la indicate that pacientul was nu rotit
+    • Dacă este posibil, se utilizează incidența de profil (laterală) stângă pentru
+    a plasa cordul mai aproape de receptorul de imagine, ceea ce minimizează suprapunerea
+    vertebrelor prin cord.
 
-    • Open intervertebral disk spaces
+    • Se instruiește pacientul să îmbrace un halat cu deschidere posterior, astfel
+    încât coloana vertebrală să poată fi expusă pentru ajustarea poziției.'
+  respiration: 'Expunerea poate fi efectuată în timp ce pacientul continuă să respire
+    normal, prin „tehnica de estompare prin respirație superficială” (tehnica respirației),
+    pentru a estompa desenul vascular pulmonar și coastele, sau după suspendarea respirației
+    la sfârșitul expirului.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place firm pillow under pacientul’s cap la keep axa longitudinală de
-    coloană vertebrală orizontal.
+    • Când se utilizează tehnica de estompare prin respirație superficială (tehnica
+    respirației), pacientul trebuie instruit să nu se miște în timpul expunerii. Pentru
+    a asigura estomparea vaselor pulmonare și a coastelor este necesar un timp de
+    expunere mai lung, preferabil de 2–3 seconds (cu scăderea corespunzătoare a mA).'
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    • se flectează pacient’s hips și genunchi la comfortable poziție.
-
-    • Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above
-    relaxat umeri. se centrează posterior half de thorax la linia mediană grilă și
-    la nivelul T7 (Fig. 9.72). T7 este la inferior angle de scapulae.
-
-    • cu pacientul’s genunchi exactly superimposed la prevent rotație de bazinul,
-    small sponge sau cloth poate fie plasat între
-
-    genunchi.
-
-    • se ajustează pacient’s brațe în unghi drept față de axa longitudinală de corp
-    la elevate coaste enough la clear intervertebral foramina.
-
-    • If axa longitudinală de coloană vertebrală este nu orizontal, elevate lower
-    sau upper thoracic region cu radiolucent support (Fig.
-
-    9.73). This este preferred method.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în lateral recumbent poziție. (Note: Oppenheimer
-    17 also suСests use de ortostatism.)
-
-    • If possible, use stâng poziție de profil (lateral) la place cordul closer la
-    receptorul de imagine, which minimizes superimposition de vertebre prin heart.
-
-    • Se instruiește pacientul să dressed în open-backed gown astfel încât coloană
-    vertebrală poate fie exposed pentru adjustment de poziție.'
-  respiration: 'expunere poate fie made while pacientul continues la breathe normally,
-    “Tehnică de estompare prin respirație superficială (respirație technique),” la
-    blur pulmonary vascular markings și coaste sau after respirație este suspended
-    la end de expiration.
-
-    • When Tehnică de estompare prin respirație superficială (respirație technique)
-    este used, pacientul trebuie să fie instructed nu la move during expunere. increased
-    expunere time,
-
-    preferably 2 la 3 seconds (cu corresponding decrease în mA), este needed la ensure
-    pulmonary vasculature și coaste will fie
-
-    blurred.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 712–716
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=712
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 712–716
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 7 × 17 inches (18 × 43 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field. Improving radiographic
-    quality în addition la colimare strânsă, quality de radiographic imagine poate
-    fie improved în several ways. A 48-inch (112-cm) sau greater SID este recommended
-    la reduce magnification inherent în this imagine, because OID de Coloană Toracală
-    este significant în this incidență. în addition, if sheet de leaded rubber este
-    plasat pe masa de examinare behind pacientul (see Figs. 9.73 și 9.74), lead absorbs
-    scatter radiation coming de la pacient și prevents table scatter de la afecting
-    imagine. Scatter radiation decreases quality de radiografie și darkens imagine
-    de procese spinoase. More important, cu automatic expunere control (AEC), scatter
-    radiation coming de la pacient este often suficient la terminate expunere prematurely.
-    resulting imagine poate fie underexposed because de efect de scatter radiation
-    pe AEC device.
+  collimation: 'Se ajustează câmpul de iradiere la 7 × 17 inches (18 × 43 cm) pe colimator.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. Îmbunătățirea
+    calității radiografice: pe lângă colimarea strânsă, calitatea imaginii radiografice
+    poate fi îmbunătățită în mai multe moduri. Se recomandă un SID de 48 inches (112
+    cm) sau mai mare pentru a reduce mărirea inerentă acestei imagini, deoarece OID-ul
+    coloanei toracale este semnificativ în această incidență. În plus, dacă pe masa
+    de examinare, în spatele pacientului, este plasată o folie de cauciuc plumbat
+    (vezi Fig. 9.73 și 9.74), plumbul absoarbe radiația difuzată provenită de la pacient
+    și împiedică radiația difuzată de masă să afecteze imaginea. Radiația difuzată
+    reduce calitatea radiografiei și întunecă imaginea proceselor spinoase. Mai important,
+    în cazul controlului automat al expunerii (AEC), radiația difuzată provenită de
+    la pacient este adesea suficientă pentru a termina prematur expunerea. Imaginea
+    rezultată poate fi subexpusă din cauza efectului radiației difuzate asupra dispozitivului
+    AEC.'
 title: Rx Coloană Toracală — Incidență de Profil (Lateral) — Profil (Drept sau Stâng)
   (Merrill)
 ---
@@ -239,10 +228,10 @@ title: Rx Coloană Toracală — Incidență de Profil (Lateral) — Profil (Dre
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în lateral Decubit poziție. (Note: Oppenheimer 17 also suСests use de ortostatism.) If possible, use stâng Incidență de Profil (lateral) la place cordul closer la receptorul de imagine, which minimizes superimposition de vertebre prin cordul. Se instruiește pacientul să dressed în open-backed gown astfel încât coloană vertebrală poate fie exposed pentru adjustment de poziție.; Place firm pillow under pacientul’s cap la keep axa longitudinală de coloană vertebrală orizontal. se flectează pacient’s hips și genunchi la comfortable poziție. Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above relaxat umeri. se centrează posterior half de thorax la linia mediană grilă și la nivelul T7 (Fig. 9.72). T7 este la inferior angle de scapulae. cu pacientul’s genunchi exactly superimposed la prevent rotație de Bazin (bazin (pelvis)), small sponge sau cloth poate fie plasat între genunchi. se ajustează pacient’s brațe în unghi drept față de axa longitudinală de corp la elevate Coaste (Grilaj Costal) enough la clear intervertebral foramina. If axa longitudinală de coloană vertebrală este nu orizontal, elevate lower sau upper thoracic region cu radiolucent support (Fig. 9.73). This este preferred method. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine la nivelul T7 (inferior angles de scapulae). raza centrală enters posterior half de thorax. If coloană vertebrală este nu ridicat la plan orizontal when pacientul este în Decubit poziție, angle tubul la se orientează raza centrală centrală perpendicular pe axa longitudinală de thoracic column, și then center it la nivelul T7. average angle de 10 grade cranial este suficient în most female pacienți; average angle de 15 grade este satisfactory în most male pacienți because de their greater Umăr width (Fig. 9.74). Fig. 9.75 shows positioning de raza centrală pentru în ortostatism lateral Coloană Toracală.
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral. (Notă: Oppenheimer 17 sugerează, de asemenea, utilizarea ortostatismului.) Dacă este posibil, se utilizează incidența de profil (laterală) stângă pentru a plasa cordul mai aproape de receptorul de imagine, ceea ce minimizează suprapunerea vertebrelor prin cord. Se instruiește pacientul să îmbrace un halat cu deschidere posterior, astfel încât coloana vertebrală să poată fi expusă pentru ajustarea poziției. Se plasează o pernă fermă sub capul pacientului pentru a menține axa longitudinală a coloanei vertebrale orizontală. Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă. Se plasează marginea superioară a receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor relaxați. Se centrează jumătatea posterioară a toracelui pe linia mediană a grilei și la nivelul T7 (Fig. 9.72). T7 se află la nivelul unghiurilor inferioare ale scapulelor. Cu genunchii pacientului exact suprapuși pentru a preveni rotația bazinului, se poate plasa un burete mic sau o bucată de material între genunchi. Se ajustează brațele pacientului în unghi drept față de axa longitudinală a corpului pentru a ridica coastele suficient ca să elibereze foramenele intervertebrale. Dacă axa longitudinală a coloanei vertebrale nu este orizontală, se ridică regiunea toracică inferioară sau superioară cu un suport radiotransparent (Fig. 9.73). Aceasta este metoda preferată. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine la nivelul T7 (unghiurile inferioare ale scapulelor). Raza centrală pătrunde în jumătatea posterioară a toracelui. Dacă coloana vertebrală nu este ridicată la planul orizontal când pacientul se află în decubit, se angulează tubul astfel încât raza centrală să fie perpendiculară pe axa longitudinală a coloanei toracale, apoi se centrează la nivelul T7. O angulație cranială medie de 10 grade este suficientă la majoritatea pacientelor; o angulație medie de 15 grade este satisfăcătoare la majoritatea pacienților, din cauza lățimii mai mari a umerilor lor (Fig. 9.74). Fig. 9.75 prezintă poziționarea razei centrale pentru coloana toracală în ortostatism lateral.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** expunere poate fie made while pacientul continues la breathe normally, “Tehnică de estompare prin respirație superficială (respirație technique),” la blur pulmonary vascular markings și Coaste (Grilaj Costal) sau after respirație este suspended la end de expiration. When Tehnică de estompare prin respirație superficială (respirație technique) este used, pacientul trebuie să fie instructed nu la move during expunere. increased expunere time, preferably 2 la 3 seconds (cu corresponding decrease în mA), este needed la ensure pulmonary vasculature și Coaste (Grilaj Costal) will fie blurred.
+    - **Comandă Respiratorie:** Expunerea poate fi efectuată în timp ce pacientul continuă să respire normal, folosind „Tehnica de estompare prin respirație superficială (tehnica respirației)”, pentru a estompa desenul vascular pulmonar și coastele (grilajul costal), sau după menținerea apneei la sfârșitul expirului. Când se utilizează Tehnica de estompare prin respirație superficială (tehnica respirației), pacientul trebuie instruit să nu se miște în timpul expunerii. Este necesar un timp de expunere mai lung, preferabil de 2 la 3 secunde (cu scăderea corespunzătoare a mA), pentru a asigura estomparea vasculaturii pulmonare și a coastelor (grilajului costal).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -256,20 +245,20 @@ title: Rx Coloană Toracală — Incidență de Profil (Lateral) — Profil (Dre
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 7 × 17 inches (18 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field. Improving radiographic quality în addition la colimare strânsă, quality de radiographic imagine poate fie improved în several ways. A 48-inch (112-cm) sau greater SID este recommended la reduce magnification inherent în this imagine, because OID de Coloană Toracală este significant în this incidență. în addition, if sheet de leaded rubber este plasat pe masa de examinare behind pacientul (see Figs. 9.73 și 9.74), lead absorbs scatter radiation coming de la pacient și prevents table scatter de la afecting imagine. Scatter radiation decreases quality de radiografie și darkens imagine de procese spinoase. More important, cu automatic expunere control (AEC), scatter radiation coming de la pacient este often suficient la terminate expunere prematurely. resulting imagine poate fie underexposed because de efect de scatter radiation pe AEC device. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 7 × 17 inches (18 × 43 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. Îmbunătățirea calității radiografice: pe lângă colimarea strânsă, calitatea imaginii radiografice poate fi îmbunătățită în mai multe moduri. Se recomandă un SID de 48 inches (112 cm) sau mai mare pentru a reduce mărirea inerentă acestei imagini, deoarece OID-ul coloanei toracale este semnificativ în această incidență. În plus, dacă pe masa de examinare, în spatele pacientului, este plasată o folie de cauciuc plumbat (vezi Fig. 9.73 și 9.74), plumbul absoarbe radiația difuzată provenită de la pacient și împiedică radiația difuzată de masă să afecteze imaginea. Radiația difuzată reduce calitatea radiografiei și întunecă imaginea proceselor spinoase. Mai important, în cazul controlului automat al expunerii (AEC), radiația difuzată provenită de la pacient este adesea suficientă pentru a termina prematur expunerea. Imaginea rezultată poate fi subexpusă din cauza efectului radiației difuzate asupra dispozitivului AEC. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation, posterior field shielding și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - vertebre clar vizibil(e) through rib și lung shadows
-    - Twelve coloană toracală centrat pe receptorul de imagine. Superimposition de umerii pe upper vertebre poate cause underexposure în this area. number de vertebre visualized depends pe size și shape de pacientul. T1 la T3 sunt nu well seen.
-    - Coaste (Grilaj Costal) superimposed posteriorly la indicate that pacientul was nu rotit
-    - Open intervertebral disk spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Dovada colimării corecte, ecranarea posterioară a câmpului și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+    - Vertebre clar vizibile prin umbrele coastelor și plămânilor
+    - Cele douăsprezece vertebre toracale sunt centrate pe receptorul de imagine. Suprapunerea umerilor peste vertebrele superioare poate cauza subexpunerea acestei zone. Numărul vertebrelor vizualizate depinde de dimensiunile și conformația pacientului. T1 până la T3 nu se văd bine.
+    - Coastele suprapuse posterior indică faptul că pacientul nu a fost rotit
+    - Spații discale intervertebrale deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -289,41 +278,41 @@ title: Rx Coloană Toracală — Incidență de Profil (Lateral) — Profil (Dre
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 713, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p713_fig1.png)
+![Merrill — pagina 713, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p713_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 713, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 714, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 714, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 713, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 714, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig3.png)
+![Merrill — pagina 714, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 714, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 715, imaginea 4](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p715_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 715, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 714, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 716, imaginea 5](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p716_fig5.png)
+![Merrill — pagina 714, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p714_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 716, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 714, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 715, imaginea 4](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p715_fig4.png)
+
+<figcaption><strong>Merrill — pagina 715, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 716, imaginea 5](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-de-profil-lateral-right-or-left-position-p712-merrill/p716_fig5.png)
+
+<figcaption><strong>Merrill — pagina 716, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -340,71 +329,58 @@ title: Rx Coloană Toracală — Incidență de Profil (Lateral) — Profil (Dre
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 712–716](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=712)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 712–716](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-thoracic corpuri, intervertebral disk spaces, intervertebral foramina, și lower procese spinoase. Because de overlapping umeri, upper vertebre poate nu fie vizualizat în this poziție (Figs. 9.76 și 9.77). If upper thoracic area este de interest, swimmer’s lateral poate fie
-included cu examination. younger pacientul, easier it este la show upper thoracic corpuri.
+Corpurile vertebrale toracale, spațiile discale intervertebrale, foramenele intervertebrale și procesele spinoase inferioare. Din cauza suprapunerii umerilor, vertebrele superioare pot să nu fie vizualizate în această poziție (Fig. 9.76 și 9.77). Dacă regiunea toracică superioară este de interes, incidența de profil a înotătorului poate fi inclusă în examinare. Cu cât pacientul este mai tânăr, cu atât este mai ușor să fie evidențiate corpurile vertebrale toracale superioare.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la 7 × 17 inches (18 × 43 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field.
-Improving radiographic quality
-în addition la colimare strânsă, quality de radiographic imagine poate fie improved în several ways. A 48-inch (112-cm) sau greater SID este
-recommended la reduce magnification inherent în this imagine, because OID de thoracic coloană vertebrală este significant în this incidență. în addition,
-if sheet de leaded rubber este plasat pe masa de examinare behind pacientul (see Figs. 9.73 și 9.74), lead absorbs scatter radiation coming de la
-pacientul și prevents table scatter de la afecting imagine. Scatter radiation decreases quality de radiografie și darkens imagine de
-procese spinoase. More important, cu automatic expunere control (AEC), scatter radiation coming de la pacient este often suficient
-la terminate expunere prematurely. resulting imagine poate fie underexposed because de efect de scatter radiation pe AEC device.
+• Se ajustează câmpul de iradiere la 7 × 17 inches (18 × 43 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+Îmbunătățirea calității radiografice
+Pe lângă colimarea strânsă, calitatea imaginii radiografice poate fi îmbunătățită în mai multe moduri. Se recomandă un SID de 48 inches (112 cm) sau mai mare pentru a reduce mărirea inerentă acestei imagini, deoarece OID-ul coloanei toracale este semnificativ în această incidență. În plus, dacă pe masa de examinare, în spatele pacientului, este plasată o folie de cauciuc plumbat (vezi Fig. 9.73 și 9.74), plumbul absoarbe radiația difuzată provenită de la pacient și împiedică radiația difuzată de masă să afecteze imaginea. Radiația difuzată reduce calitatea radiografiei și întunecă imaginea proceselor spinoase. Mai important, în cazul controlului automat al expunerii (AEC), radiația difuzată provenită de la pacient este adesea suficientă pentru a termina prematur expunerea. Imaginea rezultată poate fi subexpusă din cauza efectului radiației difuzate asupra dispozitivului AEC.
 
-### cr
+### raza centrală
 
-• perpendicular pe centrul receptorului de imagine la nivelul T7 (inferior angles de scapulae). raza centrală enters posterior half de thorax.
-• If coloană vertebrală este nu ridicat la plan orizontal when pacientul este în recumbent poziție, angle tubul la direct raza centrală perpendicular pe axa longitudinală de thoracic column, și then center it la nivelul T7. average angle de 10 grade
-cranial este suficient în most female pacienți; average angle de 15 grade este satisfactory în most male pacienți because de their
-greater umăr width (Fig. 9.74). Fig. 9.75 shows positioning de raza centrală pentru în ortostatism lateral thoracic coloană vertebrală.
+• Perpendicular pe centrul receptorului de imagine, la nivelul T7 (unghiurile inferioare ale scapulelor). Raza centrală intră prin jumătatea posterioară a toracelui.
+• Dacă coloana vertebrală nu este ridicată în plan orizontal când pacientul se află în decubit, se angulează tubul pentru a direcționa raza centrală perpendicular pe axa longitudinală a coloanei toracale, apoi se centrează la nivelul T7. O angulație cranială medie de 10 grade este suficientă la majoritatea pacientelor; o angulație medie de 15 grade este satisfăcătoare la majoritatea pacienților, din cauza lățimii mai mari a umerilor acestora (Fig. 9.74). Fig. 9.75 prezintă poziționarea razei centrale pentru coloana toracală în profil, în ortostatism.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation, posterior field shielding și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• vertebre clar vizibil(e) through rib și lung shadows
-• Twelve coloană toracală centrat pe receptorul de imagine. Superimposition de umerii pe upper vertebre poate cause underexposure în
-this area. number de vertebre visualized depends pe size și shape de pacientul. T1 la T3 sunt nu well seen.
-• coaste superimposed posteriorly la indicate that pacientul was nu rotit
-• Open intervertebral disk spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Semne de colimare corectă, ecranarea câmpului posterior și prezența markerului de lateralitate (D/S), plasat în afara anatomiei de interes
+• Vertebre clar vizibile prin umbrele coastelor și ale plămânilor
+• Cele douăsprezece vertebre toracale sunt centrate pe receptorul de imagine. Suprapunerea umerilor peste vertebrele superioare poate cauza subexpunerea acestei zone. Numărul vertebrelor vizualizate depinde de dimensiunile și conformația pacientului. T1 până la T3 nu se văd bine.
+• Coaste suprapuse posterior, indicând că pacientul nu a fost rotit
+• Spații discale intervertebrale deschise
+• Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 ### part_pos
 
-• Place firm pillow under pacientul’s cap la keep axa longitudinală de coloană vertebrală orizontal.
-• se flectează pacient’s hips și genunchi la comfortable poziție.
-• Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above relaxat umeri. se centrează posterior half de thorax la linia mediană grilă și la nivelul T7 (Fig. 9.72). T7 este la inferior angle de scapulae.
-• cu pacientul’s genunchi exactly superimposed la prevent rotație de bazinul, small sponge sau cloth poate fie plasat între
-genunchi.
-• se ajustează pacient’s brațe în unghi drept față de axa longitudinală de corp la elevate coaste enough la clear intervertebral foramina.
-• If axa longitudinală de coloană vertebrală este nu orizontal, elevate lower sau upper thoracic region cu radiolucent support (Fig.
-9.73). This este preferred method.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se plasează o pernă fermă sub capul pacientului pentru a menține axa longitudinală a coloanei vertebrale orizontală.
+• Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă.
+• Se plasează marginea superioară a receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor relaxați. Se centrează jumătatea posterioară a toracelui pe linia mediană a grilei și la nivelul T7 (Fig. 9.72). T7 se află la nivelul unghiurilor inferioare ale scapulelor.
+• Cu genunchii pacientului exact suprapuși pentru a preveni rotația bazinului, se poate plasa un burete mic sau o bucată de material între genunchi.
+• Se ajustează brațele pacientului în unghi drept față de axa longitudinală a corpului pentru a ridica coastele suficient ca să elibereze foramenele intervertebrale.
+• Dacă axa longitudinală a coloanei vertebrale nu este orizontală, se ridică regiunea toracică inferioară sau superioară cu un suport radiotransparent (Fig. 9.73). Aceasta este metoda preferată.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în lateral recumbent poziție. (Note: Oppenheimer 17 also suСests use de ortostatism.)
-• If possible, use stâng poziție de profil (lateral) la place cordul closer la receptorul de imagine, which minimizes superimposition de vertebre prin heart.
-• Se instruiește pacientul să dressed în open-backed gown astfel încât coloană vertebrală poate fie exposed pentru adjustment de poziție.
+• Se așază pacientul în decubit lateral. (Notă: Oppenheimer 17 sugerează, de asemenea, utilizarea ortostatismului.)
+• Dacă este posibil, se utilizează incidența de profil (laterală) stângă pentru a plasa cordul mai aproape de receptorul de imagine, ceea ce minimizează suprapunerea vertebrelor prin cord.
+• Se instruiește pacientul să îmbrace un halat cu deschidere posterior, astfel încât coloana vertebrală să poată fi expusă pentru ajustarea poziției.
 
-### respiration
+### respirație
 
-expunere poate fie made while pacientul continues la breathe normally, “Tehnică de estompare prin respirație superficială (respirație technique),” la blur pulmonary vascular markings și coaste sau after respirație este suspended la end de expiration.
-• When Tehnică de estompare prin respirație superficială (respirație technique) este used, pacientul trebuie să fie instructed nu la move during expunere. increased expunere time,
-preferably 2 la 3 seconds (cu corresponding decrease în mA), este needed la ensure pulmonary vasculature și coaste will fie
-blurred.
+Expunerea poate fi efectuată în timp ce pacientul continuă să respire normal, prin „tehnica de estompare prin respirație superficială” (tehnica respirației), pentru a estompa desenul vascular pulmonar și coastele, sau după suspendarea respirației la sfârșitul expirului.
+• Când se utilizează tehnica de estompare prin respirație superficială (tehnica respirației), pacientul trebuie instruit să nu se miște în timpul expunerii. Pentru a asigura estomparea vaselor pulmonare și a coastelor este necesar un timp de expunere mai lung, preferabil de 2–3 seconds (cu scăderea corespunzătoare a mA).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

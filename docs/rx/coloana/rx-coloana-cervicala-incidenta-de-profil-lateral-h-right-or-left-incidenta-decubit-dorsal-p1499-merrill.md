@@ -1,59 +1,66 @@
 ---
 author: Referință Merrill
-breathing: Expir complet la obtain maximum depression de umerii.
+breathing: Expir complet pentru a obține depresiunea maximă a umerilor.
 category: coloana
-centering: orizontal și perpendicular pe center de grila. This trebuie să place raza
-  centrală la nivelul C4 (upper cartilaj tiroid (mărul lui Adam)). Make sure that
-  corect alignment de raza centrală și grilă este maintained în order la prevent grilă
-  cutof. Because de great object-la-receptorul de imagine distance (OID), SID de 60
-  la 72 inches (158 la 183 cm) este recommended. This also helps show C7.
+centering: orizontală și perpendiculară pe centrul grilei. Aceasta trebuie să plaseze
+  raza centrală la nivelul C4 (cartilajul tiroid superior (mărul lui Adam)). Asigurați-vă
+  că alinierea corectă a razei centrale și a grilei este menținută pentru a preveni
+  tăierea grilei. Din cauza distanței mari obiect–receptor de imagine (OID), SID de
+  60 la 72 inches (158 la 183 cm) este recomandat. Acest lucru ajută, de asemenea,
+  la evidențierea C7.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1501, imaginea 1
+- caption: Merrill — pagina 1501, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-cervicala-incidenta-de-profil-lateral-h-right-or-left-incidenta-decubit-dorsal-p1499-merrill/p1501_fig1.png
 last_updated: '2026-09-16'
 modality: rx
-notes: It este essential that C6 și C7 fie included pe imagine. la accomplish this,
-  radiographer trebuie să Se instruiește pacientul să relax umerii spre picioarele
-  ca much ca possible. If examination involves pulling down pe pacientul’s brațe,
-  radiographer trebuie să exercise extreme caution și evaluate pacientul’s condition
-  carefully la determine whether pulling de brațele poate fie tolerated. suspiciune
-  de fractură sau injuries de upper limbs, including clavicles, trebuie să fie considered.
-  Applying strong pull la brațele de pacient în hurried sau jerking manner poate disrupt
-  suspiciune de fracturăd Coloană Cervicală. If Incidență de Profil (lateral) does
-  nu adequately visualize lower cervical region, Twining method (sometimes referred
-  la ca “swimmer’s” poziție), which eliminates pulling de brațele, poate fie recommended
-  pentru pacienți who have experienced Traumatism / Regim Urgență sau have known cervical
-  suspiciune de fractură. One braț trebuie să fie plasat above pacientul’s cap (Twining
-  method este described în Chapter 9).
-position: se poziționează pacientul în Decubit dorsal poziție cu brațe extins down
-  along sides de corp. Observe whether cervical collar sau another imobilizare device
-  este being used. Do nu remove device fără consent de la physician sau authorized
-  personnel.; Ensure that upper torso, Coloană Cervicală, și cap sunt nu rotit. Place
-  grila longitudinal pe drept sau stâng side, paralel cu neck. Place top de grila
-  approximately 1 inch (2.43 cm) above conduct auditiv extern (CAE) (conduct auditiv
-  extern (CAE)) astfel încât grilă este centrat pe C4 (upper cartilaj tiroid (mărul
-  lui Adam)). Raise bărbia slightly. If pacientul has new Traumatism / Regim Urgență,
-  suspected suspiciune de fractură, sau known suspiciune de fractură de cervical region,
-  check cu physician before elevating bărbia. Improper movement de pacient’s cap poate
-  disrupt suspiciune de fracturăd Coloană Cervicală. se imobilizează grilă în vertical
-  poziție. grila poate fie imobilizat în multiple ways if menținerea device este unavailable.
-  Another method este la place pillows sau cushion între side rail de bed și receptorul
-  de imagine, menținerea receptorul de imagine next la pacientul. Tape also works
-  well în many instances (Fig. 20.25). Se instruiește pacientul să relax umerii și
-  reach pentru picioarele if possible. se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Este esențial ca C6 și C7 să fie incluse pe imagine. Pentru a realiza acest
+  lucru, radiograful trebuie să instruiască pacientul să-și relaxeze umerii spre picioare
+  cât mai mult posibil. Dacă examinarea implică tracționarea în jos a brațelor pacientului,
+  radiograful trebuie să manifeste o precauție extremă și să evalueze cu atenție starea
+  pacientului pentru a determina dacă tracționarea brațelor poate fi tolerată. Trebuie
+  luată în considerare suspiciunea de fractură sau de leziuni ale membrelor superioare,
+  inclusiv ale claviculelor. Aplicarea unei tracțiuni puternice asupra brațelor pacientului,
+  într-un mod grăbit sau prin smucire, poate agrava o suspiciune de fractură a coloanei
+  cervicale. Dacă incidența de profil nu vizualizează adecvat regiunea cervicală inferioară,
+  metoda Twining (denumită uneori poziția „înotătorului”), care elimină tracționarea
+  brațelor, poate fi recomandată pacienților care au suferit un traumatism / se află
+  în regim de urgență sau au o suspiciune cunoscută de fractură cervicală. Un braț
+  trebuie plasat deasupra capului pacientului (metoda Twining este descrisă în Capitolul
+  9).
+position: Se poziționează pacientul în decubit dorsal, cu brațele întinse în jos,
+  de-a lungul laturilor corpului. Se observă dacă este utilizat un guler cervical
+  sau un alt dispozitiv de imobilizare. Nu se îndepărtează dispozitivul fără acordul
+  medicului sau al personalului autorizat. Se asigură că trunchiul superior, coloana
+  cervicală și capul nu sunt rotite. Se plasează grila longitudinal, pe partea dreaptă
+  sau stângă, paralel cu gâtul. Se plasează partea superioară a grilei la aproximativ
+  1 inch (2.43 cm) deasupra conductului auditiv extern (CAE) (conduct auditiv extern
+  (CAE)), astfel încât grila să fie centrată pe C4 (cartilajul tiroid superior (mărul
+  lui Adam)). Se ridică ușor bărbia. Dacă pacientul a suferit un traumatism / se află
+  în regim de urgență, există suspiciune de fractură sau este cunoscută o fractură
+  a regiunii cervicale, se verifică cu medicul înainte de ridicarea bărbiei. Mișcarea
+  necorespunzătoare a capului pacientului poate agrava o suspiciune de fractură a
+  coloanei cervicale. Se imobilizează grila în poziție verticală. Grila poate fi imobilizată
+  în mai multe moduri dacă dispozitivul de menținere nu este disponibil. O altă metodă
+  constă în plasarea unor perne sau a unei pernițe între bara laterală a patului și
+  receptorul de imagine, menținând receptorul de imagine lângă pacient. Banda adezivă
+  funcționează, de asemenea, bine în multe situații (Fig. 20.25). Se instruiește pacientul
+  să-și relaxeze umerii și să întindă mâinile spre picioare, dacă este posibil. Se
+  efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- Evidence de corect collimation
-- toate seven coloană cervicală, including interspaces și procese spinoase
-- Neck extins when possible so that rami de Mandibulă sunt nu overlapping C1 sau C2
-- C4 în center de grilă
-- Radiographic markeri (ca appropriate)
-- Superimposed posterior margins de fiecare vertebral corp
+- 'Următoarele trebuie să fie clar vizualizate:'
+- Dovada unei colimări corecte
+- toate cele seven vertebre cervicale, inclusiv spațiile intervertebrale și procesele
+  spinoase
+- Gâtul extins, când este posibil, astfel încât ramurile mandibulei să nu se suprapună
+  peste C1 sau C2
+- C4 în centrul grilei
+- Markeri radiografici (după caz)
+- Marginile posterioare suprapuse ale fiecărui corp vertebral
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-coloana-cervicala-incidenta-de-profil-lateral-h-right-or-left-incidenta-decubit-dorsal-p1499-merrill
 source_pages:
@@ -63,110 +70,109 @@ source_pages:
 - 1502
 - 1503
 source_sections:
-  anatomy: This incidență shows seven coloană cervicală, including base de craniul
-    și soft tissues surrounding gâtul (Fig. 20.26).
-  collimation: '• se ajustează top de ear attachment (TEA), bottom la incizură jugulară
-    (furculiță sternală), și 1 inch (2.5 cm) pe sides de gâtul.
+  anatomy: Această incidență evidențiază cele seven vertebre cervicale, inclusiv baza
+    craniului și țesuturile moi din jurul gâtului (Fig. 20.26).
+  collimation: '• Se ajustează partea superioară la nivelul atașamentului auricular
+    (TEA), partea inferioară la nivelul incizurii jugulare (furculița sternală) și
+    la 1 inch (2.5 cm) de fiecare parte a gâtului.
 
-    DIGITAL radiografie
+    RADIOGRAFIE DIGITALĂ
 
-    la ensure that lower coloană cervicală sunt fully penetrated, kVp trebuie să fie
-    set la penetrate C7 area.'
-  cr: '• orizontal și perpendicular pe center de grila. This trebuie să place raza
-    centrală la nivelul C4 (upper cartilaj tiroid (mărul lui Adam)).
+    Pentru a asigura penetrarea completă a coloanei cervicale inferioare, kVp trebuie
+    setat astfel încât să penetreze regiunea C7.'
+  cr: '• orizontală și perpendiculară pe centrul grilei. Aceasta trebuie să plaseze
+    raza centrală la nivelul C4 (cartilajul tiroid superior (mărul lui Adam)).
 
-    • Make sure that corect alignment de raza centrală și grilă este maintained în
-    order la prevent grilă cutof.
+    • Asigurați-vă că alinierea corectă a razei centrale și a grilei este menținută
+    pentru a preveni tăierea grilei.
 
-    • Because de great object-la-receptorul de imagine distance (OID), SID de 60 la
-    72 inches (158 la 183 cm) este recommended. This also helps
+    • Din cauza distanței mari obiect–receptor de imagine (OID), SID de 60 la 72 inches
+    (158 la 183 cm) este recomandat. Acest lucru ajută, de asemenea,
 
-    show C7.'
-  criteria: 'following trebuie să fie clearly vizualizat:
+    la evidențierea C7.'
+  criteria: 'următoarele trebuie să fie vizualizate clar:
 
-    • Evidence de corect collimation
+    • Dovada unei colimări corecte
 
-    • toate seven coloană cervicală, including interspaces și procese spinoase
+    • toate cele seven vertebre cervicale, inclusiv spațiile intervertebrale și procesele
+    spinoase
 
-    • Neck extins when possible so that rami de mandible sunt nu overlapping C1 sau
-    C2
+    • Gâtul extins, când este posibil, astfel încât ramurile mandibulei să nu se suprapună
+    peste C1 sau C2
 
-    • C4 în center de grilă
+    • C4 în centrul grilei
 
-    • Radiographic markeri (ca appropriate)
+    • Markeri radiografici (după caz)
 
-    • Superimposed posterior margins de fiecare vertebral corp'
-  notes: 'It este essential that C6 și C7 fie included pe imagine. la accomplish this,
-    radiographer trebuie să Se instruiește pacientul să relax umeri spre picioarele
-    ca much ca possible. If examination involves pulling down pe pacientul’s brațe,
-    radiographer trebuie să exercise
+    • Marginile posterioare suprapuse ale fiecărui corp vertebral'
+  notes: Este esențial ca C6 și C7 să fie incluse pe imagine. Pentru a realiza acest
+    lucru, radiograful trebuie să instruiască pacientul să-și relaxeze umerii spre
+    picioare cât mai mult posibil. Dacă examinarea implică tracționarea în jos a brațelor
+    pacientului, radiograful trebuie să manifeste o precauție extremă și să evalueze
+    cu atenție starea pacientului pentru a determina dacă tracționarea brațelor poate
+    fi tolerată. Trebuie luată în considerare suspiciunea de fractură sau de leziuni
+    ale membrelor superioare, inclusiv ale claviculelor. Aplicarea unei tracțiuni
+    puternice asupra brațelor pacientului, într-un mod grăbit sau prin smucire, poate
+    agrava o suspiciune de fractură a coloanei cervicale. Dacă incidența laterală
+    nu vizualizează adecvat regiunea cervicală inferioară, metoda Twining (denumită
+    uneori poziția „înotătorului”), care elimină tracționarea brațelor, poate fi recomandată
+    pacienților care au suferit un traumatism sau au o suspiciune cunoscută de fractură
+    cervicală. Un braț trebuie plasat deasupra capului pacientului (metoda Twining
+    este descrisă în Capitolul 9).
+  part_pos: '• Se asigură că trunchiul superior, coloana cervicală și capul nu sunt
+    rotite.
 
-    extreme caution și evaluate pacientul’s condition carefully la determine whether
-    pulling de brațele poate fie tolerated. suspiciune de fractură sau injuries de
+    • Se plasează grila longitudinal, pe partea dreaptă sau stângă, paralel cu gâtul.
 
-    upper limbs, including clavicles, trebuie să fie considered. Applying strong pull
-    la brațele de pacient în hurried sau jerking manner poate
+    • Se plasează partea superioară a grilei la aproximativ 1 inch (2.43 cm) deasupra
+    conductului auditiv extern (CAE) (conduct auditiv extern (CAE)), astfel încât
+    grila să fie centrată pe C4
 
-    disrupt suspiciune de fracturăd cervical coloană vertebrală. If lateral incidență
-    does nu adequately visualize lower cervical region, Twining method (sometimes
+    (cartilajul tiroid superior (mărul lui Adam)).
 
-    referred la ca “swimmer’s” poziție), which eliminates pulling de brațele, poate
-    fie recommended pentru pacienți who have experienced trauma sau
+    • Se ridică ușor bărbia. Dacă pacientul a suferit un traumatism, există suspiciune
+    de fractură sau este cunoscută o fractură a regiunii cervicale, se verifică cu
+    medicul înainte de
 
-    have known cervical suspiciune de fractură. One braț trebuie să fie plasat above
-    pacientul’s cap (Twining method este described în Chapter 9).'
-  part_pos: '• Ensure that upper torso, cervical coloană vertebrală, și cap sunt nu
-    rotit.
+    ridicarea bărbiei. Mișcarea necorespunzătoare a capului pacientului poate agrava
+    o suspiciune de fractură a coloanei cervicale.
 
-    • Place grila longitudinal pe drept sau stâng side, paralel cu neck.
+    • Se imobilizează grila în poziție verticală. Grila poate fi imobilizată în mai
+    multe moduri dacă dispozitivul de menținere nu este disponibil. O altă
 
-    • Place top de grila approximately 1 inch (2.43 cm) above conduct auditiv extern
-    (CAE) (conduct auditiv extern (CAE)) astfel încât grilă este centrat pe C4
+    metodă constă în plasarea unor perne sau a unei pernițe între bara laterală a
+    patului și receptorul de imagine, menținând receptorul de imagine lângă pacient.
+    Banda adezivă funcționează, de asemenea,
 
-    (upper cartilaj tiroid (mărul lui Adam)).
+    bine în multe situații (Fig. 20.25).
 
-    • Raise bărbia slightly. If pacientul has new trauma, suspected suspiciune de
-    fractură, sau known suspiciune de fractură de cervical region, check cu physician
-    before
+    • Se instruiește pacientul să-și relaxeze umerii și să întindă mâinile spre picioare,
+    dacă este posibil.
 
-    elevating bărbia. Improper movement de pacient’s cap poate disrupt suspiciune
-    de fracturăd cervical coloană vertebrală.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se poziționează pacientul în decubit dorsal, cu brațele întinse
+    în jos, de-a lungul laturilor corpului.
 
-    • se imobilizează grilă în vertical poziție. grila poate fie imobilizat în multiple
-    ways if menținerea device este unavailable. Another
-
-    method este la place pillows sau cushion între side rail de bed și receptorul
-    de imagine, menținerea receptorul de imagine next la pacientul. Tape also works
-
-    well în many instances (Fig. 20.25).
-
-    • Se instruiește pacientul să relax umerii și reach pentru picioarele if possible.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se poziționează pacientul în decubit dorsal cu brațe extins down
-    along sides de corp.
-
-    • Observe whether cervical collar sau another imobilizare device este being used.
-    Do nu remove device fără consent de la physician sau authorized personnel.'
-  respiration: Expir complet la obtain maximum depression de umerii.
-  tech: 'receptorul de imagine trebuie să fie 10 × 12 inches (24 × 30 cm) cu grilă
-    longitudinal; imaging poate fie performed cu nongrid receptorul de imagine pe
-    smaller
-
-    pacienți.'
+    • Se observă dacă este utilizat un guler cervical sau un alt dispozitiv de imobilizare.
+    Nu se îndepărtează dispozitivul fără acordul medicului sau al personalului autorizat.'
+  respiration: Expir complet pentru a obține depresiunea maximă a umerilor.
+  tech: Receptorul de imagine trebuie să fie de 10 × 12 inches (24 × 30 cm), cu grilă
+    longitudinală; imagistica poate fi efectuată cu un receptor de imagine fără grilă
+    la pacienții mai mici.
 sources:
-- title: Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1499–1503
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1499
+- title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1499–1503
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează top de ear attachment (TEA), bottom la incizură jugulară
-    (furculiță sternală), și 1 inch (2.5 cm) pe sides de gâtul. DIGITAL radiografie
-    la ensure that lower coloană cervicală sunt fully penetrated, kVp trebuie să fie
-    set la penetrate C7 area.
-title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or left Incidență
-  Decubit Dorsal (Merrill)
+  collimation: Se ajustează partea superioară la nivelul atașamentului auricular (TEA),
+    partea inferioară la nivelul incizurii jugulare (furculița sternală) și la 1 inch
+    (2.5 cm) de fiecare parte a gâtului. RADIOGRAFIE DIGITALĂ Pentru a asigura penetrarea
+    completă a coloanei cervicale inferioare, kVp trebuie setat astfel încât să penetreze
+    regiunea C7.
+title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Dreapta sau stânga
+  Incidență în Decubit Dorsal (Merrill)
 ---
-# Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or left Incidență Decubit Dorsal (Merrill)
+# Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Dreapta sau stânga Incidență în Decubit Dorsal (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -199,10 +205,10 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul în Decubit dorsal poziție cu brațe extins down along sides de corp. Observe whether cervical collar sau another imobilizare device este being used. Do nu remove device fără consent de la physician sau authorized personnel.; Ensure that upper torso, Coloană Cervicală, și cap sunt nu rotit. Place grila longitudinal pe drept sau stâng side, paralel cu neck. Place top de grila approximately 1 inch (2.43 cm) above conduct auditiv extern (CAE) (conduct auditiv extern (CAE)) astfel încât grilă este centrat pe C4 (upper cartilaj tiroid (mărul lui Adam)). Raise bărbia slightly. If pacientul has new Traumatism / Regim Urgență, suspected suspiciune de fractură, sau known suspiciune de fractură de cervical region, check cu physician before elevating bărbia. Improper movement de pacient’s cap poate disrupt suspiciune de fracturăd Coloană Cervicală. se imobilizează grilă în vertical poziție. grila poate fie imobilizat în multiple ways if menținerea device este unavailable. Another method este la place pillows sau cushion între side rail de bed și receptorul de imagine, menținerea receptorul de imagine next la pacientul. Tape also works well în many instances (Fig. 20.25). Se instruiește pacientul să relax umerii și reach pentru picioarele if possible. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orizontal și perpendicular pe center de grila. This trebuie să place raza centrală la nivelul C4 (upper cartilaj tiroid (mărul lui Adam)). Make sure that corect alignment de raza centrală și grilă este maintained în order la prevent grilă cutof. Because de great object-la-receptorul de imagine distance (OID), SID de 60 la 72 inches (158 la 183 cm) este recommended. This also helps show C7.
+    - **Poziție Pacient:** Se poziționează pacientul în decubit dorsal, cu brațele întinse în jos, de-a lungul laturilor corpului. Se observă dacă este utilizat un guler cervical sau un alt dispozitiv de imobilizare. Nu se îndepărtează dispozitivul fără acordul medicului sau al personalului autorizat. Se asigură că trunchiul superior, coloana cervicală și capul nu sunt rotite. Se plasează grila longitudinal, pe partea dreaptă sau stângă, paralel cu gâtul. Se plasează partea superioară a grilei la aproximativ 1 inch (2.43 cm) deasupra conductului auditiv extern (CAE) (conduct auditiv extern (CAE)), astfel încât grila să fie centrată pe C4 (cartilajul tiroid superior (mărul lui Adam)). Se ridică ușor bărbia. Dacă pacientul a suferit un traumatism / se află în regim de urgență, există suspiciune de fractură sau este cunoscută o fractură a regiunii cervicale, se verifică cu medicul înainte de ridicarea bărbiei. Mișcarea necorespunzătoare a capului pacientului poate agrava o suspiciune de fractură a coloanei cervicale. Se imobilizează grila în poziție verticală. Grila poate fi imobilizată în mai multe moduri dacă dispozitivul de menținere nu este disponibil. O altă metodă constă în plasarea unor perne sau a unei pernițe între bara laterală a patului și receptorul de imagine, menținând receptorul de imagine lângă pacient. Banda adezivă funcționează, de asemenea, bine în multe situații (Fig. 20.25). Se instruiește pacientul să-și relaxeze umerii și să întindă mâinile spre picioare, dacă este posibil. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orizontală și perpendiculară pe centrul grilei. Aceasta trebuie să plaseze raza centrală la nivelul C4 (cartilajul tiroid superior (mărul lui Adam)). Asigurați-vă că alinierea corectă a razei centrale și a grilei este menținută pentru a preveni tăierea grilei. Din cauza distanței mari obiect–receptor de imagine (OID), SID de 60 la 72 inches (158 la 183 cm) este recomandat. Acest lucru ajută, de asemenea, la evidențierea C7.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Expir complet la obtain maximum depression de umerii.
+    - **Comandă Respiratorie:** Expir complet pentru a obține depresiunea maximă a umerilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -216,20 +222,20 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează top de ear attachment (TEA), bottom la incizură jugulară (furculiță sternală), și 1 inch (2.5 cm) pe sides de gâtul. DIGITAL radiografie la ensure that lower coloană cervicală sunt fully penetrated, kVp trebuie să fie set la penetrate C7 area. |
+    | **Colimare Fascicul** | Se ajustează partea superioară la nivelul atașamentului auricular (TEA), partea inferioară la nivelul incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) de fiecare parte a gâtului. RADIOGRAFIE DIGITALĂ Pentru a asigura penetrarea completă a coloanei cervicale inferioare, kVp trebuie setat astfel încât să penetreze regiunea C7. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - Evidence de corect collimation
-    - toate seven coloană cervicală, including interspaces și procese spinoase
-    - Neck extins when possible so that rami de Mandibulă sunt nu overlapping C1 sau C2
-    - C4 în center de grilă
-    - Radiographic markeri (ca appropriate)
-    - Superimposed posterior margins de fiecare vertebral corp
+    - Următoarele trebuie să fie clar vizualizate:
+    - Dovada unei colimări corecte
+    - toate cele seven vertebre cervicale, inclusiv spațiile intervertebrale și procesele spinoase
+    - Gâtul extins, când este posibil, astfel încât ramurile mandibulei să nu se suprapună peste C1 sau C2
+    - C4 în centrul grilei
+    - Markeri radiografici (după caz)
+    - Marginile posterioare suprapuse ale fiecărui corp vertebral
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -240,7 +246,7 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    It este essential that C6 și C7 fie included pe imagine. la accomplish this, radiographer trebuie să Se instruiește pacientul să relax umerii spre picioarele ca much ca possible. If examination involves pulling down pe pacientul’s brațe, radiographer trebuie să exercise extreme caution și evaluate pacientul’s condition carefully la determine whether pulling de brațele poate fie tolerated. suspiciune de fractură sau injuries de upper limbs, including clavicles, trebuie să fie considered. Applying strong pull la brațele de pacient în hurried sau jerking manner poate disrupt suspiciune de fracturăd Coloană Cervicală. If Incidență de Profil (lateral) does nu adequately visualize lower cervical region, Twining method (sometimes referred la ca “swimmer’s” poziție), which eliminates pulling de brațele, poate fie recommended pentru pacienți who have experienced Traumatism / Regim Urgență sau have known cervical suspiciune de fractură. One braț trebuie să fie plasat above pacientul’s cap (Twining method este described în Chapter 9).
+    Este esențial ca C6 și C7 să fie incluse pe imagine. Pentru a realiza acest lucru, radiograful trebuie să instruiască pacientul să-și relaxeze umerii spre picioare cât mai mult posibil. Dacă examinarea implică tracționarea în jos a brațelor pacientului, radiograful trebuie să manifeste o precauție extremă și să evalueze cu atenție starea pacientului pentru a determina dacă tracționarea brațelor poate fi tolerată. Trebuie luată în considerare suspiciunea de fractură sau de leziuni ale membrelor superioare, inclusiv ale claviculelor. Aplicarea unei tracțiuni puternice asupra brațelor pacientului, într-un mod grăbit sau prin smucire, poate agrava o suspiciune de fractură a coloanei cervicale. Dacă incidența de profil nu vizualizează adecvat regiunea cervicală inferioară, metoda Twining (denumită uneori poziția „înotătorului”), care elimină tracționarea brațelor, poate fi recomandată pacienților care au suferit un traumatism / se află în regim de urgență sau au o suspiciune cunoscută de fractură cervicală. Un braț trebuie plasat deasupra capului pacientului (metoda Twining este descrisă în Capitolul 9).
 
 
 ### 🖼️ Imagini
@@ -249,9 +255,9 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1501, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-cervicala-incidenta-de-profil-lateral-h-right-or-left-incidenta-decubit-dorsal-p1499-merrill/p1501_fig1.png)
+![Merrill — pagina 1501, imaginea 1](../../assets/images/protocols/merrill/rx-coloana-cervicala-incidenta-de-profil-lateral-h-right-or-left-incidenta-decubit-dorsal-p1499-merrill/p1501_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1501, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1501, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -268,71 +274,65 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) h — Right or
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1499–1503](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1499)
+- [Merrill’s Atlas, 20. Mobile Radiography, pagini 1499–1503](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-This incidență shows seven coloană cervicală, including base de craniul și soft tissues surrounding gâtul (Fig. 20.26).
+Această incidență evidențiază cele seven vertebre cervicale, inclusiv baza craniului și țesuturile moi din jurul gâtului (Fig. 20.26).
 
-### collimation
+### colimare
 
-• se ajustează top de ear attachment (TEA), bottom la incizură jugulară (furculiță sternală), și 1 inch (2.5 cm) pe sides de gâtul.
-DIGITAL radiografie
-la ensure that lower coloană cervicală sunt fully penetrated, kVp trebuie să fie set la penetrate C7 area.
+• Se ajustează partea superioară la nivelul atașamentului auricular (TEA), partea inferioară la nivelul incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) de fiecare parte a gâtului.
+RADIOGRAFIE DIGITALĂ
+Pentru a asigura penetrarea completă a coloanei cervicale inferioare, kVp trebuie setat astfel încât să penetreze regiunea C7.
 
-### cr
+### raza centrală
 
-• orizontal și perpendicular pe center de grila. This trebuie să place raza centrală la nivelul C4 (upper cartilaj tiroid (mărul lui Adam)).
-• Make sure that corect alignment de raza centrală și grilă este maintained în order la prevent grilă cutof.
-• Because de great object-la-receptorul de imagine distance (OID), SID de 60 la 72 inches (158 la 183 cm) este recommended. This also helps
-show C7.
+• orizontală și perpendiculară pe centrul grilei. Aceasta trebuie să plaseze raza centrală la nivelul C4 (cartilajul tiroid superior (mărul lui Adam)).
+• Asigurați-vă că alinierea corectă a razei centrale și a grilei este menținută pentru a preveni tăierea grilei.
+• Din cauza distanței mari obiect–receptor de imagine (OID), SID de 60 la 72 inches (158 la 183 cm) este recomandat. Acest lucru ajută, de asemenea,
+la evidențierea C7.
 
-### criteria
+### criterii
 
-following trebuie să fie clearly vizualizat:
-• Evidence de corect collimation
-• toate seven coloană cervicală, including interspaces și procese spinoase
-• Neck extins when possible so that rami de mandible sunt nu overlapping C1 sau C2
-• C4 în center de grilă
-• Radiographic markeri (ca appropriate)
-• Superimposed posterior margins de fiecare vertebral corp
+următoarele trebuie să fie vizualizate clar:
+• Dovada unei colimări corecte
+• toate cele seven vertebre cervicale, inclusiv spațiile intervertebrale și procesele spinoase
+• Gâtul extins, când este posibil, astfel încât ramurile mandibulei să nu se suprapună peste C1 sau C2
+• C4 în centrul grilei
+• Markeri radiografici (după caz)
+• Marginile posterioare suprapuse ale fiecărui corp vertebral
 
-### notes
+### note
 
-It este essential that C6 și C7 fie included pe imagine. la accomplish this, radiographer trebuie să Se instruiește pacientul să relax umeri spre picioarele ca much ca possible. If examination involves pulling down pe pacientul’s brațe, radiographer trebuie să exercise
-extreme caution și evaluate pacientul’s condition carefully la determine whether pulling de brațele poate fie tolerated. suspiciune de fractură sau injuries de
-upper limbs, including clavicles, trebuie să fie considered. Applying strong pull la brațele de pacient în hurried sau jerking manner poate
-disrupt suspiciune de fracturăd cervical coloană vertebrală. If lateral incidență does nu adequately visualize lower cervical region, Twining method (sometimes
-referred la ca “swimmer’s” poziție), which eliminates pulling de brațele, poate fie recommended pentru pacienți who have experienced trauma sau
-have known cervical suspiciune de fractură. One braț trebuie să fie plasat above pacientul’s cap (Twining method este described în Chapter 9).
+Este esențial ca C6 și C7 să fie incluse pe imagine. Pentru a realiza acest lucru, radiograful trebuie să instruiască pacientul să-și relaxeze umerii spre picioare cât mai mult posibil. Dacă examinarea implică tracționarea în jos a brațelor pacientului, radiograful trebuie să manifeste o precauție extremă și să evalueze cu atenție starea pacientului pentru a determina dacă tracționarea brațelor poate fi tolerată. Trebuie luată în considerare suspiciunea de fractură sau de leziuni ale membrelor superioare, inclusiv ale claviculelor. Aplicarea unei tracțiuni puternice asupra brațelor pacientului, într-un mod grăbit sau prin smucire, poate agrava o suspiciune de fractură a coloanei cervicale. Dacă incidența laterală nu vizualizează adecvat regiunea cervicală inferioară, metoda Twining (denumită uneori poziția „înotătorului”), care elimină tracționarea brațelor, poate fi recomandată pacienților care au suferit un traumatism sau au o suspiciune cunoscută de fractură cervicală. Un braț trebuie plasat deasupra capului pacientului (metoda Twining este descrisă în Capitolul 9).
 
 ### part_pos
 
-• Ensure that upper torso, cervical coloană vertebrală, și cap sunt nu rotit.
-• Place grila longitudinal pe drept sau stâng side, paralel cu neck.
-• Place top de grila approximately 1 inch (2.43 cm) above conduct auditiv extern (CAE) (conduct auditiv extern (CAE)) astfel încât grilă este centrat pe C4
-(upper cartilaj tiroid (mărul lui Adam)).
-• Raise bărbia slightly. If pacientul has new trauma, suspected suspiciune de fractură, sau known suspiciune de fractură de cervical region, check cu physician before
-elevating bărbia. Improper movement de pacient’s cap poate disrupt suspiciune de fracturăd cervical coloană vertebrală.
-• se imobilizează grilă în vertical poziție. grila poate fie imobilizat în multiple ways if menținerea device este unavailable. Another
-method este la place pillows sau cushion între side rail de bed și receptorul de imagine, menținerea receptorul de imagine next la pacientul. Tape also works
-well în many instances (Fig. 20.25).
-• Se instruiește pacientul să relax umerii și reach pentru picioarele if possible.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se asigură că trunchiul superior, coloana cervicală și capul nu sunt rotite.
+• Se plasează grila longitudinal, pe partea dreaptă sau stângă, paralel cu gâtul.
+• Se plasează partea superioară a grilei la aproximativ 1 inch (2.43 cm) deasupra conductului auditiv extern (CAE) (conduct auditiv extern (CAE)), astfel încât grila să fie centrată pe C4
+(cartilajul tiroid superior (mărul lui Adam)).
+• Se ridică ușor bărbia. Dacă pacientul a suferit un traumatism, există suspiciune de fractură sau este cunoscută o fractură a regiunii cervicale, se verifică cu medicul înainte de
+ridicarea bărbiei. Mișcarea necorespunzătoare a capului pacientului poate agrava o suspiciune de fractură a coloanei cervicale.
+• Se imobilizează grila în poziție verticală. Grila poate fi imobilizată în mai multe moduri dacă dispozitivul de menținere nu este disponibil. O altă
+metodă constă în plasarea unor perne sau a unei pernițe între bara laterală a patului și receptorul de imagine, menținând receptorul de imagine lângă pacient. Banda adezivă funcționează, de asemenea,
+bine în multe situații (Fig. 20.25).
+• Se instruiește pacientul să-și relaxeze umerii și să întindă mâinile spre picioare, dacă este posibil.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se poziționează pacientul în decubit dorsal cu brațe extins down along sides de corp.
-• Observe whether cervical collar sau another imobilizare device este being used. Do nu remove device fără consent de la physician sau authorized personnel.
+• Se poziționează pacientul în decubit dorsal, cu brațele întinse în jos, de-a lungul laturilor corpului.
+• Se observă dacă este utilizat un guler cervical sau un alt dispozitiv de imobilizare. Nu se îndepărtează dispozitivul fără acordul medicului sau al personalului autorizat.
 
-### respiration
+### respirație
 
-Expir complet la obtain maximum depression de umerii.
+Expir complet pentru a obține depresiunea maximă a umerilor.
 
-### tech
+### tehnică
 
-receptorul de imagine trebuie să fie 10 × 12 inches (24 × 30 cm) cu grilă longitudinal; imaging poate fie performed cu nongrid receptorul de imagine pe smaller
-pacienți.
+Receptorul de imagine trebuie să fie de 10 × 12 inches (24 × 30 cm), cu grilă longitudinală; imagistica poate fi efectuată cu un receptor de imagine fără grilă la pacienții mai mici.
 

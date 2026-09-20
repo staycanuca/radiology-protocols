@@ -11,7 +11,7 @@ clinical_indications:
 - Screening scolioză toracală
 images:
 - author: Adobe
-  caption: Radiografie coloana toracala fata
+  caption: Radiografie coloană toracală față
   description: Adobe · CC · https://as1.ftcdn.net
   license: CC
   source_url: https://as1.ftcdn.net
@@ -22,14 +22,14 @@ iris_reference:
   recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: Efectul de toc (anode heel effect) poate fi utilizat orientând catodul spre
-  partea inferioară toracelui pentru o densitate mai uniformă.
+notes: Efectul de toc poate fi utilizat orientând catodul spre partea inferioară a
+  toracelui pentru o densitate mai uniformă.
 position: AP în ortostatism sau decubit dorsal; profil în ortostatism ori adaptat
   stării pacientului. În traumatism, fără mobilizare forțată, cu tehnică cu rază orizontală
   când este indicată.
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare laterală strânsă
 quality_criteria:
 - Includerea tuturor celor 12 vertebre toracale (T1 la T12)
@@ -77,11 +77,10 @@ sources:
   kind: Document local (PDF)
   local_file_ref: a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf
   local_filename: Merrill’s_Atlas_of_Radiographic_Positioning_&_Procedures_3Vol_Set.pdf
-  resolved_url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf
+  resolved_url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
   sha256: a56d45c1682919a718eb3fff86eac59185f30ee029ea026ad738a2d1f0fdc37d
-  source_region: Local / Instituțional
-  title: Merrill’s_Atlas_of_Radiographic_Positioning_&_Procedures_3Vol_Set.pdf
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf
+  title: Merrill’s Atlas of Radiographic Positioning & Procedures
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 tech_params:
   aec_chambers: Camera centrală activată
   collimation: Longitudinală strictă pe lățimea corpilor vertebrali (aprox. 15 cm)
@@ -167,13 +166,13 @@ workbench_review:
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare laterală strânsă
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Efectul de toc (anode heel effect) poate fi utilizat orientând catodul spre partea inferioară toracelui pentru o densitate mai uniformă.
+    Efectul de toc poate fi utilizat orientând catodul spre partea inferioară a toracelui pentru o densitate mai uniformă.
 
 
 ### 🖼️ Imagini
@@ -182,9 +181,9 @@ workbench_review:
 
 <figure class="protocol-image-card" markdown>
 
-![Radiografie coloana toracala fata](../../assets/images/protocols/workbench/bf7a7af56991020564f75aae795c450b3beece5e44ff4929b88b0772bb67bd95.jpg)
+![Radiografie coloană toracală față](../../assets/images/protocols/workbench/bf7a7af56991020564f75aae795c450b3beece5e44ff4929b88b0772bb67bd95.jpg)
 
-<figcaption><strong>Radiografie coloana toracala fata</strong> — <span>Adobe · CC · https://as1.ftcdn.net</span></figcaption>
+<figcaption><strong>Radiografie coloană toracală față</strong> — <span>Adobe · CC · https://as1.ftcdn.net</span></figcaption>
 
 </figure>
 
@@ -204,4 +203,4 @@ workbench_review:
 - [Comisia Europeană (EUR 16260) — Criterii de calitate în radiodiagnostic](https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925)
 - [ACR-SPR Practice Parameter for General Radiography (Digital Radiography)](https://www.acr.org/-/media/ACR/Files/Practice-Parameters/GeneralRad.pdf)
 - [Radiopaedia — X-ray Positioning and Projections Reference](https://radiopaedia.org/articles/x-ray-positioning-and-projections-1)
-- [Merrill’s_Atlas_of_Radiographic_Positioning_&_Procedures_3Vol_Set.pdf](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf)
+- [Merrill’s Atlas of Radiographic Positioning & Procedures](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)

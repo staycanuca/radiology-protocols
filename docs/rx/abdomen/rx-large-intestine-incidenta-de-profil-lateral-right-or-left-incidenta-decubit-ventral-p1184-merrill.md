@@ -2,91 +2,93 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: abdomen
-centering: Horizon̍ al și perpendicular pe receptorul de imagine (RI) la enter planul
-  mediocoronal de corp la nivelul crestele iliace.
+centering: Orizontală și perpendiculară pe receptorul de imagine (RI), pentru a pătrunde
+  în planul mediocoronal al corpului la nivelul crestelor iliace.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1185, imaginea 1
+- caption: Merrill — pagina 1185, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-ventral-p1184-merrill/p1185_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție cu drept side sau stâng side
-  pe / sprijinit de stativ vertical Bucky.; Elevate pacientul pe radiolucent support,
-  și se centrează plan mediocoronal la grila. se ajustează center de receptorul de
-  imagine la nivelul crestele iliace (Fig. 15.142A). se efectuează ecranarea gonadelor
+position: Se așază pacientul în decubit ventral, cu partea dreaptă sau stângă sprijinită
+  de stativul vertical Bucky. Se ridică pacientul pe un suport radiotransparent și
+  se centrează planul mediocoronal la grilă. Se ajustează centrul receptorului de
+  imagine la nivelul crestelor iliace (Fig. 15.142A). se efectuează ecranarea gonadelor
   cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Area de la flexures la rectum
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-- pentru single-contrast examinations, adecvat penetration de barium; pentru double-contrast
-  examinations, air-inflated portion de intestin gros (colon) este de primary importance
-  și trebuie să nu fie overpenetrated
-- Enema tip removed pentru unobstructed imagine de rectum (see Fig. 15.142C)
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Regiunea de la flexuri până la rect
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+- Pentru examinările cu contrast simplu, penetrarea adecvată a bariului; pentru examinările
+  cu dublu contrast, porțiunea intestinului gros (colon) destinsă cu aer are importanță
+  primordială și nu trebuie să fie penetrată excesiv
+- Canula de clismă îndepărtată pentru o imagine neobstrucționată a rectului (vezi
+  Fig. 15.142C)
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-large-intestine-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-ventral-p1184-merrill
 source_pages:
 - 1184
 - 1185
 source_sections:
-  anatomy: ventral decubit poziție shows lateral incidență de contrast-filled intestin
-    gros (colon). This poziție best shows “up” posterior portions de intestin gros
-    (colon) și este most valuable în double-contrast examinations (see Fig. 15.142B).
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar
-
-    de skin. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • Horizon̍ al și perpendicular pe receptorul de imagine (RI) la enter planul
-    mediocoronal de corp la nivelul crestele iliace.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Poziția de decubit ventral evidențiază în incidență de profil intestinul
+    gros (colon) umplut cu substanță de contrast. Această poziție evidențiază cel
+    mai bine porțiunile posterioare, situate „sus”, ale intestinului gros (colon)
+    și este deosebit de utilă în examinările cu dublu contrast (vezi Fig. 15.142B).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Orizontală și perpendiculară pe receptorul de imagine (RI), pentru a pătrunde
+    în planul mediocoronal al corpului la nivelul crestelor iliace.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Area de la flexures la rectum
+    • Regiunea de la flexuri până la rect
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
 
-    • pentru single-contrast examinations, adecvat penetration de barium; pentru double-contrast
-    examinations, air-inflated portion de intestin gros (colon) este de primary importance
-    și trebuie să nu fie overpenetrated
+    • Pentru examinările cu contrast simplu, penetrarea adecvată a bariului; pentru
+    examinările cu dublu contrast, porțiunea intestinului gros (colon) destinsă cu
+    aer are importanță primordială și nu trebuie să fie penetrată excesiv
 
-    • Enema tip removed pentru unobstructed imagine de rectum (see Fig. 15.142C)'
-  part_pos: '• Elevate pacientul pe radiolucent support, și se centrează plan mediocoronal
-    la grila.
+    • Canula de clismă îndepărtată pentru o imagine neobstrucționată a rectului (vezi
+    Fig. 15.142C)'
+  part_pos: '• Se ridică pacientul pe un suport radiotransparent și se centrează planul
+    mediocoronal la grilă.
 
-    • se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig.
+    • Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig.
     15.142A).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit ventral cu drept side sau stâng side
-    pe / sprijinit de stativ vertical Bucky.
+  patient_pos: • Se așază pacientul în decubit ventral, cu partea dreaptă sau stângă
+    sprijinită de stativul vertical Bucky.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1184–1185'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1184
+    And Biliary System, pagini 1184–1185'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul
-    tegumentar de skin. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Large Intestine — Incidență de Profil (Lateral) — Right or left Incidență
-  Decubit Ventral (Merrill)
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm
+    de conturul tegumentar. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx intestin gros — Incidență de profil (laterală) — Incidență dreaptă sau stângă
+  în decubit ventral (Merrill)
 ---
-# Rx Large Intestine — Incidență de Profil (Lateral) — Right or left Incidență Decubit Ventral (Merrill)
+# Rx intestin gros — Incidență de profil (laterală) — Incidență dreaptă sau stângă în decubit ventral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -119,8 +121,8 @@ title: Rx Large Intestine — Incidență de Profil (Lateral) — Right or left 
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție cu drept side sau stâng side pe / sprijinit de stativ vertical Bucky.; Elevate pacientul pe radiolucent support, și se centrează plan mediocoronal la grila. se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig. 15.142A). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Horizon̍ al și perpendicular pe receptorul de imagine (RI) la enter planul mediocoronal de corp la nivelul crestele iliace.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral, cu partea dreaptă sau stângă sprijinită de stativul vertical Bucky. Se ridică pacientul pe un suport radiotransparent și se centrează planul mediocoronal la grilă. Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.142A). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontală și perpendiculară pe receptorul de imagine (RI), pentru a pătrunde în planul mediocoronal al corpului la nivelul crestelor iliace.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -136,19 +138,19 @@ title: Rx Large Intestine — Incidență de Profil (Lateral) — Right or left 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar de skin. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Area de la flexures la rectum
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-    - pentru single-contrast examinations, adecvat penetration de barium; pentru double-contrast examinations, air-inflated portion de intestin gros (colon) este de primary importance și trebuie să nu fie overpenetrated
-    - Enema tip removed pentru unobstructed imagine de rectum (see Fig. 15.142C)
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Regiunea de la flexuri până la rect
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+    - Pentru examinările cu contrast simplu, penetrarea adecvată a bariului; pentru examinările cu dublu contrast, porțiunea intestinului gros (colon) destinsă cu aer are importanță primordială și nu trebuie să fie penetrată excesiv
+    - Canula de clismă îndepărtată pentru o imagine neobstrucționată a rectului (vezi Fig. 15.142C)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -168,9 +170,9 @@ title: Rx Large Intestine — Incidență de Profil (Lateral) — Right or left 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1185, imaginea 1](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-ventral-p1184-merrill/p1185_fig1.png)
+![Merrill — pagina 1185, imaginea 1](../../assets/images/protocols/merrill/rx-large-intestine-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-ventral-p1184-merrill/p1185_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1185, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1185, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -187,48 +189,47 @@ title: Rx Large Intestine — Incidență de Profil (Lateral) — Right or left 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1184–1185](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1184)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1184–1185](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-ventral decubit poziție shows lateral incidență de contrast-filled intestin gros (colon). This poziție best shows “up” posterior portions de intestin gros (colon) și este most valuable în double-contrast examinations (see Fig. 15.142B).
+Poziția de decubit ventral evidențiază în incidență de profil intestinul gros (colon) umplut cu substanță de contrast. Această poziție evidențiază cel mai bine porțiunile posterioare, situate „sus”, ale intestinului gros (colon) și este deosebit de utilă în examinările cu dublu contrast (vezi Fig. 15.142B).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-de skin. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• Horizon̍ al și perpendicular pe receptorul de imagine (RI) la enter planul mediocoronal de corp la nivelul crestele iliace.
+• Orizontală și perpendiculară pe receptorul de imagine (RI), pentru a pătrunde în planul mediocoronal al corpului la nivelul crestelor iliace.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Area de la flexures la rectum
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul
-• pentru single-contrast examinations, adecvat penetration de barium; pentru double-contrast examinations, air-inflated portion de intestin gros (colon) este de primary importance și trebuie să nu fie overpenetrated
-• Enema tip removed pentru unobstructed imagine de rectum (see Fig. 15.142C)
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Regiunea de la flexuri până la rect
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
+• Pentru examinările cu contrast simplu, penetrarea adecvată a bariului; pentru examinările cu dublu contrast, porțiunea intestinului gros (colon) destinsă cu aer are importanță primordială și nu trebuie să fie penetrată excesiv
+• Canula de clismă îndepărtată pentru o imagine neobstrucționată a rectului (vezi Fig. 15.142C)
 
 ### part_pos
 
-• Elevate pacientul pe radiolucent support, și se centrează plan mediocoronal la grila.
-• se ajustează center de receptorul de imagine la nivelul crestele iliace (Fig. 15.142A).
+• Se ridică pacientul pe un suport radiotransparent și se centrează planul mediocoronal la grilă.
+• Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.142A).
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral cu drept side sau stâng side pe / sprijinit de stativ vertical Bucky.
+• Se așază pacientul în decubit ventral, cu partea dreaptă sau stângă sprijinită de stativul vertical Bucky.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

@@ -1,51 +1,54 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: 'Make expunere after second Inspir profund adecvat: minim 9-10 arcuri costale
-  posterioare vizibile.'
+breathing: 'Efectuați expunerea după al doilea inspir profund adecvat: minimum 9-10
+  arcuri costale posterioare vizibile.'
 category: torace
-centering: midway între plan mediosagital și lateral margin de thorax
+centering: La jumătatea distanței dintre planul mediosagital și marginea laterală
+  a toracelui
 clinical_indications:
-- Investigate pathology involving câmpuri pulmonare, trachea, și mediastinal structures.
-- Determine size și contours de cordul și great vessels.
+- Investigarea patologiei câmpurilor pulmonare, traheei și structurilor mediastinale.
+- Determinarea dimensiunilor și contururilor cordului și vaselor mari.
 images:
-- caption: Fig. 2.80 45° poziție oblică posterioară dreaptă (OPD / RPO).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.80 45° poziție
-    oblică posterioară dreaptă (OPD / RPO).)
+- caption: Fig. 2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.80 Poziție
+    oblică posterioară dreaptă (OPD / RPO) la 45°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_1.jpeg
-- caption: Fig. 2.81 45° poziție oblică posterioară stângă (OPS / LPO).
+- caption: Fig. 2.81 Poziție oblică posterioară stângă (OPS / LPO) la 45°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.81
-    45° poziție oblică posterioară stângă (OPS / LPO).)
+    Poziție oblică posterioară stângă (OPS / LPO) la 45°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_2.jpeg
-- caption: Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).
+- caption: Fig. 2.82 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.82
-    45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).)
+    Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_3.jpeg
-- caption: Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO).
+- caption: Fig. 2.83 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.83
-    45° la 60° poziție oblică posterioară stângă (OPS / LPO).)
+    Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_4.jpeg
-- caption: Fig. 2.84 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).
+- caption: Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.84
-    45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).)
+    Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_5.jpeg
-- caption: Fig. 2.85 45° la 60° poziție oblică posterioară stângă (OPS / LPO).
+- caption: Fig. 2.85 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.85
-    45° la 60° poziție oblică posterioară stângă (OPS / LPO).)
+    Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_6.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: posterior oblic incidențe provide best visualization de side cel mai apropiat
-  de receptorul de imagine. posterior poziții show same anatomy ca opposite anterior
-  oblic poziții. Thus, RPO (Fig. 2.82) corresponds la poziție oblică anterioară stângă
-  (OAS / LAO) și LPO (Fig. 2.83) corresponds la poziție oblică anterioară dreaptă
-  (OAD / RAO). Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP)
-  AP lordotic anterior oblic posterior oblic LPO RPO'
-position: 'Pacient: (Decubit) If pacient cannot stand sau sit, perform posterior oblic
-  incidențe pe table. Place supports under pacient’s cap și under ridicat Șold și
-  Umăr.; Regiune anatomică: Top de receptorul de imagine about 1 inch (2 cm) above
-  vertebra proeminentă (apofiza spinoasă C7) sau about 5 inches (12 cm) above level
-  de incizura jugulară (manubriul sternal) (2 inches [5 cm] above umeri) Thorax centrat
-  pe raza centrală și la receptorul de imagine'
+notes: 'S: Incidențele oblice posterioare oferă cea mai bună vizualizare a părții
+  celei mai apropiate de receptorul de imagine. Pozițiile posterioare evidențiază
+  aceeași anatomie ca pozițiile oblice anterioare opuse. Astfel, RPO (Fig. 2.82) corespunde
+  poziției oblice anterioare stângi (OAS / LAO), iar LPO (Fig. 2.83) corespunde poziției
+  oblice anterioare drepte (OAD / RAO). Torace, incidențe SPECIALE: AP în ortostatism
+  sau semierect; decubit lateral (AP); AP lordotică; oblică anterioară; oblică posterioară.
+  LPO RPO'
+position: 'Pacient: (decubit) Dacă pacientul nu poate sta în picioare sau în șezut,
+  efectuați incidențele oblice posterioare pe masă. Așezați suporturi sub capul pacientului
+  și sub șoldul și umărul ridicate. Regiune anatomică: marginea superioară a receptorului
+  de imagine la aproximativ 1 inch (2 cm) deasupra vertebrei proeminente (apofiza
+  spinoasă C7) sau la aproximativ 5 inches (12 cm) deasupra incizurii jugulare (manubriului
+  sternal) (2 inches [5 cm] deasupra umerilor). Toracele centrat la raza centrală
+  și la receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,35 +56,37 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- sunt similar la criteria pentru anterior oblic poziții described earlier.
-- However, because de increased magnification de anterior cupole diafragmatice, câmpuri
-  pulmonare usually appear shorter pe posterior oblic than pe anterior oblic incidențe.
-- cordul și great vessels also appear larger pe posterior oblic because they sunt
-  farther de la receptorul de imagine (Figs. 2.84 și 2.85). Fig. 2.80 45° poziție
-  oblică posterioară dreaptă (OPD / RPO). Fig. 2.81 45° poziție oblică posterioară
-  stângă (OPS / LPO). R Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD
-  / RPO). R Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO). Trachea
-  R Heart Carina stâng Claviculă stâng sinusuri costodiafragmatice Fig. 2.84 45° la
-  60° poziție oblică posterioară dreaptă (OPD / RPO). drept Claviculă R drept lung
-  Omoplat (Scapulă) stâng apex Heart Fig. 2.85 45° la 60° poziție oblică posterioară
-  stângă (OPS / LPO).
+- Sunt similare criteriilor pentru pozițiile oblice anterioare descrise anterior.
+- Totuși, din cauza măririi mai accentuate a porțiunilor anterioare ale cupolelor
+  diafragmatice, câmpurile pulmonare apar de obicei mai scurte în incidențele oblice
+  posterioare decât în cele oblice anterioare.
+- Cordul și vasele mari apar, de asemenea, mai mari în incidențele oblice posterioare,
+  deoarece sunt mai îndepărtate de receptorul de imagine (Fig. 2.84 și 2.85). Fig.
+  2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°. Fig. 2.81 Poziție oblică
+  posterioară stângă (OPS / LPO) la 45°. R Fig. 2.82 Poziție oblică posterioară dreaptă
+  (OPD / RPO) la 45° la 60°. R Fig. 2.83 Poziție oblică posterioară stângă (OPS /
+  LPO) la 45° la 60°. Trahee. R Cord. Carină. Claviculă stângă. Sinus costodiafragmatic
+  stâng. Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°. Claviculă
+  dreaptă. R Plămân drept. Omoplat (scapulă). Apex stâng. Cord. Fig. 2.85 Poziție
+  oblică posterioară stângă (OPS / LPO) la 45° la 60°.
 sid_dff: 180 cm
 slug: rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 111
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
-    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea
+    superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă
+    C7).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Oblică Posterioară (OPD și OPS) (Torace)
+title: Rx oblică posterioară (OPD și OPS) (torace)
 ---
-# Rx Oblică Posterioară (OPD și OPS) (Torace)
+# Rx oblică posterioară (OPD și OPS) (torace)
 
 
 <div class="rx-meta-bar">
@@ -100,8 +105,8 @@ title: Rx Oblică Posterioară (OPD și OPS) (Torace)
 
     === "Indicații Clinice"
 
-        - Investigate pathology involving câmpuri pulmonare, trachea, și mediastinal structures.
-        - Determine size și contours de cordul și great vessels.
+        - Investigarea patologiei câmpurilor pulmonare, traheei și structurilor mediastinale.
+        - Determinarea dimensiunilor și contururilor cordului și vaselor mari.
 
     === "Ghid Național IRIS"
 
@@ -115,10 +120,10 @@ title: Rx Oblică Posterioară (OPD și OPS) (Torace)
 
     ---
 
-    - **Poziție Pacient:** Pacient: (Decubit) If pacient cannot stand sau sit, perform posterior oblic incidențe pe table. Place supports under pacient’s cap și under ridicat Șold și Umăr.; Regiune anatomică: Top de receptorul de imagine about 1 inch (2 cm) above vertebra proeminentă (apofiza spinoasă C7) sau about 5 inches (12 cm) above level de incizura jugulară (manubriul sternal) (2 inches [5 cm] above umeri) Thorax centrat pe raza centrală și la receptorul de imagine
-    - **Punct de Centrare Fascicul:** midway între plan mediosagital și lateral margin de thorax
+    - **Poziție Pacient:** Pacient: (decubit) Dacă pacientul nu poate sta în picioare sau în șezut, efectuați incidențele oblice posterioare pe masă. Așezați suporturi sub capul pacientului și sub șoldul și umărul ridicate. Regiune anatomică: marginea superioară a receptorului de imagine la aproximativ 1 inch (2 cm) deasupra vertebrei proeminente (apofiza spinoasă C7) sau la aproximativ 5 inches (12 cm) deasupra incizurii jugulare (manubriului sternal) (2 inches [5 cm] deasupra umerilor). Toracele centrat la raza centrală și la receptorul de imagine.
+    - **Punct de Centrare Fascicul:** La jumătatea distanței dintre planul mediosagital și marginea laterală a toracelui
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Make expunere after second Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile.
+    - **Comandă Respiratorie:** Efectuați expunerea după al doilea inspir profund adecvat: minimum 9-10 arcuri costale posterioare vizibile.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -131,17 +136,17 @@ title: Rx Oblică Posterioară (OPD și OPS) (Torace)
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă C7). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - sunt similar la criteria pentru anterior oblic poziții described earlier.
-    - However, because de increased magnification de anterior cupole diafragmatice, câmpuri pulmonare usually appear shorter pe posterior oblic than pe anterior oblic incidențe.
-    - cordul și great vessels also appear larger pe posterior oblic because they sunt farther de la receptorul de imagine (Figs. 2.84 și 2.85). Fig. 2.80 45° poziție oblică posterioară dreaptă (OPD / RPO). Fig. 2.81 45° poziție oblică posterioară stângă (OPS / LPO). R Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO). R Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO). Trachea R Heart Carina stâng Claviculă stâng sinusuri costodiafragmatice Fig. 2.84 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO). drept Claviculă R drept lung Omoplat (Scapulă) stâng apex Heart Fig. 2.85 45° la 60° poziție oblică posterioară stângă (OPS / LPO).
+    - Sunt similare criteriilor pentru pozițiile oblice anterioare descrise anterior.
+    - Totuși, din cauza măririi mai accentuate a porțiunilor anterioare ale cupolelor diafragmatice, câmpurile pulmonare apar de obicei mai scurte în incidențele oblice posterioare decât în cele oblice anterioare.
+    - Cordul și vasele mari apar, de asemenea, mai mari în incidențele oblice posterioare, deoarece sunt mai îndepărtate de receptorul de imagine (Fig. 2.84 și 2.85). Fig. 2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°. Fig. 2.81 Poziție oblică posterioară stângă (OPS / LPO) la 45°. R Fig. 2.82 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°. R Fig. 2.83 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°. Trahee. R Cord. Carină. Claviculă stângă. Sinus costodiafragmatic stâng. Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°. Claviculă dreaptă. R Plămân drept. Omoplat (scapulă). Apex stâng. Cord. Fig. 2.85 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,7 +159,7 @@ title: Rx Oblică Posterioară (OPD și OPS) (Torace)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: posterior oblic incidențe provide best visualization de side cel mai apropiat de receptorul de imagine. posterior poziții show same anatomy ca opposite anterior oblic poziții. Thus, RPO (Fig. 2.82) corresponds la poziție oblică anterioară stângă (OAS / LAO) și LPO (Fig. 2.83) corresponds la poziție oblică anterioară dreaptă (OAD / RAO). Torace SPECIAL AP în ortostatism sau semierect lateral decubit (AP) AP lordotic anterior oblic posterior oblic LPO RPO
+    S: Incidențele oblice posterioare oferă cea mai bună vizualizare a părții celei mai apropiate de receptorul de imagine. Pozițiile posterioare evidențiază aceeași anatomie ca pozițiile oblice anterioare opuse. Astfel, RPO (Fig. 2.82) corespunde poziției oblice anterioare stângi (OAS / LAO), iar LPO (Fig. 2.83) corespunde poziției oblice anterioare drepte (OAD / RAO). Torace, incidențe SPECIALE: AP în ortostatism sau semierect; decubit lateral (AP); AP lordotică; oblică anterioară; oblică posterioară. LPO RPO
 
 
 ### 🖼️ Imagini
@@ -163,49 +168,49 @@ title: Rx Oblică Posterioară (OPD și OPS) (Torace)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.80 45° poziție oblică posterioară dreaptă (OPD / RPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_1.jpeg)
+![Fig. 2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.80 45° poziție oblică posterioară dreaptă (OPD / RPO).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.80 45° poziție oblică posterioară dreaptă (OPD / RPO).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.81 45° poziție oblică posterioară stângă (OPS / LPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.81 45° poziție oblică posterioară stângă (OPS / LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.81 45° poziție oblică posterioară stângă (OPS / LPO).)</span></figcaption>
+<figcaption><strong>Fig. 2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.80 Poziție oblică posterioară dreaptă (OPD / RPO) la 45°.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_3.jpeg)
+![Fig. 2.81 Poziție oblică posterioară stângă (OPS / LPO) la 45°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.82 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.83 45° la 60° poziție oblică posterioară stângă (OPS / LPO).)</span></figcaption>
+<figcaption><strong>Fig. 2.81 Poziție oblică posterioară stângă (OPS / LPO) la 45°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.81 Poziție oblică posterioară stângă (OPS / LPO) la 45°.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.84 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_5.jpeg)
+![Fig. 2.82 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 2.84 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.84 45° la 60° poziție oblică posterioară dreaptă (OPD / RPO).)</span></figcaption>
+<figcaption><strong>Fig. 2.82 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.82 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.85 45° la 60° poziție oblică posterioară stângă (OPS / LPO).](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_6.jpeg)
+![Fig. 2.83 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 2.85 45° la 60° poziție oblică posterioară stângă (OPS / LPO).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.85 45° la 60° poziție oblică posterioară stângă (OPS / LPO).)</span></figcaption>
+<figcaption><strong>Fig. 2.83 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.83 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.84 Poziție oblică posterioară dreaptă (OPD / RPO) la 45° la 60°.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.85 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.](../../assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_6.jpeg)
+
+<figcaption><strong>Fig. 2.85 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.85 Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.)</span></figcaption>
 
 </figure>
 

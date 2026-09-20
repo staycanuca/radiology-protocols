@@ -3,56 +3,61 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• X-ray tube este centred și angulated ca outlined în masa de examinare
-  pe p. 298 pentru maxillary molar region.
+centering: '• Tubul de raze X este centrat și angulat conform indicațiilor din tabelul
+  de examinare de la p. 298 pentru regiunea molarilor maxilari.
 
-  • X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles
-  la labial sau buccal surfaces de teeth la prevent orizontal overlap, și film radiologic
-  este exposed.
+  • Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular
+  pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea
+  orizontală, iar filmul radiologic să fie expus.
 
-  Complete mouth survey sau full mouth survey complete mouth survey sau full mouth
-  survey este composed de series de individual periapical filme radiologice covering
-  toate teeth și tooth-bearing alveolar bone de dental arches. Most pacienți require
-  14 periapical filme radiologice la fulfil these requirements.
+  Examinarea completă a cavității bucale sau examinarea completă a cavității bucale
+  este alcătuită dintr-o serie de filme radiologice retroalveolare individuale care
+  acoperă toți dinții și osul alveolar dentat al arcadelor dentare. Majoritatea pacienților
+  necesită 14 filme radiologice retroalveolare pentru îndeplinirea acestor cerințe.
 
-  Careful technique este essential la reduce need pentru repeat examinations.
+  Tehnica atentă este esențială pentru a reduce necesitatea repetării examinărilor.
 
-  Periapical de drept molar region evidențiind developing third maxillary molar Periapical
-  de stâng molar region evidențiind normal anatomy de tuberosity, antral floor și
-  inferior aspect de zygoma'
+  Radiografia retroalveolară a regiunii molare drepte evidențiind molarul de minte
+  maxilar în dezvoltare. Radiografia retroalveolară a regiunii molare stângi evidențiind
+  anatomia normală a tuberozității, planșeului antrului și aspectului inferior al
+  osului zigomatic.'
 clinical_indications:
-- clinician trebuie să ensure that their request pentru certain occlusal incidențe
-  (i.e. true occlusal) trebuie să indicate tooth over which fascicul este centred.
-  Radiografie Dentară Ocluzală – family tree (Italics designate părți moi expunere)
-  Mandibulă anterior anterior Midline Maxilla posterior Lower Oblică Oblică (Root-length/topographical/scan)
-  True (Cross sectional/Axială/plan) Vertex occlusal Mandibulă anterior Midline posterior
-  Floor de mouth Radiografie Dentară Ocluzală – family tree
+- clinicianul trebuie să se asigure că solicitarea pentru anumite incidențe ocluzale
+  (adică ocluzale adevărate) trebuie să indice dintele asupra căruia este centrat
+  fasciculul. Radiografie Dentară Ocluzală – arbore decizional (cursivele desemnează
+  expunerea părților moi) Mandibulă anterior Linia mediană Maxilar posterior Inferioară
+  Oblică Oblică (lungimea rădăcinii/topografică/de scanare) Adevărată (transversală/axială/planară)
+  Ocluzală de vertex Mandibulă anterior Linia mediană posterior Planșeul bucal Radiografie
+  Dentară Ocluzală – arbore decizional
 images:
 - caption: Radiografie Dentară Retroalveolară (Periapicală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_1.jpeg
-- caption: Periapical de drept molar region evidențiind developing third
+- caption: Regiunea molarului de minte drept, cu evidențierea molarului de minte în
+    dezvoltare
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul’s cap trebuie să fie sprijinit adequately cu medial plane vertical
-  și maxillary plan ocluzal orizontal.
+position: '• capul pacientului trebuie să fie sprijinit adecvat, cu planul mediosagital
+  vertical și planul ocluzal maxilar orizontal.
 
-  • poziție film radiologic intra-orally astfel încât front aspect (sau imaging surface)
-  will face X-ray tube.
+  • poziționați filmul radiologic intraoral astfel încât fața anterioară (sau suprafața
+  de expunere) să fie orientată spre tubul de raze X.
 
-  • film radiologic este poziționat far enough posteriorly la cover third molar region,
-  cu anterior margine just covering second premolar.
+  • filmul radiologic este poziționat suficient de posterior pentru a acoperi regiunea
+  molarului de minte, cu marginea anterioară acoperind exact al doilea premolar.
 
-  • film radiologic este sprijinit prin pacientul’s index finger sau Police.
+  • filmul radiologic este sprijinit cu degetul arătător al pacientului sau cu policele.
 
-  It este poziționat cu 2 mm de film radiologic packet extending beyond plan ocluzal
-  la ensure that entire tooth este imaged.
+  Este poziționat astfel încât 2 mm din pachetul filmului radiologic să depășească
+  planul ocluzal, pentru a asigura imaginea dintelui în întregime.
 
-  imagine plane trebuie să fie flat la reduce distortion effects de bending.'
+  Planul imaginii trebuie să fie plat pentru a reduce efectele de distorsiune produse
+  de îndoire.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -69,18 +74,18 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 320
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=320
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului de minte
 ---
-# Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
+# Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului de minte
 
 
 <div class="rx-meta-bar">
@@ -99,7 +104,7 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
 
     === "Indicații Clinice"
 
-        - clinician trebuie să ensure that their request pentru certain occlusal incidențe (i.e. true occlusal) trebuie să indicate tooth over which fascicul este centred. Radiografie Dentară Ocluzală – family tree (Italics designate părți moi expunere) Mandibulă anterior anterior Midline Maxilla posterior Lower Oblică Oblică (Root-length/topographical/scan) True (Cross sectional/Axială/plan) Vertex occlusal Mandibulă anterior Midline posterior Floor de mouth Radiografie Dentară Ocluzală – family tree
+        - clinicianul trebuie să se asigure că solicitarea pentru anumite incidențe ocluzale (adică ocluzale adevărate) trebuie să indice dintele asupra căruia este centrat fasciculul. Radiografie Dentară Ocluzală – arbore decizional (cursivele desemnează expunerea părților moi) Mandibulă anterior Linia mediană Maxilar posterior Inferioară Oblică Oblică (lungimea rădăcinii/topografică/de scanare) Adevărată (transversală/axială/planară) Ocluzală de vertex Mandibulă anterior Linia mediană posterior Planșeul bucal Radiografie Dentară Ocluzală – arbore decizional
 
     === "Ghid Național IRIS"
 
@@ -113,17 +118,17 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Third molar region
 
     ---
 
-    - **Poziție Pacient:** • pacientul’s cap trebuie să fie sprijinit adequately cu medial plane vertical și maxillary plan ocluzal orizontal.
-• poziție film radiologic intra-orally astfel încât front aspect (sau imaging surface) will face X-ray tube.
-• film radiologic este poziționat far enough posteriorly la cover third molar region, cu anterior margine just covering second premolar.
-• film radiologic este sprijinit prin pacientul’s index finger sau Police.
-It este poziționat cu 2 mm de film radiologic packet extending beyond plan ocluzal la ensure that entire tooth este imaged.
-imagine plane trebuie să fie flat la reduce distortion effects de bending.
-    - **Punct de Centrare Fascicul:** • X-ray tube este centred și angulated ca outlined în masa de examinare pe p. 298 pentru maxillary molar region.
-• X-ray tube trebuie să fie poziționat astfel încât fascicul este la drept-angles la labial sau buccal surfaces de teeth la prevent orizontal overlap, și film radiologic este exposed.
-Complete mouth survey sau full mouth survey complete mouth survey sau full mouth survey este composed de series de individual periapical filme radiologice covering toate teeth și tooth-bearing alveolar bone de dental arches. Most pacienți require 14 periapical filme radiologice la fulfil these requirements.
-Careful technique este essential la reduce need pentru repeat examinations.
-Periapical de drept molar region evidențiind developing third maxillary molar Periapical de stâng molar region evidențiind normal anatomy de tuberosity, antral floor și inferior aspect de zygoma
+    - **Poziție Pacient:** • capul pacientului trebuie să fie sprijinit adecvat, cu planul mediosagital vertical și planul ocluzal maxilar orizontal.
+• poziționați filmul radiologic intraoral astfel încât fața anterioară (sau suprafața de expunere) să fie orientată spre tubul de raze X.
+• filmul radiologic este poziționat suficient de posterior pentru a acoperi regiunea molarului de minte, cu marginea anterioară acoperind exact al doilea premolar.
+• filmul radiologic este sprijinit cu degetul arătător al pacientului sau cu policele.
+Este poziționat astfel încât 2 mm din pachetul filmului radiologic să depășească planul ocluzal, pentru a asigura imaginea dintelui în întregime.
+Planul imaginii trebuie să fie plat pentru a reduce efectele de distorsiune produse de îndoire.
+    - **Punct de Centrare Fascicul:** • Tubul de raze X este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor maxilari.
+• Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus.
+Examinarea completă a cavității bucale sau examinarea completă a cavității bucale este alcătuită dintr-o serie de filme radiologice retroalveolare individuale care acoperă toți dinții și osul alveolar dentat al arcadelor dentare. Majoritatea pacienților necesită 14 filme radiologice retroalveolare pentru îndeplinirea acestor cerințe.
+Tehnica atentă este esențială pentru a reduce necesitatea repetării examinărilor.
+Radiografia retroalveolară a regiunii molare drepte evidențiind molarul de minte maxilar în dezvoltare. Radiografia retroalveolară a regiunii molare stângi evidențiind anatomia normală a tuberozității, planșeului antrului și aspectului inferior al osului zigomatic.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -134,13 +139,13 @@ Periapical de drept molar region evidențiind developing third maxillary molar P
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -172,15 +177,15 @@ Periapical de drept molar region evidențiind developing third maxillary molar P
 
 ![Radiografie Dentară Retroalveolară (Periapicală)](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_1.jpeg)
 
-<figcaption><strong>Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Periapical de drept molar region evidențiind developing third](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_2.jpeg)
+![Regiunea molarului de minte drept, cu evidențierea molarului de minte în dezvoltare](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_2.jpeg)
 
-<figcaption><strong>Periapical de drept molar region evidențiind developing third</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Regiunea molarului de minte drept, cu evidențierea molarului de minte în dezvoltare</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -197,4 +202,4 @@ Periapical de drept molar region evidențiind developing third maxillary molar P
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 320](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=320)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 320](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

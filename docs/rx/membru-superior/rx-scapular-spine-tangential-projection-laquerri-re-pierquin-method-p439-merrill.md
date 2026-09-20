@@ -173,8 +173,8 @@ source_sections:
 
     30 cm) transversal.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 439–440
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=439
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 439–440
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 24 cm pe colimator.
@@ -265,7 +265,7 @@ title: Rx Scapular Spine — Tangential Incidență — Laquerrière-Pierquin Me
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 439–440](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=439)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 439–440](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -10,7 +10,7 @@ centering: perpendicular pe articulații sternoclaviculare cel mai apropiat de r
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 809, imaginea 1
+- caption: Merrill — pagina 809, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill/p809_fig1.png
 last_updated: '2026-09-16'
@@ -88,8 +88,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 10. Bony Thorax, pagini PDF 807–809
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=807
+- title: Merrill’s Atlas, 10. Bony Thorax, pagini 807–809
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
@@ -179,9 +179,9 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 809, imaginea 1](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill/p809_fig1.png)
+![Merrill — pagina 809, imaginea 1](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill/p809_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 809, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 809, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -198,7 +198,7 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 10. Bony Thorax, pagini PDF 807–809](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=807)
+- [Merrill’s Atlas, 10. Bony Thorax, pagini 807–809](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

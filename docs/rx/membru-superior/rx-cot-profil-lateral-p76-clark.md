@@ -3,39 +3,36 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • Raza centrală verticală este centrată pe Profil (lateral) epicondyle
-  de Humerus.
+centering: • Raza centrală verticală este centrată pe epicondilul lateral al humerusului.
 clinical_indications:
-- 61 2 Cot most satisfactory incidențe de Cot articulație sunt obtained when upper
-  braț este în same plane ca Antebraț (Radius și Ulna). pentru many examinations,
-  pacientul will fie așezat pe scaun la masa de examinare cu Umăr lowered, astfel
-  încât upper braț, Cot și Antebraț (Radius și Ulna) sunt pe same orizontal level.
-  la gain pacientul’s confidence, Profil (lateral) incidență este taken first, because
-  pacientul will find it easier la adopt this poziție. în changing poziție de la that
-  pentru Profil (lateral) incidență la that pentru Antero-posterior (AP) incidență,
-  Humerus trebuie să fie rotit through 90 grade la make sure that two incidențe la
-  drept-angles sunt obtained de Humerus ca well ca ulna și radius. Alternatively,
-  if limb cannot fie moved, two incidențe la drept-angles la fiecare other poate fie
-  taken prin keeping limb în same poziție și moving tubul through 90 grade între incidențe.
-  pentru Profil (lateral) incidență, raza centrală trebuie să pass paralel la line
-  joining epicondyles de Humerus. pentru anteroposterior incidență, raza centrală
-  trebuie să pass la drept-angles la this line. în some instances, tube angulation
-  will fie necessary. If pacientul cannot se extinde Cot fully, modified positioning
-  este necessary pentru Antero-posterior (AP) incidență. Basic Profil (lateral) și
-  Antero-posterior (AP) incidențe poate fie taken pe same casetă using lead rubber
-  la mask off fiecare half de caseta în turn. pentru fiecare incidență, care trebuie
-  să fie taken la place Cot în centre de half de film radiologic being used, astfel
-  încât two incidențe de articulație sunt la same eye level when viewed. Profil (lateral)
+- Cot. Imaginile articulației cotului se obțin în condiții optime când brațul și antebrațul
+  sunt în același plan. Pentru multe examinări, pacientul stă așezat la masa de examinare,
+  cu umărul coborât, astfel încât brațul, cotul și antebrațul să fie la același nivel
+  orizontal. Pentru a câștiga încrederea pacientului, se efectuează mai întâi incidența
+  de profil, deoarece această poziție este mai ușor de adoptat. La trecerea de la
+  incidența de profil la cea antero-posterioară, humerusul trebuie rotit cu 90 de
+  grade, pentru a obține două incidențe perpendiculare atât ale humerusului, cât și
+  ale ulnei și radiusului. Alternativ, dacă membrul nu poate fi mobilizat, se pot
+  obține două incidențe perpendiculare menținând membrul în aceeași poziție și deplasând
+  tubul cu 90 de grade între expuneri. Pentru incidența de profil, raza centrală trebuie
+  să fie paralelă cu linia care unește epicondilii humerusului. Pentru incidența antero-posterioară,
+  raza centrală trebuie să fie perpendiculară pe această linie. În unele cazuri este
+  necesară angularea tubului. Dacă pacientul nu poate extinde complet cotul, poziționarea
+  pentru incidența antero-posterioară trebuie adaptată. Incidențele standard de profil
+  și antero-posterioară se pot efectua pe aceeași casetă, protejând succesiv fiecare
+  jumătate cu cauciuc plumbat. Pentru fiecare incidență, cotul trebuie plasat în centrul
+  jumătății de film utilizate, astfel încât cele două imagini ale articulației să
+  fie la același nivel la vizualizare. Incidență de profil.
 images:
-- caption: supracondylar suspiciune de fractură de Humerus, when Incidențe Standard
-    de Bază
+- caption: Suspiciune de fractură supracondiliană a humerusului, când incidențele
+    standard…
   description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_1.jpeg
-- caption: • raza centrală trebuie să pass through spații articulare la 90 grade
+- caption: • Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_2.jpeg
-- caption: Profil (lateral) radiografie de Cot
+- caption: Radiografie de profil a cotului
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_3.jpeg
@@ -45,16 +42,16 @@ notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-op
 position: '• Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată
   sprijinită pe masă.
 
-  • Cot este flectat la 90 grade și palm de Mână este rotit so that it este la 90
-  grade la tabletop.
+  • Cotul este flectat la 90 de grade, iar palma este rotită astfel încât să fie perpendiculară
+  pe suprafața mesei.
 
-  • Umăr este lowered so that it este la same height ca Cot și Pumn (Articulație Radiocarpiană),
-  astfel încât medial aspect de entire braț este în contact cu tabletop.
+  • Umărul este coborât la nivelul cotului și al pumnului, astfel încât fața medială
+  a întregului membru superior să fie în contact cu suprafața mesei.
 
-  • half de caseta being used este plasat under pacientul’s Cot, cu its centre la
-  Cot articulație și its short axis paralel cu Antebraț (Radius și Ulna).
+  • Jumătatea de casetă utilizată este plasată sub cotul pacientului, cu centrul la
+  nivelul articulației cotului și axa scurtă paralelă cu antebrațul.
 
-  • limb este imobilizat using săculeți cu nisip.'
+  • Membrul este imobilizat cu săculeți cu nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -63,18 +60,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- raza centrală trebuie să pass through spații articulare la 90 grade la Humerus,
-  i.e. epicondyles trebuie să fie superimposed.
-- imagine trebuie să evidențiază distal third de Humerus și proximal third de radius
-  și ulna. Supracondyalar ridge Epicondyles olecran Trochlear notch Shaft de ulna
-  Tuberosity de radius proces coronoid cap de radius Trochlear surface Capitulum Shaft
-  de Humerus Profil (lateral) radiografie de Cot Normal Profil (lateral) radiografie
-  de Cot
+- Raza centrală trebuie să traverseze spațiile articulare perpendicular pe humerus,
+  ceea ce presupune suprapunerea epicondililor.
+- 'Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală
+  a radiusului și a ulnei. Repere anatomice: creasta supracondiliană; epicondilii;
+  olecranul; incizura trohleară; diafiza ulnei; tuberozitatea radiusului; procesul
+  coronoid; capul radiusului; suprafața trohleară; capitulul humeral; diafiza humerusului.
+  Radiografie de profil a cotului. Radiografie normală de profil a cotului.'
 sid_dff: 100 cm
 slug: rx-cot-profil-lateral-p76-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 76
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=76
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -104,7 +101,7 @@ title: Rx Cot Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - 61 2 Cot most satisfactory incidențe de Cot articulație sunt obtained when upper braț este în same plane ca Antebraț (Radius și Ulna). pentru many examinations, pacientul will fie așezat pe scaun la masa de examinare cu Umăr lowered, astfel încât upper braț, Cot și Antebraț (Radius și Ulna) sunt pe same orizontal level. la gain pacientul’s confidence, Profil (lateral) incidență este taken first, because pacientul will find it easier la adopt this poziție. în changing poziție de la that pentru Profil (lateral) incidență la that pentru Antero-posterior (AP) incidență, Humerus trebuie să fie rotit through 90 grade la make sure that two incidențe la drept-angles sunt obtained de Humerus ca well ca ulna și radius. Alternatively, if limb cannot fie moved, two incidențe la drept-angles la fiecare other poate fie taken prin keeping limb în same poziție și moving tubul through 90 grade între incidențe. pentru Profil (lateral) incidență, raza centrală trebuie să pass paralel la line joining epicondyles de Humerus. pentru anteroposterior incidență, raza centrală trebuie să pass la drept-angles la this line. în some instances, tube angulation will fie necessary. If pacientul cannot se extinde Cot fully, modified positioning este necessary pentru Antero-posterior (AP) incidență. Basic Profil (lateral) și Antero-posterior (AP) incidențe poate fie taken pe same casetă using lead rubber la mask off fiecare half de caseta în turn. pentru fiecare incidență, care trebuie să fie taken la place Cot în centre de half de film radiologic being used, astfel încât two incidențe de articulație sunt la same eye level when viewed. Profil (lateral)
+        - Cot. Imaginile articulației cotului se obțin în condiții optime când brațul și antebrațul sunt în același plan. Pentru multe examinări, pacientul stă așezat la masa de examinare, cu umărul coborât, astfel încât brațul, cotul și antebrațul să fie la același nivel orizontal. Pentru a câștiga încrederea pacientului, se efectuează mai întâi incidența de profil, deoarece această poziție este mai ușor de adoptat. La trecerea de la incidența de profil la cea antero-posterioară, humerusul trebuie rotit cu 90 de grade, pentru a obține două incidențe perpendiculare atât ale humerusului, cât și ale ulnei și radiusului. Alternativ, dacă membrul nu poate fi mobilizat, se pot obține două incidențe perpendiculare menținând membrul în aceeași poziție și deplasând tubul cu 90 de grade între expuneri. Pentru incidența de profil, raza centrală trebuie să fie paralelă cu linia care unește epicondilii humerusului. Pentru incidența antero-posterioară, raza centrală trebuie să fie perpendiculară pe această linie. În unele cazuri este necesară angularea tubului. Dacă pacientul nu poate extinde complet cotul, poziționarea pentru incidența antero-posterioară trebuie adaptată. Incidențele standard de profil și antero-posterioară se pot efectua pe aceeași casetă, protejând succesiv fiecare jumătate cu cauciuc plumbat. Pentru fiecare incidență, cotul trebuie plasat în centrul jumătății de film utilizate, astfel încât cele două imagini ale articulației să fie la același nivel la vizualizare. Incidență de profil.
 
     === "Ghid Național IRIS"
 
@@ -119,11 +116,11 @@ title: Rx Cot Profil (Lateral)
     ---
 
     - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• Cot este flectat la 90 grade și palm de Mână este rotit so that it este la 90 grade la tabletop.
-• Umăr este lowered so that it este la same height ca Cot și Pumn (Articulație Radiocarpiană), astfel încât medial aspect de entire braț este în contact cu tabletop.
-• half de caseta being used este plasat under pacientul’s Cot, cu its centre la Cot articulație și its short axis paralel cu Antebraț (Radius și Ulna).
-• limb este imobilizat using săculeți cu nisip.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe Profil (lateral) epicondyle de Humerus.
+• Cotul este flectat la 90 de grade, iar palma este rotită astfel încât să fie perpendiculară pe suprafața mesei.
+• Umărul este coborât la nivelul cotului și al pumnului, astfel încât fața medială a întregului membru superior să fie în contact cu suprafața mesei.
+• Jumătatea de casetă utilizată este plasată sub cotul pacientului, cu centrul la nivelul articulației cotului și axa scurtă paralelă cu antebrațul.
+• Membrul este imobilizat cu săculeți cu nisip.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe epicondilul lateral al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -146,8 +143,8 @@ title: Rx Cot Profil (Lateral)
 
     ---
 
-    - raza centrală trebuie să pass through spații articulare la 90 grade la Humerus, i.e. epicondyles trebuie să fie superimposed.
-    - imagine trebuie să evidențiază distal third de Humerus și proximal third de radius și ulna. Supracondyalar ridge Epicondyles olecran Trochlear notch Shaft de ulna Tuberosity de radius proces coronoid cap de radius Trochlear surface Capitulum Shaft de Humerus Profil (lateral) radiografie de Cot Normal Profil (lateral) radiografie de Cot
+    - Raza centrală trebuie să traverseze spațiile articulare perpendicular pe humerus, ceea ce presupune suprapunerea epicondililor.
+    - Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală a radiusului și a ulnei. Repere anatomice: creasta supracondiliană; epicondilii; olecranul; incizura trohleară; diafiza ulnei; tuberozitatea radiusului; procesul coronoid; capul radiusului; suprafața trohleară; capitulul humeral; diafiza humerusului. Radiografie de profil a cotului. Radiografie normală de profil a cotului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,25 +166,25 @@ title: Rx Cot Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![supracondylar suspiciune de fractură de Humerus, when Incidențe Standard de Bază](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_1.jpeg)
+![Suspiciune de fractură supracondiliană a humerusului, când incidențele standard…](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_1.jpeg)
 
-<figcaption><strong>supracondylar suspiciune de fractură de Humerus, when Incidențe Standard de Bază</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• raza centrală trebuie să pass through spații articulare la 90 grade](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_2.jpeg)
-
-<figcaption><strong>• raza centrală trebuie să pass through spații articulare la 90 grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Suspiciune de fractură supracondiliană a humerusului, când incidențele standard…</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Cot](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_3.jpeg)
+![• Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_2.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Cot</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil a cotului](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie de profil a cotului</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -204,4 +201,4 @@ title: Rx Cot Profil (Lateral)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 76](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=76)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 76](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

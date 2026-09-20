@@ -3,67 +3,66 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală verticală centrală este centred through spații articulare
-  2.5 cm distal la point midway între medial și Profil (lateral) epicondyles de Humerus.
+centering: • Raza centrală verticală este centrată prin spațiile articulare, la 2.5
+  cm distal de mijlocul distanței dintre epicondilul medial și cel lateral al humerusului.
 clinical_indications:
-- Evaluare radiografică regiunii Cot (Antero - posterior).
+- Evaluarea radiografică a cotului în incidență antero-posterioară.
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: • raza centrală verticală centrală este centred through spații articulare
+- caption: • Raza centrală verticală este centrată prin spațiile articulare.
   description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_1.jpeg
-- caption: • raza centrală trebuie să pass through spații articulare la 90
+- caption: • Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_2.jpeg
-- caption: • Care trebuie să fie taken when supracondylar suspiciune de fractură de
-    the
+- caption: • Precauție în cazul suspiciunii de fractură supracondiliană…
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Care trebuie să fie taken when supracondylar suspiciune de fractură de Humerus
-  este suspected. în such cases, fără attempt trebuie să fie made la se extinde Cot
-  articulație, și modified technique trebuie să fie employed.
+notes: '• Este necesară precauție când se suspectează o fractură supracondiliană a
+  humerusului. În aceste cazuri nu se încearcă extensia articulației cotului și se
+  utilizează o tehnică adaptată.
 
-  • When pacientul este unable la se extinde Cot la 90 grade, modified technique este
-  used pentru Antero-posterior (AP) incidență.
+  • Când pacientul nu poate extinde cotul la 90 de grade, se utilizează o tehnică
+  adaptată pentru incidența antero-posterioară.
 
-  • If limb cannot fie moved, two incidențe la drept-angles la fiecare other poate
-  fie taken prin keeping limb în same poziție și rotating X-ray tube through 90 grade.
+  • Dacă membrul nu poate fi mobilizat, se pot obține două incidențe perpendiculare
+  menținând membrul în aceeași poziție și rotind tubul radiogen cu 90 de grade.
 
-  Antero-posterior (AP) – partial flexion If pacientul este unable la se extinde Cot
-  fully, positioning pentru Antero-posterior (AP) incidență poate fie modified. pentru
-  general survey de Cot, sau if main aria de interes diagnostic este extremitatea
-  proximală radius și ulna, then posterior aspect de Antebraț (Radius și Ulna) trebuie
-  să fie în contact cu caseta. If main aria de interes diagnostic este extremitatea
-  distală Humerus, however, then posterior aspect de Humerus trebuie să fie în contact
-  cu caseta.
+  Incidență antero-posterioară în flexie parțială. Dacă pacientul nu poate extinde
+  complet cotul, poziționarea pentru incidența antero-posterioară poate fi adaptată.
+  Pentru evaluarea generală a cotului sau dacă zona principală de interes este extremitatea
+  proximală a radiusului și a ulnei, fața posterioară a antebrațului trebuie să fie
+  în contact cu caseta. Dacă zona principală de interes este extremitatea distală
+  a humerusului, fața posterioară a humerusului trebuie să fie în contact cu caseta.
 
-  If Cot este imobilizat în fully flectat poziție, then Axială incidență trebuie să
-  fie used instead de Antero-posterior (AP) incidență.
+  Dacă articulația cotului este imobilizată în flexie completă, se utilizează o incidență
+  axială în locul celei antero-posterioare.
 
-  în ambele de above cases, some superimposition de bones will occur. However, gross
-  injury și general alignment poate fie evidențiat.
+  În ambele cazuri de mai sus, oasele se vor suprapune parțial. Totuși, leziunile
+  majore și alinierea generală pot fi evidențiate.
 
-  62 Coronoid și olecran fossae epicondil medial (epitrohlee) olecran Trochlea proces
-  coronoid Radial notch Shaft de ulna Shaft de radius Tuberosity de radius cap de
-  radius Capitulum Profil (lateral) epicondyle Radial fossa Shaft de Humerus Antero-posterior
-  (AP) radiografie de Cot Normal Antero-posterior (AP) radiografie de Cot'
-position: '• de la Profil (lateral) poziție, pacientul’s braț este externally rotit.
+  Repere anatomice: fosa coronoidă și fosa olecraniană; epicondilul medial (epitrohleea);
+  olecranul; trohleea; procesul coronoid; incizura radială; diafiza ulnei; diafiza
+  radiusului; tuberozitatea radiusului; capul radiusului; capitulul humeral; epicondilul
+  lateral; fosa radială; diafiza humerusului. Radiografie antero-posterioară a cotului.
+  Radiografie normală antero-posterioară a cotului.'
+position: '• Din poziția de profil, brațul pacientului este rotit extern.
 
-  • braț este then extins fully, astfel încât posterior aspect de entire limb este
-  în contact cu tabletop și palm de Mână este facing upwards.
+  • Brațul este apoi extins complet, astfel încât fața posterioară a întregului membru
+  să fie în contact cu suprafața mesei, iar palma să fie orientată în sus.
 
-  • unexposed half de caseta este poziționat under Cot articulație, cu its short axis
-  paralel cu Antebraț (Radius și Ulna).
+  • Jumătatea neexpusă a casetei este poziționată sub articulația cotului, cu axa
+  scurtă paralelă cu antebrațul.
 
-  • braț este ajustat astfel încât medial și Profil (lateral) epicondyles sunt echidistant
-  față de caseta.
+  • Brațul este ajustat astfel încât epicondilii medial și lateral să fie la distanță
+  egală față de casetă.
 
-  • limb este imobilizat using săculeți cu nisip.'
+  • Membrul este imobilizat cu săculeți cu nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -72,15 +71,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- raza centrală trebuie să pass through spații articulare la 90 grade la Humerus la
-  provide satisfactory incidență de spații articulare.
-- imagine trebuie să evidențiază distal third de Humerus și proximal third de radius
-  și ulna.
+- Raza centrală trebuie să traverseze spațiile articulare perpendicular pe humerus,
+  pentru a permite vizualizarea satisfăcătoare a acestora.
+- Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală
+  a radiusului și a ulnei.
 sid_dff: 100 cm
 slug: rx-cot-antero-posterior-p77-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 77
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=77
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -110,7 +109,7 @@ title: Rx Cot Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Cot (Antero - posterior).
+        - Evaluarea radiografică a cotului în incidență antero-posterioară.
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -126,12 +125,12 @@ title: Rx Cot Antero-Posterior (AP)
 
     ---
 
-    - **Poziție Pacient:** • de la Profil (lateral) poziție, pacientul’s braț este externally rotit.
-• braț este then extins fully, astfel încât posterior aspect de entire limb este în contact cu tabletop și palm de Mână este facing upwards.
-• unexposed half de caseta este poziționat under Cot articulație, cu its short axis paralel cu Antebraț (Radius și Ulna).
-• braț este ajustat astfel încât medial și Profil (lateral) epicondyles sunt echidistant față de caseta.
-• limb este imobilizat using săculeți cu nisip.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred through spații articulare 2.5 cm distal la point midway între medial și Profil (lateral) epicondyles de Humerus.
+    - **Poziție Pacient:** • Din poziția de profil, brațul pacientului este rotit extern.
+• Brațul este apoi extins complet, astfel încât fața posterioară a întregului membru să fie în contact cu suprafața mesei, iar palma să fie orientată în sus.
+• Jumătatea neexpusă a casetei este poziționată sub articulația cotului, cu axa scurtă paralelă cu antebrațul.
+• Brațul este ajustat astfel încât epicondilii medial și lateral să fie la distanță egală față de casetă.
+• Membrul este imobilizat cu săculeți cu nisip.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată prin spațiile articulare, la 2.5 cm distal de mijlocul distanței dintre epicondilul medial și cel lateral al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -154,8 +153,8 @@ title: Rx Cot Antero-Posterior (AP)
 
     ---
 
-    - raza centrală trebuie să pass through spații articulare la 90 grade la Humerus la provide satisfactory incidență de spații articulare.
-    - imagine trebuie să evidențiază distal third de Humerus și proximal third de radius și ulna.
+    - Raza centrală trebuie să traverseze spațiile articulare perpendicular pe humerus, pentru a permite vizualizarea satisfăcătoare a acestora.
+    - Imaginea trebuie să evidențieze treimea distală a humerusului și treimea proximală a radiusului și a ulnei.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -168,13 +167,13 @@ title: Rx Cot Antero-Posterior (AP)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • Care trebuie să fie taken when supracondylar suspiciune de fractură de Humerus este suspected. în such cases, fără attempt trebuie să fie made la se extinde Cot articulație, și modified technique trebuie să fie employed.
-• When pacientul este unable la se extinde Cot la 90 grade, modified technique este used pentru Antero-posterior (AP) incidență.
-• If limb cannot fie moved, two incidențe la drept-angles la fiecare other poate fie taken prin keeping limb în same poziție și rotating X-ray tube through 90 grade.
-Antero-posterior (AP) – partial flexion If pacientul este unable la se extinde Cot fully, positioning pentru Antero-posterior (AP) incidență poate fie modified. pentru general survey de Cot, sau if main aria de interes diagnostic este extremitatea proximală radius și ulna, then posterior aspect de Antebraț (Radius și Ulna) trebuie să fie în contact cu caseta. If main aria de interes diagnostic este extremitatea distală Humerus, however, then posterior aspect de Humerus trebuie să fie în contact cu caseta.
-If Cot este imobilizat în fully flectat poziție, then Axială incidență trebuie să fie used instead de Antero-posterior (AP) incidență.
-în ambele de above cases, some superimposition de bones will occur. However, gross injury și general alignment poate fie evidențiat.
-62 Coronoid și olecran fossae epicondil medial (epitrohlee) olecran Trochlea proces coronoid Radial notch Shaft de ulna Shaft de radius Tuberosity de radius cap de radius Capitulum Profil (lateral) epicondyle Radial fossa Shaft de Humerus Antero-posterior (AP) radiografie de Cot Normal Antero-posterior (AP) radiografie de Cot
+    • Este necesară precauție când se suspectează o fractură supracondiliană a humerusului. În aceste cazuri nu se încearcă extensia articulației cotului și se utilizează o tehnică adaptată.
+• Când pacientul nu poate extinde cotul la 90 de grade, se utilizează o tehnică adaptată pentru incidența antero-posterioară.
+• Dacă membrul nu poate fi mobilizat, se pot obține două incidențe perpendiculare menținând membrul în aceeași poziție și rotind tubul radiogen cu 90 de grade.
+Incidență antero-posterioară în flexie parțială. Dacă pacientul nu poate extinde complet cotul, poziționarea pentru incidența antero-posterioară poate fi adaptată. Pentru evaluarea generală a cotului sau dacă zona principală de interes este extremitatea proximală a radiusului și a ulnei, fața posterioară a antebrațului trebuie să fie în contact cu caseta. Dacă zona principală de interes este extremitatea distală a humerusului, fața posterioară a humerusului trebuie să fie în contact cu caseta.
+Dacă articulația cotului este imobilizată în flexie completă, se utilizează o incidență axială în locul celei antero-posterioare.
+În ambele cazuri de mai sus, oasele se vor suprapune parțial. Totuși, leziunile majore și alinierea generală pot fi evidențiate.
+Repere anatomice: fosa coronoidă și fosa olecraniană; epicondilul medial (epitrohleea); olecranul; trohleea; procesul coronoid; incizura radială; diafiza ulnei; diafiza radiusului; tuberozitatea radiusului; capul radiusului; capitulul humeral; epicondilul lateral; fosa radială; diafiza humerusului. Radiografie antero-posterioară a cotului. Radiografie normală antero-posterioară a cotului.
 
 
 ### 🖼️ Imagini
@@ -183,25 +182,25 @@ If Cot este imobilizat în fully flectat poziție, then Axială incidență treb
 
 <figure class="protocol-image-card" markdown>
 
-![• raza centrală verticală centrală este centred through spații articulare](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_1.jpeg)
+![• Raza centrală verticală este centrată prin spațiile articulare.](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_1.jpeg)
 
-<figcaption><strong>• raza centrală verticală centrală este centred through spații articulare</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• raza centrală trebuie să pass through spații articulare la 90](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_2.jpeg)
-
-<figcaption><strong>• raza centrală trebuie să pass through spații articulare la 90</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Raza centrală verticală este centrată prin spațiile articulare.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• Care trebuie să fie taken when supracondylar suspiciune de fractură de the](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_3.jpeg)
+![• Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_2.jpeg)
 
-<figcaption><strong>• Care trebuie să fie taken when supracondylar suspiciune de fractură de the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![• Precauție în cazul suspiciunii de fractură supracondiliană…](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_3.jpeg)
+
+<figcaption><strong>• Precauție în cazul suspiciunii de fractură supracondiliană…</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -218,4 +217,4 @@ If Cot este imobilizat în fully flectat poziție, then Axială incidență treb
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 77](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=77)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 77](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

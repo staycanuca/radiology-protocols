@@ -25,6 +25,9 @@ Protocoale tehnice complete de radiografie convențională și digitală pentru 
   <a href="torace/" class="body-part-card">
     <h3>Torace & Cutie Toracică</h3>
   </a>
+  <a href="mamografie/" class="body-part-card">
+    <h3>Mamografie & Senologie</h3>
+  </a>
   <a href="abdomen/" class="body-part-card">
     <h3>Abdomen & Bazin</h3>
   </a>

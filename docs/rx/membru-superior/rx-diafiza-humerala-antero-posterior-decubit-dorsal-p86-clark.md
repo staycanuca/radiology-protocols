@@ -64,7 +64,7 @@ sid_dff: 100 cm
 slug: rx-diafiza-humerala-antero-posterior-decubit-dorsal-p86-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 86
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=86
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
@@ -203,4 +203,4 @@ title: Rx Diafiză Humerală Antero-Posterior (AP) - Decubit Dorsal
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 86](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=86)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 86](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

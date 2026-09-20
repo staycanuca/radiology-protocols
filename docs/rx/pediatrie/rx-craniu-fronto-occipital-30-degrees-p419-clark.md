@@ -61,7 +61,7 @@ sid_dff: 100 cm
 slug: rx-craniu-fronto-occipital-30-degrees-p419-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 419
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=419
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -187,4 +187,4 @@ Laterally, skin margins trebuie să also fie included within field (Denton 1998)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 419](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=419)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 419](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

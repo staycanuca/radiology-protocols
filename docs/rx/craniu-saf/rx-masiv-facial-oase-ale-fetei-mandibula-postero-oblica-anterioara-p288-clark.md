@@ -3,28 +3,33 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• raza centrală este orientat perpendicular pe casetă și centred 5 cm
-  de la linia mediană, away de la side being examined, la nivelul angles de Mandibulă.
+centering: '• Raza centrală este orientată perpendicular pe casetă și centrată la
+  5 cm de linia mediană, în direcție opusă părții examinate, la nivelul unghiurilor
+  mandibulei.
 
 
-  • Using well-collimated fascicul sau extension cone, raza centrală este înclinat
-  25 grade caudally și will fie centred la point 5 cm superior la articulație remote
-  de la caseta so raza centrală passes through articulație nearer caseta.'
+  • Folosind un fascicul bine colimat sau un con de extensie, raza centrală este înclinată
+  cu 25 de grade caudal și va fi centrată într-un punct situat la 5 cm superior față
+  de articulația îndepărtată de casetă, astfel încât raza centrală să treacă prin
+  articulația mai apropiată de casetă.'
 clinical_indications:
-- TMJ imagini sunt useful în assessing articulație dysfunction prin evidențiind erosive
-  și degenerative changes. Open- și closedmouth incidențe poate fie very helpful în
-  assessing whether normal anterior gliding movement de condil mandibular occurs pe
-  jaw opening. MRI promises greater accuracy, since it also evidențiază articular
-  cartilages și fibrocartilage discs și how they behave during articulație movement.
+- Imaginile TMJ sunt utile pentru evaluarea disfuncției articulației, evidențiind
+  modificările erozive și degenerative. Incidențele cu gura deschisă și închisă pot
+  fi foarte utile pentru evaluarea apariției mișcării normale de alunecare anterioară
+  a condilului mandibular la deschiderea gurii. MRI oferă o precizie mai mare, deoarece
+  evidențiază și cartilajele articulare și discurile fibrocartilaginoase, precum și
+  modul în care acestea se comportă în timpul mișcării articulației.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_2.jpeg
-- caption: mouth incidențe poate fie very helpful în assessing whether normal
+- caption: incidențele cu gura deschisă pot fi foarte utile pentru evaluarea caracterului
+    normal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_3.jpeg
@@ -42,40 +47,56 @@ images:
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• imagine trebuie să include correct side-marker și labels la indicate poziție
-  de mouth when expunere was taken (open, closed, etc.).
+notes: '• imaginea trebuie să includă markerul de lateralitate corect și etichete
+  pentru indicarea poziției gurii în momentul efectuării expunerii (deschisă, închisă
+  etc.).
 
-  • If using Craniu unit în which tubul cannot fie înclinat independently de caseta
-  holder, inter-pupillary line este la drept-angles la imaginary vertical line drawn
-  de la floor.
+  • Dacă se utilizează un aparat pentru craniu la care tubul nu poate fi înclinat
+  independent de suportul casetei, linia interpupilară este perpendiculară pe linia
+  verticală imaginară trasată de la podea.
 
-  • This incidență poate supplement DPT (OPT) imagini de TMJs. Postero-anterior (PA)
-  incidențe poate fie undertaken prin modifying technique described pentru Postero-anterior
-  (PA) Mandibulă pe p. 272.
+  • Această incidență poate completa imaginile DPT (OPT) ale ATM-urilor. Incidențele
+  postero-anterioare (PA) pot fi efectuate prin modificarea tehnicii descrise pentru
+  mandibulă postero-anterioară (PA) la p. 272.
 
-  274 25° Mouth gură deschisă (transorală) closed'
-position: "• pacientul stă așezat facing stativ vertical Bucky sau Craniu unit casetă\
-  \ holder. Alternatively, în case de trauma, incidență poate fie Decubit dorsal pe\
-  \ trolley, giving Antero-posterior (AP) incidență.\n• pacientul’s plan mediosagital\
-  \ trebuie să fie coincident cu linia mediană Bucky sau casetă holder. capul este\
-  \ then ajustat la bring orbito-meatal baseline perpendicular pe Bucky sau casetă\
-  \ holder.\n• de la poziție cu planul mediosagital perpendicular pe casetă, capul\
-  \ este rotit 20 grade la either side, astfel încât cervical vertebra will fie projected\
-  \ clear de simfiză menti.\n• capul este now repositioned so region de simfiză menti\
-  \ este coincident cu middle de caseta.\n• caseta trebuie să fie poziționat astfel\
-  \ încât middle de an 18 \x02 24-cm casetă, when plasat longitudinally în Bucky sau\
-  \ casetă holder, este centred la nivelul angles de Mandibulă.\n\n• pacientul stă\
-  \ așezat facing stativ vertical Bucky sau Craniu unit casetă holder sau lies Decubit\
-  \ ventral pe masa radiologică. în toate cases, capul este rotit la bring side de\
-  \ capul under examination în contact cu masa de examinare. umerii poate also fie\
-  \ rotit slightly la help pacientul achieve this poziție.\n• capul și Bucky sau casetă\
-  \ holder level este ajustat so centre cross-lines sunt poziționat la coincide cu\
-  \ point 1 cm along orbito-meatal baseline anterior la extern auditory meatus.\n\
-  • planul mediosagital este brought paralel cu casetă prin ensuring that inter-pupillary\
-  \ line este la drept-angles la masa de examinare top și nazion și extern occipital\
-  \ protuberance sunt echidistant față de it.\n• caseta este plasat longitudinally\
-  \ în caseta holder, such that two expuneri poate fie made fără superimposition de\
-  \ imagini."
+  274 25° Gură deschisă (transorală) închisă'
+position: '• pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul
+  casetei aparatului pentru craniu. Alternativ, în caz de traumatism, incidența poate
+  fi efectuată în decubit dorsal pe targa mobilă, obținându-se o incidență antero-posterioară
+  (AP).
+
+  • planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului
+  Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală
+  perpendicular pe stativul Bucky sau suportul casetei.
+
+  • din poziția cu planul mediosagital perpendicular pe casetă, capul este rotit cu
+  20 grade spre oricare parte, astfel încât vertebrele cervicale să fie proiectate
+  liber de simfiza mentonieră.
+
+  • capul este repoziționat astfel încât regiunea simfizei mentoniere să coincidă
+  cu mijlocul casetei.
+
+  • caseta trebuie poziționată astfel încât mijlocul unei casete de 18 × 24-cm, plasată
+  longitudinal în stativul Bucky sau suportul casetei, să fie centrat la nivelul unghiurilor
+  mandibulei.
+
+
+  • pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei
+  aparatului pentru craniu ori se află în decubit ventral pe masa radiologică. În
+  toate cazurile, capul este rotit pentru a aduce partea examinată a capului în contact
+  cu masa de examinare. Umerii pot fi, de asemenea, rotiți ușor pentru a ajuta pacientul
+  să obțină această poziție.
+
+  • nivelul capului și al stativului Bucky sau suportului casetei este ajustat astfel
+  încât liniile centrale încrucișate să coincidă cu punctul situat la 1 cm de-a lungul
+  liniei orbitomeatale, anterior de meatul auditiv extern.
+
+  • planul mediosagital este adus paralel cu caseta, asigurându-se că linia interpupilară
+  este perpendiculară pe suprafața mesei de examinare și că nazionul și protuberanța
+  occipitală externă sunt echidistante față de aceasta.
+
+  • caseta este plasată longitudinal în suportul casetei, astfel încât să poată fi
+  efectuate două expuneri fără suprapunerea imaginilor.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -84,24 +105,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- simfiză menti trebuie să evidențiat fără orice superimposition de cervical vertebra.
-  20° Cervical vertebra Mandibulă casetă
+- simfiza mentonieră trebuie evidențiată fără nicio suprapunere a vertebrelor cervicale.
+  20° Vertebră cervicală Mandibulă Casetă
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 288
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=288
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioară'
+  mas: Conform AEC / grosimii anatomice
+title: 'Radiografia masivului facial (oaselor feței), mandibulă: incidență postero-oblică
+  anterioară'
 ---
-# Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioară
+# Radiografia masivului facial (oaselor feței), mandibulă: incidență postero-oblică anterioară
 
 
 <div class="rx-meta-bar">
@@ -120,7 +142,7 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 
     === "Indicații Clinice"
 
-        - TMJ imagini sunt useful în assessing articulație dysfunction prin evidențiind erosive și degenerative changes. Open- și closedmouth incidențe poate fie very helpful în assessing whether normal anterior gliding movement de condil mandibular occurs pe jaw opening. MRI promises greater accuracy, since it also evidențiază articular cartilages și fibrocartilage discs și how they behave during articulație movement.
+        - Imaginile TMJ sunt utile pentru evaluarea disfuncției articulației, evidențiind modificările erozive și degenerative. Incidențele cu gura deschisă și închisă pot fi foarte utile pentru evaluarea apariției mișcării normale de alunecare anterioară a condilului mandibular la deschiderea gurii. MRI oferă o precizie mai mare, deoarece evidențiază și cartilajele articulare și discurile fibrocartilaginoase, precum și modul în care acestea se comportă în timpul mișcării articulației.
 
     === "Ghid Național IRIS"
 
@@ -134,19 +156,19 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat facing stativ vertical Bucky sau Craniu unit casetă holder. Alternatively, în case de trauma, incidență poate fie Decubit dorsal pe trolley, giving Antero-posterior (AP) incidență.
-• pacientul’s plan mediosagital trebuie să fie coincident cu linia mediană Bucky sau casetă holder. capul este then ajustat la bring orbito-meatal baseline perpendicular pe Bucky sau casetă holder.
-• de la poziție cu planul mediosagital perpendicular pe casetă, capul este rotit 20 grade la either side, astfel încât cervical vertebra will fie projected clear de simfiză menti.
-• capul este now repositioned so region de simfiză menti este coincident cu middle de caseta.
-• caseta trebuie să fie poziționat astfel încât middle de an 18  24-cm casetă, when plasat longitudinally în Bucky sau casetă holder, este centred la nivelul angles de Mandibulă.
+    - **Poziție Pacient:** • pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu. Alternativ, în caz de traumatism, incidența poate fi efectuată în decubit dorsal pe targa mobilă, obținându-se o incidență antero-posterioară (AP).
+• planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală perpendicular pe stativul Bucky sau suportul casetei.
+• din poziția cu planul mediosagital perpendicular pe casetă, capul este rotit cu 20 grade spre oricare parte, astfel încât vertebrele cervicale să fie proiectate liber de simfiza mentonieră.
+• capul este repoziționat astfel încât regiunea simfizei mentoniere să coincidă cu mijlocul casetei.
+• caseta trebuie poziționată astfel încât mijlocul unei casete de 18 × 24-cm, plasată longitudinal în stativul Bucky sau suportul casetei, să fie centrat la nivelul unghiurilor mandibulei.
 
-• pacientul stă așezat facing stativ vertical Bucky sau Craniu unit casetă holder sau lies Decubit ventral pe masa radiologică. în toate cases, capul este rotit la bring side de capul under examination în contact cu masa de examinare. umerii poate also fie rotit slightly la help pacientul achieve this poziție.
-• capul și Bucky sau casetă holder level este ajustat so centre cross-lines sunt poziționat la coincide cu point 1 cm along orbito-meatal baseline anterior la extern auditory meatus.
-• planul mediosagital este brought paralel cu casetă prin ensuring that inter-pupillary line este la drept-angles la masa de examinare top și nazion și extern occipital protuberance sunt echidistant față de it.
-• caseta este plasat longitudinally în caseta holder, such that two expuneri poate fie made fără superimposition de imagini.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat perpendicular pe casetă și centred 5 cm de la linia mediană, away de la side being examined, la nivelul angles de Mandibulă.
+• pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu ori se află în decubit ventral pe masa radiologică. În toate cazurile, capul este rotit pentru a aduce partea examinată a capului în contact cu masa de examinare. Umerii pot fi, de asemenea, rotiți ușor pentru a ajuta pacientul să obțină această poziție.
+• nivelul capului și al stativului Bucky sau suportului casetei este ajustat astfel încât liniile centrale încrucișate să coincidă cu punctul situat la 1 cm de-a lungul liniei orbitomeatale, anterior de meatul auditiv extern.
+• planul mediosagital este adus paralel cu caseta, asigurându-se că linia interpupilară este perpendiculară pe suprafața mesei de examinare și că nazionul și protuberanța occipitală externă sunt echidistante față de aceasta.
+• caseta este plasată longitudinal în suportul casetei, astfel încât să poată fi efectuate două expuneri fără suprapunerea imaginilor.
+    - **Punct de Centrare Fascicul:** • Raza centrală este orientată perpendicular pe casetă și centrată la 5 cm de linia mediană, în direcție opusă părții examinate, la nivelul unghiurilor mandibulei.
 
-• Using well-collimated fascicul sau extension cone, raza centrală este înclinat 25 grade caudally și will fie centred la point 5 cm superior la articulație remote de la caseta so raza centrală passes through articulație nearer caseta.
+• Folosind un fascicul bine colimat sau un con de extensie, raza centrală este înclinată cu 25 de grade caudal și va fi centrată într-un punct situat la 5 cm superior față de articulația îndepărtată de casetă, astfel încât raza centrală să treacă prin articulația mai apropiată de casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -157,19 +179,19 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - simfiză menti trebuie să evidențiat fără orice superimposition de cervical vertebra. 20° Cervical vertebra Mandibulă casetă
+    - simfiza mentonieră trebuie evidențiată fără nicio suprapunere a vertebrelor cervicale. 20° Vertebră cervicală Mandibulă Casetă
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -182,10 +204,10 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • imagine trebuie să include correct side-marker și labels la indicate poziție de mouth when expunere was taken (open, closed, etc.).
-• If using Craniu unit în which tubul cannot fie înclinat independently de caseta holder, inter-pupillary line este la drept-angles la imaginary vertical line drawn de la floor.
-• This incidență poate supplement DPT (OPT) imagini de TMJs. Postero-anterior (PA) incidențe poate fie undertaken prin modifying technique described pentru Postero-anterior (PA) Mandibulă pe p. 272.
-274 25° Mouth gură deschisă (transorală) closed
+    • imaginea trebuie să includă markerul de lateralitate corect și etichete pentru indicarea poziției gurii în momentul efectuării expunerii (deschisă, închisă etc.).
+• Dacă se utilizează un aparat pentru craniu la care tubul nu poate fi înclinat independent de suportul casetei, linia interpupilară este perpendiculară pe linia verticală imaginară trasată de la podea.
+• Această incidență poate completa imaginile DPT (OPT) ale ATM-urilor. Incidențele postero-anterioare (PA) pot fi efectuate prin modificarea tehnicii descrise pentru mandibulă postero-anterioară (PA) la p. 272.
+274 25° Gură deschisă (transorală) închisă
 
 
 ### 🖼️ Imagini
@@ -196,7 +218,7 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -210,9 +232,9 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 
 <figure class="protocol-image-card" markdown>
 
-![mouth incidențe poate fie very helpful în assessing whether normal](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_3.jpeg)
+![incidențele cu gura deschisă pot fi foarte utile pentru evaluarea caracterului normal](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_3.jpeg)
 
-<figcaption><strong>mouth incidențe poate fie very helpful în assessing whether normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>incidențele cu gura deschisă pot fi foarte utile pentru evaluarea caracterului normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -253,4 +275,4 @@ title: 'Rx Masiv Facial (Oase ale Feței) Mandibulă: postero - Oblică Anterioa
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 288](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=288)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 288](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

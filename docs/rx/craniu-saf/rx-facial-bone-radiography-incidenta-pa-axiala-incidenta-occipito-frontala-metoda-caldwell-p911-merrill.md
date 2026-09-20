@@ -2,123 +2,126 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: se orientează raza centrală centrală la exit nazion la un unghi de 15 grade
-  caudal. la show orbital rims, în particular, orbital floors, use a 30-grade caudal
-  angle (sometimes referred la ca exaͨ erated Caldwell). Se centrează receptorul de
-  imagine pe raza centrală.
+centering: se orientează raza centrală spre ieșirea nazionului, la un unghi de 15
+  grade caudal. Pentru evidențierea marginilor orbitare, în special a planșeelor orbitare,
+  se utilizează un unghi de 30 de grade caudal (denumit uneori Caldwell exagerat).
+  Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 912, imaginea 1
+- caption: Merrill — pagina 912, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-facial-bone-radiography-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p911-merrill/p912_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral sau Poziție Șezândă poziție. Center
-  MSP de pacientul’s corp la linia mediană grilă. se sprijină pacientul’s forehead
-  și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky. se flectează
-  pacient’s coate, și place brațele în comfortable poziție.; se ajustează flexion
-  de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe
-  plane de receptorul de imagine. If pacientul este obese sau hypersthenic, small
-  radiolucent sponge poate need la fie plasat în front de forehead. Align MSP de capul
-  perpendicular pe receptorul de imagine (RI) prin adjusting lateral margins de Orbite
-  sau conduct auditiv extern (CAE) echidistant față de tabletop. Se imobilizează capul
-  pacientului, și se centrează receptorul de imagine la nazion (Fig. 11.115).
+position: se așază pacientul în decubit ventral sau în poziție șezândă. Se centrează
+  MSP al corpului pacientului pe linia mediană a grilei. Se sprijină fruntea și nasul
+  pacientului pe masa de examinare sau pe stativul vertical Bucky. Se flectează coatele
+  pacientului și se așază brațele într-o poziție confortabilă. Se ajustează flexia
+  gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară
+  pe planul receptorului de imagine. Dacă pacientul este obez sau hiperstenic, poate
+  fi necesar să se plaseze un burete radiotransparent în fața frunții. Se aliniază
+  MSP al capului perpendicular pe receptorul de imagine (RI), ajustând marginile laterale
+  ale orbitelor sau conductele auditive externe (CAE) astfel încât să fie echidistante
+  față de tăblia mesei. Se imobilizează capul pacientului și se centrează receptorul
+  de imagine la nivelul nazionului (Fig. 11.115).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire
-  Orbite și Masiv Facial (Oase ale Feței) n Absența rotației anatomice (simetrie bilaterală
-  perfectă) sau tilt, evidențiat prin:'
-- Equal distances de la lateral margini de Craniu la lateral margini de Orbite pe
-  ambele părți (bilateral)
-- MSP de cap aliniat cu axa longitudinală de câmp colimat n simetric stânci temporale
-  (piramide pietroase) culcat în lower third de orbit n Bony detail și surrounding
-  soft tissues
+- 'Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența
+  markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Orbitele
+  în întregime și masivul facial (oasele feței) n Absența rotației anatomice (simetrie
+  bilaterală perfectă) sau a înclinării, evidențiată prin:'
+- Distanțe egale de la marginile laterale ale craniului la marginile laterale ale
+  orbitelor pe ambele părți (bilateral)
+- MSP al capului aliniat cu axa longitudinală a câmpului colimat; stâncile temporale
+  (piramidele pietroase) proiectate simetric în treimea inferioară a orbitelor; detaliu
+  osos și țesuturi moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-facial-bone-radiography-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p911-merrill
 source_pages:
 - 911
 - 912
 source_sections:
-  anatomy: orbital rims, maxillae, nasal septum, zygomatic bones, și anterior nasal
-    coloană vertebrală. When raza centrală este Înclinat 15 grade caudal la nazion,
-    stânci temporale (piramide pietroase) sunt projected into lower third de orbits
-    (Fig. 11.116). When raza centrală este Înclinat 30 grade caudal, stânci temporale
-    (piramide pietroase) sunt projected below inferior margins de orbits.
-  collimation: '• se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond
-    lateral sides de fața, superiorly pentru include supraorbital
-
-    margins, și inferiorly la bărbia. expunere field trebuie să fie fără larger than
-    8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.'
-  cr: '• se orientează raza centrală centrală la exit nazion la un unghi de 15 grade
+  anatomy: marginile orbitare, maxilarele, septul nazal, oasele zigomatice și coloana
+    nazală anterioară. Când raza centrală este înclinată cu 15 grade caudal spre nazion,
+    stâncile temporale (piramidele pietroase) sunt proiectate în treimea inferioară
+    a orbitelor (Fig. 11.116). Când raza centrală este înclinată cu 30 de grade caudal,
+    stâncile temporale (piramidele pietroase) sunt proiectate sub marginile inferioare
+    ale orbitelor.
+  collimation: • se ajustează câmpul de iradiere pentru a se extinde cu aproximativ
+    1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior pentru a include
+    marginile supraorbitare și inferior până la bărbie. Câmpul de expunere nu trebuie
+    să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• se orientează raza centrală spre ieșirea nazionului, la un unghi de 15 grade
     caudal.
 
-    • la show orbital rims, în particular, orbital floors, use a 30-grade caudal angle
-    (sometimes referred la ca exaͨ erated
-
-    Caldwell).
+    • Pentru evidențierea marginilor orbitare, în special a planșeelor orbitare, se
+    utilizează un unghi de 30 de grade caudal (denumit uneori Caldwell exagerat).
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    ▪ Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    n Entire orbits și facial bones
+    ▪ Orbitele și oasele feței în întregime
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-    prin:
+    ▪ Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+    evidențiată prin:
 
-    • Equal distances de la lateral margini de skull la lateral margini de orbits
-    pe ambele părți (bilateral)
+    • Distanțe egale de la marginile laterale ale craniului la marginile laterale
+    ale orbitelor, bilateral
 
-    • MSP de cap aliniat cu axa longitudinală de câmp colimat
+    • MSP al capului aliniat cu axa longitudinală a câmpului colimat
 
-    n simetric stânci temporale (piramide pietroase) culcat în lower third de orbit
+    ▪ Stânci temporale (piramide pietroase) proiectate simetric în treimea inferioară
+    a orbitelor
 
-    n Bony detail și surrounding soft tissues'
-  part_pos: '• se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală
-    (LOM) este perpendicular pe plane de receptorul de imagine.
+    ▪ Detaliu osos și țesuturi moi înconjurătoare'
+  part_pos: '• se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală
+    (LOM) să fie perpendiculară pe planul receptorului de imagine.
 
-    • If pacientul este obese sau hypersthenic, small radiolucent sponge poate need
-    la fie plasat în front de forehead.
+    • Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un
+    burete radiotransparent în fața frunții.
 
-    • Align MSP de capul perpendicular pe receptorul de imagine (RI) prin adjusting
-    lateral margins de orbits sau conduct auditiv extern (CAE) echidistant față de
-    tabletop.
+    • Se aliniază MSP al capului perpendicular pe receptorul de imagine (RI), ajustând
+    marginile laterale ale orbitelor sau conductele auditive externe (CAE) astfel
+    încât să fie echidistante față de tăblia mesei.
 
-    • Se imobilizează capul pacientului, și se centrează receptorul de imagine la
-    nazion (Fig. 11.115).'
-  patient_pos: '• se așază pacientul în decubit ventral sau așezat pe scaun poziție.
+    • Se imobilizează capul pacientului și se centrează receptorul de imagine la nivelul
+    nazionului (Fig. 11.115).'
+  patient_pos: '• se așază pacientul în decubit ventral sau în poziție șezândă pe
+    scaun.
 
-    • Center MSP de pacientul’s corp la linia mediană grilă.
+    • Se centrează MSP al corpului pacientului pe linia mediană a grilei.
 
-    • se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit
-    de stativ vertical Bucky.
+    • se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul
+    vertical Bucky.
 
-    • se flectează pacient’s coate, și place brațele în comfortable poziție.'
+    • se flectează coatele pacientului și se așază brațele într-o poziție confortabilă.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 911–912
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=911
+- title: Merrill’s Atlas, 11. Cranium, pagini 911–912
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond
-    lateral sides de fața, superiorly pentru include supraorbital margins, și inferiorly
-    la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 ×
-    24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occipito-Frontală
+  collimation: se ajustează câmpul de iradiere pentru a se extinde cu aproximativ
+    1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior pentru a include
+    marginile supraorbitare și inferior până la bărbie. Câmpul de expunere nu trebuie
+    să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Radiografia oaselor feței — Incidență PA axială — Incidență occipito-frontală
   (Metoda Caldwell) (Merrill)
 ---
-# Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occipito-Frontală (Metoda Caldwell) (Merrill)
+# Radiografia oaselor feței — Incidență PA axială — Incidență occipito-frontală (Metoda Caldwell) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -151,8 +154,8 @@ title: Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occ
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral sau Poziție Șezândă poziție. Center MSP de pacientul’s corp la linia mediană grilă. se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky. se flectează pacient’s coate, și place brațele în comfortable poziție.; se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine. If pacientul este obese sau hypersthenic, small radiolucent sponge poate need la fie plasat în front de forehead. Align MSP de capul perpendicular pe receptorul de imagine (RI) prin adjusting lateral margins de Orbite sau conduct auditiv extern (CAE) echidistant față de tabletop. Se imobilizează capul pacientului, și se centrează receptorul de imagine la nazion (Fig. 11.115).
-    - **Punct de Centrare Fascicul:** se orientează raza centrală centrală la exit nazion la un unghi de 15 grade caudal. la show orbital rims, în particular, orbital floors, use a 30-grade caudal angle (sometimes referred la ca exaͨ erated Caldwell). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** se așază pacientul în decubit ventral sau în poziție șezândă. Se centrează MSP al corpului pacientului pe linia mediană a grilei. Se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul vertical Bucky. Se flectează coatele pacientului și se așază brațele într-o poziție confortabilă. Se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine. Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un burete radiotransparent în fața frunții. Se aliniază MSP al capului perpendicular pe receptorul de imagine (RI), ajustând marginile laterale ale orbitelor sau conductele auditive externe (CAE) astfel încât să fie echidistante față de tăblia mesei. Se imobilizează capul pacientului și se centrează receptorul de imagine la nivelul nazionului (Fig. 11.115).
+    - **Punct de Centrare Fascicul:** se orientează raza centrală spre ieșirea nazionului, la un unghi de 15 grade caudal. Pentru evidențierea marginilor orbitare, în special a planșeelor orbitare, se utilizează un unghi de 30 de grade caudal (denumit uneori Caldwell exagerat). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -168,16 +171,16 @@ title: Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occ
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond lateral sides de fața, superiorly pentru include supraorbital margins, și inferiorly la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde cu aproximativ 1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior pentru a include marginile supraorbitare și inferior până la bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Entire Orbite și Masiv Facial (Oase ale Feței) n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-    - Equal distances de la lateral margini de Craniu la lateral margini de Orbite pe ambele părți (bilateral)
-    - MSP de cap aliniat cu axa longitudinală de câmp colimat n simetric stânci temporale (piramide pietroase) culcat în lower third de orbit n Bony detail și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Orbitele în întregime și masivul facial (oasele feței) n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - Distanțe egale de la marginile laterale ale craniului la marginile laterale ale orbitelor pe ambele părți (bilateral)
+    - MSP al capului aliniat cu axa longitudinală a câmpului colimat; stâncile temporale (piramidele pietroase) proiectate simetric în treimea inferioară a orbitelor; detaliu osos și țesuturi moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,9 +200,9 @@ title: Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occ
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 912, imaginea 1](../../assets/images/protocols/merrill/rx-facial-bone-radiography-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p911-merrill/p912_fig1.png)
+![Merrill — pagina 912, imaginea 1](../../assets/images/protocols/merrill/rx-facial-bone-radiography-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p911-merrill/p912_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 912, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 912, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -216,57 +219,55 @@ title: Rx Facial Bone Radiography — Incidență PA Axială — Incidență Occ
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 911–912](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=911)
+- [Merrill’s Atlas, 11. Cranium, pagini 911–912](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-orbital rims, maxillae, nasal septum, zygomatic bones, și anterior nasal coloană vertebrală. When raza centrală este Înclinat 15 grade caudal la nazion, stânci temporale (piramide pietroase) sunt projected into lower third de orbits (Fig. 11.116). When raza centrală este Înclinat 30 grade caudal, stânci temporale (piramide pietroase) sunt projected below inferior margins de orbits.
+marginile orbitare, maxilarele, septul nazal, oasele zigomatice și coloana nazală anterioară. Când raza centrală este înclinată cu 15 grade caudal spre nazion, stâncile temporale (piramidele pietroase) sunt proiectate în treimea inferioară a orbitelor (Fig. 11.116). Când raza centrală este înclinată cu 30 de grade caudal, stâncile temporale (piramidele pietroase) sunt proiectate sub marginile inferioare ale orbitelor.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend about 1 inch (2.5 cm) beyond lateral sides de fața, superiorly pentru include supraorbital
-margins, și inferiorly la bărbia. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere pentru a se extinde cu aproximativ 1 inch (2.5 cm) dincolo de marginile laterale ale feței, superior pentru a include marginile supraorbitare și inferior până la bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• se orientează raza centrală centrală la exit nazion la un unghi de 15 grade caudal.
-• la show orbital rims, în particular, orbital floors, use a 30-grade caudal angle (sometimes referred la ca exaͨ erated
-Caldwell).
+• se orientează raza centrală spre ieșirea nazionului, la un unghi de 15 grade caudal.
+• Pentru evidențierea marginilor orbitare, în special a planșeelor orbitare, se utilizează un unghi de 30 de grade caudal (denumit uneori Caldwell exagerat).
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Entire orbits și facial bones
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-• Equal distances de la lateral margini de skull la lateral margini de orbits pe ambele părți (bilateral)
-• MSP de cap aliniat cu axa longitudinală de câmp colimat
-n simetric stânci temporale (piramide pietroase) culcat în lower third de orbit
-n Bony detail și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+▪ Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+▪ Orbitele și oasele feței în întregime
+▪ Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+• Distanțe egale de la marginile laterale ale craniului la marginile laterale ale orbitelor, bilateral
+• MSP al capului aliniat cu axa longitudinală a câmpului colimat
+▪ Stânci temporale (piramide pietroase) proiectate simetric în treimea inferioară a orbitelor
+▪ Detaliu osos și țesuturi moi înconjurătoare
 
 ### part_pos
 
-• se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine.
-• If pacientul este obese sau hypersthenic, small radiolucent sponge poate need la fie plasat în front de forehead.
-• Align MSP de capul perpendicular pe receptorul de imagine (RI) prin adjusting lateral margins de orbits sau conduct auditiv extern (CAE) echidistant față de tabletop.
-• Se imobilizează capul pacientului, și se centrează receptorul de imagine la nazion (Fig. 11.115).
+• se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine.
+• Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un burete radiotransparent în fața frunții.
+• Se aliniază MSP al capului perpendicular pe receptorul de imagine (RI), ajustând marginile laterale ale orbitelor sau conductele auditive externe (CAE) astfel încât să fie echidistante față de tăblia mesei.
+• Se imobilizează capul pacientului și se centrează receptorul de imagine la nivelul nazionului (Fig. 11.115).
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral sau așezat pe scaun poziție.
-• Center MSP de pacientul’s corp la linia mediană grilă.
-• se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky.
-• se flectează pacient’s coate, și place brațele în comfortable poziție.
+• se așază pacientul în decubit ventral sau în poziție șezândă pe scaun.
+• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
+• se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul vertical Bucky.
+• se flectează coatele pacientului și se așază brațele într-o poziție confortabilă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

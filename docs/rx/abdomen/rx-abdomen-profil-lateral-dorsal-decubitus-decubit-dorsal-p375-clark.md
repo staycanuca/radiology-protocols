@@ -5,51 +5,55 @@ breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pent
 category: abdomen
 centering: • Raza centrală orizontală este orientată perpendicular pe centrul casetei.
 clinical_indications:
-- Evaluare radiografică regiunii Abdomen (Profil (lateral) dorsal decubit - Decubit
-  dorsal).
+- Evaluarea radiografică a regiunii abdominale (incidență de profil în decubit dorsal
+  - decubit dorsal).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: evidențiază calcificări patologice de abdominal aorta. Abdominal
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: evidențiază calcificări patologice ale aortei abdominale. Abdominal
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_1.jpeg
-- caption: aortic calcificări patologice este variable, even în presence de an
+- caption: Calcificările patologice ale aortei sunt variabile, chiar și în prezența
+    unui
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_2.jpeg
-- caption: pe conventional Antero-posterior (AP) radiografie. în example
+- caption: pe radiografia anteroposterioară (AP) convențională. În exemplu
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_3.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Pneumoperitoneu (aer liber în cavitatea peritoneală) poate sometimes fie evidențiat
-  pe conventional Antero-posterior (AP) radiografie. în example opposite, pneumoperitoneu
-  (aer liber subdiafragmatic) este evidențiat prin presence de double perete sign.
-  în this imagine ambele inside și outside de bowel perete sunt seen, ca compared
-  cu just lumen side normally, ca result de air ambele within lumen de bowel și liber
-  în peritoneal cavity surrounding section de bowel.
+notes: 'Pneumoperitoneul (aer liber în cavitatea peritoneală) poate fi uneori evidențiat
+  pe radiografia anteroposterioară (AP) convențională. În exemplul alăturat, pneumoperitoneul
+  (aer liber subdiafragmatic) este evidențiat prin prezența semnului peretelui dublu.
+  În această imagine sunt vizibile atât suprafața internă, cât și cea externă a peretelui
+  intestinal, comparativ cu doar suprafața luminală vizibilă în mod normal, ca urmare
+  a prezenței aerului atât în lumenul intestinal, cât și liber în cavitatea peritoneală,
+  în jurul segmentului intestinal.
 
-  360 Antero-posterior (AP) radiografie de Abdomen evidențiind extensive Pneumoperitoneu
-  (aer liber în cavitatea peritoneală) (arrowheads) și double lumen effect evidențiat
-  în stâng etajul abdominal superior (arrows) Profil (lateral) dorsal decubit imagine
-  de abdomenul evidențiind Pneumoperitoneu (aer liber în cavitatea peritoneală) culcat
-  adjacent la anterior abdominal perete'
-position: '• mobile set este poziționat so ca la enable Fascicul Orizontal radiografie.
+  360 Radiografie anteroposterioară (AP) a abdomenului care evidențiază pneumoperitoneu
+  extins (aer liber în cavitatea peritoneală) (vârfuri de săgeată) și efectul de lumen
+  dublu evidențiat în partea stângă a etajului abdominal superior (săgeți). Imagine
+  de profil a abdomenului în decubit dorsal care evidențiază pneumoperitoneu (aer
+  liber în cavitatea peritoneală) situat adiacent peretelui abdominal anterior'
+position: '• Aparatul mobil este poziționat astfel încât să permită radiografia cu
+  fascicul orizontal.
 
-  • pacientul este culcat Decubit dorsal și, if possible, este raised off bed pe la
-  supporting foam pad.
+  • Pacientul este culcat în decubit dorsal și, dacă este posibil, este ridicat de
+  pe pat pe o pernă de susținere din spumă.
 
-  • brațele sunt extins și sprijinit above capul.
+  • Brațele sunt extinse și sprijinite deasupra capului.
 
-  • casetă cu grilă antidifuzoare este sprijinit vertically pe / sprijinit de Profil
-  (lateral) aspect de abdomenul și ajustat paralel cu plan mediosagital.
+  • Caseta cu grilă antidifuzoare este sprijinită vertical pe fața laterală a abdomenului
+  și ajustată paralel cu planul mediosagital.
 
-  • imagine trebuie să include dome de cupole diafragmatice, anterior abdominal perete
-  și vertebral corpuri.'
+  • Imaginea trebuie să includă cupolele diafragmatice, peretele abdominal anterior
+  și corpurile vertebrale.'
 protection:
-- A mobile radiation protection barrier should be positioned behind the cassette to
-  confine the primary radiation field.
+- Un paravan mobil de radioprotecție trebuie poziționat în spatele casetei pentru
+  a limita câmpul radiației primare.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -57,7 +61,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Abdomen).
+- Vizualizarea clară a întregii arii anatomice (Abdomen).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -65,18 +69,18 @@ sid_dff: 100 cm
 slug: rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 375
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=375
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
+  mas: Conform AEC / grosimii anatomice
+title: Rx Abdomen de profil în decubit dorsal - decubit dorsal
 ---
-# Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
+# Rx Abdomen de profil în decubit dorsal - decubit dorsal
 
 
 <div class="rx-meta-bar">
@@ -95,7 +99,7 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Abdomen (Profil (lateral) dorsal decubit - Decubit dorsal).
+        - Evaluarea radiografică a regiunii abdominale (incidență de profil în decubit dorsal - decubit dorsal).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -111,11 +115,11 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 
     ---
 
-    - **Poziție Pacient:** • mobile set este poziționat so ca la enable Fascicul Orizontal radiografie.
-• pacientul este culcat Decubit dorsal și, if possible, este raised off bed pe la supporting foam pad.
-• brațele sunt extins și sprijinit above capul.
-• casetă cu grilă antidifuzoare este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de abdomenul și ajustat paralel cu plan mediosagital.
-• imagine trebuie să include dome de cupole diafragmatice, anterior abdominal perete și vertebral corpuri.
+    - **Poziție Pacient:** • Aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal.
+• Pacientul este culcat în decubit dorsal și, dacă este posibil, este ridicat de pe pat pe o pernă de susținere din spumă.
+• Brațele sunt extinse și sprijinite deasupra capului.
+• Caseta cu grilă antidifuzoare este sprijinită vertical pe fața laterală a abdomenului și ajustată paralel cu planul mediosagital.
+• Imaginea trebuie să includă cupolele diafragmatice, peretele abdominal anterior și corpurile vertebrale.
     - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -127,19 +131,19 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Abdomen).
+    - Vizualizarea clară a întregii arii anatomice (Abdomen).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -147,7 +151,7 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 
     ---
 
-    - A mobile radiation protection barrier should be positioned behind the cassette to confine the primary radiation field.
+    - Un paravan mobil de radioprotecție trebuie poziționat în spatele casetei pentru a limita câmpul radiației primare.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
@@ -155,8 +159,8 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Pneumoperitoneu (aer liber în cavitatea peritoneală) poate sometimes fie evidențiat pe conventional Antero-posterior (AP) radiografie. în example opposite, pneumoperitoneu (aer liber subdiafragmatic) este evidențiat prin presence de double perete sign. în this imagine ambele inside și outside de bowel perete sunt seen, ca compared cu just lumen side normally, ca result de air ambele within lumen de bowel și liber în peritoneal cavity surrounding section de bowel.
-360 Antero-posterior (AP) radiografie de Abdomen evidențiind extensive Pneumoperitoneu (aer liber în cavitatea peritoneală) (arrowheads) și double lumen effect evidențiat în stâng etajul abdominal superior (arrows) Profil (lateral) dorsal decubit imagine de abdomenul evidențiind Pneumoperitoneu (aer liber în cavitatea peritoneală) culcat adjacent la anterior abdominal perete
+    Pneumoperitoneul (aer liber în cavitatea peritoneală) poate fi uneori evidențiat pe radiografia anteroposterioară (AP) convențională. În exemplul alăturat, pneumoperitoneul (aer liber subdiafragmatic) este evidențiat prin prezența semnului peretelui dublu. În această imagine sunt vizibile atât suprafața internă, cât și cea externă a peretelui intestinal, comparativ cu doar suprafața luminală vizibilă în mod normal, ca urmare a prezenței aerului atât în lumenul intestinal, cât și liber în cavitatea peritoneală, în jurul segmentului intestinal.
+360 Radiografie anteroposterioară (AP) a abdomenului care evidențiază pneumoperitoneu extins (aer liber în cavitatea peritoneală) (vârfuri de săgeată) și efectul de lumen dublu evidențiat în partea stângă a etajului abdominal superior (săgeți). Imagine de profil a abdomenului în decubit dorsal care evidențiază pneumoperitoneu (aer liber în cavitatea peritoneală) situat adiacent peretelui abdominal anterior
 
 
 ### 🖼️ Imagini
@@ -165,25 +169,25 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 
 <figure class="protocol-image-card" markdown>
 
-![evidențiază calcificări patologice de abdominal aorta. Abdominal](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_1.jpeg)
+![evidențiază calcificări patologice ale aortei abdominale. Abdominal](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_1.jpeg)
 
-<figcaption><strong>evidențiază calcificări patologice de abdominal aorta. Abdominal</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![aortic calcificări patologice este variable, even în presence de an](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_2.jpeg)
-
-<figcaption><strong>aortic calcificări patologice este variable, even în presence de an</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>evidențiază calcificări patologice ale aortei abdominale. Abdominal</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![pe conventional Antero-posterior (AP) radiografie. în example](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_3.jpeg)
+![Calcificările patologice ale aortei sunt variabile, chiar și în prezența unui](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_2.jpeg)
 
-<figcaption><strong>pe conventional Antero-posterior (AP) radiografie. în example</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Calcificările patologice ale aortei sunt variabile, chiar și în prezența unui</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![pe radiografia anteroposterioară (AP) convențională. În exemplu](../../assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_3.jpeg)
+
+<figcaption><strong>pe radiografia anteroposterioară (AP) convențională. În exemplu</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -200,4 +204,4 @@ title: Rx Abdomen Profil (Lateral) Decubit Dorsal - Decubit Dorsal
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 375](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=375)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 375](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

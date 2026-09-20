@@ -7,7 +7,7 @@ hide:
 
 # Ghidul Protocoalelor de Rezonanță Magnetică (IRM)
 
-Protocoale clinice și tehnice standardizate de **Imagistică prin Rezonanță Magnetică (IRM)** pentru domeniile esențiale: neuroradiologie, sistem musculoscheletal, abdomen-pelvis, cardio-IRM și senologie. Toate protocoalele sunt adaptate recomandărilor **Ghidului Național IRIS (Ordinul MS 1342/2012)** și ghidurilor internaționale de bună practică (ACR, ESR, ESUR, PI-RADS, BI-RADS).
+Protocoale clinice și tehnice standardizate de **Imagistică prin Rezonanță Magnetică (IRM)** pentru domeniile esențiale: neuroradiologie, sistem musculoscheletal, abdomen-pelvis, cardio-IRM, senologie și **imagistică pediatrică (WFPI)**. Toate protocoalele sunt adaptate recomandărilor **Ghidului Național IRIS (Ordinul MS 1342/2012)** și ghidurilor internaționale de bună practică (WFPI, ACR, ESR, ESUR, PI-RADS, BI-RADS).
 
 <div class="iris-official-banner" style="margin-bottom: 24px;">
   <div class="iris-official-badge">🧲 CÂMP MAGNETIC NON-IONANT & SECURITATE RM</div>
@@ -36,5 +36,8 @@ Protocoale clinice și tehnice standardizate de **Imagistică prin Rezonanță M
   </a>
   <a href="san/" class="body-part-card">
     <h3>IRM Mamar Multiparametric (Protocol BI-RADS)</h3>
+  </a>
+  <a href="pediatrie/" class="body-part-card">
+    <h3>Imagistică Pediatrică (WFPI - Creier Rapid, Convulsii, Ventriculi, Abdomen, MSK)</h3>
   </a>
 </div>

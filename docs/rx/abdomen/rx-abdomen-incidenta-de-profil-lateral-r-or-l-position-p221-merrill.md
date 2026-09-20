@@ -2,38 +2,39 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe receptorul de imagine (RI) și entering planul mediocoronal
-  la nivelul crestele iliace sau 2 inches (5 cm) above crestele iliace if cupole diafragmatice
-  este included.
+centering: perpendicular pe receptorul de imagine (RI), pătrunzând în planul mediocoronal
+  la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor iliace dacă
+  se includ cupolele diafragmatice.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 222, imaginea 1
+- caption: Merrill — pagina 222, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p222_fig1.png
-- caption: Merrill — pagina PDF 223, imaginea 2
+- caption: Merrill — pagina 223, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p223_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Turn pacientul la lateral Decubit poziție pe drept sau stâng side.; se flectează
-  pacient’s genunchi la comfortable poziție și se ajustează corp astfel încât plan
-  mediocoronal este centrat pe linia mediană grilă. Place supports între genunchi
-  și ankles. se flectează coate și place mâinile under pacientul’s cap (Fig. 4.17).
-  se centrează receptorul de imagine la nivelul crestele iliace sau 2 inches (5 cm)
-  above creste pentru include cupole diafragmatice.
+position: Se întoarce pacientul în decubit lateral pe partea dreaptă sau stângă.;
+  Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția
+  corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
+  Se plasează suporturi între genunchi și între glezne. Se flectează coatele și se
+  plasează mâinile sub capul pacientului (Fig. 4.17). Se centrează receptorul de imagine
+  la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor pentru a include
+  cupolele diafragmatice.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- Superimposed ilia
-- Superimposed coloană lombară pedicles și open intervertebral foramina
-- ca much de remaining Abdomen ca possible when cupole diafragmatice este included
-- Abdominal contents vizibil fără contrast media
+- Oasele iliace suprapuse
+- Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+- o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+- Conținutul abdominal vizibil fără substanță de contrast
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill
 source_pages:
@@ -41,52 +42,57 @@ source_pages:
 - 222
 - 223
 source_sections:
-  anatomy: 'lateral incidență de abdomenul shows prevertebral space occupied prin
-    abdominal aorta și orice intra-abdominal calcifications sau
+  anatomy: 'Incidența de profil a abdomenului evidențiază spațiul prevertebral ocupat
+    de aorta abdominală și orice calcificări intraabdominale sau
 
-    tumor masses. lateral abdomen este also used la show corect placement de AAA grafts
-    și other vascular interventional devices (Fig. 4.18).'
+    mase tumorale. Radiografia de profil a abdomenului este utilizată și pentru a
+    evidenția poziționarea corectă a grefelor pentru AAA și a altor dispozitive pentru
+    intervenții vasculare (Fig. 4.18).'
   collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior
-    shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular pe receptorul de imagine (RI) și entering planul mediocoronal
-    la nivelul crestele iliace sau 2 inches (5 cm) above crestele iliace if cupole
-    diafragmatice este included.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de
+    contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate
+    în câmpul colimat.
+  cr: • perpendicular pe receptorul de imagine (RI), pătrunzând în planul mediocoronal
+    la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor iliace dacă
+    se includ cupolele diafragmatice.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • Superimposed ilia
+    • Oasele iliace suprapuse
 
-    • Superimposed coloană lombară pedicles și open intervertebral foramina
+    • Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
 
-    • ca much de remaining abdomen ca possible when cupole diafragmatice este included
+    • o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
 
-    • Abdominal contents vizibil fără contrast media'
-  part_pos: '• se flectează pacient’s genunchi la comfortable poziție și se ajustează
-    corp astfel încât plan mediocoronal este centrat pe linia mediană grilă.
+    • Conținutul abdominal vizibil fără substanță de contrast'
+  part_pos: '• Se flectează genunchii pacientului într-o poziție confortabilă și se
+    ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe
+    linia mediană a grilei.
 
-    • Place supports între genunchi și ankles.
+    • Se plasează suporturi între genunchi și între glezne.
 
-    • se flectează coate și place mâinile under pacientul’s cap (Fig. 4.17).
+    • Se flectează coatele și se plasează mâinile sub capul pacientului (Fig. 4.17).
 
-    • se centrează receptorul de imagine la nivelul crestele iliace sau 2 inches (5
-    cm) above creste pentru include cupole diafragmatice.'
-  patient_pos: • Turn pacientul la lateral recumbent poziție pe drept sau stâng side.
+    • Se centrează receptorul de imagine la nivelul crestelor iliace sau la 2 țoli
+    (5 cm) deasupra crestelor pentru a include cupolele diafragmatice.'
+  patient_pos: • Se întoarce pacientul în decubit lateral pe partea dreaptă sau stângă.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 4. Abdomen, pagini PDF 221–223
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=221
+- title: Merrill’s Atlas, 4. Abdomen, pagini 221–223
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior
-    shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
+    Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de
+    contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate
+    în câmpul colimat.
 title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stâng (Merrill)
 ---
 # Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stâng (Merrill)
@@ -122,8 +128,8 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 
     ---
 
-    - **Poziție Pacient:** Turn pacientul la lateral Decubit poziție pe drept sau stâng side.; se flectează pacient’s genunchi la comfortable poziție și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă. Place supports între genunchi și ankles. se flectează coate și place mâinile under pacientul’s cap (Fig. 4.17). se centrează receptorul de imagine la nivelul crestele iliace sau 2 inches (5 cm) above creste pentru include cupole diafragmatice.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și entering planul mediocoronal la nivelul crestele iliace sau 2 inches (5 cm) above crestele iliace if cupole diafragmatice este included.
+    - **Poziție Pacient:** Se întoarce pacientul în decubit lateral pe partea dreaptă sau stângă.; Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei. Se plasează suporturi între genunchi și între glezne. Se flectează coatele și se plasează mâinile sub capul pacientului (Fig. 4.17). Se centrează receptorul de imagine la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor pentru a include cupolele diafragmatice.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor iliace dacă se includ cupolele diafragmatice.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -139,20 +145,20 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Superimposed ilia
-    - Superimposed coloană lombară pedicles și open intervertebral foramina
-    - ca much de remaining Abdomen ca possible when cupole diafragmatice este included
-    - Abdominal contents vizibil fără contrast media
+    - Oasele iliace suprapuse
+    - Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+    - o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+    - Conținutul abdominal vizibil fără substanță de contrast
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -172,17 +178,17 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 222, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p222_fig1.png)
+![Merrill — pagina 222, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p222_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 222, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 222, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 223, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p223_fig2.png)
+![Merrill — pagina 223, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p223_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 223, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 223, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -199,49 +205,49 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 4. Abdomen, pagini PDF 221–223](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=221)
+- [Merrill’s Atlas, 4. Abdomen, pagini 221–223](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lateral incidență de abdomenul shows prevertebral space occupied prin abdominal aorta și orice intra-abdominal calcifications sau
-tumor masses. lateral abdomen este also used la show corect placement de AAA grafts și other vascular interventional devices (Fig. 4.18).
+Incidența de profil a abdomenului evidențiază spațiul prevertebral ocupat de aorta abdominală și orice calcificări intraabdominale sau
+mase tumorale. Radiografia de profil a abdomenului este utilizată și pentru a evidenția poziționarea corectă a grefelor pentru AAA și a altor dispozitive pentru intervenții vasculare (Fig. 4.18).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior shadows de abdomenul. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) și entering planul mediocoronal la nivelul crestele iliace sau 2 inches (5 cm) above crestele iliace if cupole diafragmatice este included.
+• perpendicular pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor iliace dacă se includ cupolele diafragmatice.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
 • Absența rotației anatomice (simetrie bilaterală perfectă)
-• Superimposed ilia
-• Superimposed coloană lombară pedicles și open intervertebral foramina
-• ca much de remaining abdomen ca possible when cupole diafragmatice este included
-• Abdominal contents vizibil fără contrast media
+• Oasele iliace suprapuse
+• Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
+• o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
+• Conținutul abdominal vizibil fără substanță de contrast
 
 ### part_pos
 
-• se flectează pacient’s genunchi la comfortable poziție și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă.
-• Place supports între genunchi și ankles.
-• se flectează coate și place mâinile under pacientul’s cap (Fig. 4.17).
-• se centrează receptorul de imagine la nivelul crestele iliace sau 2 inches (5 cm) above creste pentru include cupole diafragmatice.
+• Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
+• Se plasează suporturi între genunchi și între glezne.
+• Se flectează coatele și se plasează mâinile sub capul pacientului (Fig. 4.17).
+• Se centrează receptorul de imagine la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor pentru a include cupolele diafragmatice.
 
 ### patient_pos
 
-• Turn pacientul la lateral recumbent poziție pe drept sau stâng side.
+• Se întoarce pacientul în decubit lateral pe partea dreaptă sau stângă.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
 

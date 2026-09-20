@@ -115,7 +115,7 @@ sid_dff: 100 cm
 slug: rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 429
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=429
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
@@ -275,4 +275,4 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 429](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=429)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 429](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

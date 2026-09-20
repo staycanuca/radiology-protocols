@@ -2,65 +2,67 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: Sacru cu pacientul Decubit dorsal, se orientează raza centrală centrală
-  15 grade cranial și center it la point 2 inches (5 cm) superior la simfiză pubiană
-  (Figs. 9.118–9.120). cu pacientul Decubit ventral, angle raza centrală 15 grade
-  caudal și center it la clearly vizibil sacral curve (Fig. 9.121). cu pacientul Decubit
-  dorsal, se orientează raza centrală centrală 10 grade caudal și center it la point
-  about 2 inches (5 cm) superior la simfiză pubiană (see Figs. 9.121 și 9.122). cu
-  pacientul Decubit ventral, angle raza centrală 10 grade cranial și center it la
-  easily palpable Coccis. Se centrează receptorul de imagine pe raza centrală.
+centering: 'Sacru cu pacientul în decubit dorsal: se orientează raza centrală 15 grade
+  cranial și se centrează la un punct situat 2 inches (5 cm) superior de simfiza pubiană
+  (Figs. 9.118–9.120). Cu pacientul în decubit ventral, se angulează raza centrală
+  15 grade caudal și se centrează la nivelul curburii sacrale clar vizibile (Fig.
+  9.121). Cu pacientul în decubit dorsal, se orientează raza centrală 10 grade caudal
+  și se centrează la un punct situat aproximativ 2 inches (5 cm) superior de simfiza
+  pubiană (vezi Figs. 9.121 și 9.122). Cu pacientul în decubit ventral, se angulează
+  raza centrală 10 grade cranial și se centrează la nivelul coccisului ușor palpabil.
+  Se centrează receptorul de imagine pe raza centrală.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 753, imaginea 1
+- caption: Merrill — pagina 753, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig1.png
-- caption: Merrill — pagina PDF 753, imaginea 2
+- caption: Merrill — pagina 753, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig2.png
-- caption: Merrill — pagina PDF 754, imaginea 3
+- caption: Merrill — pagina 754, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p754_fig3.png
-- caption: Merrill — pagina PDF 755, imaginea 4
+- caption: Merrill — pagina 755, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig4.png
-- caption: Merrill — pagina PDF 755, imaginea 5
+- caption: Merrill — pagina 755, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig5.png
-- caption: Merrill — pagina PDF 756, imaginea 6
+- caption: Merrill — pagina 756, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p756_fig6.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție. Decubit ventral poziție poate
-  fie used fără appreciable loss de detail și este particularly appropriate pentru
-  pacienți cu painful injury sau destructive disease.; cu pacientul either Decubit
-  dorsal sau Decubit ventral, se centrează MSP de corp la linia mediană mesei grilă.
-  se ajustează pacient astfel încât spină iliacă antero-superioară (SIAS) sunt echidistant
-  față de grila. Se instruiește pacientul să se flectează coate și place brațele în
-  comfortable, bilaterally simetric poziție. When Decubit dorsal poziție este used,
-  place support under pacientul’s genunchi. se efectuează ecranarea gonadelor cu șorț
-  plumbat pe men. Women cannot fie ecranat pentru this incidență.
+position: Se așază pacientul în decubit dorsal. Poziția în decubit ventral poate fi
+  utilizată fără pierdere apreciabilă de detalii și este deosebit de adecvată pentru
+  pacienții cu leziuni dureroase sau boală distructivă.; Cu pacientul în decubit dorsal
+  sau decubit ventral, se centrează MSP al corpului pe linia mediană a mesei-grilă.
+  Se ajustează pacientul astfel încât spinele iliace antero-superioare (SIAS) să fie
+  echidistante față de grilă. Se instruiește pacientul să-și flecteze coatele și să-și
+  așeze brațele într-o poziție confortabilă, simetrică bilateral. Când se utilizează
+  poziția în decubit dorsal, se plasează un suport sub genunchii pacientului. Se efectuează
+  ecranarea gonadelor la bărbați cu șorț plumbat. Femeile nu pot fi ecranate pentru
+  această incidență.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Bony detalii trabeculare osoase și surrounding soft tissues Sacru
-- Sacru centrat și seen în its entirety
-- Sacru liber de foreshortening, cu sacral curvature straightened
-- Pubic bones nu overlapping Sacru
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Sacru, ca evidențiat
-  prin simetric alae Coccis
-- Coccis centrat și seen în its entirety
-- Coccygeal segments nu superimposed prin pubic bones
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Coccis, ca evidențiat
-  prin distal segment în line cu simfiză pubiană Radiation protection
-- Because reproductive organs lie within expunere area, use colimare strânsă la limit
-  irradiated area și amount de scatter radiation.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Detaliile trabeculare osoase și țesuturile moi din jurul sacrului
+- Sacrul centrat și vizibil în întregime
+- Sacrul fără scurtare proiectivă, cu curbura sacrală îndreptată
+- Oasele pubiene nu se suprapun peste sacru
+- Absența rotației anatomice (simetrie bilaterală perfectă) a sacrului, evidențiată
+  prin aripile sacrale simetrice
+- Coccisul centrat și vizibil în întregime
+- Segmentele coccigiene nu sunt suprapuse de oasele pubiene
+- Absența rotației anatomice (simetrie bilaterală perfectă) a coccisului, evidențiată
+  prin alinierea segmentului distal cu simfiza pubiană. Protecția împotriva radiațiilor
+- Deoarece organele reproductive se află în aria de expunere, se utilizează colimare
+  strânsă pentru a limita aria iradiată și cantitatea de radiație împrăștiată.
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill
 source_pages:
@@ -70,100 +72,96 @@ source_pages:
 - 755
 - 756
 source_sections:
-  anatomy: sacrum sau coccyx liber de superimposition (see Figs. 9.120 și 9.123; see
-    also Fig. 9.121).
-  collimation: '• Adjust câmp de iradiere la:
+  anatomy: sacrul sau coccisul fără suprapunere (vezi Figs. 9.120 și 9.123; vezi și
+    Fig. 9.121).
+  collimation: '• Se ajustează câmpul de iradiere la:
 
-    • Sacrum: 10 × 12 inches (24 × 30 cm) pe collimator
+    • Sacru: 10 × 12 inches (24 × 30 cm) pe colimator
 
-    • Coccyx: 8 × 10 inches (18 × 24 cm) pe collimator
+    • Coccis: 8 × 10 inches (18 × 24 cm) pe colimator
 
-    • Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: 'Sacrum
+    • Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  cr: 'Sacru
 
-    • cu pacientul în decubit dorsal, se orientează raza centrală centrală 15 grade
-    cranial și center it la point 2 inches (5 cm) superior la pubic
+    • Cu pacientul în decubit dorsal, se orientează raza centrală 15 grade cranial
+    și se centrează la un punct situat 2 inches (5 cm) superior de simfiza pubiană
+    (Figs. 9.118–9.120).
 
-    simfiză (Figs. 9.118–9.120).
+    • Cu pacientul în decubit ventral, se angulează raza centrală 15 grade caudal
+    și se centrează la nivelul curburii sacrale clar vizibile (Fig. 9.121).
 
-    • cu pacientul în decubit ventral, angle raza centrală 15 grade caudal și center
-    it la clearly vizibil sacral curve (Fig. 9.121).
+    • Cu pacientul în decubit dorsal, se orientează raza centrală 10 grade caudal
+    și se centrează la un punct situat aproximativ 2 inches (5 cm) superior de simfiza
+    pubiană (vezi Figs. 9.121 și 9.122).
 
-    • cu pacientul în decubit dorsal, se orientează raza centrală centrală 10 grade
-    caudal și center it la point about 2 inches (5 cm) superior la pubic
-
-    simfiză (see Figs. 9.121 și 9.122).
-
-    • cu pacientul în decubit ventral, angle raza centrală 10 grade cranial și center
-    it la easily palpable coccyx.
+    • Cu pacientul în decubit ventral, se angulează raza centrală 10 grade cranial
+    și se centrează la nivelul coccisului ușor palpabil.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • Detaliile trabeculare osoase și țesuturile moi din jur
 
-    Sacrum
+    Sacru
 
-    • Sacrum centrat și seen în its entirety
+    • Sacrul centrat și vizibil în întregime
 
-    • Sacrum liber de foreshortening, cu sacral curvature straightened
+    • Sacrul fără scurtare proiectivă, cu curbura sacrală îndreptată
 
-    • Pubic bones nu overlapping sacrum
+    • Oasele pubiene nu se suprapun peste sacru
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de sacrum, ca evidențiat
-    prin simetric alae
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a sacrului, evidențiată
+    prin aripile simetrice
 
-    Coccyx
+    Coccis
 
-    • Coccyx centrat și seen în its entirety
+    • Coccisul centrat și vizibil în întregime
 
-    • Coccygeal segments nu superimposed prin pubic bones
+    • Segmentele coccigiene nu sunt suprapuse de oasele pubiene
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de coccyx, ca evidențiat
-    prin distal segment în line cu simfiză pubiană
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a coccisului, evidențiată
+    prin alinierea segmentului distal cu simfiza pubiană
 
-    Radiation protection
+    Protecția împotriva radiațiilor
 
-    • Because reproductive organs lie within expunere area, use colimare strânsă la
-    limit irradiated area și amount de
+    • Deoarece organele reproductive se află în aria de expunere, se utilizează colimare
+    strânsă pentru a limita aria iradiată și cantitatea de radiație împrăștiată.'
+  part_pos: '• Cu pacientul fie în decubit dorsal, fie în decubit ventral, se centrează
+    MSP al corpului pe linia mediană a mesei-grilă.
 
-    scatter radiation.'
-  part_pos: '• cu pacientul either în decubit dorsal sau în decubit ventral, se centrează
-    MSP de corp la linia mediană mesei grilă.
+    • Se ajustează pacientul astfel încât spinele iliace antero-superioare (SIAS)
+    să fie echidistante față de grilă.
 
-    • se ajustează pacient astfel încât spină iliacă antero-superioară (SIAS) sunt
-    echidistant față de grila.
+    • Se instruiește pacientul să-și flecteze coatele și să-și așeze brațele într-o
+    poziție confortabilă, simetrică bilateral.
 
-    • Se instruiește pacientul să se flectează coate și place brațele în comfortable,
-    bilaterally simetric poziție.
+    • Când se utilizează decubitul dorsal, se plasează un suport sub genunchii pacientului.
 
-    • When decubit dorsal este used, place support under pacientul’s genunchi.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat pe men. Women cannot fie ecranat
-    pentru this incidență.'
-  patient_pos: '• se așază pacientul în decubit dorsal. decubit ventral poate fie
-    used fără appreciable loss de detail și este particularly
-
-    appropriate pentru pacienți cu painful injury sau destructive disease.'
+    • Se efectuează ecranarea gonadelor la bărbați cu șorț plumbat. Femeile nu pot
+    fi ecranate pentru această incidență.'
+  patient_pos: • Se așază pacientul în decubit dorsal. Decubitul ventral poate fi
+    utilizat fără pierdere apreciabilă de detalii și este deosebit de adecvat pentru
+    pacienții cu leziuni dureroase sau boală distructivă.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 752–756
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=752
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 752–756
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: 'Adjust câmp de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe
-    collimator Coccis: 8 × 10 inches (18 × 24 cm) pe collimator Place marker de lateralitate
-    (D/S) în collimated expunere field.'
-title: Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
+  collimation: 'Se ajustează câmpul de iradiere la: Sacru: 10 × 12 inches (24 × 30
+    cm) pe colimator; Coccis: 8 × 10 inches (18 × 24 cm) pe colimator. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+title: Rx Sacru și Coccis — AP și PA, incidență axială (Merrill)
 ---
-# Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
+# Rx Sacru și Coccis — AP și PA, incidență axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -196,8 +194,8 @@ title: Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție. Decubit ventral poziție poate fie used fără appreciable loss de detail și este particularly appropriate pentru pacienți cu painful injury sau destructive disease.; cu pacientul either Decubit dorsal sau Decubit ventral, se centrează MSP de corp la linia mediană mesei grilă. se ajustează pacient astfel încât spină iliacă antero-superioară (SIAS) sunt echidistant față de grila. Se instruiește pacientul să se flectează coate și place brațele în comfortable, bilaterally simetric poziție. When Decubit dorsal poziție este used, place support under pacientul’s genunchi. se efectuează ecranarea gonadelor cu șorț plumbat pe men. Women cannot fie ecranat pentru this incidență.
-    - **Punct de Centrare Fascicul:** Sacru cu pacientul Decubit dorsal, se orientează raza centrală centrală 15 grade cranial și center it la point 2 inches (5 cm) superior la simfiză pubiană (Figs. 9.118–9.120). cu pacientul Decubit ventral, angle raza centrală 15 grade caudal și center it la clearly vizibil sacral curve (Fig. 9.121). cu pacientul Decubit dorsal, se orientează raza centrală centrală 10 grade caudal și center it la point about 2 inches (5 cm) superior la simfiză pubiană (see Figs. 9.121 și 9.122). cu pacientul Decubit ventral, angle raza centrală 10 grade cranial și center it la easily palpable Coccis. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal. Poziția în decubit ventral poate fi utilizată fără pierdere apreciabilă de detalii și este deosebit de adecvată pentru pacienții cu leziuni dureroase sau boală distructivă.; Cu pacientul în decubit dorsal sau decubit ventral, se centrează MSP al corpului pe linia mediană a mesei-grilă. Se ajustează pacientul astfel încât spinele iliace antero-superioare (SIAS) să fie echidistante față de grilă. Se instruiește pacientul să-și flecteze coatele și să-și așeze brațele într-o poziție confortabilă, simetrică bilateral. Când se utilizează poziția în decubit dorsal, se plasează un suport sub genunchii pacientului. Se efectuează ecranarea gonadelor la bărbați cu șorț plumbat. Femeile nu pot fi ecranate pentru această incidență.
+    - **Punct de Centrare Fascicul:** Sacru cu pacientul în decubit dorsal: se orientează raza centrală 15 grade cranial și se centrează la un punct situat 2 inches (5 cm) superior de simfiza pubiană (Figs. 9.118–9.120). Cu pacientul în decubit ventral, se angulează raza centrală 15 grade caudal și se centrează la nivelul curburii sacrale clar vizibile (Fig. 9.121). Cu pacientul în decubit dorsal, se orientează raza centrală 10 grade caudal și se centrează la un punct situat aproximativ 2 inches (5 cm) superior de simfiza pubiană (vezi Figs. 9.121 și 9.122). Cu pacientul în decubit ventral, se angulează raza centrală 10 grade cranial și se centrează la nivelul coccisului ușor palpabil. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -213,24 +211,24 @@ title: Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe collimator Coccis: 8 × 10 inches (18 × 24 cm) pe collimator Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la: Sacru: 10 × 12 inches (24 × 30 cm) pe colimator; Coccis: 8 × 10 inches (18 × 24 cm) pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Bony detalii trabeculare osoase și surrounding soft tissues Sacru
-    - Sacru centrat și seen în its entirety
-    - Sacru liber de foreshortening, cu sacral curvature straightened
-    - Pubic bones nu overlapping Sacru
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Sacru, ca evidențiat prin simetric alae Coccis
-    - Coccis centrat și seen în its entirety
-    - Coccygeal segments nu superimposed prin pubic bones
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Coccis, ca evidențiat prin distal segment în line cu simfiză pubiană Radiation protection
-    - Because reproductive organs lie within expunere area, use colimare strânsă la limit irradiated area și amount de scatter radiation.
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Detaliile trabeculare osoase și țesuturile moi din jurul sacrului
+    - Sacrul centrat și vizibil în întregime
+    - Sacrul fără scurtare proiectivă, cu curbura sacrală îndreptată
+    - Oasele pubiene nu se suprapun peste sacru
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a sacrului, evidențiată prin aripile sacrale simetrice
+    - Coccisul centrat și vizibil în întregime
+    - Segmentele coccigiene nu sunt suprapuse de oasele pubiene
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a coccisului, evidențiată prin alinierea segmentului distal cu simfiza pubiană. Protecția împotriva radiațiilor
+    - Deoarece organele reproductive se află în aria de expunere, se utilizează colimare strânsă pentru a limita aria iradiată și cantitatea de radiație împrăștiată.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -250,49 +248,49 @@ title: Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 753, imaginea 1](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig1.png)
+![Merrill — pagina 753, imaginea 1](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 753, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 753, imaginea 2](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 753, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 753, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 754, imaginea 3](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p754_fig3.png)
+![Merrill — pagina 753, imaginea 2](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p753_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 754, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 755, imaginea 4](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 755, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 753, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 755, imaginea 5](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig5.png)
+![Merrill — pagina 754, imaginea 3](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p754_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 755, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 754, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 756, imaginea 6](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p756_fig6.png)
+![Merrill — pagina 755, imaginea 4](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 756, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 755, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 755, imaginea 5](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p755_fig5.png)
+
+<figcaption><strong>Merrill — pagina 755, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 756, imaginea 6](../../assets/images/protocols/merrill/rx-sacru-si-coccis-ap-and-pa-axial-projections-p752-merrill/p756_fig6.png)
+
+<figcaption><strong>Merrill — pagina 756, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -309,69 +307,65 @@ title: Rx Sacru și Coccis — Ap And Pa Axial Incidență (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 752–756](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=752)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 752–756](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-sacrum sau coccyx liber de superimposition (see Figs. 9.120 și 9.123; see also Fig. 9.121).
+sacrul sau coccisul fără suprapunere (vezi Figs. 9.120 și 9.123; vezi și Fig. 9.121).
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la:
-• Sacrum: 10 × 12 inches (24 × 30 cm) pe collimator
-• Coccyx: 8 × 10 inches (18 × 24 cm) pe collimator
-• Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la:
+• Sacru: 10 × 12 inches (24 × 30 cm) pe colimator
+• Coccis: 8 × 10 inches (18 × 24 cm) pe colimator
+• Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-Sacrum
-• cu pacientul în decubit dorsal, se orientează raza centrală centrală 15 grade cranial și center it la point 2 inches (5 cm) superior la pubic
-simfiză (Figs. 9.118–9.120).
-• cu pacientul în decubit ventral, angle raza centrală 15 grade caudal și center it la clearly vizibil sacral curve (Fig. 9.121).
-• cu pacientul în decubit dorsal, se orientează raza centrală centrală 10 grade caudal și center it la point about 2 inches (5 cm) superior la pubic
-simfiză (see Figs. 9.121 și 9.122).
-• cu pacientul în decubit ventral, angle raza centrală 10 grade cranial și center it la easily palpable coccyx.
+Sacru
+• Cu pacientul în decubit dorsal, se orientează raza centrală 15 grade cranial și se centrează la un punct situat 2 inches (5 cm) superior de simfiza pubiană (Figs. 9.118–9.120).
+• Cu pacientul în decubit ventral, se angulează raza centrală 15 grade caudal și se centrează la nivelul curburii sacrale clar vizibile (Fig. 9.121).
+• Cu pacientul în decubit dorsal, se orientează raza centrală 10 grade caudal și se centrează la un punct situat aproximativ 2 inches (5 cm) superior de simfiza pubiană (vezi Figs. 9.121 și 9.122).
+• Cu pacientul în decubit ventral, se angulează raza centrală 10 grade cranial și se centrează la nivelul coccisului ușor palpabil.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Sacrum
-• Sacrum centrat și seen în its entirety
-• Sacrum liber de foreshortening, cu sacral curvature straightened
-• Pubic bones nu overlapping sacrum
-• Absența rotației anatomice (simetrie bilaterală perfectă) de sacrum, ca evidențiat prin simetric alae
-Coccyx
-• Coccyx centrat și seen în its entirety
-• Coccygeal segments nu superimposed prin pubic bones
-• Absența rotației anatomice (simetrie bilaterală perfectă) de coccyx, ca evidențiat prin distal segment în line cu simfiză pubiană
-Radiation protection
-• Because reproductive organs lie within expunere area, use colimare strânsă la limit irradiated area și amount de
-scatter radiation.
+Criterii radiologice de calitate a imaginii:
+• Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Detaliile trabeculare osoase și țesuturile moi din jur
+Sacru
+• Sacrul centrat și vizibil în întregime
+• Sacrul fără scurtare proiectivă, cu curbura sacrală îndreptată
+• Oasele pubiene nu se suprapun peste sacru
+• Absența rotației anatomice (simetrie bilaterală perfectă) a sacrului, evidențiată prin aripile simetrice
+Coccis
+• Coccisul centrat și vizibil în întregime
+• Segmentele coccigiene nu sunt suprapuse de oasele pubiene
+• Absența rotației anatomice (simetrie bilaterală perfectă) a coccisului, evidențiată prin alinierea segmentului distal cu simfiza pubiană
+Protecția împotriva radiațiilor
+• Deoarece organele reproductive se află în aria de expunere, se utilizează colimare strânsă pentru a limita aria iradiată și cantitatea de radiație împrăștiată.
 
 ### part_pos
 
-• cu pacientul either în decubit dorsal sau în decubit ventral, se centrează MSP de corp la linia mediană mesei grilă.
-• se ajustează pacient astfel încât spină iliacă antero-superioară (SIAS) sunt echidistant față de grila.
-• Se instruiește pacientul să se flectează coate și place brațele în comfortable, bilaterally simetric poziție.
-• When decubit dorsal este used, place support under pacientul’s genunchi.
-• se efectuează ecranarea gonadelor cu șorț plumbat pe men. Women cannot fie ecranat pentru this incidență.
+• Cu pacientul fie în decubit dorsal, fie în decubit ventral, se centrează MSP al corpului pe linia mediană a mesei-grilă.
+• Se ajustează pacientul astfel încât spinele iliace antero-superioare (SIAS) să fie echidistante față de grilă.
+• Se instruiește pacientul să-și flecteze coatele și să-și așeze brațele într-o poziție confortabilă, simetrică bilateral.
+• Când se utilizează decubitul dorsal, se plasează un suport sub genunchii pacientului.
+• Se efectuează ecranarea gonadelor la bărbați cu șorț plumbat. Femeile nu pot fi ecranate pentru această incidență.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal. decubit ventral poate fie used fără appreciable loss de detail și este particularly
-appropriate pentru pacienți cu painful injury sau destructive disease.
+• Se așază pacientul în decubit dorsal. Decubitul ventral poate fi utilizat fără pierdere apreciabilă de detalii și este deosebit de adecvat pentru pacienții cu leziuni dureroase sau boală distructivă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
+× 30 cm), longitudinal.
 

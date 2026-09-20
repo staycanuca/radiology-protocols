@@ -51,7 +51,7 @@ sid_dff: 100 cm
 slug: rx-diafiza-humerala-antero-posterior-ortostatism-p87-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 87
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=87
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -188,4 +188,4 @@ title: Rx Diafiză Humerală Antero-Posterior (AP) - Ortostatism
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 87](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=87)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 87](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

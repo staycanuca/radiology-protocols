@@ -3,14 +3,14 @@ author: Departamentul de Radiologie
 breathing: Apnee la sfârșitul unui expir complet (ridică diafragmul și relaxează musculatura
   abdominală)
 category: abdomen
-centering: Pe linia mediană, la 2-3 cm deasupra crestelor iliace (pentru include cupolele
-  diafragmatice pe clișeul de ortostatism)
+centering: Pe linia mediană, la 2-3 cm deasupra crestelor iliace (pentru a include
+  cupolele diafragmatice pe clișeul de ortostatism)
 clinical_indications:
 - Suspiciune de ocluzie intestinală / volvulus (evidențierea nivelelor hidroaerice)
 - Suspiciune de perforație de organ cavitar (pneumoperitoneu - aer subdiafragmatic)
 - Suspiciune de corp străin radioopac ingerat
 - Calculoză renală radioopacă (orientativ)
-- Monitorizare post-procedurală stenturi ureterale (JJ) sau tuburi de dren
+- Monitorizare post-procedurală a stenturilor ureterale (JJ) sau a tuburilor de dren
 iris_reference:
   chapter: Aparat digestiv & Abdomen
   radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
@@ -19,17 +19,17 @@ last_updated: '2026-09-15'
 modality: rx
 notes: Pentru identificarea aerului liber subdiafragmatic (pneumoperitoneu), pacientul
   trebuie menținut în ortostatism minim 5-10 minute înainte de declanșarea expunerii.
-position: 1) Ortostatism cu spatele lipit de stativul stativ vertical Bucky; 2) Decubit
-  dorsal (AP) dacă pacientul este nedeplasabil; 3) Decubit lateral stâng cu rază orizontală
+position: 1) Ortostatism cu spatele lipit de stativul vertical Bucky; 2) Decubit dorsal
+  (AP) dacă pacientul este nedeplasabil; 3) Decubit lateral stâng cu rază orizontală
   dacă ortostatismul este imposibil
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
-- Verificare obligatorie status sarcină la paciente
+  automată din șablon.
+- Verificarea obligatorie a statusului de sarcină la paciente
 quality_criteria:
 - Cupolele diafragmatice trebuie incluse obligatoriu în ortostatism (pentru excluderea
   semnelor de pneumoperitoneu)
-- Simfiza pubiană inclusă în marginea inferioară clișeului de decubit
+- Simfiza pubiană inclusă la marginea inferioară a clișeului de decubit
 - Liniile mușchilor psoas și contururile renale vizibile
 - Nivelele hidroaerice clar demarcate între faza lichidiană și cea gazoasă
 sid_dff: 100 - 115 cm
@@ -89,7 +89,7 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
         - Suspiciune de perforație de organ cavitar (pneumoperitoneu - aer subdiafragmatic)
         - Suspiciune de corp străin radioopac ingerat
         - Calculoză renală radioopacă (orientativ)
-        - Monitorizare post-procedurală stenturi ureterale (JJ) sau tuburi de dren
+        - Monitorizare post-procedurală a stenturilor ureterale (JJ) sau a tuburilor de dren
 
     === "Ghid Național IRIS"
 
@@ -103,8 +103,8 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
 
     ---
 
-    - **Poziție Pacient:** 1) Ortostatism cu spatele lipit de stativul stativ vertical Bucky; 2) Decubit dorsal (AP) dacă pacientul este nedeplasabil; 3) Decubit lateral stâng cu rază orizontală dacă ortostatismul este imposibil
-    - **Punct de Centrare Fascicul:** Pe linia mediană, la 2-3 cm deasupra crestelor iliace (pentru include cupolele diafragmatice pe clișeul de ortostatism)
+    - **Poziție Pacient:** 1) Ortostatism cu spatele lipit de stativul vertical Bucky; 2) Decubit dorsal (AP) dacă pacientul este nedeplasabil; 3) Decubit lateral stâng cu rază orizontală dacă ortostatismul este imposibil
+    - **Punct de Centrare Fascicul:** Pe linia mediană, la 2-3 cm deasupra crestelor iliace (pentru a include cupolele diafragmatice pe clișeul de ortostatism)
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul unui expir complet (ridică diafragmul și relaxează musculatura abdominală)
 
@@ -128,7 +128,7 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
     ---
 
     - Cupolele diafragmatice trebuie incluse obligatoriu în ortostatism (pentru excluderea semnelor de pneumoperitoneu)
-    - Simfiza pubiană inclusă în marginea inferioară clișeului de decubit
+    - Simfiza pubiană inclusă la marginea inferioară a clișeului de decubit
     - Liniile mușchilor psoas și contururile renale vizibile
     - Nivelele hidroaerice clar demarcate între faza lichidiană și cea gazoasă
 
@@ -136,8 +136,8 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
-    - Verificare obligatorie status sarcină la paciente
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
+    - Verificarea obligatorie a statusului de sarcină la paciente
 
 </div>
 

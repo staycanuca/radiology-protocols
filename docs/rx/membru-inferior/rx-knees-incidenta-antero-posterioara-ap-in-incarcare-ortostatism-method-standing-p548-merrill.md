@@ -7,10 +7,10 @@ centering: orizontal și perpendicular pe centrul receptorului de imagine, enter
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 549, imaginea 1
+- caption: Merrill — pagina 549, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p549_fig1.png
-- caption: Merrill — pagina PDF 550, imaginea 2
+- caption: Merrill — pagina 550, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p550_fig2.png
 last_updated: '2026-09-16'
@@ -77,8 +77,8 @@ source_sections:
 
     bilateral imagine.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 548–550
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=548
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 548–550
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe collimator.
@@ -168,17 +168,17 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 549, imaginea 1](../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p549_fig1.png)
+![Merrill — pagina 549, imaginea 1](../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p549_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 549, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 549, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 550, imaginea 2](../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p550_fig2.png)
+![Merrill — pagina 550, imaginea 2](../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p550_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 550, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 550, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -195,7 +195,7 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 548–550](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=548)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 548–550](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

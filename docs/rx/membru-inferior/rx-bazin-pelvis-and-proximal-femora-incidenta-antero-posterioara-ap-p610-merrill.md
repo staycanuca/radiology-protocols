@@ -6,19 +6,19 @@ centering: perpendicular pe midpoint de receptorul de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 611, imaginea 1
+- caption: Merrill — pagina 611, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig1.png
-- caption: Merrill — pagina PDF 611, imaginea 2
+- caption: Merrill — pagina 611, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig2.png
-- caption: Merrill — pagina PDF 612, imaginea 3
+- caption: Merrill — pagina 612, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p612_fig3.png
-- caption: Merrill — pagina PDF 613, imaginea 4
+- caption: Merrill — pagina 613, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p613_fig4.png
-- caption: Merrill — pagina PDF 614, imaginea 5
+- caption: Merrill — pagina 614, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p614_fig5.png
 last_updated: '2026-09-16'
@@ -169,8 +169,8 @@ source_sections:
 
     43 cm) transversal.'
 sources:
-- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 610–614
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=610
+- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 610–614
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
@@ -269,41 +269,41 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 611, imaginea 1](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig1.png)
+![Merrill — pagina 611, imaginea 1](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 611, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 611, imaginea 2](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 611, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 611, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 612, imaginea 3](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p612_fig3.png)
+![Merrill — pagina 611, imaginea 2](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p611_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 612, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 613, imaginea 4](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p613_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 613, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 611, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 614, imaginea 5](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p614_fig5.png)
+![Merrill — pagina 612, imaginea 3](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p612_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 614, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 612, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 613, imaginea 4](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p613_fig4.png)
+
+<figcaption><strong>Merrill — pagina 613, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 614, imaginea 5](../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p614_fig5.png)
+
+<figcaption><strong>Merrill — pagina 614, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -320,7 +320,7 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 610–614](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=610)
+- [Merrill’s Atlas, 8. Pelvis and Hip, pagini 610–614](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

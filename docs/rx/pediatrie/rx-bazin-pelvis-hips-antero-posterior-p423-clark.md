@@ -126,7 +126,7 @@ sid_dff: 100 cm
 slug: rx-bazin-pelvis-hips-antero-posterior-p423-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 423
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=423
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -311,4 +311,4 @@ Male child poziționat pentru Antero-posterior (AP) Decubit dorsal incidență d
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 423](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=423)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 423](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

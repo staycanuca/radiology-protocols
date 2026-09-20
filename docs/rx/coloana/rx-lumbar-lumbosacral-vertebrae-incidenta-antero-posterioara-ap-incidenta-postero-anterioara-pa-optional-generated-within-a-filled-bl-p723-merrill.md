@@ -2,60 +2,61 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: coloana
-centering: perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace
-  (L4) pentru lumbosacral examination sau 1.5 inches (3.8 cm) above crestele iliace
-  pentru Coloană Lombară only
+centering: perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace
+  (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor
+  iliace pentru coloana lombară בלבד
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 724, imaginea 1
+- caption: Merrill — pagina 724, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p724_fig1.png
-- caption: Merrill — pagina PDF 725, imaginea 2
+- caption: Merrill — pagina 725, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig2.png
-- caption: Merrill — pagina PDF 725, imaginea 3
+- caption: Merrill — pagina 725, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig3.png
-- caption: Merrill — pagina PDF 726, imaginea 4
+- caption: Merrill — pagina 726, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p726_fig4.png
-- caption: Merrill — pagina PDF 727, imaginea 5
+- caption: Merrill — pagina 727, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p727_fig5.png
-- caption: Merrill — pagina PDF 728, imaginea 6
+- caption: Merrill — pagina 728, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p728_fig6.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Examine lumbar sau lumbosacral coloană vertebrală cu pacientul Decubit.;
-  se centrează MSP de pacientul’s corp la linia mediană grilă. se ajustează pacient’s
-  umeri și hips la lie în same plan orizontal. se flectează pacient’s coate și place
-  mâinile pe upper Torace astfel încât forearms do nu lie within expunere field. radiolucent
-  support under lower pelvic side poate fie used la reduce rotație when necessary.
-  Reduce lumbar lordosis prin flexing pacientul’s hips și genunchi enough la place
-  back în firm contact cu table (see Fig. 9.86). la show Coloană Lombară și Sacru,
-  se centrează 14 × 17 inches (35 × 43 cm) receptorul de imagine la nivelul crestele
-  iliace (L4). la show Coloană Lombară only, se centrează receptorul de imagine 1.5
-  inches (3.8 cm) above crestele iliace (L3). se efectuează ecranarea gonadelor cu
-  șorț plumbat.
+position: Se examinează coloana lombară sau lombosacrală cu pacientul în decubit;
+  se centrează MSP al corpului pacientului pe linia mediană a grilei. Se ajustează
+  umerii și șoldurile pacientului pentru a se afla în același plan orizontal. Se flectează
+  coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele
+  să nu se afle în câmpul de expunere. Se poate utiliza un suport radiotransparent
+  sub partea pelvină inferioară pentru reducerea rotației, când este necesar. Se reduce
+  lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru
+  a așeza spatele în contact ferm cu masa (vezi Fig. 9.86). Pentru evidențierea coloanei
+  lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35
+  × 43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei
+  lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor
+  iliace (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Area de la lower coloană toracală la Sacru
-- X-ray fascicul collimated la lateral margin de psoas muscles
-- fără artifact across midabdomen de la orice elastic în pacientul’s underclothing
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Regiunea de la coloana toracală inferioară până la sacru
+- Fasciculul de raze X colimat la marginea laterală a mușchilor psoas
+- fără artefact la nivelul mezogastrului, produs de orice elastic din lenjeria pacientului
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- simetric vertebre, cu procese spinoase centrat pe corpuri
-- Sacroiliac articulații echidistant față de coloană vertebrală
-- Open intervertebral disk spaces
-- Bony detalii trabeculare osoase și surrounding soft tissues
-sid_dff: 48 inches (122 cm) is suСested to reduce distortion and open the intervertebral
-  disk spaces more completely.
+- vertebre simetrice, cu procesele spinoase centrate pe corpurile vertebrale
+- Articulațiile sacroiliace echidistante față de coloana vertebrală
+- Spații discale intervertebrale deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+sid_dff: Se recomandă o distanță de 48 inci (122 cm), pentru a reduce distorsiunea
+  și a evidenția mai complet spațiile discale intervertebrale.
 slug: rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill
 source_pages:
 - 723
@@ -65,76 +66,75 @@ source_pages:
 - 727
 - 728
 source_sections:
-  collimation: '• Adjust la 8 × 17 inches (18 × 43 cm) pe collimator pentru lumbosacral
-    coloană vertebrală. Ensure that sacroiliac articulații sunt included. pentru
+  collimation: • Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana
+    lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana
+    lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4)
+    pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace
+    pentru coloana lombară בלבד
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    lumbar coloană vertebrală only, collimation poate fie reduced la 8 × 14 inches
-    (18 × 35 cm). Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace (L4)
-    pentru lumbosacral examination sau 1.5 inches (3.8 cm) above crestele iliace pentru
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    lumbar coloană vertebrală only'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Regiunea de la coloana toracală inferioară până la sacru
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Fasciculul de raze X colimat la marginea laterală a mușchilor psoas
 
-    • Area de la lower coloană toracală la sacrum
-
-    • X-ray fascicul collimated la lateral margin de psoas muscles
-
-    • fără artifact across midabdomen de la orice elastic în pacientul’s underclothing
+    • Fără artefact la nivelul mezogastrului, produs de orice elastic din lenjeria
+    pacientului
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • simetric vertebre, cu procese spinoase centrat pe corpuri
+    • Vertebre simetrice, cu procesele spinoase centrate pe corpurile vertebrale
 
-    • Sacroiliac articulații echidistant față de coloană vertebrală
+    • Articulațiile sacroiliace echidistante față de coloana vertebrală
 
-    • Open intervertebral disk spaces
+    • Spații discale intervertebrale deschise
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează MSP de pacientul’s corp la linia mediană grilă.
+    • Detalii trabeculare osoase și țesuturi moi adiacente'
+  part_pos: '• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
 
-    • se ajustează pacient’s umeri și hips la lie în same plan orizontal.
+    • Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan
+    orizontal.
 
-    • se flectează pacient’s coate și place mâinile pe upper chest astfel încât forearms
-    do nu lie within expunere field.
+    • Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel
+    încât antebrațele să nu se afle în câmpul de expunere.
 
-    • radiolucent support under lower pelvic side poate fie used la reduce rotație
-    when necessary.
+    • Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru
+    reducerea rotației, când este necesar.
 
-    • Reduce lumbar lordosis prin flexing pacientul’s hips și genunchi enough la place
-    back în firm contact cu table (see Fig. 9.86).
+    • Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului
+    suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86).
 
-    • la show lumbar coloană vertebrală și sacrum, se centrează 14 × 17 inches (35
-    × 43 cm) receptorul de imagine la nivelul crestele iliace (L4).
+    • Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul
+    de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4).
 
-    • la show lumbar coloană vertebrală only, se centrează receptorul de imagine 1.5
-    inches (3.8 cm) above crestele iliace (L3).
+    • Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine
+    la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Examine lumbar sau lumbosacral coloană vertebrală cu pacientul recumbent.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se examinează coloana lombară sau lombosacrală cu pacientul în decubit.
   respiration: Apnee la sfârșitul expirului complet.
-  sid: 48 inches (122 cm) este suСested la reduce distortion și open intervertebral
-    disk spaces more completely.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35
-
-    × 43 cm) longitudinal.'
+  sid: 48 inches (122 cm) este recomandat pentru reducerea distorsiunii și deschiderea
+    mai completă a spațiilor discale intervertebrale.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 inches
+    (35 × 43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 723–728
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=723
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 723–728
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust la 8 × 17 inches (18 × 43 cm) pe collimator pentru lumbosacral
-    coloană vertebrală. Ensure that sacroiliac articulații sunt included. pentru Coloană
-    Lombară only, collimation poate fie reduced la 8 × 14 inches (18 × 35 cm). Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) — Incidență
-  Postero-Anterioară (PA) (Optional) generated within a filled bladder. (Merrill)
+  collimation: Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana
+    lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana
+    lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (AP) — Incidență
+  postero-anterioară (PA) (opțional), obținute cu vezica urinară plină. (Merrill)
 ---
-# Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) — Incidență Postero-Anterioară (PA) (Optional) generated within a filled bladder. (Merrill)
+# Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (AP) — Incidență postero-anterioară (PA) (opțional), obținute cu vezica urinară plină. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -167,9 +167,9 @@ title: Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) 
 
     ---
 
-    - **Poziție Pacient:** Examine lumbar sau lumbosacral coloană vertebrală cu pacientul Decubit.; se centrează MSP de pacientul’s corp la linia mediană grilă. se ajustează pacient’s umeri și hips la lie în same plan orizontal. se flectează pacient’s coate și place mâinile pe upper Torace astfel încât forearms do nu lie within expunere field. radiolucent support under lower pelvic side poate fie used la reduce rotație when necessary. Reduce lumbar lordosis prin flexing pacientul’s hips și genunchi enough la place back în firm contact cu table (see Fig. 9.86). la show Coloană Lombară și Sacru, se centrează 14 × 17 inches (35 × 43 cm) receptorul de imagine la nivelul crestele iliace (L4). la show Coloană Lombară only, se centrează receptorul de imagine 1.5 inches (3.8 cm) above crestele iliace (L3). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace (L4) pentru lumbosacral examination sau 1.5 inches (3.8 cm) above crestele iliace pentru Coloană Lombară only
-    - **Distanță Focar-Film (DFF / SID):** 48 inches (122 cm) is suСested to reduce distortion and open the intervertebral disk spaces more completely.
+    - **Poziție Pacient:** Se examinează coloana lombară sau lombosacrală cu pacientul în decubit; se centrează MSP al corpului pacientului pe linia mediană a grilei. Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan orizontal. Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele să nu se afle în câmpul de expunere. Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru reducerea rotației, când este necesar. Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86). Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace pentru coloana lombară בלבד
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o distanță de 48 inci (122 cm), pentru a reduce distorsiunea și a evidenția mai complet spațiile discale intervertebrale.
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
 -   __3. Parametri Tehnici Expunere__
@@ -180,27 +180,27 @@ title: Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) 
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | 48 inches (122 cm) is suСested to reduce distortion and open the intervertebral disk spaces more completely. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o distanță de 48 inci (122 cm), pentru a reduce distorsiunea și a evidenția mai complet spațiile discale intervertebrale. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust la 8 × 17 inches (18 × 43 cm) pe collimator pentru lumbosacral coloană vertebrală. Ensure that sacroiliac articulații sunt included. pentru Coloană Lombară only, collimation poate fie reduced la 8 × 14 inches (18 × 35 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Area de la lower coloană toracală la Sacru
-    - X-ray fascicul collimated la lateral margin de psoas muscles
-    - fără artifact across midabdomen de la orice elastic în pacientul’s underclothing
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Regiunea de la coloana toracală inferioară până la sacru
+    - Fasciculul de raze X colimat la marginea laterală a mușchilor psoas
+    - fără artefact la nivelul mezogastrului, produs de orice elastic din lenjeria pacientului
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - simetric vertebre, cu procese spinoase centrat pe corpuri
-    - Sacroiliac articulații echidistant față de coloană vertebrală
-    - Open intervertebral disk spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - vertebre simetrice, cu procesele spinoase centrate pe corpurile vertebrale
+    - Articulațiile sacroiliace echidistante față de coloana vertebrală
+    - Spații discale intervertebrale deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -220,49 +220,49 @@ title: Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 724, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p724_fig1.png)
+![Merrill — pagina 724, imaginea 1](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p724_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 724, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 725, imaginea 2](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 725, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 724, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 725, imaginea 3](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig3.png)
+![Merrill — pagina 725, imaginea 2](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 725, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 726, imaginea 4](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p726_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 726, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 725, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 727, imaginea 5](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p727_fig5.png)
+![Merrill — pagina 725, imaginea 3](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p725_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 727, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 725, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 728, imaginea 6](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p728_fig6.png)
+![Merrill — pagina 726, imaginea 4](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p726_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 728, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 726, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 727, imaginea 5](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p727_fig5.png)
+
+<figcaption><strong>Merrill — pagina 727, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 728, imaginea 6](../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p728_fig6.png)
+
+<figcaption><strong>Merrill — pagina 728, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -272,65 +272,62 @@ title: Rx Lumbar-Lumbosacral Vertebrae — Incidență Antero-Posterioară (AP) 
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (48 inches (122 cm) is suСested to reduce distortion and open the intervertebral disk spaces more completely.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o distanță de 48 inci (122 cm), pentru a reduce distorsiunea și a evidenția mai complet spațiile discale intervertebrale.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 723–728](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=723)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 723–728](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### collimation
+### colimare
 
-• Adjust la 8 × 17 inches (18 × 43 cm) pe collimator pentru lumbosacral coloană vertebrală. Ensure that sacroiliac articulații sunt included. pentru
-lumbar coloană vertebrală only, collimation poate fie reduced la 8 × 14 inches (18 × 35 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace (L4) pentru lumbosacral examination sau 1.5 inches (3.8 cm) above crestele iliace pentru
-lumbar coloană vertebrală only
+• perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace pentru coloana lombară בלבד
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Area de la lower coloană toracală la sacrum
-• X-ray fascicul collimated la lateral margin de psoas muscles
-• fără artifact across midabdomen de la orice elastic în pacientul’s underclothing
+Criterii radiologice de calitate a imaginii:
+• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Regiunea de la coloana toracală inferioară până la sacru
+• Fasciculul de raze X colimat la marginea laterală a mușchilor psoas
+• Fără artefact la nivelul mezogastrului, produs de orice elastic din lenjeria pacientului
 • Absența rotației anatomice (simetrie bilaterală perfectă)
-• simetric vertebre, cu procese spinoase centrat pe corpuri
-• Sacroiliac articulații echidistant față de coloană vertebrală
-• Open intervertebral disk spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
+• Vertebre simetrice, cu procesele spinoase centrate pe corpurile vertebrale
+• Articulațiile sacroiliace echidistante față de coloana vertebrală
+• Spații discale intervertebrale deschise
+• Detalii trabeculare osoase și țesuturi moi adiacente
 
 ### part_pos
 
-• se centrează MSP de pacientul’s corp la linia mediană grilă.
-• se ajustează pacient’s umeri și hips la lie în same plan orizontal.
-• se flectează pacient’s coate și place mâinile pe upper chest astfel încât forearms do nu lie within expunere field.
-• radiolucent support under lower pelvic side poate fie used la reduce rotație when necessary.
-• Reduce lumbar lordosis prin flexing pacientul’s hips și genunchi enough la place back în firm contact cu table (see Fig. 9.86).
-• la show lumbar coloană vertebrală și sacrum, se centrează 14 × 17 inches (35 × 43 cm) receptorul de imagine la nivelul crestele iliace (L4).
-• la show lumbar coloană vertebrală only, se centrează receptorul de imagine 1.5 inches (3.8 cm) above crestele iliace (L3).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
+• Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan orizontal.
+• Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele să nu se afle în câmpul de expunere.
+• Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru reducerea rotației, când este necesar.
+• Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86).
+• Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4).
+• Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3).
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Examine lumbar sau lumbosacral coloană vertebrală cu pacientul recumbent.
+• Se examinează coloana lombară sau lombosacrală cu pacientul în decubit.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
 ### sid
 
-48 inches (122 cm) este suСested la reduce distortion și open intervertebral disk spaces more completely.
+48 inches (122 cm) este recomandat pentru reducerea distorsiunii și deschiderea mai completă a spațiilor discale intervertebrale.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35
-× 43 cm) longitudinal.
+poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 inches (35 × 43 cm), longitudinal.
 

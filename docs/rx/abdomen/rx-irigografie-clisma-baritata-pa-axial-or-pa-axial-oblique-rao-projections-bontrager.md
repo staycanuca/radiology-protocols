@@ -2,40 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: Raza centrală se înclină 30°–40° caudal (spre picioare). PA Align raza
-  centrală la exit la level de spină iliacă antero-superioară (SIAS) și MSP. RAO Align
-  raza centrală la exit la level de spină iliacă antero-superioară (SIAS) și 2 inches
-  (5 cm) la stâng de lumbar procese spinoase. Se centrează receptorul de imagine pe
-  raza centrală.
+centering: Raza centrală se înclină 30°–40° caudal (spre picioare). PA Aliniați raza
+  centrală astfel încât să iasă la nivelul spinei iliace antero-superioare (SIAS)
+  și al MSP. RAO Aliniați raza centrală astfel încât să iasă la nivelul spinei iliace
+  antero-superioare (SIAS) și la 2 țoli (5 cm) la stânga apofizelor spinoase lombare.
+  Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Polyps sau other pathologic processes în rectosigmoid aspect de intestin gros (colon)
+- Polipi sau alte procese patologice în regiunea rectosigmoidiană a intestinului gros
+  (colon)
 images:
-- caption: Fig. 13.87 PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.87 PA axial—raza
-    centrală 30° la 40° caudal. Inset, RAO axial.)
+- caption: Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO
+    axială.
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.87 PA axială—raza
+    centrală 30° la 40° caudal. În medalion, RAO axială.)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_1.jpeg
-- caption: Fig. 13.88 PA axial (single-
+- caption: Fig. 13.88 PA axială (simplu-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.88
-    PA axial (single-)
+    PA axială (simplu-)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_2.jpeg
-- caption: Fig. 13.89 PA axial (double-
+- caption: Fig. 13.89 PA axială (dublu-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.89
-    PA axial (double-)
+    PA axială (dublu-)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Proceed ca rapidly ca possible. Similar incidențe de rectosigmoid region—AP
-  și LPO cu 30° la 40° cranial angle—sunt described pe preceding pages. Fig. 13.87
-  PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial. Irigografie (Clismă
-  Baritată) SPECIAL AP sau LPO axial PA sau RAO axial
-position: 'Pacient: poziție pacient Decubit ventral sau partially rotit into poziție
-  oblică anterioară dreaptă (OAD / RAO), cu support pentru capul (Fig. 13.87).; Regiune
-  anatomică: PA poziție pacient Decubit ventral și align MSP la linia mediană mesei.
-  Place brațe up beside cap sau down prin sides away de la corp. Ensure Absența rotației
-  anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin
-  (pelvis)) sau trunk. RAO Rotate pacient 35° la 45° into RAo (drept anterior side
-  down). Place stâng braț up, cu drept braț down prin side și stâng Genunchi partially
-  flectat.'
+notes: Procedați cât mai rapid posibil. Incidențe similare ale regiunii rectosigmoidiene—AP
+  și LPO cu o înclinare cranială de 30° la 40°—sunt descrise în paginile precedente.
+  Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO axială. Irigografie
+  (Clismă Baritată) SPECIALĂ AP sau LPO axială PA sau RAO axială
+position: 'Pacient: poziționați pacientul în decubit ventral sau parțial rotit în
+  poziție oblică anterioară dreaptă (OAD / RAO), cu sprijin pentru cap (Fig. 13.87).;
+  Regiune anatomică: PA Poziționați pacientul în decubit ventral și aliniați MSP cu
+  linia mediană a mesei. Așezați brațele în sus, lângă cap, sau în jos, de-a lungul
+  corpului, la distanță de acesta. Asigurați absența rotației anatomice a bazinului
+  (pelvisului) sau a trunchiului: clavicule echidistante față de linia apofizelor
+  spinoase. RAO Rotiți pacientul cu 35° la 45° în RAo (partea anterioară dreaptă în
+  jos). Așezați brațul stâng în sus, iar brațul drept în jos, de-a lungul corpului,
+  cu genunchiul stâng parțial flectat.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,36 +46,38 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Elongated incidențe de rectosigmoid segments de intestin gros (colon) sunt vizualizat
-  fără excessive superimposition (Fig. 13.88).
-- 'doublecontrast study best visualizes this region de overlapping loops de bowel
-  (Fig. 13.89). poziție:'
-- adecvat raza centrală angulation și pacient obliquity pe oblic sunt evidenced prin
-  elongation și less superimposition de rectosigmoid segments de intestin gros (colon).
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize outlines de toate
-  rectosigmoid segments de intestin gros (colon) fără overpenetrating airfilled outlines
-  de these segments de intestin gros (colon) cu aircontrast study.
-- net structural margins indicate fără mișcare. Sigmoid intestin gros (colon) Rectum
-  Fig. 13.88 PA axial (singlecontrast study). Appendix Sigmoid intestin gros (colon)
-  Rectum Transverse intestin gros (colon) Cecum Fig. 13.89 PA axial (doublecontrast
-  study).
+- Segmentele rectosigmoidiene ale intestinului gros (colon) sunt vizualizate alungit,
+  fără suprapunere excesivă (Fig. 13.88).
+- 'Examinarea cu dublu contrast vizualizează cel mai bine această regiune cu anse
+  intestinale suprapuse (Fig. 13.89). Poziție:'
+- Înclinarea adecvată a razei centrale și poziționarea oblică adecvată a pacientului
+  în incidența oblică sunt demonstrate de alungirea și suprapunerea redusă a segmentelor
+  rectosigmoidiene ale intestinului gros (colon).
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  contururilor tuturor segmentelor rectosigmoidiene ale intestinului gros (colon),
+  fără penetrarea excesivă a contururilor acestor segmente umplute cu aer la examinarea
+  cu contrast aeric.
+- Marginile nete ale structurilor indică absența mișcării. Colon sigmoid Rect Fig.
+  13.88 PA axială (examinare cu contrast simplu). Apendice Colon sigmoid Rect Colon
+  transvers Cec Fig. 13.89 PA axială (examinare cu dublu contrast).
 sid_dff: 100 cm
 slug: rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 550
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Incidență
+title: Rx Irigografie (Clismă Baritată) Incidență PA AXIALĂ SAU PA AXIALĂ OBLICĂ (RAO)
 ---
-# Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Incidență
+# Rx Irigografie (Clismă Baritată) Incidență PA AXIALĂ SAU PA AXIALĂ OBLICĂ (RAO)
 
 
 <div class="rx-meta-bar">
@@ -91,7 +96,7 @@ title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Inc
 
     === "Indicații Clinice"
 
-        - Polyps sau other pathologic processes în rectosigmoid aspect de intestin gros (colon)
+        - Polipi sau alte procese patologice în regiunea rectosigmoidiană a intestinului gros (colon)
 
     === "Ghid Național IRIS"
 
@@ -105,8 +110,8 @@ title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Inc
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit ventral sau partially rotit into poziție oblică anterioară dreaptă (OAD / RAO), cu support pentru capul (Fig. 13.87).; Regiune anatomică: PA poziție pacient Decubit ventral și align MSP la linia mediană mesei. Place brațe up beside cap sau down prin sides away de la corp. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) sau trunk. RAO Rotate pacient 35° la 45° into RAo (drept anterior side down). Place stâng braț up, cu drept braț down prin side și stâng Genunchi partially flectat.
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 30°–40° caudal (spre picioare). PA Align raza centrală la exit la level de spină iliacă antero-superioară (SIAS) și MSP. RAO Align raza centrală la exit la level de spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) la stâng de lumbar procese spinoase. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: poziționați pacientul în decubit ventral sau parțial rotit în poziție oblică anterioară dreaptă (OAD / RAO), cu sprijin pentru cap (Fig. 13.87).; Regiune anatomică: PA Poziționați pacientul în decubit ventral și aliniați MSP cu linia mediană a mesei. Așezați brațele în sus, lângă cap, sau în jos, de-a lungul corpului, la distanță de acesta. Asigurați absența rotației anatomice a bazinului (pelvisului) sau a trunchiului: clavicule echidistante față de linia apofizelor spinoase. RAO Rotiți pacientul cu 35° la 45° în RAo (partea anterioară dreaptă în jos). Așezați brațul stâng în sus, iar brațul drept în jos, de-a lungul corpului, cu genunchiul stâng parțial flectat.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 30°–40° caudal (spre picioare). PA Aliniați raza centrală astfel încât să iasă la nivelul spinei iliace antero-superioare (SIAS) și al MSP. RAO Aliniați raza centrală astfel încât să iasă la nivelul spinei iliace antero-superioare (SIAS) și la 2 țoli (5 cm) la stânga apofizelor spinoase lombare. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -121,20 +126,20 @@ title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Inc
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Elongated incidențe de rectosigmoid segments de intestin gros (colon) sunt vizualizat fără excessive superimposition (Fig. 13.88).
-    - doublecontrast study best visualizes this region de overlapping loops de bowel (Fig. 13.89). poziție:
-    - adecvat raza centrală angulation și pacient obliquity pe oblic sunt evidenced prin elongation și less superimposition de rectosigmoid segments de intestin gros (colon).
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize outlines de toate rectosigmoid segments de intestin gros (colon) fără overpenetrating airfilled outlines de these segments de intestin gros (colon) cu aircontrast study.
-    - net structural margins indicate fără mișcare. Sigmoid intestin gros (colon) Rectum Fig. 13.88 PA axial (singlecontrast study). Appendix Sigmoid intestin gros (colon) Rectum Transverse intestin gros (colon) Cecum Fig. 13.89 PA axial (doublecontrast study).
+    - Segmentele rectosigmoidiene ale intestinului gros (colon) sunt vizualizate alungit, fără suprapunere excesivă (Fig. 13.88).
+    - Examinarea cu dublu contrast vizualizează cel mai bine această regiune cu anse intestinale suprapuse (Fig. 13.89). Poziție:
+    - Înclinarea adecvată a razei centrale și poziționarea oblică adecvată a pacientului în incidența oblică sunt demonstrate de alungirea și suprapunerea redusă a segmentelor rectosigmoidiene ale intestinului gros (colon).
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea contururilor tuturor segmentelor rectosigmoidiene ale intestinului gros (colon), fără penetrarea excesivă a contururilor acestor segmente umplute cu aer la examinarea cu contrast aeric.
+    - Marginile nete ale structurilor indică absența mișcării. Colon sigmoid Rect Fig. 13.88 PA axială (examinare cu contrast simplu). Apendice Colon sigmoid Rect Colon transvers Cec Fig. 13.89 PA axială (examinare cu dublu contrast).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,7 +152,7 @@ title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Inc
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Proceed ca rapidly ca possible. Similar incidențe de rectosigmoid region—AP și LPO cu 30° la 40° cranial angle—sunt described pe preceding pages. Fig. 13.87 PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial. Irigografie (Clismă Baritată) SPECIAL AP sau LPO axial PA sau RAO axial
+    Procedați cât mai rapid posibil. Incidențe similare ale regiunii rectosigmoidiene—AP și LPO cu o înclinare cranială de 30° la 40°—sunt descrise în paginile precedente. Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO axială. Irigografie (Clismă Baritată) SPECIALĂ AP sau LPO axială PA sau RAO axială
 
 
 ### 🖼️ Imagini
@@ -156,25 +161,25 @@ title: Rx Irigografie (Clismă Baritată) PA AXIAL OR PA AXIAL OBLIQUE (RAO) Inc
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.87 PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_1.jpeg)
+![Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO axială.](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.87 PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.87 PA axial—raza centrală 30° la 40° caudal. Inset, RAO axial.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 13.88 PA axial (single-](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 13.88 PA axial (single-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.88 PA axial (single-)</span></figcaption>
+<figcaption><strong>Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO axială.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.87 PA axială—raza centrală 30° la 40° caudal. În medalion, RAO axială.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.89 PA axial (double-](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_3.jpeg)
+![Fig. 13.88 PA axială (simplu-](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.89 PA axial (double-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.89 PA axial (double-)</span></figcaption>
+<figcaption><strong>Fig. 13.88 PA axială (simplu-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.88 PA axială (simplu-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 13.89 PA axială (dublu-](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-axial-or-pa-axial-oblique-rao-projections-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 13.89 PA axială (dublu-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.89 PA axială (dublu-)</span></figcaption>
 
 </figure>
 

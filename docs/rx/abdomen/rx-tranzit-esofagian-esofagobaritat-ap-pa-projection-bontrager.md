@@ -1,39 +1,40 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee la sfârșitul expirului pe durata expunerii. Alternative PA This imagine
-  also poate fie taken ca Incidență Postero-Anterioară (PA) cu similar positioning,
-  centering, și raza centrală locations.
+breathing: 'Apnee la sfârșitul expirului pe durata expunerii. Alternativă PA: această
+  imagine poate fi obținută și în incidență postero-anterioară (PA), cu poziționare,
+  centrare și localizare a razei centrale similare.'
 category: abdomen
-centering: la MSP, 1 inch (2.5 cm) inferior la sternal angle (T5–T6) sau approximately
-  3 inches (8 cm) inferior la incizura jugulară (manubriul sternal)
+centering: La MSP, la 1 inch (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ
+  3 inchi (8 cm) inferior de incizura jugulară (manubriul sternal)
 clinical_indications:
-- Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces
-  proliferativ tumorals de esophagus This incidență poate nu fie ca diagnostic ca
-  RAO sau Incidență de Profil (lateral) due la esophagus este superimposed over Coloană
-  Toracală.
+- Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese
+  proliferative tumorale ale esofagului. Această incidență poate să nu aibă aceeași
+  valoare diagnostică precum RAO sau incidența de profil (lateral), deoarece esofagul
+  se suprapune peste coloana toracală.
 images:
-- caption: Fig. 12.88 Decubit Incidență Antero-Posterioară (AP).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 12.88 Recumbent
-    AP incidență.)
+- caption: Fig. 12.88 Incidență antero-posterioară (AP) în decubit.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.88 Incidență
+    AP în decubit.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_1.jpeg
-- caption: Fig. 12.89 AP esophageal incidență.
+- caption: Fig. 12.89 Incidență AP a esofagului.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.89
-    AP esophageal incidență.)
+    Incidență AP a esofagului.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_2.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Two sau three spoonfuls de thick barium trebuie să fie ingested, și expunere
-  trebuie să fie made immediately after last bolus este swallowed. (pacient generally
-  does nu breathe immediately after swallow.) pentru complete filling de esophagus
-  cu thin barium, pacientul poate have la drink through straw, cu continuous swallowing
-  și expunere made after three sau four swallows fără suspending respirație. Tranzit
-  Esofagian (Esofagobaritat) ROUTINE RAO (35° la 40°) lateral AP (PA) Fig. 12.88 Decubit
-  Incidență Antero-Posterioară (AP). Fig. 12.89 AP esophageal incidență.'
-position: 'Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig.
-  12.88).; Regiune anatomică: Align MSp la midline de receptorul de imagine sau table.
-  Ensure that umeri și hips sunt nu rotit. Place drept braț up la hold cup de barium.
-  Place top de receptorul de imagine about 2 inches (5 cm) above top de Umăr, la place
-  raza centrală la center de receptorul de imagine.'
+notes: 'S: se administrează două sau trei linguri de bariu gros, iar expunerea trebuie
+  efectuată imediat după înghițirea ultimului bolus. (În general, pacientul nu respiră
+  imediat după înghițire.) Pentru umplerea completă a esofagului cu bariu fluid, poate
+  fi necesar ca pacientul să bea printr-un pai, înghițind continuu, iar expunerea
+  să fie efectuată după trei sau patru înghițituri, fără apnee. Tranzit Esofagian
+  (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.88 Incidență
+  antero-posterioară (AP) în decubit. Fig. 12.89 Incidență AP a esofagului.'
+position: 'Pacient: se poziționează pacientul în decubit sau în ortostatism (de preferat
+  în decubit) (Fig. 12.88).; Regiune anatomică: se aliniază MSp cu linia mediană a
+  receptorului de imagine sau a mesei. Se asigură absența rotației umerilor și a șoldurilor.
+  Se ridică brațul drept pentru a ține paharul cu bariu. Se poziționează marginea
+  superioară a receptorului de imagine la aproximativ 2 inchi (5 cm) deasupra părții
+  superioare a umărului, pentru a plasa raza centrală în centrul receptorului de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,31 +42,31 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire esophagus este filled cu barium (Fig. 12.89). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  de pacientul’s corp este evidenced prin symmetry de articulații sternoclaviculare.'
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize esophagus through
-  superimposed coloană toracală.
-- net structural margins indicate fără mișcare.
+- 'Întregul esofag este umplut cu bariu (Fig. 12.89). Poziție:'
+- Absența rotației anatomice a corpului pacientului, cu clavicule echidistante față
+  de linia apofizelor spinoase, este evidențiată prin simetria articulațiilor sternoclaviculare.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  esofagului prin coloana toracală suprapusă.
+- Marginile nete ale structurilor indică absența mișcării.
 sid_dff: 100 cm
 slug: rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 506
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Use tight side collimation field size la result în collimation
-    field size that este about 5 la 6 inches (12 la 15 cm) wide. L sau R marker trebuie
-    să fie plasat within collimation field size.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Utilizați o colimare laterală strânsă pentru a
+    obține un câmp de aproximativ 5 la 6 țoli (12 la 15 cm) lățime. Markerul L sau
+    R trebuie să fie plasat în interiorul câmpului colimat.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
+title: Rx Tranzit Esofagian (Esofagobaritat) Incidență AP (PA)
 ---
-# Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
+# Rx Tranzit Esofagian (Esofagobaritat) Incidență AP (PA)
 
 
 <div class="rx-meta-bar">
@@ -84,7 +85,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
 
     === "Indicații Clinice"
 
-        - Strictures, Corp străin / corpuri străine radio-opace, anatomic anomalies, și proces proliferativ tumorals de esophagus This incidență poate nu fie ca diagnostic ca RAO sau Incidență de Profil (lateral) due la esophagus este superimposed over Coloană Toracală.
+        - Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese proliferative tumorale ale esofagului. Această incidență poate să nu aibă aceeași valoare diagnostică precum RAO sau incidența de profil (lateral), deoarece esofagul se suprapune peste coloana toracală.
 
     === "Ghid Național IRIS"
 
@@ -98,10 +99,10 @@ title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
 
     ---
 
-    - **Poziție Pacient:** Pacient: poziție pacient Decubit sau Ortostatism (Decubit preferred) (Fig. 12.88).; Regiune anatomică: Align MSp la midline de receptorul de imagine sau table. Ensure that umeri și hips sunt nu rotit. Place drept braț up la hold cup de barium. Place top de receptorul de imagine about 2 inches (5 cm) above top de Umăr, la place raza centrală la center de receptorul de imagine.
-    - **Punct de Centrare Fascicul:** la MSP, 1 inch (2.5 cm) inferior la sternal angle (T5–T6) sau approximately 3 inches (8 cm) inferior la incizura jugulară (manubriul sternal)
+    - **Poziție Pacient:** Pacient: se poziționează pacientul în decubit sau în ortostatism (de preferat în decubit) (Fig. 12.88).; Regiune anatomică: se aliniază MSp cu linia mediană a receptorului de imagine sau a mesei. Se asigură absența rotației umerilor și a șoldurilor. Se ridică brațul drept pentru a ține paharul cu bariu. Se poziționează marginea superioară a receptorului de imagine la aproximativ 2 inchi (5 cm) deasupra părții superioare a umărului, pentru a plasa raza centrală în centrul receptorului de imagine.
+    - **Punct de Centrare Fascicul:** La MSP, la 1 inch (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ 3 inchi (8 cm) inferior de incizura jugulară (manubriul sternal)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternative PA This imagine also poate fie taken ca Incidență Postero-Anterioară (PA) cu similar positioning, centering, și raza centrală locations.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternativă PA: această imagine poate fi obținută și în incidență postero-anterioară (PA), cu poziționare, centrare și localizare a razei centrale similare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,19 +115,19 @@ title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Use tight side collimation field size la result în collimation field size that este about 5 la 6 inches (12 la 15 cm) wide. L sau R marker trebuie să fie plasat within collimation field size. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Utilizați o colimare laterală strânsă pentru a obține un câmp de aproximativ 5 la 6 țoli (12 la 15 cm) lățime. Markerul L sau R trebuie să fie plasat în interiorul câmpului colimat. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire esophagus este filled cu barium (Fig. 12.89). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de pacientul’s corp este evidenced prin symmetry de articulații sternoclaviculare.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize esophagus through superimposed coloană toracală.
-    - net structural margins indicate fără mișcare.
+    - Întregul esofag este umplut cu bariu (Fig. 12.89). Poziție:
+    - Absența rotației anatomice a corpului pacientului, cu clavicule echidistante față de linia apofizelor spinoase, este evidențiată prin simetria articulațiilor sternoclaviculare.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea esofagului prin coloana toracală suprapusă.
+    - Marginile nete ale structurilor indică absența mișcării.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -139,7 +140,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Two sau three spoonfuls de thick barium trebuie să fie ingested, și expunere trebuie să fie made immediately after last bolus este swallowed. (pacient generally does nu breathe immediately after swallow.) pentru complete filling de esophagus cu thin barium, pacientul poate have la drink through straw, cu continuous swallowing și expunere made after three sau four swallows fără suspending respirație. Tranzit Esofagian (Esofagobaritat) ROUTINE RAO (35° la 40°) lateral AP (PA) Fig. 12.88 Decubit Incidență Antero-Posterioară (AP). Fig. 12.89 AP esophageal incidență.
+    S: se administrează două sau trei linguri de bariu gros, iar expunerea trebuie efectuată imediat după înghițirea ultimului bolus. (În general, pacientul nu respiră imediat după înghițire.) Pentru umplerea completă a esofagului cu bariu fluid, poate fi necesar ca pacientul să bea printr-un pai, înghițind continuu, iar expunerea să fie efectuată după trei sau patru înghițituri, fără apnee. Tranzit Esofagian (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.88 Incidență antero-posterioară (AP) în decubit. Fig. 12.89 Incidență AP a esofagului.
 
 
 ### 🖼️ Imagini
@@ -148,17 +149,17 @@ title: Rx Tranzit Esofagian (Esofagobaritat) AP (PA) Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.88 Decubit Incidență Antero-Posterioară (AP).](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_1.jpeg)
+![Fig. 12.88 Incidență antero-posterioară (AP) în decubit.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 12.88 Decubit Incidență Antero-Posterioară (AP).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 12.88 Recumbent AP incidență.)</span></figcaption>
+<figcaption><strong>Fig. 12.88 Incidență antero-posterioară (AP) în decubit.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 12.88 Incidență AP în decubit.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 12.89 AP esophageal incidență.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_2.jpeg)
+![Fig. 12.89 Incidență AP a esofagului.](../../assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 12.89 AP esophageal incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.89 AP esophageal incidență.)</span></figcaption>
+<figcaption><strong>Fig. 12.89 Incidență AP a esofagului.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.89 Incidență AP a esofagului.)</span></figcaption>
 
 </figure>
 

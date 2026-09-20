@@ -6,28 +6,29 @@ centering: Conform reperelor anatomice standard din tratat
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 718, imaginea 1
+- caption: Merrill — pagina 718, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-upright-position-p717-merrill/p718_fig1.png
 last_updated: '2026-09-16'
 modality: rx
-notes: See p. 440 pentru Summary de oblic incidențe.
+notes: Vezi p. 440 pentru Rezumatul incidențelor oblice.
 position: se poziționează pacientul, în ortostatism sau așezat în ortostatism, în
-  Incidență de Profil (lateral) before vertical grilă.; se rotește corp 20 grade anterior
-  (PA oblic) sau posterior (AP oblic) astfel încât plan coronal forms angle de 70
-  grade de la plane de receptorul de imagine. se centrează pacient’s coloană vertebrală
-  la linia mediană grilă, și Se instruiește pacientul să rest adjacent Umăr firmly
-  against it pentru support. se ajustează height de receptorul de imagine 1½ la 2
-  inches (3.8 la 5 cm) above umerii la se centrează receptorul de imagine la T7. pentru
-  PA oblic, se flectează Cot de braț adjacent la grila și rest Mână pe Șold. pentru
-  AP oblic, braț adjacent la grila este brought forward la avoid superimposing Humerus
-  pe upper coloană toracală. pentru PA oblic, Se instruiește pacientul să grasp side
-  de grila device cu outer Mână (Fig. 9.78). pentru AP oblic, Se instruiește pacientul
-  să place outer Mână pe Șold. se ajustează pacient’s umeri la lie în same plan orizontal.
-  Se instruiește pacientul să stand straight la place axa longitudinală de coloană
-  vertebrală paralel cu receptorul de imagine. weight de pacientul’s corp trebuie
-  să fie equally distributed pe picioarele, și capul trebuie să nu fie turned laterally.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+  incidență de profil (lateral), în fața grilei verticale; se rotește corpul cu 20
+  grade anterior (PA oblic) sau posterior (AP oblic), astfel încât planul coronal
+  să formeze un unghi de 70 grade față de planul receptorului de imagine. se centrează
+  coloana vertebrală a pacientului pe linia mediană a grilei și se instruiește pacientul
+  să mențină umărul adiacent ferm lipit de aceasta pentru sprijin. se ajustează înălțimea
+  receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor și se centrează
+  receptorul de imagine la T7. pentru PA oblic, se flectează cotul brațului adiacent
+  grilei și se sprijină mâna pe șold. pentru AP oblic, brațul adiacent grilei este
+  adus anterior pentru a evita suprapunerea humerusului peste coloana toracală superioară.
+  pentru PA oblic, se instruiește pacientul să apuce partea laterală a dispozitivului
+  grilei cu mâna externă (Fig. 9.78). pentru AP oblic, se instruiește pacientul să
+  așeze mâna externă pe șold. se ajustează umerii pacientului astfel încât să se afle
+  în același plan orizontal. se instruiește pacientul să stea drept și să așeze axa
+  longitudinală a coloanei vertebrale paralel cu receptorul de imagine. greutatea
+  corpului pacientului trebuie distribuită uniform pe picioare, iar capul nu trebuie
+  rotit lateral. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -38,53 +39,52 @@ source_pages:
 - 717
 - 718
 source_sections:
-  notes: See p. 440 pentru Summary de oblic incidențe.
-  part_pos: '• se rotește corp 20 grade anterior (PA oblic) sau posterior (AP oblic)
-    astfel încât plan coronal forms angle de 70 grade de la
+  notes: Vezi p. 440 pentru Rezumatul incidențelor oblice.
+  part_pos: '• se rotește corpul cu 20 grade anterior (PA oblic) sau posterior (AP
+    oblic), astfel încât planul coronal să formeze un unghi de 70 grade față de planul
+    receptorului de imagine.
 
-    plane de receptorul de imagine.
+    • se centrează coloana vertebrală a pacientului pe linia mediană a grilei și se
+    instruiește pacientul să mențină umărul adiacent ferm lipit de aceasta pentru
+    sprijin.
 
-    • se centrează pacient’s coloană vertebrală la linia mediană grilă, și Se instruiește
-    pacientul să rest adjacent umăr firmly against it pentru
+    • se ajustează înălțimea receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra
+    umerilor și se centrează receptorul de imagine la T7.
 
-    support.
+    • pentru PA oblic, se flectează cotul brațului adiacent grilei și se sprijină
+    mâna pe șold. pentru AP oblic, brațul adiacent grilei este adus anterior pentru
+    a evita suprapunerea humerusului peste coloana toracală superioară.
 
-    • se ajustează height de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above
-    umerii la se centrează receptorul de imagine la T7.
+    • pentru PA oblic, se instruiește pacientul să apuce partea laterală a dispozitivului
+    grilei cu mâna externă (Fig. 9.78). pentru AP oblic, pacientul așază mâna externă
+    pe șold.
 
-    • pentru PA oblic, se flectează cot de braț adjacent la grila și rest mână pe
-    hip. pentru AP oblic, braț adjacent la
+    • se ajustează umerii pacientului astfel încât să se afle în același plan orizontal.
 
-    grila este brought forward la avoid superimposing humerus pe upper coloană toracală.
+    • se instruiește pacientul să stea drept și să așeze axa longitudinală a coloanei
+    vertebrale paralel cu receptorul de imagine.
 
-    • pentru PA oblic, Se instruiește pacientul să grasp side de grila device cu outer
-    mână (Fig. 9.78). pentru AP oblic, have pacient place outer mână pe hip.
-
-    • se ajustează pacient’s umeri la lie în same plan orizontal.
-
-    • Se instruiește pacientul să stand straight la place axa longitudinală de coloană
-    vertebrală paralel cu receptorul de imagine.
-
-    • weight de pacientul’s corp trebuie să fie equally distributed pe picioarele,
-    și capul trebuie să nu fie turned laterally.
+    • greutatea corpului pacientului trebuie distribuită uniform pe picioare, iar
+    capul nu trebuie rotit lateral.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se poziționează pacientul, în ortostatism sau așezat în ortostatism,
-    în poziție de profil (lateral) before vertical grilă.
+    în poziție de profil (lateral), în fața grilei verticale.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 717–718
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=717
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 717–718
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
+title: Rx articulațiile zigapofizare toracale — incidență de profil dreaptă (Merrill)
 ---
-# Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
+# Rx articulațiile zigapofizare toracale — incidență de profil dreaptă (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -117,7 +117,7 @@ title: Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul, în ortostatism sau așezat în ortostatism, în Incidență de Profil (lateral) before vertical grilă.; se rotește corp 20 grade anterior (PA oblic) sau posterior (AP oblic) astfel încât plan coronal forms angle de 70 grade de la plane de receptorul de imagine. se centrează pacient’s coloană vertebrală la linia mediană grilă, și Se instruiește pacientul să rest adjacent Umăr firmly against it pentru support. se ajustează height de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii la se centrează receptorul de imagine la T7. pentru PA oblic, se flectează Cot de braț adjacent la grila și rest Mână pe Șold. pentru AP oblic, braț adjacent la grila este brought forward la avoid superimposing Humerus pe upper coloană toracală. pentru PA oblic, Se instruiește pacientul să grasp side de grila device cu outer Mână (Fig. 9.78). pentru AP oblic, Se instruiește pacientul să place outer Mână pe Șold. se ajustează pacient’s umeri la lie în same plan orizontal. Se instruiește pacientul să stand straight la place axa longitudinală de coloană vertebrală paralel cu receptorul de imagine. weight de pacientul’s corp trebuie să fie equally distributed pe picioarele, și capul trebuie să nu fie turned laterally. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** se poziționează pacientul, în ortostatism sau așezat în ortostatism, în incidență de profil (lateral), în fața grilei verticale; se rotește corpul cu 20 grade anterior (PA oblic) sau posterior (AP oblic), astfel încât planul coronal să formeze un unghi de 70 grade față de planul receptorului de imagine. se centrează coloana vertebrală a pacientului pe linia mediană a grilei și se instruiește pacientul să mențină umărul adiacent ferm lipit de aceasta pentru sprijin. se ajustează înălțimea receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor și se centrează receptorul de imagine la T7. pentru PA oblic, se flectează cotul brațului adiacent grilei și se sprijină mâna pe șold. pentru AP oblic, brațul adiacent grilei este adus anterior pentru a evita suprapunerea humerusului peste coloana toracală superioară. pentru PA oblic, se instruiește pacientul să apuce partea laterală a dispozitivului grilei cu mâna externă (Fig. 9.78). pentru AP oblic, se instruiește pacientul să așeze mâna externă pe șold. se ajustează umerii pacientului astfel încât să se afle în același plan orizontal. se instruiește pacientul să stea drept și să așeze axa longitudinală a coloanei vertebrale paralel cu receptorul de imagine. greutatea corpului pacientului trebuie distribuită uniform pe picioare, iar capul nu trebuie rotit lateral. se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** Conform reperelor anatomice standard din tratat
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
@@ -152,7 +152,7 @@ title: Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    See p. 440 pentru Summary de oblic incidențe.
+    Vezi p. 440 pentru Rezumatul incidențelor oblice.
 
 
 ### 🖼️ Imagini
@@ -161,9 +161,9 @@ title: Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 718, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-upright-position-p717-merrill/p718_fig1.png)
+![Merrill — pagina 718, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-upright-position-p717-merrill/p718_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 718, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 718, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -180,39 +180,36 @@ title: Rx Thoracic Zygapophyseal Joints — UpProfil Drept (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 717–718](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=717)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 717–718](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### notes
+### note
 
-See p. 440 pentru Summary de oblic incidențe.
+Vezi p. 440 pentru Rezumatul incidențelor oblice.
 
 ### part_pos
 
-• se rotește corp 20 grade anterior (PA oblic) sau posterior (AP oblic) astfel încât plan coronal forms angle de 70 grade de la
-plane de receptorul de imagine.
-• se centrează pacient’s coloană vertebrală la linia mediană grilă, și Se instruiește pacientul să rest adjacent umăr firmly against it pentru
-support.
-• se ajustează height de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii la se centrează receptorul de imagine la T7.
-• pentru PA oblic, se flectează cot de braț adjacent la grila și rest mână pe hip. pentru AP oblic, braț adjacent la
-grila este brought forward la avoid superimposing humerus pe upper coloană toracală.
-• pentru PA oblic, Se instruiește pacientul să grasp side de grila device cu outer mână (Fig. 9.78). pentru AP oblic, have pacient place outer mână pe hip.
-• se ajustează pacient’s umeri la lie în same plan orizontal.
-• Se instruiește pacientul să stand straight la place axa longitudinală de coloană vertebrală paralel cu receptorul de imagine.
-• weight de pacientul’s corp trebuie să fie equally distributed pe picioarele, și capul trebuie să nu fie turned laterally.
+• se rotește corpul cu 20 grade anterior (PA oblic) sau posterior (AP oblic), astfel încât planul coronal să formeze un unghi de 70 grade față de planul receptorului de imagine.
+• se centrează coloana vertebrală a pacientului pe linia mediană a grilei și se instruiește pacientul să mențină umărul adiacent ferm lipit de aceasta pentru sprijin.
+• se ajustează înălțimea receptorului de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor și se centrează receptorul de imagine la T7.
+• pentru PA oblic, se flectează cotul brațului adiacent grilei și se sprijină mâna pe șold. pentru AP oblic, brațul adiacent grilei este adus anterior pentru a evita suprapunerea humerusului peste coloana toracală superioară.
+• pentru PA oblic, se instruiește pacientul să apuce partea laterală a dispozitivului grilei cu mâna externă (Fig. 9.78). pentru AP oblic, pacientul așază mâna externă pe șold.
+• se ajustează umerii pacientului astfel încât să se afle în același plan orizontal.
+• se instruiește pacientul să stea drept și să așeze axa longitudinală a coloanei vertebrale paralel cu receptorul de imagine.
+• greutatea corpului pacientului trebuie distribuită uniform pe picioare, iar capul nu trebuie rotit lateral.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se poziționează pacientul, în ortostatism sau așezat în ortostatism, în poziție de profil (lateral) before vertical grilă.
+• se poziționează pacientul, în ortostatism sau așezat în ortostatism, în poziție de profil (lateral), în fața grilei verticale.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

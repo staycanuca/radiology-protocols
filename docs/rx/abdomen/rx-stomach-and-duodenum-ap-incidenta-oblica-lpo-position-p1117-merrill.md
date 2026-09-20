@@ -1,47 +1,49 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise instructed.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se indică altfel.
 category: abdomen
 centering: perpendicular pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1118, imaginea 1
+- caption: Merrill — pagina 1118, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1118_fig1.png
-- caption: Merrill — pagina PDF 1119, imaginea 2
+- caption: Merrill — pagina 1119, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1119_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție.; Se instruiește pacientul
-  să abduct stâng braț și place Mână near capul, sau place extins braț alongside corp.
-  Place drept braț alongside corp sau across upper Torace, ca preferred. Se instruiește
-  pacientul să turn spre stâng, resting pe stâng posterior corp surface. se flectează
-  pacient’s drept Genunchi, și se rotește Genunchi spre stâng pentru support. Place
-  positioning sponge pe / sprijinit de pacient’s ridicat back pentru imobilizare.
-  se ajustează pacient’s poziție so that plan sagital passing approximately midway
-  între vertebre și stâng lateral margin de abdomenul este centrat pe receptorul de
-  imagine. se ajustează center de receptorul de imagine la nivelul corp de stomach.
-  Centering trebuie să fie ajustat la point midway între apendice xifoid și lower
-  margin de Coaste (Grilaj Costal) (Fig. 15.70). grade de rotație required la show
-  stomach best depends pe pacientul’s corp habitus. average angle de 45 grade trebuie
-  să fie suficient pentru sthenic pacient, but grade de angulation poate vary de la
-  30 la 60 grade. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal.; Se instruiește pacientul să efectueze
+  abducția brațului stâng și să așeze mâna lângă cap sau să așeze brațul întins pe
+  lângă corp. Așezați brațul drept pe lângă corp sau peste partea superioară a toracelui,
+  după preferință. Se instruiește pacientul să se întoarcă spre stânga, sprijinindu-se
+  pe suprafața posterioară stângă a corpului. Se flectează genunchiul drept al pacientului
+  și se rotește spre stânga pentru sprijin. Așezați un burete de poziționare pe /
+  sprijinit de partea ridicată a spatelui pacientului, pentru imobilizare. Se ajustează
+  poziția pacientului astfel încât planul sagital care trece aproximativ la jumătatea
+  distanței dintre vertebre și marginea laterală stângă a abdomenului să fie centrat
+  pe receptorul de imagine. Se ajustează centrul receptorului de imagine la nivelul
+  corpului stomacului. Centrarea trebuie ajustată la punctul situat la jumătatea distanței
+  dintre apendicele xifoid și marginea inferioară a coastelor (grilajului costal)
+  (Fig. 15.70). Gradul de rotație necesar pentru a evidenția cât mai bine stomacul
+  depinde de constituția corporală a pacientului. Un unghi mediu de 45 grade ar trebui
+  să fie suficient pentru pacientul normostenic, dar angulația poate varia de la 30
+  la 60 grade. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și duodenal loop
-- Fundic portion de stomach
-- fără superimposition de pylorus și duodenal bulb
-- corp de stomach centrat pe imagine
-- Penetration de contrast medium
-- Surrounding anatomy
-- corp și pyloric antrum cu double-contrast visualization
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și ansa duodenală
+- Porțiunea fundică a stomacului
+- Fără suprapunerea pilorului și a bulbului duodenal
+- Corpul stomacului centrat pe imagine
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
+- Corpul și antrul piloric vizualizate în dublu contrast
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill
 source_pages:
@@ -49,79 +51,80 @@ source_pages:
 - 1118
 - 1119
 source_sections:
-  anatomy: 'fundic portion de stomach (Fig. 15.71). Because de efect de gravity, pyloric
-    canal și duodenal bulb sunt nu ca filled cu
+  anatomy: 'porțiunea fundică a stomacului (Fig. 15.71). Datorită efectului gravitației,
+    canalul piloric și bulbul duodenal nu sunt la fel de pline cu
 
-    barium ca they sunt în opposite și complementary poziție (poziție oblică anterioară
-    dreaptă (OAD / RAO); see Figs. 15.67 la 15.69).'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 10 × 12 inches
-    (24 × 30 cm) pentru smaller pacienți și 11 × 14 inches (28 × 35 cm) pentru larger
-
-    pacienți. Se plasează markerul de lateralitate în câmpul colimat.'
+    bariu ca în poziția opusă și complementară (poziție oblică anterioară dreaptă
+    (OAD / RAO); vezi Fig. 15.67 până la 15.69).'
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 10
+    × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și 11 × 14 țoli (28
+    × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate
+    în câmpul colimat.
   cr: • perpendicular pe centrul receptorului de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Entire stomach și duodenal loop
+    • Întregul stomac și ansa duodenală
 
-    • Fundic portion de stomach
+    • Porțiunea fundică a stomacului
 
-    • fără superimposition de pylorus și duodenal bulb
+    • Fără suprapunerea pilorului și a bulbului duodenal
 
-    • corp de stomach centrat pe imagine
+    • Corpul stomacului centrat pe imagine
 
-    • Penetration de contrast medium
+    • Penetrarea substanței de contrast
 
-    • Surrounding anatomy
+    • Structurile anatomice învecinate
 
-    • corp și pyloric antrum cu double-contrast visualization'
-  part_pos: '• Se instruiește pacientul să abduct stâng braț și place mână near capul,
-    sau place extins braț alongside corp.
+    • Corpul și antrul piloric vizualizate în dublu contrast'
+  part_pos: '• Se instruiește pacientul să abducă brațul stâng și să plaseze mâna
+    lângă cap sau să plaseze brațul întins de-a lungul corpului.
 
-    • Place drept braț alongside corp sau across upper chest, ca preferred.
+    • Se plasează brațul drept de-a lungul corpului sau transversal peste partea superioară
+    a toracelui, după preferință.
 
-    • Se instruiește pacientul să turn spre stâng, resting pe stâng posterior corp
-    surface.
+    • Se instruiește pacientul să se întoarcă spre stânga, sprijinindu-se pe partea
+    posterioară stângă a corpului.
 
-    • se flectează pacient’s drept genunchi, și se rotește genunchi spre stâng pentru
-    support.
+    • Se flectează genunchiul drept al pacientului și se rotește spre stânga pentru
+    sprijin.
 
-    • Place positioning sponge pe / sprijinit de pacient’s ridicat back pentru imobilizare.
+    • Se plasează un burete de poziționare pe sau sprijinit de partea ridicată a spatelui
+    pacientului, pentru imobilizare.
 
-    • se ajustează pacient’s poziție so that plan sagital passing approximately midway
-    între vertebre și stâng lateral margin de
+    • Se ajustează poziția pacientului astfel încât planul sagital care trece aproximativ
+    la jumătatea distanței dintre vertebre și marginea laterală stângă a abdomenului
+    să fie centrat pe receptorul de imagine.
 
-    abdomenul este centrat pe receptorul de imagine.
+    • Se ajustează centrul receptorului de imagine la nivelul corpului stomacului.
+    Centrarea trebuie ajustată la punctul situat la jumătatea distanței dintre apendicele
+    xifoid și marginea inferioară a coastelor (Fig. 15.70).
 
-    • se ajustează center de receptorul de imagine la nivelul corp de stomach. Centering
-    trebuie să fie ajustat la point midway între
-
-    apendice xifoid și lower margin de coaste (Fig. 15.70).
-
-    • grade de rotație required la show stomach best depends pe pacientul’s corp habitus.
-    average angle de 45 grade trebuie să
-
-    fie suficient pentru sthenic pacient, but grade de angulation poate vary de la
-    30 la 60 grade.
+    • Gradul de rotație necesar pentru vizualizarea optimă a stomacului depinde de
+    tipul constituțional al pacientului. Un unghi mediu de 45 grade ar trebui să fie
+    suficient pentru un pacient normostenic, dar unghiul poate varia de la 30 la 60
+    grade.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit dorsal.
-  respiration: Apnee la sfârșitul expirului complet unless otherwise instructed.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se indică altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.'
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1117–1119'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1117
+    And Biliary System, pagini 1117–1119'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24
-    × 30 cm) pentru smaller pacienți și 11 × 14 inches (28 × 35 cm) pentru larger
-    pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 10 ×
+    12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și 11 × 14 țoli (28 ×
+    35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate
+    în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Antero-Posterioară (AP) — Oblică
   Posterioară Stângă (OPS / LPO) (Merrill)
 ---
@@ -158,10 +161,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Antero-Posterioară (A
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție.; Se instruiește pacientul să abduct stâng braț și place Mână near capul, sau place extins braț alongside corp. Place drept braț alongside corp sau across upper Torace, ca preferred. Se instruiește pacientul să turn spre stâng, resting pe stâng posterior corp surface. se flectează pacient’s drept Genunchi, și se rotește Genunchi spre stâng pentru support. Place positioning sponge pe / sprijinit de pacient’s ridicat back pentru imobilizare. se ajustează pacient’s poziție so that plan sagital passing approximately midway între vertebre și stâng lateral margin de abdomenul este centrat pe receptorul de imagine. se ajustează center de receptorul de imagine la nivelul corp de stomach. Centering trebuie să fie ajustat la point midway între apendice xifoid și lower margin de Coaste (Grilaj Costal) (Fig. 15.70). grade de rotație required la show stomach best depends pe pacientul’s corp habitus. average angle de 45 grade trebuie să fie suficient pentru sthenic pacient, but grade de angulation poate vary de la 30 la 60 grade. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal.; Se instruiește pacientul să efectueze abducția brațului stâng și să așeze mâna lângă cap sau să așeze brațul întins pe lângă corp. Așezați brațul drept pe lângă corp sau peste partea superioară a toracelui, după preferință. Se instruiește pacientul să se întoarcă spre stânga, sprijinindu-se pe suprafața posterioară stângă a corpului. Se flectează genunchiul drept al pacientului și se rotește spre stânga pentru sprijin. Așezați un burete de poziționare pe / sprijinit de partea ridicată a spatelui pacientului, pentru imobilizare. Se ajustează poziția pacientului astfel încât planul sagital care trece aproximativ la jumătatea distanței dintre vertebre și marginea laterală stângă a abdomenului să fie centrat pe receptorul de imagine. Se ajustează centrul receptorului de imagine la nivelul corpului stomacului. Centrarea trebuie ajustată la punctul situat la jumătatea distanței dintre apendicele xifoid și marginea inferioară a coastelor (grilajului costal) (Fig. 15.70). Gradul de rotație necesar pentru a evidenția cât mai bine stomacul depinde de constituția corporală a pacientului. Un unghi mediu de 45 grade ar trebui să fie suficient pentru pacientul normostenic, dar angulația poate varia de la 30 la 60 grade. Se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise instructed.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se indică altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -175,22 +178,22 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Antero-Posterioară (A
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și 11 × 14 inches (28 × 35 cm) pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și duodenal loop
-    - Fundic portion de stomach
-    - fără superimposition de pylorus și duodenal bulb
-    - corp de stomach centrat pe imagine
-    - Penetration de contrast medium
-    - Surrounding anatomy
-    - corp și pyloric antrum cu double-contrast visualization
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și ansa duodenală
+    - Porțiunea fundică a stomacului
+    - Fără suprapunerea pilorului și a bulbului duodenal
+    - Corpul stomacului centrat pe imagine
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
+    - Corpul și antrul piloric vizualizate în dublu contrast
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -210,17 +213,17 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Antero-Posterioară (A
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1118, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1118_fig1.png)
+![Merrill — pagina 1118, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1118_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1118, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1118, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1119, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1119_fig2.png)
+![Merrill — pagina 1119, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-ap-incidenta-oblica-lpo-position-p1117-merrill/p1119_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1119, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1119, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -237,61 +240,57 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Antero-Posterioară (A
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1117–1119](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1117)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1117–1119](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-fundic portion de stomach (Fig. 15.71). Because de efect de gravity, pyloric canal și duodenal bulb sunt nu ca filled cu
-barium ca they sunt în opposite și complementary poziție (poziție oblică anterioară dreaptă (OAD / RAO); see Figs. 15.67 la 15.69).
+porțiunea fundică a stomacului (Fig. 15.71). Datorită efectului gravitației, canalul piloric și bulbul duodenal nu sunt la fel de pline cu
+bariu ca în poziția opusă și complementară (poziție oblică anterioară dreaptă (OAD / RAO); vezi Fig. 15.67 până la 15.69).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și 11 × 14 inches (28 × 35 cm) pentru larger
-pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
 • perpendicular pe centrul receptorului de imagine.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și duodenal loop
-• Fundic portion de stomach
-• fără superimposition de pylorus și duodenal bulb
-• corp de stomach centrat pe imagine
-• Penetration de contrast medium
-• Surrounding anatomy
-• corp și pyloric antrum cu double-contrast visualization
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Întregul stomac și ansa duodenală
+• Porțiunea fundică a stomacului
+• Fără suprapunerea pilorului și a bulbului duodenal
+• Corpul stomacului centrat pe imagine
+• Penetrarea substanței de contrast
+• Structurile anatomice învecinate
+• Corpul și antrul piloric vizualizate în dublu contrast
 
 ### part_pos
 
-• Se instruiește pacientul să abduct stâng braț și place mână near capul, sau place extins braț alongside corp.
-• Place drept braț alongside corp sau across upper chest, ca preferred.
-• Se instruiește pacientul să turn spre stâng, resting pe stâng posterior corp surface.
-• se flectează pacient’s drept genunchi, și se rotește genunchi spre stâng pentru support.
-• Place positioning sponge pe / sprijinit de pacient’s ridicat back pentru imobilizare.
-• se ajustează pacient’s poziție so that plan sagital passing approximately midway între vertebre și stâng lateral margin de
-abdomenul este centrat pe receptorul de imagine.
-• se ajustează center de receptorul de imagine la nivelul corp de stomach. Centering trebuie să fie ajustat la point midway între
-apendice xifoid și lower margin de coaste (Fig. 15.70).
-• grade de rotație required la show stomach best depends pe pacientul’s corp habitus. average angle de 45 grade trebuie să
-fie suficient pentru sthenic pacient, but grade de angulation poate vary de la 30 la 60 grade.
+• Se instruiește pacientul să abducă brațul stâng și să plaseze mâna lângă cap sau să plaseze brațul întins de-a lungul corpului.
+• Se plasează brațul drept de-a lungul corpului sau transversal peste partea superioară a toracelui, după preferință.
+• Se instruiește pacientul să se întoarcă spre stânga, sprijinindu-se pe partea posterioară stângă a corpului.
+• Se flectează genunchiul drept al pacientului și se rotește spre stânga pentru sprijin.
+• Se plasează un burete de poziționare pe sau sprijinit de partea ridicată a spatelui pacientului, pentru imobilizare.
+• Se ajustează poziția pacientului astfel încât planul sagital care trece aproximativ la jumătatea distanței dintre vertebre și marginea laterală stângă a abdomenului să fie centrat pe receptorul de imagine.
+• Se ajustează centrul receptorului de imagine la nivelul corpului stomacului. Centrarea trebuie ajustată la punctul situat la jumătatea distanței dintre apendicele xifoid și marginea inferioară a coastelor (Fig. 15.70).
+• Gradul de rotație necesar pentru vizualizarea optimă a stomacului depinde de tipul constituțional al pacientului. Un unghi mediu de 45 grade ar trebui să fie suficient pentru un pacient normostenic, dar unghiul poate varia de la 30 la 60 grade.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit dorsal.
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise instructed.
+Apnee la sfârșitul expirului complet, dacă nu se indică altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
 

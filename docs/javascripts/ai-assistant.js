@@ -7,19 +7,27 @@
 (function () {
   'use strict';
 
-  // Determinare URL backend API (implicit Flask pe port 5173 sau origin curent)
+  const isLocalhost = Boolean(
+    window.location.hostname === 'localhost' ||
+    window.location.hostname === '127.0.0.1' ||
+    window.location.hostname === '[::1]'
+  );
+
+  // Determinare URL backend API (activ doar pe localhost dacă e pornit backend-ul)
   const API_BASE = (window.location.port === '5173')
     ? ''
-    : 'http://localhost:5173';
+    : (isLocalhost ? 'http://localhost:5173' : '');
 
   // Stare locală
   let currentUser = null;
-  let activeProvider = 'gemini'; // 'gemini' | 'openai'
+  let activeProvider = 'puter'; // implicit Puter.js pentru suport complet static
+  let puterModel = localStorage.getItem('rad_ai_puter_model') || 'gpt-4o-mini';
   let activeMode = 'all'; // 'all' | 'iris' | 'ct'
   let chatHistory = [];
-  let availableProviders = { gemini: true, openai: false };
+  let availableProviders = { puter: true, gemini: false, openai: false };
   let googleClientId = null;
   let isBackendAvailable = false;
+  let cachedProtocols = null;
 
   // Încărcare utilizator salvat în localStorage
   try {
@@ -30,21 +38,131 @@
   } catch (e) {}
 
   // -------------------------------------------------------------------------
+  // Puter.js SDK Loader & Autentificare Puter
+  // -------------------------------------------------------------------------
+
+  function loadPuterSDK() {
+    if (window.puter && window.puter.ai) return Promise.resolve();
+    return new Promise((resolve, reject) => {
+      const existing = document.querySelector('script[src*="js.puter.com"]');
+      if (existing) {
+        let attempts = 0;
+        const interval = setInterval(() => {
+          attempts++;
+          if (window.puter && window.puter.ai) {
+            clearInterval(interval);
+            resolve();
+          } else if (attempts > 30) {
+            clearInterval(interval);
+            resolve(); // fallback încercare
+          }
+        }, 100);
+        return;
+      }
+      const script = document.createElement('script');
+      script.src = 'https://js.puter.com/v2/';
+      script.async = true;
+      script.onload = () => {
+        let attempts = 0;
+        const interval = setInterval(() => {
+          attempts++;
+          if (window.puter && window.puter.ai) {
+            clearInterval(interval);
+            resolve();
+          } else if (attempts > 20) {
+            clearInterval(interval);
+            resolve();
+          }
+        }, 50);
+      };
+      script.onerror = () => reject(new Error('Eroare la descărcarea Puter.js'));
+      document.head.appendChild(script);
+    });
+  }
+
+  async function checkPuterAuth() {
+    try {
+      if (window.puter && window.puter.auth && window.puter.auth.isSignedIn && window.puter.auth.isSignedIn()) {
+        const pUser = await window.puter.auth.getUser();
+        if (pUser && !currentUser) {
+          currentUser = {
+            name: pUser.username || 'Utilizator Puter',
+            email: pUser.email || '',
+            picture: 'https://api.dicebear.com/7.x/bottts/svg?seed=' + encodeURIComponent(pUser.username || 'puter'),
+            role: 'Medic Radiolog (Puter)',
+            auth_type: 'puter',
+          };
+          localStorage.setItem('rad_ai_user', JSON.stringify(currentUser));
+          updateAllUI();
+        }
+      }
+    } catch (e) {}
+  }
+
+  async function handlePuterLogin() {
+    try {
+      await loadPuterSDK();
+      if (!window.puter || !window.puter.auth) {
+        alert('Modulul Puter.js nu este disponibil momentan.');
+        return;
+      }
+      await window.puter.auth.signIn();
+      const pUser = await window.puter.auth.getUser();
+      if (pUser) {
+        currentUser = {
+          name: pUser.username || 'Utilizator Puter',
+          email: pUser.email || '',
+          picture: 'https://api.dicebear.com/7.x/bottts/svg?seed=' + encodeURIComponent(pUser.username || 'puter'),
+          role: 'Medic Radiolog (Puter)',
+          auth_type: 'puter',
+        };
+        localStorage.setItem('rad_ai_user', JSON.stringify(currentUser));
+        updateAllUI();
+      }
+    } catch (e) {
+      console.warn('[Puter Auth Error]', e);
+    }
+  }
+
+  // -------------------------------------------------------------------------
   // Verificare Stare Backend & Google Auth
   // -------------------------------------------------------------------------
 
   async function checkBackendStatus() {
+    // Dacă suntem pe un domeniu extern static (ex: GitHub Pages), nu apelăm backend-ul
+    if (!isLocalhost || !API_BASE) {
+      isBackendAvailable = false;
+      availableProviders = { puter: true, gemini: false, openai: false };
+      activeProvider = 'puter';
+      await checkPuterAuth();
+      updateAllUI();
+      return;
+    }
+
     try {
       const res = await fetch(`${API_BASE}/api/ai/auth/status`, {
         method: 'GET',
         headers: { 'Accept': 'application/json' },
       });
       if (res.ok) {
-        isBackendAvailable = true;
         const data = await res.json();
-        if (data.providers) {
-          availableProviders = data.providers;
+        const hasGemini = Boolean(data.providers && data.providers.gemini);
+        const hasOpenai = Boolean(data.providers && data.providers.openai);
+
+        if (hasGemini || hasOpenai) {
+          isBackendAvailable = true;
+          availableProviders = Object.assign({ puter: true }, data.providers);
+          const savedProv = localStorage.getItem('rad_ai_provider');
+          if (savedProv && (savedProv === 'puter' || availableProviders[savedProv])) {
+            activeProvider = savedProv;
+          }
+        } else {
+          // Backend pornit dar fără chei API externe -> rămâne exclusiv Puter.js
+          isBackendAvailable = false;
+          availableProviders = { puter: true, gemini: false, openai: false };
+          activeProvider = 'puter';
         }
+
         if (data.google_client_id) {
           googleClientId = data.google_client_id;
         }
@@ -54,11 +172,16 @@
         }
       } else {
         isBackendAvailable = false;
+        availableProviders = { puter: true, gemini: false, openai: false };
+        activeProvider = 'puter';
       }
     } catch (err) {
       isBackendAvailable = false;
-      console.warn('[AI Assistant] Backend offline sau inaccesibil pe ' + API_BASE + ' — se activează motorul clinic offline IRIS.');
+      availableProviders = { puter: true, gemini: false, openai: false };
+      activeProvider = 'puter';
+      console.warn('[AI Assistant] Backend offline sau inaccesibil pe ' + API_BASE + ' — modul exclusiv serverless Puter.js este activ.');
     }
+    await checkPuterAuth();
     updateAllUI();
   }
 
@@ -163,13 +286,16 @@
     try {
       await fetch(`${API_BASE}/api/ai/auth/logout`, { method: 'POST' });
     } catch (e) {}
+    if (currentUser && currentUser.auth_type === 'puter' && window.puter && window.puter.auth) {
+      try { window.puter.auth.signOut(); } catch (e) {}
+    }
     currentUser = null;
     localStorage.removeItem('rad_ai_user');
     updateAllUI();
   }
 
   // -------------------------------------------------------------------------
-  // Motor Clinic Local Offline (Ghidul Național IRIS & Fallback Static)
+  // Motor Clinic Local Offline & Client-side RAG (IRIS & Protocoale CT)
   // -------------------------------------------------------------------------
 
   function stripDiacritics(str) {
@@ -208,6 +334,123 @@
     if (s.includes('particular') || s.includes('cazuri')) return '🟠 **CAZURI PARTICULARE**';
     if (s.includes('neindicat') || s.includes('contraindicat')) return '🔴 **NEINDICAT**';
     return '🔵 **' + (ind || 'OPȚIUNE') + '**';
+  }
+
+  function getProtocolsIndexUrl() {
+    if (typeof __md_scope !== 'undefined' && __md_scope && __md_scope.pathname && !location.protocol.startsWith('file')) {
+      const base = __md_scope.pathname.endsWith('/') ? __md_scope.pathname : __md_scope.pathname + '/';
+      return base + 'javascripts/protocol-comparison-index.json';
+    }
+    const depth = (location.pathname.match(/\//g) || []).length;
+    const rel = depth > 2 ? '../../' : (depth > 1 ? '../' : '');
+    return rel + 'javascripts/protocol-comparison-index.json';
+  }
+
+  async function loadProtocolsData() {
+    if (cachedProtocols) return cachedProtocols;
+    try {
+      const res = await fetch(getProtocolsIndexUrl());
+      if (res.ok) {
+        cachedProtocols = await res.json();
+        return cachedProtocols;
+      }
+    } catch (e) {
+      console.warn('[AI Assistant] Nu s-a putut încărca protocol-comparison-index.json:', e);
+    }
+    return [];
+  }
+
+  async function buildClientClinicalContext(query, mode) {
+    const qClean = stripDiacritics(query.trim());
+    const tokens = qClean
+      .split(/[^a-z0-9]+/)
+      .filter(t => t.length > 2 && !STOP_WORDS.has(t));
+
+    const contextParts = [];
+
+    // 1. Căutare Ghid IRIS
+    if (mode !== 'ct' && window.IRIS && window.IRIS.situations && window.IRIS.recommendations) {
+      if (!window._irisRecsMap) {
+        window._irisRecsMap = new Map();
+        (window.IRIS.recommendations || []).forEach(r => {
+          if (!window._irisRecsMap.has(r.situationId)) {
+            window._irisRecsMap.set(r.situationId, []);
+          }
+          window._irisRecsMap.get(r.situationId).push(r);
+        });
+      }
+
+      const recsMap = window._irisRecsMap;
+      const scoredIris = [];
+
+      for (const sit of window.IRIS.situations) {
+        if (sit.placeholder) continue;
+        const sName = stripDiacritics(sit.name || '');
+        let score = 0;
+        if (sName.includes(qClean)) score += 50;
+        for (const t of tokens) {
+          if (sName.includes(t)) score += 15;
+        }
+        const recs = recsMap.get(sit.id) || [];
+        for (const r of recs) {
+          const comm = stripDiacritics((r.comments || '') + ' ' + (r.otherInfo || ''));
+          for (const t of tokens) {
+            if (comm.includes(t)) score += 2;
+          }
+        }
+        if (score > 0) scoredIris.push({ sit, recs, score });
+      }
+
+      scoredIris.sort((a, b) => b.score - a.score);
+      const topIris = scoredIris.slice(0, 3);
+      if (topIris.length > 0) {
+        let irisBlock = '=== GHIDUL NAȚIONAL IRIS (Ordinul MS 1342/2012) ===\n';
+        for (const item of topIris) {
+          irisBlock += `Situație: ${item.sit.name}\n`;
+          for (const r of item.recs) {
+            irisBlock += `- Exam: ${r.exam || ''} | Indicație: ${r.indication || ''} | Grad: ${r.grade || '-'} | Doză: Clasa ${r.doseMax !== undefined ? r.doseMax : (r.doseMin || 0)}\n`;
+            if (r.comments) irisBlock += `  Comentarii: ${r.comments}\n`;
+          }
+        }
+        contextParts.push(irisBlock);
+      }
+    }
+
+    // 2. Căutare Protocoale CT
+    if (mode !== 'iris') {
+      const protocols = await loadProtocolsData();
+      if (protocols && protocols.length > 0) {
+        const scoredCT = [];
+        for (const p of protocols) {
+          const pText = stripDiacritics(`${p.title || ''} ${p.category || ''} ${p.slug || ''} ${p.contrast?.agent || ''}`);
+          let score = 0;
+          if (pText.includes(qClean)) score += 40;
+          for (const t of tokens) {
+            if (pText.includes(t)) score += 10;
+          }
+          if (score > 0) scoredCT.push({ protocol: p, score });
+        }
+        scoredCT.sort((a, b) => b.score - a.score);
+        const topCT = scoredCT.slice(0, 3);
+        if (topCT.length > 0) {
+          let ctBlock = '=== PROTOCOALE CT DE ACHIZIȚIE ASOCIATE ===\n';
+          for (const item of topCT) {
+            const p = item.protocol;
+            ctBlock += `Protocol: ${p.title} (${p.category})\n`;
+            ctBlock += `- Parametri: ${p.tech_params?.kv || '120'} kV | ${p.tech_params?.mas || 'Auto'} mAs | Colimare: ${p.tech_params?.collimation || 'N/A'}\n`;
+            if (p.contrast?.agent) {
+              ctBlock += `- Contrast: ${p.contrast.agent} (${p.contrast.timing || 'Standard'}), Flux: ${p.contrast.flow_rate || 'N/A'}\n`;
+            }
+            if (p.series && p.series.length > 0) {
+              ctBlock += `- Serii: ${p.series.map(s => s.name || s.coverage).join(' -> ')}\n`;
+            }
+          }
+          contextParts.push(ctBlock);
+        }
+      }
+    }
+
+    return contextParts.join('\n\n');
   }
 
   function generateOfflineReply(query, mode) {
@@ -279,10 +522,7 @@
         `💡 **Sugestii:**\n` +
         `- Căutați după simptome sau suspiciuni frecvente (de ex: *apendicită*, *durere toracică*, *cefalee*, *trombembolism*, *traumatism genunchi*, *hematurie*, *litiază*).\n` +
         `- Puteți naviga direct în [Ghidul Interactiv IRIS](iris/) pe capitole anatomice.\n\n` +
-        `> ℹ️ *Pentru procesare conversațională prin AI generativ (Google Gemini / OpenAI GPT-4o), asigurați-vă că serverul local este pornit rulând în terminal:*\n` +
-        `> \`\`\`bash\n` +
-        `> python run.py --all\n` +
-        `> \`\`\``;
+        `> ℹ️ *Puteți selecta furnizorul gratuit **🚀 Puter.js** pentru răspunsuri conversaționale generative direct în browser fără a necesita server local.*`;
     }
 
     const topMatches = scored.slice(0, 3);
@@ -321,24 +561,132 @@
     }
 
     out += `---\n\n`;
-    out += `> ℹ️ **Mod Offline (Build Static):** Răspunsul a fost extras direct din baza de date a **Ghidului Național IRIS** (790 situații, 1655 recomandări) integrată offline în aplicație.\n`;
+    out += `> ℹ️ **Mod Offline (Ghid Static):** Răspunsul a fost extras direct din baza de date a **Ghidului Național IRIS** (790 situații, 1655 recomandări).\n`;
     out += `>\n`;
-    out += `> 💡 *Pentru a activa funcțiile generative avansate (Google Gemini / OpenAI GPT-4o), porniți backend-ul local rulând în consolă: \`python run.py --all\`.*`;
+    out += `> 💡 *Pentru răspunsuri generative fluide cu streaming în timp real, alegeți furnizorul gratuit **🚀 Puter.js** din bara de sus.*`;
 
     return out;
   }
 
   // -------------------------------------------------------------------------
-  // Trimitere Mesaj către AI
+  // Puter.js AI Chat (Client-side & Streaming)
   // -------------------------------------------------------------------------
 
-  async function sendChatMessage(message, onChunkOrDone, onError) {
+  async function sendChatMessagePuter(message, onStreamChunk, onDone, onError) {
+    await loadPuterSDK();
+    if (!window.puter || !window.puter.ai) {
+      throw new Error('Puter.js nu este disponibil pe acest browser.');
+    }
+
+    const clinicalContext = await buildClientClinicalContext(message, activeMode);
+    const systemPrompt = `Ești Asistentul AI Clinic al Departamentului de Radiologie Medicală, specializat în Ghidul Național IRIS (Ordinul MS 1342/2012) și Protocoalele Imagistice Medicale (Ecografie US, IRM / RMN, CT, Radiografie clasică Rx, Fluoroscopie).
+Reguli obligatorii:
+1. Răspunde exclusiv în limba română, calm, profesionist, empatic și structurat (folosește titluri clare, liste și markdown).
+2. Respectă principiul ALARA: menționează întotdeauna dacă ecografia sau IRM-ul sunt opțiuni prioritare fără iradiere înainte de CT sau Rx.
+3. Când recomanzi o examinare conform IRIS, menționează explicit gradul de recomandare (Grad A, B sau C) și nivelul de iradiere (Clasa 0 până la 4).
+4. Când menționezi protocoale CT, include detalii despre timpii de contrast, faze, kV, mAs și AEC dacă sunt relevante.
+5. Păstrează confidențialitatea medicală: nu solicita date de identificare pacient (PII).
+6. Bazează-te cu prioritate pe datele clinice oficiale de mai jos:
+
+${clinicalContext || 'Nu au fost găsite protocoale specifice în căutarea locală; oferă recomandări generale de ghid.'}`;
+
+    const messages = [
+      { role: 'system', content: systemPrompt }
+    ];
+
+    for (const h of chatHistory.slice(-4)) {
+      messages.push({
+        role: h.role === 'user' ? 'user' : 'assistant',
+        content: h.content,
+      });
+    }
+    messages.push({ role: 'user', content: message });
+
+    try {
+      const response = await window.puter.ai.chat(messages, {
+        model: puterModel,
+        stream: true,
+      });
+
+      let fullText = '';
+      for await (const part of response) {
+        if (part?.text) {
+          fullText += part.text;
+          if (onStreamChunk) onStreamChunk(fullText);
+        }
+      }
+
+      if (!fullText && typeof response === 'string') {
+        fullText = response;
+      }
+
+      onDone(fullText, `Puter.js (${puterModel})`);
+    } catch (err) {
+      onError(err);
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // Trimitere Mesaj către AI (Backend / Puter.js / Fallback Static)
+  // -------------------------------------------------------------------------
+
+  async function sendChatMessage(message, onChunkOrDone, onError, onStreamChunk) {
     if (!message || !message.trim()) return;
 
     chatHistory.push({ role: 'user', content: message });
 
-    // Dacă backend-ul este indisponibil, folosim direct motorul offline
+    // 1. Dacă providerul curent este Puter.js
+    if (activeProvider === 'puter') {
+      try {
+        await sendChatMessagePuter(
+          message,
+          (chunk) => {
+            if (onStreamChunk) onStreamChunk(chunk, `Puter.js (${puterModel})`);
+          },
+          (finalReply, engine) => {
+            chatHistory.push({ role: 'assistant', content: finalReply });
+            onChunkOrDone(finalReply, engine);
+          },
+          (err) => {
+            throw err;
+          }
+        );
+        return;
+      } catch (err) {
+        console.warn('[Puter.js] Eroare la procesare, se activează fallback-ul local:', err);
+        const offlineReply = generateOfflineReply(message, activeMode);
+        if (offlineReply) {
+          chatHistory.push({ role: 'assistant', content: offlineReply });
+          onChunkOrDone(offlineReply, 'Ghid Național IRIS (Offline / Mod Static)');
+          return;
+        }
+        onError(err.message || 'Eroare la apelarea Puter.js.');
+        return;
+      }
+    }
+
+    // 2. Dacă backend-ul este offline și utilizatorul are selectat gemini/openai
     if (!isBackendAvailable) {
+      // Încercăm Puter.js automat pentru a oferi totuși un răspuns generativ inteligent
+      try {
+        await sendChatMessagePuter(
+          message,
+          (chunk) => {
+            if (onStreamChunk) onStreamChunk(chunk, `Puter.js (${puterModel}) [Salvare Serverless]`);
+          },
+          (finalReply, engine) => {
+            chatHistory.push({ role: 'assistant', content: finalReply });
+            onChunkOrDone(finalReply, engine);
+          },
+          (err) => {
+            throw err;
+          }
+        );
+        return;
+      } catch (e) {
+        console.warn('[AI Assistant] Puter fallback nereușit, fallback la IRIS static:', e);
+      }
+
       const offlineReply = generateOfflineReply(message, activeMode);
       if (offlineReply) {
         chatHistory.push({ role: 'assistant', content: offlineReply });
@@ -347,6 +695,7 @@
       }
     }
 
+    // 3. Trimitere către Backend API (Gemini sau OpenAI)
     try {
       const res = await fetch(`${API_BASE}/api/ai/chat`, {
         method: 'POST',
@@ -374,9 +723,25 @@
         throw new Error(data.error || 'Răspuns invalid de la asistentul AI.');
       }
     } catch (err) {
-      console.warn('[AI Chat] Backend indisponibil pe ' + API_BASE + ', se activează motorul offline IRIS...', err);
+      console.warn('[AI Chat] Backend indisponibil pe ' + API_BASE + ', se folosește Puter.js / motorul offline...', err);
       isBackendAvailable = false;
       updateAllUI();
+
+      // Încercare Puter.js înainte de text static
+      try {
+        await sendChatMessagePuter(
+          message,
+          (chunk) => {
+            if (onStreamChunk) onStreamChunk(chunk, `Puter.js (${puterModel}) [Salvare Serverless]`);
+          },
+          (finalReply, engine) => {
+            chatHistory.push({ role: 'assistant', content: finalReply });
+            onChunkOrDone(finalReply, engine);
+          },
+          (e) => { throw e; }
+        );
+        return;
+      } catch (e) {}
 
       const offlineReply = generateOfflineReply(message, activeMode);
       if (offlineReply) {
@@ -424,12 +789,15 @@
           </div>
           <div class="ai-controls-zone">
             <div class="ai-provider-toggle" id="ai-provider-toggle">
-              <button class="ai-provider-btn ${activeProvider === 'gemini' ? 'active' : ''}" data-provider="gemini">
-                🌟 Google Gemini
-              </button>
-              <button class="ai-provider-btn ${activeProvider === 'openai' ? 'active' : ''}" data-provider="openai">
-                ⚡ OpenAI GPT-4o
-              </button>
+              <!-- Populat dinamic de updateProviderUI conform mediului (static / backend) -->
+            </div>
+            <div class="ai-puter-model-wrapper" id="ai-puter-model-zone" style="${activeProvider === 'puter' ? '' : 'display:none;'}">
+              <select id="ai-puter-model-select" class="ai-mode-dropdown" title="Alegeți modelul Puter.js">
+                <option value="gpt-4o-mini" ${puterModel === 'gpt-4o-mini' ? 'selected' : ''}>🤖 GPT-4o Mini (Rapid)</option>
+                <option value="claude-3-5-sonnet" ${puterModel === 'claude-3-5-sonnet' ? 'selected' : ''}>🧠 Claude 3.5 Sonnet</option>
+                <option value="gemini-1.5-flash" ${puterModel === 'gemini-1.5-flash' ? 'selected' : ''}>🌟 Gemini 1.5 Flash</option>
+                <option value="deepseek-chat" ${puterModel === 'deepseek-chat' ? 'selected' : ''}>⚡ DeepSeek V3</option>
+              </select>
             </div>
             <div class="ai-mode-selector">
               <select id="ai-mode-select" class="ai-mode-dropdown">
@@ -491,15 +859,17 @@
       </div>
     `;
 
-    // Evenimente Comutator Modele
-    const provBtns = root.querySelectorAll('.ai-provider-btn');
-    provBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        provBtns.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeProvider = btn.getAttribute('data-provider');
+    // Inițializare dinamică butoane provider conform mediului (static vs backend)
+    updateProviderUI();
+
+    // Eveniment Schimbare Model Puter
+    const puterSelect = document.getElementById('ai-puter-model-select');
+    if (puterSelect) {
+      puterSelect.addEventListener('change', (e) => {
+        puterModel = e.target.value;
+        localStorage.setItem('rad_ai_puter_model', puterModel);
       });
-    });
+    }
 
     // Eveniment Mod
     const modeSelect = document.getElementById('ai-mode-select');
@@ -548,12 +918,19 @@
       sendChatMessage(
         text,
         (reply, engine) => {
-          thread.removeChild(loadingEl);
+          if (loadingEl.parentNode) thread.removeChild(loadingEl);
           appendAssistantMessage(reply, engine);
         },
         (err) => {
-          thread.removeChild(loadingEl);
+          if (loadingEl.parentNode) thread.removeChild(loadingEl);
           appendAssistantMessage(`⚠️ **Atenție:** ${err}`, 'Eroare');
+        },
+        (streamChunk) => {
+          const bubble = loadingEl.querySelector('.ai-msg-bubble');
+          if (bubble) {
+            bubble.innerHTML = renderMarkdown(streamChunk) + `<span class="ai-streaming-cursor">▋</span>`;
+            thread.scrollTop = thread.scrollHeight;
+          }
         }
       );
     }
@@ -603,13 +980,76 @@
     thread.scrollTop = thread.scrollHeight;
   }
 
+  function updateProviderUI() {
+    const toggleZone = document.getElementById('ai-provider-toggle');
+    const puterModelZone = document.getElementById('ai-puter-model-zone');
+    if (!toggleZone) return;
+
+    if (!isBackendAvailable || (!availableProviders.gemini && !availableProviders.openai)) {
+      // Mod pur Serverless / Static -> doar Puter.js este afișat și activ
+      activeProvider = 'puter';
+      toggleZone.innerHTML = `
+        <span class="ai-serverless-pill" title="Asistent AI activ 100% în browser prin Puter.js (fără backend necesar)">
+          🚀 Puter.js (Serverless)
+        </span>
+      `;
+      if (puterModelZone) {
+        puterModelZone.style.display = '';
+      }
+    } else {
+      // Mod Hibrid când există backend activ cu Gemini / OpenAI
+      let html = `
+        <button class="ai-provider-btn ${activeProvider === 'puter' ? 'active' : ''}" data-provider="puter" title="Model gratuit direct în browser (Serverless AI)">
+          🚀 Puter.js (Gratuit)
+        </button>
+      `;
+      if (availableProviders.gemini) {
+        html += `
+          <button class="ai-provider-btn ${activeProvider === 'gemini' ? 'active' : ''}" data-provider="gemini">
+            🌟 Google Gemini
+          </button>
+        `;
+      }
+      if (availableProviders.openai) {
+        html += `
+          <button class="ai-provider-btn ${activeProvider === 'openai' ? 'active' : ''}" data-provider="openai">
+            ⚡ OpenAI GPT-4o
+          </button>
+        `;
+      }
+      toggleZone.innerHTML = html;
+
+      toggleZone.querySelectorAll('.ai-provider-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          toggleZone.querySelectorAll('.ai-provider-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeProvider = btn.getAttribute('data-provider');
+          localStorage.setItem('rad_ai_provider', activeProvider);
+          if (puterModelZone) {
+            puterModelZone.style.display = activeProvider === 'puter' ? '' : 'none';
+          }
+          updateUserProfileZone();
+        });
+      });
+
+      if (puterModelZone) {
+        puterModelZone.style.display = activeProvider === 'puter' ? '' : 'none';
+      }
+    }
+  }
+
   function updateUserProfileZone() {
     const zone = document.getElementById('ai-user-profile-zone');
     if (!zone) return;
 
-    const statusBadge = isBackendAvailable
-      ? `<span class="ai-status-pill online" title="Conectat la serverul AI local (Port 5173)">🟢 Server AI Conectat</span>`
-      : `<span class="ai-status-pill offline" title="Backend local offline (Port 5173). Asistentul utilizează motorul clinic offline IRIS. Porniți 'python run.py --all' pentru Google Gemini / OpenAI.">🍃 Mod Offline (Ghid IRIS)</span>`;
+    let statusBadge = '';
+    if (activeProvider === 'puter') {
+      statusBadge = `<span class="ai-status-pill puter-online" title="Puter.js funcționează direct din browser (Serverless AI).">🚀 Puter.js Activ (Client AI)</span>`;
+    } else if (isBackendAvailable) {
+      statusBadge = `<span class="ai-status-pill online" title="Conectat la serverul AI local (Port 5173)">🟢 Server AI Conectat</span>`;
+    } else {
+      statusBadge = `<span class="ai-status-pill offline" title="Backend local offline. Folosiți Puter.js pentru AI generativ sau motorul clinic offline IRIS.">🍃 Mod Offline (Ghid IRIS)</span>`;
+    }
 
     if (currentUser) {
       zone.innerHTML = `
@@ -634,12 +1074,17 @@
           <button id="ai-inline-quick-login" class="ai-btn-quick-login">
             🩺 Conectare Rapidă (Doctor)
           </button>
+          <button id="ai-inline-puter-login" class="ai-btn-quick-login ai-btn-puter-login" title="Autentificare prin contul Puter.com">
+            🚀 Conectare Puter
+          </button>
           ${statusBadge}
         </div>
       `;
       renderGoogleButton('ai-google-btn-slot');
       const qBtn = document.getElementById('ai-inline-quick-login');
       if (qBtn) qBtn.addEventListener('click', handleQuickLogin);
+      const puterBtn = document.getElementById('ai-inline-puter-login');
+      if (puterBtn) puterBtn.addEventListener('click', handlePuterLogin);
     }
   }
 
@@ -743,12 +1188,19 @@
       sendChatMessage(
         txt,
         (reply, engine) => {
-          thread.removeChild(load);
+          if (load.parentNode) thread.removeChild(load);
           appendAssistantMessage(reply, engine);
         },
         (err) => {
-          thread.removeChild(load);
+          if (load.parentNode) thread.removeChild(load);
           appendAssistantMessage(`⚠️ ${err}`, 'Eroare');
+        },
+        (streamChunk) => {
+          const bubble = load.querySelector('.ai-msg-bubble');
+          if (bubble) {
+            bubble.innerHTML = renderMarkdown(streamChunk) + `<span class="ai-streaming-cursor">▋</span>`;
+            thread.scrollTop = thread.scrollHeight;
+          }
         }
       );
     }
@@ -764,6 +1216,7 @@
 
   function updateAllUI() {
     updateUserProfileZone();
+    updateProviderUI();
   }
 
   function escapeHtml(str) {

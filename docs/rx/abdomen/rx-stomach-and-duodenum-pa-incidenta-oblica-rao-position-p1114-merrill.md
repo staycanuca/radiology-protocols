@@ -1,49 +1,52 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise requested.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 category: abdomen
 centering: perpendicular pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1115, imaginea 1
+- caption: Merrill — pagina 1115, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1115_fig1.png
-- caption: Merrill — pagina PDF 1116, imaginea 2
+- caption: Merrill — pagina 1116, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1116_fig2.png
-- caption: Merrill — pagina PDF 1117, imaginea 3
+- caption: Merrill — pagina 1117, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1117_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit poziție.; After Incidență Postero-Anterioară
-  (PA), Se instruiește pacientul să rest capul pe drept cheek și la place drept braț
-  along side de corp. Se instruiește pacientul să raise his sau her stâng side și
-  support corp pe stâng Antebraț și flectat stâng Genunchi. se ajustează pacient’s
-  poziție so that plan sagital passing midway între vertebre și lateral margine de
-  ridicat side coincides cu linia mediană grilă (Fig. 15.67). se centrează receptorul
-  de imagine about 1 la 2 inches (2.5 la 5 cm) above lower rib margin, la nivelul
-  L1-L2, when pacientul este Decubit ventral. Make final adjustment în corp rotație.
-  approximately 40 la 70 grade de rotație required la give best imagine de pyloric
-  canal și duodenum depends pe size, shape, și poziție de stomach. Generally, hypersthenic
-  pacienți require greater grade de rotație than sthenic și asthenic pacienți. poziție
-  oblică anterioară dreaptă (OAD / RAO) este used pentru serial studies de pyloric
-  canal și duodenal bulb because gastric peristalsis este usually more active when
-  pacientul este în this poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit. După incidența postero-anterioară (PA), se
+  instruiește pacientul să își sprijine capul pe obrazul drept și să își așeze brațul
+  drept de-a lungul corpului. Se instruiește pacientul să își ridice partea stângă
+  și să își sprijine corpul pe antebrațul stâng și pe genunchiul stâng flectat. Se
+  ajustează poziția pacientului astfel încât planul sagital care trece la jumătatea
+  distanței dintre vertebre și marginea laterală a părții ridicate să coincidă cu
+  linia mediană a grilei (Fig. 15.67). Se centrează receptorul de imagine la aproximativ
+  1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul
+  L1-L2, când pacientul este în decubit ventral. Se efectuează ajustarea finală a
+  rotației corpului. Rotația de aproximativ 40 până la 70 grade necesară pentru a
+  obține cea mai bună imagine a canalului piloric și a duodenului depinde de dimensiunea,
+  forma și poziția stomacului. În general, pacienții hiperstenici necesită un grad
+  de rotație mai mare decât pacienții stenici și astenici. Poziția oblică anterioară
+  dreaptă (OAD / RAO) este utilizată pentru examinări în serie ale canalului piloric
+  și bulbului duodenal, deoarece peristaltismul gastric este de obicei mai activ când
+  pacientul se află în această poziție. se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și duodenal loop
-- fără superimposition de pylorus și duodenal bulb
-- Duodenal bulb și loop în profile
-- Stomach centrat la nivelul level de pylorus
-- Penetration de contrast medium
-- Surrounding anatomy
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și ansa duodenală
+- Fără suprapunerea pilorului și a bulbului duodenal
+- Bulbul și ansa duodenală în profil
+- Stomacul centrat la nivelul pilorului
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill
 source_pages:
@@ -52,79 +55,77 @@ source_pages:
 - 1116
 - 1117
 source_sections:
-  anatomy: 'Entire stomach și duodenal loop evidențiat. Provides best imagine de pyloric
-    canal și duodenal bulb în sthenic pacienți (Figs. 15.68
+  anatomy: 'Sunt evidențiate întregul stomac și ansa duodenală. Oferă cea mai bună
+    imagine a canalului piloric și a bulbului duodenal la pacienții stenici (Fig.
+    15.68 și 15.69).
 
-    și 15.69).
-
-    Because gastric peristalsis este generally more active cu pacientul în poziție
-    oblică anterioară dreaptă (OAD / RAO), serial study de several expuneri este sometimes
-
-    obtained la intervals de 30 la 40 seconds la delineate pyloric canal și duodenal
-    bulb.'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 10 × 12 inches
-    (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 ×
-    35 cm)
-
-    pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.'
+    Deoarece peristaltismul gastric este în general mai activ când pacientul se află
+    în poziție oblică anterioară dreaptă (OAD / RAO), uneori se efectuează o examinare
+    în serie cu mai multe expuneri la intervale de 30 până la 40 secunde, pentru a
+    contura canalul piloric și bulbul duodenal.'
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 10
+    × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească
+    11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul
+    de lateralitate în câmpul colimat.
   cr: • perpendicular pe centrul receptorului de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste anatomia de interes
 
-    • Entire stomach și duodenal loop
+    • Întregul stomac și ansa duodenală
 
-    • fără superimposition de pylorus și duodenal bulb
+    • Fără suprapunerea pilorului și a bulbului duodenal
 
-    • Duodenal bulb și loop în profile
+    • Bulbul și ansa duodenală în profil
 
-    • Stomach centrat la nivelul level de pylorus
+    • Stomacul centrat la nivelul pilorului
 
-    • Penetration de contrast medium
+    • Penetrarea mediului de contrast
 
-    • Surrounding anatomy'
-  part_pos: '• After PA incidență, Se instruiește pacientul să rest capul pe drept
-    cheek și la place drept braț along side de corp.
+    • Anatomia înconjurătoare'
+  part_pos: '• După incidența PA, se instruiește pacientul să își sprijine capul pe
+    obrazul drept și să își așeze brațul drept de-a lungul corpului.
 
-    • Se instruiește pacientul să raise his sau her stâng side și support corp pe
-    stâng forearm și flectat stâng genunchi.
+    • Se instruiește pacientul să își ridice partea stângă și să își sprijine corpul
+    pe antebrațul stâng și pe genunchiul stâng flectat.
 
-    • se ajustează pacient’s poziție so that plan sagital passing midway între vertebre
-    și lateral margine de ridicat side
+    • Se ajustează poziția pacientului astfel încât planul sagital care trece la jumătatea
+    distanței dintre vertebre și marginea laterală a părții ridicate să coincidă cu
+    linia mediană a grilei (Fig. 15.67).
 
-    coincides cu linia mediană grilă (Fig. 15.67).
+    • Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până
+    la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul
+    este în decubit ventral.
 
-    • se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower
-    rib margin, la nivelul L1-L2, when pacientul este în decubit ventral.
+    • Se efectuează ajustarea finală a rotației corpului. Rotația de aproximativ 40
+    până la 70 grade necesară pentru a obține cea mai bună imagine a canalului piloric
+    și a duodenului depinde de dimensiunea, forma și poziția stomacului. În general,
+    pacienții hiperstenici necesită un grad de rotație mai mare decât pacienții stenici
+    și astenici.
 
-    • Make final adjustment în corp rotație. approximately 40 la 70 grade de rotație
-    required la give best imagine de pyloric canal și duodenum depends pe size, shape,
-    și poziție de stomach. Generally, hypersthenic pacienți require greater grade
-    de rotație than sthenic și asthenic pacienți.
-
-    • poziție oblică anterioară dreaptă (OAD / RAO) este used pentru serial studies
-    de pyloric canal și duodenal bulb because gastric peristalsis este usually more
-    active
-
-    when pacientul este în this poziție.
+    • Poziția oblică anterioară dreaptă (OAD / RAO) este utilizată pentru examinări
+    în serie ale canalului piloric și bulbului duodenal, deoarece peristaltismul gastric
+    este de obicei mai activ când pacientul se află în această poziție.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în recumbent poziție.
-  respiration: Apnee la sfârșitul expirului complet unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  patient_pos: • Se așază pacientul în decubit.
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.'
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1114–1117'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1114
+    And Biliary System, pagini 1114–1117'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24
-    × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm)
-    pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 10 ×
+    12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11
+    × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul
+    de lateralitate în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (PA) — Oblică
   Anterioară Dreaptă (OAD / RAO) (Merrill)
 ---
@@ -161,10 +162,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit poziție.; After Incidență Postero-Anterioară (PA), Se instruiește pacientul să rest capul pe drept cheek și la place drept braț along side de corp. Se instruiește pacientul să raise his sau her stâng side și support corp pe stâng Antebraț și flectat stâng Genunchi. se ajustează pacient’s poziție so that plan sagital passing midway între vertebre și lateral margine de ridicat side coincides cu linia mediană grilă (Fig. 15.67). se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower rib margin, la nivelul L1-L2, when pacientul este Decubit ventral. Make final adjustment în corp rotație. approximately 40 la 70 grade de rotație required la give best imagine de pyloric canal și duodenum depends pe size, shape, și poziție de stomach. Generally, hypersthenic pacienți require greater grade de rotație than sthenic și asthenic pacienți. poziție oblică anterioară dreaptă (OAD / RAO) este used pentru serial studies de pyloric canal și duodenal bulb because gastric peristalsis este usually more active when pacientul este în this poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Se așază pacientul în decubit. După incidența postero-anterioară (PA), se instruiește pacientul să își sprijine capul pe obrazul drept și să își așeze brațul drept de-a lungul corpului. Se instruiește pacientul să își ridice partea stângă și să își sprijine corpul pe antebrațul stâng și pe genunchiul stâng flectat. Se ajustează poziția pacientului astfel încât planul sagital care trece la jumătatea distanței dintre vertebre și marginea laterală a părții ridicate să coincidă cu linia mediană a grilei (Fig. 15.67). Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral. Se efectuează ajustarea finală a rotației corpului. Rotația de aproximativ 40 până la 70 grade necesară pentru a obține cea mai bună imagine a canalului piloric și a duodenului depinde de dimensiunea, forma și poziția stomacului. În general, pacienții hiperstenici necesită un grad de rotație mai mare decât pacienții stenici și astenici. Poziția oblică anterioară dreaptă (OAD / RAO) este utilizată pentru examinări în serie ale canalului piloric și bulbului duodenal, deoarece peristaltismul gastric este de obicei mai activ când pacientul se află în această poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -178,21 +179,21 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm) pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și duodenal loop
-    - fără superimposition de pylorus și duodenal bulb
-    - Duodenal bulb și loop în profile
-    - Stomach centrat la nivelul level de pylorus
-    - Penetration de contrast medium
-    - Surrounding anatomy
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și ansa duodenală
+    - Fără suprapunerea pilorului și a bulbului duodenal
+    - Bulbul și ansa duodenală în profil
+    - Stomacul centrat la nivelul pilorului
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -212,25 +213,25 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1115, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1115_fig1.png)
+![Merrill — pagina 1115, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1115_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1115, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1116, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1116_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1116, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1115, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1117, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1117_fig3.png)
+![Merrill — pagina 1116, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1116_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1117, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1116, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1117, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1117_fig3.png)
+
+<figcaption><strong>Merrill — pagina 1117, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -247,59 +248,54 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1114–1117](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1114)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1114–1117](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Entire stomach și duodenal loop evidențiat. Provides best imagine de pyloric canal și duodenal bulb în sthenic pacienți (Figs. 15.68
-și 15.69).
-Because gastric peristalsis este generally more active cu pacientul în poziție oblică anterioară dreaptă (OAD / RAO), serial study de several expuneri este sometimes
-obtained la intervals de 30 la 40 seconds la delineate pyloric canal și duodenal bulb.
+Sunt evidențiate întregul stomac și ansa duodenală. Oferă cea mai bună imagine a canalului piloric și a bulbului duodenal la pacienții stenici (Fig. 15.68 și 15.69).
+Deoarece peristaltismul gastric este în general mai activ când pacientul se află în poziție oblică anterioară dreaptă (OAD / RAO), uneori se efectuează o examinare în serie cu mai multe expuneri la intervale de 30 până la 40 secunde, pentru a contura canalul piloric și bulbul duodenal.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm)
-pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
 • perpendicular pe centrul receptorului de imagine.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și duodenal loop
-• fără superimposition de pylorus și duodenal bulb
-• Duodenal bulb și loop în profile
-• Stomach centrat la nivelul level de pylorus
-• Penetration de contrast medium
-• Surrounding anatomy
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste anatomia de interes
+• Întregul stomac și ansa duodenală
+• Fără suprapunerea pilorului și a bulbului duodenal
+• Bulbul și ansa duodenală în profil
+• Stomacul centrat la nivelul pilorului
+• Penetrarea mediului de contrast
+• Anatomia înconjurătoare
 
 ### part_pos
 
-• After PA incidență, Se instruiește pacientul să rest capul pe drept cheek și la place drept braț along side de corp.
-• Se instruiește pacientul să raise his sau her stâng side și support corp pe stâng forearm și flectat stâng genunchi.
-• se ajustează pacient’s poziție so that plan sagital passing midway între vertebre și lateral margine de ridicat side
-coincides cu linia mediană grilă (Fig. 15.67).
-• se centrează receptorul de imagine about 1 la 2 inches (2.5 la 5 cm) above lower rib margin, la nivelul L1-L2, when pacientul este în decubit ventral.
-• Make final adjustment în corp rotație. approximately 40 la 70 grade de rotație required la give best imagine de pyloric canal și duodenum depends pe size, shape, și poziție de stomach. Generally, hypersthenic pacienți require greater grade de rotație than sthenic și asthenic pacienți.
-• poziție oblică anterioară dreaptă (OAD / RAO) este used pentru serial studies de pyloric canal și duodenal bulb because gastric peristalsis este usually more active
-when pacientul este în this poziție.
+• După incidența PA, se instruiește pacientul să își sprijine capul pe obrazul drept și să își așeze brațul drept de-a lungul corpului.
+• Se instruiește pacientul să își ridice partea stângă și să își sprijine corpul pe antebrațul stâng și pe genunchiul stâng flectat.
+• Se ajustează poziția pacientului astfel încât planul sagital care trece la jumătatea distanței dintre vertebre și marginea laterală a părții ridicate să coincidă cu linia mediană a grilei (Fig. 15.67).
+• Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral.
+• Se efectuează ajustarea finală a rotației corpului. Rotația de aproximativ 40 până la 70 grade necesară pentru a obține cea mai bună imagine a canalului piloric și a duodenului depinde de dimensiunea, forma și poziția stomacului. În general, pacienții hiperstenici necesită un grad de rotație mai mare decât pacienții stenici și astenici.
+• Poziția oblică anterioară dreaptă (OAD / RAO) este utilizată pentru examinări în serie ale canalului piloric și bulbului duodenal, deoarece peristaltismul gastric este de obicei mai activ când pacientul se află în această poziție.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în recumbent poziție.
+• Se așază pacientul în decubit.
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise requested.
+Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
 

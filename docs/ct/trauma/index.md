@@ -1,98 +1,35 @@
 ---
-title: Protocoale CT Traumă
+title: Protocoale CT Traumă & Urgențe
 ---
 
-# Protocoale CT Traumă
+# Protocoale CT Traumă & Urgențe
 
-**Ultima actualizare:** 
-**Autor:** 
+Protocoale de urgență, pan-scan politraumă și leziuni post-traumatice acute.
 
----
-
-<div class="grid cards" markdown>
-
--   __1. Rezumat Clinic__
-
-    ---
-
-    === "Rezumat Achiziție"
-
-        | Serie | Fază | Acoperire |
-        |:-------|:------|:---------|
-
-    === "Indicații Clinice"
-
-        - Niciuna
-
-    === "Ghid Național IRIS"
-
-        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Ghidul Național IRIS*).
-
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
--   __2. Pregătire Pacient__
-
-    ---
-
-    - **Poziție:** 
-    - **Repaus Alimentar (NPO):** 
-    - **Premedicație / Pregătire:**
-        - Nu este necesară
-
--   __3. Contrast IV & Injectare__
-
-    ---
-    !!! info "Fără Contrast Intravenos"
-    Acest protocol nu necesită administrare de contrast intravenos.
-
--   __4. Parametri Tehnici Achiziție__
-
-    ---
-    | Parametru Tehnic | Valoare Configurare |
-    |:-----------------|:---------------------|
-    | **Tensiune Tub (kV)** | 120 kV |
-    | **Curent Tub (mAs)** | Auto (referință 200) |
-    | **Control Automat al Expunerii (AEC)** | Activat (Modulare automată 3D conform topogramei / scout) |
-    | **Grosime Secțiune Achiziție (Slice)** | 0.625 mm |
-    | **Colimare Detector** | Sub-milimetrică (ex: 64 × 0.625 mm / 128 × 0.6 mm) |
-    | **Timp de Rotație** | 0.5 s |
-    | **Pitch (Factor Pas)** | 1.0 - 1.2 |
-    | **Mod Scanare** | Elicoidal (Helical) |
-
--   __5. Note Speciale__
-
-    ---
-
-    === "Note Tehnician"
-
-        - 
-
-    === "Note Asistent"
-
-        - 
-
-        !!! warning "Siguranță"
-            - **Funcție Renală:** 
-            - **Alergii:** 
-
-    === "Note Radiolog"
-
-        - 
-
-    === "Sfaturi & Recomandări"
-
-        - 
-
+<div class="hero-buttons" style="margin-bottom: 24px;">
+  <a href="../compare/" class="hero-btn primary" style="background: #1a237e;">
+    🔍 Compară Protocoale CT în Paralel ➔
+  </a>
+  <a href="../../iris/" class="hero-btn secondary" style="border-color: #1565c0; color: #1565c0;">
+    🏛️ Justificare Clinică Ghid IRIS
+  </a>
 </div>
 
-<div class="acquisition-diagram"></div>
+## Catalog Protocoale (14 disponibile)
 
-=== "Achiziție Serii"
-
-    | Nume Serie | Limită Superioară | Limită Inferioară | Întârziere | Grosime Strat | Note |
-    |:------------|:---------------|:-------------|:------|:----------------|:------|
-
-=== "Post-procesare & Reconstrucții"
-
-    | Plan | Achiziție | FOV | Grosime/Increment | Filtru (Kernel) | Putere IR | Note |
-    |:------|:------------|:----|:--------------------|:-------|:------------|:------|
+| Protocol | Tip Scanare | Sursă / Autor |
+|:---|:---:|:---|
+| [CT Whole Body Trauma (Excluding the Head) (Siemens – Sensation 16)](ct-mdct-whole-body-trauma-excluding-the-hea-siemens-sensation-16-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Whole Body Trauma (Excluding the Head) (Siemens – Sensation 64)](ct-mdct-whole-body-trauma-excluding-the-hea-siemens-sensation-64-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Whole Body Trauma (Excluding the Head) (Siemens – Volume Zoom 4-slice)](ct-mdct-whole-body-trauma-excluding-the-hea-siemens-volume-zoom-4slice-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Whole Body Trauma (Excluding the Head) (Canon – Toshiba – Aquilion 16)](ct-mdct-whole-body-trauma-excluding-the-hea-toshiba-aquilion-16-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Whole Body Trauma (Excluding the Head) (Canon – Toshiba – Aquilion 8)](ct-mdct-whole-body-trauma-excluding-the-hea-toshiba-aquilion-8-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Whole Body Trauma (Excluding the Head) (Canon – Toshiba – Aquilion Super 4)](ct-mdct-whole-body-trauma-excluding-the-hea-toshiba-aquilion-super-4-8.md) | Contrast IV | MDCT.net / Multidetector CT Practical Guide |
+| [CT Politraumă Pan-Scan Whole Body (Protocol OHSU)](ct-pan-scan-trauma-ohsu.md) | Nativ | OHSU Diagnostic Radiology / Departamentul de Radiologie |
+| [CT Abdomen și Pelvis în Traumatism la Gravidă](pregnant-trauma-ct-ap.md) | Nativ | Departamentul de Radiologie |
+| [CT Torace în Traumatism (Politraumatism)](trauma-chest-ct.md) | Nativ | Departamentul de Radiologie |
+| [CT Urgență / Cod Ruptură Anevrism de Aortă Abdominală (Cod AAA)](trauma-code-aaa.md) | Nativ | Departamentul de Radiologie |
+| [Angio-CT Torace cu CT Abdomen și Pelvis în Fază Portală (Traumă)](trauma-cta-chest-with-pv-ct-ap.md) | Nativ | Departamentul de Radiologie |
+| [CT Craniu și Coloană Cervicală în Politraumatism](trauma-head-and-c-spine.md) | Nativ | Departamentul de Radiologie |
+| [CT Craniu, Coloană Cervicală și Masiv Facial în Traumatism](trauma-head-c-spine-and-facial-bones.md) | Nativ | Departamentul de Radiologie |
+| [Angio-CT Membre Inferioare în Traumatism (Runoff Extremități)](trauma-lower-extremity-runoff-cta.md) | Nativ | Departamentul de Radiologie |

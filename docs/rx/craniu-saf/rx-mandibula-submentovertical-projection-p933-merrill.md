@@ -2,30 +2,31 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: perpendicular pe linie infraorbitomeatală (LIOM) și centrat midway între
-  angles de Mandibulă.
+centering: Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea
+  distanței dintre unghiurile mandibulei.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 934, imaginea 1
+- caption: Merrill — pagina 934, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig1.png
-- caption: Merrill — pagina PDF 934, imaginea 2
+- caption: Merrill — pagina 934, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul în ortostatism în front de stativ vertical Bucky
-  sau în Decubit dorsal poziție. When pacientul este Decubit dorsal, elevate umerii
-  pe firm pillows la permit complete extension de gâtul. se flectează pacient’s genunchi
-  la relax abdominal muscles și relieve strain pe gâtul muscles. Center MSP de corp
-  la linia mediană grilă device.; cu gâtul fully extins, rest capul pe its vertex
-  și se ajustează cap so that MSP este vertical. se ajustează linie infraorbitomeatală
-  (LIOM) ca paralel ca possible cu plane de receptorul de imagine (Fig. 11.147). When
-  gâtul cannot fie extins enough that linie infraorbitomeatală (LIOM) este paralel
-  cu receptorul de imagine plane, angle grila device și place it paralel cu linie
-  infraorbitomeatală (LIOM). Se imobilizează capul pacientului.
+position: Se poziționează pacientul în ortostatism în fața stativului vertical Bucky
+  sau în decubit dorsal. Când pacientul este în decubit dorsal, se ridică umerii pe
+  perne ferme pentru a permite extensia completă a gâtului. Se flectează genunchii
+  pacientului pentru a relaxa mușchii abdominali și a reduce tensiunea asupra mușchilor
+  gâtului. Se centrează MSP al corpului pe linia mediană a dispozitivului cu grilă.
+  Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează capul astfel
+  încât MSP să fie vertical. Se ajustează linia infraorbitomeatală (LIOM) cât mai
+  paralelă posibil cu planul receptorului de imagine (fig. 11.147). Când gâtul nu
+  poate fi extins suficient astfel încât linia infraorbitomeatală (LIOM) să fie paralelă
+  cu planul receptorului de imagine, se angulează dispozitivul cu grilă și se plasează
+  paralel cu linia infraorbitomeatală (LIOM). Se imobilizează capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -36,54 +37,51 @@ source_pages:
 - 933
 - 934
 source_sections:
-  anatomy: SMV incidență de corp mandibular shows coronoid și condyloid processes
-    de rami (Fig. 11.148).
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides și above tip de nasul. expunere field trebuie să fie
+  anatomy: Incidența SMV a corpului mandibular evidențiază procesele coronoid și condilian
+    ale ramurilor (fig. 11.148).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch
+    (2.5 cm) dincolo de laturile laterale și deasupra vârfului nasului. Câmpul de
+    expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea
+    distanței dintre unghiurile mandibulei.
+  part_pos: '• Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează
+    capul astfel încât MSP să fie vertical.
 
-    fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S)
-    în collimated expunere field.'
-  cr: • perpendicular pe linie infraorbitomeatală (LIOM) și centrat midway între angles
-    de mandible.
-  part_pos: '• cu gâtul fully extins, rest capul pe its vertex și se ajustează cap
-    so that MSP este vertical.
+    • Se ajustează linia infraorbitomeatală (LIOM) cât mai paralelă posibil cu planul
+    receptorului de imagine (fig. 11.147).
 
-    • se ajustează linie infraorbitomeatală (LIOM) ca paralel ca possible cu plane
-    de receptorul de imagine (Fig. 11.147).
-
-    • When gâtul cannot fie extins enough that linie infraorbitomeatală (LIOM) este
-    paralel cu receptorul de imagine plane, angle grila device și place it paralel
-    cu
-
-    linie infraorbitomeatală (LIOM).
+    • Când gâtul nu poate fi extins suficient astfel încât linia infraorbitomeatală
+    (LIOM) să fie paralelă cu planul receptorului de imagine, se angulează dispozitivul
+    cu grilă și se plasează paralel cu linia infraorbitomeatală (LIOM).
 
     • Se imobilizează capul pacientului.'
-  patient_pos: '• se poziționează pacientul în ortostatism în front de stativ vertical
-    Bucky sau în decubit dorsal. When pacientul este în decubit dorsal, elevate umerii
+  patient_pos: '• se poziționează pacientul în ortostatism în fața stativului vertical
+    Bucky sau în decubit dorsal. Când pacientul este în decubit dorsal, se ridică
+    umerii pe perne ferme pentru a permite extensia completă a gâtului.
 
-    pe firm pillows la permit complete extension de gâtul.
+    • se flectează genunchii pacientului pentru relaxarea mușchilor abdominali și
+    reducerea tensiunii asupra mușchilor gâtului.
 
-    • se flectează pacient’s genunchi la relax abdominal muscles și relieve strain
-    pe gâtul muscles.
-
-    • Center MSP de corp la linia mediană grilă device.'
+    • Se centrează MSP al corpului pe linia mediană a dispozitivului cu grilă.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 933–934
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=933
+- title: Merrill’s Atlas, 11. Cranium, pagini 933–934
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides și above tip de nasul. expunere field trebuie să fie fără larger than 8
-    × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx Mandibulă — Submentovertical Incidență (Merrill)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de marginile laterale și deasupra vârfului nasului. Câmpul de expunere
+    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Mandibulă — Incidență submentoverticală (Merrill)
 ---
-# Rx Mandibulă — Submentovertical Incidență (Merrill)
+# Rx Mandibulă — Incidență submentoverticală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -116,8 +114,8 @@ title: Rx Mandibulă — Submentovertical Incidență (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul în ortostatism în front de stativ vertical Bucky sau în Decubit dorsal poziție. When pacientul este Decubit dorsal, elevate umerii pe firm pillows la permit complete extension de gâtul. se flectează pacient’s genunchi la relax abdominal muscles și relieve strain pe gâtul muscles. Center MSP de corp la linia mediană grilă device.; cu gâtul fully extins, rest capul pe its vertex și se ajustează cap so that MSP este vertical. se ajustează linie infraorbitomeatală (LIOM) ca paralel ca possible cu plane de receptorul de imagine (Fig. 11.147). When gâtul cannot fie extins enough that linie infraorbitomeatală (LIOM) este paralel cu receptorul de imagine plane, angle grila device și place it paralel cu linie infraorbitomeatală (LIOM). Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** perpendicular pe linie infraorbitomeatală (LIOM) și centrat midway între angles de Mandibulă.
+    - **Poziție Pacient:** Se poziționează pacientul în ortostatism în fața stativului vertical Bucky sau în decubit dorsal. Când pacientul este în decubit dorsal, se ridică umerii pe perne ferme pentru a permite extensia completă a gâtului. Se flectează genunchii pacientului pentru a relaxa mușchii abdominali și a reduce tensiunea asupra mușchilor gâtului. Se centrează MSP al corpului pe linia mediană a dispozitivului cu grilă. Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează capul astfel încât MSP să fie vertical. Se ajustează linia infraorbitomeatală (LIOM) cât mai paralelă posibil cu planul receptorului de imagine (fig. 11.147). Când gâtul nu poate fi extins suficient astfel încât linia infraorbitomeatală (LIOM) să fie paralelă cu planul receptorului de imagine, se angulează dispozitivul cu grilă și se plasează paralel cu linia infraorbitomeatală (LIOM). Se imobilizează capul pacientului.
+    - **Punct de Centrare Fascicul:** Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea distanței dintre unghiurile mandibulei.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -133,7 +131,7 @@ title: Rx Mandibulă — Submentovertical Incidență (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides și above tip de nasul. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale și deasupra vârfului nasului. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -160,17 +158,17 @@ title: Rx Mandibulă — Submentovertical Incidență (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 934, imaginea 1](../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig1.png)
+![Merrill — pagina 934, imaginea 1](../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 934, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 934, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 934, imaginea 2](../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig2.png)
+![Merrill — pagina 934, imaginea 2](../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 934, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 934, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -187,44 +185,41 @@ title: Rx Mandibulă — Submentovertical Incidență (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 933–934](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=933)
+- [Merrill’s Atlas, 11. Cranium, pagini 933–934](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-SMV incidență de corp mandibular shows coronoid și condyloid processes de rami (Fig. 11.148).
+Incidența SMV a corpului mandibular evidențiază procesele coronoid și condilian ale ramurilor (fig. 11.148).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides și above tip de nasul. expunere field trebuie să fie
-fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de laturile laterale și deasupra vârfului nasului. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe linie infraorbitomeatală (LIOM) și centrat midway între angles de mandible.
+• Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea distanței dintre unghiurile mandibulei.
 
 ### part_pos
 
-• cu gâtul fully extins, rest capul pe its vertex și se ajustează cap so that MSP este vertical.
-• se ajustează linie infraorbitomeatală (LIOM) ca paralel ca possible cu plane de receptorul de imagine (Fig. 11.147).
-• When gâtul cannot fie extins enough that linie infraorbitomeatală (LIOM) este paralel cu receptorul de imagine plane, angle grila device și place it paralel cu
-linie infraorbitomeatală (LIOM).
+• Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează capul astfel încât MSP să fie vertical.
+• Se ajustează linia infraorbitomeatală (LIOM) cât mai paralelă posibil cu planul receptorului de imagine (fig. 11.147).
+• Când gâtul nu poate fi extins suficient astfel încât linia infraorbitomeatală (LIOM) să fie paralelă cu planul receptorului de imagine, se angulează dispozitivul cu grilă și se plasează paralel cu linia infraorbitomeatală (LIOM).
 • Se imobilizează capul pacientului.
 
 ### patient_pos
 
-• se poziționează pacientul în ortostatism în front de stativ vertical Bucky sau în decubit dorsal. When pacientul este în decubit dorsal, elevate umerii
-pe firm pillows la permit complete extension de gâtul.
-• se flectează pacient’s genunchi la relax abdominal muscles și relieve strain pe gâtul muscles.
-• Center MSP de corp la linia mediană grilă device.
+• se poziționează pacientul în ortostatism în fața stativului vertical Bucky sau în decubit dorsal. Când pacientul este în decubit dorsal, se ridică umerii pe perne ferme pentru a permite extensia completă a gâtului.
+• se flectează genunchii pacientului pentru relaxarea mușchilor abdominali și reducerea tensiunii asupra mușchilor gâtului.
+• Se centrează MSP al corpului pe linia mediană a dispozitivului cu grilă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

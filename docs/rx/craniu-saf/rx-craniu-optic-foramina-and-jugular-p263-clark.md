@@ -3,27 +3,29 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• cu fascicul collimated well, raza centrală orizontală centrală trebuie
-  să fie centred la middle de Bucky. This este la point 7.5 cm above și 7.5 cm behind
-  uppermost extern auditory meatus, astfel încât raza centrală emerges de la centre
-  de orbit în contact cu masa de examinare.
+centering: '• Cu fasciculul bine colimat, raza centrală orizontală trebuie să fie
+  centrată pe mijlocul Bucky. Aceasta se află la 7,5 cm deasupra și la 7,5 cm posterior
+  de conductul auditiv extern superior, astfel încât raza centrală să iasă din centrul
+  orbitei în contact cu masa de examinare.
 
-  • small lead side-marker poate fie plasat above superior orbital margin.
+  • Un mic marker lateral din plumb poate fi plasat deasupra marginii orbitale superioare.
 
   35°'
 clinical_indications:
-- '8 248 Craniu gaură optică și jugular foramina main indication pentru imaging these
-  foramina este detection de proces proliferativ tumoral (e.g. glomus jugulare proces
-  proliferativ tumoral, optic nerve glioma), which currently requires imaging prin
-  CT și/sau MRI pentru full evaluation. gaură optică: Postero-anterior (PA) Oblică
-  optic canal opens into rear de bony orbit la gaură optică. canal passes forwards
-  și laterally la approximately 35 grade la planul mediosagital și downwards la approximately
-  35 grade la orbito-meatal plane. This este path that raza centrală trebuie să take
-  la evidențiază foramen. ambele părți (bilateral) sunt usually imaged separately
-  pentru comparison prin undertaking Postero-anterior (PA) Oblică incidențe de Craniu.'
+- '8 248 Craniul: foramenele optice și jugulare. Principala indicație pentru examinarea
+  acestor foramene este detectarea unui proces proliferativ tumoral (de exemplu, proces
+  proliferativ tumoral glomus jugulare, gliom de nerv optic), care în prezent necesită
+  examinare prin CT și/sau RMN pentru evaluare completă. Gaura optică: incidență oblică
+  postero-anterioară (PA). Canalul optic se deschide posterior în orbita osoasă, la
+  nivelul găurii optice. Canalul se îndreaptă anterior și lateral, la aproximativ
+  35 grade față de planul mediosagital, și inferior, la aproximativ 35 grade față
+  de planul orbitomeatal. Acesta este traseul pe care trebuie să-l urmeze raza centrală
+  pentru a evidenția foramenul. Ambele părți sunt de obicei examinate separat pentru
+  comparație, prin efectuarea unor incidențe oblice postero-anterioare (PA) ale craniului.'
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-optic-foramina-and-jugular-p263-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -36,16 +38,17 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este culcat Decubit ventral sau, more commonly, Ortostatism
-  cu nasul, cheek și chin de side being examined în contact cu Bucky sau casetă table.
+position: '• Pacientul este culcat în decubit ventral sau, mai frecvent, în ortostatism,
+  cu nasul, obrazul și bărbia de pe partea examinată în contact cu Bucky sau cu masa
+  pentru casetă.
 
-  • centre de orbit de side under examination trebuie să coincide cu centre de Bucky
-  sau casetă table.
+  • Centrul orbitei de pe partea examinată trebuie să coincidă cu centrul Bucky sau
+  al mesei pentru casetă.
 
-  • planul mediosagital este ajustat la make angle de 35 grade la vertical (55 grade
-  la masa de examinare).
+  • Planul mediosagital este ajustat pentru a forma un unghi de 35 grade față de verticală
+  (55 grade față de masa de examinare).
 
-  • orbito-meatal base line este raised 35 grade de la orizontal.'
+  • Linia de bază orbitomeatală este ridicată la 35 grade față de orizontală.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -54,7 +57,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Craniu).
+- Vizualizarea clară a întregii arii anatomice (craniu).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -62,18 +65,18 @@ sid_dff: 100 cm
 slug: rx-craniu-optic-foramina-and-jugular-p263-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 263
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=263
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Optic foramina and jugular
+  mas: Conform AEC / grosimii anatomice
+title: 'Radiografia craniului: foramenele optice și jugulare'
 ---
-# Rx Craniu Optic foramina and jugular
+# Radiografia craniului: foramenele optice și jugulare
 
 
 <div class="rx-meta-bar">
@@ -92,7 +95,7 @@ title: Rx Craniu Optic foramina and jugular
 
     === "Indicații Clinice"
 
-        - 8 248 Craniu gaură optică și jugular foramina main indication pentru imaging these foramina este detection de proces proliferativ tumoral (e.g. glomus jugulare proces proliferativ tumoral, optic nerve glioma), which currently requires imaging prin CT și/sau MRI pentru full evaluation. gaură optică: Postero-anterior (PA) Oblică optic canal opens into rear de bony orbit la gaură optică. canal passes forwards și laterally la approximately 35 grade la planul mediosagital și downwards la approximately 35 grade la orbito-meatal plane. This este path that raza centrală trebuie să take la evidențiază foramen. ambele părți (bilateral) sunt usually imaged separately pentru comparison prin undertaking Postero-anterior (PA) Oblică incidențe de Craniu.
+        - 8 248 Craniul: foramenele optice și jugulare. Principala indicație pentru examinarea acestor foramene este detectarea unui proces proliferativ tumoral (de exemplu, proces proliferativ tumoral glomus jugulare, gliom de nerv optic), care în prezent necesită examinare prin CT și/sau RMN pentru evaluare completă. Gaura optică: incidență oblică postero-anterioară (PA). Canalul optic se deschide posterior în orbita osoasă, la nivelul găurii optice. Canalul se îndreaptă anterior și lateral, la aproximativ 35 grade față de planul mediosagital, și inferior, la aproximativ 35 grade față de planul orbitomeatal. Acesta este traseul pe care trebuie să-l urmeze raza centrală pentru a evidenția foramenul. Ambele părți sunt de obicei examinate separat pentru comparație, prin efectuarea unor incidențe oblice postero-anterioare (PA) ale craniului.
 
     === "Ghid Național IRIS"
 
@@ -106,12 +109,12 @@ title: Rx Craniu Optic foramina and jugular
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit ventral sau, more commonly, Ortostatism cu nasul, cheek și chin de side being examined în contact cu Bucky sau casetă table.
-• centre de orbit de side under examination trebuie să coincide cu centre de Bucky sau casetă table.
-• planul mediosagital este ajustat la make angle de 35 grade la vertical (55 grade la masa de examinare).
-• orbito-meatal base line este raised 35 grade de la orizontal.
-    - **Punct de Centrare Fascicul:** • cu fascicul collimated well, raza centrală orizontală centrală trebuie să fie centred la middle de Bucky. This este la point 7.5 cm above și 7.5 cm behind uppermost extern auditory meatus, astfel încât raza centrală emerges de la centre de orbit în contact cu masa de examinare.
-• small lead side-marker poate fie plasat above superior orbital margin.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit ventral sau, mai frecvent, în ortostatism, cu nasul, obrazul și bărbia de pe partea examinată în contact cu Bucky sau cu masa pentru casetă.
+• Centrul orbitei de pe partea examinată trebuie să coincidă cu centrul Bucky sau al mesei pentru casetă.
+• Planul mediosagital este ajustat pentru a forma un unghi de 35 grade față de verticală (55 grade față de masa de examinare).
+• Linia de bază orbitomeatală este ridicată la 35 grade față de orizontală.
+    - **Punct de Centrare Fascicul:** • Cu fasciculul bine colimat, raza centrală orizontală trebuie să fie centrată pe mijlocul Bucky. Aceasta se află la 7,5 cm deasupra și la 7,5 cm posterior de conductul auditiv extern superior, astfel încât raza centrală să iasă din centrul orbitei în contact cu masa de examinare.
+• Un mic marker lateral din plumb poate fi plasat deasupra marginii orbitale superioare.
 35°
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -123,19 +126,19 @@ title: Rx Craniu Optic foramina and jugular
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Craniu).
+    - Vizualizarea clară a întregii arii anatomice (craniu).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -161,7 +164,7 @@ title: Rx Craniu Optic foramina and jugular
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-optic-foramina-and-jugular-p263-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -194,4 +197,4 @@ title: Rx Craniu Optic foramina and jugular
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 263](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=263)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 263](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

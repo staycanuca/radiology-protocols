@@ -2,50 +2,54 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace
+centering: perpendicular pe receptorul de imagine (RI) la nivelul crestelor iliace
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1245, imaginea 1
+- caption: Merrill — pagina 1245, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1245_fig1.png
-- caption: Merrill — pagina PDF 1246, imaginea 2
+- caption: Merrill — pagina 1246, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1246_fig2.png
 last_updated: '2026-09-16'
 modality: rx
-notes: Decubit ventral poziție poate fie recommended la show ureteropelvic region
-  și la fill obstructed ureter în presence de hydronephrosis. ureters fill better
-  în Decubit ventral poziție, which reverses curve de their inferior course. rinichi
-  sunt situated obliquely, slanting anteriorly în plan transversal, so opacified urine
-  tends la collect în și distend dependent part de pelvicaliceal system. Decubit dorsal
-  poziție allows more posteriorly plasat upper calyces la fill more readily, și anterior
-  și inferior parts de pelvicaliceal system fill more easily în Decubit ventral poziție.
-position: se poziționează pacientul Decubit dorsal pe masa radiologică pentru Incidență
-  Antero-Posterioară (AP) de urinary system. Preliminary (scout) și postinjection
-  imagini sunt most commonly obtained cu pacientul Decubit dorsal (Fig. 16.40). Place
-  support under pacientul’s genunchi la relieve strain pe back. se așază pacientul
-  în ortostatism sau semiupright poziție pentru Incidență Antero-Posterioară (AP)
-  la show opacified bladder și mobility de rinichi (Fig. 16.41). la show lower ends
-  de ureters, it poate fie helpful la use Trendelenburg poziție și Incidență Antero-Posterioară
-  (AP) cu capul de masa de examinare lowered 15 la 20 grade și raza centrală orientat
-  perpendicular pe receptorul de imagine (RI). în this înclinat poziție, weight de
-  contained lichid stretches bladder fundus superiorly, providing unobstructed imagine
-  de lower ureters și vesicoureteral orifice areas. If needed, apply ureteral compression
-  (see Fig. 16.32).; se centrează MSP de pacientul’s corp la linia mediană grilă device.
-  se poziționează pacientul’s brațe out de câmp colimat. se centrează receptorul de
-  imagine la nivelul crestele iliace. If pacientul este too tall pentru include entire
-  urinary system, take second expunere pe a 10 × 12-inch (24 × 30-cm) câmp de iradiere
-  (raza centrală plate) centrat pe bladder. 10 × 12-inch (24 × 30-cm) expunere field
-  sau raza centrală plate este transversal și centrat 2 la 3 inches (5 la 7.6 cm)
-  above upper margine de simfiză pubiană. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+notes: Poziția de decubit ventral poate fi recomandată pentru evidențierea regiunii
+  pieloureterale și pentru umplerea ureterului obstruat în prezența hidronefrozei.
+  Ureterele se umplu mai bine în decubit ventral, poziție care inversează curbura
+  traiectului lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan
+  transversal, astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă
+  a sistemului pielocaliceal și să o destindă. Poziția de decubit dorsal permite umplerea
+  mai ușoară a calicelor superioare situate mai posterior, iar porțiunile anterioare
+  și inferioare ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
+position: se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidența
+  antero-posterioară (AP) a aparatului urinar. Imaginile preliminare (de orientare)
+  și cele după injectare se obțin cel mai frecvent cu pacientul în decubit dorsal
+  (Fig. 16.40). se așază un suport sub genunchii pacientului pentru a reduce solicitarea
+  spatelui. se așază pacientul în ortostatism sau în poziție semiverticală pentru
+  incidența antero-posterioară (AP), pentru a evidenția vezica urinară opacifiată
+  și mobilitatea rinichilor (Fig. 16.41). pentru evidențierea extremităților inferioare
+  ale ureterelor, poate fi utilă folosirea poziției Trendelenburg și a incidenței
+  antero-posterioare (AP), cu capătul mesei de examinare dinspre cap coborât cu 15
+  la 20 grade și raza centrală orientată perpendicular pe receptorul de imagine (RI).
+  în această poziție înclinată, greutatea lichidului conținut destinde fundul vezicii
+  urinare în direcție superioară, oferind o imagine neobstrucționată a porțiunilor
+  inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale. Dacă este
+  necesar, se aplică compresie ureterală (vezi Fig. 16.32). se centrează MSP al corpului
+  pacientului pe linia mediană a dispozitivului cu grilă. se poziționează brațele
+  pacientului în afara câmpului colimat. se centrează receptorul de imagine la nivelul
+  crestelor iliace. Dacă pacientul este prea înalt pentru a include întregul aparat
+  urinar, se efectuează o a doua expunere cu un câmp de iradiere de 10 × 12 țoli (24
+  × 30 cm) (placă pentru raza centrală), centrat pe vezica urinară. Câmpul de expunere
+  de 10 × 12 țoli (24 × 30 cm) sau placa pentru raza centrală se orientează transversal
+  și se centrează la 2 la 3 țoli (5 la 7.6 cm) deasupra marginii superioare a simfizei
+  pubiene. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill
 source_pages:
@@ -53,86 +57,80 @@ source_pages:
 - 1245
 - 1246
 source_sections:
-  anatomy: AP incidență de urinary system shows rinichi, ureters, și bladder filled
-    cu contrast medium (Figs. 16.42 through 16.44).
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm) longitudinal sau 10 × 12 inches (24 × 30 cm) transversal pentru additional
-    bladder imagine (if needed). pentru smaller pacienți, collimate la within 1 inch
-    (2.5 cm) de shadow de abdomenul flanks.
+  anatomy: Incidența AP a aparatului urinar evidențiază rinichii, ureterele și vezica
+    urinară umplute cu substanță de contrast (Fig. 16.42 până la 16.44).
+  collimation: '• se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm), orientat longitudinal, sau 10 × 12 țoli (24 × 30 cm),
+    orientat transversal, pentru imaginea suplimentară a vezicii urinare (dacă este
+    necesară). pentru pacienții de talie mai mică, se colimează la cel mult 1 țol
+    (2.5 cm) de conturul flancurilor abdominale.
 
-    Place correct marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace
-  criteria: 'Criterii radiologice de calitate imaginii:
+    se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.'
+  cr: • perpendicular pe receptorul de imagine (RI) la nivelul crestelor iliace
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest'
-  notes: 'decubit ventral poate fie recommended la show ureteropelvic region și la
-    fill obstructed ureter în presence de
+    fără a se suprapune peste structurile anatomice de interes'
+  notes: decubitul ventral poate fi recomandat pentru evidențierea regiunii pieloureterale
+    și pentru umplerea ureterului obstruat în prezența hidronefrozei. Ureterele se
+    umplu mai bine în decubit ventral, poziție care inversează curbura traiectului
+    lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan transversal,
+    astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă a sistemului
+    pielocaliceal și să o destindă. decubitul dorsal permite umplerea mai ușoară a
+    calicelor superioare situate mai posterior, iar porțiunile anterioare și inferioare
+    ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
+  part_pos: '• se centrează MSP al corpului pacientului pe linia mediană a dispozitivului
+    cu grilă.
 
-    hydronephrosis. ureters fill better în decubit ventral, which reverses curve de
-    their inferior course. rinichi sunt situated obliquely,
+    • se poziționează brațele pacientului în afara câmpului colimat.
 
-    slanting anteriorly în plan transversal, so opacified urine tends la collect în
-    și distend dependent part de pelvicaliceal system.
-
-    decubit dorsal allows more posteriorly plasat upper calyces la fill more readily,
-    și anterior și inferior parts de pelvicaliceal
-
-    system fill more easily în decubit ventral.'
-  part_pos: '• se centrează MSP de pacientul’s corp la linia mediană grilă device.
-
-    • se poziționează pacientul’s brațe out de câmp colimat.
-
-    • se centrează receptorul de imagine la nivelul crestele iliace. If pacientul
-    este too tall pentru include entire urinary system, take second expunere pe a
-    10
-
-    × 12-inch (24 × 30-cm) câmp de iradiere (raza centrală plate) centrat pe bladder.
-    10 × 12-inch (24 × 30-cm) expunere field sau raza centrală plate este
-
-    transversal și centrat 2 la 3 inches (5 la 7.6 cm) above upper margine de simfiză
-    pubiană.
+    • se centrează receptorul de imagine la nivelul crestelor iliace. Dacă pacientul
+    este prea înalt pentru a include întregul aparat urinar, se efectuează o a doua
+    expunere cu un câmp de iradiere de 10 × 12 țoli (24 × 30 cm) (placă pentru raza
+    centrală), centrat pe vezica urinară. Câmpul de expunere de 10 × 12 țoli (24 ×
+    30 cm) sau placa pentru raza centrală se orientează transversal și se centrează
+    la 2 la 3 țoli (5 la 7.6 cm) deasupra marginii superioare a simfizei pubiene.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: '• se poziționează pacientul în decubit dorsal pe masa radiologică
-    pentru AP incidență de urinary system. Preliminary (scout) și postinjection
+    pentru incidența AP a aparatului urinar. Imaginile preliminare (de orientare)
+    și cele după injectare se obțin cel mai frecvent cu pacientul în decubit dorsal
+    (Fig. 16.40).
 
-    imagini sunt most commonly obtained cu pacientul în decubit dorsal (Fig. 16.40).
+    • se așază un suport sub genunchii pacientului pentru a reduce solicitarea spatelui.
 
-    • Place support under pacientul’s genunchi la relieve strain pe back.
+    • se așază pacientul în ortostatism sau în poziție semiverticală pentru incidența
+    AP, pentru a evidenția vezica urinară opacifiată și mobilitatea rinichilor (Fig.
+    16.41).
 
-    • se așază pacientul în ortostatism sau semiupright poziție pentru AP incidență
-    la show opacified bladder și mobility de rinichi (Fig. 16.41).
+    • pentru evidențierea extremităților inferioare ale ureterelor, poate fi utilă
+    folosirea poziției Trendelenburg și a incidenței AP, cu capătul mesei dinspre
+    cap coborât cu 15 la 20 grade și raza centrală orientată perpendicular pe receptorul
+    de imagine (RI). în această poziție înclinată, greutatea lichidului conținut destinde
+    fundul vezicii urinare în direcție superioară, oferind o imagine neobstrucționată
+    a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale.
 
-    • la show lower ends de ureters, it poate fie helpful la use Trendelenburg poziție
-    și AP incidență cu capul de table lowered 15 la 20 grade și raza centrală orientat
-    perpendicular pe receptorul de imagine (RI). în this înclinat poziție, weight
-    de contained
-
-    lichid stretches bladder fundus superiorly, providing unobstructed imagine de
-    lower ureters și vesicoureteral orifice
-
-    areas.
-
-    • If needed, apply ureteral compression (see Fig. 16.32).'
+    • Dacă este necesar, se aplică compresie ureterală (vezi Fig. 16.32).'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1244–1246
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1244
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1244–1246
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm) longitudinal sau 10 × 12 inches (24 × 30 cm) transversal pentru additional
-    bladder imagine (if needed). pentru smaller pacienți, collimate la within 1 inch
-    (2.5 cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S)
-    în collimated expunere field.
-title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm), orientat longitudinal, sau 10 × 12 țoli (24 × 30 cm), orientat
+    transversal, pentru imaginea suplimentară a vezicii urinare (dacă este necesară).
+    pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de
+    conturul flancurilor abdominale. se plasează markerul de lateralitate (D/S) corect
+    în câmpul de expunere colimat.
+title: Rx Aparat Urinar — Incidență Antero-Posterioară (AP) (Merrill)
 ---
-# Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx Aparat Urinar — Incidență Antero-Posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -165,8 +163,8 @@ title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul Decubit dorsal pe masa radiologică pentru Incidență Antero-Posterioară (AP) de urinary system. Preliminary (scout) și postinjection imagini sunt most commonly obtained cu pacientul Decubit dorsal (Fig. 16.40). Place support under pacientul’s genunchi la relieve strain pe back. se așază pacientul în ortostatism sau semiupright poziție pentru Incidență Antero-Posterioară (AP) la show opacified bladder și mobility de rinichi (Fig. 16.41). la show lower ends de ureters, it poate fie helpful la use Trendelenburg poziție și Incidență Antero-Posterioară (AP) cu capul de masa de examinare lowered 15 la 20 grade și raza centrală orientat perpendicular pe receptorul de imagine (RI). în this înclinat poziție, weight de contained lichid stretches bladder fundus superiorly, providing unobstructed imagine de lower ureters și vesicoureteral orifice areas. If needed, apply ureteral compression (see Fig. 16.32).; se centrează MSP de pacientul’s corp la linia mediană grilă device. se poziționează pacientul’s brațe out de câmp colimat. se centrează receptorul de imagine la nivelul crestele iliace. If pacientul este too tall pentru include entire urinary system, take second expunere pe a 10 × 12-inch (24 × 30-cm) câmp de iradiere (raza centrală plate) centrat pe bladder. 10 × 12-inch (24 × 30-cm) expunere field sau raza centrală plate este transversal și centrat 2 la 3 inches (5 la 7.6 cm) above upper margine de simfiză pubiană. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace
+    - **Poziție Pacient:** se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidența antero-posterioară (AP) a aparatului urinar. Imaginile preliminare (de orientare) și cele după injectare se obțin cel mai frecvent cu pacientul în decubit dorsal (Fig. 16.40). se așază un suport sub genunchii pacientului pentru a reduce solicitarea spatelui. se așază pacientul în ortostatism sau în poziție semiverticală pentru incidența antero-posterioară (AP), pentru a evidenția vezica urinară opacifiată și mobilitatea rinichilor (Fig. 16.41). pentru evidențierea extremităților inferioare ale ureterelor, poate fi utilă folosirea poziției Trendelenburg și a incidenței antero-posterioare (AP), cu capătul mesei de examinare dinspre cap coborât cu 15 la 20 grade și raza centrală orientată perpendicular pe receptorul de imagine (RI). în această poziție înclinată, greutatea lichidului conținut destinde fundul vezicii urinare în direcție superioară, oferind o imagine neobstrucționată a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale. Dacă este necesar, se aplică compresie ureterală (vezi Fig. 16.32). se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă. se poziționează brațele pacientului în afara câmpului colimat. se centrează receptorul de imagine la nivelul crestelor iliace. Dacă pacientul este prea înalt pentru a include întregul aparat urinar, se efectuează o a doua expunere cu un câmp de iradiere de 10 × 12 țoli (24 × 30 cm) (placă pentru raza centrală), centrat pe vezica urinară. Câmpul de expunere de 10 × 12 țoli (24 × 30 cm) sau placa pentru raza centrală se orientează transversal și se centrează la 2 la 3 țoli (5 la 7.6 cm) deasupra marginii superioare a simfizei pubiene. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) la nivelul crestelor iliace
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -182,15 +180,15 @@ title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal sau 10 × 12 inches (24 × 30 cm) transversal pentru additional bladder imagine (if needed). pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de shadow de abdomenul flanks. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), orientat longitudinal, sau 10 × 12 țoli (24 × 30 cm), orientat transversal, pentru imaginea suplimentară a vezicii urinare (dacă este necesară). pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale. se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -201,7 +199,7 @@ title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Decubit ventral poziție poate fie recommended la show ureteropelvic region și la fill obstructed ureter în presence de hydronephrosis. ureters fill better în Decubit ventral poziție, which reverses curve de their inferior course. rinichi sunt situated obliquely, slanting anteriorly în plan transversal, so opacified urine tends la collect în și distend dependent part de pelvicaliceal system. Decubit dorsal poziție allows more posteriorly plasat upper calyces la fill more readily, și anterior și inferior parts de pelvicaliceal system fill more easily în Decubit ventral poziție.
+    Poziția de decubit ventral poate fi recomandată pentru evidențierea regiunii pieloureterale și pentru umplerea ureterului obstruat în prezența hidronefrozei. Ureterele se umplu mai bine în decubit ventral, poziție care inversează curbura traiectului lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan transversal, astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă a sistemului pielocaliceal și să o destindă. Poziția de decubit dorsal permite umplerea mai ușoară a calicelor superioare situate mai posterior, iar porțiunile anterioare și inferioare ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
 
 
 ### 🖼️ Imagini
@@ -210,17 +208,17 @@ title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1245, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1245_fig1.png)
+![Merrill — pagina 1245, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1245_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1245, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1245, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1246, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1246_fig2.png)
+![Merrill — pagina 1246, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1246_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1246, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1246, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -237,62 +235,53 @@ title: Rx Urinary System — Incidență Antero-Posterioară (AP) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1244–1246](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1244)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1244–1246](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-AP incidență de urinary system shows rinichi, ureters, și bladder filled cu contrast medium (Figs. 16.42 through 16.44).
+Incidența AP a aparatului urinar evidențiază rinichii, ureterele și vezica urinară umplute cu substanță de contrast (Fig. 16.42 până la 16.44).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal sau 10 × 12 inches (24 × 30 cm) transversal pentru additional bladder imagine (if needed). pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de shadow de abdomenul flanks.
-Place correct marker de lateralitate (D/S) în collimated expunere field.
+• se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), orientat longitudinal, sau 10 × 12 țoli (24 × 30 cm), orientat transversal, pentru imaginea suplimentară a vezicii urinare (dacă este necesară). pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale.
+se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) la nivelul crestele iliace
+• perpendicular pe receptorul de imagine (RI) la nivelul crestelor iliace
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
 
-### notes
+### note
 
-decubit ventral poate fie recommended la show ureteropelvic region și la fill obstructed ureter în presence de
-hydronephrosis. ureters fill better în decubit ventral, which reverses curve de their inferior course. rinichi sunt situated obliquely,
-slanting anteriorly în plan transversal, so opacified urine tends la collect în și distend dependent part de pelvicaliceal system.
-decubit dorsal allows more posteriorly plasat upper calyces la fill more readily, și anterior și inferior parts de pelvicaliceal
-system fill more easily în decubit ventral.
+decubitul ventral poate fi recomandat pentru evidențierea regiunii pieloureterale și pentru umplerea ureterului obstruat în prezența hidronefrozei. Ureterele se umplu mai bine în decubit ventral, poziție care inversează curbura traiectului lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan transversal, astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă a sistemului pielocaliceal și să o destindă. decubitul dorsal permite umplerea mai ușoară a calicelor superioare situate mai posterior, iar porțiunile anterioare și inferioare ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
 
 ### part_pos
 
-• se centrează MSP de pacientul’s corp la linia mediană grilă device.
-• se poziționează pacientul’s brațe out de câmp colimat.
-• se centrează receptorul de imagine la nivelul crestele iliace. If pacientul este too tall pentru include entire urinary system, take second expunere pe a 10
-× 12-inch (24 × 30-cm) câmp de iradiere (raza centrală plate) centrat pe bladder. 10 × 12-inch (24 × 30-cm) expunere field sau raza centrală plate este
-transversal și centrat 2 la 3 inches (5 la 7.6 cm) above upper margine de simfiză pubiană.
+• se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă.
+• se poziționează brațele pacientului în afara câmpului colimat.
+• se centrează receptorul de imagine la nivelul crestelor iliace. Dacă pacientul este prea înalt pentru a include întregul aparat urinar, se efectuează o a doua expunere cu un câmp de iradiere de 10 × 12 țoli (24 × 30 cm) (placă pentru raza centrală), centrat pe vezica urinară. Câmpul de expunere de 10 × 12 țoli (24 × 30 cm) sau placa pentru raza centrală se orientează transversal și se centrează la 2 la 3 țoli (5 la 7.6 cm) deasupra marginii superioare a simfizei pubiene.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se poziționează pacientul în decubit dorsal pe masa radiologică pentru AP incidență de urinary system. Preliminary (scout) și postinjection
-imagini sunt most commonly obtained cu pacientul în decubit dorsal (Fig. 16.40).
-• Place support under pacientul’s genunchi la relieve strain pe back.
-• se așază pacientul în ortostatism sau semiupright poziție pentru AP incidență la show opacified bladder și mobility de rinichi (Fig. 16.41).
-• la show lower ends de ureters, it poate fie helpful la use Trendelenburg poziție și AP incidență cu capul de table lowered 15 la 20 grade și raza centrală orientat perpendicular pe receptorul de imagine (RI). în this înclinat poziție, weight de contained
-lichid stretches bladder fundus superiorly, providing unobstructed imagine de lower ureters și vesicoureteral orifice
-areas.
-• If needed, apply ureteral compression (see Fig. 16.32).
+• se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidența AP a aparatului urinar. Imaginile preliminare (de orientare) și cele după injectare se obțin cel mai frecvent cu pacientul în decubit dorsal (Fig. 16.40).
+• se așază un suport sub genunchii pacientului pentru a reduce solicitarea spatelui.
+• se așază pacientul în ortostatism sau în poziție semiverticală pentru incidența AP, pentru a evidenția vezica urinară opacifiată și mobilitatea rinichilor (Fig. 16.41).
+• pentru evidențierea extremităților inferioare ale ureterelor, poate fi utilă folosirea poziției Trendelenburg și a incidenței AP, cu capătul mesei dinspre cap coborât cu 15 la 20 grade și raza centrală orientată perpendicular pe receptorul de imagine (RI). în această poziție înclinată, greutatea lichidului conținut destinde fundul vezicii urinare în direcție superioară, oferind o imagine neobstrucționată a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale.
+• Dacă este necesar, se aplică compresie ureterală (vezi Fig. 16.32).
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

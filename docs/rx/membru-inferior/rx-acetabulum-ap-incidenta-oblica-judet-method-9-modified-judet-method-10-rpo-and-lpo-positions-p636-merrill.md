@@ -10,7 +10,7 @@ centering: perpendicular pe receptorul de imagine (RI) și entering 2 inches (5 
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 637, imaginea 1
+- caption: Merrill — pagina 637, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-acetabulum-ap-incidenta-oblica-judet-method-9-modified-judet-method-10-rpo-and-lpo-positions-p636-merrill/p637_fig1.png
 last_updated: '2026-09-16'
@@ -103,8 +103,8 @@ source_sections:
     intern oblic poziție este used pentru pacient cu suspected suspiciune de fractură
     de iliopubic column (anterior) și posterior rim de cotil (acetabul).'
 sources:
-- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 636–637
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=636
+- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 636–637
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
@@ -194,9 +194,9 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 637, imaginea 1](../../assets/images/protocols/merrill/rx-acetabulum-ap-incidenta-oblica-judet-method-9-modified-judet-method-10-rpo-and-lpo-positions-p636-merrill/p637_fig1.png)
+![Merrill — pagina 637, imaginea 1](../../assets/images/protocols/merrill/rx-acetabulum-ap-incidenta-oblica-judet-method-9-modified-judet-method-10-rpo-and-lpo-positions-p636-merrill/p637_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 637, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 637, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -213,7 +213,7 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 636–637](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=636)
+- [Merrill’s Atlas, 8. Pelvis and Hip, pagini 636–637](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

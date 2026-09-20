@@ -6,19 +6,19 @@ centering: perpendicular pe midtarsal area.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 499, imaginea 1
+- caption: Merrill — pagina 499, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p499_fig1.png
-- caption: Merrill — pagina PDF 500, imaginea 2
+- caption: Merrill — pagina 500, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig2.png
-- caption: Merrill — pagina PDF 500, imaginea 3
+- caption: Merrill — pagina 500, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig3.png
-- caption: Merrill — pagina PDF 501, imaginea 4
+- caption: Merrill — pagina 501, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p501_fig4.png
-- caption: Merrill — pagina PDF 502, imaginea 5
+- caption: Merrill — pagina 502, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p502_fig5.png
 last_updated: '2026-09-16'
@@ -98,8 +98,8 @@ source_sections:
 
     • se flectează uppermost extremity, draw it forward, și hold it în place.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 498–502
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=498
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 498–502
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
@@ -189,41 +189,41 @@ title: Rx Congenital Clubfoot — Incidență de Profil (Lateral) — Medio-Late
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 499, imaginea 1](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p499_fig1.png)
+![Merrill — pagina 499, imaginea 1](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p499_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 499, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 500, imaginea 2](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 500, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 499, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 500, imaginea 3](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig3.png)
+![Merrill — pagina 500, imaginea 2](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 500, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 501, imaginea 4](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p501_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 501, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 500, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 502, imaginea 5](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p502_fig5.png)
+![Merrill — pagina 500, imaginea 3](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p500_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 502, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 500, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 501, imaginea 4](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p501_fig4.png)
+
+<figcaption><strong>Merrill — pagina 501, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 502, imaginea 5](../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-de-profil-lateral-mediolateral-kite-method-p498-merrill/p502_fig5.png)
+
+<figcaption><strong>Merrill — pagina 502, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -240,7 +240,7 @@ title: Rx Congenital Clubfoot — Incidență de Profil (Lateral) — Medio-Late
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 498–502](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=498)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 498–502](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

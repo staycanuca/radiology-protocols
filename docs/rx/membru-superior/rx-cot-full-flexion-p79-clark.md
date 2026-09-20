@@ -58,7 +58,7 @@ sid_dff: 100 cm
 slug: rx-cot-full-flexion-p79-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 79
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=79
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -188,4 +188,4 @@ title: Rx Cot Full flexion
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 79](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=79)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 79](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

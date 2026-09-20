@@ -1,1 +1,76 @@
 title: Torace & Cutie Toracică
+nav:
+  - index.md
+  - Câmpuri Pulmonare & Torace General:
+    - rx-cord-si-silueta-cardiovasculara-and-aorta-left-profil-lateral-p233-clark.md
+    - rx-cord-si-silueta-cardiovasculara-and-aorta-postero-anterior-p231-clark.md
+    - rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark.md
+    - rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark.md
+    - rx-rao-and-lao-anterior-oblique-positions-torace-bontrager.md
+    - rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager.md
+    - rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark.md
+    - rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark.md
+    - rx-torace-campuri-pulmonare-lordotica-p228-clark.md
+    - rx-torace-campuri-pulmonare-postero-anterior-ortostatism-p221-clark.md
+    - rx-torace-ap-antero-posterior-bontrager.md
+    - rx-torace-ap-antero-posterior-decubit-dorsal-upright-or-semierect-in-department-or-as-bedside-portable-bontrager.md
+    - rx-torace-ap-and-pa-torace-projection-bontrager.md
+    - rx-ap-torace-traumatism-acuttism-regim-urgenta-and-mobile-positioning-bontrager.md
+    - rx-torace-incidenta-decubit-lateral-ap-antero-posterior-bontrager.md
+    - rx-torace-la-pat-ap.md
+    - rx-torace-lordotica-ap-bontrager.md
+    - rx-torace-pa.md
+    - rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager.md
+    - rx-torace-pa-postero-anterior-pacient-nedeplasabil-carucior-targa-bontrager.md
+    - rx-torace-lateral.md
+    - rx-torace-profil-lateral-bontrager.md
+    - rx-torace-profil-lateral-pacient-mobil-cooperant-ortostatism-bontrager.md
+    - rx-torace-lateral-torace-position-bontrager.md
+    - rx-torace-alternative-lateral-positions-bontrager.md
+    - rx-torace-alternative-lateral-positions-pacient-nedeplasabil-carucior-targa-bontrager.md
+    - rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill.md
+    - rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill.md
+    - rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill.md
+    - rx-torace-incidenta-de-profil-lateral-r-or-l-position-p174-merrill.md
+    - rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill.md
+    - rx-torace-incidenta-postero-anterioara-pa-p167-merrill.md
+    - rx-torace-ap-incidenta-oblica-rpo-and-lpo-positions-p185-merrill.md
+    - rx-pulmonary-apices-incidenta-ap-axiala-p194-merrill.md
+    - rx-pulmonary-apices-incidenta-pa-axiala-p196-merrill.md
+    - rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill.md
+  - Grilaj Costal & Coaste:
+    - rx-above-or-below-diaphragm-ap-oblique-projections-axillary-coaste-grilaj-costal-bontrager.md
+    - rx-bilateral-or-unilateral-anterior-coaste-grilaj-costal-pa-postero-anterior-above-diaphragm-bontrager.md
+    - rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager.md
+    - rx-grilaj-costal.md
+    - rx-axillary-coaste-grilaj-costal-pa-oblique-projections-above-diaphragm-bontrager.md
+    - rx-axillary-coaste-grilaj-costal-ap-incidenta-oblica-rpo-or-lpo-position-p819-merrill.md
+    - rx-axillary-coaste-grilaj-costal-pa-incidenta-oblica-rao-or-lao-position-p821-merrill.md
+    - rx-posterior-coaste-grilaj-costal-incidenta-antero-posterioara-ap-p815-merrill.md
+    - rx-10-grilaj-costal-si-stern-incidenta-de-profil-lateral-right-or-left-position-p802-merrill.md
+    - rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-moore-method-modified-decubit-ventral-position-p800-merrill.md
+    - rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill.md
+    - rx-lower-coaste-grilaj-costal-antero-posterior-basic-p237-clark.md
+    - rx-lower-coaste-grilaj-costal-right-and-left-oblica-posterioara-p238-clark.md
+    - rx-upper-coaste-grilaj-costal-first-and-second-antero-posterior-p240-clark.md
+    - rx-upper-coaste-grilaj-costal-right-and-left-oblica-posterioara-p239-clark.md
+    - rx-upper-anterior-coaste-grilaj-costal-incidenta-postero-anterioara-pa-p812-merrill.md
+  - Stern & Articulații Sternoclaviculare:
+    - rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill.md
+    - rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill.md
+    - rx-sternoclavicular-articulations-pa-incidenta-oblica-cr-angulation-method-p809-merrill.md
+    - rx-rao-and-lao-anterior-oblique-positions-sternoclavicular-joints-bontrager.md
+    - rx-r-or-l-lateral-profil-lateral-stern-bontrager.md
+    - rx-stern-oblica-anterioara-trunk-rotated-p242-clark.md
+    - rx-stern-oblica-anterioara-tube-angled-p241-clark.md
+    - rx-stern-rao-position-bontrager.md
+    - rx-sternoclavicular-joints-pa-postero-anterior-bontrager.md
+  - Căi Aeriene Superioare & Laringe:
+    - rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark.md
+    - rx-cai-aeriene-superioare-ap-antero-posterior-bontrager.md
+    - rx-cai-aeriene-superioare-profil-lateral-bontrager.md
+    - rx-soft-palate-pharynx-larynx-and-cervical-esophagus-incidenta-de-profil-lateral-right-or-left-position-the-patient-in-the-incidenta--p1082-merrill.md
+    - rx-tomografie-liniara-conventionala-laringe-antero-posterior-p503-clark.md
+    - rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill.md
+    - rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark.md
+  - ...

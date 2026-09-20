@@ -2,41 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul expirului pe durata expunerii.
 category: abdomen
-centering: Direct raza centrală orizontal, perpendicular pe receptorul de imagine.
-  Center raza centrală la level de creasta iliacă (corespunzător L4-L5) și MSP.
+centering: Orientați raza centrală orizontal, perpendicular pe receptorul de imagine.
+  Centrați raza centrală la nivelul crestei iliace (corespunzător L4-L5) și al MSP.
 clinical_indications:
-- evidențiind polyps de stâng side sau airfilled portions de intestin gros (colon)
-  ambele drept și stâng decubit poziții generally sunt taken cu doublecontrast study.
+- Evidențiind polipii din partea stângă sau din porțiunile cu conținut aeric ale intestinului
+  gros (colonului). În general, examinarea cu dublu contrast se realizează în ambele
+  poziții de decubit, drept și stâng.
 images:
-- caption: Fig. 13.76 drept lateral decubit—AP (cu portable grilă).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.76 drept lateral
-    decubit—AP (cu portable grilă).)
+- caption: Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.76 Decubit
+    lateral drept—AP (cu grilă portabilă).)
   url: assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_1.jpeg
-- caption: Fig. 13.77 drept lateral decubit.
+- caption: Fig. 13.77 Decubit lateral drept.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.77
-    drept lateral decubit.)
+    Decubit lateral drept.)
   url: assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_2.jpeg
-- caption: Fig. 13.78 drept lateral decubit.
+- caption: Fig. 13.78 Decubit lateral drept.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.78
-    drept lateral decubit.)
+    Decubit lateral drept.)
   url: assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: Proceed ca rapidly ca possible. pentru hypersthenic pacienți, use two 14
-  × 17inch (35 × 43cm) IRs plasat landscape la include toate de intestin gros (colon).
-  Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum
-  R și L lateral decubit (doublecontrast study) Fig. 13.76 drept lateral decubit—AP
-  (cu portable grilă).'
-position: 'Pacient: pacient este în lateral Decubit poziție, cu support pentru capul
-  și culcat pe drept side pe radiolucent pad, cu portable grilă plasat behind pacientul’s
-  back pentru Incidență Antero-Posterioară (AP). pacientul also poate fie facing portable
-  grilă sau vertical table pentru Incidență Postero-Anterioară (PA). (If pacient este
-  pe cart, lock wheels sau secure cart la prevent pacient de la falling.); Regiune
-  anatomică: poziție pacient sau receptorul de imagine so that creasta iliacă (corespunzător
-  L4-L5) este plasat la center de receptorul de imagine și raza centrală. Place brațe
-  up, cu genunchi flectat (Fig. 13.76). Ensure that Absența rotației anatomice: clavicule
-  echidistante față de linia apofizelor spinoase occurs; superimpose umeri și hips
-  de la above.'
+notes: 'S: Procedați cât mai rapid posibil. Pentru pacienții hiperstenici, utilizați
+  două IR de 14 × 17 inchi (35 × 43 cm), orientate transversal, pentru a include întregul
+  intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO
+  LPO sau RPO Rect în incidență de profil Decubit lateral R și L (examinare cu dublu
+  contrast) Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).'
+position: 'Pacient: pacientul este în decubit lateral drept, cu un suport pentru cap,
+  culcat pe o pernă radiotransparentă, cu grila portabilă plasată în spatele pacientului
+  pentru incidența antero-posterioară (AP). Pacientul poate fi, de asemenea, orientat
+  cu fața spre grila portabilă sau spre masa verticală pentru incidența postero-anterioară
+  (PA). (Dacă pacientul se află pe targă, blocați roțile sau imobilizați targa pentru
+  a preveni căderea pacientului.); Regiune anatomică: poziționați pacientul sau receptorul
+  de imagine astfel încât creasta iliacă (corespunzător L4-L5) să se afle în centrul
+  receptorului de imagine și la nivelul razei centrale. Poziționați brațele în sus
+  și genunchii flectați (Fig. 13.76). Asigurați absența rotației anatomice: clavicule
+  echidistante față de linia apofizelor spinoase; suprapuneți umerii și șoldurile,
+  privind de sus.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,38 +46,39 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire intestin gros (colon) este evidențiat la include airfilled stâng colic flexure
-  și descending intestin gros (colon) (Figs. 13.77 și 13.78). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evident prin simetric appearance de Bazin (bazin (pelvis)) și ribcage.'
-- 'corect collimation field size este applied. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize margini de entire
-  intestin gros (colon), including bariumfilled portions, but la avoid overpenetration
-  de airfilled portion de intestin gros (colon).
-- Mucosal patterns de airfilled intestin gros (colon) trebuie să fie clearly vizibil.
-- If airfilled portion de intestin gros (colon) este overpenetrated consistently,
-  compensating filter trebuie să fie considered.
-- net structural margins indicate fără mișcare. Fig. 13.77 drept lateral decubit.
-  Air-barium levels stâng colic flexure L Transverse intestin gros (colon) drept colic
-  flexure Descending intestin gros (colon) Sigmoid intestin gros (colon) Ascending
-  intestin gros (colon) Rectum Fig. 13.78 drept lateral decubit.
+- 'Este evidențiat întregul intestin gros (colon), incluzând flexura colică stângă
+  și colonul descendent cu conținut aeric (Fig. 13.77 și 13.78). Poziție:'
+- Absența rotației anatomice, cu clavicule echidistante față de linia apofizelor spinoase,
+  este evidentă prin aspectul simetric al bazinului (pelvisului) și al cutiei toracice.
+- 'Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:'
+- Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea
+  contururilor întregului intestin gros (colon), inclusiv a porțiunilor umplute cu
+  bariu, dar cu evitarea penetrării excesive a porțiunii cu conținut aeric a intestinului
+  gros (colonului).
+- Relieful mucoasei intestinului gros (colonului) cu conținut aeric trebuie să fie
+  clar vizibil.
+- Dacă porțiunea cu conținut aeric a intestinului gros (colonului) este penetrată
+  excesiv în mod constant, trebuie luată în considerare utilizarea unui filtru compensator.
+- Marginile nete ale structurilor indică absența mișcării. Fig. 13.77 Decubit lateral
+  drept. Nivele aer-bariu Flexura colică stângă L Colon transvers Flexura colică dreaptă
+  Colon descendent Colon sigmoid Colon ascendent Rect Fig. 13.78 Decubit lateral drept.
 sid_dff: 100 cm
 slug: rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 546
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 90-100
   mas: DE CONFIGURAT PE APARAT
-title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) (ENEMA
-  - DOUBLE CONTRAST)
+title: Rx CU BARIU ÎN DECUBIT LATERAL DREPT (AP SAU PA (Postero-Anterior)) (CLISMĂ
+  - DUBLU CONTRAST)
 ---
-# Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior)) (ENEMA - DOUBLE CONTRAST)
+# Rx CU BARIU ÎN DECUBIT LATERAL DREPT (AP SAU PA (Postero-Anterior)) (CLISMĂ - DUBLU CONTRAST)
 
 
 <div class="rx-meta-bar">
@@ -94,7 +97,7 @@ title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior))
 
     === "Indicații Clinice"
 
-        - evidențiind polyps de stâng side sau airfilled portions de intestin gros (colon) ambele drept și stâng decubit poziții generally sunt taken cu doublecontrast study.
+        - Evidențiind polipii din partea stângă sau din porțiunile cu conținut aeric ale intestinului gros (colonului). În general, examinarea cu dublu contrast se realizează în ambele poziții de decubit, drept și stâng.
 
     === "Ghid Național IRIS"
 
@@ -108,8 +111,8 @@ title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior))
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient este în lateral Decubit poziție, cu support pentru capul și culcat pe drept side pe radiolucent pad, cu portable grilă plasat behind pacientul’s back pentru Incidență Antero-Posterioară (AP). pacientul also poate fie facing portable grilă sau vertical table pentru Incidență Postero-Anterioară (PA). (If pacient este pe cart, lock wheels sau secure cart la prevent pacient de la falling.); Regiune anatomică: poziție pacient sau receptorul de imagine so that creasta iliacă (corespunzător L4-L5) este plasat la center de receptorul de imagine și raza centrală. Place brațe up, cu genunchi flectat (Fig. 13.76). Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase occurs; superimpose umeri și hips de la above.
-    - **Punct de Centrare Fascicul:** Direct raza centrală orizontal, perpendicular pe receptorul de imagine. Center raza centrală la level de creasta iliacă (corespunzător L4-L5) și MSP.
+    - **Poziție Pacient:** Pacient: pacientul este în decubit lateral drept, cu un suport pentru cap, culcat pe o pernă radiotransparentă, cu grila portabilă plasată în spatele pacientului pentru incidența antero-posterioară (AP). Pacientul poate fi, de asemenea, orientat cu fața spre grila portabilă sau spre masa verticală pentru incidența postero-anterioară (PA). (Dacă pacientul se află pe targă, blocați roțile sau imobilizați targa pentru a preveni căderea pacientului.); Regiune anatomică: poziționați pacientul sau receptorul de imagine astfel încât creasta iliacă (corespunzător L4-L5) să se afle în centrul receptorului de imagine și la nivelul razei centrale. Poziționați brațele în sus și genunchii flectați (Fig. 13.76). Asigurați absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; suprapuneți umerii și șoldurile, privind de sus.
+    - **Punct de Centrare Fascicul:** Orientați raza centrală orizontal, perpendicular pe receptorul de imagine. Centrați raza centrală la nivelul crestei iliace (corespunzător L4-L5) și al MSP.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii.
 
@@ -124,21 +127,21 @@ title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior))
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire intestin gros (colon) este evidențiat la include airfilled stâng colic flexure și descending intestin gros (colon) (Figs. 13.77 și 13.78). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evident prin simetric appearance de Bazin (bazin (pelvis)) și ribcage.
-    - corect collimation field size este applied. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize margini de entire intestin gros (colon), including bariumfilled portions, but la avoid overpenetration de airfilled portion de intestin gros (colon).
-    - Mucosal patterns de airfilled intestin gros (colon) trebuie să fie clearly vizibil.
-    - If airfilled portion de intestin gros (colon) este overpenetrated consistently, compensating filter trebuie să fie considered.
-    - net structural margins indicate fără mișcare. Fig. 13.77 drept lateral decubit. Air-barium levels stâng colic flexure L Transverse intestin gros (colon) drept colic flexure Descending intestin gros (colon) Sigmoid intestin gros (colon) Ascending intestin gros (colon) Rectum Fig. 13.78 drept lateral decubit.
+    - Este evidențiat întregul intestin gros (colon), incluzând flexura colică stângă și colonul descendent cu conținut aeric (Fig. 13.77 și 13.78). Poziție:
+    - Absența rotației anatomice, cu clavicule echidistante față de linia apofizelor spinoase, este evidentă prin aspectul simetric al bazinului (pelvisului) și al cutiei toracice.
+    - Se aplică o colimare corectă a dimensiunilor câmpului. Expunere:
+    - Expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea contururilor întregului intestin gros (colon), inclusiv a porțiunilor umplute cu bariu, dar cu evitarea penetrării excesive a porțiunii cu conținut aeric a intestinului gros (colonului).
+    - Relieful mucoasei intestinului gros (colonului) cu conținut aeric trebuie să fie clar vizibil.
+    - Dacă porțiunea cu conținut aeric a intestinului gros (colonului) este penetrată excesiv în mod constant, trebuie luată în considerare utilizarea unui filtru compensator.
+    - Marginile nete ale structurilor indică absența mișcării. Fig. 13.77 Decubit lateral drept. Nivele aer-bariu Flexura colică stângă L Colon transvers Flexura colică dreaptă Colon descendent Colon sigmoid Colon ascendent Rect Fig. 13.78 Decubit lateral drept.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,7 +154,7 @@ title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior))
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    S: Proceed ca rapidly ca possible. pentru hypersthenic pacienți, use two 14 × 17inch (35 × 43cm) IRs plasat landscape la include toate de intestin gros (colon). Irigografie (Clismă Baritată) ROUTINE PA sau AP RAO LAO LPO sau RPO lateral rectum R și L lateral decubit (doublecontrast study) Fig. 13.76 drept lateral decubit—AP (cu portable grilă).
+    S: Procedați cât mai rapid posibil. Pentru pacienții hiperstenici, utilizați două IR de 14 × 17 inchi (35 × 43 cm), orientate transversal, pentru a include întregul intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil Decubit lateral R și L (examinare cu dublu contrast) Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).
 
 
 ### 🖼️ Imagini
@@ -160,25 +163,25 @@ title: Rx BARIUM RIGHT Incidență Decubit Lateral (AP OR PA (Postero-Anterior))
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.76 drept lateral decubit—AP (cu portable grilă).](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_1.jpeg)
+![Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.76 drept lateral decubit—AP (cu portable grilă).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.76 drept lateral decubit—AP (cu portable grilă).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 13.77 drept lateral decubit.](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 13.77 drept lateral decubit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.77 drept lateral decubit.)</span></figcaption>
+<figcaption><strong>Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.78 drept lateral decubit.](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_3.jpeg)
+![Fig. 13.77 Decubit lateral drept.](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 13.78 drept lateral decubit.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.78 drept lateral decubit.)</span></figcaption>
+<figcaption><strong>Fig. 13.77 Decubit lateral drept.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.77 Decubit lateral drept.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 13.78 Decubit lateral drept.](../../assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 13.78 Decubit lateral drept.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.78 Decubit lateral drept.)</span></figcaption>
 
 </figure>
 

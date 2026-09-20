@@ -2,39 +2,40 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe receptorul de imagine (RI), entering planul mediocoronal
-  la nivelul crestele iliace
+centering: Perpendiculară pe receptorul de imagine (RI), pătrunzând în planul mediocoronal
+  la nivelul crestelor iliace
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1251, imaginea 1
+- caption: Merrill — pagina 1251, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1251_fig1.png
-- caption: Merrill — pagina PDF 1252, imaginea 2
+- caption: Merrill — pagina 1252, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1252_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Turn pacientul la lateral Decubit poziție pe drept sau stâng side, ca indicated.;
-  se flectează pacient’s genunchi la comfortable poziție, și se ajustează corp astfel
-  încât plan mediocoronal este centrat pe linia mediană grilă. Place supports între
-  pacient’s genunchi și ankles. se flectează pacient’s coate, și place mâinile under
-  pacientul’s cap (Fig. 16.47). se centrează receptorul de imagine la nivelul crestele
-  iliace. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se întoarce pacientul în decubit lateral drept sau stâng, conform indicației.;
+  Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția
+  corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
+  Se așază suporturi între genunchii și între gleznele pacientului. Se flectează coatele
+  pacientului și se așază mâinile sub capul acestuia (Fig. 16.47). Se centrează receptorul
+  de imagine la nivelul crestelor iliace. Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire urinary system
-- Bladder și simfiză pubiană
-- Contrast medium în renal area, ureters, și bladder
-- Surrounding anatomy
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check Bazin
-  (bazin (pelvis)) și coloană lombară)
-- Time marker
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul aparat urinar
+- Vezica urinară și simfiza pubiană
+- Substanță de contrast în regiunea renală, uretere și vezica urinară
+- Structurile anatomice învecinate
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică
+  bazinul (pelvisul) și coloana lombară)
+- Marker de timp
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill
 source_pages:
@@ -42,66 +43,71 @@ source_pages:
 - 1251
 - 1252
 source_sections:
-  anatomy: 'lateral incidență de abdomenul shows rinichi, ureters, și bladder filled
-    cu contrast material. lateral incidențe sunt used la show
+  anatomy: 'Incidența de profil a abdomenului evidențiază rinichii, ureterele și vezica
+    urinară umplute cu substanță de contrast. Incidențele de profil sunt utilizate
+    pentru a evidenția
 
-    conditions such ca rotație sau pressure displacement de rinichi și la localize
-    calcareous areas și tumor masses (Fig. 16.48).'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch
-    (2.5
+    situații precum rotația sau deplasarea prin compresiune a rinichilor și pentru
+    a localiza zonele calcificate și masele tumorale (Fig. 16.48).'
+  collimation: '• Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie
+    mai mică, se colimează la cel mult 1 țol (2.5
 
-    cm) de anterior și posterior shadows de abdomenul. Place correct marker de lateralitate
-    (D/S) în collimated expunere field.'
-  cr: • perpendicular pe receptorul de imagine (RI), entering planul mediocoronal
-    la nivelul crestele iliace
-  criteria: 'Criterii radiologice de calitate imaginii:
+    cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul
+    de lateralitate (D/S) corect în câmpul de expunere colimat.'
+  cr: • Perpendiculară pe receptorul de imagine (RI), pătrunzând în planul mediocoronal
+    la nivelul crestelor iliace
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste structurile anatomice de interes
 
-    • Entire urinary system
+    • Întregul aparat urinar
 
-    • Bladder și simfiză pubiană
+    • Vezica urinară și simfiza pubiană
 
-    • Contrast medium în renal area, ureters, și bladder
+    • Substanță de contrast în regiunea renală, uretere și vezica urinară
 
-    • Surrounding anatomy
+    • Structurile anatomice învecinate
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check
-    bazin (pelvis) și coloană lombară)
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se
+    verifică bazinul (pelvisul) și coloana lombară)
 
-    • Time marker'
-  part_pos: '• se flectează pacient’s genunchi la comfortable poziție, și se ajustează
-    corp astfel încât plan mediocoronal este centrat pe linia mediană grilă.
+    • Marker temporal'
+  part_pos: '• Se flectează genunchii pacientului într-o poziție confortabilă și se
+    ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe
+    linia mediană a grilei.
 
-    • Place supports între pacient’s genunchi și ankles.
+    • Se așază suporturi între genunchii și între gleznele pacientului.
 
-    • se flectează pacient’s coate, și place mâinile under pacientul’s cap (Fig. 16.47).
+    • Se flectează coatele pacientului și se așază mâinile sub capul acestuia (Fig.
+    16.47).
 
-    • se centrează receptorul de imagine la nivelul crestele iliace.
+    • Se centrează receptorul de imagine la nivelul crestelor iliace.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Turn pacientul la lateral recumbent poziție pe drept sau stâng side,
-    ca indicated.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se întoarce pacientul în decubit lateral drept sau stâng, conform
+    indicației.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1250–1252
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1250
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1250–1252
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-    cm) de anterior și posterior shadows de abdomenul. Place correct marker de lateralitate
-    (D/S) în collimated expunere field.
-title: Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept sau Stâng)
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai
+    mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior
+    ale abdomenului. Se plasează markerul de lateralitate (D/S) corect în câmpul de
+    expunere colimat.
+title: Rx aparat urinar — Incidență de profil (laterală) — Profil (drept sau stâng)
   (Merrill)
 ---
-# Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) (Merrill)
+# Rx aparat urinar — Incidență de profil (laterală) — Profil (drept sau stâng) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -134,8 +140,8 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept s
 
     ---
 
-    - **Poziție Pacient:** Turn pacientul la lateral Decubit poziție pe drept sau stâng side, ca indicated.; se flectează pacient’s genunchi la comfortable poziție, și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă. Place supports între pacient’s genunchi și ankles. se flectează pacient’s coate, și place mâinile under pacientul’s cap (Fig. 16.47). se centrează receptorul de imagine la nivelul crestele iliace. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), entering planul mediocoronal la nivelul crestele iliace
+    - **Poziție Pacient:** Se întoarce pacientul în decubit lateral drept sau stâng, conform indicației.; Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei. Se așază suporturi între genunchii și între gleznele pacientului. Se flectează coatele pacientului și se așază mâinile sub capul acestuia (Fig. 16.47). Se centrează receptorul de imagine la nivelul crestelor iliace. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendiculară pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -151,21 +157,21 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept s
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5 cm) de anterior și posterior shadows de abdomenul. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire urinary system
-    - Bladder și simfiză pubiană
-    - Contrast medium în renal area, ureters, și bladder
-    - Surrounding anatomy
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check Bazin (bazin (pelvis)) și coloană lombară)
-    - Time marker
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul aparat urinar
+    - Vezica urinară și simfiza pubiană
+    - Substanță de contrast în regiunea renală, uretere și vezica urinară
+    - Structurile anatomice învecinate
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
+    - Marker de timp
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -185,17 +191,17 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept s
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1251, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1251_fig1.png)
+![Merrill — pagina 1251, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1251_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1251, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1251, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1252, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1252_fig2.png)
+![Merrill — pagina 1252, imaginea 2](../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1252_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1252, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1252, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -212,53 +218,53 @@ title: Rx Urinary System — Incidență de Profil (Lateral) — Profil (Drept s
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1250–1252](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1250)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1250–1252](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lateral incidență de abdomenul shows rinichi, ureters, și bladder filled cu contrast material. lateral incidențe sunt used la show
-conditions such ca rotație sau pressure displacement de rinichi și la localize calcareous areas și tumor masses (Fig. 16.48).
+Incidența de profil a abdomenului evidențiază rinichii, ureterele și vezica urinară umplute cu substanță de contrast. Incidențele de profil sunt utilizate pentru a evidenția
+situații precum rotația sau deplasarea prin compresiune a rinichilor și pentru a localiza zonele calcificate și masele tumorale (Fig. 16.48).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm) longitudinal. pentru smaller pacienți, collimate la within 1 inch (2.5
-cm) de anterior și posterior shadows de abdomenul. Place correct marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5
+cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI), entering planul mediocoronal la nivelul crestele iliace
+• Perpendiculară pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire urinary system
-• Bladder și simfiză pubiană
-• Contrast medium în renal area, ureters, și bladder
-• Surrounding anatomy
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul (check bazin (pelvis) și coloană lombară)
-• Time marker
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
+• Întregul aparat urinar
+• Vezica urinară și simfiza pubiană
+• Substanță de contrast în regiunea renală, uretere și vezica urinară
+• Structurile anatomice învecinate
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
+• Marker temporal
 
 ### part_pos
 
-• se flectează pacient’s genunchi la comfortable poziție, și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă.
-• Place supports între pacient’s genunchi și ankles.
-• se flectează pacient’s coate, și place mâinile under pacientul’s cap (Fig. 16.47).
-• se centrează receptorul de imagine la nivelul crestele iliace.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
+• Se așază suporturi între genunchii și între gleznele pacientului.
+• Se flectează coatele pacientului și se așază mâinile sub capul acestuia (Fig. 16.47).
+• Se centrează receptorul de imagine la nivelul crestelor iliace.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• Turn pacientul la lateral recumbent poziție pe drept sau stâng side, ca indicated.
+• Se întoarce pacientul în decubit lateral drept sau stâng, conform indicației.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

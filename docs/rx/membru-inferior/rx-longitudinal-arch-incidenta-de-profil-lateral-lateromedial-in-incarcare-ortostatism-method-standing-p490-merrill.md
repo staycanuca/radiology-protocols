@@ -6,10 +6,10 @@ centering: perpendicular la point just above base de third metatarsal.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 491, imaginea 1
+- caption: Merrill — pagina 491, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig1.png
-- caption: Merrill — pagina PDF 491, imaginea 2
+- caption: Merrill — pagina 491, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig2.png
 last_updated: '2026-09-16'
@@ -87,8 +87,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 490–491
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=490
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 490–491
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
@@ -180,17 +180,17 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 491, imaginea 1](../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig1.png)
+![Merrill — pagina 491, imaginea 1](../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 491, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 491, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 491, imaginea 2](../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig2.png)
+![Merrill — pagina 491, imaginea 2](../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 491, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 491, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -207,7 +207,7 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 490–491](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=490)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 490–491](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -10,16 +10,16 @@ centering: perpendicular pe receptorul de imagine (RI). cu 40-grade Genunchi fle
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 570, imaginea 1
+- caption: Merrill — pagina 570, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p570_fig1.png
-- caption: Merrill — pagina PDF 571, imaginea 2
+- caption: Merrill — pagina 571, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p571_fig2.png
-- caption: Merrill — pagina PDF 572, imaginea 3
+- caption: Merrill — pagina 572, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p572_fig3.png
-- caption: Merrill — pagina PDF 573, imaginea 4
+- caption: Merrill — pagina 573, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p573_fig4.png
 last_updated: '2026-09-16'
@@ -134,8 +134,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) transversal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 569–573
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=569
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 569–573
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 2 inches (5 cm) above patellar shadow
@@ -226,33 +226,33 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 570, imaginea 1](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p570_fig1.png)
+![Merrill — pagina 570, imaginea 1](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p570_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 570, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 571, imaginea 2](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p571_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 571, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 570, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 572, imaginea 3](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p572_fig3.png)
+![Merrill — pagina 571, imaginea 2](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p571_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 572, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 571, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 573, imaginea 4](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p573_fig4.png)
+![Merrill — pagina 572, imaginea 3](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p572_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 573, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 572, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 573, imaginea 4](../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-merchant-29-p569-merrill/p573_fig4.png)
+
+<figcaption><strong>Merrill — pagina 573, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -269,7 +269,7 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 569–573](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=569)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 569–573](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

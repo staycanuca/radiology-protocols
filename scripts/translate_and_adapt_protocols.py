@@ -29,7 +29,10 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 from radiology_translator import (
     translate_protocol_frontmatter,
     calculate_english_score,
-    detect_english_fragments
+    detect_english_fragments,
+    iter_translation_fields,
+    translation_review,
+    translate_field_text,
 )
 from render_rx_protocol import render_rx_document
 
@@ -61,24 +64,25 @@ def process_file(
         return None
 
     # Text combinat înainte de traducere pentru calculul scorului
-    text_before = f"{fm.get('title', '')} {fm.get('position', '')} {fm.get('centering', '')} {fm.get('breathing', '')}"
+    text_before = ' '.join(text for _, text in iter_translation_fields(fm))
     score_before = calculate_english_score(text_before)
 
     # Traducere și adaptare frontmatter
     updated_fm, modified = translate_protocol_frontmatter(fm, use_ai=use_ai)
 
     # Text combinat după traducere
-    text_after = f"{updated_fm.get('title', '')} {updated_fm.get('position', '')} {updated_fm.get('centering', '')} {updated_fm.get('breathing', '')}"
+    text_after = ' '.join(text for _, text in iter_translation_fields(updated_fm))
     score_after = calculate_english_score(text_after)
+    unresolved = translation_review(updated_fm)
 
     # Re-randare completă a documentului Markdown
-    new_body = render_rx_document(updated_fm)
+    new_body = render_rx_document(updated_fm) if modified else content
 
     # Dacă există source_sections (Merrill), adăugăm secțiunea de referință tehnică tradusă
-    if updated_fm.get('source_sections') and isinstance(updated_fm['source_sections'], dict):
+    if modified and updated_fm.get('source_sections') and isinstance(updated_fm['source_sections'], dict):
         new_body += '\n## Fragmente sursă traduse (referință tehnică)\n\n'
         for sec_key, sec_val in updated_fm['source_sections'].items():
-            new_body += f'### {sec_key}\n\n{sec_val}\n\n'
+            new_body += f'### {translate_field_text(sec_key)}\n\n{sec_val}\n\n'
 
     title_changed = (fm.get('title') != updated_fm.get('title'))
 
@@ -86,7 +90,7 @@ def process_file(
         file_path.write_text(new_body, encoding='utf-8')
 
     return {
-        'file': str(file_path.relative_to(ROOT)).replace('\\', '/'),
+        'file': file_path.relative_to(ROOT).as_posix() if file_path.is_relative_to(ROOT) else str(file_path),
         'filename': file_path.name,
         'category': file_path.parent.name,
         'title_before': fm.get('title', ''),
@@ -94,7 +98,9 @@ def process_file(
         'title_changed': title_changed,
         'score_before': round(score_before, 3),
         'score_after': round(score_after, 3),
-        'modified': modified or (content != new_body)
+        'modified': modified or (content != new_body),
+        'needs_review': bool(unresolved),
+        'unresolved_fields': unresolved,
     }
 
 
@@ -173,6 +179,8 @@ def main():
     print(f"Titluri medicale standardizate: {title_changed_count}")
     print(f"Densitate engleză inițială:     {avg_before:.1f}%")
     print(f"Densitate engleză finală:       {avg_after:.1f}%")
+    print(f"Protocoale cu fragmente de revizuit: {sum(r['needs_review'] for r in results)}")
+    print('Detectarea este euristică; un scor zero nu garantează o traducere completă.')
     print(f"Timp de execuție:               {duration:.2f} secunde")
     print("=" * 65)
 
@@ -185,6 +193,7 @@ def main():
         'avg_english_density_before': round(avg_before, 2),
         'avg_english_density_after': round(avg_after, 2),
         'duration_seconds': round(duration, 2),
+        'needs_review_count': sum(r['needs_review'] for r in results),
         'details': results
     }
 

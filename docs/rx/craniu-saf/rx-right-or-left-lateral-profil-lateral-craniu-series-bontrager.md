@@ -2,47 +2,50 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center
-  la point 2 inches (5 cm) superior la conduct auditiv extern (CAE) sau halfway între
-  glabelă și inion pentru other types de Craniu morphologies. Se centrează receptorul
-  de imagine pe raza centrală.
+centering: Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați
+  la un punct situat la 2 inches (5 cm) superior de conductul auditiv extern (CAE)
+  sau la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii
+  craniene. Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
-- Craniu suspiciune de fractură, neoplastic processes, și Paget disease traumatism
-  acuttism / Regim Urgență Routine orizontal fascicul incidență este required la obtain
-  lateral perspective pentru traumatism acuttism / Regim Urgență pacienți. This poate
-  evidențiază airfluid levels în sinusuri sfenoidale—sign de basal Craniu suspiciune
-  de fractură if intracranial bleeding occurs. See Chapter 15 pentru details pe traumatism
-  acuttism / Regim Urgență Craniu incidențe.
+- Suspiciune de fractură craniană, procese neoplazice și boala Paget; traumatism acut
+  / regim de urgență. Este necesară o incidență cu fascicul orizontal pentru a obține
+  perspectiva de profil la pacienții cu traumatism acut / regim de urgență. Aceasta
+  poate evidenția niveluri aer-lichid în sinusurile sfenoidale — semn de suspiciune
+  de fractură a bazei craniului dacă apare hemoragie intracraniană. Consultați capitolul
+  15 pentru detalii privind incidențele craniene în caz de traumatism acut / regim
+  de urgență.
 images:
-- caption: Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 lateral
-    skull—în ortostatism și recumbent (inset).)
+- caption: Fig. 11.110 profil cranian — ortostatism și decubit (inserție).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.110 profil
+    cranian — în ortostatism și decubit (inserție)).
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg
-- caption: Fig. 11.111 lateral.
+- caption: Fig. 11.111 profil.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111
-    lateral.)
+    profil.)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg
-- caption: Fig. 11.112 lateral.
+- caption: Fig. 11.112 profil.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112
-    lateral.)
+    profil.)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: pentru pacienți în Decubit poziție, radiolucent support plasat under bărbia
-  helps în maintaining true Incidență de Profil (lateral). pacient cu broad Torace
-  poate require radiolucent sponge under entire cap la prevent tilt, și thin pacient
-  poate require support under upper thorax. Fig. 11.110 lateral Craniu—Ortostatism
-  și Decubit (inset).
-position: 'Pacient: Remove toate metal, plastic, sau other removable objects de la
-  pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit semiprone
-  poziție.; Regiune anatomică: Place capul în true Incidență de Profil (lateral),
-  cu side de interest closest la receptorul de imagine și pacientul’s corp în semiprone
-  sau Ortostatism poziție ca needed pentru comfort. Align MsP paralel cu receptorul
-  de imagine, ensuring Absența rotației anatomice: clavicule echidistante față de
-  linia apofizelor spinoase sau tilt. Align linie interpupilară (LIP) perpendicular
-  pe receptorul de imagine, ensuring fără tilt de cap (Fig. 11.110) (see NOTE). Adjust
-  neck flexion la align linie infraorbitomeatală (LIOM) perpendicular la front edge
-  de receptorul de imagine. (GAL este paralel la front edge de receptorul de imagine.)'
+notes: Pentru pacienții aflați în decubit, un suport radiotransparent plasat sub bărbie
+  ajută la menținerea unei incidențe de profil adevărate. Pacientul cu torace lat
+  poate necesita un burete radiotransparent sub întregul cap pentru a preveni înclinarea,
+  iar pacientul slab poate necesita un suport sub toracele superior. Fig. 11.110 craniu
+  de profil — ortostatism și decubit (inserție).
+position: 'Pacient: Îndepărtați toate obiectele metalice, din plastic sau alte obiecte
+  detașabile de pe capul pacientului. Efectuați radiografia cu pacientul în ortostatism
+  sau în decubit semipron.; Regiune anatomică: Poziționați capul în incidență de profil
+  adevărată, cu partea de interes cât mai aproape de receptorul de imagine și cu corpul
+  pacientului în poziție semipronă sau în ortostatism, după cum este necesar pentru
+  confort. Aliniați MSP paralel cu receptorul de imagine, asigurând absența rotației
+  anatomice: claviculele echidistante față de linia apofizelor spinoase sau a înclinării.
+  Aliniați linia interpupilară (LIP) perpendicular pe receptorul de imagine, asigurând
+  absența înclinării capului (Fig. 11.110) (vezi NOTĂ). Ajustați flexia gâtului pentru
+  a alinia linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a
+  receptorului de imagine. (GAL este paralelă cu marginea anterioară a receptorului
+  de imagine.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,43 +53,44 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Craniu visualized și superimposed parietal bones de Craniu.
-- entire șa turcească, including anterior și posterior clinoid processes și dorsum
-  sellae, este also evidențiat.
-- 'șa turcească și clivus sunt evidențiat în profile (Figs. 11.111 și 11.112). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  sau tilt de Craniu este evident.'
-- rotație este evident prin anterior și posterior separation de simetric vertical
-  bilateral structures such ca ramuri mandibulare, și greater wings de sphenoid.
-- Tilt este evident prin superior și inferior separation de orbital plates de frontal
-  bones.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize bony
-  detail de bony structures și surrounding Craniu.
-- net bony margins indicate fără mișcare. 30 24 R Craniu SERIES ROUTINE
-- AP axial (Incidență AP Axială (Metoda Towne))
-- lateral
-- PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la
-  30°
-- PA Fig. 11.111 lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital
-  plates ramuri mandibulare Parietal Greater wings de sphenoid anterior clinoid processes
-  posterior clinoid processes Fig. 11.112 lateral.
+- Întregul craniu este vizualizat, iar oasele parietale craniene sunt suprapuse.
+- Întreaga șa turcească, inclusiv procesele clinoide anterior și posterior și dorsumul
+  șeii, este de asemenea evidențiată.
+- 'Șaua turcească și clivusul sunt evidențiate de profil (Fig. 11.111 și 11.112).
+  Poziție:'
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  sau înclinarea craniului sunt evidente.'
+- Rotația este evidențiată prin separarea anterioară și posterioară a structurilor
+  verticale bilaterale simetrice, precum ramurile mandibulei și aripile mari ale sfenoidului.
+- Înclinarea este evidențiată prin separarea superioară și inferioară a plăcilor orbitare
+  ale oaselor frontale.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul receptorului de imagine sunt optime și suficiente pentru
+  a vizualiza detaliile osoase ale structurilor osoase și ale craniului înconjurător.
+- Marginile osoase nete indică absența mișcării. 30 24 R SERIA CRANIU DE RUTINĂ
+- AP axială (incidență AP axială (metoda Towne))
+- laterală
+- PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25°
+  la 30°
+- PA Fig. 11.111 profil. Dorsumul șeii Os temporal Occipital Os frontal Plăci orbitare
+  Ramuri mandibulare Parietal Aripi mari ale sfenoidului Procese clinoide anterior
+  Procese clinoide posterior Fig. 11.112 profil.
 sid_dff: 100 cm
 slug: rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 438
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
+title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SERIA CRANIU)
 ---
-# Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
+# Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SERIA CRANIU)
 
 
 <div class="rx-meta-bar">
@@ -105,7 +109,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
     === "Indicații Clinice"
 
-        - Craniu suspiciune de fractură, neoplastic processes, și Paget disease traumatism acuttism / Regim Urgență Routine orizontal fascicul incidență este required la obtain lateral perspective pentru traumatism acuttism / Regim Urgență pacienți. This poate evidențiază airfluid levels în sinusuri sfenoidale—sign de basal Craniu suspiciune de fractură if intracranial bleeding occurs. See Chapter 15 pentru details pe traumatism acuttism / Regim Urgență Craniu incidențe.
+        - Suspiciune de fractură craniană, procese neoplazice și boala Paget; traumatism acut / regim de urgență. Este necesară o incidență cu fascicul orizontal pentru a obține perspectiva de profil la pacienții cu traumatism acut / regim de urgență. Aceasta poate evidenția niveluri aer-lichid în sinusurile sfenoidale — semn de suspiciune de fractură a bazei craniului dacă apare hemoragie intracraniană. Consultați capitolul 15 pentru detalii privind incidențele craniene în caz de traumatism acut / regim de urgență.
 
     === "Ghid Național IRIS"
 
@@ -119,8 +123,8 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Remove toate metal, plastic, sau other removable objects de la pacient’s cap. Take radiografie cu pacient în Ortostatism sau Decubit semiprone poziție.; Regiune anatomică: Place capul în true Incidență de Profil (lateral), cu side de interest closest la receptorul de imagine și pacientul’s corp în semiprone sau Ortostatism poziție ca needed pentru comfort. Align MsP paralel cu receptorul de imagine, ensuring Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt. Align linie interpupilară (LIP) perpendicular pe receptorul de imagine, ensuring fără tilt de cap (Fig. 11.110) (see NOTE). Adjust neck flexion la align linie infraorbitomeatală (LIOM) perpendicular la front edge de receptorul de imagine. (GAL este paralel la front edge de receptorul de imagine.)
-    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine. Center la point 2 inches (5 cm) superior la conduct auditiv extern (CAE) sau halfway între glabelă și inion pentru other types de Craniu morphologies. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: Îndepărtați toate obiectele metalice, din plastic sau alte obiecte detașabile de pe capul pacientului. Efectuați radiografia cu pacientul în ortostatism sau în decubit semipron.; Regiune anatomică: Poziționați capul în incidență de profil adevărată, cu partea de interes cât mai aproape de receptorul de imagine și cu corpul pacientului în poziție semipronă sau în ortostatism, după cum este necesar pentru confort. Aliniați MSP paralel cu receptorul de imagine, asigurând absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase sau a înclinării. Aliniați linia interpupilară (LIP) perpendicular pe receptorul de imagine, asigurând absența înclinării capului (Fig. 11.110) (vezi NOTĂ). Ajustați flexia gâtului pentru a alinia linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a receptorului de imagine. (GAL este paralelă cu marginea anterioară a receptorului de imagine.)
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați la un punct situat la 2 inches (5 cm) superior de conductul auditiv extern (CAE) sau la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii craniene. Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -135,27 +139,27 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Craniu visualized și superimposed parietal bones de Craniu.
-    - entire șa turcească, including anterior și posterior clinoid processes și dorsum sellae, este also evidențiat.
-    - șa turcească și clivus sunt evidențiat în profile (Figs. 11.111 și 11.112). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt de Craniu este evident.
-    - rotație este evident prin anterior și posterior separation de simetric vertical bilateral structures such ca ramuri mandibulare, și greater wings de sphenoid.
-    - Tilt este evident prin superior și inferior separation de orbital plates de frontal bones.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize bony detail de bony structures și surrounding Craniu.
-    - net bony margins indicate fără mișcare. 30 24 R Craniu SERIES ROUTINE
-    - AP axial (Incidență AP Axială (Metoda Towne))
-    - lateral
-    - PA axial 15° (Incidență Occipito-Frontală (Metoda Caldwell)) sau PA axial 25° la 30°
-    - PA Fig. 11.111 lateral. Dorsum sellae Temporal bone Occipital Frontal bone Orbital plates ramuri mandibulare Parietal Greater wings de sphenoid anterior clinoid processes posterior clinoid processes Fig. 11.112 lateral.
+    - Întregul craniu este vizualizat, iar oasele parietale craniene sunt suprapuse.
+    - Întreaga șa turcească, inclusiv procesele clinoide anterior și posterior și dorsumul șeii, este de asemenea evidențiată.
+    - Șaua turcească și clivusul sunt evidențiate de profil (Fig. 11.111 și 11.112). Poziție:
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase sau înclinarea craniului sunt evidente.
+    - Rotația este evidențiată prin separarea anterioară și posterioară a structurilor verticale bilaterale simetrice, precum ramurile mandibulei și aripile mari ale sfenoidului.
+    - Înclinarea este evidențiată prin separarea superioară și inferioară a plăcilor orbitare ale oaselor frontale.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul receptorului de imagine sunt optime și suficiente pentru a vizualiza detaliile osoase ale structurilor osoase și ale craniului înconjurător.
+    - Marginile osoase nete indică absența mișcării. 30 24 R SERIA CRANIU DE RUTINĂ
+    - AP axială (incidență AP axială (metoda Towne))
+    - laterală
+    - PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25° la 30°
+    - PA Fig. 11.111 profil. Dorsumul șeii Os temporal Occipital Os frontal Plăci orbitare Ramuri mandibulare Parietal Aripi mari ale sfenoidului Procese clinoide anterior Procese clinoide posterior Fig. 11.112 profil.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -168,7 +172,7 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    pentru pacienți în Decubit poziție, radiolucent support plasat under bărbia helps în maintaining true Incidență de Profil (lateral). pacient cu broad Torace poate require radiolucent sponge under entire cap la prevent tilt, și thin pacient poate require support under upper thorax. Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).
+    Pentru pacienții aflați în decubit, un suport radiotransparent plasat sub bărbie ajută la menținerea unei incidențe de profil adevărate. Pacientul cu torace lat poate necesita un burete radiotransparent sub întregul cap pentru a preveni înclinarea, iar pacientul slab poate necesita un suport sub toracele superior. Fig. 11.110 craniu de profil — ortostatism și decubit (inserție).
 
 
 ### 🖼️ Imagini
@@ -177,25 +181,25 @@ title: Rx RIGHT OR LEFT LATERAL Profil (Lateral) (Craniu SERIES)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg)
+![Fig. 11.110 profil cranian — ortostatism și decubit (inserție).](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.110 lateral Craniu—Ortostatism și Decubit (inset).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.110 lateral skull—în ortostatism și recumbent (inset).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.111 lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.111 lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111 lateral.)</span></figcaption>
+<figcaption><strong>Fig. 11.110 profil cranian — ortostatism și decubit (inserție).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.110 profil cranian — în ortostatism și decubit (inserție)).</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.112 lateral.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg)
+![Fig. 11.111 profil.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.112 lateral.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112 lateral.)</span></figcaption>
+<figcaption><strong>Fig. 11.111 profil.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.111 profil.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.112 profil.](../../assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.112 profil.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112 profil.)</span></figcaption>
 
 </figure>
 

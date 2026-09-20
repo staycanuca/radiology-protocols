@@ -1,56 +1,59 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii pe Expir complet.
+breathing: Apnee pe durata expunerii, în expir complet.
 category: coloana
 centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
-  T7 (3 la 4 inches [8 la 10 cm] below incizura jugulară (manubriul sternal) sau 2
-  inches [5 cm] below sternal angle). Se centrează receptorul de imagine pe raza centrală.
+  T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 inches
+  [5 cm] sub unghiul sternal). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
-- Pathology involving zygapophyseal articulații de Coloană Toracală
-- ambele drept și stâng oblic incidențe sunt taken pentru comparison.
+- Patologie care implică articulațiile zigapofizare ale coloanei toracale
+- Se efectuează ambele incidențe oblice, dreaptă și stângă, pentru comparație.
 images:
-- caption: Fig. 8.86 posterior oblic
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.86 posterior
-    oblic)
+- caption: Fig. 8.86 oblic posterior
+  description: Poziționare pacient conform Ghidului Bontrager (Fig. 8.86 oblic posterior)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_1.jpeg
-- caption: Fig. 8.87 anterior oblic
+- caption: Fig. 8.87 oblic anterior
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.87
-    anterior oblic)
+    oblic anterior)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_2.jpeg
-- caption: Fig. 8.88 Ortostatism anterior oblic (RAO) Coloană Toracală.
+- caption: Fig. 8.88 ortostatism oblic anterior (RAO) Coloană Toracală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.88
-    în ortostatism anterior oblic (RAO) thoracic coloană vertebrală.)
+    în ortostatism, oblic anterior (RAO), coloană vertebrală toracală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_3.jpeg
-- caption: Fig. 8.89 RAO thoracic
+- caption: Fig. 8.89 RAO toracal
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.89
-    RAO thoracic)
+    RAO toracal)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_4.jpeg
 - caption: Fig. 8.90 RAO Coloană Toracală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.90
-    RAO thoracic coloană vertebrală.)
+    RAO coloană vertebrală toracală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_5.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: pacient’s thorax este 20° de la lateral; some type de angle guide poate fie
-  used la determine correct rotație (see Figs. 8.86 și 8.87). radiografii poate fie
-  taken ca posterior sau anterior obliques. anterior obliques sunt recommended because
-  de significantly lower Mamografie (Sân) dose. Coloană Toracală SPECIAL oblic Fig.
-  8.86 posterior oblic (RPO). Fig. 8.87 anterior oblic (LAO). Fig. 8.88 Ortostatism
-  anterior oblic (RAO) Coloană Toracală.
-position: 'Pacient: oblic anterior sau posterior Decubit sau Ortostatism poziții Initially
-  poziție pacient în lateral Decubit poziție (preferred), cu cap pe pillow și genunchi
-  flectat. pentru Ortostatism poziție, ensure equal distribution de weight pe ambele
-  picioare.; Regiune anatomică: se rotește corp 20° de la true lateral la create a
-  70° oblic de la plane de table. Ensure equal rotație de umeri și Bazin (bazin (pelvis)).
-  Flex hips, genunchi, și brațe pentru stability ca needed. Align spinal column la
-  raza centrală și linia mediană mesei și/sau receptorul de imagine. posterior Incidență
-  Oblică (Decubit) LPO sau RPO: Place braț nearest table up și forward; braț nearest
-  tube down și posterior (Fig. 8.86). anterior Incidență Oblică (Decubit) LAO sau
-  RAO: Place braț nearest table down și posterior; braț nearest tube up și forward
-  (Fig. 8.87). Ortostatism anterior Incidență Oblică Distribute pacient’s weight equally
-  pe ambele picioare. Rotate total corp, umeri, și Bazin (bazin (pelvis)) 20° anterior
-  de la lateral. Flex Cot și place braț nearest receptorul de imagine pe Șold. Raise
-  opposite braț și rest pe top de cap (Fig. 8.88).'
+notes: toracele pacientului este la 20° față de lateral; se poate utiliza un ghid
+  de unghi pentru determinarea rotației corecte (vezi Fig. 8.86 și 8.87). Radiografiile
+  pot fi efectuate ca incidențe oblice posterioare sau anterioare. Incidențele oblice
+  anterioare sunt recomandate datorită dozei semnificativ mai mici. Coloană toracală,
+  incidență oblică specială Fig. 8.86 incidență oblică posterioară (RPO). Fig. 8.87
+  incidență oblică anterioară (LAO). Fig. 8.88 incidență oblică anterioară în ortostatism
+  (RAO), coloana toracală.
+position: 'Pacient: incidență oblică anterioară sau posterioară, în decubit sau ortostatism.
+  Inițial, poziționarea pacientului în decubit lateral (preferată), cu capul pe o
+  pernă și genunchiul flectat. Pentru poziția în ortostatism, se asigură distribuirea
+  egală a greutății pe ambele picioare.; Regiune anatomică: se rotește corpul cu 20°
+  față de profilul adevărat pentru a crea o incidență oblică de 70° față de planul
+  mesei. Se asigură rotația egală a umerilor și bazinului. Se flectează șoldurile,
+  genunchii și brațele pentru stabilitate, după cum este necesar. Se aliniază coloana
+  vertebrală cu raza centrală și cu linia mediană a mesei și/sau a receptorului de
+  imagine. Incidență oblică posterioară (decubit) LPO sau RPO: se poziționează brațul
+  cel mai apropiat de masă în sus și anterior; brațul cel mai apropiat de tub în jos
+  și posterior (Fig. 8.86). Incidență oblică anterioară (decubit) LAO sau RAO: se
+  poziționează brațul cel mai apropiat de masă în jos și posterior; brațul cel mai
+  apropiat de tub în sus și anterior (Fig. 8.87). Incidență oblică anterioară în ortostatism:
+  se distribuie egal greutatea pacientului pe ambele picioare. Se rotește întregul
+  corp, umerii și bazinul cu 20° anterior față de profil. Se flectează cotul și se
+  poziționează brațul cel mai apropiat de receptorul de imagine pe șold. Se ridică
+  brațul opus și se sprijină pe creștetul capului (Fig. 8.88).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -58,31 +61,31 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Zygapophyseal articulații: anterior oblic poziții (RAO și LAO) evidențiază downside
-  zygapophyseal articulații (Figs. 8.89 și 8.90), și posterior oblic poziții (RPO
-  și LPO) evidențiază upside articulații. poziție:'
-- 'zygapophyseal articulații de side de interest trebuie să fie open. However, amount
-  de kyphosis will determine how many zygapophyseal articulații will fie clar vizibil(e).
-  expunere:'
-- optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins
-  și trabecular markings de coloană toracală. R Fig. 8.89 RAO Coloană Toracală. Zygapophyseal
-  articulații R Fig. 8.90 RAO Coloană Toracală.
+- 'Articulațiile zigapofizare: pozițiile oblice anterioare (RAO și LAO) evidențiază
+  articulațiile zigapofizare situate inferior (Fig. 8.89 și 8.90), iar pozițiile oblice
+  posterioare (RPO și LPO) evidențiază articulațiile situate superior. Poziție:'
+- 'articulațiile zigapofizare de pe partea de interes trebuie să fie deschise. Cu
+  toate acestea, gradul de cifoză va determina câte articulații zigapofizare vor fi
+  vizibile clar. Expunere:'
+- expunere optimă a receptorului de imagine și contrast. Evidențiere clară a marginilor
+  osoase și a desenului trabecular al coloanei toracale. R Fig. 8.89 RAO Coloană Toracală.
+  Articulații zigapofizare R Fig. 8.90 RAO Coloană Toracală.
 sid_dff: 100 cm
 slug: rx-coloana-toracala-anterior-or-posterior-oblica-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 344
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe two sides de anatomy (four sides if possible)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimează pe două laturi ale anatomiei (patru laturi dacă este posibil)
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-95
   mas: DE CONFIGURAT PE APARAT
-title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
+title: Rx Coloană Toracală ANTERIOR SAU POSTERIOR Oblică
 ---
-# Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
+# Rx Coloană Toracală ANTERIOR SAU POSTERIOR Oblică
 
 
 <div class="rx-meta-bar">
@@ -101,8 +104,8 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
 
     === "Indicații Clinice"
 
-        - Pathology involving zygapophyseal articulații de Coloană Toracală
-        - ambele drept și stâng oblic incidențe sunt taken pentru comparison.
+        - Patologie care implică articulațiile zigapofizare ale coloanei toracale
+        - Se efectuează ambele incidențe oblice, dreaptă și stângă, pentru comparație.
 
     === "Ghid Național IRIS"
 
@@ -116,10 +119,10 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
 
     ---
 
-    - **Poziție Pacient:** Pacient: oblic anterior sau posterior Decubit sau Ortostatism poziții Initially poziție pacient în lateral Decubit poziție (preferred), cu cap pe pillow și genunchi flectat. pentru Ortostatism poziție, ensure equal distribution de weight pe ambele picioare.; Regiune anatomică: se rotește corp 20° de la true lateral la create a 70° oblic de la plane de table. Ensure equal rotație de umeri și Bazin (bazin (pelvis)). Flex hips, genunchi, și brațe pentru stability ca needed. Align spinal column la raza centrală și linia mediană mesei și/sau receptorul de imagine. posterior Incidență Oblică (Decubit) LPO sau RPO: Place braț nearest table up și forward; braț nearest tube down și posterior (Fig. 8.86). anterior Incidență Oblică (Decubit) LAO sau RAO: Place braț nearest table down și posterior; braț nearest tube up și forward (Fig. 8.87). Ortostatism anterior Incidență Oblică Distribute pacient’s weight equally pe ambele picioare. Rotate total corp, umeri, și Bazin (bazin (pelvis)) 20° anterior de la lateral. Flex Cot și place braț nearest receptorul de imagine pe Șold. Raise opposite braț și rest pe top de cap (Fig. 8.88).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] below incizura jugulară (manubriul sternal) sau 2 inches [5 cm] below sternal angle). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Pacient: incidență oblică anterioară sau posterioară, în decubit sau ortostatism. Inițial, poziționarea pacientului în decubit lateral (preferată), cu capul pe o pernă și genunchiul flectat. Pentru poziția în ortostatism, se asigură distribuirea egală a greutății pe ambele picioare.; Regiune anatomică: se rotește corpul cu 20° față de profilul adevărat pentru a crea o incidență oblică de 70° față de planul mesei. Se asigură rotația egală a umerilor și bazinului. Se flectează șoldurile, genunchii și brațele pentru stabilitate, după cum este necesar. Se aliniază coloana vertebrală cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Incidență oblică posterioară (decubit) LPO sau RPO: se poziționează brațul cel mai apropiat de masă în sus și anterior; brațul cel mai apropiat de tub în jos și posterior (Fig. 8.86). Incidență oblică anterioară (decubit) LAO sau RAO: se poziționează brațul cel mai apropiat de masă în jos și posterior; brațul cel mai apropiat de tub în sus și anterior (Fig. 8.87). Incidență oblică anterioară în ortostatism: se distribuie egal greutatea pacientului pe ambele picioare. Se rotește întregul corp, umerii și bazinul cu 20° anterior față de profil. Se flectează cotul și se poziționează brațul cel mai apropiat de receptorul de imagine pe șold. Se ridică brațul opus și se sprijină pe creștetul capului (Fig. 8.88).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 inches [5 cm] sub unghiul sternal). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii pe Expir complet.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii, în expir complet.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -132,17 +135,17 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe two sides de anatomy (four sides if possible) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimează pe două laturi ale anatomiei (patru laturi dacă este posibil) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Zygapophyseal articulații: anterior oblic poziții (RAO și LAO) evidențiază downside zygapophyseal articulații (Figs. 8.89 și 8.90), și posterior oblic poziții (RPO și LPO) evidențiază upside articulații. poziție:
-    - zygapophyseal articulații de side de interest trebuie să fie open. However, amount de kyphosis will determine how many zygapophyseal articulații will fie clar vizibil(e). expunere:
-    - optim receptorul de imagine expunere și contrast. Clear demonstration de bony margins și trabecular markings de coloană toracală. R Fig. 8.89 RAO Coloană Toracală. Zygapophyseal articulații R Fig. 8.90 RAO Coloană Toracală.
+    - Articulațiile zigapofizare: pozițiile oblice anterioare (RAO și LAO) evidențiază articulațiile zigapofizare situate inferior (Fig. 8.89 și 8.90), iar pozițiile oblice posterioare (RPO și LPO) evidențiază articulațiile situate superior. Poziție:
+    - articulațiile zigapofizare de pe partea de interes trebuie să fie deschise. Cu toate acestea, gradul de cifoză va determina câte articulații zigapofizare vor fi vizibile clar. Expunere:
+    - expunere optimă a receptorului de imagine și contrast. Evidențiere clară a marginilor osoase și a desenului trabecular al coloanei toracale. R Fig. 8.89 RAO Coloană Toracală. Articulații zigapofizare R Fig. 8.90 RAO Coloană Toracală.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,7 +158,7 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    pacient’s thorax este 20° de la lateral; some type de angle guide poate fie used la determine correct rotație (see Figs. 8.86 și 8.87). radiografii poate fie taken ca posterior sau anterior obliques. anterior obliques sunt recommended because de significantly lower Mamografie (Sân) dose. Coloană Toracală SPECIAL oblic Fig. 8.86 posterior oblic (RPO). Fig. 8.87 anterior oblic (LAO). Fig. 8.88 Ortostatism anterior oblic (RAO) Coloană Toracală.
+    toracele pacientului este la 20° față de lateral; se poate utiliza un ghid de unghi pentru determinarea rotației corecte (vezi Fig. 8.86 și 8.87). Radiografiile pot fi efectuate ca incidențe oblice posterioare sau anterioare. Incidențele oblice anterioare sunt recomandate datorită dozei semnificativ mai mici. Coloană toracală, incidență oblică specială Fig. 8.86 incidență oblică posterioară (RPO). Fig. 8.87 incidență oblică anterioară (LAO). Fig. 8.88 incidență oblică anterioară în ortostatism (RAO), coloana toracală.
 
 
 ### 🖼️ Imagini
@@ -164,33 +167,33 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.86 posterior oblic](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_1.jpeg)
+![Fig. 8.86 oblic posterior](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 8.86 posterior oblic</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.86 posterior oblic)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 8.87 anterior oblic](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 8.87 anterior oblic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.87 anterior oblic)</span></figcaption>
+<figcaption><strong>Fig. 8.86 oblic posterior</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 8.86 oblic posterior)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.88 Ortostatism anterior oblic (RAO) Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_3.jpeg)
+![Fig. 8.87 oblic anterior](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 8.88 Ortostatism anterior oblic (RAO) Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.88 în ortostatism anterior oblic (RAO) thoracic coloană vertebrală.)</span></figcaption>
+<figcaption><strong>Fig. 8.87 oblic anterior</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.87 oblic anterior)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 8.89 RAO thoracic](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_4.jpeg)
+![Fig. 8.88 ortostatism oblic anterior (RAO) Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 8.89 RAO thoracic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.89 RAO thoracic)</span></figcaption>
+<figcaption><strong>Fig. 8.88 ortostatism oblic anterior (RAO) Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.88 în ortostatism, oblic anterior (RAO), coloană vertebrală toracală.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 8.89 RAO toracal](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 8.89 RAO toracal</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.89 RAO toracal)</span></figcaption>
 
 </figure>
 
@@ -198,7 +201,7 @@ title: Rx Coloană Toracală ANTERIOR OR POSTERIOR Oblică
 
 ![Fig. 8.90 RAO Coloană Toracală.](../../assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_5.jpeg)
 
-<figcaption><strong>Fig. 8.90 RAO Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.90 RAO thoracic coloană vertebrală.)</span></figcaption>
+<figcaption><strong>Fig. 8.90 RAO Coloană Toracală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.90 RAO coloană vertebrală toracală.)</span></figcaption>
 
 </figure>
 

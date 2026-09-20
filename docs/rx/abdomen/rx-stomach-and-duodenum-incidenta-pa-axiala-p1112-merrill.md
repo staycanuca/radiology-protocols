@@ -1,37 +1,38 @@
 ---
 author: Referință Merrill
-breathing: Apnee pe durata expunerii la end de expiration unless otherwise requested.
+breathing: Apnee pe durata expunerii la sfârșitul expirului, dacă nu se solicită altfel.
 category: abdomen
 centering: Orientat spre punctul central al receptorului de imagine la un unghi de
-  35 la 45 grade cranial. Gugliantini 10 recommended cephalic angulation de 20 la
-  25 grade la show stomach în infants.
+  35 la 45 grade cranial. Gugliantini 10 a recomandat o angulație cranială de 20 la
+  25 grade pentru a evidenția stomacul la sugari.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1113, imaginea 1
+- caption: Merrill — pagina 1113, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1113_fig1.png
-- caption: Merrill — pagina PDF 1114, imaginea 2
+- caption: Merrill — pagina 1114, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1114_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție.; se ajustează pacient’s corp
-  astfel încât MSP este centrat pe grila. pentru sthenic pacient, se centrează receptorul
-  de imagine la nivelul L2 (Fig. 15.65), la about 1 la 2 inches (2.5 la 5 cm) above
-  lower rib margin; center it higher pentru hypersthenic pacient și lower pentru asthenic
-  pacient. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit ventral.; Se ajustează poziția corpului pacientului
+  astfel încât MSP să fie centrat pe grilă. Pentru pacientul normostenic, se centrează
+  receptorul de imagine la nivelul L2 (Fig. 15.65), la aproximativ 1 la 2 țoli (2.5
+  la 5 cm) deasupra marginii costale inferioare; se centrează mai sus pentru pacientul
+  hiperstenic și mai jos pentru pacientul astenic. se efectuează ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să clearly fie seen:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și proximal duodenum
-- Stomach centrat la nivelul level de pylorus
-- Penetration de contrast medium
-- Surrounding anatomy
+- 'Următoarele trebuie să fie clar vizibile:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și duodenul proximal
+- Stomacul centrat la nivelul pilorului
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill
 source_pages:
@@ -39,53 +40,53 @@ source_pages:
 - 1113
 - 1114
 source_sections:
-  anatomy: 'Gordon 11 developed PA axial incidență la “open up” high, orizontal (hypersthenic-type)
-    stomach la show greater și lesser
-
-    curvatures, antral portion de stomach, pyloric canal, și duodenal bulb. resultant
-    imagine gives hypersthenic stomach much
-
-    same configuration ca average sthenic type de stomach (Fig. 15.66).'
-  collimation: • se ajustează câmp de iradiere la fie fără larger than 14 × 17 inches
-    (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• Orientat spre punctul central al receptorului de imagine la un unghi de 35
-    la 45 grade cranial. Gugliantini 10 recommended cephalic angulation de 20 la 25
-
-    grade la show stomach în infants.'
-  criteria: 'following trebuie să clearly fie seen:
+  anatomy: Gordon 11 a conceput incidența PA axială pentru a „deschide” stomacul situat
+    sus, orizontal (de tip hiperstenic), pentru a evidenția marea și mica curbură,
+    porțiunea antrală a stomacului, canalul piloric și bulbul duodenal. Imaginea rezultată
+    conferă stomacului hiperstenic o configurație foarte asemănătoare cu cea a stomacului
+    de tip normostenic obișnuit (Fig. 15.66).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Orientat spre punctul central al receptorului de imagine la un unghi de 35
+    la 45 grade cranial. Gugliantini 10 a recomandat o angulație cranială de 20 la
+    25 grade pentru a evidenția stomacul la sugari.
+  criteria: 'Următoarele trebuie să fie clar vizibile:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Entire stomach și proximal duodenum
+    • Întregul stomac și duodenul proximal
 
-    • Stomach centrat la nivelul level de pylorus
+    • Stomacul centrat la nivelul pilorului
 
-    • Penetration de contrast medium
+    • Penetrarea substanței de contrast
 
-    • Surrounding anatomy'
-  part_pos: '• se ajustează pacient’s corp astfel încât MSP este centrat pe grila.
+    • Structurile anatomice învecinate'
+  part_pos: '• Se ajustează poziția corpului pacientului astfel încât MSP să fie centrat
+    pe grilă.
 
-    • pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 (Fig.
-    15.65), la about 1 la 2 inches (2.5 la 5 cm) above lower rib margin; center it
-
-    higher pentru hypersthenic pacient și lower pentru asthenic pacient.
+    • Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul
+    L2 (Fig. 15.65), la aproximativ 1 la 2 țoli (2.5 la 5 cm) deasupra marginii costale
+    inferioare; se centrează mai sus pentru pacientul hiperstenic și mai jos pentru
+    pacientul astenic.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit ventral.
-  respiration: Apnee pe durata expunerii la end de expiration unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  respiration: Apnee pe durata expunerii la sfârșitul expirului, dacă nu se solicită
+    altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.'
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1112–1114'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1112
+    And Biliary System, pagini 1112–1114'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fie fără larger than 14 × 17 inches
-    (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merrill)
 ---
 # Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merrill)
@@ -121,10 +122,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merril
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție.; se ajustează pacient’s corp astfel încât MSP este centrat pe grila. pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 (Fig. 15.65), la about 1 la 2 inches (2.5 la 5 cm) above lower rib margin; center it higher pentru hypersthenic pacient și lower pentru asthenic pacient. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Orientat spre punctul central al receptorului de imagine la un unghi de 35 la 45 grade cranial. Gugliantini 10 recommended cephalic angulation de 20 la 25 grade la show stomach în infants.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral.; Se ajustează poziția corpului pacientului astfel încât MSP să fie centrat pe grilă. Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul L2 (Fig. 15.65), la aproximativ 1 la 2 țoli (2.5 la 5 cm) deasupra marginii costale inferioare; se centrează mai sus pentru pacientul hiperstenic și mai jos pentru pacientul astenic. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientat spre punctul central al receptorului de imagine la un unghi de 35 la 45 grade cranial. Gugliantini 10 a recomandat o angulație cranială de 20 la 25 grade pentru a evidenția stomacul la sugari.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee pe durata expunerii la end de expiration unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii la sfârșitul expirului, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -138,19 +139,19 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merril
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fie fără larger than 14 × 17 inches (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - following trebuie să clearly fie seen:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și proximal duodenum
-    - Stomach centrat la nivelul level de pylorus
-    - Penetration de contrast medium
-    - Surrounding anatomy
+    - Următoarele trebuie să fie clar vizibile:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și duodenul proximal
+    - Stomacul centrat la nivelul pilorului
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -170,17 +171,17 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merril
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1113, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1113_fig1.png)
+![Merrill — pagina 1113, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1113_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1113, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1113, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1114, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1114_fig2.png)
+![Merrill — pagina 1114, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-pa-axiala-p1112-merrill/p1114_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1114, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1114, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -197,51 +198,47 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență PA Axială (Merril
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1112–1114](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1112)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1112–1114](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-Gordon 11 developed PA axial incidență la “open up” high, orizontal (hypersthenic-type) stomach la show greater și lesser
-curvatures, antral portion de stomach, pyloric canal, și duodenal bulb. resultant imagine gives hypersthenic stomach much
-same configuration ca average sthenic type de stomach (Fig. 15.66).
+Gordon 11 a conceput incidența PA axială pentru a „deschide” stomacul situat sus, orizontal (de tip hiperstenic), pentru a evidenția marea și mica curbură, porțiunea antrală a stomacului, canalul piloric și bulbul duodenal. Imaginea rezultată conferă stomacului hiperstenic o configurație foarte asemănătoare cu cea a stomacului de tip normostenic obișnuit (Fig. 15.66).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fie fără larger than 14 × 17 inches (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• Orientat spre punctul central al receptorului de imagine la un unghi de 35 la 45 grade cranial. Gugliantini 10 recommended cephalic angulation de 20 la 25
-grade la show stomach în infants.
+• Orientat spre punctul central al receptorului de imagine la un unghi de 35 la 45 grade cranial. Gugliantini 10 a recomandat o angulație cranială de 20 la 25 grade pentru a evidenția stomacul la sugari.
 
-### criteria
+### criterii
 
-following trebuie să clearly fie seen:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și proximal duodenum
-• Stomach centrat la nivelul level de pylorus
-• Penetration de contrast medium
-• Surrounding anatomy
+Următoarele trebuie să fie clar vizibile:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Întregul stomac și duodenul proximal
+• Stomacul centrat la nivelul pilorului
+• Penetrarea substanței de contrast
+• Structurile anatomice învecinate
 
 ### part_pos
 
-• se ajustează pacient’s corp astfel încât MSP este centrat pe grila.
-• pentru sthenic pacient, se centrează receptorul de imagine la nivelul L2 (Fig. 15.65), la about 1 la 2 inches (2.5 la 5 cm) above lower rib margin; center it
-higher pentru hypersthenic pacient și lower pentru asthenic pacient.
+• Se ajustează poziția corpului pacientului astfel încât MSP să fie centrat pe grilă.
+• Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul L2 (Fig. 15.65), la aproximativ 1 la 2 țoli (2.5 la 5 cm) deasupra marginii costale inferioare; se centrează mai sus pentru pacientul hiperstenic și mai jos pentru pacientul astenic.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit ventral.
 
-### respiration
+### respirație
 
-Apnee pe durata expunerii la end de expiration unless otherwise requested.
+Apnee pe durata expunerii la sfârșitul expirului, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
 

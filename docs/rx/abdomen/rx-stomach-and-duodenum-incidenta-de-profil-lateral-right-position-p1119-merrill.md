@@ -1,44 +1,45 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet unless otherwise requested.
+breathing: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 category: abdomen
 centering: perpendicular pe centrul receptorului de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1120, imaginea 1
+- caption: Merrill — pagina 1120, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1120_fig1.png
-- caption: Merrill — pagina PDF 1121, imaginea 2
+- caption: Merrill — pagina 1121, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1121_fig2.png
-- caption: Merrill — pagina PDF 1122, imaginea 3
+- caption: Merrill — pagina 1122, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1122_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism leͥ Incidență de Profil (lateral) la show
-  stâng retrogastric space și în Decubit drept Incidență de Profil (lateral) la show
-  drept retrogastric space, duodenal loop, și duodenojejunal junction.; cu pacientul
-  în ortostatism sau Decubit poziție, se ajustează corp so that plane passing midway
-  între plan mediocoronal și anterior surface de abdomenul coincides cu linia mediană
-  grilă. se centrează receptorul de imagine la nivelul L1-L2 pentru Decubit poziție
-  (about 1 la 2 inches [2.5 la 5 cm] above lower rib margin) și la L3 pentru ortostatism.
-  se ajustează corp în true Incidență de Profil (lateral) (Fig. 15.72). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în ortostatism, în incidență de profil stâng, pentru
+  a evidenția spațiul retrogastric stâng, și în decubit lateral drept, în incidență
+  de profil, pentru a evidenția spațiul retrogastric drept, ansa duodenală și joncțiunea
+  duodenojejunală.; Cu pacientul în ortostatism sau în decubit, se ajustează poziția
+  corpului astfel încât planul care trece la jumătatea distanței dintre planul mediocoronal
+  și suprafața anterioară a abdomenului să coincidă cu linia mediană a grilei. Se
+  centrează receptorul de imagine la nivelul L1-L2 pentru poziția în decubit (aproximativ
+  1 la 2 țoli [2.5 la 5 cm] deasupra marginii costale inferioare) și la L3 pentru
+  ortostatism. Se ajustează poziția corpului pentru o incidență de profil strict (Fig.
+  15.72). se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire stomach și duodenal loop
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca vizualizat
-  prin vertebre
-- Stomach centrat la nivelul level de pylorus
-- Penetration de contrast medium
-- Surrounding anatomy
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul stomac și ansa duodenală
+- Absența rotației anatomice a pacientului (simetrie bilaterală perfectă), evidențiată
+  prin aspectul vertebrelor
+- Stomacul centrat la nivelul pilorului
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill
 source_pages:
@@ -47,62 +48,60 @@ source_pages:
 - 1121
 - 1122
 source_sections:
-  anatomy: 'anterior și posterior aspects de stomach, pyloric canal, și duodenal bulb
-    (Figs. 15.73 și 15.74). drept lateral incidență
-
-    commonly afords best imagine de pyloric canal și duodenal bulb în pacienți cu
-    hypersthenic habitus.'
-  collimation: '• se ajustează câmp de iradiere la fără larger than 10 × 12 inches
-    (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 ×
-    35 cm)
-
-    pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.'
+  anatomy: Aspectele anterior și posterior ale stomacului, canalul piloric și bulbul
+    duodenal (Fig. 15.73 și 15.74). Incidența de profil drept oferă de obicei cea
+    mai bună imagine a canalului piloric și a bulbului duodenal la pacienții cu tip
+    constituțional hiperstenic.
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 10
+    × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească
+    11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul
+    de lateralitate în câmpul colimat.
   cr: • perpendicular pe centrul receptorului de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    în afara structurilor anatomice de interes
 
-    • Entire stomach și duodenal loop
+    • Întregul stomac și ansa duodenală
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca vizualizat
-    prin vertebre
+    • Absența rotației anatomice a pacientului (simetrie bilaterală perfectă), evidențiată
+    prin aspectul vertebrelor
 
-    • Stomach centrat la nivelul level de pylorus
+    • Stomacul centrat la nivelul pilorului
 
-    • Penetration de contrast medium
+    • Penetrarea substanței de contrast
 
-    • Surrounding anatomy'
-  part_pos: '• cu pacientul în ortostatism sau recumbent poziție, se ajustează corp
-    so that plane passing midway între plan mediocoronal
+    • Structurile anatomice învecinate'
+  part_pos: '• Cu pacientul în ortostatism sau în decubit, se ajustează poziția corpului
+    astfel încât planul care trece la jumătatea distanței dintre planul mediocoronal
+    și suprafața anterioară a abdomenului să coincidă cu linia mediană a grilei.
 
-    și anterior surface de abdomenul coincides cu linia mediană grilă.
+    • Se centrează receptorul de imagine la nivelul L1-L2 pentru poziția în decubit
+    (aproximativ 1 la 2 țoli [2.5 la 5 cm] deasupra marginii costale inferioare) și
+    la L3 pentru ortostatism.
 
-    • se centrează receptorul de imagine la nivelul L1-L2 pentru recumbent poziție
-    (about 1 la 2 inches [2.5 la 5 cm] above lower rib margin) și la L3
-
-    pentru ortostatism.
-
-    • se ajustează corp în true poziție de profil (lateral) (Fig. 15.72).
+    • Se ajustează corpul în poziție de profil strict (Fig. 15.72).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în ortostatism leͥ poziție de profil (lateral)
-    la show stâng retrogastric space și în recumbent drept poziție de profil (lateral)
-    la show drept retrogastric space, duodenal loop, și duodenojejunal junction.
-  respiration: Apnee la sfârșitul expirului complet unless otherwise requested.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  patient_pos: • Se așază pacientul în ortostatism, în poziție de profil stâng, pentru
+    a evidenția spațiul retrogastric stâng, și în decubit lateral drept pentru a evidenția
+    spațiul retrogastric drept, ansa duodenală și joncțiunea duodenojejunală.
+  respiration: Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.'
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1119–1122'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1119
+    And Biliary System, pagini 1119–1122'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24
-    × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm)
-    pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 10 ×
+    12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11
+    × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul
+    de lateralitate în câmpul colimat.
 title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral) — Profil
   Drept (Merrill)
 ---
@@ -139,10 +138,10 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism leͥ Incidență de Profil (lateral) la show stâng retrogastric space și în Decubit drept Incidență de Profil (lateral) la show drept retrogastric space, duodenal loop, și duodenojejunal junction.; cu pacientul în ortostatism sau Decubit poziție, se ajustează corp so that plane passing midway între plan mediocoronal și anterior surface de abdomenul coincides cu linia mediană grilă. se centrează receptorul de imagine la nivelul L1-L2 pentru Decubit poziție (about 1 la 2 inches [2.5 la 5 cm] above lower rib margin) și la L3 pentru ortostatism. se ajustează corp în true Incidență de Profil (lateral) (Fig. 15.72). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Se așază pacientul în ortostatism, în incidență de profil stâng, pentru a evidenția spațiul retrogastric stâng, și în decubit lateral drept, în incidență de profil, pentru a evidenția spațiul retrogastric drept, ansa duodenală și joncțiunea duodenojejunală.; Cu pacientul în ortostatism sau în decubit, se ajustează poziția corpului astfel încât planul care trece la jumătatea distanței dintre planul mediocoronal și suprafața anterioară a abdomenului să coincidă cu linia mediană a grilei. Se centrează receptorul de imagine la nivelul L1-L2 pentru poziția în decubit (aproximativ 1 la 2 țoli [2.5 la 5 cm] deasupra marginii costale inferioare) și la L3 pentru ortostatism. Se ajustează poziția corpului pentru o incidență de profil strict (Fig. 15.72). se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet unless otherwise requested.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -156,20 +155,20 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm) pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire stomach și duodenal loop
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca vizualizat prin vertebre
-    - Stomach centrat la nivelul level de pylorus
-    - Penetration de contrast medium
-    - Surrounding anatomy
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul stomac și ansa duodenală
+    - Absența rotației anatomice a pacientului (simetrie bilaterală perfectă), evidențiată prin aspectul vertebrelor
+    - Stomacul centrat la nivelul pilorului
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -189,25 +188,25 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1120, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1120_fig1.png)
+![Merrill — pagina 1120, imaginea 1](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1120_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1120, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 1121, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1121_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 1121, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1120, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1122, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1122_fig3.png)
+![Merrill — pagina 1121, imaginea 2](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1121_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1122, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1121, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 1122, imaginea 3](../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1122_fig3.png)
+
+<figcaption><strong>Merrill — pagina 1122, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -224,53 +223,49 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1119–1122](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1119)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1119–1122](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-anterior și posterior aspects de stomach, pyloric canal, și duodenal bulb (Figs. 15.73 și 15.74). drept lateral incidență
-commonly afords best imagine de pyloric canal și duodenal bulb în pacienți cu hypersthenic habitus.
+Aspectele anterior și posterior ale stomacului, canalul piloric și bulbul duodenal (Fig. 15.73 și 15.74). Incidența de profil drept oferă de obicei cea mai bună imagine a canalului piloric și a bulbului duodenal la pacienții cu tip constituțional hiperstenic.
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 10 × 12 inches (24 × 30 cm) pentru smaller pacienți și fără larger than 11 × 14 inches (28 × 35 cm)
-pentru larger pacienți. Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
 • perpendicular pe centrul receptorului de imagine
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire stomach și duodenal loop
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca vizualizat prin vertebre
-• Stomach centrat la nivelul level de pylorus
-• Penetration de contrast medium
-• Surrounding anatomy
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+• Întregul stomac și ansa duodenală
+• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă), evidențiată prin aspectul vertebrelor
+• Stomacul centrat la nivelul pilorului
+• Penetrarea substanței de contrast
+• Structurile anatomice învecinate
 
 ### part_pos
 
-• cu pacientul în ortostatism sau recumbent poziție, se ajustează corp so that plane passing midway între plan mediocoronal
-și anterior surface de abdomenul coincides cu linia mediană grilă.
-• se centrează receptorul de imagine la nivelul L1-L2 pentru recumbent poziție (about 1 la 2 inches [2.5 la 5 cm] above lower rib margin) și la L3
-pentru ortostatism.
-• se ajustează corp în true poziție de profil (lateral) (Fig. 15.72).
+• Cu pacientul în ortostatism sau în decubit, se ajustează poziția corpului astfel încât planul care trece la jumătatea distanței dintre planul mediocoronal și suprafața anterioară a abdomenului să coincidă cu linia mediană a grilei.
+• Se centrează receptorul de imagine la nivelul L1-L2 pentru poziția în decubit (aproximativ 1 la 2 țoli [2.5 la 5 cm] deasupra marginii costale inferioare) și la L3 pentru ortostatism.
+• Se ajustează corpul în poziție de profil strict (Fig. 15.72).
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în ortostatism leͥ poziție de profil (lateral) la show stâng retrogastric space și în recumbent drept poziție de profil (lateral) la show drept retrogastric space, duodenal loop, și duodenojejunal junction.
+• Se așază pacientul în ortostatism, în poziție de profil stâng, pentru a evidenția spațiul retrogastric stâng, și în decubit lateral drept pentru a evidenția spațiul retrogastric drept, ansa duodenală și joncțiunea duodenojejunală.
 
-### respiration
+### respirație
 
-Apnee la sfârșitul expirului complet unless otherwise requested.
+Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) sau 14 × 17 inches (35 × 43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
 

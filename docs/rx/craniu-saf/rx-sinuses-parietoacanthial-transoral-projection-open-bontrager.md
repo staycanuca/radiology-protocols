@@ -2,25 +2,25 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine.
-  Center raza centrală la exit la acantion.
+centering: Aliniați raza centrală (RC) orizontală, perpendicular pe receptorul de
+  imagine. Centrați raza centrală la ieșirea la nivelul acantionului.
 clinical_indications:
-- Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii
-  osoase)
-- Sinus exudate (thick lichid în sinus—sign de possible infection)
-- Sinus polyps și cysts
+- Afecțiuni inflamatorii (sinuzită, osteomielită secundară / leziuni osoase inflamatorii)
+- Exsudat sinusal (lichid gros în sinus—semn de posibilă infecție)
+- Polipi și chisturi sinusale
 images:
-- caption: 'Fig. 11.199 Parietoacanthial transoral incidență. (de la Curtis T:'
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.199 Parietoacanthial
-    transoral incidență. (de la Curtis T:)
+- caption: 'Fig. 11.199 Incidență parietoacantială transorală. (După Curtis T:'
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.199 Incidență
+    parietoacantială transorală. (După Curtis T:)
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_1.jpeg
-- caption: Fig. 11.200 Parietoacanthial transoral incidență. (Modified de la
+- caption: Fig. 11.200 Incidență parietoacantială transorală. (Modificat după
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.200
-    Parietoacanthial transoral incidență. (Modified de la)
+    Incidență parietoacantială transorală. (Modificat după)
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_2.jpeg
-- caption: Fig. 11.198 Parietoacanthial transoral incidență (în ortostatism imaging
+- caption: Fig. 11.198 Incidență parietoacantială transorală (pe dispozitivul de imagistică
+    în ortostatism
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.198
-    Parietoacanthial transoral incidență (în ortostatism imaging)
+    Incidență parietoacantială transorală (pe dispozitivul de imagistică în ortostatism
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,20 +28,20 @@ images:
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: Remember, raza centrală trebuie să fie orizontal și pacientul Ortostatism la
-  evidențiază airfluid levels within Sinusuri Paranazale (SAF). SINUSES SPECIAL Submentovertical
-  (sMV) Parietoacanthial transoral (openmouth Incidență Occipito-Mentonieră (Metoda
-  Waters))
+notes: 'Rețineți: raza centrală trebuie să fie orizontală, iar pacientul trebuie să
+  fie în ortostatism pentru evidențierea nivelurilor aer-lichid în sinusurile paranazale
+  (SAF). SINUSURI SPECIALE Submentoverticală (sMV) Parietoacantială transorală (incidență
+  cu gura deschisă Occipito-Mentonieră (Metoda Waters))'
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. poziție pacient Ortostatism.; Regiune anatomică: Extend neck,
-  placing chin și nose against table/în ortostatism imaging device surface. Adjust
-  cap until linie orbitomeatală (LOM) forms 37° angle cu receptorul de imagine (linie
-  mentomeatală (LMM) este perpendicular cu mouth closed) (Fig. 11.198). poziție MsP
-  perpendicular pe midline de grilă; ensure Absența rotației anatomice: clavicule
-  echidistante față de linia apofizelor spinoase sau tilt. Instruct pacient la gură
-  deschisă (transorală) (i.e., “drop your jaw fără moving your cap”); linie mentomeatală
-  (LMM) poate nu fie perpendicular. Se centrează receptorul de imagine pe raza centrală
-  și la acantion.'
+  capului și gâtului. Poziția pacientului: Ortostatism.; Regiune anatomică: Extindeți
+  gâtul, așezând bărbia și nasul pe suprafața mesei/dispozitivului de imagistică în
+  ortostatism. Ajustați capul până când linia orbitomeatală (LOM) formează un unghi
+  de 37° cu receptorul de imagine (linia mentomeatală (LMM) este perpendiculară cu
+  gura închisă) (Fig. 11.198). MSP perpendicular pe linia mediană a grilei; asigurați
+  absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
+  sau a înclinării. Instruiți pacientul să deschidă gura (transoral) (adică „lăsați
+  mandibula în jos fără să mișcați capul”); linia mentomeatală (LMM) poate să nu fie
+  perpendiculară. Centrați receptorul de imagine pe raza centrală și la nivelul acantionului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,43 +49,43 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'sinusuri maxilare cu inferior aspect visualized, liber de la superimposing alveolar
-  processes și stânci temporale (piramide pietroase); inferior orbital margin, oblic
-  incidență de sinusuri frontale, și sinusuri sfenoidale visualized through gură deschisă
-  (transorală) (Figs. 11.199 și 11.200). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  de Craniu este indicated prin following: equal distance de la MSP (identified prin
-  bony nasal septum) la lateral orbital margin pe ambele părți (bilateral); equal
-  distance de la lateral orbital margin la lateral cortex de Craniu pe ambele părți
-  (bilateral) (side rotit spre receptorul de imagine will appear wider); precis extension
-  de gâtul evidențiind stânci temporale (piramide pietroase) just inferior la sinusuri
-  maxilare.'
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize maxillary
-  și sinusuri sfenoidale.
-- 'net bony margins indicate fără mișcare. Fig. 11.199 Parietoacanthial transoral
-  incidență. (de la Curtis T: Online course pentru Mosby’s digital positioning consult,
-  Philadelphia, 2019, Elsevier.) stânci temporale (piramide pietroase) sinusuri frontale
-  sinusuri maxilare Sinus exudate sinusuri sfenoidale Fig. 11.200 Parietoacanthial
-  transoral incidență. (Modified de la Curtis T: Online course pentru Mosby’s digital
-  positioning consult, Philadelphia, 2019, Elsevier.) Fig. 11.198 Parietoacanthial
-  transoral incidență (în ortostatism imaging device/table).'
+- 'Sinusurile maxilare cu aspect inferior sunt vizualizate libere de suprapunerea
+  proceselor alveolare și a stâncilor temporale (piramidelor pietroase); marginea
+  orbitală inferioară, incidența oblică a sinusurilor frontale și sinusurile sfenoidale
+  sunt vizualizate prin gura deschisă (transoral) (Figs. 11.199 și 11.200). Poziție:'
+- 'Absența rotației anatomice a craniului: clavicule echidistante față de linia apofizelor
+  spinoase este indicată prin următoarele: distanță egală de la MSP (identificat prin
+  septul nazal osos) la marginea orbitală laterală pe ambele părți (bilateral); distanță
+  egală de la marginea orbitală laterală la corticala laterală a craniului pe ambele
+  părți (bilateral) (partea rotită spre receptorul de imagine va apărea mai largă);
+  extensia precisă a gâtului, evidențiind stâncile temporale (piramidele pietroase)
+  imediat inferior sinusurilor maxilare.'
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea
+  sinusurilor maxilare și sfenoidale.
+- 'Marginile osoase nete indică absența mișcării. Fig. 11.199 Incidență parietoacantială
+  transorală. (După Curtis T: Curs online pentru consultul digital de poziționare
+  Mosby’s, Philadelphia, 2019, Elsevier.) Stânci temporale (piramide pietroase) Sinusuri
+  frontale Sinusuri maxilare Exsudat sinusal Sinusuri sfenoidale Fig. 11.200 Incidență
+  parietoacantială transorală. (Modificat după Curtis T: Curs online pentru consultul
+  digital de poziționare Mosby’s, Philadelphia, 2019, Elsevier.) Fig. 11.198 Incidență
+  parietoacantială transorală (pe dispozitivul de imagistică în ortostatism/masă).'
 sid_dff: 100 cm
 slug: rx-sinuses-parietoacanthial-transoral-projection-open-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 467
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
+title: Rx SINUSURI PARIETOACANTIALĂ TRANSORALĂ Incidență (GURA DESCHISĂ)
 ---
-# Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
+# Rx SINUSURI PARIETOACANTIALĂ TRANSORALĂ Incidență (GURA DESCHISĂ)
 
 
 <div class="rx-meta-bar">
@@ -104,9 +104,9 @@ title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
 
     === "Indicații Clinice"
 
-        - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii osoase)
-        - Sinus exudate (thick lichid în sinus—sign de possible infection)
-        - Sinus polyps și cysts
+        - Afecțiuni inflamatorii (sinuzită, osteomielită secundară / leziuni osoase inflamatorii)
+        - Exsudat sinusal (lichid gros în sinus—semn de posibilă infecție)
+        - Polipi și chisturi sinusale
 
     === "Ghid Național IRIS"
 
@@ -120,8 +120,8 @@ title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. poziție pacient Ortostatism.; Regiune anatomică: Extend neck, placing chin și nose against table/în ortostatism imaging device surface. Adjust cap until linie orbitomeatală (LOM) forms 37° angle cu receptorul de imagine (linie mentomeatală (LMM) este perpendicular cu mouth closed) (Fig. 11.198). poziție MsP perpendicular pe midline de grilă; ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt. Instruct pacient la gură deschisă (transorală) (i.e., “drop your jaw fără moving your cap”); linie mentomeatală (LMM) poate nu fie perpendicular. Se centrează receptorul de imagine pe raza centrală și la acantion.
-    - **Punct de Centrare Fascicul:** Align orizontal Raza centrală (RC) perpendiculară pe receptorul de imagine. Center raza centrală la exit la acantion.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului: Ortostatism.; Regiune anatomică: Extindeți gâtul, așezând bărbia și nasul pe suprafața mesei/dispozitivului de imagistică în ortostatism. Ajustați capul până când linia orbitomeatală (LOM) formează un unghi de 37° cu receptorul de imagine (linia mentomeatală (LMM) este perpendiculară cu gura închisă) (Fig. 11.198). MSP perpendicular pe linia mediană a grilei; asigurați absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau a înclinării. Instruiți pacientul să deschidă gura (transoral) (adică „lăsați mandibula în jos fără să mișcați capul”); linia mentomeatală (LMM) poate să nu fie perpendiculară. Centrați receptorul de imagine pe raza centrală și la nivelul acantionului.
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) orizontală, perpendicular pe receptorul de imagine. Centrați raza centrală la ieșirea la nivelul acantionului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -136,19 +136,19 @@ title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - sinusuri maxilare cu inferior aspect visualized, liber de la superimposing alveolar processes și stânci temporale (piramide pietroase); inferior orbital margin, oblic incidență de sinusuri frontale, și sinusuri sfenoidale visualized through gură deschisă (transorală) (Figs. 11.199 și 11.200). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Craniu este indicated prin following: equal distance de la MSP (identified prin bony nasal septum) la lateral orbital margin pe ambele părți (bilateral); equal distance de la lateral orbital margin la lateral cortex de Craniu pe ambele părți (bilateral) (side rotit spre receptorul de imagine will appear wider); precis extension de gâtul evidențiind stânci temporale (piramide pietroase) just inferior la sinusuri maxilare.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize maxillary și sinusuri sfenoidale.
-    - net bony margins indicate fără mișcare. Fig. 11.199 Parietoacanthial transoral incidență. (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) stânci temporale (piramide pietroase) sinusuri frontale sinusuri maxilare Sinus exudate sinusuri sfenoidale Fig. 11.200 Parietoacanthial transoral incidență. (Modified de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) Fig. 11.198 Parietoacanthial transoral incidență (în ortostatism imaging device/table).
+    - Sinusurile maxilare cu aspect inferior sunt vizualizate libere de suprapunerea proceselor alveolare și a stâncilor temporale (piramidelor pietroase); marginea orbitală inferioară, incidența oblică a sinusurilor frontale și sinusurile sfenoidale sunt vizualizate prin gura deschisă (transoral) (Figs. 11.199 și 11.200). Poziție:
+    - Absența rotației anatomice a craniului: clavicule echidistante față de linia apofizelor spinoase este indicată prin următoarele: distanță egală de la MSP (identificat prin septul nazal osos) la marginea orbitală laterală pe ambele părți (bilateral); distanță egală de la marginea orbitală laterală la corticala laterală a craniului pe ambele părți (bilateral) (partea rotită spre receptorul de imagine va apărea mai largă); extensia precisă a gâtului, evidențiind stâncile temporale (piramidele pietroase) imediat inferior sinusurilor maxilare.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea sinusurilor maxilare și sfenoidale.
+    - Marginile osoase nete indică absența mișcării. Fig. 11.199 Incidență parietoacantială transorală. (După Curtis T: Curs online pentru consultul digital de poziționare Mosby’s, Philadelphia, 2019, Elsevier.) Stânci temporale (piramide pietroase) Sinusuri frontale Sinusuri maxilare Exsudat sinusal Sinusuri sfenoidale Fig. 11.200 Incidență parietoacantială transorală. (Modificat după Curtis T: Curs online pentru consultul digital de poziționare Mosby’s, Philadelphia, 2019, Elsevier.) Fig. 11.198 Incidență parietoacantială transorală (pe dispozitivul de imagistică în ortostatism/masă).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -161,7 +161,7 @@ title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Remember, raza centrală trebuie să fie orizontal și pacientul Ortostatism la evidențiază airfluid levels within Sinusuri Paranazale (SAF). SINUSES SPECIAL Submentovertical (sMV) Parietoacanthial transoral (openmouth Incidență Occipito-Mentonieră (Metoda Waters))
+    Rețineți: raza centrală trebuie să fie orizontală, iar pacientul trebuie să fie în ortostatism pentru evidențierea nivelurilor aer-lichid în sinusurile paranazale (SAF). SINUSURI SPECIALE Submentoverticală (sMV) Parietoacantială transorală (incidență cu gura deschisă Occipito-Mentonieră (Metoda Waters))
 
 
 ### 🖼️ Imagini
@@ -170,25 +170,25 @@ title: Rx SINUSES PARIETOACANTHIAL TRANSORAL Incidență (OPEN)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.199 Parietoacanthial transoral incidență. (de la Curtis T:](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_1.jpeg)
+![Fig. 11.199 Incidență parietoacantială transorală. (După Curtis T:](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.199 Parietoacanthial transoral incidență. (de la Curtis T:</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.199 Parietoacanthial transoral incidență. (de la Curtis T:)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.200 Parietoacanthial transoral incidență. (Modified de la](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.200 Parietoacanthial transoral incidență. (Modified de la</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.200 Parietoacanthial transoral incidență. (Modified de la)</span></figcaption>
+<figcaption><strong>Fig. 11.199 Incidență parietoacantială transorală. (După Curtis T:</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.199 Incidență parietoacantială transorală. (După Curtis T:)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.198 Parietoacanthial transoral incidență (în ortostatism imaging](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_3.jpeg)
+![Fig. 11.200 Incidență parietoacantială transorală. (Modificat după](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.198 Parietoacanthial transoral incidență (în ortostatism imaging</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.198 Parietoacanthial transoral incidență (în ortostatism imaging)</span></figcaption>
+<figcaption><strong>Fig. 11.200 Incidență parietoacantială transorală. (Modificat după</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.200 Incidență parietoacantială transorală. (Modificat după)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.198 Incidență parietoacantială transorală (pe dispozitivul de imagistică în ortostatism](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-transoral-projection-open-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.198 Incidență parietoacantială transorală (pe dispozitivul de imagistică în ortostatism</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.198 Incidență parietoacantială transorală (pe dispozitivul de imagistică în ortostatism</span></figcaption>
 
 </figure>
 

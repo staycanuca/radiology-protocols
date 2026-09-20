@@ -3,33 +3,35 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• caudal angulation este employed, such that it makes angle de 35 grade
-  la orbito-meatal plane.
+centering: '• se utilizează angularea caudală, astfel încât aceasta să formeze un
+  unghi de 35 grade față de planul orbitomeatal.
 
-  • fascicul este centred midway între extern auditory meatuses.
+  • fasciculul este centrat la jumătatea distanței dintre conductele auditive externe.
 
-  • Collimate laterally pentru include Profil (lateral) margins de Craniu și supra-inferiorly
-  pentru include mastoid și petrous parts de temporal bone. proces mastoidian poate
-  fie palpated easily behind ear.
+  • se colimează lateral pentru a include marginile de profil (laterale) ale craniului
+  și superior-inferior pentru a include porțiunile mastoidiene și pietroase ale osului
+  temporal. Procesul mastoidian poate fi palpat cu ușurință în spatele urechii.
 
-  Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern auditory
-  meatus cap de Mandibulă Zygomatic arch Arcuate eminence Dorsum sellae gaură occipitală
-  mare (foramen magnum) Mastoid air cells sinusuri sfenoidale'
+  Canale semicirculare Cohlee oscioare auditive conduct auditiv extern conduct auditiv
+  intern capul mandibulei arc zigomatic eminență arcuată dorsum sellae gaură occipitală
+  mare (foramen magnum) celule aerice mastoidiene sinusuri sfenoidale'
 clinical_indications:
-- 8 250 Craniu Temporal bones These incidențe sunt traditionally difficult la perform.
-  They sunt also difficult la interpret, especially if examination este nu de highest
-  quality. Modern CT cu direct coronal imaging affords exquisite demonstration de
-  temporal bone detail și has largely obviated need pentru these incidențe. Frontal-occipital
-  35 grade caudal 251 8 Craniu Frontal-occipital 35 grade caudal
+- 8 250 Craniu Oase temporale Aceste incidențe sunt în mod tradițional dificil de
+  efectuat. Sunt, de asemenea, dificil de interpretat, în special dacă examinarea
+  nu este de cea mai înaltă calitate. CT-ul modern cu imagistică coronală directă
+  permite demonstrarea excelentă a detaliilor osului temporal și a eliminat în mare
+  măsură necesitatea acestor incidențe. Fronto-occipitală 35 grade caudală 251 8 Craniu
+  Fronto-occipitală 35 grade caudală
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_2.jpeg
-- caption: • toate de anatomy included pe radiografie opposite și
+- caption: • toată anatomia inclusă pe radiografia opusă și
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_3.jpeg
@@ -40,13 +42,18 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: "• pacientul poate fie Decubit dorsal în linia mediană mesei sau Ortostatism\
-  \ cu their back la Ortostatism Bucky.\n• capul este ajustat la bring extern auditory\
-  \ meatuses echidistant față de masa de examinare, astfel încât plan mediosagital\
-  \ este la drept-angles la, și în linia mediană de, masa de examinare.\n• bărbia\
-  \ este coborât astfel încât linie orbitomeatală (LOM) este la drept-angles la masa\
-  \ de examinare.\n• small (24 \x02 30-cm) casetă este plasat transversely în caseta\
-  \ tray și este centred la coincide cu înclinat raza centrală."
+position: '• pacientul poate fi în decubit dorsal pe linia mediană a mesei sau în
+  ortostatism, cu spatele la stativul Bucky pentru ortostatism.
+
+  • capul este ajustat astfel încât conductele auditive externe să fie echidistante
+  față de masa de examinare, astfel încât planul mediosagital să fie la unghiuri drepte
+  față de masa de examinare și pe linia mediană a acesteia.
+
+  • bărbia este coborâtă astfel încât linia orbitomeatală (LOM) să fie la unghiuri
+  drepte față de masa de examinare.
+
+  • o casetă mică (24 × 30-cm) este plasată transversal în suportul casetei și centrată
+  pentru a coincide cu raza centrală înclinată.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -55,42 +62,43 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- șa turcească de sphenoid bone trebuie să fie projected within gaură occipitală mare
-  (foramen magnum).
-- Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that
-  șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-- toate de anatomy included pe radiografie opposite și line diagram below trebuie
-  să fie included.
-- 'Erori de evitat / remedii: Under-angulation: gaură occipitală mare (foramen magnum)
-  este nu clar evidențiat(e) above stânci temporale (piramide pietroase). This este
-  probably most common fault, since pacientul poate find it difficult la maintain
-  baseline perpendicular pe film radiologic.'
-- 'Erori de evitat / remedii: If pacientul’s chin cannot fie coborât sufficiently
-  la bring orbito-meatal base line perpendicular pe film radiologic, then it will
-  fie necessary la increase angle de tubul more than 35 grade la vertical. A 35-grade
-  angle la orbitomeatal plane trebuie să fie maintained. Submento-vertical ca alternative,
-  SMV incidență (see p. 246 pentru details) collimated down la include only petrous
-  și mastoid parts de temporal bone este further incidență that has been employed
-  la evidențiază anatomy de this region. Cochlea Auditory ossicles extern auditory
-  meatus intern auditory meatus Semicircular canals Mastoid air cells Foramen ovale
-  Foramen lacerum gaură occipitală mare (foramen magnum) Foramen spinosum Carotid
-  canal extern ear Middle ear intern ear pacient poziționat pentru SMV incidență'
+- Șaua turcească a osului sfenoid trebuie proiectată în gaura occipitală mare (foramen
+  magnum).
+- Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea
+  faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+- Toată anatomia inclusă pe radiografia opusă și în schema liniară de mai jos trebuie
+  să fie inclusă.
+- 'Erori de evitat / remedii: Subangulare: gaura occipitală mare (foramen magnum)
+  nu este evidențiată clar deasupra stâncilor temporale (piramidelor pietroase). Aceasta
+  este probabil cea mai frecventă eroare, deoarece pacientului i se poate părea dificil
+  să mențină linia de bază perpendiculară pe filmul radiologic.'
+- 'Erori de evitat / remedii: dacă bărbia pacientului nu poate fi coborâtă suficient
+  pentru a aduce linia de bază orbitomeatală perpendicular pe filmul radiologic, va
+  fi necesară creșterea unghiului tubului la verticală peste 35 grade. Trebuie menținut
+  un unghi de 35 grade față de planul orbitomeatal. Incidența submento-verticală,
+  ca alternativă, SMV (a se vedea p. 246 pentru detalii), colimată pentru a include
+  numai porțiunile pietroasă și mastoidiană ale osului temporal, este o altă incidență
+  utilizată pentru evidențierea anatomiei acestei regiuni. Cohlee oscioare auditive
+  conduct auditiv extern conduct auditiv intern canale semicirculare celule aerice
+  mastoidiene foramen ovale foramen lacerum gaură occipitală mare (foramen magnum)
+  foramen spinosum canal carotidian ureche externă ureche medie ureche internă pacient
+  poziționat pentru incidența SMV'
 sid_dff: 100 cm
 slug: rx-craniu-temporal-bones-p265-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 265
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=265
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Temporal bones
+  mas: Conform AEC / grosimii anatomice
+title: Rx Craniu Oase temporale
 ---
-# Rx Craniu Temporal bones
+# Rx Craniu Oase temporale
 
 
 <div class="rx-meta-bar">
@@ -109,7 +117,7 @@ title: Rx Craniu Temporal bones
 
     === "Indicații Clinice"
 
-        - 8 250 Craniu Temporal bones These incidențe sunt traditionally difficult la perform. They sunt also difficult la interpret, especially if examination este nu de highest quality. Modern CT cu direct coronal imaging affords exquisite demonstration de temporal bone detail și has largely obviated need pentru these incidențe. Frontal-occipital 35 grade caudal 251 8 Craniu Frontal-occipital 35 grade caudal
+        - 8 250 Craniu Oase temporale Aceste incidențe sunt în mod tradițional dificil de efectuat. Sunt, de asemenea, dificil de interpretat, în special dacă examinarea nu este de cea mai înaltă calitate. CT-ul modern cu imagistică coronală directă permite demonstrarea excelentă a detaliilor osului temporal și a eliminat în mare măsură necesitatea acestor incidențe. Fronto-occipitală 35 grade caudală 251 8 Craniu Fronto-occipitală 35 grade caudală
 
     === "Ghid Național IRIS"
 
@@ -123,14 +131,14 @@ title: Rx Craniu Temporal bones
 
     ---
 
-    - **Poziție Pacient:** • pacientul poate fie Decubit dorsal în linia mediană mesei sau Ortostatism cu their back la Ortostatism Bucky.
-• capul este ajustat la bring extern auditory meatuses echidistant față de masa de examinare, astfel încât plan mediosagital este la drept-angles la, și în linia mediană de, masa de examinare.
-• bărbia este coborât astfel încât linie orbitomeatală (LOM) este la drept-angles la masa de examinare.
-• small (24  30-cm) casetă este plasat transversely în caseta tray și este centred la coincide cu înclinat raza centrală.
-    - **Punct de Centrare Fascicul:** • caudal angulation este employed, such that it makes angle de 35 grade la orbito-meatal plane.
-• fascicul este centred midway între extern auditory meatuses.
-• Collimate laterally pentru include Profil (lateral) margins de Craniu și supra-inferiorly pentru include mastoid și petrous parts de temporal bone. proces mastoidian poate fie palpated easily behind ear.
-Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern auditory meatus cap de Mandibulă Zygomatic arch Arcuate eminence Dorsum sellae gaură occipitală mare (foramen magnum) Mastoid air cells sinusuri sfenoidale
+    - **Poziție Pacient:** • pacientul poate fi în decubit dorsal pe linia mediană a mesei sau în ortostatism, cu spatele la stativul Bucky pentru ortostatism.
+• capul este ajustat astfel încât conductele auditive externe să fie echidistante față de masa de examinare, astfel încât planul mediosagital să fie la unghiuri drepte față de masa de examinare și pe linia mediană a acesteia.
+• bărbia este coborâtă astfel încât linia orbitomeatală (LOM) să fie la unghiuri drepte față de masa de examinare.
+• o casetă mică (24 × 30-cm) este plasată transversal în suportul casetei și centrată pentru a coincide cu raza centrală înclinată.
+    - **Punct de Centrare Fascicul:** • se utilizează angularea caudală, astfel încât aceasta să formeze un unghi de 35 grade față de planul orbitomeatal.
+• fasciculul este centrat la jumătatea distanței dintre conductele auditive externe.
+• se colimează lateral pentru a include marginile de profil (laterale) ale craniului și superior-inferior pentru a include porțiunile mastoidiene și pietroase ale osului temporal. Procesul mastoidian poate fi palpat cu ușurință în spatele urechii.
+Canale semicirculare Cohlee oscioare auditive conduct auditiv extern conduct auditiv intern capul mandibulei arc zigomatic eminență arcuată dorsum sellae gaură occipitală mare (foramen magnum) celule aerice mastoidiene sinusuri sfenoidale
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -141,23 +149,23 @@ Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern audi
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - șa turcească de sphenoid bone trebuie să fie projected within gaură occipitală mare (foramen magnum).
-    - Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-    - toate de anatomy included pe radiografie opposite și line diagram below trebuie să fie included.
-    - Erori de evitat / remedii: Under-angulation: gaură occipitală mare (foramen magnum) este nu clar evidențiat(e) above stânci temporale (piramide pietroase). This este probably most common fault, since pacientul poate find it difficult la maintain baseline perpendicular pe film radiologic.
-    - Erori de evitat / remedii: If pacientul’s chin cannot fie coborât sufficiently la bring orbito-meatal base line perpendicular pe film radiologic, then it will fie necessary la increase angle de tubul more than 35 grade la vertical. A 35-grade angle la orbitomeatal plane trebuie să fie maintained. Submento-vertical ca alternative, SMV incidență (see p. 246 pentru details) collimated down la include only petrous și mastoid parts de temporal bone este further incidență that has been employed la evidențiază anatomy de this region. Cochlea Auditory ossicles extern auditory meatus intern auditory meatus Semicircular canals Mastoid air cells Foramen ovale Foramen lacerum gaură occipitală mare (foramen magnum) Foramen spinosum Carotid canal extern ear Middle ear intern ear pacient poziționat pentru SMV incidență
+    - Șaua turcească a osului sfenoid trebuie proiectată în gaura occipitală mare (foramen magnum).
+    - Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+    - Toată anatomia inclusă pe radiografia opusă și în schema liniară de mai jos trebuie să fie inclusă.
+    - Erori de evitat / remedii: Subangulare: gaura occipitală mare (foramen magnum) nu este evidențiată clar deasupra stâncilor temporale (piramidelor pietroase). Aceasta este probabil cea mai frecventă eroare, deoarece pacientului i se poate părea dificil să mențină linia de bază perpendiculară pe filmul radiologic.
+    - Erori de evitat / remedii: dacă bărbia pacientului nu poate fi coborâtă suficient pentru a aduce linia de bază orbitomeatală perpendicular pe filmul radiologic, va fi necesară creșterea unghiului tubului la verticală peste 35 grade. Trebuie menținut un unghi de 35 grade față de planul orbitomeatal. Incidența submento-verticală, ca alternativă, SMV (a se vedea p. 246 pentru detalii), colimată pentru a include numai porțiunile pietroasă și mastoidiană ale osului temporal, este o altă incidență utilizată pentru evidențierea anatomiei acestei regiuni. Cohlee oscioare auditive conduct auditiv extern conduct auditiv intern canale semicirculare celule aerice mastoidiene foramen ovale foramen lacerum gaură occipitală mare (foramen magnum) foramen spinosum canal carotidian ureche externă ureche medie ureche internă pacient poziționat pentru incidența SMV
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -181,7 +189,7 @@ Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern audi
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -195,9 +203,9 @@ Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern audi
 
 <figure class="protocol-image-card" markdown>
 
-![• toate de anatomy included pe radiografie opposite și](../../assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_3.jpeg)
+![• toată anatomia inclusă pe radiografia opusă și](../../assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_3.jpeg)
 
-<figcaption><strong>• toate de anatomy included pe radiografie opposite și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• toată anatomia inclusă pe radiografia opusă și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -222,4 +230,4 @@ Semicircular canals Cochlea Auditory ossicles extern auditory meatus intern audi
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 265](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=265)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 265](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

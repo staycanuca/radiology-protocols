@@ -100,9 +100,9 @@ source_sections:
 
     30 cm) transversal'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     196–197'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=196
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Place marker
@@ -195,7 +195,7 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 196–197](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=196)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 196–197](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

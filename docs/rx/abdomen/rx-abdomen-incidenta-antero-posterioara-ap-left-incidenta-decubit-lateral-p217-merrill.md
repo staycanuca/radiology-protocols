@@ -1,62 +1,64 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul expirului complet. Compensating Filter pentru pacienți
-  cu large Abdomen, compensating filter improves imagine quality prin preventing overexposure
-  de upper-side abdominal area.
+breathing: 'Apnee la sfârșitul expirului complet. Filtru de compensare: pentru pacienții
+  cu abdomen voluminos, filtrul de compensare îmbunătățește calitatea imaginii prin
+  prevenirea supraexpunerii regiunii abdominale situate deasupra.'
 category: abdomen
-centering: orientat horizon̍ al și perpendicular pe midpoint de receptorul de imagine.
+centering: orientat orizontal și perpendicular pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 219, imaginea 1
+- caption: Merrill — pagina 219, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig1.png
-- caption: Merrill — pagina PDF 219, imaginea 2
+- caption: Merrill — pagina 219, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig2.png
-- caption: Merrill — pagina PDF 220, imaginea 3
+- caption: Merrill — pagina 220, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p220_fig3.png
 last_updated: '2026-09-16'
 modality: rx
-notes: drept Incidență Decubit lateral este often requested sau poate fie required
-  when pacientul cannot lie pe stâng side.
-position: If pacientul este too ill la stand, place him sau her în lateral Decubit
-  poziție culcat pe radiolucent pad pe transportation cart. Use stâng Incidență Decubit
-  lateral în most situations. radiolucent pad este particularly important la ensure
-  inclusion de entire dependent side when lichid demonstration este de primary concern.
-  When liber intraperitoneal air este suspected, Se instruiește pacientul să lie pe
-  side pentru 5 minutes before expunere la allow air la rise la its highest level
-  within abdomenul. se poziționează pacientul’s brațe deasupra nivelului cupole diafragmatice
-  so that they sunt nu projected over orice abdominal contents. se flectează pacient’s
-  genunchi slightly la provide stabilization. Exercise care la ensure that pacientul
-  does nu fall de cart; if cart este used, lock toate wheels securely în poziție.;
-  se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul
-  de imagine este centrat pe planul mediosagital. If abdomenul este too wide la include
-  ambele flanks pe one imagine, adjust pacient și receptorul de imagine height la
-  include side down when intraperitoneal lichid este suspected și la include side
-  up when pneumoperitoneum este suspected. se poziționează pacientul astfel încât
-  level de crestele iliace este centrat pe receptorul de imagine. slightly higher
-  centering point, 2 inches (5 cm) above crestele iliace, poate fie necessary la ensure
-  that cupole diafragmatice este included în imagine (Fig. 4.15). se ajustează pacient
-  la ensure that true Incidență de Profil (lateral) este attained.
+notes: Incidența în decubit lateral drept este frecvent solicitată sau poate fi necesară
+  când pacientul nu poate sta culcat pe partea stângă.
+position: Dacă pacientul este prea bolnav pentru a sta în picioare, se așază în decubit
+  lateral pe un suport radiotransparent, pe căruciorul de transport. Se utilizează
+  incidența în decubit lateral stâng în majoritatea situațiilor. Suportul radiotransparent
+  este deosebit de important pentru a asigura includerea întregii părți declive când
+  evidențierea lichidului este obiectivul principal. Când se suspectează aer intraperitoneal
+  liber, se instruiește pacientul să stea culcat pe o parte timp de 5 minute înainte
+  de expunere, pentru a permite aerului să se ridice la nivelul cel mai înalt din
+  abdomen. Se poziționează brațele pacientului deasupra nivelului cupolelor diafragmatice,
+  astfel încât să nu se proiecteze peste conținutul abdominal. Se flectează ușor genunchii
+  pacientului pentru stabilizare. Se acordă atenție pentru a preveni căderea pacientului
+  de pe cărucior; dacă se utilizează un cărucior, se blochează ferm toate roțile în
+  poziție. Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală
+  a receptorului de imagine să fie centrată pe planul mediosagital. Dacă abdomenul
+  este prea lat pentru a include ambele flancuri pe o singură imagine, se ajustează
+  înălțimea pacientului și a receptorului de imagine pentru a include partea situată
+  dedesubt când se suspectează lichid intraperitoneal și partea situată deasupra când
+  se suspectează pneumoperitoneu. Se poziționează pacientul astfel încât nivelul crestelor
+  iliace să fie centrat pe receptorul de imagine. Poate fi necesar un punct de centrare
+  puțin mai sus, la 2 țoli (5 cm) deasupra crestelor iliace, pentru a asigura includerea
+  cupolelor diafragmatice în imagine (Fig. 4.15). Se ajustează poziția pacientului
+  pentru a obține o incidență de profil strict.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit
-  marker plasat clear de anatomy de interest
-- cupole diafragmatice fără estompare cinetică de mișcare
-- 'ambele părți (bilateral) de abdomenul. If Abdomen este too wide:'
-- Side down when lichid este suspected (ensure entire dependent side este included
-  în câmp colimat)
-- Side up when aer liber este suspected
-- Abdominal perete, flank structures, și cupole diafragmatice
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului
+  de decubit, plasate în afara structurilor anatomice de interes
+- cupole diafragmatice fără estompare cinetică
+- 'ambele părți ale abdomenului (bilateral). Dacă abdomenul este prea lat:'
+- Partea situată dedesubt când se suspectează lichid (se asigură includerea întregii
+  părți declive în câmpul colimat)
+- Partea situată deasupra când se suspectează aer liber
+- Peretele abdominal, structurile flancurilor și cupolele diafragmatice
 - Absența rotației anatomice (simetrie bilaterală perfectă)
 - Procesele spinoase centrate pe mijlocul corpurilor vertebrale lombare
 - Spinele ischiatice ale bazinului sunt perfect simetrice bilateral
 - Aripile oaselor iliace sunt perfect simetrice bilateral (absența rotației bazinului)
-- Abdominal contents vizibil fără contrast media
+- Conținutul abdominal vizibil fără substanță de contrast
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill
 source_pages:
@@ -65,32 +67,33 @@ source_pages:
 - 219
 - 220
 source_sections:
-  anatomy: 'în addition la evidențiind size și shape de ficat, splină, și rinichi,
-    AP abdomen cu pacientul în stâng decubit poziție este most
+  anatomy: 'Pe lângă evidențierea dimensiunilor și formei ficatului, splinei și rinichilor,
+    radiografia AP a abdomenului cu pacientul în decubit lateral stâng este deosebit
+    de
 
-    valuable pentru evidențiind aer liber și air-nivele hidroaerice when în ortostatism
-    abdomen incidență cannot fie obtained (Fig. 4.16).'
+    utilă pentru evidențierea aerului liber și a nivelurilor hidroaerice când nu se
+    poate obține o radiografie a abdomenului în ortostatism (Fig. 4.16).'
   collimation: '• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
     Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
 
-    de abdomenul flanks. Place marker de lateralitate (D/S) și decubit marker în collimated
-    expunere field.'
-  cr: • orientat horizon̍ al și perpendicular pe midpoint de receptorul de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    al flancurilor abdominale. Se plasează markerul de lateralitate (D/S) și markerul
+    de decubit în câmpul de expunere colimat.'
+  cr: • orientat orizontal și perpendicular pe centrul receptorului de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit
-    marker plasat clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a
+    markerului de decubit, plasate în afara structurilor anatomice de interes
 
-    • cupole diafragmatice fără estompare cinetică de mișcare
+    • cupole diafragmatice fără estompare cinetică
 
-    • ambele părți (bilateral) de abdomenul. If abdomen este too wide:
+    • ambele părți ale abdomenului (bilateral). Dacă abdomenul este prea lat:
 
-    • Side down when lichid este suspected (ensure entire dependent side este included
-    în câmp colimat)
+    • Partea situată dedesubt când se suspectează lichid (se asigură includerea întregii
+    părți declive în câmpul colimat)
 
-    • Side up when aer liber este suspected
+    • Partea situată deasupra când se suspectează aer liber
 
-    • Abdominal perete, flank structures, și cupole diafragmatice
+    • Peretele abdominal, structurile flancurilor și cupolele diafragmatice
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
@@ -100,67 +103,70 @@ source_sections:
 
     • Aripile oaselor iliace sunt perfect simetrice bilateral (absența rotației bazinului)
 
-    • Abdominal contents vizibil fără contrast media'
-  notes: drept lateral decubit poziție este often requested sau poate fie required
-    when pacientul cannot lie pe stâng side.
-  part_pos: '• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală
-    de receptorul de imagine este centrat pe planul mediosagital.
+    • Conținutul abdominal vizibil fără substanță de contrast'
+  notes: Poziția în decubit lateral drept este frecvent solicitată sau poate fi necesară
+    când pacientul nu poate sta culcat pe partea stângă.
+  part_pos: '• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală
+    a receptorului de imagine să fie centrată pe planul mediosagital.
 
-    • If abdomenul este too wide la include ambele flanks pe one imagine, adjust pacient
-    și receptorul de imagine height la include side down when
+    • Dacă abdomenul este prea lat pentru a include ambele flancuri pe o singură imagine,
+    se ajustează înălțimea pacientului și a receptorului de imagine pentru a include
+    partea situată dedesubt când
 
-    intraperitoneal lichid este suspected și la include side up when pneumoperitoneum
-    este suspected.
+    se suspectează lichid intraperitoneal și partea situată deasupra când se suspectează
+    pneumoperitoneu.
 
-    • se poziționează pacientul astfel încât level de crestele iliace este centrat
-    pe receptorul de imagine. slightly higher centering point, 2 inches (5 cm) above
-    creste iliace, poate fie necessary la ensure that cupole diafragmatice este included
-    în imagine (Fig. 4.15).
+    • Se poziționează pacientul astfel încât nivelul crestelor iliace să fie centrat
+    pe receptorul de imagine. Poate fi necesar un punct de centrare puțin mai sus,
+    la 2 țoli (5 cm) deasupra crestelor iliace, pentru a asigura includerea cupolelor
+    diafragmatice în imagine (Fig. 4.15).
 
-    • se ajustează pacient la ensure that true poziție de profil (lateral) este attained.'
-  patient_pos: '• If pacientul este too ill la stand, place him sau her în lateral
-    recumbent poziție culcat pe radiolucent pad pe transportation cart.
+    • Se ajustează poziția pacientului pentru a obține o poziție de profil strict.'
+  patient_pos: '• Dacă pacientul este prea bolnav pentru a sta în picioare, se așază
+    în decubit lateral pe un suport radiotransparent, pe căruciorul de transport.
 
-    Use stâng lateral decubit poziție în most situations.
+    Se utilizează poziția în decubit lateral stâng în majoritatea situațiilor.
 
-    • radiolucent pad este particularly important la ensure inclusion de entire dependent
-    side when lichid demonstration este de primary
+    • Suportul radiotransparent este deosebit de important pentru a asigura includerea
+    întregii părți declive când evidențierea lichidului este obiectivul
 
-    concern.
+    principal.
 
-    • When liber intraperitoneal air este suspected, Se instruiește pacientul să lie
-    pe side pentru 5 minutes before expunere la allow air la rise la its
+    • Când se suspectează aer intraperitoneal liber, se instruiește pacientul să stea
+    culcat pe o parte timp de 5 minute înainte de expunere, pentru a permite aerului
+    să se ridice la
 
-    highest level within abdomenul.
+    nivelul cel mai înalt din abdomen.
 
-    • se poziționează pacientul’s brațe deasupra nivelului cupole diafragmatice so
-    that they sunt nu projected over orice abdominal contents.
+    • Se poziționează brațele pacientului deasupra nivelului cupolelor diafragmatice,
+    astfel încât să nu se proiecteze peste conținutul abdominal.
 
-    • se flectează pacient’s genunchi slightly la provide stabilization.
+    • Se flectează ușor genunchii pacientului pentru stabilizare.
 
-    • Exercise care la ensure that pacientul does nu fall de cart; if cart este used,
-    lock toate wheels securely în poziție.'
+    • Se acordă atenție pentru a preveni căderea pacientului de pe cărucior; dacă
+    se utilizează un cărucior, se blochează ferm toate roțile în poziție.'
   respiration: 'Apnee la sfârșitul expirului complet.
 
-    Compensating Filter
+    Filtru de compensare
 
-    pentru pacienți cu large abdomen, compensating filter improves imagine quality
-    prin preventing overexposure de upper-side abdominal area.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+    Pentru pacienții cu abdomen voluminos, filtrul de compensare îmbunătățește calitatea
+    imaginii prin prevenirea supraexpunerii regiunii abdominale situate deasupra.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 4. Abdomen, pagini PDF 217–220
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=217
+- title: Merrill’s Atlas, 4. Abdomen, pagini 217–220
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
     Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-    de abdomenul flanks. Place marker de lateralitate (D/S) și decubit marker în collimated
-    expunere field.
-title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență Decubit Lateral
-  (Merrill)
+    al flancurilor abdominale. Se plasează markerul de lateralitate (D/S) și markerul
+    de decubit în câmpul de expunere colimat.
+title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Incidență în Decubit Lateral
+  Stâng (Merrill)
 ---
-# Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență Decubit Lateral (Merrill)
+# Rx Abdomen — Incidență Antero-Posterioară (AP) — Incidență în Decubit Lateral Stâng (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -193,10 +199,10 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență 
 
     ---
 
-    - **Poziție Pacient:** If pacientul este too ill la stand, place him sau her în lateral Decubit poziție culcat pe radiolucent pad pe transportation cart. Use stâng Incidență Decubit lateral în most situations. radiolucent pad este particularly important la ensure inclusion de entire dependent side when lichid demonstration este de primary concern. When liber intraperitoneal air este suspected, Se instruiește pacientul să lie pe side pentru 5 minutes before expunere la allow air la rise la its highest level within abdomenul. se poziționează pacientul’s brațe deasupra nivelului cupole diafragmatice so that they sunt nu projected over orice abdominal contents. se flectează pacient’s genunchi slightly la provide stabilization. Exercise care la ensure that pacientul does nu fall de cart; if cart este used, lock toate wheels securely în poziție.; se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediosagital. If abdomenul este too wide la include ambele flanks pe one imagine, adjust pacient și receptorul de imagine height la include side down when intraperitoneal lichid este suspected și la include side up when pneumoperitoneum este suspected. se poziționează pacientul astfel încât level de crestele iliace este centrat pe receptorul de imagine. slightly higher centering point, 2 inches (5 cm) above crestele iliace, poate fie necessary la ensure that cupole diafragmatice este included în imagine (Fig. 4.15). se ajustează pacient la ensure that true Incidență de Profil (lateral) este attained.
-    - **Punct de Centrare Fascicul:** orientat horizon̍ al și perpendicular pe midpoint de receptorul de imagine.
+    - **Poziție Pacient:** Dacă pacientul este prea bolnav pentru a sta în picioare, se așază în decubit lateral pe un suport radiotransparent, pe căruciorul de transport. Se utilizează incidența în decubit lateral stâng în majoritatea situațiilor. Suportul radiotransparent este deosebit de important pentru a asigura includerea întregii părți declive când evidențierea lichidului este obiectivul principal. Când se suspectează aer intraperitoneal liber, se instruiește pacientul să stea culcat pe o parte timp de 5 minute înainte de expunere, pentru a permite aerului să se ridice la nivelul cel mai înalt din abdomen. Se poziționează brațele pacientului deasupra nivelului cupolelor diafragmatice, astfel încât să nu se proiecteze peste conținutul abdominal. Se flectează ușor genunchii pacientului pentru stabilizare. Se acordă atenție pentru a preveni căderea pacientului de pe cărucior; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție. Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediosagital. Dacă abdomenul este prea lat pentru a include ambele flancuri pe o singură imagine, se ajustează înălțimea pacientului și a receptorului de imagine pentru a include partea situată dedesubt când se suspectează lichid intraperitoneal și partea situată deasupra când se suspectează pneumoperitoneu. Se poziționează pacientul astfel încât nivelul crestelor iliace să fie centrat pe receptorul de imagine. Poate fi necesar un punct de centrare puțin mai sus, la 2 țoli (5 cm) deasupra crestelor iliace, pentru a asigura includerea cupolelor diafragmatice în imagine (Fig. 4.15). Se ajustează poziția pacientului pentru a obține o incidență de profil strict.
+    - **Punct de Centrare Fascicul:** orientat orizontal și perpendicular pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet. Compensating Filter pentru pacienți cu large Abdomen, compensating filter improves imagine quality prin preventing overexposure de upper-side abdominal area.
+    - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet. Filtru de compensare: pentru pacienții cu abdomen voluminos, filtrul de compensare îmbunătățește calitatea imaginii prin prevenirea supraexpunerii regiunii abdominale situate deasupra.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -210,25 +216,25 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar de abdomenul flanks. Place marker de lateralitate (D/S) și decubit marker în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar al flancurilor abdominale. Se plasează markerul de lateralitate (D/S) și markerul de decubit în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
-    - cupole diafragmatice fără estompare cinetică de mișcare
-    - ambele părți (bilateral) de abdomenul. If Abdomen este too wide:
-    - Side down when lichid este suspected (ensure entire dependent side este included în câmp colimat)
-    - Side up when aer liber este suspected
-    - Abdominal perete, flank structures, și cupole diafragmatice
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate în afara structurilor anatomice de interes
+    - cupole diafragmatice fără estompare cinetică
+    - ambele părți ale abdomenului (bilateral). Dacă abdomenul este prea lat:
+    - Partea situată dedesubt când se suspectează lichid (se asigură includerea întregii părți declive în câmpul colimat)
+    - Partea situată deasupra când se suspectează aer liber
+    - Peretele abdominal, structurile flancurilor și cupolele diafragmatice
     - Absența rotației anatomice (simetrie bilaterală perfectă)
     - Procesele spinoase centrate pe mijlocul corpurilor vertebrale lombare
     - Spinele ischiatice ale bazinului sunt perfect simetrice bilateral
     - Aripile oaselor iliace sunt perfect simetrice bilateral (absența rotației bazinului)
-    - Abdominal contents vizibil fără contrast media
+    - Conținutul abdominal vizibil fără substanță de contrast
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -239,7 +245,7 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    drept Incidență Decubit lateral este often requested sau poate fie required when pacientul cannot lie pe stâng side.
+    Incidența în decubit lateral drept este frecvent solicitată sau poate fi necesară când pacientul nu poate sta culcat pe partea stângă.
 
 
 ### 🖼️ Imagini
@@ -248,25 +254,25 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 219, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig1.png)
+![Merrill — pagina 219, imaginea 1](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 219, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 219, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 219, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 219, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 220, imaginea 3](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p220_fig3.png)
+![Merrill — pagina 219, imaginea 2](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p219_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 220, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 219, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 220, imaginea 3](../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-left-incidenta-decubit-lateral-p217-merrill/p220_fig3.png)
+
+<figcaption><strong>Merrill — pagina 220, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -283,70 +289,70 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Left Incidență 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 4. Abdomen, pagini PDF 217–220](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=217)
+- [Merrill’s Atlas, 4. Abdomen, pagini 217–220](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-în addition la evidențiind size și shape de ficat, splină, și rinichi, AP abdomen cu pacientul în stâng decubit poziție este most
-valuable pentru evidențiind aer liber și air-nivele hidroaerice when în ortostatism abdomen incidență cannot fie obtained (Fig. 4.16).
+Pe lângă evidențierea dimensiunilor și formei ficatului, splinei și rinichilor, radiografia AP a abdomenului cu pacientul în decubit lateral stâng este deosebit de
+utilă pentru evidențierea aerului liber și a nivelurilor hidroaerice când nu se poate obține o radiografie a abdomenului în ortostatism (Fig. 4.16).
 
-### collimation
+### colimare
 
 • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-de abdomenul flanks. Place marker de lateralitate (D/S) și decubit marker în collimated expunere field.
+al flancurilor abdominale. Se plasează markerul de lateralitate (D/S) și markerul de decubit în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat horizon̍ al și perpendicular pe midpoint de receptorul de imagine.
+• orientat orizontal și perpendicular pe centrul receptorului de imagine.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
-• cupole diafragmatice fără estompare cinetică de mișcare
-• ambele părți (bilateral) de abdomenul. If abdomen este too wide:
-• Side down when lichid este suspected (ensure entire dependent side este included în câmp colimat)
-• Side up when aer liber este suspected
-• Abdominal perete, flank structures, și cupole diafragmatice
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate în afara structurilor anatomice de interes
+• cupole diafragmatice fără estompare cinetică
+• ambele părți ale abdomenului (bilateral). Dacă abdomenul este prea lat:
+• Partea situată dedesubt când se suspectează lichid (se asigură includerea întregii părți declive în câmpul colimat)
+• Partea situată deasupra când se suspectează aer liber
+• Peretele abdominal, structurile flancurilor și cupolele diafragmatice
 • Absența rotației anatomice (simetrie bilaterală perfectă)
 • Procesele spinoase centrate pe mijlocul corpurilor vertebrale lombare
 • Spinele ischiatice ale bazinului sunt perfect simetrice bilateral
 • Aripile oaselor iliace sunt perfect simetrice bilateral (absența rotației bazinului)
-• Abdominal contents vizibil fără contrast media
+• Conținutul abdominal vizibil fără substanță de contrast
 
-### notes
+### note
 
-drept lateral decubit poziție este often requested sau poate fie required when pacientul cannot lie pe stâng side.
+Poziția în decubit lateral drept este frecvent solicitată sau poate fi necesară când pacientul nu poate sta culcat pe partea stângă.
 
 ### part_pos
 
-• se ajustează height de stativ vertical Bucky astfel încât axa longitudinală de receptorul de imagine este centrat pe planul mediosagital.
-• If abdomenul este too wide la include ambele flanks pe one imagine, adjust pacient și receptorul de imagine height la include side down when
-intraperitoneal lichid este suspected și la include side up when pneumoperitoneum este suspected.
-• se poziționează pacientul astfel încât level de crestele iliace este centrat pe receptorul de imagine. slightly higher centering point, 2 inches (5 cm) above creste iliace, poate fie necessary la ensure that cupole diafragmatice este included în imagine (Fig. 4.15).
-• se ajustează pacient la ensure that true poziție de profil (lateral) este attained.
+• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediosagital.
+• Dacă abdomenul este prea lat pentru a include ambele flancuri pe o singură imagine, se ajustează înălțimea pacientului și a receptorului de imagine pentru a include partea situată dedesubt când
+se suspectează lichid intraperitoneal și partea situată deasupra când se suspectează pneumoperitoneu.
+• Se poziționează pacientul astfel încât nivelul crestelor iliace să fie centrat pe receptorul de imagine. Poate fi necesar un punct de centrare puțin mai sus, la 2 țoli (5 cm) deasupra crestelor iliace, pentru a asigura includerea cupolelor diafragmatice în imagine (Fig. 4.15).
+• Se ajustează poziția pacientului pentru a obține o poziție de profil strict.
 
 ### patient_pos
 
-• If pacientul este too ill la stand, place him sau her în lateral recumbent poziție culcat pe radiolucent pad pe transportation cart.
-Use stâng lateral decubit poziție în most situations.
-• radiolucent pad este particularly important la ensure inclusion de entire dependent side when lichid demonstration este de primary
-concern.
-• When liber intraperitoneal air este suspected, Se instruiește pacientul să lie pe side pentru 5 minutes before expunere la allow air la rise la its
-highest level within abdomenul.
-• se poziționează pacientul’s brațe deasupra nivelului cupole diafragmatice so that they sunt nu projected over orice abdominal contents.
-• se flectează pacient’s genunchi slightly la provide stabilization.
-• Exercise care la ensure that pacientul does nu fall de cart; if cart este used, lock toate wheels securely în poziție.
+• Dacă pacientul este prea bolnav pentru a sta în picioare, se așază în decubit lateral pe un suport radiotransparent, pe căruciorul de transport.
+Se utilizează poziția în decubit lateral stâng în majoritatea situațiilor.
+• Suportul radiotransparent este deosebit de important pentru a asigura includerea întregii părți declive când evidențierea lichidului este obiectivul
+principal.
+• Când se suspectează aer intraperitoneal liber, se instruiește pacientul să stea culcat pe o parte timp de 5 minute înainte de expunere, pentru a permite aerului să se ridice la
+nivelul cel mai înalt din abdomen.
+• Se poziționează brațele pacientului deasupra nivelului cupolelor diafragmatice, astfel încât să nu se proiecteze peste conținutul abdominal.
+• Se flectează ușor genunchii pacientului pentru stabilizare.
+• Se acordă atenție pentru a preveni căderea pacientului de pe cărucior; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
-Compensating Filter
-pentru pacienți cu large abdomen, compensating filter improves imagine quality prin preventing overexposure de upper-side abdominal area.
+Filtru de compensare
+Pentru pacienții cu abdomen voluminos, filtrul de compensare îmbunătățește calitatea imaginii prin prevenirea supraexpunerii regiunii abdominale situate deasupra.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
+poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
 

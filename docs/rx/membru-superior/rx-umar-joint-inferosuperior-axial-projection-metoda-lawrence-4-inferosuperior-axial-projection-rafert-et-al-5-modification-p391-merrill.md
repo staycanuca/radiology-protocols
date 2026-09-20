@@ -10,22 +10,22 @@ centering: Metoda Lawrence Horizontally through axilla la region de AC articulat
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 393, imaginea 1
+- caption: Merrill — pagina 393, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig1.png
-- caption: Merrill — pagina PDF 393, imaginea 2
+- caption: Merrill — pagina 393, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig2.png
-- caption: Merrill — pagina PDF 394, imaginea 3
+- caption: Merrill — pagina 394, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p394_fig3.png
-- caption: Merrill — pagina PDF 395, imaginea 4
+- caption: Merrill — pagina 395, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig4.png
-- caption: Merrill — pagina PDF 395, imaginea 5
+- caption: Merrill — pagina 395, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig5.png
-- caption: Merrill — pagina PDF 396, imaginea 6
+- caption: Merrill — pagina 396, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p396_fig6.png
 last_updated: '2026-09-16'
@@ -164,8 +164,8 @@ source_sections:
     30 cm) grilă transversal, plasat în vertical orientation în contact cu superior
     surface de umăr.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 391–396
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=391
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 391–396
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator
@@ -257,49 +257,49 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 393, imaginea 1](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig1.png)
+![Merrill — pagina 393, imaginea 1](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 393, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 393, imaginea 2](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 393, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 393, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 394, imaginea 3](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p394_fig3.png)
+![Merrill — pagina 393, imaginea 2](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p393_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 394, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 395, imaginea 4](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 395, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 393, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 395, imaginea 5](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig5.png)
+![Merrill — pagina 394, imaginea 3](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p394_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 395, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 394, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 396, imaginea 6](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p396_fig6.png)
+![Merrill — pagina 395, imaginea 4](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 396, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 395, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 395, imaginea 5](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p395_fig5.png)
+
+<figcaption><strong>Merrill — pagina 395, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 396, imaginea 6](../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p396_fig6.png)
+
+<figcaption><strong>Merrill — pagina 396, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -316,7 +316,7 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 391–396](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=391)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 391–396](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

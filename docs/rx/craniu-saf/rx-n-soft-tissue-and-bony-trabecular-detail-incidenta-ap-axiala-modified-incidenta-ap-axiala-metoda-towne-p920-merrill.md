@@ -2,41 +2,46 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: orientat la enter glabelă approximately 1 inch (2.5 cm) above nazion la
-  un unghi de 30 grade caudal. If pacientul este unable la se flectează neck suficiently,
-  se ajustează linie infraorbitomeatală (LIOM) perpendicular cu receptorul de imagine
-  și se orientează raza centrală centrală 37 grade caudal. Se centrează receptorul
-  de imagine pe raza centrală.
+centering: Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm)
+  deasupra nazionului, la un unghi de 30 grade caudal. Dacă pacientul nu își poate
+  flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular
+  pe receptorul de imagine și se orientează raza centrală 37 grade caudal. Se centrează
+  receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 921, imaginea 1
+- caption: Merrill — pagina 921, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p921_fig1.png
-- caption: Merrill — pagina PDF 922, imaginea 2
+- caption: Merrill — pagina 922, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig2.png
-- caption: Merrill — pagina PDF 922, imaginea 3
+- caption: Merrill — pagina 922, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig3.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Poziție Șezândă-în ortostatism sau Decubit dorsal
-  poziție. Center MSP de corp la linia mediană grilă.; se ajustează pacient’s cap
-  so that MSP este perpendicular pe linia mediană grilă. se ajustează flexion de gâtul
-  astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul
-  de imagine (Figs. 11.128–11.130).
+position: Se așază pacientul în poziție șezândă, în ortostatism, sau în decubit dorsal.
+  Se centrează MSP al corpului pe linia mediană a grilei. Se ajustează capul pacientului
+  astfel încât MSP să fie perpendicular pe linia mediană a grilei. Se ajustează flexia
+  gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului
+  de imagine (Fig. 11.128–11.130).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n fără
-  overlap de zygomatic arches prin Mandibulă n Absența rotației anatomice (simetrie
-  bilaterală perfectă) sau tilt, evidențiat prin:'
-- simetric arches
-- Zygomatic arches projected lateral la ramuri mandibulare
-- MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi și bony detalii
+- 'Criterii radiologice de calitate a imaginii:
+
+  n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  clar față de anatomia de interes
+
+  n fără suprapunerea arcadelor zigomatice peste mandibulă
+
+  n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată
+  prin:'
+- arcuri simetrice
+- Arcurile zigomatice proiectate lateral față de ramurile mandibulare
+- MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi și detalii
   trabeculare osoase
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill
@@ -45,70 +50,66 @@ source_pages:
 - 921
 - 922
 source_sections:
-  anatomy: simetric AP axial incidență de ambele zygomatic arches este vizualizat.
-    arches trebuie să fie projected liber de superimposition (Fig. 11.131).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond skin shadow
-    de afected cheek, superiorly la tip de nasul, și
+  anatomy: incidență AP axială simetrică; ambele arcade zigomatice sunt vizualizate.
+    Arcadele trebuie să fie proiectate fără suprapunere (Fig. 11.131).
+  collimation: • Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra
+    cutanată a obrazului afectat, superior până la vârful nasului și inferior până
+    la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare
+    de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: '• Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm)
+    deasupra nazionului, la un unghi de 30 grade caudal.
 
-    inferiorly la gonion (unghiul mandibulei). expunere field trebuie să fie fără
-    larger than 6 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în
-    collimated
-
-    expunere field.'
-  cr: '• orientat la enter glabelă approximately 1 inch (2.5 cm) above nazion la un
-    unghi de 30 grade caudal.
-
-    • If pacientul este unable la se flectează neck suficiently, se ajustează linie
-    infraorbitomeatală (LIOM) perpendicular cu receptorul de imagine și se orientează
-    raza centrală centrală 37 grade
-
-    caudal.
+    • Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală
+    (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37
+    grade caudal.
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    n fără overlap de zygomatic arches prin mandible
+    n fără suprapunerea arcadelor zigomatice peste mandibulă
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-    prin:
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+    evidențiată prin:
 
-    • simetric arches
+    • arcade simetrice
 
-    • Zygomatic arches projected lateral la ramuri mandibulare
+    • arcadele zigomatice proiectate lateral față de ramurile mandibulare
 
-    • MSP de cap aliniat cu axa longitudinală de câmp colimat
+    • MSP al capului aliniat cu axa longitudinală a câmpului colimat
 
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• se ajustează pacient’s cap so that MSP este perpendicular pe linia
-    mediană grilă.
+    n părțile moi și detaliile osoase trabeculare'
+  part_pos: '• Se ajustează capul pacientului astfel încât MSP să fie perpendicular
+    pe linia mediană a grilei.
 
-    • se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular
-    pe plane de receptorul de imagine (Figs. 11.128–11.130).'
-  patient_pos: '• se așază pacientul în așezat pe scaun-în ortostatism sau decubit
-    dorsal.
+    • Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară
+    pe planul receptorului de imagine (Fig. 11.128–11.130).'
+  patient_pos: '• Se așază pacientul pe scaun, în ortostatism, sau în decubit dorsal.
 
-    • Center MSP de corp la linia mediană grilă.'
+    • Se centrează MSP al corpului pe linia mediană a grilei.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    (24 ×
 
-    30 cm) transversal.'
+    30 cm), transversal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 920–922
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=920
+- title: Merrill’s Atlas, 11. Cranium, pagini 920–922
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond skin shadow
-    de afected cheek, superiorly la tip de nasul, și inferiorly la gonion (unghiul
-    mandibulei). expunere field trebuie să fie fără larger than 6 × 10 inches (18
-    × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx n Soft tissue and bony trabecular detail — Incidență AP Axială — Modified
-  Incidență AP Axială (Metoda Towne) (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra
+    cutanată a obrazului afectat, superior până la vârful nasului și inferior până
+    la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare
+    de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență
+  AP axială — incidență AP axială modificată (metoda Towne) (Merrill)
 ---
-# Rx n Soft tissue and bony trabecular detail — Incidență AP Axială — Modified Incidență AP Axială (Metoda Towne) (Merrill)
+# Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență AP axială — incidență AP axială modificată (metoda Towne) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -141,8 +142,8 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență AP Axială �
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă-în ortostatism sau Decubit dorsal poziție. Center MSP de corp la linia mediană grilă.; se ajustează pacient’s cap so that MSP este perpendicular pe linia mediană grilă. se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine (Figs. 11.128–11.130).
-    - **Punct de Centrare Fascicul:** orientat la enter glabelă approximately 1 inch (2.5 cm) above nazion la un unghi de 30 grade caudal. If pacientul este unable la se flectează neck suficiently, se ajustează linie infraorbitomeatală (LIOM) perpendicular cu receptorul de imagine și se orientează raza centrală centrală 37 grade caudal. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Se așază pacientul în poziție șezândă, în ortostatism, sau în decubit dorsal. Se centrează MSP al corpului pe linia mediană a grilei. Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe linia mediană a grilei. Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.128–11.130).
+    - **Punct de Centrare Fascicul:** Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm) deasupra nazionului, la un unghi de 30 grade caudal. Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37 grade caudal. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -158,17 +159,20 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență AP Axială �
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond skin shadow de afected cheek, superiorly la tip de nasul, și inferiorly la gonion (unghiul mandibulei). expunere field trebuie să fie fără larger than 6 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra cutanată a obrazului afectat, superior până la vârful nasului și inferior până la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n fără overlap de zygomatic arches prin Mandibulă n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-    - simetric arches
-    - Zygomatic arches projected lateral la ramuri mandibulare
-    - MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n fără suprapunerea arcadelor zigomatice peste mandibulă
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - arcuri simetrice
+    - Arcurile zigomatice proiectate lateral față de ramurile mandibulare
+    - MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi și detalii trabeculare osoase
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -188,25 +192,25 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență AP Axială �
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 921, imaginea 1](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p921_fig1.png)
+![Merrill — pagina 921, imaginea 1](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p921_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 921, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 922, imaginea 2](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 922, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 921, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 922, imaginea 3](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig3.png)
+![Merrill — pagina 922, imaginea 2](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 922, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 922, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 922, imaginea 3](../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig3.png)
+
+<figcaption><strong>Merrill — pagina 922, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -223,54 +227,51 @@ title: Rx n Soft tissue and bony trabecular detail — Incidență AP Axială �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 920–922](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=920)
+- [Merrill’s Atlas, 11. Cranium, pagini 920–922](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-simetric AP axial incidență de ambele zygomatic arches este vizualizat. arches trebuie să fie projected liber de superimposition (Fig. 11.131).
+incidență AP axială simetrică; ambele arcade zigomatice sunt vizualizate. Arcadele trebuie să fie proiectate fără suprapunere (Fig. 11.131).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond skin shadow de afected cheek, superiorly la tip de nasul, și
-inferiorly la gonion (unghiul mandibulei). expunere field trebuie să fie fără larger than 6 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated
-expunere field.
+• Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra cutanată a obrazului afectat, superior până la vârful nasului și inferior până la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• orientat la enter glabelă approximately 1 inch (2.5 cm) above nazion la un unghi de 30 grade caudal.
-• If pacientul este unable la se flectează neck suficiently, se ajustează linie infraorbitomeatală (LIOM) perpendicular cu receptorul de imagine și se orientează raza centrală centrală 37 grade
-caudal.
+• Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm) deasupra nazionului, la un unghi de 30 grade caudal.
+• Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37 grade caudal.
 • Se centrează receptorul de imagine pe raza centrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n fără overlap de zygomatic arches prin mandible
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-• simetric arches
-• Zygomatic arches projected lateral la ramuri mandibulare
-• MSP de cap aliniat cu axa longitudinală de câmp colimat
-n părți moi și bony detalii trabeculare osoase
+Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n fără suprapunerea arcadelor zigomatice peste mandibulă
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+• arcade simetrice
+• arcadele zigomatice proiectate lateral față de ramurile mandibulare
+• MSP al capului aliniat cu axa longitudinală a câmpului colimat
+n părțile moi și detaliile osoase trabeculare
 
 ### part_pos
 
-• se ajustează pacient’s cap so that MSP este perpendicular pe linia mediană grilă.
-• se ajustează flexion de gâtul astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine (Figs. 11.128–11.130).
+• Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe linia mediană a grilei.
+• Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.128–11.130).
 
 ### patient_pos
 
-• se așază pacientul în așezat pe scaun-în ortostatism sau decubit dorsal.
-• Center MSP de corp la linia mediană grilă.
+• Se așază pacientul pe scaun, în ortostatism, sau în decubit dorsal.
+• Se centrează MSP al corpului pe linia mediană a grilei.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) transversal.
+Poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
+30 cm), transversal.
 

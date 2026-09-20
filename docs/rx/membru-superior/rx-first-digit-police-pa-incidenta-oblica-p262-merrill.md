@@ -7,19 +7,19 @@ centering: perpendicular pe articulații metacarpofalangiene (MCF) pentru AP, PA
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 263, imaginea 1
+- caption: Merrill — pagina 263, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p263_fig1.png
-- caption: Merrill — pagina PDF 264, imaginea 2
+- caption: Merrill — pagina 264, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig2.png
-- caption: Merrill — pagina PDF 264, imaginea 3
+- caption: Merrill — pagina 264, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig3.png
-- caption: Merrill — pagina PDF 265, imaginea 4
+- caption: Merrill — pagina 265, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p265_fig4.png
-- caption: Merrill — pagina PDF 266, imaginea 5
+- caption: Merrill — pagina 266, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p266_fig5.png
 last_updated: '2026-09-16'
@@ -154,8 +154,8 @@ source_sections:
   patient_pos: • se așază pacientul pe scaun la end de masa radiologică, cu palm de
     mână resting pe receptorul de imagine.
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 262–266
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=262
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 262–266
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
@@ -262,41 +262,41 @@ title: Rx First Digit (Police) — Oblică Postero-Anterioară (PA) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 263, imaginea 1](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p263_fig1.png)
+![Merrill — pagina 263, imaginea 1](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p263_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 263, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 264, imaginea 2](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 264, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 263, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 264, imaginea 3](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig3.png)
+![Merrill — pagina 264, imaginea 2](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 264, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 265, imaginea 4](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p265_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 265, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 264, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 266, imaginea 5](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p266_fig5.png)
+![Merrill — pagina 264, imaginea 3](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p264_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 266, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 264, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 265, imaginea 4](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p265_fig4.png)
+
+<figcaption><strong>Merrill — pagina 265, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 266, imaginea 5](../../assets/images/protocols/merrill/rx-first-digit-police-pa-incidenta-oblica-p262-merrill/p266_fig5.png)
+
+<figcaption><strong>Merrill — pagina 266, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -313,7 +313,7 @@ title: Rx First Digit (Police) — Oblică Postero-Anterioară (PA) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 262–266](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=262)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 262–266](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

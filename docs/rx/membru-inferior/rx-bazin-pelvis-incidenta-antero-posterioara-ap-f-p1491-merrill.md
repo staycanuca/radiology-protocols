@@ -8,7 +8,7 @@ centering: perpendicular pe midpoint de grila, entering planul mediosagital. raz
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1492, imaginea 1
+- caption: Merrill — pagina 1492, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-incidenta-antero-posterioara-ap-f-p1491-merrill/p1492_fig1.png
 last_updated: '2026-09-16'
@@ -59,8 +59,8 @@ source_sections:
   tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu grilă
     transversal.
 sources:
-- title: Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1491–1492
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1491
+- title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1491–1492
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
@@ -143,9 +143,9 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1492, imaginea 1](../../assets/images/protocols/merrill/rx-bazin-pelvis-incidenta-antero-posterioara-ap-f-p1491-merrill/p1492_fig1.png)
+![Merrill — pagina 1492, imaginea 1](../../assets/images/protocols/merrill/rx-bazin-pelvis-incidenta-antero-posterioara-ap-f-p1491-merrill/p1492_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1492, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1492, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -162,7 +162,7 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 20. Mobile Radiography, pagini PDF 1491–1492](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1491)
+- [Merrill’s Atlas, 20. Mobile Radiography, pagini 1491–1492](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

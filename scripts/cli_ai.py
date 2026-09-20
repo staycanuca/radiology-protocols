@@ -91,6 +91,9 @@ def run_process(command, prompt, directory, env, timeout=240):
             raise ValueError('Sesiunea AI a depășit timpul disponibil. Reîncearcă sau verifică autentificarea CLI.')
         if process.returncode:
             # CLI errors may contain auth URLs or credentials: never return the raw output.
+            if any(marker in (stderr + stdout).lower() for marker in (
+                    'usage limit', 'rate limit', 'usage_limit_reached', 'insufficient_quota')):
+                raise ValueError('Sesiunea AI a atins limita de utilizare. Progresul salvat poate fi reluat după resetarea limitei contului.')
             if 'UNSUPPORTED_CLIENT' in stderr or 'This client is no longer supported' in stderr:
                 raise ValueError('Google refuză acest client Gemini CLI pentru contul curent (UNSUPPORTED_CLIENT). Furnizorul indică migrarea către Antigravity. Poți folosi ChatGPT OAuth; reconectarea Google singură nu elimină restricția.')
             raise ValueError('Sesiunea OAuth nu a putut finaliza cererea. Folosește „Conectează” și „Verifică conexiunea”; verifică și limitele contului.')
@@ -99,7 +102,7 @@ def run_process(command, prompt, directory, env, timeout=240):
         SLOTS.release()
 
 
-def run_cli(provider, prompt, research=True):
+def run_cli(provider, prompt, research=True, *, model=None, reasoning_effort=None):
     name = 'codex' if provider == 'codex_oauth' else resolve_gemini_cli()
     command = cli_command(name)
     env = oauth_environment()
@@ -114,9 +117,13 @@ def run_cli(provider, prompt, research=True):
             if research:
                 from field_ai import DOMAINS
                 command += ['-c', 'tools.web_search.allowed_domains=' + json.dumps(list(DOMAINS))]
-            model = os.environ.get('FIELD_AI_CODEX_MODEL')
-            if model:
-                command += ['--model', model]
+            selected_model = model or os.environ.get('FIELD_AI_CODEX_MODEL')
+            if selected_model:
+                command += ['--model', selected_model]
+            if reasoning_effort:
+                if reasoning_effort not in ('low', 'medium', 'high', 'xhigh', 'max'):
+                    raise ValueError('Nivel de raționament necunoscut.')
+                command += ['-c', f'model_reasoning_effort="{reasoning_effort}"']
             command += ['-']
         elif name == 'agy':
             command += ['--input-format', 'text', '--output-format', 'json', '--disable-slash-commands']

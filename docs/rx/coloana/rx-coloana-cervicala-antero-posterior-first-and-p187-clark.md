@@ -3,26 +3,27 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• A 5–15-grade cranial angulation este employed, astfel încât inferior
-  margine de simfiză menti este superimposed over occipital bone.
+centering: '• Se utilizează o angulație cranială de 5–15 grade, astfel încât marginea
+  inferioară a simfizei mentoniere să se suprapună peste osul occipital.
 
-  • fascicul este centred în linia mediană spre point just below prominence de cartilaj
-  tiroid (mărul lui Adam) through fifth cervical vertebra.
+  • Fasciculul este centrat pe linia mediană spre un punct situat imediat sub proeminența
+  cartilajului tiroid (mărul lui Adam), trecând prin a cincea vertebră cervicală.
 
   172'
 clinical_indications:
-- unifacet luxație articulară poate fie diagnosed prin loss de continuity de line
-  de procese spinoase (sau line bisecting bifid processes). This este made more difficult
-  if pacientul este rotit sau imagine este underexposed.
+- Luxația articulară unifațetară poate fi diagnosticată prin pierderea continuității
+  liniei proceselor spinoase (sau a liniei care împarte în două procesele bifide).
+  Acest lucru este mai dificil dacă pacientul este rotit sau imaginea este subexpusă.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_2.jpeg
-- caption: incidență has advantage de evidențiind disc spaces more
+- caption: incidență are avantajul de a evidenția mai bine spațiile discale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_3.jpeg
@@ -36,45 +37,50 @@ images:
   url: assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'decrease în pacient dose poate fie obtained prin nu using grilă.
+notes: 'Se poate obține o reducere a dozei administrate pacientului prin neutilizarea
+  grilei.
 
-  This will produce imagine de lower contrast due la increased scatter incident pe
-  film radiologic, but it trebuie să still fie de diagnostic quality. choice de whether
-  la use grilă will vary according la local needs și preferences.
+  Aceasta va produce o imagine cu un contrast mai scăzut, din cauza cantității crescute
+  de radiație împrăștiată incidentă pe filmul radiologic, dar imaginea trebuie să
+  aibă în continuare o calitate diagnostică. Alegerea de a utiliza sau nu grila va
+  varia în funcție de necesitățile și preferințele locale.
 
 
-  • Work este currently being undertaken la investigate advantages de performing this
-  incidență postero-anteriorly. positioning este similar la Antero-posterior (AP)
-  incidență, except that pacientul faces caseta și a 15-grade caudal angulation este
-  applied la tubul. Indications suggest that this incidență has advantage de evidențiind
-  disc spaces more clearly și substantially reducing dose la thyroid.
+  • În prezent se desfășoară cercetări pentru investigarea avantajelor realizării
+  acestei incidențe în sens postero-anterior. Poziționarea este similară celei pentru
+  incidența antero-posterioară (AP), cu excepția faptului că pacientul stă cu fața
+  spre casetă, iar tubului i se aplică o angulație caudală de 15 grade. Datele sugerează
+  că această incidență are avantajul de a evidenția mai clar spațiile discale și de
+  a reduce substanțial doza la nivelul tiroidei.
 
-  • moving jaw technique uses auto-Tomografie Liniară Convențională la diffuse imagine
-  de Mandibulă, thus evidențiind upper vertebra more clearly. pacientul’s cap trebuie
-  să fie imobilizat well, și expunere time that este long enough la allow jaw la open
-  și close several times trebuie să fie used.
+  • Tehnica mandibulei în mișcare utilizează autotomografia liniară convențională
+  pentru a estompa imaginea mandibulei, evidențiind astfel mai clar vertebra superioară.
+  Capul pacientului trebuie să fie bine imobilizat și trebuie utilizat un timp de
+  expunere suficient de lung pentru a permite deschiderea și închiderea mandibulei
+  de mai multe ori.
 
-  • Linear Tomografie Liniară Convențională has also been used la evidențiază cervical
-  vertebra obscured prin Mandibulă și Masiv Facial (Oase ale Feței).
+  • Tomografia liniară convențională a fost utilizată și pentru evidențierea vertebrei
+  cervicale mascate de mandibulă și de masivul facial (oasele feței).
 
-  C3 C4 C5 C6 C7 Tv1 Spinous process de C7 1st rib Superimposed articular processes
-  Air-filled trachea Occipital bone Poor quality imagine cu Mandibulă obscuring upper
-  cervical coloană vertebrală Moving jaw technique Tomogram'
-position: '• pacientul este culcat Decubit dorsal pe masa radiologică sau, if Ortostatism
-  positioning este preferred, sits sau stands cu posterior aspect de capul și umeri
-  pe / sprijinit de stativ vertical Bucky.
+  C3 C4 C5 C6 C7 Tv1 Procesul spinos al C7 Coasta 1 Procese articulare suprapuse Trahee
+  plină cu aer Os occipital Imagine de calitate slabă, cu mandibula mascând coloana
+  cervicală superioară Tehnica mandibulei în mișcare Tomogramă'
+position: '• Pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă
+  se preferă poziționarea verticală, stă așezat ori în ortostatism, cu partea posterioară
+  a capului și a umerilor sprijinită de stativul vertical Bucky.
 
-  • planul mediosagital este ajustat la fie la drept-angles la caseta și la coincide
-  cu linia mediană mesei sau Bucky.
+  • Planul mediosagital este ajustat astfel încât să fie în unghi drept față de casetă
+  și să coincidă cu linia mediană a mesei sau a sistemului Bucky.
 
-  • gâtul este extins (if pacientul’s condition will allow) astfel încât lower part
-  de jaw este cleared de la upper cervical vertebra.
+  • Gâtul este extins (dacă starea pacientului permite), astfel încât partea inferioară
+  a mandibulei să nu se mai suprapună peste vertebra cervicală superioară.
 
-  • caseta este poziționat în Bucky la coincide cu raza centrală centrală. tăvița
-  Bucky will require some cranial displacement if tubul este înclinat.'
+  • Caseta este poziționată în sistemul Bucky pentru a coincide cu raza centrală.
+  Tăvița Bucky va necesita o anumită deplasare cranială dacă tubul este înclinat.'
 protection:
-- Local protocols may state that this projection is not routinely used for degenerative
-  disease. Antero-Posterior (AP) third to seventh vertebrae
+- Protocoalele locale pot preciza că această incidență nu este utilizată de rutină
+  pentru boala degenerativă. Antero-posterior (AP), vertebrele de la a treia până
+  la a șaptea
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -82,24 +88,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: Failure la evidențiază upper vertebra: increase în tubul
-  angle sau raising bărbia trebuie să provide solution.'
+- 'Erori de evitat / remedii: Neevidențierea vertebrei superioare: mărirea unghiului
+  tubului sau ridicarea bărbiei ar trebui să rezolve problema.'
 sid_dff: 100 cm
 slug: rx-coloana-cervicala-antero-posterior-first-and-p187-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 187
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=187
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Cervicală Antero-Posterior (AP) - first and
+  mas: Conform AEC / grosimii anatomice
+title: Rx Coloană Cervicală Antero-Posterior (AP) - prima și
 ---
-# Rx Coloană Cervicală Antero-Posterior (AP) - first and
+# Rx Coloană Cervicală Antero-Posterior (AP) - prima și
 
 
 <div class="rx-meta-bar">
@@ -118,7 +124,7 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - first and
 
     === "Indicații Clinice"
 
-        - unifacet luxație articulară poate fie diagnosed prin loss de continuity de line de procese spinoase (sau line bisecting bifid processes). This este made more difficult if pacientul este rotit sau imagine este underexposed.
+        - Luxația articulară unifațetară poate fi diagnosticată prin pierderea continuității liniei proceselor spinoase (sau a liniei care împarte în două procesele bifide). Acest lucru este mai dificil dacă pacientul este rotit sau imaginea este subexpusă.
 
     === "Ghid Național IRIS"
 
@@ -132,12 +138,12 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - first and
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe masa radiologică sau, if Ortostatism positioning este preferred, sits sau stands cu posterior aspect de capul și umeri pe / sprijinit de stativ vertical Bucky.
-• planul mediosagital este ajustat la fie la drept-angles la caseta și la coincide cu linia mediană mesei sau Bucky.
-• gâtul este extins (if pacientul’s condition will allow) astfel încât lower part de jaw este cleared de la upper cervical vertebra.
-• caseta este poziționat în Bucky la coincide cu raza centrală centrală. tăvița Bucky will require some cranial displacement if tubul este înclinat.
-    - **Punct de Centrare Fascicul:** • A 5–15-grade cranial angulation este employed, astfel încât inferior margine de simfiză menti este superimposed over occipital bone.
-• fascicul este centred în linia mediană spre point just below prominence de cartilaj tiroid (mărul lui Adam) through fifth cervical vertebra.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă se preferă poziționarea verticală, stă așezat ori în ortostatism, cu partea posterioară a capului și a umerilor sprijinită de stativul vertical Bucky.
+• Planul mediosagital este ajustat astfel încât să fie în unghi drept față de casetă și să coincidă cu linia mediană a mesei sau a sistemului Bucky.
+• Gâtul este extins (dacă starea pacientului permite), astfel încât partea inferioară a mandibulei să nu se mai suprapună peste vertebra cervicală superioară.
+• Caseta este poziționată în sistemul Bucky pentru a coincide cu raza centrală. Tăvița Bucky va necesita o anumită deplasare cranială dacă tubul este înclinat.
+    - **Punct de Centrare Fascicul:** • Se utilizează o angulație cranială de 5–15 grade, astfel încât marginea inferioară a simfizei mentoniere să se suprapună peste osul occipital.
+• Fasciculul este centrat pe linia mediană spre un punct situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), trecând prin a cincea vertebră cervicală.
 172
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -149,25 +155,25 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - first and
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: Failure la evidențiază upper vertebra: increase în tubul angle sau raising bărbia trebuie să provide solution.
+    - Erori de evitat / remedii: Neevidențierea vertebrei superioare: mărirea unghiului tubului sau ridicarea bărbiei ar trebui să rezolve problema.
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Local protocols may state that this projection is not routinely used for degenerative disease. Antero-Posterior (AP) third to seventh vertebrae
+    - Protocoalele locale pot preciza că această incidență nu este utilizată de rutină pentru boala degenerativă. Antero-posterior (AP), vertebrele de la a treia până la a șaptea
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
@@ -175,13 +181,13 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - first and
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    decrease în pacient dose poate fie obtained prin nu using grilă.
-This will produce imagine de lower contrast due la increased scatter incident pe film radiologic, but it trebuie să still fie de diagnostic quality. choice de whether la use grilă will vary according la local needs și preferences.
+    Se poate obține o reducere a dozei administrate pacientului prin neutilizarea grilei.
+Aceasta va produce o imagine cu un contrast mai scăzut, din cauza cantității crescute de radiație împrăștiată incidentă pe filmul radiologic, dar imaginea trebuie să aibă în continuare o calitate diagnostică. Alegerea de a utiliza sau nu grila va varia în funcție de necesitățile și preferințele locale.
 
-• Work este currently being undertaken la investigate advantages de performing this incidență postero-anteriorly. positioning este similar la Antero-posterior (AP) incidență, except that pacientul faces caseta și a 15-grade caudal angulation este applied la tubul. Indications suggest that this incidență has advantage de evidențiind disc spaces more clearly și substantially reducing dose la thyroid.
-• moving jaw technique uses auto-Tomografie Liniară Convențională la diffuse imagine de Mandibulă, thus evidențiind upper vertebra more clearly. pacientul’s cap trebuie să fie imobilizat well, și expunere time that este long enough la allow jaw la open și close several times trebuie să fie used.
-• Linear Tomografie Liniară Convențională has also been used la evidențiază cervical vertebra obscured prin Mandibulă și Masiv Facial (Oase ale Feței).
-C3 C4 C5 C6 C7 Tv1 Spinous process de C7 1st rib Superimposed articular processes Air-filled trachea Occipital bone Poor quality imagine cu Mandibulă obscuring upper cervical coloană vertebrală Moving jaw technique Tomogram
+• În prezent se desfășoară cercetări pentru investigarea avantajelor realizării acestei incidențe în sens postero-anterior. Poziționarea este similară celei pentru incidența antero-posterioară (AP), cu excepția faptului că pacientul stă cu fața spre casetă, iar tubului i se aplică o angulație caudală de 15 grade. Datele sugerează că această incidență are avantajul de a evidenția mai clar spațiile discale și de a reduce substanțial doza la nivelul tiroidei.
+• Tehnica mandibulei în mișcare utilizează autotomografia liniară convențională pentru a estompa imaginea mandibulei, evidențiind astfel mai clar vertebra superioară. Capul pacientului trebuie să fie bine imobilizat și trebuie utilizat un timp de expunere suficient de lung pentru a permite deschiderea și închiderea mandibulei de mai multe ori.
+• Tomografia liniară convențională a fost utilizată și pentru evidențierea vertebrei cervicale mascate de mandibulă și de masivul facial (oasele feței).
+C3 C4 C5 C6 C7 Tv1 Procesul spinos al C7 Coasta 1 Procese articulare suprapuse Trahee plină cu aer Os occipital Imagine de calitate slabă, cu mandibula mascând coloana cervicală superioară Tehnica mandibulei în mișcare Tomogramă
 
 
 ### 🖼️ Imagini
@@ -192,7 +198,7 @@ C3 C4 C5 C6 C7 Tv1 Spinous process de C7 1st rib Superimposed articular processe
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -206,9 +212,9 @@ C3 C4 C5 C6 C7 Tv1 Spinous process de C7 1st rib Superimposed articular processe
 
 <figure class="protocol-image-card" markdown>
 
-![incidență has advantage de evidențiind disc spaces more](../../assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_3.jpeg)
+![incidență are avantajul de a evidenția mai bine spațiile discale](../../assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_3.jpeg)
 
-<figcaption><strong>incidență has advantage de evidențiind disc spaces more</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>incidență are avantajul de a evidenția mai bine spațiile discale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -241,4 +247,4 @@ C3 C4 C5 C6 C7 Tv1 Spinous process de C7 1st rib Superimposed articular processe
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 187](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=187)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 187](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

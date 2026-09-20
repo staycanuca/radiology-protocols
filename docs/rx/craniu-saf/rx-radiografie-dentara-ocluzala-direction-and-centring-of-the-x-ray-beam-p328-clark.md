@@ -3,43 +3,46 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• X-ray tube este poziționat 2 cm below și behind angle de Mandibulă.
+centering: '• Tubul radiogen este poziționat la 2 cm sub și posterior de unghiul mandibulei.
 
-  • centring point este angle de Mandibulă cu upward angle (cranial) la plane de film
-  radiologic de 115 grade.
+  • Punctul de centrare este unghiul mandibulei, cu un unghi ascendent (cranial) față
+  de planul filmului radiologic de 115 grade.
 
-  • It este important la ensure that fascicul este paralel cu lingual plate de Mandibulă.
+  • Este important să se asigure că fasciculul este paralel cu lama linguală a mandibulei.
 
-  Alternative technique Elderly sau short-necked pacienți poate fie difficult la imagine
-  cu this technique, but effective modification has been devised (Semple și Gibb,
-  1982):
+  Tehnică alternativă La pacienții vârstnici sau cu gât scurt, poate fi dificilă obținerea
+  imaginii prin această tehnică, dar a fost concepută o modificare eficientă (Semple
+  și Gibb, 1982):
 
-  • pacientul este așezat pe scaun adjacent la flat surface (i.e. table sau work surface).
-  cu film radiologic poziționat intra-orally, capul este tipped over astfel încât
-  forehead și nose sunt în contact cu masa de examinare, și capul este rotit cu partea
-  afectată 20 grade away de la masa de examinare.
+  • Pacientul este așezat pe un scaun adiacent unei suprafețe plane (de exemplu, o
+  masă sau o suprafață de lucru). Cu filmul radiologic poziționat intraoral, capul
+  este înclinat astfel încât fruntea și nasul să fie în contact cu masa de examinare,
+  iar capul este rotit cu partea afectată la 20 grade distanță de masa de examinare.
 
-  • X-ray tube este poziționat above și behind pacientul’s Umăr. Use identical centring
-  points ca detailed above, cu tubul poziție 25 grade de la vertical.
+  • Tubul radiogen este poziționat deasupra și posterior de umărul pacientului. Se
+  utilizează aceleași puncte de centrare ca cele descrise mai sus, cu tubul înclinat
+  la 25 grade față de verticală.
 
-  Modifications de technique Using părți moi expunere, this incidență este employed
-  primarily la detect radio-opaque litiază urinară / Litiază urinară / calculi radio-opaci
-  radiopaci în proximal regions de submandibular duct ca it crosses liber edge de
-  mylohyoid muscle. This modification este also referred la ca Oblică Posterioară
-  occlusal și Postero-anterior (PA) lower occlusal.
+  Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este
+  utilizată în principal pentru detectarea litiazei urinare radioopace / litiazei
+  urinare / calculilor radioopaci în regiunile proximale ale canalului submandibular,
+  acolo unde acesta traversează marginea liberă a mușchiului milohioidian. Această
+  modificare este denumită și incidență ocluzală oblică posterioară și ocluzală inferioară
+  postero-anterioară (PA).
 
-  Lower Oblică occlusal Synonym: Oblică occlusal.
+  Ocluzală oblică inferioară Sinonim: ocluzală oblică.
 
-  This incidență evidențiază soft tissues de middle și posterior aspects de floor
-  de mouth.'
+  Această incidență evidențiază țesuturile moi din aspectele mijlociu și posterior
+  ale planșeului bucal.'
 clinical_indications:
-- Evaluare radiografică regiunii Radiografie Dentară Ocluzală (Direction și centring
-  de X - ray fascicul).
+- Evaluarea radiografică a regiunii Radiografie dentară ocluzală (direcția și centrarea
+  fasciculului de raze X).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Radiografie Dentară Ocluzală
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie dentară ocluzală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-direction-and-centring-of-the-x-ray-beam-p328-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -55,27 +58,29 @@ notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-op
 position: '• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul
   mediosagital este vertical, iar planul ocluzal este orizontal.
 
-  • occlusal film radiologic este plasat flat în pacientul’s mouth pe side de interest.
+  • Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
 
-  • film radiologic lies pe occlusal surfaces de lower teeth, cu tubul side de film
-  radiologic facing floor de mouth. convention pentru positioning film radiologic
-  este that axa longitudinală de film radiologic lies antero-posteriorly în oral cavity
-  (i.e. paralel cu plan sagital).
+  • Filmul radiologic se sprijină pe suprafețele ocluzale ale dinților inferiori,
+  cu partea filmului radiologic orientată spre planșeul bucal. Convenția pentru poziționarea
+  filmului radiologic este ca axa longitudinală a filmului radiologic să fie orientată
+  antero-posterior în cavitatea bucală (adică paralel cu planul sagital).
 
-  • edge de film radiologic adjacent la cheek trebuie să extend 1cm Profil (lateral)
-  la buccal surfaces de posterior teeth la fie imaged.
+  • Marginea filmului radiologic adiacentă obrazului trebuie să se extindă 1cm lateral
+  față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
 
-  • film radiologic trebuie să fie poziționat ca far back ca pacientul will tolerate
-  și pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
+  • Filmul radiologic trebuie poziționat cât mai posterior posibil, atât cât tolerează
+  pacientul, iar pacientul trebuie să muște ușor pentru a evita urmele de presiune
+  pe filmul radiologic.
 
-  • operator then supports pacientul’s cap și rotates it away de la side de interest
-  și, simultaneously, elevates bărbia.
+  • Operatorul susține apoi capul pacientului și îl rotește în partea opusă părții
+  de interes și, simultan, ridică bărbia.
 
-  • This rotație și elevation allows X-ray tube la fie poziționat below angle de Mandibulă.
+  • Această rotație și ridicare permit poziționarea tubului radiogen sub unghiul mandibulei.
 
-  example de lower Oblică occlusal Positioning de pacientul și X-ray tube pentru lower
-  Oblică occlusal de Mandibulă Alternative positioning de pacientul și X-ray tube
-  pentru lower Oblică occlusal de Mandibulă Oblică occlusal de Mandibulă'
+  Exemplu de ocluzală oblică inferioară Poziționarea pacientului și a tubului radiogen
+  pentru ocluzala oblică inferioară a mandibulei Poziționarea alternativă a pacientului
+  și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Ocluzală oblică
+  a mandibulei'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -84,7 +89,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+- Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -92,18 +97,19 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-ocluzala-direction-and-centring-of-the-x-ray-beam-p328-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 328
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=328
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Ocluzală Direction and centring of the X - ray beam
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie dentară ocluzală Direcția și centrarea fasciculului de raze
+  X
 ---
-# Rx Radiografie Dentară Ocluzală Direction and centring of the X - ray beam
+# Rx Radiografie dentară ocluzală Direcția și centrarea fasciculului de raze X
 
 
 <div class="rx-meta-bar">
@@ -122,7 +128,7 @@ title: Rx Radiografie Dentară Ocluzală Direction and centring of the X - ray b
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Radiografie Dentară Ocluzală (Direction și centring de X - ray fascicul).
+        - Evaluarea radiografică a regiunii Radiografie dentară ocluzală (direcția și centrarea fasciculului de raze X).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -139,22 +145,22 @@ title: Rx Radiografie Dentară Ocluzală Direction and centring of the X - ray b
     ---
 
     - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• occlusal film radiologic este plasat flat în pacientul’s mouth pe side de interest.
-• film radiologic lies pe occlusal surfaces de lower teeth, cu tubul side de film radiologic facing floor de mouth. convention pentru positioning film radiologic este that axa longitudinală de film radiologic lies antero-posteriorly în oral cavity (i.e. paralel cu plan sagital).
-• edge de film radiologic adjacent la cheek trebuie să extend 1cm Profil (lateral) la buccal surfaces de posterior teeth la fie imaged.
-• film radiologic trebuie să fie poziționat ca far back ca pacientul will tolerate și pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
-• operator then supports pacientul’s cap și rotates it away de la side de interest și, simultaneously, elevates bărbia.
-• This rotație și elevation allows X-ray tube la fie poziționat below angle de Mandibulă.
-example de lower Oblică occlusal Positioning de pacientul și X-ray tube pentru lower Oblică occlusal de Mandibulă Alternative positioning de pacientul și X-ray tube pentru lower Oblică occlusal de Mandibulă Oblică occlusal de Mandibulă
-    - **Punct de Centrare Fascicul:** • X-ray tube este poziționat 2 cm below și behind angle de Mandibulă.
-• centring point este angle de Mandibulă cu upward angle (cranial) la plane de film radiologic de 115 grade.
-• It este important la ensure that fascicul este paralel cu lingual plate de Mandibulă.
-Alternative technique Elderly sau short-necked pacienți poate fie difficult la imagine cu this technique, but effective modification has been devised (Semple și Gibb, 1982):
-• pacientul este așezat pe scaun adjacent la flat surface (i.e. table sau work surface). cu film radiologic poziționat intra-orally, capul este tipped over astfel încât forehead și nose sunt în contact cu masa de examinare, și capul este rotit cu partea afectată 20 grade away de la masa de examinare.
-• X-ray tube este poziționat above și behind pacientul’s Umăr. Use identical centring points ca detailed above, cu tubul poziție 25 grade de la vertical.
-Modifications de technique Using părți moi expunere, this incidență este employed primarily la detect radio-opaque litiază urinară / Litiază urinară / calculi radio-opaci radiopaci în proximal regions de submandibular duct ca it crosses liber edge de mylohyoid muscle. This modification este also referred la ca Oblică Posterioară occlusal și Postero-anterior (PA) lower occlusal.
-Lower Oblică occlusal Synonym: Oblică occlusal.
-This incidență evidențiază soft tissues de middle și posterior aspects de floor de mouth.
+• Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
+• Filmul radiologic se sprijină pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre planșeul bucal. Convenția pentru poziționarea filmului radiologic este ca axa longitudinală a filmului radiologic să fie orientată antero-posterior în cavitatea bucală (adică paralel cu planul sagital).
+• Marginea filmului radiologic adiacentă obrazului trebuie să se extindă 1cm lateral față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
+• Filmul radiologic trebuie poziționat cât mai posterior posibil, atât cât tolerează pacientul, iar pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+• Operatorul susține apoi capul pacientului și îl rotește în partea opusă părții de interes și, simultan, ridică bărbia.
+• Această rotație și ridicare permit poziționarea tubului radiogen sub unghiul mandibulei.
+Exemplu de ocluzală oblică inferioară Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Poziționarea alternativă a pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Ocluzală oblică a mandibulei
+    - **Punct de Centrare Fascicul:** • Tubul radiogen este poziționat la 2 cm sub și posterior de unghiul mandibulei.
+• Punctul de centrare este unghiul mandibulei, cu un unghi ascendent (cranial) față de planul filmului radiologic de 115 grade.
+• Este important să se asigure că fasciculul este paralel cu lama linguală a mandibulei.
+Tehnică alternativă La pacienții vârstnici sau cu gât scurt, poate fi dificilă obținerea imaginii prin această tehnică, dar a fost concepută o modificare eficientă (Semple și Gibb, 1982):
+• Pacientul este așezat pe un scaun adiacent unei suprafețe plane (de exemplu, o masă sau o suprafață de lucru). Cu filmul radiologic poziționat intraoral, capul este înclinat astfel încât fruntea și nasul să fie în contact cu masa de examinare, iar capul este rotit cu partea afectată la 20 grade distanță de masa de examinare.
+• Tubul radiogen este poziționat deasupra și posterior de umărul pacientului. Se utilizează aceleași puncte de centrare ca cele descrise mai sus, cu tubul înclinat la 25 grade față de verticală.
+Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este utilizată în principal pentru detectarea litiazei urinare radioopace / litiazei urinare / calculilor radioopaci în regiunile proximale ale canalului submandibular, acolo unde acesta traversează marginea liberă a mușchiului milohioidian. Această modificare este denumită și incidență ocluzală oblică posterioară și ocluzală inferioară postero-anterioară (PA).
+Ocluzală oblică inferioară Sinonim: ocluzală oblică.
+Această incidență evidențiază țesuturile moi din aspectele mijlociu și posterior ale planșeului bucal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -165,19 +171,19 @@ This incidență evidențiază soft tissues de middle și posterior aspects de f
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+    - Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -201,9 +207,9 @@ This incidență evidențiază soft tissues de middle și posterior aspects de f
 
 <figure class="protocol-image-card" markdown>
 
-![Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-direction-and-centring-of-the-x-ray-beam-p328-clark/fig_1.jpeg)
+![Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-direction-and-centring-of-the-x-ray-beam-p328-clark/fig_1.jpeg)
 
-<figcaption><strong>Radiografie Dentară Ocluzală</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie dentară ocluzală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -236,4 +242,4 @@ This incidență evidențiază soft tissues de middle și posterior aspects de f
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 328](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=328)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 328](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

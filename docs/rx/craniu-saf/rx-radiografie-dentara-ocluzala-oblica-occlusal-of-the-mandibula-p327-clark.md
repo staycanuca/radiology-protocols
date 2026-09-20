@@ -3,21 +3,22 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• tubul este poziționat în linia mediană achieving upward angle de ten
-  grade (i.e. overall upward angulation de 45 grade) la plane de film radiologic,
-  centring through midpoint de bărbia.
+centering: '• Tubul este poziționat pe linia mediană, realizând un unghi ascendent
+  de zece grade (adică o angulație ascendentă totală de 45 grade) față de planul filmului
+  radiologic, cu centrarea prin punctul median al bărbiei.
 
-  312 Oblică Anterioară occlusal de Mandibulă Positioning de pacientul și X-ray tube
-  pentru Oblică Anterioară occlusal de Mandibulă Oblică Anterioară occlusal evidențiind
-  large unilocular radiolucency în linia mediană region'
+  312 Ocluzală oblică anterioară a mandibulei Poziționarea pacientului și a tubului
+  radiogen pentru ocluzala oblică anterioară a mandibulei Ocluzală oblică anterioară
+  evidențiind o radiotransparență uniloculară mare în regiunea liniei mediane'
 clinical_indications:
-- This incidență shows anterior teeth și inferior cortical margine.
+- Această incidență evidențiază dinții anteriori și marginea corticală inferioară.
 images:
-- caption: 10 Radiografie Dentară Ocluzală
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 10 Radiografie dentară ocluzală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_1.jpeg
-- caption: Oblică Anterioară occlusal evidențiind large unilocular radiolucency în
-    the
+- caption: Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară
+    mare în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_2.jpeg
@@ -28,24 +29,24 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. planul
+position: '• Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul
   mediosagital este vertical.
 
-  • occlusal film radiologic este plasat flat în pacientul’s mouth, resting pe occlusal
-  surfaces de lower teeth. film radiologic trebuie să fie plasat cu tubul side de
-  film radiologic facing floor de mouth.
+  • Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele
+  ocluzale ale dinților inferiori. Filmul radiologic trebuie plasat cu partea filmului
+  radiologic orientată spre planșeul bucal.
 
-  • axa longitudinală de film radiologic este poziționat so that it extends across
-  oral cavity (i.e. perpendicular pe plan sagital).
+  • Axa longitudinală a filmului radiologic este poziționată astfel încât să traverseze
+  cavitatea bucală (adică perpendicular pe planul sagital).
 
-  • anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial
-  aspects de mandibular incisor teeth.
+  • Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo
+  de aspectele labiale ale dinților incisivi mandibulari.
 
-  • pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
+  • Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
 
-  • pacientul este instructed la extend their cap backwards astfel încât plan ocluzal
-  este 35 grade la orizontal. This allows tubul la fie more easily poziționat adjacent
-  la bărbia. capul este sprijinit adequately în this poziție.'
+  • Pacientului i se cere să-și extindă capul posterior, astfel încât planul ocluzal
+  să fie la 35 grade față de orizontală. Aceasta permite poziționarea mai ușoară a
+  tubului adiacent bărbiei. Capul este susținut adecvat în această poziție.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -54,7 +55,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+- Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -62,18 +63,18 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 327
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=327
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie dentară ocluzală Ocluzală oblică a mandibulei
 ---
-# Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
+# Rx Radiografie dentară ocluzală Ocluzală oblică a mandibulei
 
 
 <div class="rx-meta-bar">
@@ -92,7 +93,7 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
 
     === "Indicații Clinice"
 
-        - This incidență shows anterior teeth și inferior cortical margine.
+        - Această incidență evidențiază dinții anteriori și marginea corticală inferioară.
 
     === "Ghid Național IRIS"
 
@@ -106,14 +107,14 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. planul mediosagital este vertical.
-• occlusal film radiologic este plasat flat în pacientul’s mouth, resting pe occlusal surfaces de lower teeth. film radiologic trebuie să fie plasat cu tubul side de film radiologic facing floor de mouth.
-• axa longitudinală de film radiologic este poziționat so that it extends across oral cavity (i.e. perpendicular pe plan sagital).
-• anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial aspects de mandibular incisor teeth.
-• pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
-• pacientul este instructed la extend their cap backwards astfel încât plan ocluzal este 35 grade la orizontal. This allows tubul la fie more easily poziționat adjacent la bărbia. capul este sprijinit adequately în this poziție.
-    - **Punct de Centrare Fascicul:** • tubul este poziționat în linia mediană achieving upward angle de ten grade (i.e. overall upward angulation de 45 grade) la plane de film radiologic, centring through midpoint de bărbia.
-312 Oblică Anterioară occlusal de Mandibulă Positioning de pacientul și X-ray tube pentru Oblică Anterioară occlusal de Mandibulă Oblică Anterioară occlusal evidențiind large unilocular radiolucency în linia mediană region
+    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
+• Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori. Filmul radiologic trebuie plasat cu partea filmului radiologic orientată spre planșeul bucal.
+• Axa longitudinală a filmului radiologic este poziționată astfel încât să traverseze cavitatea bucală (adică perpendicular pe planul sagital).
+• Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi mandibulari.
+• Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+• Pacientului i se cere să-și extindă capul posterior, astfel încât planul ocluzal să fie la 35 grade față de orizontală. Aceasta permite poziționarea mai ușoară a tubului adiacent bărbiei. Capul este susținut adecvat în această poziție.
+    - **Punct de Centrare Fascicul:** • Tubul este poziționat pe linia mediană, realizând un unghi ascendent de zece grade (adică o angulație ascendentă totală de 45 grade) față de planul filmului radiologic, cu centrarea prin punctul median al bărbiei.
+312 Ocluzală oblică anterioară a mandibulei Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică anterioară a mandibulei Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară mare în regiunea liniei mediane
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -124,19 +125,19 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+    - Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -160,17 +161,17 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
 
 <figure class="protocol-image-card" markdown>
 
-![10 Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_1.jpeg)
+![10 Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Ocluzală</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie dentară ocluzală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Oblică Anterioară occlusal evidențiind large unilocular radiolucency în the](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_2.jpeg)
+![Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară mare în](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_2.jpeg)
 
-<figcaption><strong>Oblică Anterioară occlusal evidențiind large unilocular radiolucency în the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară mare în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -195,4 +196,4 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the Mandibulă
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 327](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=327)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 327](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

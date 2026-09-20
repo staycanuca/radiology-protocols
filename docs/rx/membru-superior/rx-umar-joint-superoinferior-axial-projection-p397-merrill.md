@@ -7,10 +7,10 @@ centering: înclinat 5 la 15 grade through Umăr articulație și spre Cot; grea
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 398, imaginea 1
+- caption: Merrill — pagina 398, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p398_fig1.png
-- caption: Merrill — pagina PDF 399, imaginea 2
+- caption: Merrill — pagina 399, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p399_fig2.png
 last_updated: '2026-09-16'
@@ -101,8 +101,8 @@ source_sections:
 
     30 cm), plasat longitudinal pentru precis centering la umăr articulație.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 397–399
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=397
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 397–399
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 10 inches (24 cm) în width pe collimator
@@ -193,17 +193,17 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 398, imaginea 1](../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p398_fig1.png)
+![Merrill — pagina 398, imaginea 1](../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p398_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 398, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 398, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 399, imaginea 2](../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p399_fig2.png)
+![Merrill — pagina 399, imaginea 2](../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p399_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 399, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 399, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -220,7 +220,7 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 397–399](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=397)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 397–399](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -2,52 +2,53 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: perpendicular pe receptorul de imagine (RI) și centrat 1 inch (2.5 cm)
-  medial la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de
-  imagine
+centering: perpendicular pe receptorul de imagine (RI) și centrat la 1 inch (2.5 cm)
+  medial față de SIAS cea mai apropiată de receptorul de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 749, imaginea 1
+- caption: Merrill — pagina 749, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p749_fig1.png
-- caption: Merrill — pagina PDF 750, imaginea 2
+- caption: Merrill — pagina 750, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p750_fig2.png
-- caption: Merrill — pagina PDF 751, imaginea 3
+- caption: Merrill — pagina 751, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p751_fig3.png
 last_updated: '2026-09-16'
 modality: rx
-notes: PA axial oblic poate fie obtained prin positioning pacientul ca described previously.
-  pentru PA axial oblic, raza centrală este orientat 20 la 25 grade caudal la enter
-  pacientul la nivelul plan transversal, pass 1½ inches (3.8 cm) distal la L5 spinous
-  process, și exit la nivelul spină iliacă antero-superioară (SIAS) (Fig. 9.117).
-position: se așază pacientul în Decubit ventral poziție. Place small, firm pillow
-  under capul.; se ajustează pacient prin rotating side de interest spre masa radiologică
-  until corp rotație de 25 la 30 grade este achieved. Se instruiește pacientul să
-  rest pe Antebraț și flectat Genunchi de ridicat side. side being examined trebuie
-  să fie closer la receptorul de imagine. Use poziție oblică anterioară dreaptă (OAD
-  / RAO) la show drept articulație și poziție oblică anterioară stângă (OAS / LAO)
-  la show stâng articulație. Check grade de rotație la several points along anterior
-  surface de pacientul’s corp. se ajustează pacient’s corp so that its axa longitudinală
-  este paralel cu axa longitudinală de masa de examinare. se centrează corp so that
-  point 1 inch (2.5 cm) medial la spină iliacă antero-superioară (SIAS) cel mai apropiat
-  de receptorul de imagine este centrat pe grila (Figs. 9.114 și 9.115). se centrează
-  receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS). se efectuează
-  ecranarea gonadelor cu șorț plumbat. Collimating close la articulație poate shield
-  gonads în male pacienți. It poate fie dificult la use contact shielding în female
-  pacienți.
+notes: Incidența PA axială oblică poate fi obținută prin poziționarea pacientului
+  conform descrierii anterioare. Pentru incidența PA axială oblică, raza centrală
+  este orientată la 20 la 25 grade caudal, intră în pacient la nivelul planului transversal,
+  trece la 1½ inches (3.8 cm) distal față de procesul spinos L5 și iese la nivelul
+  SIAS (Fig. 9.117).
+position: Se așază pacientul în decubit ventral. Se plasează o pernă mică și fermă
+  sub cap. Se ajustează pacientul prin rotirea părții de interes spre masa radiologică
+  până când se obține o rotație a corpului de 25 la 30 grade. Se instruiește pacientul
+  să se sprijine pe antebraț și să flecteze genunchiul părții ridicate. Partea examinată
+  trebuie să fie mai apropiată de receptorul de imagine. Se utilizează poziția oblică
+  anterioară dreaptă (OAD / RAO) pentru evidențierea articulației drepte și poziția
+  oblică anterioară stângă (OAS / LAO) pentru evidențierea articulației stângi. Se
+  verifică gradul de rotație în mai multe puncte de-a lungul suprafeței anterioare
+  a corpului pacientului. Se ajustează corpul pacientului astfel încât axa longitudinală
+  să fie paralelă cu axa longitudinală a mesei de examinare. Se centrează corpul astfel
+  încât punctul situat la 1 inch (2.5 cm) medial față de SIAS cea mai apropiată de
+  receptorul de imagine să fie centrat pe grilă (Fig. 9.114 și 9.115). Se centrează
+  receptorul de imagine la nivelul SIAS. Se efectuează ecranarea gonadelor cu șorț
+  plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții
+  de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții
+  de sex feminin.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Open sacroiliac spații articulare cel mai apropiat de receptorul de imagine sau
-  minimal overlapping de ilium și Sacru
-- articulație centrat pe radiografie
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Spațiile articulare sacroiliace deschise, cele mai apropiate de receptorul de imagine,
+  sau suprapunere minimă a ilionului și sacrului
+- articulația centrată pe radiografie
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill
 source_pages:
@@ -56,76 +57,77 @@ source_pages:
 - 750
 - 751
 source_sections:
-  anatomy: sacroiliac articulație cel mai apropiat de receptorul de imagine (Fig.
-    9.116). (See Summary de oblic incidențe, p. 440.)
+  anatomy: articulația sacroiliacă cea mai apropiată de receptorul de imagine (Fig.
+    9.116). (Vezi Rezumatul incidențelor oblice, p. 440.)
   collimation: • Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe receptorul de imagine (RI) și centrat 1 inch (2.5 cm) medial
-    la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe receptorul de imagine (RI) și centrat la 1 inch (2.5 cm)
+    medial față de SIAS cea mai apropiată de receptorul de imagine
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Open sacroiliac spații articulare cel mai apropiat de receptorul de imagine
-    sau minimal overlapping de ilium și sacrum
+    • Spații articulare sacroiliace deschise, cele mai apropiate de receptorul de
+    imagine, sau suprapunere minimă a ilionului și sacrului
 
-    • articulație centrat pe radiografie
+    • articulația centrată pe radiografie
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'PA axial oblic poate fie obtained prin positioning pacientul ca described
-    previously. pentru PA axial oblic, raza centrală este
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  notes: 'Incidența PA axială oblică poate fi obținută prin poziționarea pacientului
+    conform descrierii anterioare. Pentru incidența PA axială oblică, raza centrală
+    este
 
-    orientat 20 la 25 grade caudal la enter pacientul la nivelul plan transversal,
-    pass 1½ inches (3.8 cm) distal la L5 spinous
+    orientată la 20 la 25 grade caudal, intră în pacient la nivelul planului transversal,
+    trece la 1½ inches (3.8 cm) distal față de procesul spinos L5
 
-    process, și exit la nivelul spină iliacă antero-superioară (SIAS) (Fig. 9.117).'
-  part_pos: '• se ajustează pacient prin rotating side de interest spre masa radiologică
-    until corp rotație de 25 la 30 grade este achieved.
+    și iese la nivelul SIAS (Fig. 9.117).'
+  part_pos: '• Se ajustează pacientul prin rotirea părții de interes spre masa radiologică
+    până când se obține o rotație a corpului de 25 la 30 grade.
 
-    Se instruiește pacientul să rest pe forearm și flectat genunchi de ridicat side.
+    Se instruiește pacientul să se sprijine pe antebraț și să flecteze genunchiul
+    părții ridicate.
 
-    • side being examined trebuie să fie closer la receptorul de imagine. Use poziție
-    oblică anterioară dreaptă (OAD / RAO) la show drept articulație și poziție oblică
-    anterioară stângă (OAS / LAO) la show stâng articulație.
+    • Partea examinată trebuie să fie mai apropiată de receptorul de imagine. Se utilizează
+    poziția oblică anterioară dreaptă (OAD / RAO) pentru evidențierea articulației
+    drepte și poziția oblică anterioară stângă (OAS / LAO) pentru evidențierea articulației
+    stângi.
 
-    • Check grade de rotație la several points along anterior surface de pacientul’s
-    corp.
+    • Se verifică gradul de rotație în mai multe puncte de-a lungul suprafeței anterioare
+    a corpului pacientului.
 
-    • se ajustează pacient’s corp so that its axa longitudinală este paralel cu axa
-    longitudinală de masa de examinare.
+    • Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă
+    cu axa longitudinală a mesei de examinare.
 
-    • se centrează corp so that point 1 inch (2.5 cm) medial la spină iliacă antero-superioară
-    (SIAS) cel mai apropiat de receptorul de imagine este centrat pe grila (Figs.
+    • Se centrează corpul astfel încât punctul situat la 1 inch (2.5 cm) medial față
+    de SIAS cea mai apropiată de receptorul de imagine să fie centrat pe grilă (Fig.
     9.114 și 9.115).
 
-    • se centrează receptorul de imagine la nivelul spină iliacă antero-superioară
-    (SIAS).
+    • Se centrează receptorul de imagine la nivelul SIAS.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat. Collimating close la articulație
-    poate shield gonads în male pacienți. It poate fie dificult la use contact shielding
-    în female
+    • Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul
+    articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă
+    utilizarea ecranării de contact la pacienții de sex feminin.'
+  patient_pos: '• Se așază pacientul în decubit ventral.
 
-    pacienți.'
-  patient_pos: '• se așază pacientul în decubit ventral.
-
-    • Place small, firm pillow under capul.'
+    • Se plasează o pernă mică și fermă sub cap.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inches
+    (24 ×
 
-    30 cm) longitudinal. ambele obliques sunt usually obtained pentru comparison.'
+    30 cm), longitudinal. Ambele incidențe oblice sunt de obicei obținute pentru comparație.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 748–751
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=748
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 748–751
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Oblică Anterioară
-  Stângă (OAS / LAO)s (Merrill)
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Articulațiile sacroiliace — incidențe oblice postero-anterioare (PA) — RAO
+  și oblică anterioară stângă (OAS / LAO) (Merrill)
 ---
-# Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
+# Articulațiile sacroiliace — incidențe oblice postero-anterioare (PA) — RAO și oblică anterioară stângă (OAS / LAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -158,8 +160,8 @@ title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Obl
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție. Place small, firm pillow under capul.; se ajustează pacient prin rotating side de interest spre masa radiologică until corp rotație de 25 la 30 grade este achieved. Se instruiește pacientul să rest pe Antebraț și flectat Genunchi de ridicat side. side being examined trebuie să fie closer la receptorul de imagine. Use poziție oblică anterioară dreaptă (OAD / RAO) la show drept articulație și poziție oblică anterioară stângă (OAS / LAO) la show stâng articulație. Check grade de rotație la several points along anterior surface de pacientul’s corp. se ajustează pacient’s corp so that its axa longitudinală este paralel cu axa longitudinală de masa de examinare. se centrează corp so that point 1 inch (2.5 cm) medial la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de imagine este centrat pe grila (Figs. 9.114 și 9.115). se centrează receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS). se efectuează ecranarea gonadelor cu șorț plumbat. Collimating close la articulație poate shield gonads în male pacienți. It poate fie dificult la use contact shielding în female pacienți.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și centrat 1 inch (2.5 cm) medial la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de imagine
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral. Se plasează o pernă mică și fermă sub cap. Se ajustează pacientul prin rotirea părții de interes spre masa radiologică până când se obține o rotație a corpului de 25 la 30 grade. Se instruiește pacientul să se sprijine pe antebraț și să flecteze genunchiul părții ridicate. Partea examinată trebuie să fie mai apropiată de receptorul de imagine. Se utilizează poziția oblică anterioară dreaptă (OAD / RAO) pentru evidențierea articulației drepte și poziția oblică anterioară stângă (OAS / LAO) pentru evidențierea articulației stângi. Se verifică gradul de rotație în mai multe puncte de-a lungul suprafeței anterioare a corpului pacientului. Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală a mesei de examinare. Se centrează corpul astfel încât punctul situat la 1 inch (2.5 cm) medial față de SIAS cea mai apropiată de receptorul de imagine să fie centrat pe grilă (Fig. 9.114 și 9.115). Se centrează receptorul de imagine la nivelul SIAS. Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții de sex feminin.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și centrat la 1 inch (2.5 cm) medial față de SIAS cea mai apropiată de receptorul de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -175,18 +177,18 @@ title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Obl
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Open sacroiliac spații articulare cel mai apropiat de receptorul de imagine sau minimal overlapping de ilium și Sacru
-    - articulație centrat pe radiografie
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Spațiile articulare sacroiliace deschise, cele mai apropiate de receptorul de imagine, sau suprapunere minimă a ilionului și sacrului
+    - articulația centrată pe radiografie
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,7 +199,7 @@ title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Obl
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    PA axial oblic poate fie obtained prin positioning pacientul ca described previously. pentru PA axial oblic, raza centrală este orientat 20 la 25 grade caudal la enter pacientul la nivelul plan transversal, pass 1½ inches (3.8 cm) distal la L5 spinous process, și exit la nivelul spină iliacă antero-superioară (SIAS) (Fig. 9.117).
+    Incidența PA axială oblică poate fi obținută prin poziționarea pacientului conform descrierii anterioare. Pentru incidența PA axială oblică, raza centrală este orientată la 20 la 25 grade caudal, intră în pacient la nivelul planului transversal, trece la 1½ inches (3.8 cm) distal față de procesul spinos L5 și iese la nivelul SIAS (Fig. 9.117).
 
 
 ### 🖼️ Imagini
@@ -206,25 +208,25 @@ title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Obl
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 749, imaginea 1](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p749_fig1.png)
+![Merrill — pagina 749, imaginea 1](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p749_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 749, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 750, imaginea 2](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p750_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 750, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 749, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 751, imaginea 3](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p751_fig3.png)
+![Merrill — pagina 750, imaginea 2](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p750_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 751, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 750, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 751, imaginea 3](../../assets/images/protocols/merrill/rx-sacroiliac-joints-pa-incidenta-oblica-rao-and-lao-positions-p748-merrill/p751_fig3.png)
+
+<figcaption><strong>Merrill — pagina 751, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -241,59 +243,58 @@ title: Rx Sacroiliac Joints — Oblică Postero-Anterioară (PA) — RAO and Obl
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 748–751](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=748)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 748–751](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-sacroiliac articulație cel mai apropiat de receptorul de imagine (Fig. 9.116). (See Summary de oblic incidențe, p. 440.)
+articulația sacroiliacă cea mai apropiată de receptorul de imagine (Fig. 9.116). (Vezi Rezumatul incidențelor oblice, p. 440.)
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) și centrat 1 inch (2.5 cm) medial la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de imagine
+• perpendicular pe receptorul de imagine (RI) și centrat la 1 inch (2.5 cm) medial față de SIAS cea mai apropiată de receptorul de imagine
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Open sacroiliac spații articulare cel mai apropiat de receptorul de imagine sau minimal overlapping de ilium și sacrum
-• articulație centrat pe radiografie
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+• Spații articulare sacroiliace deschise, cele mai apropiate de receptorul de imagine, sau suprapunere minimă a ilionului și sacrului
+• articulația centrată pe radiografie
+• Detalii osoase trabeculare și țesuturile moi din jur
 
-### notes
+### note
 
-PA axial oblic poate fie obtained prin positioning pacientul ca described previously. pentru PA axial oblic, raza centrală este
-orientat 20 la 25 grade caudal la enter pacientul la nivelul plan transversal, pass 1½ inches (3.8 cm) distal la L5 spinous
-process, și exit la nivelul spină iliacă antero-superioară (SIAS) (Fig. 9.117).
+Incidența PA axială oblică poate fi obținută prin poziționarea pacientului conform descrierii anterioare. Pentru incidența PA axială oblică, raza centrală este
+orientată la 20 la 25 grade caudal, intră în pacient la nivelul planului transversal, trece la 1½ inches (3.8 cm) distal față de procesul spinos L5
+și iese la nivelul SIAS (Fig. 9.117).
 
 ### part_pos
 
-• se ajustează pacient prin rotating side de interest spre masa radiologică until corp rotație de 25 la 30 grade este achieved.
-Se instruiește pacientul să rest pe forearm și flectat genunchi de ridicat side.
-• side being examined trebuie să fie closer la receptorul de imagine. Use poziție oblică anterioară dreaptă (OAD / RAO) la show drept articulație și poziție oblică anterioară stângă (OAS / LAO) la show stâng articulație.
-• Check grade de rotație la several points along anterior surface de pacientul’s corp.
-• se ajustează pacient’s corp so that its axa longitudinală este paralel cu axa longitudinală de masa de examinare.
-• se centrează corp so that point 1 inch (2.5 cm) medial la spină iliacă antero-superioară (SIAS) cel mai apropiat de receptorul de imagine este centrat pe grila (Figs. 9.114 și 9.115).
-• se centrează receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS).
-• se efectuează ecranarea gonadelor cu șorț plumbat. Collimating close la articulație poate shield gonads în male pacienți. It poate fie dificult la use contact shielding în female
-pacienți.
+• Se ajustează pacientul prin rotirea părții de interes spre masa radiologică până când se obține o rotație a corpului de 25 la 30 grade.
+Se instruiește pacientul să se sprijine pe antebraț și să flecteze genunchiul părții ridicate.
+• Partea examinată trebuie să fie mai apropiată de receptorul de imagine. Se utilizează poziția oblică anterioară dreaptă (OAD / RAO) pentru evidențierea articulației drepte și poziția oblică anterioară stângă (OAS / LAO) pentru evidențierea articulației stângi.
+• Se verifică gradul de rotație în mai multe puncte de-a lungul suprafeței anterioare a corpului pacientului.
+• Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală a mesei de examinare.
+• Se centrează corpul astfel încât punctul situat la 1 inch (2.5 cm) medial față de SIAS cea mai apropiată de receptorul de imagine să fie centrat pe grilă (Fig. 9.114 și 9.115).
+• Se centrează receptorul de imagine la nivelul SIAS.
+• Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții de sex feminin.
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral.
-• Place small, firm pillow under capul.
+• Se așază pacientul în decubit ventral.
+• Se plasează o pernă mică și fermă sub cap.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal. ambele obliques sunt usually obtained pentru comparison.
+poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inches (24 ×
+30 cm), longitudinal. Ambele incidențe oblice sunt de obicei obținute pentru comparație.
 

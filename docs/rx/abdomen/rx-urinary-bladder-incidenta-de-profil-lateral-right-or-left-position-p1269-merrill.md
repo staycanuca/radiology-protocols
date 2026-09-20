@@ -2,87 +2,88 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe receptorul de imagine (RI) și 2 inches (5 cm) above upper
-  margine de simfiză pubiană la planul mediocoronal
+centering: perpendicular pe receptorul de imagine (RI), la 2 țoli (5 cm) deasupra
+  marginii superioare a simfizei pubiene, în planul mediocoronal
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1270, imaginea 1
+- caption: Merrill — pagina 1270, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-incidenta-de-profil-lateral-right-or-left-position-p1269-merrill/p1270_fig1.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în lateral Decubit poziție pe drept sau stâng side, ca
-  indicated.; Slightly se flectează pacient’s genunchi la comfortable poziție și se
-  ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă.
-  se flectează pacient’s coate, și place mâinile under capul (Fig. 16.69). se centrează
-  receptorul de imagine 2 inches (5 cm) above upper margine de simfiză pubiană la
-  planul mediocoronal.
+position: se așază pacientul în decubit lateral drept sau stâng, conform indicației.
+  se flectează ușor genunchii pacientului într-o poziție confortabilă și se ajustează
+  poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană
+  a grilei. se flectează coatele pacientului și se așază mâinile sub cap (Fig. 16.69).
+  se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare
+  a simfizei pubiene, în planul mediocoronal.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Regions de extremitatea distală ureters, bladder, și proximal portion de urethra
-- Contrast medium în bladder, distal ureters, și proximal urethra
-- Bladder și distal ureters vizibil through Bazin (bazin (pelvis))
-- Superimposed hips și Femur
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Regiunile extremităților distale ale ureterelor, vezica urinară și porțiunea proximală
+  a uretrei
+- Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
+- Vezica urinară și porțiunile distale ale ureterelor vizibile prin bazin (pelvis)
+- Șoldurile și femurele suprapuse
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-urinary-bladder-incidenta-de-profil-lateral-right-or-left-position-p1269-merrill
 source_pages:
 - 1269
 - 1270
 source_sections:
-  anatomy: 'lateral imagine shows bladder filled cu contrast medium. If reflux este
-    present, distal ureters sunt also visualized. lateral incidențe show
-
-    anterior și posterior bladder pereți și base de bladder (Fig. 16.70).'
-  collimation: • se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal.
-    Place correct marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe receptorul de imagine (RI) și 2 inches (5 cm) above upper
-    margine de simfiză pubiană la planul mediocoronal
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Imaginea de profil evidențiază vezica urinară umplută cu substanță de contrast.
+    Dacă este prezent refluxul, se vizualizează și porțiunile distale ale ureterelor.
+    Incidențele de profil evidențiază pereții anterior și posterior ai vezicii urinare
+    și baza acesteia (Fig. 16.70).
+  collimation: • Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal.
+    Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+  cr: • perpendicular pe receptorul de imagine (RI), la 2 țoli (5 cm) deasupra marginii
+    superioare a simfizei pubiene, în planul mediocoronal
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste structurile anatomice de interes
 
-    • Regions de extremitatea distală ureters, bladder, și proximal portion de urethra
+    • Regiunile porțiunilor distale ale ureterelor, vezicii urinare și porțiunii proximale
+    a uretrei
 
-    • Contrast medium în bladder, distal ureters, și proximal urethra
+    • Substanță de contrast în vezica urinară, porțiunile distale ale ureterelor și
+    porțiunea proximală a uretrei
 
-    • Bladder și distal ureters vizibil through bazinul
+    • Vezica urinară și porțiunile distale ale ureterelor vizibile prin bazin
 
-    • Superimposed hips și femur'
-  part_pos: '• Slightly se flectează pacient’s genunchi la comfortable poziție și
-    se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană
-    de
+    • Șoldurile și femurele suprapuse'
+  part_pos: '• se flectează ușor genunchii pacientului într-o poziție confortabilă
+    și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat
+    pe linia mediană a grilei.
 
-    grila.
+    • se flectează coatele pacientului și se așază mâinile sub cap (Fig. 16.69).
 
-    • se flectează pacient’s coate, și place mâinile under capul (Fig. 16.69).
-
-    • se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză
-    pubiană la planul mediocoronal.'
-  patient_pos: • se așază pacientul în lateral recumbent poziție pe drept sau stâng
-    side, ca indicated.
+    • se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare
+    a simfizei pubiene, în planul mediocoronal.'
+  patient_pos: • se așază pacientul în decubit lateral drept sau stâng, conform indicației.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1269–1270
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1269
+- title: Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1269–1270
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal.
-    Place correct marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept sau Stâng)
+  collimation: Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal.
+    Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
+title: Rx Vezică Urinară — Incidență de Profil (Laterală) — Profil (Drept sau Stâng)
   (Merrill)
 ---
-# Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) (Merrill)
+# Rx Vezică Urinară — Incidență de Profil (Laterală) — Profil (Drept sau Stâng) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -115,8 +116,8 @@ title: Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept 
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în lateral Decubit poziție pe drept sau stâng side, ca indicated.; Slightly se flectează pacient’s genunchi la comfortable poziție și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană grilă. se flectează pacient’s coate, și place mâinile under capul (Fig. 16.69). se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză pubiană la planul mediocoronal.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și 2 inches (5 cm) above upper margine de simfiză pubiană la planul mediocoronal
+    - **Poziție Pacient:** se așază pacientul în decubit lateral drept sau stâng, conform indicației. se flectează ușor genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei. se flectează coatele pacientului și se așază mâinile sub cap (Fig. 16.69). se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -132,19 +133,19 @@ title: Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal. Place correct marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Regions de extremitatea distală ureters, bladder, și proximal portion de urethra
-    - Contrast medium în bladder, distal ureters, și proximal urethra
-    - Bladder și distal ureters vizibil through Bazin (bazin (pelvis))
-    - Superimposed hips și Femur
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Regiunile extremităților distale ale ureterelor, vezica urinară și porțiunea proximală a uretrei
+    - Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
+    - Vezica urinară și porțiunile distale ale ureterelor vizibile prin bazin (pelvis)
+    - Șoldurile și femurele suprapuse
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,9 +165,9 @@ title: Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1270, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-bladder-incidenta-de-profil-lateral-right-or-left-position-p1269-merrill/p1270_fig1.png)
+![Merrill — pagina 1270, imaginea 1](../../assets/images/protocols/merrill/rx-urinary-bladder-incidenta-de-profil-lateral-right-or-left-position-p1269-merrill/p1270_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1270, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1270, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -183,49 +184,47 @@ title: Rx Urinary Bladder — Incidență de Profil (Lateral) — Profil (Drept 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini PDF 1269–1270](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1269)
+- [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1269–1270](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-lateral imagine shows bladder filled cu contrast medium. If reflux este present, distal ureters sunt also visualized. lateral incidențe show
-anterior și posterior bladder pereți și base de bladder (Fig. 16.70).
+Imaginea de profil evidențiază vezica urinară umplută cu substanță de contrast. Dacă este prezent refluxul, se vizualizează și porțiunile distale ale ureterelor. Incidențele de profil evidențiază pereții anterior și posterior ai vezicii urinare și baza acesteia (Fig. 16.70).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la 10 × 12 inches (24 × 30 cm) longitudinal. Place correct marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI) și 2 inches (5 cm) above upper margine de simfiză pubiană la planul mediocoronal
+• perpendicular pe receptorul de imagine (RI), la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Regions de extremitatea distală ureters, bladder, și proximal portion de urethra
-• Contrast medium în bladder, distal ureters, și proximal urethra
-• Bladder și distal ureters vizibil through bazinul
-• Superimposed hips și femur
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
+• Regiunile porțiunilor distale ale ureterelor, vezicii urinare și porțiunii proximale a uretrei
+• Substanță de contrast în vezica urinară, porțiunile distale ale ureterelor și porțiunea proximală a uretrei
+• Vezica urinară și porțiunile distale ale ureterelor vizibile prin bazin
+• Șoldurile și femurele suprapuse
 
 ### part_pos
 
-• Slightly se flectează pacient’s genunchi la comfortable poziție și se ajustează corp astfel încât plan mediocoronal este centrat pe linia mediană de
-grila.
-• se flectează pacient’s coate, și place mâinile under capul (Fig. 16.69).
-• se centrează receptorul de imagine 2 inches (5 cm) above upper margine de simfiză pubiană la planul mediocoronal.
+• se flectează ușor genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
+• se flectează coatele pacientului și se așază mâinile sub cap (Fig. 16.69).
+• se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal.
 
 ### patient_pos
 
-• se așază pacientul în lateral recumbent poziție pe drept sau stâng side, ca indicated.
+• se așază pacientul în decubit lateral drept sau stâng, conform indicației.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

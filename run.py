@@ -112,6 +112,7 @@ def run_indexes() -> bool:
         ("generate_comparison_index.py", "Index comparare protocoale"),
         ("generate_sitemap.py", "Sitemap protocoale"),
         ("generate_forms_index.py", "Index formulare & config instituție"),
+        ("generate_omnisearch_index.py", "Index unificat OmniSearch"),
     ]
     all_ok = True
     for script_name, description in scripts:

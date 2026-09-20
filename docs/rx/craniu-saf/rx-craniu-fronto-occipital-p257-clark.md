@@ -3,49 +3,53 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: 'toate angulations pentru fronto-occipital incidențe sunt made cranially.
+centering: 'Toate angulațiile pentru incidențele fronto-occipitale sunt efectuate
+  cranial.
 
   Fronto-occipital
 
-  • raza centrală este orientat perpendicular pe casetă sau Bucky along planul mediosagital.
+  • Raza centrală este orientată perpendicular pe casetă sau Bucky, de-a lungul planului
+  mediosagital.
 
-  • collimation field trebuie să fie set pentru include vertex de Craniu superiorly,
-  base de occipital bone inferiorly, și Profil (lateral) skin margins. It este important
-  la ensure that toate de tubul este centred la middle de Bucky.
+  • Câmpul de colimare trebuie reglat astfel încât să includă vertexul superior al
+  craniului, baza inferioară a osului occipital și marginile cutanate de profil (lateral).
+  Este important să se asigure că tubul este centrat pe mijlocul dispozitivului Bucky.
 
-  Fronto-occipital caudal angulation:
+  Angulație caudală fronto-occipitală:
 
   10, 15 și 20 grade
 
-  • technique used pentru these three incidențe este similar la that employed pentru
-  occipito-frontal, except that cranial angulation este applied. grade de angulation
-  will depend pe incidență required.
+  • Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru
+  incidența occipito-frontală, cu excepția faptului că se aplică angulația cranială.
+  Gradul angulației va depinde de incidența necesară.
 
-  • Remember that caseta sau Bucky trebuie să fie displaced superiorly la allow pentru
-  tubul angulation, otherwise aria de interes diagnostic will fie projected off film
-  radiologic. pentru a 20-grade angle, top de caseta will need la fie 5 cm above Craniu
-  vertex.
+  • Rețineți că filmul sau dispozitivul Bucky trebuie deplasat superior pentru a permite
+  angulația tubului; în caz contrar, aria de interes diagnostic va fi proiectată în
+  afara filmului radiologic. Pentru un unghi de 20 grade, partea superioară a casetei
+  va trebui să se afle la 5 cm deasupra vertexului craniului.
 
 
-  • raza centrală este înclinat caudally so it makes angle de 30 grade la orbito-meatal
-  plane.
+  • Raza centrală este înclinată caudal astfel încât formează un unghi de 30 grade
+  cu linia orbitomeatală.
 
-  • Centre în linia mediană astfel încât fascicul passes midway între extern auditory
-  meatuses. This este la point approximately 5 cm above glabelă.
+  • Centrați pe linia mediană astfel încât fasciculul să treacă la jumătatea distanței
+  dintre conductele auditive externe. Acesta se află la aproximativ 5 cm deasupra
+  glabelei.
 
-  • top de caseta trebuie să fie poziționat adjacent la vertex de Craniu la ensure
-  that fascicul angulation does nu project aria de interes diagnostic off bottom de
-  imagine.'
+  • Partea superioară a casetei trebuie poziționată adiacent vertexului craniului
+  pentru a vă asigura că angulația fasciculului nu proiectează aria de interes diagnostic
+  în afara părții inferioare a imaginii.'
 clinical_indications:
-- See occipito-frontal incidențe (p. 240).
-- gaură occipitală mare (foramen magnum) trebuie să fie seen clearly pe this incidență.
-  margins poate fie obscured prin incorrect angulation, thus hiding important suspiciune
+- Consultați incidențele occipito-frontale (p. 240).
+- Gaura occipitală mare (foramen magnum) trebuie vizualizată clar pe această incidență.
+  Marginile pot fi mascate de angulația incorectă, ascunzând astfel o suspiciune importantă
   de fractură.
-- zygoma poate fie seen well pe this incidență. If suspiciune de fracturăd, this gives
-  clue la presence de associated facial injury.
+- Zigomul poate fi vizualizat bine pe această incidență. Dacă există suspiciune de
+  fractură, aceasta oferă un indiciu privind prezența unei leziuni faciale asociate.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -55,7 +59,7 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_3.jpeg
-- caption: thus hiding important suspiciune de fractură.
+- caption: ascunzând astfel o suspiciune importantă de fractură.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_4.jpeg
@@ -69,36 +73,36 @@ images:
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'See occipito-frontal incidențe (p. 241).
+notes: 'Consultați incidențele occipito-frontale (p. 241).
 
-  • în example given below, FO20°↓incidență este required, but pacientul poate only
-  maintain their orbito-meatal base line în poziție 10 grade back de la perpendicular
-  (i.e. cu bărbia raised slightly). în order la achieve overall 20-grade angle, ten-grade
-  cranial angulation will need la fie applied la tubul.
+  • În exemplul de mai jos, este necesară incidența FO20°↓, dar pacientul își poate
+  menține linia de bază orbito-meatală doar la 10 grade înapoi față de perpendiculară
+  (adică având bărbia ușor ridicată). Pentru a obține un unghi total de 20 grade,
+  va trebui aplicată o angulație cranială de zece grade tubului.
 
-  • Similarly, if pacientul’s chin was raised astfel încât baseline was 20 grade la
-  perpendicular, then FO20°↓ incidență could fie achieved prin using straight tube
-  perpendicular pe film radiologic.
+  • În mod similar, dacă bărbia pacientului ar fi ridicată astfel încât linia de bază
+  să fie la 20 grade față de perpendiculară, incidența FO20°↓ ar putea fi obținută
+  utilizând tubul drept, perpendicular pe filmul radiologic.
 
-  20° 10° 10° FO20°↑incidență achieved cu 10° tube angle și RBL raised 10° FO incidență
-  FO20°↑incidență'
-position: '• pacientul este culcat Decubit dorsal pe trolley sau masa radiologică,
-  sau cu posterior aspect de Craniu resting pe casetă cu grilă antidifuzoare.
+  20° 10° 10° Incidență FO20°↑ obținută cu un unghi al tubului de 10° și RBL ridicată
+  cu 10° Incidență FO Incidență FO20°↑'
+position: '• Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică
+  ori cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
 
-  • capul este ajustat la bring planul mediosagital la rightangles la film radiologic
-  și coincident cu its midline. în this poziție, extern auditory meatuses sunt echidistant
-  față de caseta.
+  • Capul este ajustat pentru a aduce planul mediosagital perpendicular pe filmul
+  radiologic și coincident cu linia sa mediană. În această poziție, conductele auditive
+  externe sunt echidistante față de casetă.
 
-  • orbito-meatal baseline trebuie să fie perpendicular pe casetă.
+  • Linia de bază orbito-meatală trebuie să fie perpendiculară pe casetă.
 
 
-  • pacientul este culcat Decubit dorsal pe trolley sau masa radiologică, cu posterior
-  aspect de Craniu resting pe casetă cu grilă antidifuzoare.
+  • Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică,
+  cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
 
-  • capul este ajustat la bring planul mediosagital la rightangles la caseta și so
-  it este coincident cu its midline.
+  • Capul este ajustat pentru a aduce planul mediosagital perpendicular pe casetă
+  și astfel încât să fie coincident cu linia sa mediană.
 
-  • orbito-meatal base line trebuie să fie perpendicular pe film radiologic.'
+  • Linia de bază orbito-meatală trebuie să fie perpendiculară pe filmul radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -107,35 +111,35 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- șa turcească de sphenoid bone este projected within gaură occipitală mare (foramen
-  magnum).
-- imagine trebuie să include toate de occipital bone și posterior parts de parietal
-  bone, și lambdoidal suture trebuie să fie visualized clearly.
-- Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that
-  șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-- 'Erori de evitat / remedii: See occipito-frontal incidențe (p. 241).'
-- 'Erori de evitat / remedii: Remember that increasing grade de cranial angulation
-  will project stânci temporale (piramide pietroase) further down orbits.'
-- 'Erori de evitat / remedii: Under-angulation: gaură occipitală mare (foramen magnum)
-  este nu clar evidențiat(e) above stânci temporale (piramide pietroase). This este
-  probably most common fault, ca pacientul poate find it difficult la maintain baseline
-  perpendicular pe film radiologic.'
+- Șaua turcească a osului sfenoid este proiectată în interiorul găurii occipitale
+  mari (foramen magnum).
+- Imaginea trebuie să includă întregul os occipital și porțiunile posterioare ale
+  oaselor parietale, iar sutura lambdoidă trebuie vizualizată clar.
+- Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea
+  faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+- 'Erori de evitat / remedii: Consultați incidențele occipito-frontale (p. 241).'
+- 'Erori de evitat / remedii: Rețineți că mărirea gradului de angulație cranială va
+  proiecta stâncile temporale (piramidele pietroase) mai jos în orbite.'
+- 'Erori de evitat / remedii: Subangulație: gaura occipitală mare (foramen magnum)
+  nu este evidențiată clar deasupra stâncilor temporale (piramidelor pietroase). Aceasta
+  este probabil cea mai frecventă eroare, deoarece pacientului îi poate fi dificil
+  să mențină linia de bază perpendiculară pe filmul radiologic.'
 sid_dff: 100 cm
 slug: rx-craniu-fronto-occipital-p257-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 257
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=257
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Fronto - occipital
+  mas: Conform AEC / grosimii anatomice
+title: Rx Craniu Fronto-occipital
 ---
-# Rx Craniu Fronto - occipital
+# Rx Craniu Fronto-occipital
 
 
 <div class="rx-meta-bar">
@@ -154,9 +158,9 @@ title: Rx Craniu Fronto - occipital
 
     === "Indicații Clinice"
 
-        - See occipito-frontal incidențe (p. 240).
-        - gaură occipitală mare (foramen magnum) trebuie să fie seen clearly pe this incidență. margins poate fie obscured prin incorrect angulation, thus hiding important suspiciune de fractură.
-        - zygoma poate fie seen well pe this incidență. If suspiciune de fracturăd, this gives clue la presence de associated facial injury.
+        - Consultați incidențele occipito-frontale (p. 240).
+        - Gaura occipitală mare (foramen magnum) trebuie vizualizată clar pe această incidență. Marginile pot fi mascate de angulația incorectă, ascunzând astfel o suspiciune importantă de fractură.
+        - Zigomul poate fi vizualizat bine pe această incidență. Dacă există suspiciune de fractură, aceasta oferă un indiciu privind prezența unei leziuni faciale asociate.
 
     === "Ghid Național IRIS"
 
@@ -170,25 +174,25 @@ title: Rx Craniu Fronto - occipital
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe trolley sau masa radiologică, sau cu posterior aspect de Craniu resting pe casetă cu grilă antidifuzoare.
-• capul este ajustat la bring planul mediosagital la rightangles la film radiologic și coincident cu its midline. în this poziție, extern auditory meatuses sunt echidistant față de caseta.
-• orbito-meatal baseline trebuie să fie perpendicular pe casetă.
+    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică ori cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
+• Capul este ajustat pentru a aduce planul mediosagital perpendicular pe filmul radiologic și coincident cu linia sa mediană. În această poziție, conductele auditive externe sunt echidistante față de casetă.
+• Linia de bază orbito-meatală trebuie să fie perpendiculară pe casetă.
 
-• pacientul este culcat Decubit dorsal pe trolley sau masa radiologică, cu posterior aspect de Craniu resting pe casetă cu grilă antidifuzoare.
-• capul este ajustat la bring planul mediosagital la rightangles la caseta și so it este coincident cu its midline.
-• orbito-meatal base line trebuie să fie perpendicular pe film radiologic.
-    - **Punct de Centrare Fascicul:** toate angulations pentru fronto-occipital incidențe sunt made cranially.
+• Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică, cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
+• Capul este ajustat pentru a aduce planul mediosagital perpendicular pe casetă și astfel încât să fie coincident cu linia sa mediană.
+• Linia de bază orbito-meatală trebuie să fie perpendiculară pe filmul radiologic.
+    - **Punct de Centrare Fascicul:** Toate angulațiile pentru incidențele fronto-occipitale sunt efectuate cranial.
 Fronto-occipital
-• raza centrală este orientat perpendicular pe casetă sau Bucky along planul mediosagital.
-• collimation field trebuie să fie set pentru include vertex de Craniu superiorly, base de occipital bone inferiorly, și Profil (lateral) skin margins. It este important la ensure that toate de tubul este centred la middle de Bucky.
-Fronto-occipital caudal angulation:
+• Raza centrală este orientată perpendicular pe casetă sau Bucky, de-a lungul planului mediosagital.
+• Câmpul de colimare trebuie reglat astfel încât să includă vertexul superior al craniului, baza inferioară a osului occipital și marginile cutanate de profil (lateral). Este important să se asigure că tubul este centrat pe mijlocul dispozitivului Bucky.
+Angulație caudală fronto-occipitală:
 10, 15 și 20 grade
-• technique used pentru these three incidențe este similar la that employed pentru occipito-frontal, except that cranial angulation este applied. grade de angulation will depend pe incidență required.
-• Remember that caseta sau Bucky trebuie să fie displaced superiorly la allow pentru tubul angulation, otherwise aria de interes diagnostic will fie projected off film radiologic. pentru a 20-grade angle, top de caseta will need la fie 5 cm above Craniu vertex.
+• Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru incidența occipito-frontală, cu excepția faptului că se aplică angulația cranială. Gradul angulației va depinde de incidența necesară.
+• Rețineți că filmul sau dispozitivul Bucky trebuie deplasat superior pentru a permite angulația tubului; în caz contrar, aria de interes diagnostic va fi proiectată în afara filmului radiologic. Pentru un unghi de 20 grade, partea superioară a casetei va trebui să se afle la 5 cm deasupra vertexului craniului.
 
-• raza centrală este înclinat caudally so it makes angle de 30 grade la orbito-meatal plane.
-• Centre în linia mediană astfel încât fascicul passes midway între extern auditory meatuses. This este la point approximately 5 cm above glabelă.
-• top de caseta trebuie să fie poziționat adjacent la vertex de Craniu la ensure that fascicul angulation does nu project aria de interes diagnostic off bottom de imagine.
+• Raza centrală este înclinată caudal astfel încât formează un unghi de 30 grade cu linia orbitomeatală.
+• Centrați pe linia mediană astfel încât fasciculul să treacă la jumătatea distanței dintre conductele auditive externe. Acesta se află la aproximativ 5 cm deasupra glabelei.
+• Partea superioară a casetei trebuie poziționată adiacent vertexului craniului pentru a vă asigura că angulația fasciculului nu proiectează aria de interes diagnostic în afara părții inferioare a imaginii.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -199,24 +203,24 @@ Fronto-occipital caudal angulation:
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - șa turcească de sphenoid bone este projected within gaură occipitală mare (foramen magnum).
-    - imagine trebuie să include toate de occipital bone și posterior parts de parietal bone, și lambdoidal suture trebuie să fie visualized clearly.
-    - Craniu trebuie să nu fie rotit. This poate also fie assessed prin ensuring that șa turcească appears în middle de gaură occipitală mare (foramen magnum).
-    - Erori de evitat / remedii: See occipito-frontal incidențe (p. 241).
-    - Erori de evitat / remedii: Remember that increasing grade de cranial angulation will project stânci temporale (piramide pietroase) further down orbits.
-    - Erori de evitat / remedii: Under-angulation: gaură occipitală mare (foramen magnum) este nu clar evidențiat(e) above stânci temporale (piramide pietroase). This este probably most common fault, ca pacientul poate find it difficult la maintain baseline perpendicular pe film radiologic.
+    - Șaua turcească a osului sfenoid este proiectată în interiorul găurii occipitale mari (foramen magnum).
+    - Imaginea trebuie să includă întregul os occipital și porțiunile posterioare ale oaselor parietale, iar sutura lambdoidă trebuie vizualizată clar.
+    - Craniul nu trebuie să fie rotit. Acest lucru poate fi evaluat și prin verificarea faptului că șaua turcească apare în mijlocul găurii occipitale mari (foramen magnum).
+    - Erori de evitat / remedii: Consultați incidențele occipito-frontale (p. 241).
+    - Erori de evitat / remedii: Rețineți că mărirea gradului de angulație cranială va proiecta stâncile temporale (piramidele pietroase) mai jos în orbite.
+    - Erori de evitat / remedii: Subangulație: gaura occipitală mare (foramen magnum) nu este evidențiată clar deasupra stâncilor temporale (piramidelor pietroase). Aceasta este probabil cea mai frecventă eroare, deoarece pacientului îi poate fi dificil să mențină linia de bază perpendiculară pe filmul radiologic.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -229,10 +233,10 @@ Fronto-occipital caudal angulation:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    See occipito-frontal incidențe (p. 241).
-• în example given below, FO20°↓incidență este required, but pacientul poate only maintain their orbito-meatal base line în poziție 10 grade back de la perpendicular (i.e. cu bărbia raised slightly). în order la achieve overall 20-grade angle, ten-grade cranial angulation will need la fie applied la tubul.
-• Similarly, if pacientul’s chin was raised astfel încât baseline was 20 grade la perpendicular, then FO20°↓ incidență could fie achieved prin using straight tube perpendicular pe film radiologic.
-20° 10° 10° FO20°↑incidență achieved cu 10° tube angle și RBL raised 10° FO incidență FO20°↑incidență
+    Consultați incidențele occipito-frontale (p. 241).
+• În exemplul de mai jos, este necesară incidența FO20°↓, dar pacientul își poate menține linia de bază orbito-meatală doar la 10 grade înapoi față de perpendiculară (adică având bărbia ușor ridicată). Pentru a obține un unghi total de 20 grade, va trebui aplicată o angulație cranială de zece grade tubului.
+• În mod similar, dacă bărbia pacientului ar fi ridicată astfel încât linia de bază să fie la 20 grade față de perpendiculară, incidența FO20°↓ ar putea fi obținută utilizând tubul drept, perpendicular pe filmul radiologic.
+20° 10° 10° Incidență FO20°↑ obținută cu un unghi al tubului de 10° și RBL ridicată cu 10° Incidență FO Incidență FO20°↑
 
 
 ### 🖼️ Imagini
@@ -243,7 +247,7 @@ Fronto-occipital caudal angulation:
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -265,9 +269,9 @@ Fronto-occipital caudal angulation:
 
 <figure class="protocol-image-card" markdown>
 
-![thus hiding important suspiciune de fractură.](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_4.jpeg)
+![ascunzând astfel o suspiciune importantă de fractură.](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_4.jpeg)
 
-<figcaption><strong>thus hiding important suspiciune de fractură.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>ascunzând astfel o suspiciune importantă de fractură.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -300,4 +304,4 @@ Fronto-occipital caudal angulation:
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 257](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=257)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 257](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

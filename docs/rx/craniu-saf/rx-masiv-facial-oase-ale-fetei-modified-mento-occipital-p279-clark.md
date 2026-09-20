@@ -3,32 +3,35 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• pacientul trebuie să fie assessed pentru poziție (angle) de linie orbitomeatală
-  (LOM) în relation la caseta.
+centering: '• pacientul trebuie evaluat în ceea ce privește poziția (unghiul) liniei
+  orbitomeatale (LOM) în raport cu caseta.
 
-  • If baseline makes angle de 45 grade back de la vertical (chin raised), then perpendicular
-  fascicul poate fie employed centred la linia mediană la nivelul lower orbital margins.
+  • Dacă linia de bază formează un unghi de 45 grade posterior față de verticală (bărbia
+  ridicată), poate fi utilizat un fascicul perpendicular, centrat pe linia mediană
+  la nivelul marginilor orbitare inferioare.
 
-  • If orbito-meatal baseline makes angle de less than 45 grade cu caseta because
-  de gâtul brace, then difference între measured angle și 45 grade trebuie să fie
-  added la fascicul în form de cranial angulation. centring point remains same.
+  • Dacă linia orbitomeatală formează cu caseta un unghi mai mic de 45 grade din cauza
+  ortezei cervicale, diferența dintre unghiul măsurat și 45 grade trebuie adăugată
+  fasciculului sub forma unei angulații craniene. Punctul de centrare rămâne același.
 
-  • pentru example, if orbito-meatal baseline was estimated la fie 20 grade de la
-  vertical ca bărbia was raised, then a 25-grade cranial angulation would need la
-  fie applied la tubul la maintain required angle (see diagram).
+  • de exemplu, dacă linia orbitomeatală a fost estimată la 20 grade față de verticală
+  deoarece bărbia era ridicată, trebuie aplicată o angulație craniană de 25 grade
+  tubului pentru a menține unghiul necesar (vezi schema).
 
 
-  • tubul este înclinat 30 grade caudally și centred along linia mediană, astfel încât
-  raza centrală exits la nivelul lower orbital margins.
+  • tubul este înclinat cu 30 grade caudal și centrat de-a lungul liniei mediane,
+  astfel încât raza centrală să iasă la nivelul marginilor orbitare inferioare.
 
-  • la check that fascicul este centred properly, cross-lines pe Bucky sau casetă
-  holder trebuie să coincide approximately cu upper simfiză menti region (this will
-  vary cu anatomical differences între pacienți).'
+  • pentru a verifica dacă fasciculul este centrat corect, liniile încrucișate de
+  pe stativul Bucky sau suportul casetei trebuie să coincidă aproximativ cu regiunea
+  superioară a simfizei mentoniere (aceasta va varia în funcție de diferențele anatomice
+  dintre pacienți).'
 clinical_indications:
-- 265 9 Masiv Facial (Oase ale Feței) 30° 45° Occipito-mental 30 grade caudal
+- 265 9 Masiv facial (oasele feței) 30° 45° Occipito-mentonieră 30 grade caudal
 images:
-- caption: trolley, în neck brace, și cu radiographic baseline în
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: targă mobilă, cu orteză cervicală și cu linia de bază radiografică în
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -48,44 +51,57 @@ images:
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• ca cranial angulation increases, top de caseta trebuie să fie displaced
-  further de la top de capul.
+notes: '• pe măsură ce angulația craniană crește, partea superioară a casetei trebuie
+  deplasată mai mult față de partea superioară a capului.
 
-  • These imagini suffer greatly de la poor resolution resulting de la magnification
-  și distortion de la cranial angulation. It poate fie worth considering postponing
-  examination until orice spinal injury poate fie ruled out și pacientul poate fie
-  examined fără gâtul brace sau moved pe la Craniu unit if other injuries will allow.
+  • aceste imagini prezintă o deteriorare accentuată din cauza rezoluției slabe, rezultată
+  din mărirea și distorsiunea produse de angulația craniană. Poate fi util să se ia
+  în considerare amânarea examinării până când orice leziune spinală poate fi exclusă
+  și pacientul poate fi examinat fără orteza cervicală sau mutat pe aparatul pentru
+  craniu, dacă celelalte leziuni permit.
 
-  264 45° pacient imaged Decubit dorsal cu 45-grade baseline 25° 20° pacient imaged
-  Decubit dorsal cu 20-grade baseline și 25-grade cranial angulation
+  264 45° pacient examinat în decubit dorsal cu linia de bază la 45 grade 25° 20°
+  pacient examinat în decubit dorsal cu linia de bază la 20 grade și angulație craniană
+  de 25 grade
 
 
-  pe many Craniu units, tubul și casetă holder sunt fixed permanently, astfel încât
-  tube este perpendicular pe casetă. This presents problem pentru this incidență,
-  ca baseline trebuie să fie 45 grade la caseta. This would nu fie case when 30-grade
-  tube angle este applied. pacientul trebuie să therefore fie poziționat cu their
-  linie orbitomeatală (LOM) poziționat la 45 grade la imaginary vertical line de la
-  floor (see imagine opposite).
+  la multe aparate pentru craniu, tubul și suportul casetei sunt fixate permanent,
+  astfel încât tubul este perpendicular pe casetă. Aceasta reprezintă o problemă pentru
+  această incidență, deoarece linia de bază trebuie să formeze 45 grade cu caseta.
+  Acest lucru nu ar fi valabil când se aplică un unghi al tubului de 30 grade. Pacientul
+  trebuie, prin urmare, poziționat cu linia orbitomeatală (LOM) la 45 grade față de
+  linia verticală imaginară trasată de la podea (vezi imaginea alăturată).
 
-  Although such arrangement makes positioning și imobilizare more difficult, it does
-  have advantage de producing imagine that este liber de distortion.
+  Deși acest aranjament face poziționarea și imobilizarea mai dificile, are avantajul
+  de a produce o imagine lipsită de distorsiune.
 
-  This incidență evidențiază lower orbital margins și orbital floors en face. zygomatic
-  arches sunt opened out compared cu occipito-mental incidență but they sunt still
-  foreshortened.'
-position: "• pacientul will fie Decubit dorsal pe trolley și trebuie să nu fie moved.\
-  \ If it este possible la place casetă și grilă under pacientul’s cap fără moving\
-  \ gâtul, then this trebuie să fie undertaken. If this este nu possible, then place\
-  \ caseta și grilă în caseta tray under pacientul.\n• top de caseta trebuie să fie\
-  \ la least 5 cm above top de capul la allow pentru orice cranial fascicul angulation.\n\
-  • A 24 \x02 30-cm casetă este recommended.\n\n• Incidența se realizează optim cu\
-  \ pacientul așezat cu fața spre Craniu unit casetă holder sau stativ vertical Bucky.\n\
-  • Nasul și bărbia pacientului sunt plasate în contact cu linia mediană stativului/casetei.\
-  \ capul then este ajustat la bring orbito-meatal baseline la a 45-grade angle la\
-  \ caseta holder.\n• orizontal central line de Bucky sau casetă holder trebuie să\
-  \ fie la nivelul simfiză menti.\n• Ensure that planul mediosagital este la drept-angles\
-  \ la Bucky sau casetă holder prin checking that outer canthi de eyes și extern auditory\
-  \ meatuses sunt equidistant."
+  Această incidență evidențiază marginile orbitare inferioare și planșeele orbitare
+  en face. Arcurile zigomatice sunt desfăcute comparativ cu incidența occipito-mentonieră,
+  dar sunt încă scurtate.'
+position: '• pacientul va fi în decubit dorsal pe targa mobilă și nu trebuie mișcat.
+  Dacă este posibilă introducerea casetei și a grilei sub capul pacientului fără mobilizarea
+  gâtului, aceasta trebuie efectuată. Dacă nu este posibil, introduceți caseta și
+  grila în tava pentru casetă de sub pacient.
+
+  • partea superioară a casetei trebuie să fie la cel puțin 5 cm deasupra părții superioare
+  a capului, pentru a permite orice angulație craniană a fasciculului.
+
+  • se recomandă o casetă de 24 × 30-cm.
+
+
+  • incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei
+  aparatului pentru craniu sau stativul vertical Bucky.
+
+  • nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei.
+  Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade
+  față de suportul casetei.
+
+  • linia centrală orizontală a stativului Bucky sau a suportului casetei trebuie
+  să fie la nivelul simfizei mentoniere.
+
+  • asigurați-vă că planul mediosagital este perpendicular pe stativul Bucky sau suportul
+  casetei, verificând că canthusurile externe ale ochilor și meatul auditiv extern
+  sunt echidistante.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -94,31 +110,32 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- floors de orbit will fie clearly vizibil through maxillary Sinusuri Paranazale (SAF),
-  și lower orbital margin trebuie să fie clar evidențiat(e).
-- There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă).
-  This poate fie checked prin ensuring that distance de la Profil (lateral) orbital
-  perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
-- 'Erori de evitat / remedii: Failure la evidențiază whole de orbital floor due la
-  under-angulation și failure la maintain orbito-meatal baseline la 45 grade. pentru
-  pacientul who finds difficulty în achieving latter, greater caudal tube angle poate
-  fie required.'
+- planșeele orbitare vor fi clar vizibile prin sinusurile maxilare paranazale (SAF),
+  iar marginea orbitală inferioară trebuie evidențiată clar.
+- Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta
+  poate fi verificată asigurându-se că distanța de la peretele orbital de profil la
+  marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
+- 'Erori de evitat / remedii: imposibilitatea evidențierii întregului planșeu orbital
+  din cauza angulației insuficiente și imposibilitatea menținerii liniei orbitomeatale
+  la 45 grade. Pentru pacientul care întâmpină dificultăți în obținerea ultimei poziții,
+  poate fi necesar un unghi mai mare al tubului, caudal.'
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 279
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=279
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
+  mas: Conform AEC / grosimii anatomice
+title: Radiografia masivului facial (oaselor feței), incidență occipito-mentonieră
+  modificată
 ---
-# Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
+# Radiografia masivului facial (oaselor feței), incidență occipito-mentonieră modificată
 
 
 <div class="rx-meta-bar">
@@ -137,7 +154,7 @@ title: Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
 
     === "Indicații Clinice"
 
-        - 265 9 Masiv Facial (Oase ale Feței) 30° 45° Occipito-mental 30 grade caudal
+        - 265 9 Masiv facial (oasele feței) 30° 45° Occipito-mentonieră 30 grade caudal
 
     === "Ghid Național IRIS"
 
@@ -151,21 +168,21 @@ title: Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
 
     ---
 
-    - **Poziție Pacient:** • pacientul will fie Decubit dorsal pe trolley și trebuie să nu fie moved. If it este possible la place casetă și grilă under pacientul’s cap fără moving gâtul, then this trebuie să fie undertaken. If this este nu possible, then place caseta și grilă în caseta tray under pacientul.
-• top de caseta trebuie să fie la least 5 cm above top de capul la allow pentru orice cranial fascicul angulation.
-• A 24  30-cm casetă este recommended.
+    - **Poziție Pacient:** • pacientul va fi în decubit dorsal pe targa mobilă și nu trebuie mișcat. Dacă este posibilă introducerea casetei și a grilei sub capul pacientului fără mobilizarea gâtului, aceasta trebuie efectuată. Dacă nu este posibil, introduceți caseta și grila în tava pentru casetă de sub pacient.
+• partea superioară a casetei trebuie să fie la cel puțin 5 cm deasupra părții superioare a capului, pentru a permite orice angulație craniană a fasciculului.
+• se recomandă o casetă de 24 × 30-cm.
 
-• Incidența se realizează optim cu pacientul așezat cu fața spre Craniu unit casetă holder sau stativ vertical Bucky.
-• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană stativului/casetei. capul then este ajustat la bring orbito-meatal baseline la a 45-grade angle la caseta holder.
-• orizontal central line de Bucky sau casetă holder trebuie să fie la nivelul simfiză menti.
-• Ensure that planul mediosagital este la drept-angles la Bucky sau casetă holder prin checking that outer canthi de eyes și extern auditory meatuses sunt equidistant.
-    - **Punct de Centrare Fascicul:** • pacientul trebuie să fie assessed pentru poziție (angle) de linie orbitomeatală (LOM) în relation la caseta.
-• If baseline makes angle de 45 grade back de la vertical (chin raised), then perpendicular fascicul poate fie employed centred la linia mediană la nivelul lower orbital margins.
-• If orbito-meatal baseline makes angle de less than 45 grade cu caseta because de gâtul brace, then difference între measured angle și 45 grade trebuie să fie added la fascicul în form de cranial angulation. centring point remains same.
-• pentru example, if orbito-meatal baseline was estimated la fie 20 grade de la vertical ca bărbia was raised, then a 25-grade cranial angulation would need la fie applied la tubul la maintain required angle (see diagram).
+• incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei aparatului pentru craniu sau stativul vertical Bucky.
+• nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade față de suportul casetei.
+• linia centrală orizontală a stativului Bucky sau a suportului casetei trebuie să fie la nivelul simfizei mentoniere.
+• asigurați-vă că planul mediosagital este perpendicular pe stativul Bucky sau suportul casetei, verificând că canthusurile externe ale ochilor și meatul auditiv extern sunt echidistante.
+    - **Punct de Centrare Fascicul:** • pacientul trebuie evaluat în ceea ce privește poziția (unghiul) liniei orbitomeatale (LOM) în raport cu caseta.
+• Dacă linia de bază formează un unghi de 45 grade posterior față de verticală (bărbia ridicată), poate fi utilizat un fascicul perpendicular, centrat pe linia mediană la nivelul marginilor orbitare inferioare.
+• Dacă linia orbitomeatală formează cu caseta un unghi mai mic de 45 grade din cauza ortezei cervicale, diferența dintre unghiul măsurat și 45 grade trebuie adăugată fasciculului sub forma unei angulații craniene. Punctul de centrare rămâne același.
+• de exemplu, dacă linia orbitomeatală a fost estimată la 20 grade față de verticală deoarece bărbia era ridicată, trebuie aplicată o angulație craniană de 25 grade tubului pentru a menține unghiul necesar (vezi schema).
 
-• tubul este înclinat 30 grade caudally și centred along linia mediană, astfel încât raza centrală exits la nivelul lower orbital margins.
-• la check that fascicul este centred properly, cross-lines pe Bucky sau casetă holder trebuie să coincide approximately cu upper simfiză menti region (this will vary cu anatomical differences între pacienți).
+• tubul este înclinat cu 30 grade caudal și centrat de-a lungul liniei mediane, astfel încât raza centrală să iasă la nivelul marginilor orbitare inferioare.
+• pentru a verifica dacă fasciculul este centrat corect, liniile încrucișate de pe stativul Bucky sau suportul casetei trebuie să coincidă aproximativ cu regiunea superioară a simfizei mentoniere (aceasta va varia în funcție de diferențele anatomice dintre pacienți).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -176,21 +193,21 @@ title: Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - floors de orbit will fie clearly vizibil through maxillary Sinusuri Paranazale (SAF), și lower orbital margin trebuie să fie clar evidențiat(e).
-    - There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă). This poate fie checked prin ensuring that distance de la Profil (lateral) orbital perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
-    - Erori de evitat / remedii: Failure la evidențiază whole de orbital floor due la under-angulation și failure la maintain orbito-meatal baseline la 45 grade. pentru pacientul who finds difficulty în achieving latter, greater caudal tube angle poate fie required.
+    - planșeele orbitare vor fi clar vizibile prin sinusurile maxilare paranazale (SAF), iar marginea orbitală inferioară trebuie evidențiată clar.
+    - Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta poate fi verificată asigurându-se că distanța de la peretele orbital de profil la marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
+    - Erori de evitat / remedii: imposibilitatea evidențierii întregului planșeu orbital din cauza angulației insuficiente și imposibilitatea menținerii liniei orbitomeatale la 45 grade. Pentru pacientul care întâmpină dificultăți în obținerea ultimei poziții, poate fi necesar un unghi mai mare al tubului, caudal.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -203,13 +220,13 @@ title: Rx Masiv Facial (Oase ale Feței) Modified mento - occipital
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • ca cranial angulation increases, top de caseta trebuie să fie displaced further de la top de capul.
-• These imagini suffer greatly de la poor resolution resulting de la magnification și distortion de la cranial angulation. It poate fie worth considering postponing examination until orice spinal injury poate fie ruled out și pacientul poate fie examined fără gâtul brace sau moved pe la Craniu unit if other injuries will allow.
-264 45° pacient imaged Decubit dorsal cu 45-grade baseline 25° 20° pacient imaged Decubit dorsal cu 20-grade baseline și 25-grade cranial angulation
+    • pe măsură ce angulația craniană crește, partea superioară a casetei trebuie deplasată mai mult față de partea superioară a capului.
+• aceste imagini prezintă o deteriorare accentuată din cauza rezoluției slabe, rezultată din mărirea și distorsiunea produse de angulația craniană. Poate fi util să se ia în considerare amânarea examinării până când orice leziune spinală poate fi exclusă și pacientul poate fi examinat fără orteza cervicală sau mutat pe aparatul pentru craniu, dacă celelalte leziuni permit.
+264 45° pacient examinat în decubit dorsal cu linia de bază la 45 grade 25° 20° pacient examinat în decubit dorsal cu linia de bază la 20 grade și angulație craniană de 25 grade
 
-pe many Craniu units, tubul și casetă holder sunt fixed permanently, astfel încât tube este perpendicular pe casetă. This presents problem pentru this incidență, ca baseline trebuie să fie 45 grade la caseta. This would nu fie case when 30-grade tube angle este applied. pacientul trebuie să therefore fie poziționat cu their linie orbitomeatală (LOM) poziționat la 45 grade la imaginary vertical line de la floor (see imagine opposite).
-Although such arrangement makes positioning și imobilizare more difficult, it does have advantage de producing imagine that este liber de distortion.
-This incidență evidențiază lower orbital margins și orbital floors en face. zygomatic arches sunt opened out compared cu occipito-mental incidență but they sunt still foreshortened.
+la multe aparate pentru craniu, tubul și suportul casetei sunt fixate permanent, astfel încât tubul este perpendicular pe casetă. Aceasta reprezintă o problemă pentru această incidență, deoarece linia de bază trebuie să formeze 45 grade cu caseta. Acest lucru nu ar fi valabil când se aplică un unghi al tubului de 30 grade. Pacientul trebuie, prin urmare, poziționat cu linia orbitomeatală (LOM) la 45 grade față de linia verticală imaginară trasată de la podea (vezi imaginea alăturată).
+Deși acest aranjament face poziționarea și imobilizarea mai dificile, are avantajul de a produce o imagine lipsită de distorsiune.
+Această incidență evidențiază marginile orbitare inferioare și planșeele orbitare en face. Arcurile zigomatice sunt desfăcute comparativ cu incidența occipito-mentonieră, dar sunt încă scurtate.
 
 
 ### 🖼️ Imagini
@@ -218,9 +235,9 @@ This incidență evidențiază lower orbital margins și orbital floors en face.
 
 <figure class="protocol-image-card" markdown>
 
-![trolley, în neck brace, și cu radiographic baseline în](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark/fig_1.jpeg)
+![targă mobilă, cu orteză cervicală și cu linia de bază radiografică în](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark/fig_1.jpeg)
 
-<figcaption><strong>trolley, în neck brace, și cu radiographic baseline în</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>targă mobilă, cu orteză cervicală și cu linia de bază radiografică în</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -269,4 +286,4 @@ This incidență evidențiază lower orbital margins și orbital floors en face.
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 279](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=279)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 279](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

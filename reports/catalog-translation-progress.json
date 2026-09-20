@@ -1,0 +1,10 @@
+{
+  "total_documents": 676,
+  "documents_with_all_fields_translated": 246,
+  "total_unique_texts": 10068,
+  "translated_unique_texts": 4420,
+  "total_source_words": 303877,
+  "translated_source_words": 127901,
+  "source_fragments_flagged": 311,
+  "translation_review_pending": 0
+}

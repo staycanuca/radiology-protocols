@@ -2,26 +2,26 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/
-  table)—raza centrală și linie mentomeatală (LMM) perpendicular (linie orbitomeatală
-  (LOM) 37° la receptorul de imagine).
+centering: Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică/masa
+  de ortostatism)—raza centrală și linia mentomeatală (LMM) perpendiculare (linia
+  orbitomeatală (LOM) la 37° față de receptorul de imagine).
 clinical_indications:
-- Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii
-  osoase)
-- Sinus exudate
-- Sinus polyps și cysts
+- Afecțiuni inflamatorii (sinuzită, osteomielită secundară / leziuni osoase inflamatorii)
+- Exudate sinusale
+- Polipi și chisturi sinusale
 images:
-- caption: Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.192 Parietoacanthial
-    incidență (în ortostatism imaging device/)
+- caption: Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică în
+    ortostatism/
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.192 Incidență
+    parietoacantială (pe dispozitivul de imagistică în ortostatism/)
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg
-- caption: Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified de la
+- caption: Fig. 11.194 Incidență parietoacantială—sinusuri. (Modificat după
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.194
-    Parietoacanthial incidență—sinuses. (Modified de la)
+    Incidență parietoacantială—sinusuri. (Modificat după)
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.png
-- caption: 'Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T:'
+- caption: 'Fig. 11.193 Incidență parietoacantială—sinusuri. (După Curtis T:'
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.193
-    Parietoacanthial incidență—sinuses. (de la Curtis T:)
+    Incidență parietoacantială—sinusuri. (După Curtis T:)
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -29,18 +29,19 @@ images:
   url: assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: raza centrală trebuie să fie orizontal, și pacient trebuie să fie Ortostatism
-  la evidențiază airfluid levels within paranasal sinus cavities. SINUSES ROUTINE
-  lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență
-  Occipito-Mentonieră (Metoda Waters))
+notes: Raza centrală trebuie să fie orizontală, iar pacientul trebuie să fie în ortostatism
+  pentru evidențierea nivelurilor aer-lichid în cavitățile sinusurilor paranazale.
+  SINUSURI DE RUTINĂ laterală PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacantială
+  (Incidență Occipito-Mentonieră (Metoda Waters))
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. poziție pacient Ortostatism (see NOTE).; Regiune anatomică:
-  Extend neck, placing chin și nose against table/în ortostatism imaging device surface.
-  Adjust cap until linie mentomeatală (LMM) este perpendicular pe receptorul de imagine;
-  linie orbitomeatală (LOM) forms a 37° angle cu plane de receptorul de imagine (Fig.
-  11.192). poziție MsP perpendicular la midline de grilă. Ensure that Absența rotației
-  anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt exists.
-  Se centrează receptorul de imagine pe raza centrală și la acantion.'
+  capului și gâtului. Poziția pacientului: Ortostatism (vezi NOTA).; Regiune anatomică:
+  Extindeți gâtul, așezând bărbia și nasul pe suprafața mesei/dispozitivului de imagistică
+  în ortostatism. Ajustați capul până când linia mentomeatală (LMM) este perpendiculară
+  pe receptorul de imagine; linia orbitomeatală (LOM) formează un unghi de 37° cu
+  planul receptorului de imagine (Fig. 11.192). MSP perpendicular pe linia mediană
+  a grilei. Asigurați absența rotației anatomice: clavicule echidistante față de linia
+  apofizelor spinoase sau a înclinării. Centrați receptorul de imagine pe raza centrală
+  și la nivelul acantionului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,42 +49,44 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'sinusuri maxilare cu inferior aspect visualized liber de la superimposing alveolar
-  processes și stânci temporale (piramide pietroase), inferior orbital margin, și
-  oblic incidență de sinusuri frontale (Figs. 11.193 și 11.194). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  de Craniu este indicated prin following: equal distance de la MSP (identified prin
-  bony nasal septum) la lateral orbital margin pe ambele părți (bilateral); equal
-  distance de la lateral orbital margin la lateral cortex de Craniu pe ambele părți
-  (bilateral) (side rotit spre receptorul de imagine will appear wider).'
-- adecvat extension de neck evidențiază stânci temporale (piramide pietroase) just
-  inferior la sinusuri maxilare.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize sinusuri
-  maxilare.
-- 'net bony margins indicate fără mișcare. Bony nasal septum inferior orbital margin
-  stânci temporale (piramide pietroase) stânci temporale (piramide pietroase) sinusuri
-  frontale sinusuri maxilare Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified
-  de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia,
-  2019, Elsevier.) Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T:
-  Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)'
+- 'Sinusurile maxilare cu aspect inferior sunt vizualizate libere de suprapunerea
+  proceselor alveolare și a stâncilor temporale (piramidelor pietroase), a marginii
+  orbitale inferioare și a incidenței oblice a sinusurilor frontale (Figs. 11.193
+  și 11.194). Poziție:'
+- 'Absența rotației anatomice a craniului: clavicule echidistante față de linia apofizelor
+  spinoase este indicată prin următoarele: distanță egală de la MSP (identificat prin
+  septul nazal osos) la marginea orbitală laterală pe ambele părți (bilateral); distanță
+  egală de la marginea orbitală laterală la corticala laterală a craniului pe ambele
+  părți (bilateral) (partea rotită spre receptorul de imagine va apărea mai largă).'
+- Extensia adecvată a gâtului evidențiază stâncile temporale (piramidele pietroase)
+  imediat inferior sinusurilor maxilare.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea
+  sinusurilor maxilare.
+- 'Marginile osoase nete indică absența mișcării. Sept nazal osos Margine orbitală
+  inferioară Stânci temporale (piramide pietroase) Stânci temporale (piramide pietroase)
+  Sinusuri frontale Sinusuri maxilare Fig. 11.194 Incidență parietoacantială—sinusuri.
+  (Modificat după Curtis T: Curs online pentru consultul digital de poziționare Mosby’s,
+  Philadelphia, 2019, Elsevier.) Fig. 11.193 Incidență parietoacantială—sinusuri.
+  (După Curtis T: Curs online pentru consultul digital de poziționare Mosby’s, Philadelphia,
+  2019, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 465
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră (Metoda
+title: Rx SINUSURI Incidență PARIETOACANTIALĂ (Incidență Occipito-Mentonieră (Metoda
   Waters))
 ---
-# Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră (Metoda Waters))
+# Rx SINUSURI Incidență PARIETOACANTIALĂ (Incidență Occipito-Mentonieră (Metoda Waters))
 
 
 <div class="rx-meta-bar">
@@ -102,9 +105,9 @@ title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră
 
     === "Indicații Clinice"
 
-        - Inflammatory conditions (sinusitis, secondary osteomielită / leziuni inflamatorii osoase)
-        - Sinus exudate
-        - Sinus polyps și cysts
+        - Afecțiuni inflamatorii (sinuzită, osteomielită secundară / leziuni osoase inflamatorii)
+        - Exudate sinusale
+        - Polipi și chisturi sinusale
 
     === "Ghid Național IRIS"
 
@@ -118,8 +121,8 @@ title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. poziție pacient Ortostatism (see NOTE).; Regiune anatomică: Extend neck, placing chin și nose against table/în ortostatism imaging device surface. Adjust cap until linie mentomeatală (LMM) este perpendicular pe receptorul de imagine; linie orbitomeatală (LOM) forms a 37° angle cu plane de receptorul de imagine (Fig. 11.192). poziție MsP perpendicular la midline de grilă. Ensure that Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau tilt exists. Se centrează receptorul de imagine pe raza centrală și la acantion.
-    - **Punct de Centrare Fascicul:** Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/ table)—raza centrală și linie mentomeatală (LMM) perpendicular (linie orbitomeatală (LOM) 37° la receptorul de imagine).
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului: Ortostatism (vezi NOTA).; Regiune anatomică: Extindeți gâtul, așezând bărbia și nasul pe suprafața mesei/dispozitivului de imagistică în ortostatism. Ajustați capul până când linia mentomeatală (LMM) este perpendiculară pe receptorul de imagine; linia orbitomeatală (LOM) formează un unghi de 37° cu planul receptorului de imagine (Fig. 11.192). MSP perpendicular pe linia mediană a grilei. Asigurați absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase sau a înclinării. Centrați receptorul de imagine pe raza centrală și la nivelul acantionului.
+    - **Punct de Centrare Fascicul:** Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică/masa de ortostatism)—raza centrală și linia mentomeatală (LMM) perpendiculare (linia orbitomeatală (LOM) la 37° față de receptorul de imagine).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -134,20 +137,20 @@ title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - sinusuri maxilare cu inferior aspect visualized liber de la superimposing alveolar processes și stânci temporale (piramide pietroase), inferior orbital margin, și oblic incidență de sinusuri frontale (Figs. 11.193 și 11.194). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Craniu este indicated prin following: equal distance de la MSP (identified prin bony nasal septum) la lateral orbital margin pe ambele părți (bilateral); equal distance de la lateral orbital margin la lateral cortex de Craniu pe ambele părți (bilateral) (side rotit spre receptorul de imagine will appear wider).
-    - adecvat extension de neck evidențiază stânci temporale (piramide pietroase) just inferior la sinusuri maxilare.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize sinusuri maxilare.
-    - net bony margins indicate fără mișcare. Bony nasal septum inferior orbital margin stânci temporale (piramide pietroase) stânci temporale (piramide pietroase) sinusuri frontale sinusuri maxilare Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.) Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T: Online course pentru Mosby’s digital positioning consult, Philadelphia, 2019, Elsevier.)
+    - Sinusurile maxilare cu aspect inferior sunt vizualizate libere de suprapunerea proceselor alveolare și a stâncilor temporale (piramidelor pietroase), a marginii orbitale inferioare și a incidenței oblice a sinusurilor frontale (Figs. 11.193 și 11.194). Poziție:
+    - Absența rotației anatomice a craniului: clavicule echidistante față de linia apofizelor spinoase este indicată prin următoarele: distanță egală de la MSP (identificat prin septul nazal osos) la marginea orbitală laterală pe ambele părți (bilateral); distanță egală de la marginea orbitală laterală la corticala laterală a craniului pe ambele părți (bilateral) (partea rotită spre receptorul de imagine va apărea mai largă).
+    - Extensia adecvată a gâtului evidențiază stâncile temporale (piramidele pietroase) imediat inferior sinusurilor maxilare.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea sinusurilor maxilare.
+    - Marginile osoase nete indică absența mișcării. Sept nazal osos Margine orbitală inferioară Stânci temporale (piramide pietroase) Stânci temporale (piramide pietroase) Sinusuri frontale Sinusuri maxilare Fig. 11.194 Incidență parietoacantială—sinusuri. (Modificat după Curtis T: Curs online pentru consultul digital de poziționare Mosby’s, Philadelphia, 2019, Elsevier.) Fig. 11.193 Incidență parietoacantială—sinusuri. (După Curtis T: Curs online pentru consultul digital de poziționare Mosby’s, Philadelphia, 2019, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,7 +163,7 @@ title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    raza centrală trebuie să fie orizontal, și pacient trebuie să fie Ortostatism la evidențiază airfluid levels within paranasal sinus cavities. SINUSES ROUTINE lateral PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacanthial (Incidență Occipito-Mentonieră (Metoda Waters))
+    Raza centrală trebuie să fie orizontală, iar pacientul trebuie să fie în ortostatism pentru evidențierea nivelurilor aer-lichid în cavitățile sinusurilor paranazale. SINUSURI DE RUTINĂ laterală PA (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacantială (Incidență Occipito-Mentonieră (Metoda Waters))
 
 
 ### 🖼️ Imagini
@@ -169,25 +172,25 @@ title: Rx SINUSES PARIETOACANTHIAL Incidență (Incidență Occipito-Mentonieră
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg)
+![Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică în ortostatism/](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.192 Parietoacanthial incidență (în ortostatism imaging device/)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified de la](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.png)
-
-<figcaption><strong>Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified de la</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.194 Parietoacanthial incidență—sinuses. (Modified de la)</span></figcaption>
+<figcaption><strong>Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică în ortostatism/</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.192 Incidență parietoacantială (pe dispozitivul de imagistică în ortostatism/)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T:](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg)
+![Fig. 11.194 Incidență parietoacantială—sinusuri. (Modificat după](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_2.png)
 
-<figcaption><strong>Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.193 Parietoacanthial incidență—sinuses. (de la Curtis T:)</span></figcaption>
+<figcaption><strong>Fig. 11.194 Incidență parietoacantială—sinusuri. (Modificat după</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.194 Incidență parietoacantială—sinusuri. (Modificat după)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.193 Incidență parietoacantială—sinusuri. (După Curtis T:](../../assets/images/protocols/bontrager/rx-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.193 Incidență parietoacantială—sinusuri. (După Curtis T:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.193 Incidență parietoacantială—sinusuri. (După Curtis T:)</span></figcaption>
 
 </figure>
 

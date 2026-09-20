@@ -10,7 +10,7 @@ images: []
 last_updated: '2026-09-15'
 modality: rx
 notes: Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații.
-  Se validează tehnica de stitching/EOS înainte de utilizare.
+  Se validează tehnica de îmbinare a imaginilor/stitching/EOS înainte de utilizare.
 population: Copil / adolescent; extensia la adult necesită validare locală
 position: Poziționare diferențiată pe incidențe; vezi lista de achiziții.
 protection:
@@ -154,7 +154,7 @@ workbench_transfer:
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații. Se validează tehnica de stitching/EOS înainte de utilizare.
+    Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații. Se validează tehnica de îmbinare a imaginilor/stitching/EOS înainte de utilizare.
 
 ## Incidențe și criterii de acceptare
 

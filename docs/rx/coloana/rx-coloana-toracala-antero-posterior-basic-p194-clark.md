@@ -3,27 +3,30 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: '• se orientează raza centrală centrală la drept-angles la caseta și spre
-  point 2.5 cm below sternal angle.
+centering: '• se orientează raza centrală la unghi drept față de casetă și spre un
+  punct situat la 2.5 cm sub unghiul sternal.
 
-  • Collimate tightly la coloană vertebrală.
+  • Se colimează strâns la nivelul coloanei vertebrale.
 
 
-  • raza centrală trebuie să fie la drept-angles la axa longitudinală de Coloană Toracală.
-  This poate require caudal angulation.
+  • raza centrală trebuie să fie perpendiculară pe axa longitudinală a Coloanei Toracale.
+  Acest lucru poate necesita angulație caudală.
 
-  • Centre 5 cm anterior la spinous process de T6/7. This este usually found just
-  below inferior angle de Omoplat (Scapulă) (assuming brațele sunt raised), which
-  este easily palpable.'
+  • Se centrează la 5 cm anterior de apofiza spinoasă a T6/7. Aceasta se găsește de
+  obicei chiar sub unghiul inferior al Omoplatului (Scapulei) (presupunând că brațele
+  sunt ridicate), care este ușor palpabil.'
 clinical_indications:
-- presence de intact pedicles este important sign în excluding metastatic disease.
-  Pedicles sunt more difficult la see pe underexposed sau rotit film radiologic.
+- Prezența pediculilor intacți este un semn important pentru excluderea bolii metastatice.
+  Pediculii sunt mai dificil de vizualizat pe o imagine radiologică subexpusă sau
+  rotită.
 images:
-- caption: • High radiographic contrast (see below) causes high densitate optică over
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Contrastul radiografic ridicat (vezi mai jos) determină o densitate optică
+    ridicată la nivelul
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_1.jpeg
-- caption: area și high densitate optică pe radiografie. Cord și Siluetă Cardiovasculară
-    și ficat
+- caption: zonei și o densitate optică ridicată pe radiografie. Cordul și Silueta
+    Cardiovasculară, precum și ficatul
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_2.jpeg
@@ -31,56 +34,59 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_3.jpeg
-- caption: • radiographer poate employ number de strategies la
+- caption: • radiograful poate utiliza mai multe strategii pentru a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_4.jpeg
-- caption: reduce high radiographic contrast associated cu this
+- caption: reduce contrastul radiografic ridicat asociat cu această
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_5.jpeg
-- caption: will usually lower radiographic contrast, thus demon-
+- caption: va reduce de obicei contrastul radiografic, demonstrând astfel
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• This region has extremely high subject contrast. This este due la superimposition
-  de air-filled trachea over upper Coloană Toracală. This produces relatively lucent
-  area și high densitate optică pe radiografie. Cord și Siluetă Cardiovasculară și
-  ficat superimposed over lower Coloană Toracală will attenuate more X-rays și yield
-  much lower film radiologic densitate optică.
+notes: '• Această regiune prezintă un contrast de subiect extrem de mare. Acest lucru
+  se datorează suprapunerii traheei pline cu aer peste porțiunea superioară a Coloanei
+  Toracale. Aceasta produce o zonă relativ radiotransparentă și o densitate optică
+  ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul, suprapuse
+  peste porțiunea inferioară a Coloanei Toracale, vor atenua mai multe raze X și vor
+  produce o densitate optică mult mai scăzută pe imaginea radiologică.
 
-  (contd) 1st–4th TV superimposed prin airfilled trachea 5th și 12th TV superimposed
-  prin dense shadows de Cord și Siluetă Cardiovasculară și gt vessels also etajul
-  abdominal superior Trachea Cord și Siluetă Cardiovasculară cupole diafragmatice
-  1st LV Radiographic contrast too high Lower contrast producing acceptable densitate
-  optică pentru upper și lower vertebra'
-position: '• pacientul este poziționat Decubit dorsal pe masa radiologică, cu planul
-  mediosagital perpendicular pe tabletop și coincident cu linia mediană Bucky.
+  (continuare) TV 1–4 suprapuse prin traheea plină cu aer TV 5 și 12 suprapuse prin
+  opacitățile dense ale Cordului și Siluetei Cardiovasculare și ale vaselor mari,
+  precum și prin etajul abdominal superior Trahee Cord și Siluetă Cardiovasculară
+  cupole diafragmatice LV 1 Contrast radiografic prea mare Contrast mai redus, care
+  produce o densitate optică acceptabilă pentru vertebrele superioare și inferioare'
+position: '• pacientul este poziționat în Decubit dorsal pe masa radiologică, cu planul
+  mediosagital perpendicular pe masa radiologică și coincident cu linia mediană a
+  Bucky.
 
-  • upper edge de casetă, which trebuie să fie la least 40 cm long pentru adult, trebuie
-  să fie la level just below prominence de cartilaj tiroid (mărul lui Adam) la ensure
-  that upper Coloană Toracală sunt included.
+  • marginea superioară a casetei, care trebuie să aibă o lungime de cel puțin 40
+  cm pentru adult, trebuie să fie la nivelul situat imediat sub proeminența cartilajului
+  tiroid (mărul lui Adam), pentru a asigura includerea Coloanei Toracale superioare.
 
-  • Make expunere pe arrested inspiration. This will cause cupole diafragmatice la
-  move down over upper lumbar vertebra, thus reducing chance de large densitate optică
-  difference appearing pe imagine de la superimposition de Torace (Câmpuri Pulmonare).
+  • Se efectuează expunerea în apnee după inspirație. Aceasta va determina coborârea
+  cupolelor diafragmatice peste vertebrele lombare superioare, reducând astfel posibilitatea
+  apariției unei diferențe mari de densitate optică pe imagine, din cauza suprapunerii
+  Toracelui (Câmpurilor Pulmonare).
 
 
-  • Usually undertaken cu pacientul în Profil (lateral) decubit poziție pe masa radiologică,
-  although this incidență poate also fie performed Ortostatism.
+  • De obicei se efectuează cu pacientul în poziție de Decubit lateral (profil) pe
+  masa radiologică, deși această incidență poate fi realizată și în Ortostatism.
 
-  • planul mediosagital trebuie să fie paralel cu casetă și linia mediană axilla coincident
-  cu linia mediană mesei sau Bucky.
+  • planul mediosagital trebuie să fie paralel cu caseta, iar linia mediană axilară
+  coincidentă cu linia mediană a mesei sau a Bucky.
 
-  • brațele trebuie să fie raised well above capul.
+  • brațele trebuie să fie ridicate bine deasupra capului.
 
-  • capul poate fie sprijinit cu pillow, și pads poate fie plasat între genunchi pentru
-  pacientul’s comfort.
+  • capul poate fi sprijinit pe o pernă, iar între genunchi pot fi plasate suporturi
+  pentru confortul pacientului.
 
-  • upper edge de caseta trebuie să fie la least 40 cm în length și trebuie să fie
-  poziționat 3–4 cm above spinous process de C7.'
+  • marginea superioară a casetei trebuie să aibă o lungime de cel puțin 40 cm și
+  trebuie poziționată la 3–4 cm deasupra apofizei spinoase a C7.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -89,41 +95,44 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include vertebre de la C7 la L1.
-- imagine densitate optică trebuie să fie sufficient la evidențiază bony detail pentru
-  upper ca well ca thoracic lower vertebre.
-- upper two sau three vertebre poate nu fie evidențiat due la superimposition de umerii.
-- Look pentru absence de rib pe L1 la lower margine de imagine. This will ensure that
-  T12 has been included within field.
-- posterior Coaste (Grilaj Costal) trebuie să fie superimposed, thus indicating that
-  pacientul was nu rotit too far forwards sau backwards.
-- trabeculae de vertebre trebuie să fie clearly vizibil, evidențiind absence de movement
-  unsharpness.
-- imagine densitate optică trebuie să fie adecvat pentru diagnosis pentru ambele upper
-  și lower Coloană Toracală. use de widelatitude imaging system/technique este therefore
-  desirable. 180
-- 'Erori de evitat / remedii: caseta și fascicul sunt often centred too low, thereby
-  excluding upper Coloană Toracală de la imagine.'
-- 'Erori de evitat / remedii: lower vertebre sunt also often nu included. L1 poate
-  fie identified easily prin fact that it usually will nu have rib attached la it.'
-- 'Erori de evitat / remedii: High radiographic contrast (see below) causes high densitate
-  optică over upper vertebre și low densitate optică over lower vertebra.'
+- imaginea trebuie să includă vertebrele de la C7 la L1.
+- densitatea optică a imaginii trebuie să fie suficientă pentru evidențierea detaliilor
+  osoase atât ale vertebrelor toracale superioare, cât și ale celor inferioare.
+- primele două sau trei vertebre pot să nu fie evidențiate din cauza suprapunerii
+  umerilor.
+- Se caută absența coastei la nivelul L1, la marginea inferioară a imaginii. Aceasta
+  va asigura includerea T12 în câmp.
+- Coastele posterioare (Grilajul Costal) trebuie să fie suprapuse, indicând astfel
+  că pacientul nu a fost rotit prea mult anterior sau posterior.
+- trabeculele vertebrelor trebuie să fie clar vizibile, evidențiind absența neclarității
+  de mișcare.
+- densitatea optică a imaginii trebuie să fie adecvată pentru diagnostic atât pentru
+  porțiunea superioară, cât și pentru porțiunea inferioară a Coloanei Toracale. Prin
+  urmare, utilizarea unui sistem/unei tehnici de imagistică cu latitudine largă este
+  de dorit. 180
+- 'Erori de evitat / remedii: caseta și fasciculul sunt adesea centrate prea jos,
+  excluzând astfel porțiunea superioară a Coloanei Toracale din imagine.'
+- 'Erori de evitat / remedii: vertebrele inferioare nu sunt, de asemenea, adesea incluse.
+  L1 poate fi identificată ușor prin faptul că, de obicei, nu are o coastă atașată.'
+- 'Erori de evitat / remedii: contrastul radiografic ridicat (vezi mai jos) determină
+  o densitate optică ridicată la nivelul vertebrelor superioare și o densitate optică
+  scăzută la nivelul vertebrelor inferioare.'
 sid_dff: 100 cm
 slug: rx-coloana-toracala-antero-posterior-basic-p194-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 194
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=194
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: '80'
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Toracală Antero-Posterior (AP) - basic
+  mas: Conform AEC / grosimii anatomice
+title: Rx Coloană Toracală Antero-Posterior (AP) - de bază
 ---
-# Rx Coloană Toracală Antero-Posterior (AP) - basic
+# Rx Coloană Toracală Antero-Posterior (AP) - de bază
 
 
 <div class="rx-meta-bar">
@@ -142,7 +151,7 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 
     === "Indicații Clinice"
 
-        - presence de intact pedicles este important sign în excluding metastatic disease. Pedicles sunt more difficult la see pe underexposed sau rotit film radiologic.
+        - Prezența pediculilor intacți este un semn important pentru excluderea bolii metastatice. Pediculii sunt mai dificil de vizualizat pe o imagine radiologică subexpusă sau rotită.
 
     === "Ghid Național IRIS"
 
@@ -156,20 +165,20 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat Decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe tabletop și coincident cu linia mediană Bucky.
-• upper edge de casetă, which trebuie să fie la least 40 cm long pentru adult, trebuie să fie la level just below prominence de cartilaj tiroid (mărul lui Adam) la ensure that upper Coloană Toracală sunt included.
-• Make expunere pe arrested inspiration. This will cause cupole diafragmatice la move down over upper lumbar vertebra, thus reducing chance de large densitate optică difference appearing pe imagine de la superimposition de Torace (Câmpuri Pulmonare).
+    - **Poziție Pacient:** • pacientul este poziționat în Decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masa radiologică și coincident cu linia mediană a Bucky.
+• marginea superioară a casetei, care trebuie să aibă o lungime de cel puțin 40 cm pentru adult, trebuie să fie la nivelul situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), pentru a asigura includerea Coloanei Toracale superioare.
+• Se efectuează expunerea în apnee după inspirație. Aceasta va determina coborârea cupolelor diafragmatice peste vertebrele lombare superioare, reducând astfel posibilitatea apariției unei diferențe mari de densitate optică pe imagine, din cauza suprapunerii Toracelui (Câmpurilor Pulmonare).
 
-• Usually undertaken cu pacientul în Profil (lateral) decubit poziție pe masa radiologică, although this incidență poate also fie performed Ortostatism.
-• planul mediosagital trebuie să fie paralel cu casetă și linia mediană axilla coincident cu linia mediană mesei sau Bucky.
-• brațele trebuie să fie raised well above capul.
-• capul poate fie sprijinit cu pillow, și pads poate fie plasat între genunchi pentru pacientul’s comfort.
-• upper edge de caseta trebuie să fie la least 40 cm în length și trebuie să fie poziționat 3–4 cm above spinous process de C7.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală la drept-angles la caseta și spre point 2.5 cm below sternal angle.
-• Collimate tightly la coloană vertebrală.
+• De obicei se efectuează cu pacientul în poziție de Decubit lateral (profil) pe masa radiologică, deși această incidență poate fi realizată și în Ortostatism.
+• planul mediosagital trebuie să fie paralel cu caseta, iar linia mediană axilară coincidentă cu linia mediană a mesei sau a Bucky.
+• brațele trebuie să fie ridicate bine deasupra capului.
+• capul poate fi sprijinit pe o pernă, iar între genunchi pot fi plasate suporturi pentru confortul pacientului.
+• marginea superioară a casetei trebuie să aibă o lungime de cel puțin 40 cm și trebuie poziționată la 3–4 cm deasupra apofizei spinoase a C7.
+    - **Punct de Centrare Fascicul:** • se orientează raza centrală la unghi drept față de casetă și spre un punct situat la 2.5 cm sub unghiul sternal.
+• Se colimează strâns la nivelul coloanei vertebrale.
 
-• raza centrală trebuie să fie la drept-angles la axa longitudinală de Coloană Toracală. This poate require caudal angulation.
-• Centre 5 cm anterior la spinous process de T6/7. This este usually found just below inferior angle de Omoplat (Scapulă) (assuming brațele sunt raised), which este easily palpable.
+• raza centrală trebuie să fie perpendiculară pe axa longitudinală a Coloanei Toracale. Acest lucru poate necesita angulație caudală.
+• Se centrează la 5 cm anterior de apofiza spinoasă a T6/7. Aceasta se găsește de obicei chiar sub unghiul inferior al Omoplatului (Scapulei) (presupunând că brațele sunt ridicate), care este ușor palpabil.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -180,28 +189,28 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 80 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include vertebre de la C7 la L1.
-    - imagine densitate optică trebuie să fie sufficient la evidențiază bony detail pentru upper ca well ca thoracic lower vertebre.
-    - upper two sau three vertebre poate nu fie evidențiat due la superimposition de umerii.
-    - Look pentru absence de rib pe L1 la lower margine de imagine. This will ensure that T12 has been included within field.
-    - posterior Coaste (Grilaj Costal) trebuie să fie superimposed, thus indicating that pacientul was nu rotit too far forwards sau backwards.
-    - trabeculae de vertebre trebuie să fie clearly vizibil, evidențiind absence de movement unsharpness.
-    - imagine densitate optică trebuie să fie adecvat pentru diagnosis pentru ambele upper și lower Coloană Toracală. use de widelatitude imaging system/technique este therefore desirable. 180
-    - Erori de evitat / remedii: caseta și fascicul sunt often centred too low, thereby excluding upper Coloană Toracală de la imagine.
-    - Erori de evitat / remedii: lower vertebre sunt also often nu included. L1 poate fie identified easily prin fact that it usually will nu have rib attached la it.
-    - Erori de evitat / remedii: High radiographic contrast (see below) causes high densitate optică over upper vertebre și low densitate optică over lower vertebra.
+    - imaginea trebuie să includă vertebrele de la C7 la L1.
+    - densitatea optică a imaginii trebuie să fie suficientă pentru evidențierea detaliilor osoase atât ale vertebrelor toracale superioare, cât și ale celor inferioare.
+    - primele două sau trei vertebre pot să nu fie evidențiate din cauza suprapunerii umerilor.
+    - Se caută absența coastei la nivelul L1, la marginea inferioară a imaginii. Aceasta va asigura includerea T12 în câmp.
+    - Coastele posterioare (Grilajul Costal) trebuie să fie suprapuse, indicând astfel că pacientul nu a fost rotit prea mult anterior sau posterior.
+    - trabeculele vertebrelor trebuie să fie clar vizibile, evidențiind absența neclarității de mișcare.
+    - densitatea optică a imaginii trebuie să fie adecvată pentru diagnostic atât pentru porțiunea superioară, cât și pentru porțiunea inferioară a Coloanei Toracale. Prin urmare, utilizarea unui sistem/unei tehnici de imagistică cu latitudine largă este de dorit. 180
+    - Erori de evitat / remedii: caseta și fasciculul sunt adesea centrate prea jos, excluzând astfel porțiunea superioară a Coloanei Toracale din imagine.
+    - Erori de evitat / remedii: vertebrele inferioare nu sunt, de asemenea, adesea incluse. L1 poate fi identificată ușor prin faptul că, de obicei, nu are o coastă atașată.
+    - Erori de evitat / remedii: contrastul radiografic ridicat (vezi mai jos) determină o densitate optică ridicată la nivelul vertebrelor superioare și o densitate optică scăzută la nivelul vertebrelor inferioare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -214,8 +223,8 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • This region has extremely high subject contrast. This este due la superimposition de air-filled trachea over upper Coloană Toracală. This produces relatively lucent area și high densitate optică pe radiografie. Cord și Siluetă Cardiovasculară și ficat superimposed over lower Coloană Toracală will attenuate more X-rays și yield much lower film radiologic densitate optică.
-(contd) 1st–4th TV superimposed prin airfilled trachea 5th și 12th TV superimposed prin dense shadows de Cord și Siluetă Cardiovasculară și gt vessels also etajul abdominal superior Trachea Cord și Siluetă Cardiovasculară cupole diafragmatice 1st LV Radiographic contrast too high Lower contrast producing acceptable densitate optică pentru upper și lower vertebra
+    • Această regiune prezintă un contrast de subiect extrem de mare. Acest lucru se datorează suprapunerii traheei pline cu aer peste porțiunea superioară a Coloanei Toracale. Aceasta produce o zonă relativ radiotransparentă și o densitate optică ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul, suprapuse peste porțiunea inferioară a Coloanei Toracale, vor atenua mai multe raze X și vor produce o densitate optică mult mai scăzută pe imaginea radiologică.
+(continuare) TV 1–4 suprapuse prin traheea plină cu aer TV 5 și 12 suprapuse prin opacitățile dense ale Cordului și Siluetei Cardiovasculare și ale vaselor mari, precum și prin etajul abdominal superior Trahee Cord și Siluetă Cardiovasculară cupole diafragmatice LV 1 Contrast radiografic prea mare Contrast mai redus, care produce o densitate optică acceptabilă pentru vertebrele superioare și inferioare
 
 
 ### 🖼️ Imagini
@@ -224,17 +233,17 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 
 <figure class="protocol-image-card" markdown>
 
-![• High radiographic contrast (see below) causes high densitate optică over](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_1.jpeg)
+![• Contrastul radiografic ridicat (vezi mai jos) determină o densitate optică ridicată la nivelul](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_1.jpeg)
 
-<figcaption><strong>• High radiographic contrast (see below) causes high densitate optică over</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Contrastul radiografic ridicat (vezi mai jos) determină o densitate optică ridicată la nivelul</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![area și high densitate optică pe radiografie. Cord și Siluetă Cardiovasculară și ficat](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_2.jpeg)
+![zonei și o densitate optică ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_2.jpeg)
 
-<figcaption><strong>area și high densitate optică pe radiografie. Cord și Siluetă Cardiovasculară și ficat</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>zonei și o densitate optică ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -248,25 +257,25 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 
 <figure class="protocol-image-card" markdown>
 
-![• radiographer poate employ number de strategies la](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_4.jpeg)
+![• radiograful poate utiliza mai multe strategii pentru a](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_4.jpeg)
 
-<figcaption><strong>• radiographer poate employ number de strategies la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![reduce high radiographic contrast associated cu this](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_5.jpeg)
-
-<figcaption><strong>reduce high radiographic contrast associated cu this</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• radiograful poate utiliza mai multe strategii pentru a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![will usually lower radiographic contrast, thus demon-](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_6.jpeg)
+![reduce contrastul radiografic ridicat asociat cu această](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_5.jpeg)
 
-<figcaption><strong>will usually lower radiographic contrast, thus demon-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>reduce contrastul radiografic ridicat asociat cu această</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![va reduce de obicei contrastul radiografic, demonstrând astfel](../../assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_6.jpeg)
+
+<figcaption><strong>va reduce de obicei contrastul radiografic, demonstrând astfel</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -283,4 +292,4 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - basic
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 194](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=194)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 194](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

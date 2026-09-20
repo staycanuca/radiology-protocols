@@ -9,13 +9,13 @@ centering: Horizon̍ al și centrat pe receptorul de imagine. raza centrală ent
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 202, imaginea 1
+- caption: Merrill — pagina 202, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig1.png
-- caption: Merrill — pagina PDF 202, imaginea 2
+- caption: Merrill — pagina 202, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig2.png
-- caption: Merrill — pagina PDF 203, imaginea 3
+- caption: Merrill — pagina 203, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p203_fig3.png
 last_updated: '2026-09-16'
@@ -96,9 +96,9 @@ source_sections:
 
     43 cm) longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     201–203'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=201
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
@@ -189,25 +189,25 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 202, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig1.png)
+![Merrill — pagina 202, imaginea 1](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 202, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 202, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 202, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 202, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 203, imaginea 3](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p203_fig3.png)
+![Merrill — pagina 202, imaginea 2](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p202_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 203, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 202, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 203, imaginea 3](../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p203_fig3.png)
+
+<figcaption><strong>Merrill — pagina 203, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -224,7 +224,7 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 201–203](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=201)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 201–203](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

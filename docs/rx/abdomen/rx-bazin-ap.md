@@ -3,12 +3,12 @@ author: Departamentul de Radiologie
 breathing: Apnee în expir liniștit
 category: abdomen
 centering: Pe linia mediană, la jumătatea distanței dintre spinele iliace antero-superioare
-  (SIAS) și marginea superioară simfizei pubiene
+  (SIAS) și marginea superioară a simfizei pubiene
 clinical_indications:
-- Traumatisme pelvine, suspiciune de fractură inelului pelvin sau aripilor iliace
+- Traumatisme pelvine, suspiciune de fractură a inelului pelvin sau a aripilor iliace
 - Durere cronică de șold, evaluarea coxartrozei bilaterale
-- Suspiciune fractură de col femural sau fractură pertrohanteriană
-- Bilanț preoperator și postoperator artroplastie totală de șold
+- Suspiciune de fractură de col femural sau fractură pertrohanteriană
+- Bilanț preoperator și postoperator pentru artroplastia totală de șold
 - Leziuni osoase secundare (metastaze osoase pelvine)
 iris_reference:
   chapter: Aparat locomotor & Bazin
@@ -17,18 +17,18 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: În traumatisme severe cu suspiciune de fractură instabilă de bazin sau col
-  femural luxat, NU se forțează rotația internă membrelor inferioare!
+  femural luxat, NU se forțează rotația internă a membrelor inferioare!
 position: Decubit dorsal pe masa radiologică, membrele inferioare în extensie și rotație
   internă de 15° (alinierea colurilor femurale)
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă
   nu obstrucționează zona de interes
 quality_criteria:
-- Includerea completă inelului pelvin, sacrului, ambelor articulații coxo-femurale
+- Includerea completă a inelului pelvin, sacrului, ambelor articulații coxo-femurale
   și trohanterelor
-- Simetrie găurilor obturatoare și aripilor iliace (absența rotației bazinului)
+- Simetria găurilor obturatoare și a aripilor iliace (absența rotației bazinului)
 - Colurile femurale alungite fără suprapunerea marilor trohanteri (datorită rotației
   interne de 15°)
 - Linia Shenton continuă și regulată pe ambele părți
@@ -58,10 +58,10 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Camerele laterale activate
-  collimation: Includerea crestelor iliace superior și treimii proximale femurului
+  collimation: Includerea crestelor iliace superior și a treimii proximale a femurului
     bilateral inferior
   filtration: Totală ≥ 2.5 mm Al
-  focal_spot: Focar Mare (1.0 mm)
+  focal_spot: Focar mare (1.0 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75 - 85
   mas: 20 - 35 (AEC)
@@ -86,10 +86,10 @@ title: Rx Bazin Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Traumatisme pelvine, suspiciune de fractură inelului pelvin sau aripilor iliace
+        - Traumatisme pelvine, suspiciune de fractură a inelului pelvin sau a aripilor iliace
         - Durere cronică de șold, evaluarea coxartrozei bilaterale
-        - Suspiciune fractură de col femural sau fractură pertrohanteriană
-        - Bilanț preoperator și postoperator artroplastie totală de șold
+        - Suspiciune de fractură de col femural sau fractură pertrohanteriană
+        - Bilanț preoperator și postoperator pentru artroplastia totală de șold
         - Leziuni osoase secundare (metastaze osoase pelvine)
 
     === "Ghid Național IRIS"
@@ -105,7 +105,7 @@ title: Rx Bazin Antero-Posterior (AP)
     ---
 
     - **Poziție Pacient:** Decubit dorsal pe masa radiologică, membrele inferioare în extensie și rotație internă de 15° (alinierea colurilor femurale)
-    - **Punct de Centrare Fascicul:** Pe linia mediană, la jumătatea distanței dintre spinele iliace antero-superioare (SIAS) și marginea superioară simfizei pubiene
+    - **Punct de Centrare Fascicul:** Pe linia mediană, la jumătatea distanței dintre spinele iliace antero-superioare (SIAS) și marginea superioară a simfizei pubiene
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Apnee în expir liniștit
 
@@ -119,17 +119,17 @@ title: Rx Bazin Antero-Posterior (AP)
     | **Sarcină / Produs Curent-Timp (mAs)** | 20 - 35 (AEC) |
     | **Distanță Focar-Film (DFF / SID)** | 100 - 115 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
-    | **Dimensiune Focar** | Focar Mare (1.0 mm) |
+    | **Dimensiune Focar** | Focar mare (1.0 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale activate |
-    | **Colimare Fascicul** | Includerea crestelor iliace superior și treimii proximale femurului bilateral inferior |
+    | **Colimare Fascicul** | Includerea crestelor iliace superior și a treimii proximale a femurului bilateral inferior |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Includerea completă inelului pelvin, sacrului, ambelor articulații coxo-femurale și trohanterelor
-    - Simetrie găurilor obturatoare și aripilor iliace (absența rotației bazinului)
+    - Includerea completă a inelului pelvin, sacrului, ambelor articulații coxo-femurale și trohanterelor
+    - Simetria găurilor obturatoare și a aripilor iliace (absența rotației bazinului)
     - Colurile femurale alungite fără suprapunerea marilor trohanteri (datorită rotației interne de 15°)
     - Linia Shenton continuă și regulată pe ambele părți
 
@@ -137,13 +137,13 @@ title: Rx Bazin Antero-Posterior (AP)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă nu obstrucționează zona de interes
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    În traumatisme severe cu suspiciune de fractură instabilă de bazin sau col femural luxat, NU se forțează rotația internă membrelor inferioare!
+    În traumatisme severe cu suspiciune de fractură instabilă de bazin sau col femural luxat, NU se forțează rotația internă a membrelor inferioare!
 
 === "Ghid Rapid de Execuție"
 

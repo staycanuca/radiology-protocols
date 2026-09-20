@@ -59,7 +59,7 @@ sid_dff: 100 cm
 slug: rx-stern-oblica-anterioara-tube-angled-p241-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 241
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=241
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -186,4 +186,4 @@ title: Rx Stern Oblică Anterioară - tube angled
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 241](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=241)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 241](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

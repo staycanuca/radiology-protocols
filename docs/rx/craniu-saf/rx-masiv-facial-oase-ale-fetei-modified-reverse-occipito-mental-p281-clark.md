@@ -3,20 +3,21 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• tubul este înclinat 20 grade la orizontal (spre floor) și centred la
-  simfiză menti în linia mediană.
+centering: '• tubul este înclinat cu 20 grade față de orizontală (spre podea) și centrat
+  pe simfiza mentonieră, pe linia mediană.
 
-  • A 100-cm focus-la-film radiologic distance (FFD) este used, but it poate fie necessary
-  la increase this pentru obese sau large pacienți, ca tubul will fie poziționat close
-  la toracele. Remember la increase expunere if FFD este increased.'
+  • se utilizează o distanță focar-film radiologic de 100 cm (FFD), dar poate fi necesară
+  creșterea acesteia pentru pacienții obezi sau de talie mare, deoarece tubul va fi
+  poziționat aproape de torace. Rețineți să măriți expunerea dacă FFD este crescută.'
 clinical_indications:
-- Evaluare radiografică regiunii Masiv Facial (Oase ale Feței) (Modified reverse occipito
-  - mental).
+- Evaluarea radiografică a regiunii masivului facial (oaselor feței) (incidență occipito-mentonieră
+  modificată).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-reverse-occipito-mental-p281-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -24,18 +25,20 @@ images:
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-reverse-occipito-mental-p281-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'If orbito-meatal baseline este raised prin orice grade, then there will have
-  la fie corresponding correction de tubul angle la compensate. This poate fie required
-  if pacientul este în rigid neck brace, when gâtul trebuie să nu fie moved.
+notes: 'Dacă linia orbitomeatală este ridicată cu orice număr de grade, va fi necesară
+  o corecție corespunzătoare a unghiului tubului pentru compensare. Aceasta poate
+  fi necesară dacă pacientul poartă o orteză cervicală rigidă, caz în care gâtul nu
+  trebuie mișcat.
 
-  266 Positioning pentru modified incidență 20° 45° Positioning pentru reverse OM30;
-  this will result în imagine distortion'
-position: '• pacientul este Decubit dorsal pe trolley cu capul ajustat, astfel încât
-  plan mediosagital și orbito-meatal baseline sunt perpendicular pe trolley top.
+  266 Poziționarea pentru incidența modificată 20° 45° Poziționarea pentru incidența
+  OM inversă 30; aceasta va avea ca rezultat distorsiunea imaginii'
+position: '• pacientul este în decubit dorsal pe targa mobilă, cu capul ajustat astfel
+  încât planul mediosagital și linia orbitomeatală să fie perpendiculare pe suprafața
+  tărgii.
 
-  • gridded casetă este poziționat vertically pe / sprijinit de vertex de Craniu și
-  sprijinit cu foam pads și săculeți cu nisip, such that it este perpendicular pe
-  plan mediosagital.'
+  • caseta cu grilă este poziționată vertical pe/rezemată de vertexul craniului și
+  fixată cu tampoane de spumă și săculeți cu nisip, astfel încât să fie perpendiculară
+  pe planul mediosagital.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -44,27 +47,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- floors de orbit will fie vizibil clearly through maxillary Sinusuri Paranazale (SAF),
-  și lower orbital margin trebuie să fie clar evidențiat(e).
-- There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă).
-  This poate fie checked prin ensuring that distance de la Profil (lateral) orbital
-  perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
+- planșeele orbitare vor fi clar vizibile prin sinusurile maxilare paranazale (SAF),
+  iar marginea orbitală inferioară trebuie evidențiată clar.
+- Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta
+  poate fi verificată asigurându-se că distanța de la peretele orbital de profil la
+  marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
 sid_dff: 100 cm
 slug: rx-masiv-facial-oase-ale-fetei-modified-reverse-occipito-mental-p281-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 281
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=281
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
+  mas: Conform AEC / grosimii anatomice
+title: Radiografia masivului facial (oaselor feței), incidență occipito-mentonieră
+  inversă modificată
 ---
-# Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
+# Radiografia masivului facial (oaselor feței), incidență occipito-mentonieră inversă modificată
 
 
 <div class="rx-meta-bar">
@@ -83,7 +87,7 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Masiv Facial (Oase ale Feței) (Modified reverse occipito - mental).
+        - Evaluarea radiografică a regiunii masivului facial (oaselor feței) (incidență occipito-mentonieră modificată).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -99,10 +103,10 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
 
     ---
 
-    - **Poziție Pacient:** • pacientul este Decubit dorsal pe trolley cu capul ajustat, astfel încât plan mediosagital și orbito-meatal baseline sunt perpendicular pe trolley top.
-• gridded casetă este poziționat vertically pe / sprijinit de vertex de Craniu și sprijinit cu foam pads și săculeți cu nisip, such that it este perpendicular pe plan mediosagital.
-    - **Punct de Centrare Fascicul:** • tubul este înclinat 20 grade la orizontal (spre floor) și centred la simfiză menti în linia mediană.
-• A 100-cm focus-la-film radiologic distance (FFD) este used, but it poate fie necessary la increase this pentru obese sau large pacienți, ca tubul will fie poziționat close la toracele. Remember la increase expunere if FFD este increased.
+    - **Poziție Pacient:** • pacientul este în decubit dorsal pe targa mobilă, cu capul ajustat astfel încât planul mediosagital și linia orbitomeatală să fie perpendiculare pe suprafața tărgii.
+• caseta cu grilă este poziționată vertical pe/rezemată de vertexul craniului și fixată cu tampoane de spumă și săculeți cu nisip, astfel încât să fie perpendiculară pe planul mediosagital.
+    - **Punct de Centrare Fascicul:** • tubul este înclinat cu 20 grade față de orizontală (spre podea) și centrat pe simfiza mentonieră, pe linia mediană.
+• se utilizează o distanță focar-film radiologic de 100 cm (FFD), dar poate fi necesară creșterea acesteia pentru pacienții obezi sau de talie mare, deoarece tubul va fi poziționat aproape de torace. Rețineți să măriți expunerea dacă FFD este crescută.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -113,20 +117,20 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - floors de orbit will fie vizibil clearly through maxillary Sinusuri Paranazale (SAF), și lower orbital margin trebuie să fie clar evidențiat(e).
-    - There trebuie să fie Absența rotației anatomice (simetrie bilaterală perfectă). This poate fie checked prin ensuring that distance de la Profil (lateral) orbital perete la outer Craniu margins este equidistant pe ambele părți (bilateral).
+    - planșeele orbitare vor fi clar vizibile prin sinusurile maxilare paranazale (SAF), iar marginea orbitală inferioară trebuie evidențiată clar.
+    - Trebuie să existe absența rotației anatomice (simetrie bilaterală perfectă). Aceasta poate fi verificată asigurându-se că distanța de la peretele orbital de profil la marginile externe ale craniului este echidistantă pe ambele părți (bilateral).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -139,8 +143,8 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    If orbito-meatal baseline este raised prin orice grade, then there will have la fie corresponding correction de tubul angle la compensate. This poate fie required if pacientul este în rigid neck brace, when gâtul trebuie să nu fie moved.
-266 Positioning pentru modified incidență 20° 45° Positioning pentru reverse OM30; this will result în imagine distortion
+    Dacă linia orbitomeatală este ridicată cu orice număr de grade, va fi necesară o corecție corespunzătoare a unghiului tubului pentru compensare. Aceasta poate fi necesară dacă pacientul poartă o orteză cervicală rigidă, caz în care gâtul nu trebuie mișcat.
+266 Poziționarea pentru incidența modificată 20° 45° Poziționarea pentru incidența OM inversă 30; aceasta va avea ca rezultat distorsiunea imaginii
 
 
 ### 🖼️ Imagini
@@ -151,7 +155,7 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-reverse-occipito-mental-p281-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -176,4 +180,4 @@ title: Rx Masiv Facial (Oase ale Feței) Modified reverse occipito - mental
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 281](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=281)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 281](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

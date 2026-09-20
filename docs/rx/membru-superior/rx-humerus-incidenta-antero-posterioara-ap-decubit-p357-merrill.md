@@ -6,7 +6,7 @@ centering: perpendicular pe midportion de Humerus și center de receptorul de im
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 358, imaginea 1
+- caption: Merrill — pagina 358, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-humerus-incidenta-antero-posterioara-ap-decubit-p357-merrill/p358_fig1.png
 last_updated: '2026-09-16'
@@ -79,8 +79,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 357–358
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=357
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 357–358
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație
@@ -171,9 +171,9 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — Decubit (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 358, imaginea 1](../../assets/images/protocols/merrill/rx-humerus-incidenta-antero-posterioara-ap-decubit-p357-merrill/p358_fig1.png)
+![Merrill — pagina 358, imaginea 1](../../assets/images/protocols/merrill/rx-humerus-incidenta-antero-posterioara-ap-decubit-p357-merrill/p358_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 358, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 358, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -190,7 +190,7 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — Decubit (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 357–358](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=357)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 357–358](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

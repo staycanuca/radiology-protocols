@@ -6,13 +6,13 @@ centering: perpendicular pe centrul receptorului de imagine și entering T3
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 806, imaginea 1
+- caption: Merrill — pagina 806, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p806_fig1.png
-- caption: Merrill — pagina PDF 807, imaginea 2
+- caption: Merrill — pagina 807, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig2.png
-- caption: Merrill — pagina PDF 807, imaginea 3
+- caption: Merrill — pagina 807, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig3.png
 last_updated: '2026-09-16'
@@ -95,8 +95,8 @@ source_sections:
 
     × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 10. Bony Thorax, pagini PDF 805–807
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=805
+- title: Merrill’s Atlas, 10. Bony Thorax, pagini 805–807
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
@@ -184,25 +184,25 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 806, imaginea 1](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p806_fig1.png)
+![Merrill — pagina 806, imaginea 1](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p806_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 806, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 807, imaginea 2](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 807, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 806, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 807, imaginea 3](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig3.png)
+![Merrill — pagina 807, imaginea 2](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 807, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 807, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 807, imaginea 3](../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig3.png)
+
+<figcaption><strong>Merrill — pagina 807, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -219,7 +219,7 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 10. Bony Thorax, pagini PDF 805–807](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=805)
+- [Merrill’s Atlas, 10. Bony Thorax, pagini 805–807](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

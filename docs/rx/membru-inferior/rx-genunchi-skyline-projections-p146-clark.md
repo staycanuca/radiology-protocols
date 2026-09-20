@@ -72,7 +72,7 @@ sid_dff: 100 cm
 slug: rx-genunchi-skyline-projections-p146-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 146
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=146
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -219,4 +219,4 @@ title: Rx Genunchi Skyline Incidență
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 146](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=146)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 146](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

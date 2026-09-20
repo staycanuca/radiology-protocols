@@ -11,10 +11,10 @@ centering: perpendicular pe receptorul de imagine. raza centrală enters ridicat
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 799, imaginea 1
+- caption: Merrill — pagina 799, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p799_fig1.png
-- caption: Merrill — pagina PDF 800, imaginea 2
+- caption: Merrill — pagina 800, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p800_fig2.png
 last_updated: '2026-09-16'
@@ -139,8 +139,8 @@ source_sections:
 
     30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 10. Bony Thorax, pagini PDF 798–800
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=798
+- title: Merrill’s Atlas, 10. Bony Thorax, pagini 798–800
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
@@ -234,17 +234,17 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 799, imaginea 1](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p799_fig1.png)
+![Merrill — pagina 799, imaginea 1](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p799_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 799, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 799, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 800, imaginea 2](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p800_fig2.png)
+![Merrill — pagina 800, imaginea 2](../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p800_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 800, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 800, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -261,7 +261,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 10. Bony Thorax, pagini PDF 798–800](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=798)
+- [Merrill’s Atlas, 10. Bony Thorax, pagini 798–800](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

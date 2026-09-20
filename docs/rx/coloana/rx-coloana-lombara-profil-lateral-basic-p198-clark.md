@@ -3,23 +3,25 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: • se orientează raza centrală centrală la drept-angles la line de procese
-  spinoase și spre point 7.5 cm anterior la third lumbar spinous process la nivelul
-  lower costal margin.
+centering: • se orientează raza centrală perpendicular pe linia proceselor spinoase
+  și spre un punct situat la 7.5 cm anterior față de procesul spinos lombar al treilea,
+  la nivelul marginii costale inferioare.
 clinical_indications:
-- same conditions apply ca la thoracic coloană vertebrală.
-- Transitional vertebre (see diagram opposite) sunt common la lumbosacral junction
-  și poate make counting level de abnormality difficult. sacralized L5 has shape similar
-  la S1, cu large procese transverse, și este partially incorporated into upper Sacru.
-  converse este lumbarization de S1, în which corp și appendages de S1 resemble L5
-  și Articulații Sacroiliace sunt often reduced în height. These anomalies poate cause
-  errors în counting level de abnormality, în which case twelfth rib și thoracic vertebra
-  trebuie să fie seen clearly la enable counting down de la above. This este de particular
-  importance when plain imagini sunt used la confirm level de abnormality detected
-  pe other imaging modalities, e.g. MRI.
+- Se aplică aceleași condiții ca la coloana vertebrală toracică.
+- Vertebrele de tranziție (vezi diagrama alăturată) sunt frecvente la joncțiunea lombosacrată
+  și pot face dificilă numărarea nivelului anomaliei. L5 sacralizată are o formă similară
+  cu S1, cu procese transverse mari, și este parțial încorporată în sacrul superior.
+  Opusul este lombarizarea S1, în care corpul și elementele S1 seamănă cu L5, iar
+  articulațiile sacroiliace sunt adesea reduse în înălțime. Aceste anomalii pot cauza
+  erori în numărarea nivelului anomaliei, caz în care coasta a douăsprezecea și vertebra
+  toracică trebuie vizualizate clar pentru a permite numărarea descendentă de sus
+  în jos. Acest lucru are o importanță deosebită când imaginile simple sunt utilizate
+  pentru confirmarea nivelului anomaliei detectate prin alte modalități imagistice,
+  de exemplu RMN.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -29,11 +31,11 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_3.jpeg
-- caption: abnormality difficult. sacralized L5 has shape similar la S1,
+- caption: anomalie dificilă. L5 sacralizată are o formă similară cu S1,
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_4.jpeg
-- caption: errors în counting level de abnormality, în which case the
+- caption: erori în numărarea nivelului anomaliei, caz în care
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_5.jpeg
@@ -43,32 +45,33 @@ images:
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_6.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'piece de lead rubber sau other attenuator plasat behind pacientul will reduce
-  scatter incident pe film radiologic. This will improve overall imagine quality ca
-  well ca reduce chance de automatic expunere control error.
+notes: 'O bucată de cauciuc plumbat sau un alt atenuator plasat în spatele pacientului
+  va reduce radiația secundară incidentă pe filmul radiologic. Aceasta va îmbunătăți
+  calitatea generală a imaginii și va reduce, de asemenea, posibilitatea unei erori
+  de control al expunerii automate.
 
-  184 Lumbar transitional vertebra Rudimentary disc la S1/S2 Inappropriately high-contrast
-  imagine Poor superimposition de anterior și posterior vertebral corp margins due
-  la poor positioning'
-position: '• pacientul este culcat pe either side pe masa radiologică. If there este
-  orice grade de scoliosis, then most appropriate Profil (lateral) poziție will fie
-  astfel încât concavity de curve este spre X-ray tube.
+  184 Vertebră lombară de tranziție Disc rudimentar la S1/S2 Imagine cu contrast necorespunzător
+  Suprapunere deficitară a marginilor anterioare și posterioare ale corpurilor vertebrale
+  din cauza poziționării necorespunzătoare'
+position: '• Pacientul este culcat pe oricare dintre părți pe masa radiologică. Dacă
+  există orice grad de scolioză, atunci cea mai adecvată poziție de profil va fi astfel
+  încât concavitatea curburii să fie orientată spre tubul radiologic.
 
-  • brațele trebuie să fie raised și resting pe pillow în front de pacientul’s cap.
-  genunchii și hips sunt flectat pentru stability.
+  • Brațele trebuie ridicate și sprijinite pe o pernă în fața capului pacientului.
+  Genunchii și șoldurile sunt flectate pentru stabilitate.
 
-  • plan coronal running through centre de coloană vertebrală trebuie să coincide
-  cu, și fie perpendicular la, linia mediană Bucky.
+  • Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă
+  cu linia mediană a Bucky și să fie perpendicular pe aceasta.
 
-  • Non-opaque pads poate fie plasat under waist și genunchi, ca necessary, la bring
-  Coloană Vertebrală paralel cu film radiologic.
+  • Tampoane radiotransparente pot fi plasate sub talie și genunchi, după cum este
+  necesar, pentru a aduce coloana vertebrală paralel cu filmul radiologic.
 
-  • caseta este centred la nivelul lower costal margin.
+  • Caseta este centrată la nivelul marginii costale inferioare.
 
-  • expunere trebuie să fie made pe arrested expiration.
+  • Expunerea trebuie efectuată în apnee la sfârșitul expirului.
 
-  • This incidență poate also fie undertaken Ortostatism cu pacientul în ortostatism
-  sau Poziție Șezândă.'
+  • Această incidență poate fi efectuată și în ortostatism, cu pacientul în picioare,
+  sau în poziție șezândă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -77,39 +80,40 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include T12 downwards, pentru include lumbar sacral junction.
-- Ideally, incidență will produce clear incidență through centre de intervertebral
-  disc space, cu individual vertebral endplates superimposed.
-- cortices la posterior și anterior margins de vertebral corp trebuie să also fie
-  superimposed.
-- imaging factors selected trebuie să produce imagine densitate optică sufficient
-  pentru diagnosis de la T12 la L5/S1, including procese spinoase. Incorrect – Coloană
-  Vertebrală nu paralel cu table
-- 'Erori de evitat / remedii: High-contrast imagini will result în insufficient sau
-  high imagine densitate optică over areas de high sau low pacient densitate optică,
-  i.e. procese spinoase și L5/S1. high kVp sau use de other wide-latitude techniques
-  este recommended.'
-- 'Erori de evitat / remedii: procese spinoase poate easily fie excluded de la imagine
-  ca result de overzealous collimation.'
-- 'Erori de evitat / remedii: Poor superimposition de anterior și posterior margins
-  de vertebral corpuri este indication that pacientul was rolled too far forward sau
-  backward during initial positioning (i.e. mean plan sagital nu paralel la casetă).'
+- Imaginea trebuie să includă de la T12 în jos, pentru a include joncțiunea lombosacrată.
+- În mod ideal, incidența va produce o imagine clară prin centrul spațiului discului
+  intervertebral, cu platourile vertebrale individuale suprapuse.
+- Corticalele marginilor posterioare și anterioare ale corpului vertebral trebuie,
+  de asemenea, să fie suprapuse.
+- Factorii de expunere selectați trebuie să producă o densitate optică a imaginii
+  suficientă pentru diagnostic de la T12 la L5/S1, inclusiv pentru procesele spinoase.
+  Incorect – coloana vertebrală nu este paralelă cu masa
+- 'Erori de evitat / remedii: Imaginile cu contrast ridicat vor duce la o densitate
+  optică insuficientă sau ridicată a imaginii în zonele cu densitate optică a pacientului
+  mare sau mică, respectiv procesele spinoase și L5/S1. Se recomandă kVp ridicat sau
+  utilizarea altor tehnici cu latitudine largă.'
+- 'Erori de evitat / remedii: Procesele spinoase pot fi excluse cu ușurință din imagine
+  ca urmare a colimării excesive.'
+- 'Erori de evitat / remedii: Suprapunerea deficitară a marginilor anterioare și posterioare
+  ale corpurilor vertebrale indică faptul că pacientul a fost rotit prea mult înainte
+  sau înapoi în timpul poziționării inițiale (adică planul sagital median nu este
+  paralel cu caseta).'
 sid_dff: 100 cm
 slug: rx-coloana-lombara-profil-lateral-basic-p198-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 198
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=198
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Lombară Profil (Lateral) - basic
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie a coloanei lombare – profil (lateral) – de bază
 ---
-# Rx Coloană Lombară Profil (Lateral) - basic
+# Radiografie a coloanei lombare – profil (lateral) – de bază
 
 
 <div class="rx-meta-bar">
@@ -128,8 +132,8 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 
     === "Indicații Clinice"
 
-        - same conditions apply ca la thoracic coloană vertebrală.
-        - Transitional vertebre (see diagram opposite) sunt common la lumbosacral junction și poate make counting level de abnormality difficult. sacralized L5 has shape similar la S1, cu large procese transverse, și este partially incorporated into upper Sacru. converse este lumbarization de S1, în which corp și appendages de S1 resemble L5 și Articulații Sacroiliace sunt often reduced în height. These anomalies poate cause errors în counting level de abnormality, în which case twelfth rib și thoracic vertebra trebuie să fie seen clearly la enable counting down de la above. This este de particular importance when plain imagini sunt used la confirm level de abnormality detected pe other imaging modalities, e.g. MRI.
+        - Se aplică aceleași condiții ca la coloana vertebrală toracică.
+        - Vertebrele de tranziție (vezi diagrama alăturată) sunt frecvente la joncțiunea lombosacrată și pot face dificilă numărarea nivelului anomaliei. L5 sacralizată are o formă similară cu S1, cu procese transverse mari, și este parțial încorporată în sacrul superior. Opusul este lombarizarea S1, în care corpul și elementele S1 seamănă cu L5, iar articulațiile sacroiliace sunt adesea reduse în înălțime. Aceste anomalii pot cauza erori în numărarea nivelului anomaliei, caz în care coasta a douăsprezecea și vertebra toracică trebuie vizualizate clar pentru a permite numărarea descendentă de sus în jos. Acest lucru are o importanță deosebită când imaginile simple sunt utilizate pentru confirmarea nivelului anomaliei detectate prin alte modalități imagistice, de exemplu RMN.
 
     === "Ghid Național IRIS"
 
@@ -143,14 +147,14 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat pe either side pe masa radiologică. If there este orice grade de scoliosis, then most appropriate Profil (lateral) poziție will fie astfel încât concavity de curve este spre X-ray tube.
-• brațele trebuie să fie raised și resting pe pillow în front de pacientul’s cap. genunchii și hips sunt flectat pentru stability.
-• plan coronal running through centre de coloană vertebrală trebuie să coincide cu, și fie perpendicular la, linia mediană Bucky.
-• Non-opaque pads poate fie plasat under waist și genunchi, ca necessary, la bring Coloană Vertebrală paralel cu film radiologic.
-• caseta este centred la nivelul lower costal margin.
-• expunere trebuie să fie made pe arrested expiration.
-• This incidență poate also fie undertaken Ortostatism cu pacientul în ortostatism sau Poziție Șezândă.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală la drept-angles la line de procese spinoase și spre point 7.5 cm anterior la third lumbar spinous process la nivelul lower costal margin.
+    - **Poziție Pacient:** • Pacientul este culcat pe oricare dintre părți pe masa radiologică. Dacă există orice grad de scolioză, atunci cea mai adecvată poziție de profil va fi astfel încât concavitatea curburii să fie orientată spre tubul radiologic.
+• Brațele trebuie ridicate și sprijinite pe o pernă în fața capului pacientului. Genunchii și șoldurile sunt flectate pentru stabilitate.
+• Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană a Bucky și să fie perpendicular pe aceasta.
+• Tampoane radiotransparente pot fi plasate sub talie și genunchi, după cum este necesar, pentru a aduce coloana vertebrală paralel cu filmul radiologic.
+• Caseta este centrată la nivelul marginii costale inferioare.
+• Expunerea trebuie efectuată în apnee la sfârșitul expirului.
+• Această incidență poate fi efectuată și în ortostatism, cu pacientul în picioare, sau în poziție șezândă.
+    - **Punct de Centrare Fascicul:** • se orientează raza centrală perpendicular pe linia proceselor spinoase și spre un punct situat la 7.5 cm anterior față de procesul spinos lombar al treilea, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -161,25 +165,25 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include T12 downwards, pentru include lumbar sacral junction.
-    - Ideally, incidență will produce clear incidență through centre de intervertebral disc space, cu individual vertebral endplates superimposed.
-    - cortices la posterior și anterior margins de vertebral corp trebuie să also fie superimposed.
-    - imaging factors selected trebuie să produce imagine densitate optică sufficient pentru diagnosis de la T12 la L5/S1, including procese spinoase. Incorrect – Coloană Vertebrală nu paralel cu table
-    - Erori de evitat / remedii: High-contrast imagini will result în insufficient sau high imagine densitate optică over areas de high sau low pacient densitate optică, i.e. procese spinoase și L5/S1. high kVp sau use de other wide-latitude techniques este recommended.
-    - Erori de evitat / remedii: procese spinoase poate easily fie excluded de la imagine ca result de overzealous collimation.
-    - Erori de evitat / remedii: Poor superimposition de anterior și posterior margins de vertebral corpuri este indication that pacientul was rolled too far forward sau backward during initial positioning (i.e. mean plan sagital nu paralel la casetă).
+    - Imaginea trebuie să includă de la T12 în jos, pentru a include joncțiunea lombosacrată.
+    - În mod ideal, incidența va produce o imagine clară prin centrul spațiului discului intervertebral, cu platourile vertebrale individuale suprapuse.
+    - Corticalele marginilor posterioare și anterioare ale corpului vertebral trebuie, de asemenea, să fie suprapuse.
+    - Factorii de expunere selectați trebuie să producă o densitate optică a imaginii suficientă pentru diagnostic de la T12 la L5/S1, inclusiv pentru procesele spinoase. Incorect – coloana vertebrală nu este paralelă cu masa
+    - Erori de evitat / remedii: Imaginile cu contrast ridicat vor duce la o densitate optică insuficientă sau ridicată a imaginii în zonele cu densitate optică a pacientului mare sau mică, respectiv procesele spinoase și L5/S1. Se recomandă kVp ridicat sau utilizarea altor tehnici cu latitudine largă.
+    - Erori de evitat / remedii: Procesele spinoase pot fi excluse cu ușurință din imagine ca urmare a colimării excesive.
+    - Erori de evitat / remedii: Suprapunerea deficitară a marginilor anterioare și posterioare ale corpurilor vertebrale indică faptul că pacientul a fost rotit prea mult înainte sau înapoi în timpul poziționării inițiale (adică planul sagital median nu este paralel cu caseta).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -192,8 +196,8 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    piece de lead rubber sau other attenuator plasat behind pacientul will reduce scatter incident pe film radiologic. This will improve overall imagine quality ca well ca reduce chance de automatic expunere control error.
-184 Lumbar transitional vertebra Rudimentary disc la S1/S2 Inappropriately high-contrast imagine Poor superimposition de anterior și posterior vertebral corp margins due la poor positioning
+    O bucată de cauciuc plumbat sau un alt atenuator plasat în spatele pacientului va reduce radiația secundară incidentă pe filmul radiologic. Aceasta va îmbunătăți calitatea generală a imaginii și va reduce, de asemenea, posibilitatea unei erori de control al expunerii automate.
+184 Vertebră lombară de tranziție Disc rudimentar la S1/S2 Imagine cu contrast necorespunzător Suprapunere deficitară a marginilor anterioare și posterioare ale corpurilor vertebrale din cauza poziționării necorespunzătoare
 
 
 ### 🖼️ Imagini
@@ -204,7 +208,7 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -226,17 +230,17 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 
 <figure class="protocol-image-card" markdown>
 
-![abnormality difficult. sacralized L5 has shape similar la S1,](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_4.jpeg)
+![anomalie dificilă. L5 sacralizată are o formă similară cu S1,](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_4.jpeg)
 
-<figcaption><strong>abnormality difficult. sacralized L5 has shape similar la S1,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>anomalie dificilă. L5 sacralizată are o formă similară cu S1,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![errors în counting level de abnormality, în which case the](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_5.jpeg)
+![erori în numărarea nivelului anomaliei, caz în care](../../assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_5.jpeg)
 
-<figcaption><strong>errors în counting level de abnormality, în which case the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>erori în numărarea nivelului anomaliei, caz în care</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -261,4 +265,4 @@ title: Rx Coloană Lombară Profil (Lateral) - basic
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 198](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=198)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 198](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

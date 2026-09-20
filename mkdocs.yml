@@ -41,11 +41,13 @@ hooks:
   # Normalize search terms and keep RX navigation/catalog ordering consistent.
   - scripts/search_enhancer.py
   - scripts/rx_catalog.py
+  - scripts/build_optimizer.py
 
 extra_css:
   - custom_css/extra.css
 
 extra_javascript:
+  - https://js.puter.com/v2/
   - javascripts/acquisition-diagram.js
   - javascripts/acquisition-diagram-init.js
   - https://cdn.jsdelivr.net/npm/marked/marked.min.js
@@ -53,7 +55,9 @@ extra_javascript:
   - javascripts/request-change.js
   - javascripts/iris-data.js
   - javascripts/iris-browser.js
+  - javascripts/body-map.js
   - javascripts/ai-assistant.js
+  - javascripts/omnisearch.js
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 

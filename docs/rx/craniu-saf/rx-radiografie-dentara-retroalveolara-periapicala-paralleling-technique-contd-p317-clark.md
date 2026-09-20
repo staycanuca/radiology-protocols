@@ -3,27 +3,30 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• Correctly se aliniază X-ray tube adjacent la indicator rod și aiming
-  ring în ambele vertical și orizontal planes.
+centering: '• Aliniați corect tubul de raze X adiacent tijei indicator și inelului
+  de vizare, atât în plan vertical, cât și în plan orizontal.
 
-  302 X-ray fascicul film radiologic Bite block Diagram evidențiind correct poziție
-  de film radiologic în film radiologic holder bite block relative la anterior tooth
-  în maxilla X-ray fascicul film radiologic Bite block Diagram evidențiind incorrect
-  poziție de film radiologic în film radiologic holder bite block. When holder este
-  poziționat adjacent la tooth (mimicking set-up pentru bisecting technique), true
-  parallelism cannot fie achieved și holder este extremely uncomfortable pentru pacientul
-  Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary
-  molar region using Rinn XCP® posterior film radiologic holder Positioning de pacientul
-  și X-ray tube pentru periapical radiografie de maxillary central incisors using
-  Rinn XCP® anterior film radiologic holder'
+  302 Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază
+  poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc
+  de ocluzie, în raport cu dintele anterior din maxilar. Fascicul de raze X Film radiologic
+  Bloc de ocluzie Diagramă care evidențiază poziția incorectă a filmului radiologic
+  în suportul pentru film radiologic, cu bloc de ocluzie. Atunci când suportul este
+  poziționat adiacent dintelui (imitând montajul pentru tehnica unghiului bisector),
+  paralelismul adevărat nu poate fi obținut, iar suportul este extrem de incomod pentru
+  pacient. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară
+  a regiunii molarilor maxilari, utilizând suportul posterior pentru film radiologic
+  Rinn XCP®. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară
+  a incisivilor centrali maxilari, utilizând suportul anterior pentru film radiologic
+  Rinn XCP®.'
 clinical_indications:
-- 303 10 Radiografie Dentară Retroalveolară (Periapicală) Paralleling technique
+- 303 10 Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelismului
 images:
 - caption: 10 Radiografie Dentară Retroalveolară (Periapicală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_1.jpeg
-- caption: Diagram evidențiind correct poziție de film radiologic în film radiologic
-    holder bite
+- caption: Diagramă care evidențiază poziția corectă a filmului radiologic în suportul
+    pentru film radiologic, cu bloc de ocluzie
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_2.jpeg
@@ -31,46 +34,47 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_3.jpeg
-- caption: radiografie de upper stâng maxilla shows bite block being trapped
+- caption: radiografia maxilarului superior stâng arată blocul de ocluzie prins
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_4.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• appropriate film radiologic holder și periapical film radiologic sunt
-  selected și assembled.
+position: '• Se selectează și se asamblează suportul adecvat pentru film radiologic
+  și filmul radiologic periapical.
 
-  • Place bite block în contact cu edge de tooth la fie imaged. Ensure that film radiologic
-  covers particular tooth/teeth la fie examined.
+  • Plasați blocul de ocluzie în contact cu marginea dintelui care urmează să fie
+  examinat. Asigurați-vă că filmul radiologic acoperă dintele/dinții examinați.
 
-  • Maxilla:
+  • Maxilar:
 
-  – pentru incisor, canine, premolar și molar regions, film radiologic holder trebuie
-  să fie poziționat some distance de la tooth la achieve parallelism. This requires
-  using entire orizontal length de bite block cu film radiologic holder occupying
-  highest part de palate.
+  – pentru regiunile incisivilor, caninilor, premolarilor și molarilor, suportul pentru
+  film radiologic trebuie poziționat la o anumită distanță de dinte pentru a obține
+  paralelismul. Aceasta necesită utilizarea întregii lungimi orizontale a blocului
+  de ocluzie, suportul pentru film radiologic ocupând partea cea mai înaltă a palatului.
 
   • Mandibulă:
 
-  – pentru lower incisor teeth, poziție film radiologic holder în plane de imaginary
-  line intersecting first mandibular premolars sau ca posterior ca anatomy will allow.
+  – pentru dinții incisivi inferiori, poziționați suportul pentru film radiologic
+  în planul unei linii imaginare care intersectează primii premolari mandibulari sau
+  cât de posterior permite anatomia.
 
-  – pentru mandibular premolars și molars, poziție film radiologic holder în lingual
-  sulcus adjacent la teeth selected pentru imaging.
+  – pentru premolarii și molarii mandibulari, poziționați suportul pentru film radiologic
+  în șanțul lingual, adiacent dinților selectați pentru examinare.
 
-  • Insert cotton-wool roll între opposing teeth și bite block.
+  • Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
 
-  • Se instruiește pacientul să close together slowly la allow gradual accommodation
-  de film radiologic holder intra-orally.
+  • Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată
+  intraorală a suportului pentru film radiologic.
 
-  • ca pacientul closes together, se rotește bite block în upward/downward direction
-  (ca appropriate).
+  • Pe măsură ce pacientul închide gura, rotiți blocul de ocluzie în direcție ascendentă/descendentă,
+  după caz.
 
-  • Se instruiește pacientul să close firmly pe bite block și la continue biting until
-  examination este completed.
+  • Pacientul este instruit să închidă ferm gura pe blocul de ocluzie și să continue
+  să muște până la finalizarea examinării.
 
-  • Slide aiming ring down indicator rod la approximate skin surface.'
+  • Glisați inelul de vizare pe tija indicator până la aproximarea suprafeței cutanate.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -79,29 +83,30 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: Care trebuie să fie taken în partially dentate pacient,
-  ca edentulous areas poate displace holder și prop open bite.'
-- 'Erori de evitat / remedii: Cotton wool rolls used ca support în edentulous area
-  often overcome problem.'
-- 'Erori de evitat / remedii: Ensure that pacientul understands that they trebuie
-  să continue la bite pe bite block. Failure la do this results în loss de Vârfuri
-  Pulmonare (Apexuri) de la resultant imagine.'
+- 'Erori de evitat / remedii: Trebuie acordată atenție pacienților parțial dentați,
+  deoarece zonele edentate pot deplasa suportul și pot menține gura deschisă.'
+- 'Erori de evitat / remedii: Rulourile de vată utilizate ca suport în zona edentată
+  rezolvă adesea problema.'
+- 'Erori de evitat / remedii: Asigurați-vă că pacientul înțelege că trebuie să continue
+  să muște pe blocul de ocluzie. Nerespectarea acestei indicații duce la pierderea
+  vârfurilor rădăcinilor din imaginea rezultată.'
 sid_dff: 100 cm
 slug: rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 317
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=317
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling technique (contd)
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelismului
+  (continuare)
 ---
-# Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling technique (contd)
+# Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelismului (continuare)
 
 
 <div class="rx-meta-bar">
@@ -120,7 +125,7 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
 
     === "Indicații Clinice"
 
-        - 303 10 Radiografie Dentară Retroalveolară (Periapicală) Paralleling technique
+        - 303 10 Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelismului
 
     === "Ghid Național IRIS"
 
@@ -134,20 +139,20 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
 
     ---
 
-    - **Poziție Pacient:** • appropriate film radiologic holder și periapical film radiologic sunt selected și assembled.
-• Place bite block în contact cu edge de tooth la fie imaged. Ensure that film radiologic covers particular tooth/teeth la fie examined.
-• Maxilla:
-– pentru incisor, canine, premolar și molar regions, film radiologic holder trebuie să fie poziționat some distance de la tooth la achieve parallelism. This requires using entire orizontal length de bite block cu film radiologic holder occupying highest part de palate.
+    - **Poziție Pacient:** • Se selectează și se asamblează suportul adecvat pentru film radiologic și filmul radiologic periapical.
+• Plasați blocul de ocluzie în contact cu marginea dintelui care urmează să fie examinat. Asigurați-vă că filmul radiologic acoperă dintele/dinții examinați.
+• Maxilar:
+– pentru regiunile incisivilor, caninilor, premolarilor și molarilor, suportul pentru film radiologic trebuie poziționat la o anumită distanță de dinte pentru a obține paralelismul. Aceasta necesită utilizarea întregii lungimi orizontale a blocului de ocluzie, suportul pentru film radiologic ocupând partea cea mai înaltă a palatului.
 • Mandibulă:
-– pentru lower incisor teeth, poziție film radiologic holder în plane de imaginary line intersecting first mandibular premolars sau ca posterior ca anatomy will allow.
-– pentru mandibular premolars și molars, poziție film radiologic holder în lingual sulcus adjacent la teeth selected pentru imaging.
-• Insert cotton-wool roll între opposing teeth și bite block.
-• Se instruiește pacientul să close together slowly la allow gradual accommodation de film radiologic holder intra-orally.
-• ca pacientul closes together, se rotește bite block în upward/downward direction (ca appropriate).
-• Se instruiește pacientul să close firmly pe bite block și la continue biting until examination este completed.
-• Slide aiming ring down indicator rod la approximate skin surface.
-    - **Punct de Centrare Fascicul:** • Correctly se aliniază X-ray tube adjacent la indicator rod și aiming ring în ambele vertical și orizontal planes.
-302 X-ray fascicul film radiologic Bite block Diagram evidențiind correct poziție de film radiologic în film radiologic holder bite block relative la anterior tooth în maxilla X-ray fascicul film radiologic Bite block Diagram evidențiind incorrect poziție de film radiologic în film radiologic holder bite block. When holder este poziționat adjacent la tooth (mimicking set-up pentru bisecting technique), true parallelism cannot fie achieved și holder este extremely uncomfortable pentru pacientul Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary molar region using Rinn XCP® posterior film radiologic holder Positioning de pacientul și X-ray tube pentru periapical radiografie de maxillary central incisors using Rinn XCP® anterior film radiologic holder
+– pentru dinții incisivi inferiori, poziționați suportul pentru film radiologic în planul unei linii imaginare care intersectează primii premolari mandibulari sau cât de posterior permite anatomia.
+– pentru premolarii și molarii mandibulari, poziționați suportul pentru film radiologic în șanțul lingual, adiacent dinților selectați pentru examinare.
+• Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
+• Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată intraorală a suportului pentru film radiologic.
+• Pe măsură ce pacientul închide gura, rotiți blocul de ocluzie în direcție ascendentă/descendentă, după caz.
+• Pacientul este instruit să închidă ferm gura pe blocul de ocluzie și să continue să muște până la finalizarea examinării.
+• Glisați inelul de vizare pe tija indicator până la aproximarea suprafeței cutanate.
+    - **Punct de Centrare Fascicul:** • Aliniați corect tubul de raze X adiacent tijei indicator și inelului de vizare, atât în plan vertical, cât și în plan orizontal.
+302 Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie, în raport cu dintele anterior din maxilar. Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția incorectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie. Atunci când suportul este poziționat adiacent dintelui (imitând montajul pentru tehnica unghiului bisector), paralelismul adevărat nu poate fi obținut, iar suportul este extrem de incomod pentru pacient. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a regiunii molarilor maxilari, utilizând suportul posterior pentru film radiologic Rinn XCP®. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a incisivilor centrali maxilari, utilizând suportul anterior pentru film radiologic Rinn XCP®.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -158,21 +163,21 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: Care trebuie să fie taken în partially dentate pacient, ca edentulous areas poate displace holder și prop open bite.
-    - Erori de evitat / remedii: Cotton wool rolls used ca support în edentulous area often overcome problem.
-    - Erori de evitat / remedii: Ensure that pacientul understands that they trebuie să continue la bite pe bite block. Failure la do this results în loss de Vârfuri Pulmonare (Apexuri) de la resultant imagine.
+    - Erori de evitat / remedii: Trebuie acordată atenție pacienților parțial dentați, deoarece zonele edentate pot deplasa suportul și pot menține gura deschisă.
+    - Erori de evitat / remedii: Rulourile de vată utilizate ca suport în zona edentată rezolvă adesea problema.
+    - Erori de evitat / remedii: Asigurați-vă că pacientul înțelege că trebuie să continue să muște pe blocul de ocluzie. Nerespectarea acestei indicații duce la pierderea vârfurilor rădăcinilor din imaginea rezultată.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -196,15 +201,15 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
 
 ![10 Radiografie Dentară Retroalveolară (Periapicală)](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie Dentară Retroalveolară (Periapicală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Diagram evidențiind correct poziție de film radiologic în film radiologic holder bite](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_2.jpeg)
+![Diagramă care evidențiază poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_2.jpeg)
 
-<figcaption><strong>Diagram evidențiind correct poziție de film radiologic în film radiologic holder bite</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Diagramă care evidențiază poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -218,9 +223,9 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de upper stâng maxilla shows bite block being trapped](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_4.jpeg)
+![radiografia maxilarului superior stâng arată blocul de ocluzie prins](../../assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_4.jpeg)
 
-<figcaption><strong>radiografie de upper stâng maxilla shows bite block being trapped</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografia maxilarului superior stâng arată blocul de ocluzie prins</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -237,4 +242,4 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Paralleling techni
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 317](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=317)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 317](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

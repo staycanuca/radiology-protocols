@@ -8,10 +8,10 @@ centering: perpendicular pe receptorul de imagine (RI); raza centrală trebuie s
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 385, imaginea 1
+- caption: Merrill — pagina 385, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p385_fig1.png
-- caption: Merrill — pagina PDF 386, imaginea 2
+- caption: Merrill — pagina 386, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p386_fig2.png
 last_updated: '2026-09-16'
@@ -104,8 +104,8 @@ source_sections:
 
     30 cm), transversal la include entire clavicle, longitudinal la include more humerus.'
 sources:
-- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 384–386
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=384
+- title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 384–386
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm)
@@ -197,17 +197,17 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 385, imaginea 1](../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p385_fig1.png)
+![Merrill — pagina 385, imaginea 1](../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p385_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 385, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 385, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 386, imaginea 2](../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p386_fig2.png)
+![Merrill — pagina 386, imaginea 2](../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p386_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 386, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 386, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -224,7 +224,7 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 6. Shoulder Girdle, pagini PDF 384–386](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=384)
+- [Merrill’s Atlas, 6. Shoulder Girdle, pagini 384–386](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

@@ -72,7 +72,7 @@ sid_dff: 100 cm
 slug: rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 91
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=91
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -202,4 +202,4 @@ Profil (lateral) Oblică This incidență este used when braț este imobilizat �
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 91](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=91)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 91](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

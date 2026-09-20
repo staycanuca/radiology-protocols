@@ -2,51 +2,52 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: pentru Incidență Postero-Anterioară (PA), when frontal bone este de primary
-  interest, se orientează raza centrală centrală perpendicular la exit nazion (Fig.
-  11.56). pentru Incidență PA Axială, Incidență Occipito-Frontală (Metoda Caldwell),
-  se orientează raza centrală centrală la exit nazion la un unghi de 15 grade caudal
-  (Figs. 11.57– 11.59). Se centrează receptorul de imagine pe raza centrală. la show
-  superior orbital fissures, se orientează raza centrală centrală through mid-Orbite
-  la un unghi de 20 la 25 grade caudal. la show rotundum foramina, se orientează raza
-  centrală centrală la nazion la un unghi de 25 la 30 grade caudal. (Incidență Occipito-Mentonieră
-  (Metoda Waters), presented în Sinus radiografie section, este also used la show
-  rotundum foramina.)
+centering: pentru incidența postero-anterioară (PA), când osul frontal este de interes
+  principal, se orientează raza centrală perpendicular pe nazion (Fig. 11.56). Pentru
+  incidența PA axială, incidența occipito-frontală (metoda Caldwell), se orientează
+  raza centrală spre nazion, la un unghi de 15 grade caudal (Figs. 11.57–11.59). Se
+  centrează receptorul de imagine pe raza centrală. Pentru evidențierea fisurilor
+  orbitare superioare, se orientează raza centrală prin mijlocul orbitelor, la un
+  unghi de 20 la 25 grade caudal. Pentru evidențierea foramina rotundum, se orientează
+  raza centrală spre nazion, la un unghi de 25 la 30 grade caudal. (Incidența occipito-mentonieră
+  [metoda Waters], prezentată în secțiunea Radiografia sinusurilor, este de asemenea
+  utilizată pentru evidențierea foramina rotundum.)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 872, imaginea 1
+- caption: Merrill — pagina 872, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p872_fig1.png
-- caption: Merrill — pagina PDF 873, imaginea 2
+- caption: Merrill — pagina 873, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig2.png
-- caption: Merrill — pagina PDF 873, imaginea 3
+- caption: Merrill — pagina 873, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig3.png
-- caption: Merrill — pagina PDF 873, imaginea 4
+- caption: Merrill — pagina 873, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig4.png
-- caption: Merrill — pagina PDF 874, imaginea 5
+- caption: Merrill — pagina 874, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig5.png
-- caption: Merrill — pagina PDF 874, imaginea 6
+- caption: Merrill — pagina 874, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig6.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral sau Poziție Șezândă poziție. Center
-  MSP de pacientul’s corp la linia mediană grilă. se sprijină pacientul’s forehead
-  și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky. se flectează
-  pacient’s coate, și place brațele în comfortable poziție.; se ajustează flexion
-  de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe
-  plane de receptorul de imagine. If pacientul este Decubit, support bărbia pe radiolucent
-  sponge if needed. If pacientul este obese sau hypersthenic, small radiolucent sponge
-  poate need la fie plasat under (sau în front oΥ) forehead. Align MSP perpendicular
-  pe receptorul de imagine (RI). This este accomplished prin adjusting lateral margins
-  de Orbite sau conduct auditiv extern (CAE) echidistant față de tabletop. se imobilizează
-  pacient’s cap, și se centrează receptorul de imagine la nazion.
+position: se așază pacientul în decubit ventral sau în poziție șezândă. Se centrează
+  MSP al corpului pacientului pe linia mediană a grilei. Se sprijină fruntea și nasul
+  pacientului pe masa de examinare sau pe stativul vertical Bucky. Se flectează coatele
+  pacientului și se așază brațele într-o poziție confortabilă; se ajustează flexia
+  gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară
+  pe planul receptorului de imagine. Dacă pacientul este în decubit, se sprijină bărbia
+  pe un burete radiotransparent, dacă este necesar. Dacă pacientul este obez sau hiperstenic,
+  poate fi necesar să se plaseze un burete radiotransparent mic sub (sau în fața)
+  frunții. Se aliniază MSP perpendicular pe receptorul de imagine (RI). Aceasta se
+  realizează prin ajustarea marginilor laterale ale orbitelor sau ale conductelor
+  auditive externe (CAE), la distanțe egale față de masa de examinare. Se imobilizează
+  capul pacientului și se centrează receptorul de imagine la nazion.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -59,86 +60,86 @@ source_pages:
 - 873
 - 874
 source_sections:
-  anatomy: 'pentru PA incidență cu perpendicular raza centrală (Fig. 11.60), orbits
-    sunt filled prin margins de stânci temporale (piramide pietroase). Other structures
+  anatomy: 'pentru incidența PA cu raza centrală perpendiculară (Fig. 11.60), orbitele
+    sunt ocupate de marginile stâncilor temporale (piramidele pietroase). Alte structuri
+    vizualizate includ celulele etmoidale aerice posterioare, crista galli, osul frontal
+    și sinusurile frontale. Dorsum sellae este vizibil ca o linie curbată care se
+    extinde între orbite, imediat deasupra celulelor etmoidale aerice.
 
-    vizualizat include posterior ethmoidal air cells, crista galli, frontal bone,
-    și sinusuri frontale. dorsum sellae este seen ca curved line extending
-
-    între orbits, just above ethmoidal air cells.
-
-    When raza centrală este Înclinat 15 grade caudal la nazion pentru PA axial incidență,
-    Caldwell method, many de same structures that
-
-    appear în PA incidență sunt seen (Fig. 11.61); however, stânci temporale (piramide
-    pietroase) sunt projected into lower third de orbits. Caldwell method
-
-    also shows anterior ethmoidal air cells. Schüller, 2 who first described this
-    positioning pentru craniul, recommended caudal angle de 25
+    Când raza centrală este înclinată cu 15 grade caudal spre nazion pentru incidența
+    PA axială, metoda Caldwell, sunt vizibile multe dintre aceleași structuri care
+    apar în incidența PA (Fig. 11.61); totuși, stâncile temporale (piramidele pietroase)
+    sunt proiectate în treimea inferioară a orbitelor. Metoda Caldwell evidențiază,
+    de asemenea, celulele etmoidale aerice anterioare. Schüller, 2 care a descris
+    primul această poziționare pentru craniu, a recomandat un unghi caudal de 25
 
     grade.
 
-    Stretcher și bedside examinations'
-  collimation: • Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line
-    de craniul. Check pentru light la vertex și pe ambele părți (bilateral). Place
-    marker de lateralitate (D/S) în collimated expunere field.
-  cr: '• pentru PA incidență, when frontal bone este de primary interest, se orientează
-    raza centrală centrală perpendicular la exit nazion (Fig. 11.56).
+    Examinări pe targă și la patul pacientului'
+  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și
+    pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: '• pentru incidența PA, când osul frontal este de interes principal, se orientează
+    raza centrală perpendicular pe nazion (Fig. 11.56).
 
-    • pentru PA axial incidență, Caldwell method, se orientează raza centrală centrală
-    la exit nazion la un unghi de 15 grade caudal (Figs. 11.57–
+    • pentru incidența PA axială, metoda Caldwell, se orientează raza centrală spre
+    nazion, la un unghi de 15 grade caudal (Figs. 11.57–
 
     11.59).
 
     • Se centrează receptorul de imagine pe raza centrală.
 
-    • la show superior orbital fissures, se orientează raza centrală centrală through
-    mid-orbits la un unghi de 20 la 25 grade caudal.
+    • pentru evidențierea fisurilor orbitare superioare, se orientează raza centrală
+    prin mijlocul orbitelor, la un unghi de 20 la 25 grade caudal.
 
-    • la show rotundum foramina, se orientează raza centrală centrală la nazion la
-    un unghi de 25 la 30 grade caudal. (Waters method,
+    • pentru evidențierea foramina rotundum, se orientează raza centrală spre nazion,
+    la un unghi de 25 la 30 grade caudal. (Metoda Waters,
 
-    presented în Sinus radiografie section, este also used la show rotundum foramina.)'
-  part_pos: '• se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală
-    (LOM) este perpendicular pe plane de receptorul de imagine.
+    prezentată în secțiunea Radiografia sinusurilor, este de asemenea utilizată pentru
+    evidențierea foramina rotundum.)'
+  part_pos: '• se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală
+    (LOM) să fie perpendiculară pe planul receptorului de imagine.
 
-    • If pacientul este recumbent, support bărbia pe radiolucent sponge if needed.
+    • Dacă pacientul este în decubit, se sprijină bărbia pe un burete radiotransparent,
+    dacă este necesar.
 
-    • If pacientul este obese sau hypersthenic, small radiolucent sponge poate need
-    la fie plasat under (sau în front oΥ) forehead.
+    • Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un
+    burete radiotransparent mic sub (sau în fața) frunții.
 
-    • Align MSP perpendicular pe receptorul de imagine (RI). This este accomplished
-    prin adjusting lateral margins de orbits sau conduct auditiv extern (CAE) echidistant
-    față de
+    • Se aliniază MSP perpendicular pe receptorul de imagine (RI). Aceasta se realizează
+    prin ajustarea marginilor laterale ale orbitelor sau ale conductelor auditive
+    externe (CAE), la distanțe egale față de masa de examinare.
 
-    tabletop.
+    • se imobilizează capul pacientului și se centrează receptorul de imagine la nazion.'
+  patient_pos: '• se așază pacientul în decubit ventral sau în poziție șezândă pe
+    scaun.
 
-    • se imobilizează pacient’s cap, și se centrează receptorul de imagine la nazion.'
-  patient_pos: '• se așază pacientul în decubit ventral sau așezat pe scaun poziție.
+    • Se centrează MSP al corpului pacientului pe linia mediană a grilei.
 
-    • Center MSP de pacientul’s corp la linia mediană grilă.
+    • se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul
+    vertical Bucky.
 
-    • se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit
-    de stativ vertical Bucky.
-
-    • se flectează pacient’s coate, și place brațele în comfortable poziție.'
+    • se flectează coatele pacientului și se așază brațele într-o poziție confortabilă.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 871–874
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=871
+- title: Merrill’s Atlas, 11. Cranium, pagini 871–874
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line
-    de Craniu. Check pentru light la vertex și pe ambele părți (bilateral). Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axială — Incidență
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+    cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și
+    pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axială — Incidență
   Occipito-Frontală (Metoda Caldwell) (Merrill)
 ---
-# Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axială — Incidență Occipito-Frontală (Metoda Caldwell) (Merrill)
+# Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axială — Incidență Occipito-Frontală (Metoda Caldwell) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -171,8 +172,8 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axi
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral sau Poziție Șezândă poziție. Center MSP de pacientul’s corp la linia mediană grilă. se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky. se flectează pacient’s coate, și place brațele în comfortable poziție.; se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine. If pacientul este Decubit, support bărbia pe radiolucent sponge if needed. If pacientul este obese sau hypersthenic, small radiolucent sponge poate need la fie plasat under (sau în front oΥ) forehead. Align MSP perpendicular pe receptorul de imagine (RI). This este accomplished prin adjusting lateral margins de Orbite sau conduct auditiv extern (CAE) echidistant față de tabletop. se imobilizează pacient’s cap, și se centrează receptorul de imagine la nazion.
-    - **Punct de Centrare Fascicul:** pentru Incidență Postero-Anterioară (PA), when frontal bone este de primary interest, se orientează raza centrală centrală perpendicular la exit nazion (Fig. 11.56). pentru Incidență PA Axială, Incidență Occipito-Frontală (Metoda Caldwell), se orientează raza centrală centrală la exit nazion la un unghi de 15 grade caudal (Figs. 11.57– 11.59). Se centrează receptorul de imagine pe raza centrală. la show superior orbital fissures, se orientează raza centrală centrală through mid-Orbite la un unghi de 20 la 25 grade caudal. la show rotundum foramina, se orientează raza centrală centrală la nazion la un unghi de 25 la 30 grade caudal. (Incidență Occipito-Mentonieră (Metoda Waters), presented în Sinus radiografie section, este also used la show rotundum foramina.)
+    - **Poziție Pacient:** se așază pacientul în decubit ventral sau în poziție șezândă. Se centrează MSP al corpului pacientului pe linia mediană a grilei. Se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul vertical Bucky. Se flectează coatele pacientului și se așază brațele într-o poziție confortabilă; se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine. Dacă pacientul este în decubit, se sprijină bărbia pe un burete radiotransparent, dacă este necesar. Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un burete radiotransparent mic sub (sau în fața) frunții. Se aliniază MSP perpendicular pe receptorul de imagine (RI). Aceasta se realizează prin ajustarea marginilor laterale ale orbitelor sau ale conductelor auditive externe (CAE), la distanțe egale față de masa de examinare. Se imobilizează capul pacientului și se centrează receptorul de imagine la nazion.
+    - **Punct de Centrare Fascicul:** pentru incidența postero-anterioară (PA), când osul frontal este de interes principal, se orientează raza centrală perpendicular pe nazion (Fig. 11.56). Pentru incidența PA axială, incidența occipito-frontală (metoda Caldwell), se orientează raza centrală spre nazion, la un unghi de 15 grade caudal (Figs. 11.57–11.59). Se centrează receptorul de imagine pe raza centrală. Pentru evidențierea fisurilor orbitare superioare, se orientează raza centrală prin mijlocul orbitelor, la un unghi de 20 la 25 grade caudal. Pentru evidențierea foramina rotundum, se orientează raza centrală spre nazion, la un unghi de 25 la 30 grade caudal. (Incidența occipito-mentonieră [metoda Waters], prezentată în secțiunea Radiografia sinusurilor, este de asemenea utilizată pentru evidențierea foramina rotundum.)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -188,7 +189,7 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de Craniu. Check pentru light la vertex și pe ambele părți (bilateral). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -215,49 +216,49 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axi
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 872, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p872_fig1.png)
+![Merrill — pagina 872, imaginea 1](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p872_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 872, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 873, imaginea 2](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 873, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 872, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 873, imaginea 3](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig3.png)
+![Merrill — pagina 873, imaginea 2](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 873, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 873, imaginea 4](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 873, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 873, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 874, imaginea 5](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig5.png)
+![Merrill — pagina 873, imaginea 3](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 874, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 873, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 874, imaginea 6](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig6.png)
+![Merrill — pagina 873, imaginea 4](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p873_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 874, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 873, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 874, imaginea 5](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig5.png)
+
+<figcaption><strong>Merrill — pagina 874, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 874, imaginea 6](../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig6.png)
+
+<figcaption><strong>Merrill — pagina 874, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -274,57 +275,52 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) And Incidență PA Axi
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 871–874](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=871)
+- [Merrill’s Atlas, 11. Cranium, pagini 871–874](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-pentru PA incidență cu perpendicular raza centrală (Fig. 11.60), orbits sunt filled prin margins de stânci temporale (piramide pietroase). Other structures
-vizualizat include posterior ethmoidal air cells, crista galli, frontal bone, și sinusuri frontale. dorsum sellae este seen ca curved line extending
-între orbits, just above ethmoidal air cells.
-When raza centrală este Înclinat 15 grade caudal la nazion pentru PA axial incidență, Caldwell method, many de same structures that
-appear în PA incidență sunt seen (Fig. 11.61); however, stânci temporale (piramide pietroase) sunt projected into lower third de orbits. Caldwell method
-also shows anterior ethmoidal air cells. Schüller, 2 who first described this positioning pentru craniul, recommended caudal angle de 25
+pentru incidența PA cu raza centrală perpendiculară (Fig. 11.60), orbitele sunt ocupate de marginile stâncilor temporale (piramidele pietroase). Alte structuri vizualizate includ celulele etmoidale aerice posterioare, crista galli, osul frontal și sinusurile frontale. Dorsum sellae este vizibil ca o linie curbată care se extinde între orbite, imediat deasupra celulelor etmoidale aerice.
+Când raza centrală este înclinată cu 15 grade caudal spre nazion pentru incidența PA axială, metoda Caldwell, sunt vizibile multe dintre aceleași structuri care apar în incidența PA (Fig. 11.61); totuși, stâncile temporale (piramidele pietroase) sunt proiectate în treimea inferioară a orbitelor. Metoda Caldwell evidențiază, de asemenea, celulele etmoidale aerice anterioare. Schüller, 2 care a descris primul această poziționare pentru craniu, a recomandat un unghi caudal de 25
 grade.
-Stretcher și bedside examinations
+Examinări pe targă și la patul pacientului
 
-### collimation
+### colimare
 
-• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond skin line de craniul. Check pentru light la vertex și pe ambele părți (bilateral). Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• pentru PA incidență, when frontal bone este de primary interest, se orientează raza centrală centrală perpendicular la exit nazion (Fig. 11.56).
-• pentru PA axial incidență, Caldwell method, se orientează raza centrală centrală la exit nazion la un unghi de 15 grade caudal (Figs. 11.57–
+• pentru incidența PA, când osul frontal este de interes principal, se orientează raza centrală perpendicular pe nazion (Fig. 11.56).
+• pentru incidența PA axială, metoda Caldwell, se orientează raza centrală spre nazion, la un unghi de 15 grade caudal (Figs. 11.57–
 11.59).
 • Se centrează receptorul de imagine pe raza centrală.
-• la show superior orbital fissures, se orientează raza centrală centrală through mid-orbits la un unghi de 20 la 25 grade caudal.
-• la show rotundum foramina, se orientează raza centrală centrală la nazion la un unghi de 25 la 30 grade caudal. (Waters method,
-presented în Sinus radiografie section, este also used la show rotundum foramina.)
+• pentru evidențierea fisurilor orbitare superioare, se orientează raza centrală prin mijlocul orbitelor, la un unghi de 20 la 25 grade caudal.
+• pentru evidențierea foramina rotundum, se orientează raza centrală spre nazion, la un unghi de 25 la 30 grade caudal. (Metoda Waters,
+prezentată în secțiunea Radiografia sinusurilor, este de asemenea utilizată pentru evidențierea foramina rotundum.)
 
 ### part_pos
 
-• se ajustează flexion de pacientul’s neck astfel încât linie orbitomeatală (LOM) este perpendicular pe plane de receptorul de imagine.
-• If pacientul este recumbent, support bărbia pe radiolucent sponge if needed.
-• If pacientul este obese sau hypersthenic, small radiolucent sponge poate need la fie plasat under (sau în front oΥ) forehead.
-• Align MSP perpendicular pe receptorul de imagine (RI). This este accomplished prin adjusting lateral margins de orbits sau conduct auditiv extern (CAE) echidistant față de
-tabletop.
-• se imobilizează pacient’s cap, și se centrează receptorul de imagine la nazion.
+• se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine.
+• Dacă pacientul este în decubit, se sprijină bărbia pe un burete radiotransparent, dacă este necesar.
+• Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un burete radiotransparent mic sub (sau în fața) frunții.
+• Se aliniază MSP perpendicular pe receptorul de imagine (RI). Aceasta se realizează prin ajustarea marginilor laterale ale orbitelor sau ale conductelor auditive externe (CAE), la distanțe egale față de masa de examinare.
+• se imobilizează capul pacientului și se centrează receptorul de imagine la nazion.
 
 ### patient_pos
 
-• se așază pacientul în decubit ventral sau așezat pe scaun poziție.
-• Center MSP de pacientul’s corp la linia mediană grilă.
-• se sprijină pacientul’s forehead și nose pe masa de examinare sau pe / sprijinit de stativ vertical Bucky.
-• se flectează pacient’s coate, și place brațele în comfortable poziție.
+• se așază pacientul în decubit ventral sau în poziție șezândă pe scaun.
+• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
+• se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul vertical Bucky.
+• se flectează coatele pacientului și se așază brațele într-o poziție confortabilă.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
+30 cm), longitudinal.
 

@@ -238,13 +238,8 @@ def build_frontmatter(protocol, sections, slug, figures, pdf, markdown):
                  + translated('notes'),
         'images': figures,
         'sources': [{
-            'title': f"Merrill’s Atlas, {protocol.chapter}, pagini PDF {first}–{last}",
-            'url': (
-                Path(os.path.relpath(
-                    next((ROOT / 'docs/assets/protocols/sources').glob('*Merrill*.pdf'), pdf),
-                    markdown.parent
-                )).as_posix() + f'#page={first}'
-            )
+            'title': f"Merrill’s Atlas, {protocol.chapter}, pagini {first}–{last}",
+            'url': 'https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ',
         }],
         'source_pages': list(range(first, last + 1)),
         'source_sections': sections,

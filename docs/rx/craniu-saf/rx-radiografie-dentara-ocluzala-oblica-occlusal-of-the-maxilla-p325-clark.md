@@ -3,71 +3,76 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• tubul este poziționat above pacientul în linia mediană și înclinat downwards
-  (caudal) la 65–70 grade, raza centrală passing through bridge de nasul spre centre
-  de film radiologic.
+centering: '• Tubul este poziționat deasupra pacientului, pe linia mediană, și înclinat
+  în jos (caudal) la 65–70 grade, raza centrală trecând prin rădăcina nasului spre
+  centrul filmului radiologic.
 
-  Modifications de technique Using părți moi expunere, this incidență este effective
-  în identifying fragments de tooth și/sau radio-opaque corp străin radiopac within
-  upper lip following trauma.
+  Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este
+  eficientă pentru identificarea fragmentelor dentare și/sau a corpurilor străine
+  radioopace din buza superioară în urma unui traumatism.
 
-  Another useful incidență la identify radio-opaque structures embedded within lips
-  este true Profil (lateral). pacientul holds occlusal film radiologic paralel cu
-  plan sagital using Police la support lower edge și Degete Mână la stabilize film
-  radiologic pe / sprijinit de cheek.
+  O altă incidență utilă pentru identificarea structurilor radioopace încorporate
+  în buze este profilul adevărat (lateral). Pacientul ține filmul ocluzal paralel
+  cu planul sagital, folosind policele pentru susținerea marginii inferioare și degetele
+  mâinii pentru stabilizarea filmului radiologic pe obraz/la obraz.
 
-  This incidență este taken using părți moi settings. Unless object este confirmed
-  clinically la fie solitary și situated în linia mediană, then true Profil (lateral)
-  trebuie să fie supplemented prin other incidențe (i.e. la drept-angles la it) la
-  enable precis localization.
+  Această incidență se efectuează utilizând parametri pentru părți moi. Cu excepția
+  cazului în care se confirmă clinic că obiectul este solitar și situat pe linia mediană,
+  profilul adevărat (lateral) trebuie completat prin alte incidențe (adică la unghiuri
+  drepte față de acesta) pentru a permite localizarea precisă.
 
-  310 Upper standard Oblică occlusal radiografie Positioning de pacientul și X-ray
-  tube (de la side) pentru upper standard Oblică occlusal radiografie Upper standard
-  Oblică occlusal radiografie (cu părți moi expunere) evidențiind suspiciune de fracturăd
-  tooth fragment localized la soft tissues de upper lip True Profil (lateral) incidență
-  de case illustrated above. Embedded tooth fragment este clar vizibil(e)'
+  310 Radiografie ocluzală oblică standard superioară Poziționarea pacientului și
+  a tubului radiogen (dinspre lateral) pentru radiografia ocluzală oblică standard
+  superioară Radiografie ocluzală oblică standard superioară (cu expunere pentru părți
+  moi) evidențiind suspiciunea unui fragment dentar fracturat localizat în țesuturile
+  moi ale buzei superioare Incidență de profil adevărat (lateral) a cazului ilustrat
+  mai sus. Fragmentul dentar încorporat este clar vizibil'
 clinical_indications:
-- incidență este used la show anterior maxilla.
+- Această incidență este utilizată pentru a evidenția maxila anterioară.
 images:
-- caption: 10 Radiografie Dentară Ocluzală
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 10 Radiografie dentară ocluzală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_1.jpeg
-- caption: Upper standard Oblică occlusal radiografie
+- caption: Radiografie ocluzală oblică standard superioară
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_2.jpeg
-- caption: standard Oblică occlusal radiografie
+- caption: Radiografie ocluzală oblică standard
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_3.jpeg
-- caption: Upper standard Oblică occlusal radiografie (cu părți moi expunere)
+- caption: Radiografie ocluzală oblică standard superioară (cu expunere pentru părți
+    moi)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_4.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul stă așezat comfortably cu capul sprijinit. Planul mediosagital
+position: '• Pacientul stă așezat confortabil, cu capul sprijinit. Planul mediosagital
   este vertical, iar planul ocluzal este orizontal.
 
-  • occlusal film radiologic este plasat flat în pacientul’s mouth, resting pe occlusal
-  surfaces de lower teeth, cu tubul side de film radiologic facing vault de palate.
+  • Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele
+  ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre bolta
+  palatină.
 
-  • convention pentru positioning film radiologic în mouth este:
+  • Convenția pentru poziționarea filmului radiologic în gură este:
 
-  – Adults: axa longitudinală de film radiologic extending across oral cavity (i.e.
-  perpendicular pe plan sagital).
+  – Adulți: axa longitudinală a filmului radiologic se extinde transversal în cavitatea
+  bucală (adică perpendicular pe planul sagital).
 
-  – Children: axa longitudinală de film radiologic poziționat antero-posteriorly în
-  oral cavity (i.e. paralel cu plan sagital). NB: în younger children cu small mouths,
-  periapical film radiologic poate fie substituted effectively.
+  – Copii: axa longitudinală a filmului radiologic este poziționată antero-posterior
+  în cavitatea bucală (adică paralel cu planul sagital). NB: la copiii mai mici, cu
+  guri mici, filmul periapical poate fi substituit în mod eficient.
 
-  • anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial
-  aspects de maxillary incisor teeth.
+  • Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo
+  de aspectele labiale ale dinților incisivi maxilari.
 
-  • film radiologic trebuie să fie plasat ca far back ca pacientul will tolerate.
+  • Filmul radiologic trebuie plasat cât mai posterior posibil, atât cât tolerează
+  pacientul.
 
-  • pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.'
+  • Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -76,7 +81,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+- Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -84,18 +89,18 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 325
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=325
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the maxilla
+  mas: Conform AEC / grosimii anatomice
+title: Rx Radiografie dentară ocluzală Ocluzală oblică a maxilei
 ---
-# Rx Radiografie Dentară Ocluzală Oblică occlusal of the maxilla
+# Rx Radiografie dentară ocluzală Ocluzală oblică a maxilei
 
 
 <div class="rx-meta-bar">
@@ -114,7 +119,7 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the maxilla
 
     === "Indicații Clinice"
 
-        - incidență este used la show anterior maxilla.
+        - Această incidență este utilizată pentru a evidenția maxila anterioară.
 
     === "Ghid Național IRIS"
 
@@ -128,19 +133,19 @@ title: Rx Radiografie Dentară Ocluzală Oblică occlusal of the maxilla
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat comfortably cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• occlusal film radiologic este plasat flat în pacientul’s mouth, resting pe occlusal surfaces de lower teeth, cu tubul side de film radiologic facing vault de palate.
-• convention pentru positioning film radiologic în mouth este:
-– Adults: axa longitudinală de film radiologic extending across oral cavity (i.e. perpendicular pe plan sagital).
-– Children: axa longitudinală de film radiologic poziționat antero-posteriorly în oral cavity (i.e. paralel cu plan sagital). NB: în younger children cu small mouths, periapical film radiologic poate fie substituted effectively.
-• anterior leading edge de film radiologic trebuie să extend 1 cm beyond labial aspects de maxillary incisor teeth.
-• film radiologic trebuie să fie plasat ca far back ca pacientul will tolerate.
-• pacientul trebuie să bite together gently la avoid pressure marks pe film radiologic.
-    - **Punct de Centrare Fascicul:** • tubul este poziționat above pacientul în linia mediană și înclinat downwards (caudal) la 65–70 grade, raza centrală passing through bridge de nasul spre centre de film radiologic.
-Modifications de technique Using părți moi expunere, this incidență este effective în identifying fragments de tooth și/sau radio-opaque corp străin radiopac within upper lip following trauma.
-Another useful incidență la identify radio-opaque structures embedded within lips este true Profil (lateral). pacientul holds occlusal film radiologic paralel cu plan sagital using Police la support lower edge și Degete Mână la stabilize film radiologic pe / sprijinit de cheek.
-This incidență este taken using părți moi settings. Unless object este confirmed clinically la fie solitary și situated în linia mediană, then true Profil (lateral) trebuie să fie supplemented prin other incidențe (i.e. la drept-angles la it) la enable precis localization.
-310 Upper standard Oblică occlusal radiografie Positioning de pacientul și X-ray tube (de la side) pentru upper standard Oblică occlusal radiografie Upper standard Oblică occlusal radiografie (cu părți moi expunere) evidențiind suspiciune de fracturăd tooth fragment localized la soft tissues de upper lip True Profil (lateral) incidență de case illustrated above. Embedded tooth fragment este clar vizibil(e)
+    - **Poziție Pacient:** • Pacientul stă așezat confortabil, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
+• Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre bolta palatină.
+• Convenția pentru poziționarea filmului radiologic în gură este:
+– Adulți: axa longitudinală a filmului radiologic se extinde transversal în cavitatea bucală (adică perpendicular pe planul sagital).
+– Copii: axa longitudinală a filmului radiologic este poziționată antero-posterior în cavitatea bucală (adică paralel cu planul sagital). NB: la copiii mai mici, cu guri mici, filmul periapical poate fi substituit în mod eficient.
+• Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi maxilari.
+• Filmul radiologic trebuie plasat cât mai posterior posibil, atât cât tolerează pacientul.
+• Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+    - **Punct de Centrare Fascicul:** • Tubul este poziționat deasupra pacientului, pe linia mediană, și înclinat în jos (caudal) la 65–70 grade, raza centrală trecând prin rădăcina nasului spre centrul filmului radiologic.
+Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este eficientă pentru identificarea fragmentelor dentare și/sau a corpurilor străine radioopace din buza superioară în urma unui traumatism.
+O altă incidență utilă pentru identificarea structurilor radioopace încorporate în buze este profilul adevărat (lateral). Pacientul ține filmul ocluzal paralel cu planul sagital, folosind policele pentru susținerea marginii inferioare și degetele mâinii pentru stabilizarea filmului radiologic pe obraz/la obraz.
+Această incidență se efectuează utilizând parametri pentru părți moi. Cu excepția cazului în care se confirmă clinic că obiectul este solitar și situat pe linia mediană, profilul adevărat (lateral) trebuie completat prin alte incidențe (adică la unghiuri drepte față de acesta) pentru a permite localizarea precisă.
+310 Radiografie ocluzală oblică standard superioară Poziționarea pacientului și a tubului radiogen (dinspre lateral) pentru radiografia ocluzală oblică standard superioară Radiografie ocluzală oblică standard superioară (cu expunere pentru părți moi) evidențiind suspiciunea unui fragment dentar fracturat localizat în țesuturile moi ale buzei superioare Incidență de profil adevărat (lateral) a cazului ilustrat mai sus. Fragmentul dentar încorporat este clar vizibil
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -151,19 +156,19 @@ This incidență este taken using părți moi settings. Unless object este confi
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Ocluzală).
+    - Vizualizarea clară a întregii arii anatomice (Radiografie dentară ocluzală).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -187,33 +192,33 @@ This incidență este taken using părți moi settings. Unless object este confi
 
 <figure class="protocol-image-card" markdown>
 
-![10 Radiografie Dentară Ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_1.jpeg)
+![10 Radiografie dentară ocluzală](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Ocluzală</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Upper standard Oblică occlusal radiografie](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_2.jpeg)
-
-<figcaption><strong>Upper standard Oblică occlusal radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie dentară ocluzală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![standard Oblică occlusal radiografie](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_3.jpeg)
+![Radiografie ocluzală oblică standard superioară](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_2.jpeg)
 
-<figcaption><strong>standard Oblică occlusal radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie ocluzală oblică standard superioară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Upper standard Oblică occlusal radiografie (cu părți moi expunere)](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_4.jpeg)
+![Radiografie ocluzală oblică standard](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_3.jpeg)
 
-<figcaption><strong>Upper standard Oblică occlusal radiografie (cu părți moi expunere)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie ocluzală oblică standard</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie ocluzală oblică standard superioară (cu expunere pentru părți moi)](../../assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie ocluzală oblică standard superioară (cu expunere pentru părți moi)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -230,4 +235,4 @@ This incidență este taken using părți moi settings. Unless object este confi
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 325](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=325)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 325](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

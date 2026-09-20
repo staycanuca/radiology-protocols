@@ -2,40 +2,41 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: abdomen
-centering: perpendicular pe axa longitudinală de pacientul’s back și centrat la nivelul
-  level de T6 sau T7. This poziție usually results în 10- la 20- grade caudal angulation
-  de raza centrală.
+centering: Perpendicular pe axa longitudinală a spatelui pacientului și centrat la
+  nivelul T6 sau T7. Această poziție determină de obicei o angulare caudală de 10
+  până la 20 grade a razei centrale.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 1127, imaginea 1
+- caption: Merrill — pagina 1127, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1127_fig1.png
-- caption: Merrill — pagina PDF 1128, imaginea 2
+- caption: Merrill — pagina 1128, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1128_fig2.png
 last_updated: '2026-09-16'
 modality: rx
-notes: Valsalva maneuver also increases intra-abdominal pressure și poate fie used
-  instead de Wolf method.
-position: se așază pacientul în Decubit ventral poziție pe masa radiologică.; Se instruiește
-  pacientul să assume modified Genunchi-Torace poziție during placement de compression
-  device. Place compression device horizontally under abdomenul și just below costal
-  margin. se ajustează pacient în a 40- la 45-grade poziție oblică anterioară dreaptă
-  (OAD / RAO), cu thorax centrat pe linia mediană grilă. Se instruiește pacientul
-  să ingest barium suspension în rapid, continuous swallows. la allow pentru complete
-  filling de esophagus, Se declanșează expunerea during third sau fourth swallow.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Manevra Valsalva crește, de asemenea, presiunea intraabdominală și poate fi
+  utilizată în locul metodei Wolf.
+position: Se așază pacientul în decubit ventral pe masa radiologică. Se instruiește
+  pacientul să adopte o poziție genupectorală modificată în timpul plasării dispozitivului
+  de compresiune. Se plasează dispozitivul de compresiune orizontal sub abdomen, imediat
+  sub rebordul costal. Se poziționează pacientul în poziție oblică anterioară dreaptă
+  (OAD / RAO) de 40 până la 45 grade, cu toracele centrat pe linia mediană a grilei.
+  Se instruiește pacientul să ingereze suspensia de bariu prin înghițituri rapide
+  și continue. Pentru a permite umplerea completă a esofagului, se declanșează expunerea
+  în timpul celei de-a treia sau celei de-a patra înghițituri. se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Middle sau distal aspects de esophagus și upper aspect de stomach
-- Esophagus vizibil între coloană vertebrală și cordul
-- Penetration de contrast medium
-- Surrounding anatomy
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Porțiunile mijlocii sau distale ale esofagului și porțiunea superioară a stomacului
+- Esofagul vizibil între coloana vertebrală și cord
+- Penetrarea substanței de contrast
+- Structurile anatomice învecinate
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill
 source_pages:
@@ -43,85 +44,78 @@ source_pages:
 - 1127
 - 1128
 source_sections:
-  anatomy: relationship de stomach la cupole diafragmatice și este useful în diagnosing
-    hiatal hernia (Fig. 15.81).
-  collimation: • se ajustează câmp de iradiere la fără larger than 14 × 17 inches
-    (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe axa longitudinală de pacientul’s back și centrat la nivelul
-    level de T6 sau T7. This poziție usually results în 10- la 20-
-
-    grade caudal angulation de raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Raportul stomacului cu cupolele diafragmatice și este utilă în diagnosticarea
+    herniei hiatale (Fig. 15.81).
+  collimation: • Se ajustează câmpul de iradiere astfel încât să nu depășească 14
+    × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Perpendicular pe axa longitudinală a spatelui pacientului și centrat la nivelul
+    T6 sau T7. Această poziție determină de obicei o angulare caudală de 10 până la
+    20 grade a razei centrale.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    fără a se suprapune peste anatomia de interes
 
-    • Middle sau distal aspects de esophagus și upper aspect de stomach
+    • Porțiunile mijlocii sau distale ale esofagului și porțiunea superioară a stomacului
 
-    • Esophagus vizibil între coloană vertebrală și cordul
+    • Esofagul vizibil între coloana vertebrală și cord
 
-    • Penetration de contrast medium
+    • Penetrarea mediului de contrast
 
-    • Surrounding anatomy'
-  notes: Valsalva maneuver also increases intra-abdominal pressure și poate fie used
-    instead de Wolf method.
-  part_pos: '• Se instruiește pacientul să assume modified genunchi-chest poziție
-    during placement de compression device.
+    • Anatomia înconjurătoare'
+  notes: Manevra Valsalva crește, de asemenea, presiunea intraabdominală și poate
+    fi utilizată în locul metodei Wolf.
+  part_pos: '• Se instruiește pacientul să adopte o poziție genupectorală modificată
+    în timpul plasării dispozitivului de compresiune.
 
-    • Place compression device horizontally under abdomenul și just below costal margin.
+    • Se plasează dispozitivul de compresiune orizontal sub abdomen, imediat sub rebordul
+    costal.
 
-    • se ajustează pacient în a 40- la 45-grade poziție oblică anterioară dreaptă
-    (OAD / RAO), cu thorax centrat pe linia mediană grilă.
+    • Se poziționează pacientul în poziție oblică anterioară dreaptă (OAD / RAO) de
+    40 până la 45 grade, cu toracele centrat pe linia mediană a grilei.
 
-    • Se instruiește pacientul să ingest barium suspension în rapid, continuous swallows.
+    • Se instruiește pacientul să ingereze suspensia de bariu prin înghițituri rapide
+    și continue.
 
-    • la allow pentru complete filling de esophagus, Se declanșează expunerea during
-    third sau fourth swallow.
+    • Pentru a permite umplerea completă a esofagului, se declanșează expunerea în
+    timpul celei de-a treia sau celei de-a patra înghițituri.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit ventral pe masa radiologică.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 14 × 17
+    țoli (35 × 43 cm), longitudinal.
 
-    43 cm) longitudinal.
+    Metoda Wolf 12 este o modificare a poziției Trendelenburg. Tehnica a fost dezvoltată
+    pentru a aplica o presiune intraabdominală mai mare decât cea obținută numai prin
+    angularea corpului și pentru a asigura rezultate mai constante în evidențierea
+    radiografică a hernierilor gastroesofagiene mici, prin alunecare, prin hiatusul
+    esofagian.
 
-    Wolf method 12 este modification de Trendelenburg poziție. technique was developed
-    pentru purpose de applying greater intra-
+    Metoda Wolf necesită utilizarea unui dispozitiv de compresiune radiotransparent,
+    semicilindric, cu lungimea de 22 țoli (55 cm), lățimea de 10 țoli (24 cm) și înălțimea
+    de 8 țoli (20 cm). (Buretele de compresiune ilustrat în Fig. 15.80 este puțin
+    mai mic decât cel descris de Wolf.)
 
-    abdominal pressure than este provided prin corp angulation alone și ensuring more
-    consistent results în radiographic demonstration de small,
-
-    sliding gastroesophageal herniations through esophageal hiatus.
-
-    Wolf method requires use de semicylindric radiolucent compression device measuring
-    22 inches (55 cm) în length, 10 inches (24 cm) în
-
-    width, și 8 inches (20 cm) în height. (compression sponge depicted în Fig. 15.80
-    este slightly smaller than one described prin Wolf.)
-
-    Wolf și Guglielmo 13 stated that this compression device nu only provides Trendelenburg
-    angulation de pacientul’s trunk, but it also
-
-    increases intra-abdominal pressure enough la permit adecvat contrast filling și
-    maximal distention de entire esophagus. further
-
-    advantage de device este that it does nu require angulation de masa de examinare;
-    pacientul poate hold barium container și ingest barium
-
-    suspension through straw cu comparative ease.'
+    Wolf și Guglielmo 13 au afirmat că acest dispozitiv de compresiune nu doar asigură
+    angularea trunchiului pacientului în poziție Trendelenburg, ci și crește suficient
+    presiunea intraabdominală pentru a permite umplerea adecvată cu substanță de contrast
+    și distensia maximă a întregului esofag. Un alt avantaj al dispozitivului este
+    că nu necesită angularea mesei de examinare; pacientul poate ține recipientul
+    cu bariu și poate ingera suspensia de bariu printr-un pai cu relativă ușurință.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
-    And Biliary System, pagini PDF 1126–1128'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1126
+    And Biliary System, pagini 1126–1128'
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35
-    × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere astfel încât să nu depășească 14 ×
+    17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
 title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA) — Metoda
-  Wolf (Hernie Hiatala) Oblică Anterioară Dreaptă (OAD / RAO) (Merrill)
+  Wolf (Hernie Hiatală) Oblică Anterioară Dreaptă (OAD / RAO) (Merrill)
 ---
-# Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA) — Metoda Wolf (Hernie Hiatala) Oblică Anterioară Dreaptă (OAD / RAO) (Merrill)
+# Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA) — Metoda Wolf (Hernie Hiatală) Oblică Anterioară Dreaptă (OAD / RAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -154,8 +148,8 @@ title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție pe masa radiologică.; Se instruiește pacientul să assume modified Genunchi-Torace poziție during placement de compression device. Place compression device horizontally under abdomenul și just below costal margin. se ajustează pacient în a 40- la 45-grade poziție oblică anterioară dreaptă (OAD / RAO), cu thorax centrat pe linia mediană grilă. Se instruiește pacientul să ingest barium suspension în rapid, continuous swallows. la allow pentru complete filling de esophagus, Se declanșează expunerea during third sau fourth swallow. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de pacientul’s back și centrat la nivelul level de T6 sau T7. This poziție usually results în 10- la 20- grade caudal angulation de raza centrală.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral pe masa radiologică. Se instruiește pacientul să adopte o poziție genupectorală modificată în timpul plasării dispozitivului de compresiune. Se plasează dispozitivul de compresiune orizontal sub abdomen, imediat sub rebordul costal. Se poziționează pacientul în poziție oblică anterioară dreaptă (OAD / RAO) de 40 până la 45 grade, cu toracele centrat pe linia mediană a grilei. Se instruiește pacientul să ingereze suspensia de bariu prin înghițituri rapide și continue. Pentru a permite umplerea completă a esofagului, se declanșează expunerea în timpul celei de-a treia sau celei de-a patra înghițituri. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe axa longitudinală a spatelui pacientului și centrat la nivelul T6 sau T7. Această poziție determină de obicei o angulare caudală de 10 până la 20 grade a razei centrale.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -171,19 +165,19 @@ title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Middle sau distal aspects de esophagus și upper aspect de stomach
-    - Esophagus vizibil între coloană vertebrală și cordul
-    - Penetration de contrast medium
-    - Surrounding anatomy
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Porțiunile mijlocii sau distale ale esofagului și porțiunea superioară a stomacului
+    - Esofagul vizibil între coloana vertebrală și cord
+    - Penetrarea substanței de contrast
+    - Structurile anatomice învecinate
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -194,7 +188,7 @@ title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Valsalva maneuver also increases intra-abdominal pressure și poate fie used instead de Wolf method.
+    Manevra Valsalva crește, de asemenea, presiunea intraabdominală și poate fi utilizată în locul metodei Wolf.
 
 
 ### 🖼️ Imagini
@@ -203,17 +197,17 @@ title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1127, imaginea 1](../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1127_fig1.png)
+![Merrill — pagina 1127, imaginea 1](../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1127_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 1127, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1127, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 1128, imaginea 2](../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1128_fig2.png)
+![Merrill — pagina 1128, imaginea 2](../../assets/images/protocols/merrill/rx-superior-stomach-and-distal-esophagus-pa-incidenta-oblica-wolf-method-for-hiatal-hernia-rao-position-p1126-merrill/p1128_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 1128, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 1128, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -230,64 +224,56 @@ title: Rx Stomac Proximal și Esofag Distal — Oblică Postero-Anterioară (PA)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini PDF 1126–1128](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=1126)
+- [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1126–1128](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-relationship de stomach la cupole diafragmatice și este useful în diagnosing hiatal hernia (Fig. 15.81).
+Raportul stomacului cu cupolele diafragmatice și este utilă în diagnosticarea herniei hiatale (Fig. 15.81).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la fără larger than 14 × 17 inches (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
+• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Se plasează markerul de lateralitate în câmpul colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe axa longitudinală de pacientul’s back și centrat la nivelul level de T6 sau T7. This poziție usually results în 10- la 20-
-grade caudal angulation de raza centrală.
+• Perpendicular pe axa longitudinală a spatelui pacientului și centrat la nivelul T6 sau T7. Această poziție determină de obicei o angulare caudală de 10 până la 20 grade a razei centrale.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Middle sau distal aspects de esophagus și upper aspect de stomach
-• Esophagus vizibil între coloană vertebrală și cordul
-• Penetration de contrast medium
-• Surrounding anatomy
+Criterii radiologice de calitate a imaginii:
+• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste anatomia de interes
+• Porțiunile mijlocii sau distale ale esofagului și porțiunea superioară a stomacului
+• Esofagul vizibil între coloana vertebrală și cord
+• Penetrarea mediului de contrast
+• Anatomia înconjurătoare
 
-### notes
+### note
 
-Valsalva maneuver also increases intra-abdominal pressure și poate fie used instead de Wolf method.
+Manevra Valsalva crește, de asemenea, presiunea intraabdominală și poate fi utilizată în locul metodei Wolf.
 
 ### part_pos
 
-• Se instruiește pacientul să assume modified genunchi-chest poziție during placement de compression device.
-• Place compression device horizontally under abdomenul și just below costal margin.
-• se ajustează pacient în a 40- la 45-grade poziție oblică anterioară dreaptă (OAD / RAO), cu thorax centrat pe linia mediană grilă.
-• Se instruiește pacientul să ingest barium suspension în rapid, continuous swallows.
-• la allow pentru complete filling de esophagus, Se declanșează expunerea during third sau fourth swallow.
+• Se instruiește pacientul să adopte o poziție genupectorală modificată în timpul plasării dispozitivului de compresiune.
+• Se plasează dispozitivul de compresiune orizontal sub abdomen, imediat sub rebordul costal.
+• Se poziționează pacientul în poziție oblică anterioară dreaptă (OAD / RAO) de 40 până la 45 grade, cu toracele centrat pe linia mediană a grilei.
+• Se instruiește pacientul să ingereze suspensia de bariu prin înghițituri rapide și continue.
+• Pentru a permite umplerea completă a esofagului, se declanșează expunerea în timpul celei de-a treia sau celei de-a patra înghițituri.
 • se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
 • se așază pacientul în decubit ventral pe masa radiologică.
 
-### respiration
+### respirație
 
 Apnee la sfârșitul expirului complet.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-Wolf method 12 este modification de Trendelenburg poziție. technique was developed pentru purpose de applying greater intra-
-abdominal pressure than este provided prin corp angulation alone și ensuring more consistent results în radiographic demonstration de small,
-sliding gastroesophageal herniations through esophageal hiatus.
-Wolf method requires use de semicylindric radiolucent compression device measuring 22 inches (55 cm) în length, 10 inches (24 cm) în
-width, și 8 inches (20 cm) în height. (compression sponge depicted în Fig. 15.80 este slightly smaller than one described prin Wolf.)
-Wolf și Guglielmo 13 stated that this compression device nu only provides Trendelenburg angulation de pacientul’s trunk, but it also
-increases intra-abdominal pressure enough la permit adecvat contrast filling și maximal distention de entire esophagus. further
-advantage de device este that it does nu require angulation de masa de examinare; pacientul poate hold barium container și ingest barium
-suspension through straw cu comparative ease.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 14 × 17 țoli (35 × 43 cm), longitudinal.
+Metoda Wolf 12 este o modificare a poziției Trendelenburg. Tehnica a fost dezvoltată pentru a aplica o presiune intraabdominală mai mare decât cea obținută numai prin angularea corpului și pentru a asigura rezultate mai constante în evidențierea radiografică a hernierilor gastroesofagiene mici, prin alunecare, prin hiatusul esofagian.
+Metoda Wolf necesită utilizarea unui dispozitiv de compresiune radiotransparent, semicilindric, cu lungimea de 22 țoli (55 cm), lățimea de 10 țoli (24 cm) și înălțimea de 8 țoli (20 cm). (Buretele de compresiune ilustrat în Fig. 15.80 este puțin mai mic decât cel descris de Wolf.)
+Wolf și Guglielmo 13 au afirmat că acest dispozitiv de compresiune nu doar asigură angularea trunchiului pacientului în poziție Trendelenburg, ci și crește suficient presiunea intraabdominală pentru a permite umplerea adecvată cu substanță de contrast și distensia maximă a întregului esofag. Un alt avantaj al dispozitivului este că nu necesită angularea mesei de examinare; pacientul poate ține recipientul cu bariu și poate ingera suspensia de bariu printr-un pai cu relativă ușurință.
 

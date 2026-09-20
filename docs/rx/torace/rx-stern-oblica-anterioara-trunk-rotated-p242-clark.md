@@ -1,91 +1,93 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe arrested inspir profund complet
+breathing: Expunerea se efectuează în apnee după un inspir profund complet.
 category: torace
-centering: '• se orientează raza centrală centrală perpendicular pe casetă și spre
-  point 7.5 cm Profil (lateral) la fifth thoracic vertebra pe side nearest X-ray tube.
+centering: '• Orientați raza centrală perpendicular pe casetă, către un punct situat
+  la 7.5 cm lateral de a cincea vertebră toracică, pe partea cea mai apropiată de
+  tubul de raze X.
 
+  • Orientați raza centrală orizontală către un punct situat la 2.5 cm sub unghiul
+  sternal.
 
-  • Direct raza centrală orizontală centrală spre point 2.5 cm below sternal angle.
-
-  • expunere este made pe arrested inspir profund complet.'
+  • Expunerea se efectuează în apnee după un inspir profund complet.'
 clinical_indications:
-- Profil (lateral) sternal incidență poate fie confusing, especially în elderly pacienți,
-  who often have heavily calcified costal cartilages.
-- Interpretation de Profil (lateral) incidență este much easier when Stern este truly
-  Profil (lateral) și la drept-angles la receptorul de imagine, cu corresponding superimposition
-  de Coaste (Grilaj Costal) și cartilage.
-- It este important la remember that initial interpretation este often done în emergency
-  department prin inexperienced observers; therefore, care trebuie să fie exercised
-  la ensure that Stern este projected în true Profil (lateral) poziție.
-- 'Sternal suspiciune de fractură, especially when there este overlap de bone ends,
-  poate fie associated cu compression (wedge) suspiciune de fractură de fourth la
-  sixth Coloană Toracală. It este appropriate la imagine thoracic coloană vertebrală
-  if this este suspected. Reference Unett EM, Carver BJ (2001). toracele X-ray: centring
-  points și central rays – poate we stop confusing our students și ourselves? Synergy
-  November:16. 228 Normal Profil (lateral) radiografie de Stern Profil (lateral) radiografie
-  de Stern evidențiind suspiciune de fractură de corp cu overlap de bone ends'
+- Incidența de profil (lateral) a sternului poate fi dificil de interpretat, în special
+  la pacienții vârstnici, care prezintă adesea calcificări accentuate ale cartilajelor
+  costale.
+- Interpretarea incidenței de profil (lateral) este mult mai ușoară atunci când sternul
+  este în profil strict, perpendicular pe receptorul de imagine, cu suprapunerea corespunzătoare
+  a coastelor (grilajului costal) și cartilajelor.
+- Trebuie reținut că interpretarea inițială este adesea efectuată în departamentul
+  de urgență de examinatori fără experiență; prin urmare, trebuie acordată atenție
+  proiectării sternului în poziție de profil (lateral) strict.
+- 'Suspiciunea de fractură sternală, mai ales când există suprapunerea fragmentelor
+  osoase, se poate asocia cu suspiciunea de fractură prin compresie (tasare cuneiformă)
+  a vertebrelor toracice de la a patra la a șasea. Dacă există această suspiciune,
+  este indicată examinarea imagistică a coloanei toracale. Referință: Unett EM, Carver
+  BJ (2001). Radiografia toracică: puncte de centrare și raze centrale – putem înceta
+  să ne derutăm studenții și pe noi înșine? Synergy noiembrie:16. 228 Radiografie
+  normală de profil (lateral) a sternului. Radiografie de profil (lateral) a sternului
+  care evidențiază suspiciune de fractură a corpului, cu suprapunerea fragmentelor
+  osoase.'
 images:
-- caption: Postero-anterior (PA) Oblică radiografie de Stern taken
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică postero-anterioară (PA) a sternului efectuată
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_2.jpeg
-- caption: • Sternal suspiciune de fractură, especially when there este overlap de
-    bone
+- caption: • Suspiciune de fractură sternală, mai ales când există suprapunerea osului
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_3.jpeg
-- caption: ends, poate fie associated cu compression (wedge) suspiciune de fractură
+- caption: Extremități, se poate asocia cu suspiciune de fractură prin compresie (tasare
+    cuneiformă)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_4.jpeg
-- caption: Normal Profil (lateral) radiografie de Stern
+- caption: Radiografie normală de profil (lateral) a sternului
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: 'pacientul este allowed la breathe gently during expunere time de several seconds
-  using low mA, provided that imobilizare este adecvat.
+notes: 'Pacientului i se permite să respire superficial în timpul expunerii de câteva
+  secunde, utilizând un mA redus, cu condiția unei imobilizări adecvate. Oblică anterioară
+  dreaptă. Cord și siluetă cardiovasculară. Tub de raze X. Plămân stâng. Plămân drept.
+  Omoplat (scapulă). Coaste (grilaj costal). Stern. 30° Suport. A 5-a, a 6-a TT. A
+  4-a, a 3-a cc. Casetă. Radiografie oblică postero-anterioară (PA) a sternului, efectuată
+  în timpul respirației superficiale.
 
-  drept Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube stâng lung drept
-  lung Omoplat (Scapulă) Coaste (Grilaj Costal) Stern 30° Support 5th 6th TT 4th 3rd
-  cc casetă Postero-anterior (PA) Oblică radiografie de Stern taken during gentle
-  respirație
+  • Imediat înaintea expunerii, pacientului i se cere să tragă umerii înapoi.
 
+  • Dacă pacientul este în ortostatism, picioarele trebuie depărtate pentru stabilitate.
 
-  • Immediately before expunere, pacientul este asked la pull back umerii.
+  • Se selectează o FFD de 120 sau 150 cm.'
+position: '• Inițial, pacientul stă în șezut sau în picioare cu fața spre stativul
+  vertical Bucky, ori în decubit ventral pe masa radiologică, cu planul mediosagital
+  perpendicular pe casetă și centrat la aceasta.
 
-  • If pacientul este în ortostatism, picioarele trebuie să fie separated la aid stability.
+  • Pacientul este apoi rotit cu aproximativ 20–30 de grade, ridicând partea dreaptă
+  pentru a adopta poziția oblică anterioară stângă, astfel încât o porțiune mai mică
+  din umbra cordului și siluetei cardiovasculare să acopere sternul.
 
-  • FFD de 120 sau 150 cm este selected.'
-position: '• pacientul initially sits sau stands facing stativ vertical Bucky sau
-  lies Decubit ventral pe masa radiologică cu planul mediosagital la drept-angles
-  la, și centred la, caseta.
+  • Pacientul este susținut în poziție cu perne radiotransparente și, dacă este posibil,
+  cu o bandă de imobilizare.
 
-  • pacientul este then rotit approximately 20–30 grade, cu drept side raised la adopt
-  stâng Oblică Anterioară poziție, which will ensure that less Cord și Siluetă Cardiovasculară
-  shadow obscures Stern.
+  • Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
 
-  • pacientul este sprijinit în poziție cu non-opaque pads și imobilizare band where
-  possible.
+  • Pacientul stă în șezut sau în picioare, cu oricare dintre umeri sprijinit de stativul
+  vertical Bucky sau de suportul casetei.
 
-  • caseta este centred la nivelul fifth thoracic vertebra.
+  • Planul mediosagital al trunchiului este ajustat paralel cu caseta.
 
+  • Sternul este centrat la casetă sau la Bucky.
 
-  • pacientul stă așezat sau stands, cu either Umăr against stativ vertical Bucky
-  sau casetă stand.
+  • Mâinile pacientului sunt împreunate la spate, iar umerii sunt trași bine înapoi.
 
-  • planul mediosagital de trunk este ajustat paralel cu casetă.
-
-  • Stern este centred la caseta sau Bucky.
-
-  • pacientul’s mâini sunt clasped behind back și umerii sunt pulled well back.
-
-  • caseta este centred la level 2.5 cm below sternal angle.'
+  • Caseta este centrată la un nivel situat la 2.5 cm sub unghiul sternal.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -94,7 +96,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Stern).
+- Vizualizarea clară a întregii arii anatomice (stern).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -102,18 +104,18 @@ sid_dff: 100 cm
 slug: rx-stern-oblica-anterioara-trunk-rotated-p242-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 242
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=242
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Stern Oblică Anterioară - trunk rotated
+  mas: Conform AEC / grosimii anatomice
+title: Rx stern oblică anterioară – trunchiul rotit
 ---
-# Rx Stern Oblică Anterioară - trunk rotated
+# Rx stern oblică anterioară – trunchiul rotit
 
 
 <div class="rx-meta-bar">
@@ -132,10 +134,10 @@ title: Rx Stern Oblică Anterioară - trunk rotated
 
     === "Indicații Clinice"
 
-        - Profil (lateral) sternal incidență poate fie confusing, especially în elderly pacienți, who often have heavily calcified costal cartilages.
-        - Interpretation de Profil (lateral) incidență este much easier when Stern este truly Profil (lateral) și la drept-angles la receptorul de imagine, cu corresponding superimposition de Coaste (Grilaj Costal) și cartilage.
-        - It este important la remember that initial interpretation este often done în emergency department prin inexperienced observers; therefore, care trebuie să fie exercised la ensure that Stern este projected în true Profil (lateral) poziție.
-        - Sternal suspiciune de fractură, especially when there este overlap de bone ends, poate fie associated cu compression (wedge) suspiciune de fractură de fourth la sixth Coloană Toracală. It este appropriate la imagine thoracic coloană vertebrală if this este suspected. Reference Unett EM, Carver BJ (2001). toracele X-ray: centring points și central rays – poate we stop confusing our students și ourselves? Synergy November:16. 228 Normal Profil (lateral) radiografie de Stern Profil (lateral) radiografie de Stern evidențiind suspiciune de fractură de corp cu overlap de bone ends
+        - Incidența de profil (lateral) a sternului poate fi dificil de interpretat, în special la pacienții vârstnici, care prezintă adesea calcificări accentuate ale cartilajelor costale.
+        - Interpretarea incidenței de profil (lateral) este mult mai ușoară atunci când sternul este în profil strict, perpendicular pe receptorul de imagine, cu suprapunerea corespunzătoare a coastelor (grilajului costal) și cartilajelor.
+        - Trebuie reținut că interpretarea inițială este adesea efectuată în departamentul de urgență de examinatori fără experiență; prin urmare, trebuie acordată atenție proiectării sternului în poziție de profil (lateral) strict.
+        - Suspiciunea de fractură sternală, mai ales când există suprapunerea fragmentelor osoase, se poate asocia cu suspiciunea de fractură prin compresie (tasare cuneiformă) a vertebrelor toracice de la a patra la a șasea. Dacă există această suspiciune, este indicată examinarea imagistică a coloanei toracale. Referință: Unett EM, Carver BJ (2001). Radiografia toracică: puncte de centrare și raze centrale – putem înceta să ne derutăm studenții și pe noi înșine? Synergy noiembrie:16. 228 Radiografie normală de profil (lateral) a sternului. Radiografie de profil (lateral) a sternului care evidențiază suspiciune de fractură a corpului, cu suprapunerea fragmentelor osoase.
 
     === "Ghid Național IRIS"
 
@@ -149,22 +151,20 @@ title: Rx Stern Oblică Anterioară - trunk rotated
 
     ---
 
-    - **Poziție Pacient:** • pacientul initially sits sau stands facing stativ vertical Bucky sau lies Decubit ventral pe masa radiologică cu planul mediosagital la drept-angles la, și centred la, caseta.
-• pacientul este then rotit approximately 20–30 grade, cu drept side raised la adopt stâng Oblică Anterioară poziție, which will ensure that less Cord și Siluetă Cardiovasculară shadow obscures Stern.
-• pacientul este sprijinit în poziție cu non-opaque pads și imobilizare band where possible.
-• caseta este centred la nivelul fifth thoracic vertebra.
-
-• pacientul stă așezat sau stands, cu either Umăr against stativ vertical Bucky sau casetă stand.
-• planul mediosagital de trunk este ajustat paralel cu casetă.
-• Stern este centred la caseta sau Bucky.
-• pacientul’s mâini sunt clasped behind back și umerii sunt pulled well back.
-• caseta este centred la level 2.5 cm below sternal angle.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală centrală perpendicular pe casetă și spre point 7.5 cm Profil (lateral) la fifth thoracic vertebra pe side nearest X-ray tube.
-
-• Direct raza centrală orizontală centrală spre point 2.5 cm below sternal angle.
-• expunere este made pe arrested inspir profund complet.
+    - **Poziție Pacient:** • Inițial, pacientul stă în șezut sau în picioare cu fața spre stativul vertical Bucky, ori în decubit ventral pe masa radiologică, cu planul mediosagital perpendicular pe casetă și centrat la aceasta.
+• Pacientul este apoi rotit cu aproximativ 20–30 de grade, ridicând partea dreaptă pentru a adopta poziția oblică anterioară stângă, astfel încât o porțiune mai mică din umbra cordului și siluetei cardiovasculare să acopere sternul.
+• Pacientul este susținut în poziție cu perne radiotransparente și, dacă este posibil, cu o bandă de imobilizare.
+• Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
+• Pacientul stă în șezut sau în picioare, cu oricare dintre umeri sprijinit de stativul vertical Bucky sau de suportul casetei.
+• Planul mediosagital al trunchiului este ajustat paralel cu caseta.
+• Sternul este centrat la casetă sau la Bucky.
+• Mâinile pacientului sunt împreunate la spate, iar umerii sunt trași bine înapoi.
+• Caseta este centrată la un nivel situat la 2.5 cm sub unghiul sternal.
+    - **Punct de Centrare Fascicul:** • Orientați raza centrală perpendicular pe casetă, către un punct situat la 7.5 cm lateral de a cincea vertebră toracică, pe partea cea mai apropiată de tubul de raze X.
+• Orientați raza centrală orizontală către un punct situat la 2.5 cm sub unghiul sternal.
+• Expunerea se efectuează în apnee după un inspir profund complet.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe arrested inspir profund complet
+    - **Comandă Respiratorie:** Expunerea se efectuează în apnee după un inspir profund complet.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -173,19 +173,19 @@ title: Rx Stern Oblică Anterioară - trunk rotated
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Stern).
+    - Vizualizarea clară a întregii arii anatomice (stern).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -200,12 +200,10 @@ title: Rx Stern Oblică Anterioară - trunk rotated
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    pacientul este allowed la breathe gently during expunere time de several seconds using low mA, provided that imobilizare este adecvat.
-drept Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube stâng lung drept lung Omoplat (Scapulă) Coaste (Grilaj Costal) Stern 30° Support 5th 6th TT 4th 3rd cc casetă Postero-anterior (PA) Oblică radiografie de Stern taken during gentle respirație
-
-• Immediately before expunere, pacientul este asked la pull back umerii.
-• If pacientul este în ortostatism, picioarele trebuie să fie separated la aid stability.
-• FFD de 120 sau 150 cm este selected.
+    Pacientului i se permite să respire superficial în timpul expunerii de câteva secunde, utilizând un mA redus, cu condiția unei imobilizări adecvate. Oblică anterioară dreaptă. Cord și siluetă cardiovasculară. Tub de raze X. Plămân stâng. Plămân drept. Omoplat (scapulă). Coaste (grilaj costal). Stern. 30° Suport. A 5-a, a 6-a TT. A 4-a, a 3-a cc. Casetă. Radiografie oblică postero-anterioară (PA) a sternului, efectuată în timpul respirației superficiale.
+• Imediat înaintea expunerii, pacientului i se cere să tragă umerii înapoi.
+• Dacă pacientul este în ortostatism, picioarele trebuie depărtate pentru stabilitate.
+• Se selectează o FFD de 120 sau 150 cm.
 
 
 ### 🖼️ Imagini
@@ -214,9 +212,9 @@ drept Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube stâng l
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) Oblică radiografie de Stern taken](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_1.jpeg)
+![Radiografie oblică postero-anterioară (PA) a sternului efectuată](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_1.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) Oblică radiografie de Stern taken</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică postero-anterioară (PA) a sternului efectuată</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -230,25 +228,25 @@ drept Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube stâng l
 
 <figure class="protocol-image-card" markdown>
 
-![• Sternal suspiciune de fractură, especially when there este overlap de bone](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_3.jpeg)
+![• Suspiciune de fractură sternală, mai ales când există suprapunerea osului](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_3.jpeg)
 
-<figcaption><strong>• Sternal suspiciune de fractură, especially when there este overlap de bone</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![ends, poate fie associated cu compression (wedge) suspiciune de fractură](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_4.jpeg)
-
-<figcaption><strong>ends, poate fie associated cu compression (wedge) suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Suspiciune de fractură sternală, mai ales când există suprapunerea osului</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Profil (lateral) radiografie de Stern](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_5.jpeg)
+![Extremități, se poate asocia cu suspiciune de fractură prin compresie (tasare cuneiformă)](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_4.jpeg)
 
-<figcaption><strong>Normal Profil (lateral) radiografie de Stern</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Extremități, se poate asocia cu suspiciune de fractură prin compresie (tasare cuneiformă)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie normală de profil (lateral) a sternului](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografie normală de profil (lateral) a sternului</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -265,4 +263,4 @@ drept Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube stâng l
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 242](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=242)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 242](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

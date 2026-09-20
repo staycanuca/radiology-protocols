@@ -57,7 +57,7 @@ sid_dff: 100 cm
 slug: rx-clavicula-postero-anterior-ortostatism-basic-p110-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 110
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=110
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -188,4 +188,4 @@ Normal Postero-anterior (PA) radiografie de Claviculă Postero-anterior (PA) rad
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 110](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=110)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 110](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

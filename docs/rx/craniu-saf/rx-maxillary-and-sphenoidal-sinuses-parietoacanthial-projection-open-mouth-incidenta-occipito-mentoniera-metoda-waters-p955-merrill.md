@@ -2,43 +2,43 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: Horizon̍ al la receptorul de imagine și exiting acantion.
+centering: Orizontal față de receptorul de imagine și cu ieșirea la acantion.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 956, imaginea 1
+- caption: Merrill — pagina 956, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p956_fig1.png
-- caption: Merrill — pagina PDF 957, imaginea 2
+- caption: Merrill — pagina 957, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p957_fig2.png
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Conform reperelor anatomice standard din tratat; Hyperextend pacientul’s
-  neck la approximately correct poziție, și then poziție receptorul de imagine la
-  acantion. se sprijină pacientul’s chin pe stativ vertical Bucky, și adjust it so
-  that MSP este perpendicular pe plane de receptorul de imagine. Using protractor
-  ca guide, se ajustează pacient’s cap astfel încât linie orbitomeatală (LOM) forms
-  angle de 37 grade de la plane de receptorul de imagine. linie mentomeatală (LMM)
-  would nu fie perpendicular (Fig. 11.178). Se instruiește pacientul să slowly open
-  mouth wide open while menținerea poziție. Se imobilizează capul pacientului.
+position: Conform reperelor anatomice standard din tratat; se hiperextinde gâtul pacientului
+  până la poziția corectă aproximativă, apoi se poziționează receptorul de imagine
+  la acantion. Se sprijină bărbia pacientului pe stativul vertical Bucky și se ajustează
+  astfel încât MSP să fie perpendicular pe planul receptorului de imagine. Folosind
+  raportorul ca ghid, se ajustează capul pacientului astfel încât linia orbitomeatală
+  (LOM) să formeze un unghi de 37 de grade față de planul receptorului de imagine.
+  Linia mentomeatală (LMM) nu va fi perpendiculară (Fig. 11.178). Se instruiește pacientul
+  să deschidă lent gura larg, menținând poziția. Se imobilizează capul pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n sinusuri
-  sfenoidale projected through gură deschisă (transorală) n sinusuri maxilare n linie
-  orbitomeatală (LOM) în corect poziție (suficient neck extension), ca evidențiat
-  prin:'
-- 'stânci temporale (piramide pietroase) culcat immediately inferior la floor de sinusuri
-  maxilare n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-  prin:'
-- Equal distance între lateral margine de Craniu și lateral margine de orbit pe ambele
-  părți (bilateral)
-- Orbite și sinusuri maxilare simetric pe fiecare side
-- MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi, bony detalii
-  trabeculare osoase, și air-nivele hidroaerice, if present
+- 'Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența
+  markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n sinusurile
+  sfenoidale proiectate prin gura deschisă (transorală) n sinusurile maxilare n linia
+  orbitomeatală (LOM) în poziție corectă (extensie suficientă a gâtului), după cum
+  este evidențiat prin:'
+- 'stâncile temporale (piramidele pietroase) situate imediat inferior față de planșeul
+  sinusurilor maxilare n Absența rotației anatomice (simetrie bilaterală perfectă)
+  sau a înclinării, evidențiată prin:'
+- Distanță egală între marginea laterală a craniului și marginea laterală a orbitei
+  de ambele părți (bilateral)
+- Orbitele și sinusurile maxilare sunt simetrice de fiecare parte
+- MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi, detalii
+  osoase trabeculare și niveluri hidroaerice, dacă sunt prezente
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill
 source_pages:
@@ -46,83 +46,82 @@ source_pages:
 - 956
 - 957
 source_sections:
-  anatomy: sinusuri sfenoidale projected through gură deschisă (transorală) along
-    cu sinusuri maxilare (Fig. 11.179).
-  collimation: '• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    skin shadows, superiorly la include just shadow de top de
+  anatomy: Sinusurile sfenoidale proiectate prin gura deschisă (transorală), împreună
+    cu sinusurile maxilare (Fig. 11.179).
+  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2,5
+    cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra
+    vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie
+    să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate
+    în câmpul de expunere colimat.
+  cr: • Orizontal față de receptorul de imagine și cu ieșirea la acantion.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    capul, și inferiorly la plan ocluzal. expunere field trebuie să fie fără larger
-    than 8 × 10 inches (18 × 24 cm). Place side
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    marker în collimated expunere field.'
-  cr: • Horizon̍ al la receptorul de imagine și exiting acantion.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n sinusurile sfenoidale proiectate prin gura deschisă (transorală)
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    n sinusurile maxilare
 
-    n sinusuri sfenoidale projected through gură deschisă (transorală)
+    n linia orbitomeatală (LOM) în poziție corectă (extensie suficientă a gâtului),
+    evidențiată prin:
 
-    n sinusuri maxilare
+    • stâncile temporale (piramidele pietroase) situate imediat inferior față de planșeul
+    sinusurilor maxilare
 
-    n linie orbitomeatală (LOM) în corect poziție (suficient neck extension), ca evidențiat
-    prin:
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării,
+    evidențiată prin:
 
-    • stânci temporale (piramide pietroase) culcat immediately inferior la floor de
-    sinusuri maxilare
+    • distanță egală între marginea laterală a craniului și marginea laterală a orbitei
+    de ambele părți (bilateral)
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat
-    prin:
+    • orbitele și sinusurile maxilare simetrice pe fiecare parte
 
-    • Equal distance între lateral margine de craniul și lateral margine de orbit
-    pe ambele părți (bilateral)
+    • MSP al capului aliniat cu axa longitudinală a câmpului colimat
 
-    • Orbits și sinusuri maxilare simetric pe fiecare side
+    n părțile moi, detaliile osoase trabeculare și nivelurile hidroaerice, dacă sunt
+    prezente'
+  part_pos: '• Hiperextindeți gâtul pacientului până la poziția corectă aproximativă,
+    apoi poziționați receptorul de imagine la acantion.
 
-    • MSP de cap aliniat cu axa longitudinală de câmp colimat
+    • Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel
+    încât MSP să fie perpendicular pe planul receptorului de imagine.
 
-    n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present'
-  part_pos: '• Hyperextend pacientul’s neck la approximately correct poziție, și then
-    poziție receptorul de imagine la acantion.
+    • Folosind raportorul ca ghid, ajustați capul pacientului astfel încât linia orbitomeatală
+    (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine.
+    Linia mentomeatală (LMM) nu va fi perpendiculară (Fig. 11.178).
 
-    • se sprijină pacientul’s chin pe stativ vertical Bucky, și adjust it so that
-    MSP este perpendicular pe plane de receptorul de imagine.
+    • Instruiți pacientul să deschidă lent gura larg, menținând poziția.
 
-    • Using protractor ca guide, se ajustează pacient’s cap astfel încât linie orbitomeatală
-    (LOM) forms angle de 37 grade de la plane de receptorul de imagine. linie mentomeatală
-    (LMM) would nu fie perpendicular (Fig. 11.178).
-
-    • Se instruiește pacientul să slowly open mouth wide open while menținerea poziție.
-
-    • Se imobilizează capul pacientului.'
+    • Imobilizați capul pacientului.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    (24 ×
 
-    30 cm) longitudinal.
+    30 cm), longitudinal.
 
-    This method provides excellent demonstration de sinusuri sfenoidale projected
-    through gură deschisă (transorală). pentru pacienți who cannot fie
-
-    plasat în poziție pentru SMV incidență, open-mouth Waters method și lateral incidențe
-    poate fie only techniques la show sinusuri sfenoidale. Because open-mouth poziție
-    este uncomfortable pentru pacientul la hold, radiographer trebuie să have receptorul
-    de imagine și equipment
-
-    în poziție la perform examination quickly.'
+    Această metodă oferă o demonstrație excelentă a sinusurilor sfenoidale proiectate
+    prin gura deschisă (transorală). Pentru pacienții care nu pot fi plasați în poziție
+    pentru incidența SMV, metoda Waters cu gura deschisă și incidențele de profil
+    pot fi singurele tehnici pentru evidențierea sinusurilor sfenoidale. Deoarece
+    poziția cu gura deschisă este inconfortabilă pentru pacient pentru menținere,
+    radiograful trebuie să aibă receptorul de imagine și echipamentul în poziție pentru
+    efectuarea rapidă a examinării.'
 sources:
-- title: Merrill’s Atlas, 11. Cranium, pagini PDF 955–957
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=955
+- title: Merrill’s Atlas, 11. Cranium, pagini 955–957
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    skin shadows, superiorly la include just shadow de top de capul, și inferiorly
-    la plan ocluzal. expunere field trebuie să fie fără larger than 8 × 10 inches
-    (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — Transorală
-  (Gură Deschisă) Incidență Occipito-Mentonieră (Metoda Waters) (Merrill)
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+    dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului
+    capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie
+    mai mare de 8 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
+title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoacantială
+  — transorală (gură deschisă), incidență occipito-mentonieră (metoda Waters) (Merrill)
 ---
-# Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — Transorală (Gură Deschisă) Incidență Occipito-Mentonieră (Metoda Waters) (Merrill)
+# Radiografia sinusurilor maxilare și sfenoidale — incidență parietoacantială — transorală (gură deschisă), incidență occipito-mentonieră (metoda Waters) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -155,8 +154,8 @@ title: Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — 
 
     ---
 
-    - **Poziție Pacient:** Conform reperelor anatomice standard din tratat; Hyperextend pacientul’s neck la approximately correct poziție, și then poziție receptorul de imagine la acantion. se sprijină pacientul’s chin pe stativ vertical Bucky, și adjust it so that MSP este perpendicular pe plane de receptorul de imagine. Using protractor ca guide, se ajustează pacient’s cap astfel încât linie orbitomeatală (LOM) forms angle de 37 grade de la plane de receptorul de imagine. linie mentomeatală (LMM) would nu fie perpendicular (Fig. 11.178). Se instruiește pacientul să slowly open mouth wide open while menținerea poziție. Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** Horizon̍ al la receptorul de imagine și exiting acantion.
+    - **Poziție Pacient:** Conform reperelor anatomice standard din tratat; se hiperextinde gâtul pacientului până la poziția corectă aproximativă, apoi se poziționează receptorul de imagine la acantion. Se sprijină bărbia pacientului pe stativul vertical Bucky și se ajustează astfel încât MSP să fie perpendicular pe planul receptorului de imagine. Folosind raportorul ca ghid, se ajustează capul pacientului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade față de planul receptorului de imagine. Linia mentomeatală (LMM) nu va fi perpendiculară (Fig. 11.178). Se instruiește pacientul să deschidă lent gura larg, menținând poziția. Se imobilizează capul pacientului.
+    - **Punct de Centrare Fascicul:** Orizontal față de receptorul de imagine și cu ieșirea la acantion.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -172,18 +171,18 @@ title: Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral skin shadows, superiorly la include just shadow de top de capul, și inferiorly la plan ocluzal. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n sinusuri sfenoidale projected through gură deschisă (transorală) n sinusuri maxilare n linie orbitomeatală (LOM) în corect poziție (suficient neck extension), ca evidențiat prin:
-    - stânci temporale (piramide pietroase) culcat immediately inferior la floor de sinusuri maxilare n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-    - Equal distance între lateral margine de Craniu și lateral margine de orbit pe ambele părți (bilateral)
-    - Orbite și sinusuri maxilare simetric pe fiecare side
-    - MSP de cap aliniat cu axa longitudinală de câmp colimat n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present
+    - Criterii radiologice de calitate a imaginii: n Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes n sinusurile sfenoidale proiectate prin gura deschisă (transorală) n sinusurile maxilare n linia orbitomeatală (LOM) în poziție corectă (extensie suficientă a gâtului), după cum este evidențiat prin:
+    - stâncile temporale (piramidele pietroase) situate imediat inferior față de planșeul sinusurilor maxilare n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - Distanță egală între marginea laterală a craniului și marginea laterală a orbitei de ambele părți (bilateral)
+    - Orbitele și sinusurile maxilare sunt simetrice de fiecare parte
+    - MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi, detalii osoase trabeculare și niveluri hidroaerice, dacă sunt prezente
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -203,17 +202,17 @@ title: Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — 
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 956, imaginea 1](../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p956_fig1.png)
+![Merrill — pagina 956, imaginea 1](../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p956_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 956, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 956, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 957, imaginea 2](../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p957_fig2.png)
+![Merrill — pagina 957, imaginea 2](../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p957_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 957, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 957, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -230,55 +229,51 @@ title: Rx Maxillary and Sphenoidal Sinuses — Parietoacanthial Incidență — 
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 11. Cranium, pagini PDF 955–957](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=955)
+- [Merrill’s Atlas, 11. Cranium, pagini 955–957](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-sinusuri sfenoidale projected through gură deschisă (transorală) along cu sinusuri maxilare (Fig. 11.179).
+Sinusurile sfenoidale proiectate prin gura deschisă (transorală), împreună cu sinusurile maxilare (Fig. 11.179).
 
-### collimation
+### colimare
 
-• se ajustează câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral skin shadows, superiorly la include just shadow de top de
-capul, și inferiorly la plan ocluzal. expunere field trebuie să fie fără larger than 8 × 10 inches (18 × 24 cm). Place side
-marker în collimated expunere field.
+• Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2,5 cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• Horizon̍ al la receptorul de imagine și exiting acantion.
+• Orizontal față de receptorul de imagine și cu ieșirea la acantion.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n sinusuri sfenoidale projected through gură deschisă (transorală)
-n sinusuri maxilare
-n linie orbitomeatală (LOM) în corect poziție (suficient neck extension), ca evidențiat prin:
-• stânci temporale (piramide pietroase) culcat immediately inferior la floor de sinusuri maxilare
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt, evidențiat prin:
-• Equal distance între lateral margine de craniul și lateral margine de orbit pe ambele părți (bilateral)
-• Orbits și sinusuri maxilare simetric pe fiecare side
-• MSP de cap aliniat cu axa longitudinală de câmp colimat
-n părți moi, bony detalii trabeculare osoase, și air-nivele hidroaerice, if present
+Criterii radiologice de calitate a imaginii:
+n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+n sinusurile sfenoidale proiectate prin gura deschisă (transorală)
+n sinusurile maxilare
+n linia orbitomeatală (LOM) în poziție corectă (extensie suficientă a gâtului), evidențiată prin:
+• stâncile temporale (piramidele pietroase) situate imediat inferior față de planșeul sinusurilor maxilare
+n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+• distanță egală între marginea laterală a craniului și marginea laterală a orbitei de ambele părți (bilateral)
+• orbitele și sinusurile maxilare simetrice pe fiecare parte
+• MSP al capului aliniat cu axa longitudinală a câmpului colimat
+n părțile moi, detaliile osoase trabeculare și nivelurile hidroaerice, dacă sunt prezente
 
 ### part_pos
 
-• Hyperextend pacientul’s neck la approximately correct poziție, și then poziție receptorul de imagine la acantion.
-• se sprijină pacientul’s chin pe stativ vertical Bucky, și adjust it so that MSP este perpendicular pe plane de receptorul de imagine.
-• Using protractor ca guide, se ajustează pacient’s cap astfel încât linie orbitomeatală (LOM) forms angle de 37 grade de la plane de receptorul de imagine. linie mentomeatală (LMM) would nu fie perpendicular (Fig. 11.178).
-• Se instruiește pacientul să slowly open mouth wide open while menținerea poziție.
-• Se imobilizează capul pacientului.
+• Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi poziționați receptorul de imagine la acantion.
+• Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
+• Folosind raportorul ca ghid, ajustați capul pacientului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine. Linia mentomeatală (LMM) nu va fi perpendiculară (Fig. 11.178).
+• Instruiți pacientul să deschidă lent gura larg, menținând poziția.
+• Imobilizați capul pacientului.
 
-### respiration
+### respirație
 
 apnee (oprirea respirației).
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-This method provides excellent demonstration de sinusuri sfenoidale projected through gură deschisă (transorală). pentru pacienți who cannot fie
-plasat în poziție pentru SMV incidență, open-mouth Waters method și lateral incidențe poate fie only techniques la show sinusuri sfenoidale. Because open-mouth poziție este uncomfortable pentru pacientul la hold, radiographer trebuie să have receptorul de imagine și equipment
-în poziție la perform examination quickly.
+poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
+30 cm), longitudinal.
+Această metodă oferă o demonstrație excelentă a sinusurilor sfenoidale proiectate prin gura deschisă (transorală). Pentru pacienții care nu pot fi plasați în poziție pentru incidența SMV, metoda Waters cu gura deschisă și incidențele de profil pot fi singurele tehnici pentru evidențierea sinusurilor sfenoidale. Deoarece poziția cu gura deschisă este inconfortabilă pentru pacient pentru menținere, radiograful trebuie să aibă receptorul de imagine și echipamentul în poziție pentru efectuarea rapidă a examinării.
 

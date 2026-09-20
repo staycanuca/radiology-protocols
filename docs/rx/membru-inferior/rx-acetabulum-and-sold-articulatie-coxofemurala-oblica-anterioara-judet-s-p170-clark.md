@@ -63,7 +63,7 @@ sid_dff: 100 cm
 slug: rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 170
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=170
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -194,4 +194,4 @@ Judet’s incidență de Șold evidențiind central suspiciune de fractură de c
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 170](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=170)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 170](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

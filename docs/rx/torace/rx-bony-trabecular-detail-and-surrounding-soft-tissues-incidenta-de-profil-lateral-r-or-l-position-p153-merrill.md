@@ -10,46 +10,46 @@ centering: orizontal through planul mediocoronal la nivelul laryngeal prominence
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 154, imaginea 1
+- caption: Merrill — pagina 154, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p154_fig1.png
-- caption: Merrill — pagina PDF 155, imaginea 2
+- caption: Merrill — pagina 155, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p155_fig2.png
-- caption: Merrill — pagina PDF 156, imaginea 3
+- caption: Merrill — pagina 156, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p156_fig3.png
-- caption: Merrill — pagina PDF 157, imaginea 4
+- caption: Merrill — pagina 157, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p157_fig4.png
-- caption: Merrill — pagina PDF 158, imaginea 5
+- caption: Merrill — pagina 158, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p158_fig5.png
-- caption: Merrill — pagina PDF 159, imaginea 6
+- caption: Merrill — pagina 159, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p159_fig6.png
-- caption: Merrill — pagina PDF 160, imaginea 7
+- caption: Merrill — pagina 160, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p160_fig7.png
-- caption: Merrill — pagina PDF 161, imaginea 8
+- caption: Merrill — pagina 161, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p161_fig8.png
-- caption: Merrill — pagina PDF 162, imaginea 9
+- caption: Merrill — pagina 162, imaginea 9
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p162_fig9.png
-- caption: Merrill — pagina PDF 163, imaginea 10
+- caption: Merrill — pagina 163, imaginea 10
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p163_fig10.png
-- caption: Merrill — pagina PDF 164, imaginea 11
+- caption: Merrill — pagina 164, imaginea 11
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p164_fig11.png
-- caption: Merrill — pagina PDF 165, imaginea 12
+- caption: Merrill — pagina 165, imaginea 12
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p165_fig12.png
-- caption: Merrill — pagina PDF 166, imaginea 13
+- caption: Merrill — pagina 166, imaginea 13
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig13.png
-- caption: Merrill — pagina PDF 166, imaginea 14
+- caption: Merrill — pagina 166, imaginea 14
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig14.png
 last_updated: '2026-09-16'
@@ -232,9 +232,9 @@ source_sections:
 
     30 cm) longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     153–166'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=153
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
@@ -335,113 +335,113 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 154, imaginea 1](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p154_fig1.png)
+![Merrill — pagina 154, imaginea 1](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p154_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 154, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 155, imaginea 2](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p155_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 155, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 154, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 156, imaginea 3](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p156_fig3.png)
+![Merrill — pagina 155, imaginea 2](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p155_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 156, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 157, imaginea 4](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p157_fig4.png)
-
-<figcaption><strong>Merrill — pagina PDF 157, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 155, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 158, imaginea 5](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p158_fig5.png)
+![Merrill — pagina 156, imaginea 3](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p156_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 158, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 159, imaginea 6](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p159_fig6.png)
-
-<figcaption><strong>Merrill — pagina PDF 159, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 156, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 160, imaginea 7](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p160_fig7.png)
+![Merrill — pagina 157, imaginea 4](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p157_fig4.png)
 
-<figcaption><strong>Merrill — pagina PDF 160, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 161, imaginea 8](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p161_fig8.png)
-
-<figcaption><strong>Merrill — pagina PDF 161, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 157, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 162, imaginea 9](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p162_fig9.png)
+![Merrill — pagina 158, imaginea 5](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p158_fig5.png)
 
-<figcaption><strong>Merrill — pagina PDF 162, imaginea 9</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 163, imaginea 10](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p163_fig10.png)
-
-<figcaption><strong>Merrill — pagina PDF 163, imaginea 10</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 158, imaginea 5</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 164, imaginea 11](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p164_fig11.png)
+![Merrill — pagina 159, imaginea 6](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p159_fig6.png)
 
-<figcaption><strong>Merrill — pagina PDF 164, imaginea 11</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 165, imaginea 12](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p165_fig12.png)
-
-<figcaption><strong>Merrill — pagina PDF 165, imaginea 12</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 159, imaginea 6</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 166, imaginea 13](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig13.png)
+![Merrill — pagina 160, imaginea 7](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p160_fig7.png)
 
-<figcaption><strong>Merrill — pagina PDF 166, imaginea 13</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 160, imaginea 7</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 166, imaginea 14](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig14.png)
+![Merrill — pagina 161, imaginea 8](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p161_fig8.png)
 
-<figcaption><strong>Merrill — pagina PDF 166, imaginea 14</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 161, imaginea 8</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 162, imaginea 9](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p162_fig9.png)
+
+<figcaption><strong>Merrill — pagina 162, imaginea 9</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 163, imaginea 10](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p163_fig10.png)
+
+<figcaption><strong>Merrill — pagina 163, imaginea 10</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 164, imaginea 11](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p164_fig11.png)
+
+<figcaption><strong>Merrill — pagina 164, imaginea 11</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 165, imaginea 12](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p165_fig12.png)
+
+<figcaption><strong>Merrill — pagina 165, imaginea 12</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 166, imaginea 13](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig13.png)
+
+<figcaption><strong>Merrill — pagina 166, imaginea 13</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 166, imaginea 14](../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig14.png)
+
+<figcaption><strong>Merrill — pagina 166, imaginea 14</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -458,7 +458,7 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 153–166](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=153)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 153–166](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

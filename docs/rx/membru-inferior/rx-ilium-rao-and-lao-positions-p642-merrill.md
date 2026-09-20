@@ -64,8 +64,8 @@ source_sections:
   patient_pos: • se așază pacientul în decubit ventral.
   respiration: apnee (oprirea respirației).
 sources:
-- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 642–643
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=642
+- title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 642–643
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
@@ -157,7 +157,7 @@ title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 8. Pelvis and Hip, pagini PDF 642–643](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=642)
+- [Merrill’s Atlas, 8. Pelvis and Hip, pagini 642–643](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

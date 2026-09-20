@@ -6,7 +6,7 @@ centering: perpendicular pe ulnar sulcus, entering la point just medial la olecr
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 348, imaginea 1
+- caption: Merrill — pagina 348, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-pa-axiala-p347-merrill/p348_fig1.png
 last_updated: '2026-09-16'
@@ -87,8 +87,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 347–348
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=347
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 347–348
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la include distal third de Humerus și extend
@@ -177,9 +177,9 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 348, imaginea 1](../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-pa-axiala-p347-merrill/p348_fig1.png)
+![Merrill — pagina 348, imaginea 1](../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-pa-axiala-p347-merrill/p348_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 348, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 348, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -196,7 +196,7 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 347–348](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=347)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 347–348](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

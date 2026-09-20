@@ -59,7 +59,7 @@ sid_dff: 100 cm
 slug: rx-upper-coaste-grilaj-costal-first-and-second-antero-posterior-p240-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 240
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=240
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
@@ -197,4 +197,4 @@ Collimated Antero-posterior (AP) radiografie de stâng first și second Coaste (
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 240](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=240)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 240](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

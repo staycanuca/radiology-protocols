@@ -126,7 +126,7 @@ sid_dff: 100 cm
 slug: rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 84
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=84
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
@@ -314,4 +314,4 @@ Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspi
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 84](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=84)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 84](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

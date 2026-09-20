@@ -15,6 +15,8 @@ import re
 import shutil
 import subprocess
 import sys
+from copy import deepcopy
+from functools import lru_cache
 from pathlib import Path
 
 # Codificare UTF-8
@@ -316,7 +318,8 @@ CLINICAL_PHRASES = [
     (r'Osteoarthritis', 'Artroză / modificări degenerative osteoarticulare'),
     (r'Fractures and dislocations', 'Fracturi și luxații / subluxații articulare'),
     (r'fractures and dislocation(?:s)?', 'fracturi și luxații / subluxații'),
-    (r'fracture(?:s)?', 'suspiciune de fractură'),
+    (r'fractures', 'fracturi'),
+    (r'fracture', 'fractură'),
     (r'dislocation(?:s)?', 'luxație articulară'),
     (r'soft-tissue swelling', 'edem / tumefiere de părți moi'),
     (r'neoplasm|tumour(?:s)?', 'proces proliferativ tumoral'),
@@ -333,8 +336,6 @@ CLINICAL_PHRASES = [
     (r'Strictă pe regiunea de interes', 'Colimare strictă pe regiunea anatomică de interes diagnostic'),
 
     # --- Note automate de sistem / Curățare ---
-    (r'Extragere automată; traducere terminologică parțială\. Necesită revizie\.\s*', ''),
-    (r'Nespecificat în fragmentul extras; de verificat în sursă', 'Conform reperelor anatomice standard din tratat'),
 ]
 
 
@@ -669,375 +670,94 @@ def clean_and_adapt_title(title: str, category: str = "") -> str:
 # 5. Motor de Traducere Paragraf / Câmp
 # ---------------------------------------------------------------------------
 
-def translate_field_text(text: str) -> str:
-    """Traduce un text descriptiv (poziționare, centrare, criterii, etc.) din engleză/mixtă în română medicală standard."""
-    if not text or not isinstance(text, str):
-        return text or ""
-
-    # Pasul 1: Remediere ligaturi OCR
-    res = text
-    for pat, rep in OCR_FIXES:
-        res = re.sub(pat, rep, res)
-
-    # Pasul 2: Substituție fraze clinice lungi
-    for pat, rep in CLINICAL_PHRASES:
-        res = re.sub(pat, rep, res, flags=re.IGNORECASE)
-
-    # Pasul 3: Substituție vocabular medical și anatomic atomic
-    for pat, rep in VOCABULARY_WORDS:
-        res = re.sub(pat, rep, res, flags=re.IGNORECASE)
-
-    # Pasul 4: Curățare construcții mixte frecvente și acțiuni
-    mixed_cleanups = [
-        (r'\bthe patient is placed in\b', 'pacientul este așezat în'),
-        (r'\bthe patient is positioned\b', 'pacientul este poziționat'),
-        (r'\bthe patient is seated\b', 'pacientul este așezat pe scaun'),
-        (r'\bthe patient is turned\b', 'pacientul este întors'),
-        (r'\bplace the patient in\b', 'se așază pacientul în'),
-        (r'\bplace the patient\b', 'se poziționează pacientul'),
-        (r'\bposition the patient\b', 'se poziționează pacientul'),
-        (r'\bhave the patient\b', 'se instruiește pacientul să'),
-        (r'\binstruct the patient to\b', 'se instruiește pacientul să'),
-        (r'\bask the patient to\b', 'se instruiește pacientul să'),
-        (r'\bthe patient lies\b', 'pacientul este culcat'),
-        (r'\bthe patient stands\b', 'pacientul stă în ortostatism'),
-        (r'\bthe patient sits\b', 'pacientul stă așezat'),
-        (r'\bcenter the\b', 'se centrează'),
-        (r'\bcentered to\b', 'centrat pe'),
-        (r'\bcentered at\b', 'centrat la nivelul'),
-        (r'\bperpendicular to the\b', 'perpendicular pe'),
-        (r'\bparallel with the\b', 'paralel cu'),
-        (r'\bparallel to the\b', 'paralel cu'),
-        (r'\btangential to the\b', 'tangențial pe'),
-        (r'\bat right angles to the\b', 'în unghi drept față de'),
-        (r'\bat an angle of\b', 'la un unghi de'),
-        (r'\boptimal image receptor exposure\b', 'expunere optimă a receptorului de imagine'),
-        (r'\bimage receptor exposure\b', 'expunere a receptorului de imagine'),
-        (r'\barea of interest\b', 'aria de interes diagnostic'),
-        (r'\bshield gonads\b', 'se efectuează ecranarea gonadelor cu șorț plumbat'),
-        (r'\bgonadal shielding\b', 'ecranare gonadică'),
-        (r'\bsoft-tissue\b', 'părți moi'),
-        (r'\bsoft tissue\b', 'părți moi'),
-        (r'\bboth sides\b', 'ambele părți (bilateral)'),
-        (r'\bequidistant to\b', 'echidistant față de'),
-        (r'\bequidistant from\b', 'echidistant față de'),
-        (r'\bdistal end of\b', 'extremitatea distală a'),
-        (r'\bproximal end of\b', 'extremitatea proximală a'),
-        (r'\bdemonstrates?\b', 'evidențiază'),
-        (r'\bdemonstrated clearly\b', 'clar evidențiat(e)'),
-        (r'\bclearly seen\b', 'clar vizibil(e)'),
-        (r'\bwithout motion\b', 'fără estompare cinetică (fără mișcare)'),
-        (r'\btrabecular detail\b', 'detalii trabeculare osoase'),
-        (r'\bsharp reproduction\b', 'reproducere netă a contururilor'),
-        (r'\bjoint spaces?\b', 'spații articulare'),
-        (r'\bfluid levels?\b', 'nivele hidroaerice'),
-        (r'\bfree air\b', 'aer liber'),
-        (r'\bfree gas\b', 'gaze libere'),
-        (r'\bupper abdomen\b', 'etajul abdominal superior'),
-        (r'\blower abdomen\b', 'etajul abdominal inferior'),
-        (r'\bacute abdomen\b', 'abdomen acut'),
-        (r'\bupper limb\b', 'membru superior'),
-        (r'\blower limb\b', 'membru inferior'),
-        (r'\bupper ribs\b', 'coaste superioare'),
-        (r'\blower ribs\b', 'coaste inferioare'),
-        (r'\btight collimation\b', 'colimare strictă'),
-        (r'\bclose collimation\b', 'colimare strânsă'),
-        (r'\bsandbags?\b', 'săculeți cu nisip'),
-        (r'\bimmobilization\b', 'imobilizare'),
-        (r'\bin contact with\b', 'în contact cu'),
-        (r'\bat the level of\b', 'la nivelul'),
-        (r'\babove the level of\b', 'deasupra nivelului'),
-        (r'\bbelow the level of\b', 'sub nivelul'),
-        (r'\bto include the\b', 'pentru a include'),
-        (r'\bto demonstrate the\b', 'pentru a evidenția'),
-        (r'\bso that the\b', 'astfel încât'),
-        (r'\bsuch that the\b', 'astfel încât'),
-        (r'\bwith the patient\b', 'cu pacientul'),
-        (r'\bfrom the patient\b', 'de la pacient'),
-        (r'\bnearest to the\b', 'cel mai apropiat de'),
-        (r'\bclosest to the\b', 'cel mai apropiat de'),
-        (r'\bfurthest from the\b', 'cel mai depărtat de'),
-        (r'\bon the table\b', 'pe masa de examinare'),
-        (r'\bon the cassette\b', 'pe casetă'),
-        (r'\bagainst the cassette\b', 'sprijinit pe casetă'),
-        (r'\bagainst the Bucky\b', 'sprijinit pe stativul Bucky'),
-        (r'\bagainst the\b', 'pe / sprijinit de'),
-        (r'\bbetween the\b', 'între'),
-        (r'\bmidline of table\b', 'linia mediană a mesei'),
-        (r'\bmidline of the table\b', 'linia mediană a mesei'),
-        (r'\bmidline of the\b', 'linia mediană a'),
-        (r'\bto the midline of\b', 'pe linia mediană a'),
-        (r'\balign the\b', 'se aliniază'),
-        (r'\balign midsagittal plane\b', 'se aliniază planul mediosagital'),
-        (r'\balign midcoronal plane\b', 'se aliniază planul mediocoronal'),
-        (r'\bthe affected side\b', 'partea afectată'),
-        (r'\bthe unaffected side\b', 'partea sănătoasă (neafectată)'),
-        (r'\bthe affected arm\b', 'brațul afectat'),
-        (r'\bthe affected leg\b', 'membrul inferior afectat'),
-        (r'\bflex the\b', 'se flectează'),
-        (r'\bextend the\b', 'se extinde'),
-        (r'\brotate the\b', 'se rotește'),
-        (r'\badjust the\b', 'se ajustează'),
-        (r'\bseat the patient\b', 'se așază pacientul pe scaun'),
-        (r'\bask the patient\b', 'se instruiește pacientul să'),
-        (r'\brest the patient\b', 'se sprijină pacientul'),
-        (r'\bimmobilize the\b', 'se imobilizează'),
-        (r'\bmake the exposure\b', 'se declanșează expunerea'),
-        (r'\bdurata expunerii during exposure\b', 'pe durata expunerii'),
-        (r'\bdurata expunerii and expose\b', 'pe durata expunerii și expunere'),
-        (r'\band expose on expiration\b', 'și expunere în expir'),
-        (r'\band expose on inspiration\b', 'și expunere în inspir'),
-    ]
-
-    for pat, rep in mixed_cleanups:
-        res = re.sub(pat, rep, res, flags=re.IGNORECASE)
-
-    # Pasul 5: Conectori, verbe și articole rămase izolate
-    word_replacements = [
-        (r'\bthe patient\b', 'pacientul'),
-        (r'\bthe cassette\b', 'caseta'),
-        (r'\bthe table\b', 'masa de examinare'),
-        (r'\bthe grid\b', 'grila'),
-        (r'\bthe tube\b', 'tubul'),
-        (r'\bthe central ray\b', 'raza centrală'),
-        (r'\bthe image receptor\b', 'receptorul de imagine'),
-        (r'\bthe receptor\b', 'receptorul'),
-        (r'\bthe midline\b', 'linia mediană'),
-        (r'\bthe knees\b', 'genunchii'),
-        (r'\bthe hips\b', 'șoldurile'),
-        (r'\bthe shoulders\b', 'umerii'),
-        (r'\bthe arms\b', 'brațele'),
-        (r'\bthe legs\b', 'picioarele'),
-        (r'\bthe feet\b', 'picioarele'),
-        (r'\bthe hands\b', 'mâinile'),
-        (r'\bthe fingers\b', 'degetele'),
-        (r'\bthe thumb\b', 'policele'),
-        (r'\bthe chin\b', 'bărbia'),
-        (r'\bthe nose\b', 'nasul'),
-        (r'\bthe head\b', 'capul'),
-        (r'\bthe neck\b', 'gâtul'),
-        (r'\bthe chest\b', 'toracele'),
-        (r'\bthe abdomen\b', 'abdomenul'),
-        (r'\bthe pelvis\b', 'bazinul'),
-        (r'\bthe spine\b', 'coloana'),
-        (r'\bthe skull\b', 'craniul'),
-        (r'\bthe face\b', 'fața'),
-        (r'\bthe diaphragm\b', 'diafragmul'),
-        (r'\bthe lungs\b', 'plămânii'),
-        (r'\bthe heart\b', 'cordul'),
-        (r'\bthe creste iliace\b', 'crestele iliace'),
-        (r'\bthe plan mediosagital\b', 'planul mediosagital'),
-        (r'\bthe plan mediocoronal\b', 'planul mediocoronal'),
-        (r'\bthe vertical raza\b', 'raza centrală verticală'),
-        (r'\bthe horizontal raza\b', 'raza centrală orizontală'),
-        (r'\bdirect the raza\b', 'se orientează raza centrală'),
-        (r'\bwith the raza\b', 'cu raza centrală'),
-        (r'\bdegrees?\b', 'grade'),
-        (r'\bdegree\b', 'grad'),
-        (r'\bperpendicular\b', 'perpendicular'),
-        (r'\bhorizontal\b', 'orizontal'),
-        (r'\bvertical\b', 'vertical'),
-        (r'\bparallel\b', 'paralel'),
-        (r'\boblique\b', 'oblic'),
-        (r'\btangential\b', 'tangențial'),
-        (r'\baxial\b', 'axial'),
-        (r'\bsupine\b', 'în decubit dorsal'),
-        (r'\bprone\b', 'în decubit ventral'),
-        (r'\bupright\b', 'în ortostatism'),
-        (r'\berect\b', 'în ortostatism'),
-        (r'\bseated\b', 'așezat pe scaun'),
-        (r'\bsitting\b', 'așezat'),
-        (r'\bstanding\b', 'în ortostatism'),
-        (r'\blying\b', 'culcat'),
-        (r'\bflexed\b', 'flectat'),
-        (r'\bextended\b', 'extins'),
-        (r'\brotated\b', 'rotit'),
-        (r'\babducted\b', 'în abducție'),
-        (r'\badducted\b', 'în adducție'),
-        (r'\bpronated\b', 'în pronație'),
-        (r'\bsupinated\b', 'în supinație'),
-        (r'\belevated\b', 'ridicat'),
-        (r'\bdepressed\b', 'coborât'),
-        (r'\bsupported\b', 'sprijinit'),
-        (r'\bimmobilized\b', 'imobilizat'),
-        (r'\brelaxed\b', 'relaxat'),
-        (r'\bcentered\b', 'centrat'),
-        (r'\bdirected\b', 'orientat'),
-        (r'\bangled\b', 'înclinat'),
-        (r'\bpositioned\b', 'poziționat'),
-        (r'\bplaced\b', 'plasat'),
-        (r'\badjusted\b', 'ajustat'),
-        (r'\baligned\b', 'aliniat'),
-        (r'\bshielded\b', 'ecranat'),
-        (r'\bdemonstrated?\b', 'evidențiat'),
-        (r'\bdemonstrating\b', 'evidențiind'),
-        (r'\bvisible\b', 'vizibil'),
-        (r'\bshown\b', 'vizualizat'),
-        (r'\bsharp\b', 'net'),
-        (r'\boptimal\b', 'optim'),
-        (r'\bproper\b', 'corect'),
-        (r'\badequate\b', 'adecvat'),
-        (r'\baccurate\b', 'precis'),
-        (r'\bsymmetric(?:al)?\b', 'simetric'),
-        (r'\basymmetric\b', 'asimetric'),
-        (r'\bbilateral\b', 'bilateral'),
-        (r'\bunilateral\b', 'unilateral'),
-        (r'\banterior\b', 'anterior'),
-        (r'\bposterior\b', 'posterior'),
-        (r'\bsuperior\b', 'superior'),
-        (r'\binferior\b', 'inferior'),
-        (r'\bmedial\b', 'medial'),
-        (r'\blateral\b', 'lateral'),
-        (r'\bproximal\b', 'proximal'),
-        (r'\bdistal\b', 'distal'),
-        (r'\bcranial\b|\bcephalad\b', 'cranial'),
-        (r'\bcaudal\b|\bcaudad\b', 'caudal'),
-        (r'\bpalmar\b', 'palmar'),
-        (r'\bplantar\b', 'plantar'),
-        (r'\bdorsal\b', 'dorsal'),
-        (r'\bventral\b', 'ventral'),
-        (r'\binternal\b', 'intern'),
-        (r'\bexternal\b', 'extern'),
-        (r'\bleft\b', 'stâng'),
-        (r'\bright\b', 'drept'),
-        (r'\bboth\b', 'ambele'),
-        (r'\beach\b', 'fiecare'),
-        (r'\ball\b', 'toate'),
-        (r'\bany\b', 'orice'),
-        (r'\bnone\b', 'niciunul'),
-        (r'\band\b', 'și'),
-        (r'\bor\b', 'sau'),
-        (r'\bwith\b', 'cu'),
-        (r'\bwithout\b', 'fără'),
-        (r'\bto\b', 'la'),
-        (r'\bfrom\b', 'de la'),
-        (r'\bin\b', 'în'),
-        (r'\bon\b', 'pe'),
-        (r'\bat\b', 'la'),
-        (r'\bby\b', 'prin'),
-        (r'\bfor\b', 'pentru'),
-        (r'\bof\b', 'de'),
-        (r'\bas\b', 'ca'),
-        (r'\bis\b', 'este'),
-        (r'\bare\b', 'sunt'),
-        (r'\bbe\b', 'fie'),
-        (r'\bshould\b', 'trebuie să'),
-        (r'\bmust\b', 'trebuie să'),
-        (r'\bcan\b', 'poate'),
-        (r'\bmay\b', 'poate'),
-        (r'\bnot\b', 'nu'),
-        (r'\bno\b', 'fără'),
-        (r'\bposition\b', 'poziție'),
-        (r'\bpositions\b', 'poziții'),
-        (r'\bpatient\b', 'pacient'),
-        (r'\bpatients\b', 'pacienți'),
-        (r'\bbody\b', 'corp'),
-        (r'\bbodies\b', 'corpuri'),
-        (r'\bprojection\b', 'incidență'),
-        (r'\bprojections\b', 'incidențe'),
-        (r'\bview\b', 'incidență'),
-        (r'\bviews\b', 'incidențe'),
-        (r'\bradiograph\b', 'radiografie'),
-        (r'\bradiographs\b', 'radiografii'),
-        (r'\bradiography\b', 'radiografie'),
-        (r'\bjoint\b', 'articulație'),
-        (r'\bjoints\b', 'articulații'),
-        (r'\bhead\b', 'cap'),
-        (r'\barm\b', 'braț'),
-        (r'\barms\b', 'brațe'),
-        (r'\bleg\b', 'membru inferior'),
-        (r'\blegs\b', 'membre inferioare'),
-        (r'\bhand\b', 'mână'),
-        (r'\bhands\b', 'mâini'),
-        (r'\bfoot\b', 'picior'),
-        (r'\bfeet\b', 'picioare'),
-        (r'\bknee\b', 'genunchi'),
-        (r'\bknees\b', 'genunchi'),
-        (r'\belbow\b', 'cot'),
-        (r'\belbows\b', 'coate'),
-        (r'\bshoulder\b', 'umăr'),
-        (r'\bshoulders\b', 'umeri'),
-        (r'\bbeam\b', 'fascicul'),
-        (r'\bborder\b', 'margine'),
-        (r'\bborders\b', 'margini'),
-        (r'\bmotion\b', 'mișcare'),
-        (r'\btoward\b|\btowards\b', 'spre'),
-        (r'\bbetween\b', 'între'),
-        (r'\bshowing\b', 'evidențiind'),
-        (r'\brotation\b', 'rotație'),
-        (r'\bimage\b', 'imagine'),
-        (r'\bimages\b', 'imagini'),
-        (r'\bfilm\b', 'film radiologic'),
-        (r'\bfilms\b', 'filme radiologice'),
-        (r'\bcassette\b', 'casetă'),
-        (r'\bcassettes\b', 'casete'),
-        (r'\bgrid\b', 'grilă'),
-        (r'\bgrids\b', 'grile'),
-        (r'\bsuspend\b', 'apnee (oprirea respirației)'),
-        (r'\bholding\b', 'menținerea'),
-        (r'\bbreath\b', 'respirației'),
-        (r'\bbreathing\b', 'respirație'),
-        (r'\brespiration\b', 'respirație'),
-        (r'\bexposure\b', 'expunere'),
-        (r'\bexposures\b', 'expuneri'),
-        (r'\bmarker\b', 'marker'),
-        (r'\bmarkers\b', 'markeri'),
-        (r'\bdensity\b', 'densitate optică'),
-        (r'\bfracture\b', 'fractură'),
-        (r'\bfractures\b', 'fracturi'),
-        (r'\bdislocation\b', 'luxație'),
-        (r'\bdislocations\b', 'luxații'),
-        (r'\bswelling\b', 'tumefiere'),
-        (r'\bfluid\b', 'lichid'),
-        (r'\bfree\b', 'liber'),
-        (r'\bwall\b', 'perete'),
-        (r'\bwalls\b', 'pereți'),
-        (r'\bdiaphragm\b', 'diafragm'),
-        (r'\bapices\b', 'apexuri (vârfuri pulmonare)'),
-        (r'\blungs\b', 'plămâni'),
-        (r'\bribs\b', 'coaste'),
-        (r'\bspine\b', 'coloană vertebrală'),
-        (r'\bpelvis\b', 'bazin (pelvis)'),
-        (r'\bdecubitus\b', 'decubit'),
-        (r'\bvertebrae\b', 'vertebre'),
-        (r'\bcrests\b', 'creste'),
-        (r'\bsymphysis\b', 'simfiză'),
-        # Eliminare articol hotărât englezesc 'the' / 'a' / 'an' rămas în fața cuvintelor românești
-        (r'\bthe\s+', ''),
-        (r'\bThe\s+', ''),
-        (r'\ba\s+(?=[a-zșțîâă])', ''),
-        (r'\ban\s+(?=[a-zșțîâă])', ''),
-    ]
-
-    for pat, rep in word_replacements:
-        res = re.sub(pat, rep, res, flags=re.IGNORECASE)
-
-    # Pasul 6: Curățare dubluri lexicale, prepoziționale și spațiere
-    res = re.sub(r'\bpoziție\s+poziție\b', 'poziție', res, flags=re.I)
-    res = re.sub(r'\bpacient\s+pacient\b', 'pacient', res, flags=re.I)
-    res = re.sub(r'\bcorp\s+corp\b', 'corp', res, flags=re.I)
-    res = re.sub(r'\bincidență\s+incidență\b', 'incidență', res, flags=re.I)
-    res = re.sub(r'\bcasetă\s+casetă\b', 'casetă', res, flags=re.I)
-    res = re.sub(r'\bgrilă\s+grilă\b', 'grilă', res, flags=re.I)
-    res = re.sub(r'\bradiografie\s+radiografie\b', 'radiografie', res, flags=re.I)
-    res = re.sub(r'\bapnee\s+apnee\b', 'apnee', res, flags=re.I)
-    res = re.sub(r'\bpe\s+pe\b', 'pe', res, flags=re.I)
-    res = re.sub(r'\bîn\s+în\b', 'în', res, flags=re.I)
-    res = re.sub(r'\bși\s+și\b', 'și', res, flags=re.I)
-    res = re.sub(r'\bla\s+la\b', 'la', res, flags=re.I)
-    res = re.sub(r'\bde\s+de\b', 'de', res, flags=re.I)
-    res = re.sub(r'\bcu\s+cu\b', 'cu', res, flags=re.I)
-    res = re.sub(r'\bse\s+se\b', 'se', res, flags=re.I)
-    res = re.sub(r'\beste\s+este\b', 'este', res, flags=re.I)
-    res = re.sub(r'\bsunt\s+sunt\b', 'sunt', res, flags=re.I)
-    res = re.sub(r'[ \t]+', ' ', res)
-    res = re.sub(r'\n{3,}', '\n\n', res)
-    return res.strip()
-
-
 # ---------------------------------------------------------------------------
 # 6. Detector de Fragmente în Engleză & Evaluator
 # ---------------------------------------------------------------------------
+
+def _translation_key(text: str) -> str:
+    return re.sub(r'\s+', ' ', text).strip().casefold()
+
+
+@lru_cache(maxsize=1)
+def _catalog_translations():
+    """Exact complete-field translations from the validated bulk run."""
+    path = Path(__file__).with_name('radiology_translations_catalog_ro.json')
+    if not path.exists():
+        return {}, set()
+    rows = json.loads(path.read_text(encoding='utf-8'))
+    return ({row['source']: row['translation'] for row in rows},
+            {row['translation'] for row in rows})
+
+
+@lru_cache(maxsize=1)
+def _reviewed_translations():
+    entries = json.loads(Path(__file__).with_name('radiology_translations_ro.json').read_text(encoding='utf-8'))
+    translations = {}
+    for entry in entries:
+        key = _translation_key(entry['source'])
+        if key in translations and translations[key] != entry['translation']:
+            raise ValueError(f'Traduceri contradictorii: {key}')
+        translations[key] = entry['translation']
+    return translations
+
+
+@lru_cache(maxsize=1)
+def _phrase_rules():
+    # Match complete units, never a prefix followed by word substitutions.
+    return [(re.compile(pattern, re.I), replacement)
+            for pattern, replacement in CLINICAL_PHRASES + VOCABULARY_WORDS]
+
+
+def _translate_unit(text: str) -> str:
+    reviewed = _reviewed_translations().get(_translation_key(text))
+    if reviewed is not None:
+        return reviewed
+    match = re.fullmatch(r'(\s*[•*-]?\s*)(.*?)([.!?]?\s*)', text, re.S)
+    prefix, core, suffix = match.groups()
+    reviewed = _reviewed_translations().get(_translation_key(core))
+    if reviewed is not None:
+        return prefix + reviewed + suffix
+    if not detect_english_fragments(core):
+        return text
+    for pattern, replacement in _phrase_rules():
+        candidate = pattern.fullmatch(core)
+        if candidate:
+            return prefix + candidate.expand(replacement) + suffix
+    return text
+
+
+def translate_field_text(text: str) -> str:
+    """Translate complete known phrases, preserving unknown prose for review.
+
+    Reviewed mixed-text repairs take priority. Never retranslate generated text
+    or create another irreversible word-by-word mixture.
+    """
+    if not isinstance(text, str) or not text:
+        return text or ''
+    catalog, translated = _catalog_translations()
+    if text in translated:
+        return text
+    if text in catalog:
+        return catalog[text]
+    normalized = text.replace('\ufb01', 'fi').replace('\ufb02', 'fl')
+    whole = _translate_unit(normalized)
+    if whole != normalized:
+        return whole
+    # Preserve line breaks, decimal numbers, URLs and Markdown links/code.
+    parts = re.split(r'(`[^`]*`|https?://\S+|!?\[[^\]]*\]\([^)]*\))', normalized)
+    for i in range(0, len(parts), 2):
+        lines = re.split(r'(\n+)', parts[i])
+        for j in range(0, len(lines), 2):
+            translated = _translate_unit(lines[j])
+            if translated == lines[j]:
+                sentences = re.split(r'(?<=[.!?])([ \t]+)(?=[A-ZĂÂÎȘȚ•])', lines[j])
+                for k in range(0, len(sentences), 2):
+                    sentences[k] = _translate_unit(sentences[k])
+                translated = ''.join(sentences)
+            lines[j] = translated
+        parts[i] = ''.join(lines)
+    return ''.join(parts)
+
 
 ENGLISH_DETECTION_WORDS = {
     'the', 'and', 'with', 'patient', 'position', 'exposure', 'image', 'demonstrate',
@@ -1054,11 +774,39 @@ ENGLISH_DETECTION_WORDS = {
 }
 
 
+# Shared Romanian terms are not evidence of untranslated English.
+ENGLISH_DETECTION_WORDS -= {'central', 'normal', 'contrast', 'marker', 'perpendicular', 'pelvis'}
+ENGLISH_DETECTION_WORDS.update('''
+most satisfactory obtained when upper lower same plane supracondylar supracondyalar
+pass through basic taken take suspected unable cannot will would could must
+which this that these those then than otherwise because however alternatively
+limb limbs elbow forearm joint joints epicondyle epicondyles
+tabletop palm lowered height entire using used use half short axis under its
+first second third shaft notch tuberosity ridge surface flexion extension
+fully partial subtle signs injury displacement undisplaced superimposed
+superimposition demonstrate demonstration provide necessary modified technique
+positioning projections views radiographs images oblique anteriorly
+posteriorly midway level degrees degree confidence gain adopt easier
+find make sure two each other keeping moving line joining instances tube
+angulation lead rubber mask off centre being eye viewed effusion useful disease
+inflammatory conditions elevation fat pads requires good important clue
+occult along tendons tunnel here cause compression giving rise examination
+requested often nowadays improved techniques advent gives better information
+alternative depending condition described bony right left below above within
+without into both all any not no only should can may if and the with from
+routine series method methods reverse jaw open closed tangential
+weight bearing standing sitting flexed extended
+'''.split())
+ENGLISH_DETECTION_WORDS -= {'important', 'alternative', 'calculi'}
+
+
 def detect_english_fragments(text: str) -> list[str]:
     """Identifică cuvintele/fragmentele englezești rămase într-un text."""
     if not text or not isinstance(text, str):
         return []
-    words = re.findall(r'\b[a-zA-Z]{3,}\b', text.lower())
+    text = re.sub(r'https?://\S+|`[^`]*`', '', text)
+    text = re.sub(r'\bspine\s+iliace\b', 'repere iliace', text, flags=re.I)
+    words = re.findall(r'\b[^\W\d_]+\b', text.lower())
     found = [w for w in words if w in ENGLISH_DETECTION_WORDS]
     return found
 
@@ -1067,11 +815,62 @@ def calculate_english_score(text: str) -> float:
     """Calculează un scor de prezență a limbii engleze (număr de cuvinte englezești / total cuvinte)."""
     if not text:
         return 0.0
-    words = re.findall(r'\b[a-zA-Z]{3,}\b', text.lower())
+    text = re.sub(r'https?://\S+|`[^`]*`', '', text)
+    text = re.sub(r'\bspine\s+iliace\b', 'repere iliace', text, flags=re.I)
+    words = re.findall(r'\b[^\W\d_]+\b', text.lower())
     if not words:
         return 0.0
     eng_count = sum(1 for w in words if w in ENGLISH_DETECTION_WORDS)
     return eng_count / len(words)
+
+
+TRANSLATABLE_FIELDS = (
+    'title', 'position', 'centering', 'breathing', 'notes', 'clinical_indications',
+    'quality_criteria', 'protection', 'tech_params', 'source_sections', 'sid_dff',
+    'standard_views', 'synonyms', 'patient_prep',
+)
+
+
+def iter_translation_fields(fm: dict):
+    """Yield field paths and prose, excluding identifiers and source citations."""
+    def walk(value, path):
+        if isinstance(value, str):
+            yield path, value
+        elif isinstance(value, dict):
+            for key, item in value.items():
+                yield from walk(item, f'{path}.{key}')
+        elif isinstance(value, list):
+            for i, item in enumerate(value):
+                yield from walk(item, f'{path}[{i}]')
+    for field in TRANSLATABLE_FIELDS:
+        yield from walk(fm.get(field), field)
+    for i, img in enumerate(fm.get('images') or []):
+        if isinstance(img, dict):
+            for key in ('caption', 'description'):
+                yield from walk(img.get(key), f'images[{i}].{key}')
+
+
+def translation_review(fm: dict) -> list[dict]:
+    """Heuristic review queue, not a certificate of translation completeness."""
+    findings = []
+    for path, text in iter_translation_fields(fm):
+        words = sorted(set(detect_english_fragments(text)))
+        if words:
+            findings.append({'field': path, 'words': words, 'text': text})
+    return findings
+
+
+def _translate_prose_tree(value):
+    if isinstance(value, str):
+        return translate_field_text(value)
+    if isinstance(value, list):
+        return [_translate_prose_tree(item) for item in value]
+    if isinstance(value, dict):
+        protected = {'id', 'slug', 'url', 'src', 'image', 'image_url', 'path', 'file',
+                     'source', 'sources', 'reference', 'references', 'code', 'iris_ref'}
+        return {key: item if key in protected else _translate_prose_tree(item)
+                for key, item in value.items()}
+    return value
 
 
 # ---------------------------------------------------------------------------
@@ -1081,12 +880,16 @@ def calculate_english_score(text: str) -> float:
 def translate_protocol_frontmatter(fm: dict, use_ai: bool = False) -> tuple[dict, bool]:
     """Traduce și adaptează un protocol complet (frontmatter).
     Returnează (fm_actualizat, a_fost_modificat)."""
-    updated = dict(fm)
+    updated = deepcopy(fm)
     modified = False
 
     # 1. Titlu
     old_title = updated.get('title', '')
-    new_title = clean_and_adapt_title(old_title, category=updated.get('category', ''))
+    catalog, translated = _catalog_translations()
+    new_title = (old_title if old_title in translated else catalog.get(old_title))
+    if new_title is None:
+        new_title = (clean_and_adapt_title(old_title, category=updated.get('category', ''))
+                     if detect_english_fragments(old_title) else old_title)
     if new_title != old_title:
         updated['title'] = new_title
         modified = True
@@ -1160,6 +963,14 @@ def translate_protocol_frontmatter(fm: dict, use_ai: bool = False) -> tuple[dict
                 if trans_sec != v:
                     src_sec[k] = trans_sec
                     modified = True
+
+    # Include the less common visible fields used by the complete catalog.
+    for key in ('sid_dff', 'standard_views', 'synonyms', 'patient_prep', 'protection', 'tech_params'):
+        if key in updated:
+            translated_value = _translate_prose_tree(updated[key])
+            if translated_value != updated[key]:
+                updated[key] = translated_value
+                modified = True
 
     # 8. Opțional: Rafinare AI cu agy dacă este cerut
     if use_ai and shutil.which('agy'):

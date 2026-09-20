@@ -1,46 +1,52 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. fără AEC Mandibulă ROUTINE Axiolateral sau axiolateral
-  oblic PA (sau PA axial) AP axial (Incidență AP Axială (Metoda Towne))
+breathing: 'Apnee pe durata expunerii. Fără AEC. Mandibulă. DE RUTINĂ: axiolaterală
+  sau axiolaterală oblică PA (sau PA axială); AP axială (incidență AP axială (metoda
+  Towne)).'
 category: craniu-saf
-centering: angle. Fig. 11.157 orizontal fascicul traumatism acuttism / Regim Urgență
-  incidență—25° cranial raza centrală angle; stâng lateral.
+centering: 'Unghi. Fig. 11.157: fascicul orizontal, traumatism acut / regim de urgență,
+  incidență — raza centrală angulată cranial cu 25°; lateral stâng.'
 clinical_indications:
-- suspiciune de fractură și neoplastic sau inflammatory processes de Mandibulă ambele
-  părți (bilateral) de Mandibulă sunt examined pentru comparison.
+- Suspiciune de fractură și procese neoplazice sau inflamatorii ale mandibulei; ambele
+  părți ale mandibulei sunt examinate pentru comparație.
 images:
-- caption: Fig. 11.155 Semisupine—15° wedge sponge și 10° cranial raza centrală
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.155 Semisupine—15°
-    wedge sponge și 10° cranial raza centrală)
+- caption: Fig. 11.155 Semisupină — pernă în pană de 15° și raza centrală angulată
+    cranial cu 10°
+  description: Poziționarea pacientului conform Ghidului Bontrager (fig. 11.155 Semisupină
+    — pernă în pană de 15° și raza centrală angulată cranial cu 10°)
   url: assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_1.jpeg
-- caption: Fig. 11.156 Ortostatism 10°–15° cap rotație spre receptorul de imagine
-    și 10° cranial
-  description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.156
-    în ortostatism 10°–15° cap rotație spre receptorul de imagine și 10° cranial)
+- caption: 'Fig. 11.156 Ortostatism: rotația capului cu 10°–15° spre receptorul de
+    imagine și raza centrală angulată cranial cu 10°'
+  description: 'Aspect radiografic de referință conform Ghidului Bontrager (fig. 11.156
+    în ortostatism: rotația capului cu 10°–15° spre receptorul de imagine și raza
+    centrală angulată cranial cu 10°)'
   url: assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_2.jpeg
-- caption: Fig. 11.157 orizontal fascicul traumatism acuttism / Regim Urgență incidență—25°
-    cranial raza centrală
-  description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.157
-    orizontal fascicul trauma incidență—25° cranial raza centrală)
+- caption: Fig. 11.157 Fascicul orizontal, traumatism acut / regim de urgență, incidență
+    — raza centrală angulată cranial cu 25°
+  description: Aspect radiografic de referință conform Ghidului Bontrager (fig. 11.157
+    fascicul orizontal, incidență pentru traumatism — raza centrală angulată cranial
+    cu 25°)
   url: assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. pacient poziție este Ortostatism sau Decubit. If performed Decubit,
-  place receptorul de imagine pe wedge sponge la minimize OID (Fig. 11.155). pentru
-  Ortostatism poziție, place region de interest against perete bucky și paralel cu
-  receptorul de imagine (Fig. 11.156). pentru orizontal fascicul traumatism acuttism
-  / Regim Urgență poziție, place receptorul de imagine (și grilă if used) paralel
-  la Mandibulă (Fig. 11.157).; Regiune anatomică: Place cap în true Incidență de Profil
-  (lateral), cu side de interest against receptorul de imagine. If possible, have
-  pacient close mouth și bring teeth together. Extend neck slightly la prevent superimposition
-  de gonion (unghiul mandibulei) over Coloană Cervicală. Rotate cap spre receptorul
-  de imagine (pentru axiolateral oblic) la place mandibular aria de interes diagnostic
-  paralel cu receptorul de imagine. grade de rotație/obliquity depends pe which section
-  de Mandibulă este de interest. cap în true Incidență de Profil (lateral) best evidențiază
-  ramus. 10° la 15° rotație best provides general survey de Mandibulă. 30° rotație
-  spre receptorul de imagine best evidențiază corp. 45° rotație best evidențiază mentum.'
+  capului și gâtului. Poziția pacientului este în ortostatism sau decubit. Dacă se
+  efectuează în decubit, se plasează receptorul de imagine pe o pernă în pană pentru
+  a minimiza OID (fig. 11.155). Pentru poziția în ortostatism, se plasează regiunea
+  de interes sprijinită de stativul Bucky și paralelă cu receptorul de imagine (fig.
+  11.156). Pentru poziția cu fascicul orizontal, în traumatism acut / regim de urgență,
+  se plasează receptorul de imagine (și grila, dacă este utilizată) paralel cu mandibula
+  (fig. 11.157). Regiune anatomică: Se plasează capul în adevărată incidență de profil
+  (lateral), cu partea de interes sprijinită de receptorul de imagine. Dacă este posibil,
+  pacientul închide gura și apropie dinții. Se extinde ușor gâtul pentru a preveni
+  suprapunerea gonionului (unghiul mandibulei) peste coloana cervicală. Se rotește
+  capul spre receptorul de imagine (pentru axiolaterală oblică) pentru a plasa aria
+  de interes mandibulară paralelă cu receptorul de imagine. Gradul de rotație/oblicitate
+  depinde de segmentul mandibulei de interes. Capul în adevărată incidență de profil
+  (lateral) evidențiază cel mai bine ramusul. Rotația de 10° la 15° oferă cea mai
+  bună examinare generală a mandibulei. Rotația de 30° spre receptorul de imagine
+  evidențiază cel mai bine corpul. Rotația de 45° evidențiază cel mai bine mentumul.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,17 +54,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Ramus, condyloid, și coronoid processes, corp, și mentum de Mandibulă nearest receptorul
-  de imagine sunt evidențiat (Figs. 11.158 și 11.159). poziție:'
-- appearance de imagine/poziție de pacientul depends pe structures under examination.
-- pentru ramus și corp, ramus de interest este evidențiat cu fără superimposition
-  de la opposite Mandibulă (indicating correct raza centrală angulation).
-- fără superimposition de Coloană Cervicală prin ramus trebuie să occur (indicating
-  sufficient extension de neck).
-- ramus și corp trebuie să fie evidențiat fără foreshortening (indicating correct
-  rotație de cap).
-- aria de interes diagnostic este evidențiat cu minimal superimposition și minimal
-  foreshortening.
+- 'Ramusul, procesele condilian și coronoid, corpul și mentumul mandibulei aflate
+  cel mai aproape de receptorul de imagine sunt evidențiate (fig. 11.158 și 11.159).
+  Poziție:'
+- Aspectul imaginii/poziția pacientului depinde de structurile examinate.
+- Pentru ramus și corp, ramusul de interes este evidențiat fără suprapunerea mandibulei
+  opuse (indicând angularea corectă a razei centrale).
+- Nu trebuie să existe suprapunerea coloanei cervicale peste ramus (indicând extensia
+  suficientă a gâtului).
+- Ramusul și corpul trebuie să fie evidențiate fără scurtare (indicând rotația corectă
+  a capului).
+- Aria de interes diagnostic este evidențiată cu suprapunere minimă și scurtare minimă.
 sid_dff: 100 cm
 slug: rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager
 sources:
@@ -66,19 +72,20 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'la aria de interes diagnostic. expunere: optim receptorul de imagine
-    expunere și contrast sunt sufficient la visualize mandibular aria de interes diagnostic.
-    net bony margins indicate fără mișcare. Fig. 11.155 Semisupine—15° wedge sponge
-    și 10° cranial raza centrală angle. Fig. 11.156 Ortostatism 10°–15° cap rotație
-    spre receptorul de imagine și 10° cranial'
+  collimation: 'La aria de interes diagnostic. Expunere: expunerea și contrastul receptorului
+    de imagine sunt optime și suficiente pentru vizualizarea ariei de interes mandibulare.
+    Marginile osoase clare indică absența mișcării. Fig. 11.155 Semisupină — pernă
+    în pană de 15° și raza centrală angulată cranial cu 10°. Fig. 11.156 Ortostatism:
+    rotația capului cu 10°–15° spre receptorul de imagine și raza centrală angulată
+    cranial cu 10°.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
+title: Rx Mandibulă — Incidență axiolaterală și axiolaterală oblică
 ---
-# Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
+# Rx Mandibulă — Incidență axiolaterală și axiolaterală oblică
 
 
 <div class="rx-meta-bar">
@@ -97,7 +104,7 @@ title: Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și neoplastic sau inflammatory processes de Mandibulă ambele părți (bilateral) de Mandibulă sunt examined pentru comparison.
+        - Suspiciune de fractură și procese neoplazice sau inflamatorii ale mandibulei; ambele părți ale mandibulei sunt examinate pentru comparație.
 
     === "Ghid Național IRIS"
 
@@ -111,10 +118,10 @@ title: Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. pacient poziție este Ortostatism sau Decubit. If performed Decubit, place receptorul de imagine pe wedge sponge la minimize OID (Fig. 11.155). pentru Ortostatism poziție, place region de interest against perete bucky și paralel cu receptorul de imagine (Fig. 11.156). pentru orizontal fascicul traumatism acuttism / Regim Urgență poziție, place receptorul de imagine (și grilă if used) paralel la Mandibulă (Fig. 11.157).; Regiune anatomică: Place cap în true Incidență de Profil (lateral), cu side de interest against receptorul de imagine. If possible, have pacient close mouth și bring teeth together. Extend neck slightly la prevent superimposition de gonion (unghiul mandibulei) over Coloană Cervicală. Rotate cap spre receptorul de imagine (pentru axiolateral oblic) la place mandibular aria de interes diagnostic paralel cu receptorul de imagine. grade de rotație/obliquity depends pe which section de Mandibulă este de interest. cap în true Incidență de Profil (lateral) best evidențiază ramus. 10° la 15° rotație best provides general survey de Mandibulă. 30° rotație spre receptorul de imagine best evidențiază corp. 45° rotație best evidențiază mentum.
-    - **Punct de Centrare Fascicul:** angle. Fig. 11.157 orizontal fascicul traumatism acuttism / Regim Urgență incidență—25° cranial raza centrală angle; stâng lateral.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului este în ortostatism sau decubit. Dacă se efectuează în decubit, se plasează receptorul de imagine pe o pernă în pană pentru a minimiza OID (fig. 11.155). Pentru poziția în ortostatism, se plasează regiunea de interes sprijinită de stativul Bucky și paralelă cu receptorul de imagine (fig. 11.156). Pentru poziția cu fascicul orizontal, în traumatism acut / regim de urgență, se plasează receptorul de imagine (și grila, dacă este utilizată) paralel cu mandibula (fig. 11.157). Regiune anatomică: Se plasează capul în adevărată incidență de profil (lateral), cu partea de interes sprijinită de receptorul de imagine. Dacă este posibil, pacientul închide gura și apropie dinții. Se extinde ușor gâtul pentru a preveni suprapunerea gonionului (unghiul mandibulei) peste coloana cervicală. Se rotește capul spre receptorul de imagine (pentru axiolaterală oblică) pentru a plasa aria de interes mandibulară paralelă cu receptorul de imagine. Gradul de rotație/oblicitate depinde de segmentul mandibulei de interes. Capul în adevărată incidență de profil (lateral) evidențiază cel mai bine ramusul. Rotația de 10° la 15° oferă cea mai bună examinare generală a mandibulei. Rotația de 30° spre receptorul de imagine evidențiază cel mai bine corpul. Rotația de 45° evidențiază cel mai bine mentumul.
+    - **Punct de Centrare Fascicul:** Unghi. Fig. 11.157: fascicul orizontal, traumatism acut / regim de urgență, incidență — raza centrală angulată cranial cu 25°; lateral stâng.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Mandibulă ROUTINE Axiolateral sau axiolateral oblic PA (sau PA axial) AP axial (Incidență AP Axială (Metoda Towne))
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. Fără AEC. Mandibulă. DE RUTINĂ: axiolaterală sau axiolaterală oblică PA (sau PA axială); AP axială (incidență AP axială (metoda Towne)).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -128,19 +135,19 @@ title: Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | la aria de interes diagnostic. expunere: optim receptorul de imagine expunere și contrast sunt sufficient la visualize mandibular aria de interes diagnostic. net bony margins indicate fără mișcare. Fig. 11.155 Semisupine—15° wedge sponge și 10° cranial raza centrală angle. Fig. 11.156 Ortostatism 10°–15° cap rotație spre receptorul de imagine și 10° cranial |
+    | **Colimare Fascicul** | La aria de interes diagnostic. Expunere: expunerea și contrastul receptorului de imagine sunt optime și suficiente pentru vizualizarea ariei de interes mandibulare. Marginile osoase clare indică absența mișcării. Fig. 11.155 Semisupină — pernă în pană de 15° și raza centrală angulată cranial cu 10°. Fig. 11.156 Ortostatism: rotația capului cu 10°–15° spre receptorul de imagine și raza centrală angulată cranial cu 10°. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Ramus, condyloid, și coronoid processes, corp, și mentum de Mandibulă nearest receptorul de imagine sunt evidențiat (Figs. 11.158 și 11.159). poziție:
-    - appearance de imagine/poziție de pacientul depends pe structures under examination.
-    - pentru ramus și corp, ramus de interest este evidențiat cu fără superimposition de la opposite Mandibulă (indicating correct raza centrală angulation).
-    - fără superimposition de Coloană Cervicală prin ramus trebuie să occur (indicating sufficient extension de neck).
-    - ramus și corp trebuie să fie evidențiat fără foreshortening (indicating correct rotație de cap).
-    - aria de interes diagnostic este evidențiat cu minimal superimposition și minimal foreshortening.
+    - Ramusul, procesele condilian și coronoid, corpul și mentumul mandibulei aflate cel mai aproape de receptorul de imagine sunt evidențiate (fig. 11.158 și 11.159). Poziție:
+    - Aspectul imaginii/poziția pacientului depinde de structurile examinate.
+    - Pentru ramus și corp, ramusul de interes este evidențiat fără suprapunerea mandibulei opuse (indicând angularea corectă a razei centrale).
+    - Nu trebuie să existe suprapunerea coloanei cervicale peste ramus (indicând extensia suficientă a gâtului).
+    - Ramusul și corpul trebuie să fie evidențiate fără scurtare (indicând rotația corectă a capului).
+    - Aria de interes diagnostic este evidențiată cu suprapunere minimă și scurtare minimă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,25 +167,25 @@ title: Rx Mandibulă AXIOLATERAL OR AXIOLATERAL Oblică
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.155 Semisupine—15° wedge sponge și 10° cranial raza centrală](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_1.jpeg)
+![Fig. 11.155 Semisupină — pernă în pană de 15° și raza centrală angulată cranial cu 10°](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.155 Semisupine—15° wedge sponge și 10° cranial raza centrală</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.155 Semisupine—15° wedge sponge și 10° cranial raza centrală)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.156 Ortostatism 10°–15° cap rotație spre receptorul de imagine și 10° cranial](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.156 Ortostatism 10°–15° cap rotație spre receptorul de imagine și 10° cranial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.156 în ortostatism 10°–15° cap rotație spre receptorul de imagine și 10° cranial)</span></figcaption>
+<figcaption><strong>Fig. 11.155 Semisupină — pernă în pană de 15° și raza centrală angulată cranial cu 10°</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (fig. 11.155 Semisupină — pernă în pană de 15° și raza centrală angulată cranial cu 10°)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.157 orizontal fascicul traumatism acuttism / Regim Urgență incidență—25° cranial raza centrală](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_3.jpeg)
+![Fig. 11.156 Ortostatism: rotația capului cu 10°–15° spre receptorul de imagine și raza centrală angulată cranial cu 10°](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.157 orizontal fascicul traumatism acuttism / Regim Urgență incidență—25° cranial raza centrală</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.157 orizontal fascicul trauma incidență—25° cranial raza centrală)</span></figcaption>
+<figcaption><strong>Fig. 11.156 Ortostatism: rotația capului cu 10°–15° spre receptorul de imagine și raza centrală angulată cranial cu 10°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (fig. 11.156 în ortostatism: rotația capului cu 10°–15° spre receptorul de imagine și raza centrală angulată cranial cu 10°)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.157 Fascicul orizontal, traumatism acut / regim de urgență, incidență — raza centrală angulată cranial cu 25°](../../assets/images/protocols/bontrager/rx-mandibula-axiolateral-or-axiolateral-oblica-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.157 Fascicul orizontal, traumatism acut / regim de urgență, incidență — raza centrală angulată cranial cu 25°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (fig. 11.157 fascicul orizontal, incidență pentru traumatism — raza centrală angulată cranial cu 25°)</span></figcaption>
 
 </figure>
 

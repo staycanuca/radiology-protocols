@@ -10,13 +10,13 @@ centering: 'orientat la point ½ inch (1.3 cm) inferior la patellar apex. Variab
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 542, imaginea 1
+- caption: Merrill — pagina 542, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p542_fig1.png
-- caption: Merrill — pagina PDF 543, imaginea 2
+- caption: Merrill — pagina 543, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p543_fig2.png
-- caption: Merrill — pagina PDF 544, imaginea 3
+- caption: Merrill — pagina 544, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p544_fig3.png
 last_updated: '2026-09-16'
@@ -114,8 +114,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 7. Lower Extremity, pagini PDF 541–544
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=541
+- title: Merrill’s Atlas, 7. Lower Extremity, pagini 541–544
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
@@ -208,25 +208,25 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 542, imaginea 1](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p542_fig1.png)
+![Merrill — pagina 542, imaginea 1](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p542_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 542, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 543, imaginea 2](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p543_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 543, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 542, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 544, imaginea 3](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p544_fig3.png)
+![Merrill — pagina 543, imaginea 2](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p543_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 544, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 543, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 544, imaginea 3](../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p544_fig3.png)
+
+<figcaption><strong>Merrill — pagina 544, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -243,7 +243,7 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 7. Lower Extremity, pagini PDF 541–544](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=541)
+- [Merrill’s Atlas, 7. Lower Extremity, pagini 541–544](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

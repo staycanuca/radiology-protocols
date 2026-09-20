@@ -6,23 +6,23 @@ centering: La 1-1.5 cm sub nazion (rădăcina nasului)
 clinical_indications:
 - Traumatism facial direct cu epistaxis, deformare nazală și suspiciune de fractură
   de oase proprii nazale
-- Evaluare medico-legală fracturilor nazale recente
+- Evaluare medico-legală a fracturilor nazale recente
 iris_reference:
   chapter: Traumatisme — Față și orbite
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
   recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: Se efectuează întotdeauna ambele profile (drept și stâng) pentru comparație
-  anatomică și certitudine diagnostică.
+notes: Se efectuează întotdeauna ambele incidențe de profil (dreaptă și stângă) pentru
+  comparație anatomică și certitudine diagnostică.
 position: 'Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața
-  laterală nasului paralelă cu detectorul fără rotație'
+  laterală a nasului paralelă cu detectorul, fără rotație'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare ultra-restrânsă
 quality_criteria:
-- Vizualizarea fină corticalei anterioare și suturii nazo-frontale
+- Vizualizarea fină a corticalei anterioare și a suturii nazo-frontale
 - Spina nazală anterioară și cartilajele septale vizibile
 - Absența suprapunerii cu arcadele dentare superioare
 sid_dff: 100 cm
@@ -79,7 +79,7 @@ title: Rx Oase Proprii Nazale (OPN)
     === "Indicații Clinice"
 
         - Traumatism facial direct cu epistaxis, deformare nazală și suspiciune de fractură de oase proprii nazale
-        - Evaluare medico-legală fracturilor nazale recente
+        - Evaluare medico-legală a fracturilor nazale recente
 
     === "Ghid Național IRIS"
 
@@ -93,7 +93,7 @@ title: Rx Oase Proprii Nazale (OPN)
 
     ---
 
-    - **Poziție Pacient:** Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața laterală nasului paralelă cu detectorul fără rotație
+    - **Poziție Pacient:** Profil bilateral (dreapta și stânga): decubit ventral sau șezând, fața laterală a nasului paralelă cu detectorul, fără rotație
     - **Punct de Centrare Fascicul:** La 1-1.5 cm sub nazion (rădăcina nasului)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -117,7 +117,7 @@ title: Rx Oase Proprii Nazale (OPN)
 
     ---
 
-    - Vizualizarea fină corticalei anterioare și suturii nazo-frontale
+    - Vizualizarea fină a corticalei anterioare și a suturii nazo-frontale
     - Spina nazală anterioară și cartilajele septale vizibile
     - Absența suprapunerii cu arcadele dentare superioare
 
@@ -125,13 +125,13 @@ title: Rx Oase Proprii Nazale (OPN)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare ultra-restrânsă
 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    Se efectuează întotdeauna ambele profile (drept și stâng) pentru comparație anatomică și certitudine diagnostică.
+    Se efectuează întotdeauna ambele incidențe de profil (dreaptă și stângă) pentru comparație anatomică și certitudine diagnostică.
 
 === "Ghid Rapid de Execuție"
 

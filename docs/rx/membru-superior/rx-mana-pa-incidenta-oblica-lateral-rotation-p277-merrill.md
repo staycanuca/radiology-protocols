@@ -6,16 +6,16 @@ centering: perpendicular pe third articulații metacarpofalangiene (MCF)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 277, imaginea 1
+- caption: Merrill — pagina 277, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p277_fig1.png
-- caption: Merrill — pagina PDF 278, imaginea 2
+- caption: Merrill — pagina 278, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig2.png
-- caption: Merrill — pagina PDF 278, imaginea 3
+- caption: Merrill — pagina 278, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig3.png
-- caption: Merrill — pagina PDF 279, imaginea 4
+- caption: Merrill — pagina 279, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p279_fig4.png
 last_updated: '2026-09-16'
@@ -149,8 +149,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 277–279
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=277
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 277–279
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Mână,
@@ -244,33 +244,33 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 277, imaginea 1](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p277_fig1.png)
+![Merrill — pagina 277, imaginea 1](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p277_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 277, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 278, imaginea 2](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 278, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 277, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 278, imaginea 3](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig3.png)
+![Merrill — pagina 278, imaginea 2](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 278, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 278, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 279, imaginea 4](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p279_fig4.png)
+![Merrill — pagina 278, imaginea 3](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p278_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 279, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 278, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 279, imaginea 4](../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p279_fig4.png)
+
+<figcaption><strong>Merrill — pagina 279, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -287,7 +287,7 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 277–279](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=277)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 277–279](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

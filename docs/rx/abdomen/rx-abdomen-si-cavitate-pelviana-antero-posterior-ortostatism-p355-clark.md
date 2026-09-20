@@ -1,36 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made ca soon ca table movement este stopped
+breathing: Expunerea se efectuează imediat ce mișcarea mesei s-a oprit
 category: abdomen
-centering: '• orizontal ray este orientat so that it este coincident cu centre de
-  caseta în linia mediană.
+centering: '• Raza orizontală este orientată astfel încât să coincidă cu centrul casetei
+  pe linia mediană.
 
-  • expunere este taken pe normal expir profund complet.
+  • Expunerea se efectuează la un expir normal, profund și complet.
 
 
-  • Final adjustment este made la poziție de X-ray tube astfel încât orizontal raza
-  centrală will fie orientat la anterior aspect de pacientul la centre de caseta la
-  correct focus-la-film radiologic distance (FFD).
+  • Se efectuează ajustarea finală a poziției tubului de raze X astfel încât raza
+  centrală orizontală să fie orientată spre fața anterioară a pacientului, la centrul
+  casetei, la distanța focar-film radiologic (FFD) corectă.
 
-  • Expunerea se efectuează în apnee la sfârșitul expirului complet, after which pacientul
-  este returned la Decubit dorsal poziție.'
+  • Expunerea se efectuează în apnee la sfârșitul expirului complet, după care pacientul
+  este readus în decubit dorsal.'
 clinical_indications:
-- nivele hidroaerice pe Ortostatism film radiologic do nu necessarily indicate obstruction,
-  ca variety de other conditions poate produce nivele hidroaerice, e.g. severe gastroenteritis,
-  jejunal diverticulosis.
-- 'Suspected ocluzie intestinală (nivele hidroaerice) este usual indication pentru
-  this request, but it poate also fie useful pentru confirming presence de gas-containing
-  abscess. Ortostatism Antero-posterior (AP) Ortostatism radiografie de abdomenul
-  în Poziție Șezândă poziție evidențiind postoperative Ocluzie intestinală pe intestinul
-  subțire (nivele hidroaerice centrale) (note lower abdominal clips pe transverse
-  incision). NB: If picioarele sunt nu în abducție details de Bazin (bazin (pelvis))
-  sunt obscured, ca în this example'
+- Nivelele hidroaerice de pe filmul radiologic în ortostatism nu indică neapărat o
+  ocluzie, deoarece diverse alte afecțiuni pot produce nivele hidroaerice, de exemplu
+  gastroenterita severă, diverticuloza jejunală.
+- 'Suspiciunea de ocluzie intestinală (nivele hidroaerice) este indicația obișnuită
+  pentru această solicitare, dar examinarea poate fi utilă și pentru confirmarea prezenței
+  unui abces care conține gaz. Ortostatism. Radiografie anteroposterioară (AP) a abdomenului
+  în ortostatism, în poziție șezândă, care evidențiază ocluzie intestinală postoperatorie
+  la nivelul intestinului subțire (nivele hidroaerice centrale) (observați clipurile
+  din abdomenul inferior de-a lungul inciziei transversale). NB: Dacă picioarele nu
+  sunt în abducție, detaliile bazinului (pelvisului) sunt mascate, ca în acest exemplu'
 images:
-- caption: • expunere este taken pe normal expir profund complet.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Expunerea se efectuează la un expir normal, profund și complet.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) Ortostatism radiografie de abdomenul evidențiind
-    dilated bowel
+- caption: Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază
+    anse intestinale dilatate
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_2.jpeg
@@ -38,8 +39,8 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_3.jpeg
-- caption: Antero-posterior (AP) Ortostatism radiografie de abdomenul în Poziție Șezândă
-    poziție evidențiind
+- caption: Radiografie anteroposterioară (AP) a abdomenului în ortostatism, în poziție
+    șezândă, care evidențiază
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_4.jpeg
@@ -49,45 +50,68 @@ images:
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_5.jpeg
 last_updated: '2026-09-16'
 modality: rx
-notes: '• parametri de expunere sunt set using high mA și short expunere time și increase
-  de 7–10 kVp over that required cu pacientul Decubit dorsal.
+notes: '• Parametrii de expunere sunt setați folosind mA mari și un timp scurt de
+  expunere, cu o creștere de 7–10 kVp față de valoarea necesară cu pacientul în decubit
+  dorsal.
 
-  • în case de suspected perforation, pacientul trebuie să fie kept Ortostatism, ideally
-  pentru 20 minutes prior la expunere, la allow orice pneumoperitoneu (aer liber subdiafragmatic)
-  la rise. appropriate imagine în this situation would fie Ortostatism chest, sau
-  Antero-posterior (AP) stâng Profil (lateral) decubit Abdomen, sau ca last resort
-  Profil (lateral) dorsal decubit.'
-position: "(tilting table) This poate fie undertaken using tilting table cu C-braț\
-  \ assembly cu large imagine intensifier și X-ray tube în over-couch poziție. It\
-  \ este used when undertaking barium examinations de alimentary tract și other studies\
-  \ requiring Ortostatism imagine, e.g. IVU, la show site de obstruction.\n• pacientul\
-  \ este culcat Decubit dorsal pe tilting table, cu picioarele firmly pe / sprijinit\
-  \ de step. masa de examinare este moved slowly spre vertical poziție until pacientul\
-  \ este Ortostatism.\n• If necessary, imobilizare bands sunt tightened across genunchii\
-  \ și chest la prevent pacientul de la collapsing when masa de examinare este moved\
-  \ spre vertical poziție. However, it este nu recommended that this procedure trebuie\
-  \ să fie undertaken if pacientul este unwell și unable la stand unaided.\n• upper\
-  \ edge de imagine intensifier este ajustat so that it este la nivelul middle de\
-  \ corp de Stern în order pentru include cupole diafragmatice.\n• X-ray tube/C-braț\
-  \ assembly este poziționat astfel încât raza centrală este orizontal.\n• expunere\
-  \ este made ca soon ca table movement este stopped.\nThis este preferably when masa\
-  \ de examinare este vertical, but how near vertical will depend pe condition de\
-  \ pacientul.\n• ca soon ca expunere has been made, X-ray tube este moved away și\
-  \ masa de examinare moved back into orizontal poziție.\n340 Antero-posterior (AP)\
-  \ Ortostatism radiografie de abdomenul evidențiind dilated bowel cu small nivele\
-  \ hidroaerice (arrows)\n\n• Having set parametri de expunere și poziționat X-ray\
-  \ tube so that orizontal raza centrală will fie approximately la correct height,\
-  \ pacientul, already Ortostatism, este turned through 90 grade so that they sunt\
-  \ facing X-ray tube.\n• Care trebuie să fie exercised la abduct picioarele la avoid\
-  \ superimposing părți moi de thighs over pelvic cavity.\n• planul mediosagital este\
-  \ ajustat la drept-angles și coincident cu linia mediană stativ vertical Bucky sau\
-  \ casetă cu grilă antidifuzoare.\n• pacientul este sprijinit în this poziție cu\
-  \ a 35 \x02 43-cm casetă în Bucky sau casetă cu grilă antidifuzoare sprijinit vertically\
-  \ pe / sprijinit de pacient’s back, cu its upper edge nu lower than mid-Stern.\n\
-  • Alternatively, depending pe pacientul’s condition, pacientul poate sit pe stool\
-  \ sau wheelchair cu back removed și cu their back against stativ vertical Bucky.\
-  \ If necessary, pacientul poate also fie examined cu backrest de trolley raised\
-  \ la vertical poziție."
+  • În cazul unei suspiciuni de perforație, pacientul trebuie menținut în ortostatism,
+  ideal timp de 20 minute înainte de expunere, pentru a permite oricărui pneumoperitoneu
+  (aer liber subdiafragmatic) să se ridice. Imaginea adecvată în această situație
+  ar fi o radiografie toracică în ortostatism sau o radiografie anteroposterioară
+  (AP) a abdomenului în decubit lateral stâng ori, ca ultimă opțiune, o radiografie
+  de profil în decubit dorsal.'
+position: '(masă basculantă) Această examinare poate fi efectuată folosind o masă
+  basculantă cu un ansamblu cu braț în C, cu un intensificator de imagine mare și
+  tubul de raze X poziționat deasupra mesei. Se utilizează la efectuarea examinărilor
+  cu bariu ale tubului digestiv și a altor investigații care necesită o imagine în
+  ortostatism, de exemplu IVU, pentru a evidenția sediul obstrucției.
+
+  • Pacientul este culcat în decubit dorsal pe masa basculantă, cu picioarele sprijinite
+  ferm pe treaptă. Masa de examinare este deplasată lent spre poziția verticală până
+  când pacientul ajunge în ortostatism.
+
+  • Dacă este necesar, benzile de imobilizare sunt strânse peste genunchi și torace
+  pentru a preveni prăbușirea pacientului când masa de examinare este deplasată spre
+  poziția verticală. Totuși, nu se recomandă efectuarea acestei proceduri dacă pacientul
+  are o stare generală alterată și nu poate sta în picioare fără ajutor.
+
+  • Marginea superioară a intensificatorului de imagine este ajustată astfel încât
+  să fie la nivelul mijlocului corpului sternului, pentru a include cupolele diafragmatice.
+
+  • Ansamblul tub de raze X/braț în C este poziționat astfel încât raza centrală să
+  fie orizontală.
+
+  • Expunerea se efectuează imediat ce mișcarea mesei s-a oprit.
+
+  De preferat, aceasta se efectuează când masa de examinare este verticală, dar apropierea
+  de poziția verticală va depinde de starea pacientului.
+
+  • Imediat după efectuarea expunerii, tubul de raze X este îndepărtat și masa de
+  examinare este readusă în poziție orizontală.
+
+  340 Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază
+  anse intestinale dilatate cu nivele hidroaerice mici (săgeți)
+
+
+  • După setarea parametrilor de expunere și poziționarea tubului de raze X astfel
+  încât raza centrală orizontală să fie aproximativ la înălțimea corectă, pacientul,
+  aflat deja în ortostatism, este rotit cu 90 grade astfel încât să fie cu fața spre
+  tubul de raze X.
+
+  • Trebuie avut grijă să se efectueze abducția picioarelor pentru a evita suprapunerea
+  părților moi ale coapselor peste cavitatea pelviană.
+
+  • Planul mediosagital este ajustat perpendicular pe stativul vertical Bucky sau
+  pe caseta cu grilă antidifuzoare și aliniat cu linia mediană a acestora.
+
+  • Pacientul este susținut în această poziție, cu o casetă de 35 × 43-cm în Bucky
+  sau cu o casetă cu grilă antidifuzoare sprijinită vertical pe spatele pacientului,
+  cu marginea superioară nu mai jos de mijlocul sternului.
+
+  • Alternativ, în funcție de starea sa, pacientul poate sta pe un taburet sau într-un
+  scaun cu rotile cu spătarul îndepărtat, cu spatele lipit de stativul vertical Bucky.
+  Dacă este necesar, pacientul poate fi examinat și cu spătarul tărgii ridicat în
+  poziție verticală.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -96,24 +120,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- acquired imagine trebuie să include ambele domes de cupole diafragmatice la ensure
-  that orice Pneumoperitoneu (aer liber în cavitatea peritoneală) este evidențiat.
+- Imaginea obținută trebuie să includă ambele cupole diafragmatice pentru a asigura
+  evidențierea oricărui pneumoperitoneu (aer liber în cavitatea peritoneală).
 sid_dff: 100 cm
 slug: rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 355
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=355
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 7-10
-  mas: Conform AEC / grosime anatomică
-title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Ortostatism
+  mas: Conform AEC / grosimii anatomice
+title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP) - ortostatism
 ---
-# Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Ortostatism
+# Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP) - ortostatism
 
 
 <div class="rx-meta-bar">
@@ -132,8 +156,8 @@ title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Ortostatism
 
     === "Indicații Clinice"
 
-        - nivele hidroaerice pe Ortostatism film radiologic do nu necessarily indicate obstruction, ca variety de other conditions poate produce nivele hidroaerice, e.g. severe gastroenteritis, jejunal diverticulosis.
-        - Suspected ocluzie intestinală (nivele hidroaerice) este usual indication pentru this request, but it poate also fie useful pentru confirming presence de gas-containing abscess. Ortostatism Antero-posterior (AP) Ortostatism radiografie de abdomenul în Poziție Șezândă poziție evidențiind postoperative Ocluzie intestinală pe intestinul subțire (nivele hidroaerice centrale) (note lower abdominal clips pe transverse incision). NB: If picioarele sunt nu în abducție details de Bazin (bazin (pelvis)) sunt obscured, ca în this example
+        - Nivelele hidroaerice de pe filmul radiologic în ortostatism nu indică neapărat o ocluzie, deoarece diverse alte afecțiuni pot produce nivele hidroaerice, de exemplu gastroenterita severă, diverticuloza jejunală.
+        - Suspiciunea de ocluzie intestinală (nivele hidroaerice) este indicația obișnuită pentru această solicitare, dar examinarea poate fi utilă și pentru confirmarea prezenței unui abces care conține gaz. Ortostatism. Radiografie anteroposterioară (AP) a abdomenului în ortostatism, în poziție șezândă, care evidențiază ocluzie intestinală postoperatorie la nivelul intestinului subțire (nivele hidroaerice centrale) (observați clipurile din abdomenul inferior de-a lungul inciziei transversale). NB: Dacă picioarele nu sunt în abducție, detaliile bazinului (pelvisului) sunt mascate, ca în acest exemplu
 
     === "Ghid Național IRIS"
 
@@ -147,28 +171,28 @@ title: Rx Abdomen și Cavitate Pelviană Antero-Posterior (AP) - Ortostatism
 
     ---
 
-    - **Poziție Pacient:** (tilting table) This poate fie undertaken using tilting table cu C-braț assembly cu large imagine intensifier și X-ray tube în over-couch poziție. It este used when undertaking barium examinations de alimentary tract și other studies requiring Ortostatism imagine, e.g. IVU, la show site de obstruction.
-• pacientul este culcat Decubit dorsal pe tilting table, cu picioarele firmly pe / sprijinit de step. masa de examinare este moved slowly spre vertical poziție until pacientul este Ortostatism.
-• If necessary, imobilizare bands sunt tightened across genunchii și chest la prevent pacientul de la collapsing when masa de examinare este moved spre vertical poziție. However, it este nu recommended that this procedure trebuie să fie undertaken if pacientul este unwell și unable la stand unaided.
-• upper edge de imagine intensifier este ajustat so that it este la nivelul middle de corp de Stern în order pentru include cupole diafragmatice.
-• X-ray tube/C-braț assembly este poziționat astfel încât raza centrală este orizontal.
-• expunere este made ca soon ca table movement este stopped.
-This este preferably when masa de examinare este vertical, but how near vertical will depend pe condition de pacientul.
-• ca soon ca expunere has been made, X-ray tube este moved away și masa de examinare moved back into orizontal poziție.
-340 Antero-posterior (AP) Ortostatism radiografie de abdomenul evidențiind dilated bowel cu small nivele hidroaerice (arrows)
+    - **Poziție Pacient:** (masă basculantă) Această examinare poate fi efectuată folosind o masă basculantă cu un ansamblu cu braț în C, cu un intensificator de imagine mare și tubul de raze X poziționat deasupra mesei. Se utilizează la efectuarea examinărilor cu bariu ale tubului digestiv și a altor investigații care necesită o imagine în ortostatism, de exemplu IVU, pentru a evidenția sediul obstrucției.
+• Pacientul este culcat în decubit dorsal pe masa basculantă, cu picioarele sprijinite ferm pe treaptă. Masa de examinare este deplasată lent spre poziția verticală până când pacientul ajunge în ortostatism.
+• Dacă este necesar, benzile de imobilizare sunt strânse peste genunchi și torace pentru a preveni prăbușirea pacientului când masa de examinare este deplasată spre poziția verticală. Totuși, nu se recomandă efectuarea acestei proceduri dacă pacientul are o stare generală alterată și nu poate sta în picioare fără ajutor.
+• Marginea superioară a intensificatorului de imagine este ajustată astfel încât să fie la nivelul mijlocului corpului sternului, pentru a include cupolele diafragmatice.
+• Ansamblul tub de raze X/braț în C este poziționat astfel încât raza centrală să fie orizontală.
+• Expunerea se efectuează imediat ce mișcarea mesei s-a oprit.
+De preferat, aceasta se efectuează când masa de examinare este verticală, dar apropierea de poziția verticală va depinde de starea pacientului.
+• Imediat după efectuarea expunerii, tubul de raze X este îndepărtat și masa de examinare este readusă în poziție orizontală.
+340 Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază anse intestinale dilatate cu nivele hidroaerice mici (săgeți)
 
-• Having set parametri de expunere și poziționat X-ray tube so that orizontal raza centrală will fie approximately la correct height, pacientul, already Ortostatism, este turned through 90 grade so that they sunt facing X-ray tube.
-• Care trebuie să fie exercised la abduct picioarele la avoid superimposing părți moi de thighs over pelvic cavity.
-• planul mediosagital este ajustat la drept-angles și coincident cu linia mediană stativ vertical Bucky sau casetă cu grilă antidifuzoare.
-• pacientul este sprijinit în this poziție cu a 35  43-cm casetă în Bucky sau casetă cu grilă antidifuzoare sprijinit vertically pe / sprijinit de pacient’s back, cu its upper edge nu lower than mid-Stern.
-• Alternatively, depending pe pacientul’s condition, pacientul poate sit pe stool sau wheelchair cu back removed și cu their back against stativ vertical Bucky. If necessary, pacientul poate also fie examined cu backrest de trolley raised la vertical poziție.
-    - **Punct de Centrare Fascicul:** • orizontal ray este orientat so that it este coincident cu centre de caseta în linia mediană.
-• expunere este taken pe normal expir profund complet.
+• După setarea parametrilor de expunere și poziționarea tubului de raze X astfel încât raza centrală orizontală să fie aproximativ la înălțimea corectă, pacientul, aflat deja în ortostatism, este rotit cu 90 grade astfel încât să fie cu fața spre tubul de raze X.
+• Trebuie avut grijă să se efectueze abducția picioarelor pentru a evita suprapunerea părților moi ale coapselor peste cavitatea pelviană.
+• Planul mediosagital este ajustat perpendicular pe stativul vertical Bucky sau pe caseta cu grilă antidifuzoare și aliniat cu linia mediană a acestora.
+• Pacientul este susținut în această poziție, cu o casetă de 35 × 43-cm în Bucky sau cu o casetă cu grilă antidifuzoare sprijinită vertical pe spatele pacientului, cu marginea superioară nu mai jos de mijlocul sternului.
+• Alternativ, în funcție de starea sa, pacientul poate sta pe un taburet sau într-un scaun cu rotile cu spătarul îndepărtat, cu spatele lipit de stativul vertical Bucky. Dacă este necesar, pacientul poate fi examinat și cu spătarul tărgii ridicat în poziție verticală.
+    - **Punct de Centrare Fascicul:** • Raza orizontală este orientată astfel încât să coincidă cu centrul casetei pe linia mediană.
+• Expunerea se efectuează la un expir normal, profund și complet.
 
-• Final adjustment este made la poziție de X-ray tube astfel încât orizontal raza centrală will fie orientat la anterior aspect de pacientul la centre de caseta la correct focus-la-film radiologic distance (FFD).
-• Expunerea se efectuează în apnee la sfârșitul expirului complet, after which pacientul este returned la Decubit dorsal poziție.
+• Se efectuează ajustarea finală a poziției tubului de raze X astfel încât raza centrală orizontală să fie orientată spre fața anterioară a pacientului, la centrul casetei, la distanța focar-film radiologic (FFD) corectă.
+• Expunerea se efectuează în apnee la sfârșitul expirului complet, după care pacientul este readus în decubit dorsal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made ca soon ca table movement este stopped
+    - **Comandă Respiratorie:** Expunerea se efectuează imediat ce mișcarea mesei s-a oprit
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -177,19 +201,19 @@ This este preferably when masa de examinare este vertical, but how near vertical
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 7-10 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 43 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - acquired imagine trebuie să include ambele domes de cupole diafragmatice la ensure that orice Pneumoperitoneu (aer liber în cavitatea peritoneală) este evidențiat.
+    - Imaginea obținută trebuie să includă ambele cupole diafragmatice pentru a asigura evidențierea oricărui pneumoperitoneu (aer liber în cavitatea peritoneală).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -202,8 +226,8 @@ This este preferably when masa de examinare este vertical, but how near vertical
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    • parametri de expunere sunt set using high mA și short expunere time și increase de 7–10 kVp over that required cu pacientul Decubit dorsal.
-• în case de suspected perforation, pacientul trebuie să fie kept Ortostatism, ideally pentru 20 minutes prior la expunere, la allow orice pneumoperitoneu (aer liber subdiafragmatic) la rise. appropriate imagine în this situation would fie Ortostatism chest, sau Antero-posterior (AP) stâng Profil (lateral) decubit Abdomen, sau ca last resort Profil (lateral) dorsal decubit.
+    • Parametrii de expunere sunt setați folosind mA mari și un timp scurt de expunere, cu o creștere de 7–10 kVp față de valoarea necesară cu pacientul în decubit dorsal.
+• În cazul unei suspiciuni de perforație, pacientul trebuie menținut în ortostatism, ideal timp de 20 minute înainte de expunere, pentru a permite oricărui pneumoperitoneu (aer liber subdiafragmatic) să se ridice. Imaginea adecvată în această situație ar fi o radiografie toracică în ortostatism sau o radiografie anteroposterioară (AP) a abdomenului în decubit lateral stâng ori, ca ultimă opțiune, o radiografie de profil în decubit dorsal.
 
 
 ### 🖼️ Imagini
@@ -212,17 +236,17 @@ This este preferably when masa de examinare este vertical, but how near vertical
 
 <figure class="protocol-image-card" markdown>
 
-![• expunere este taken pe normal expir profund complet.](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_1.jpeg)
+![• Expunerea se efectuează la un expir normal, profund și complet.](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_1.jpeg)
 
-<figcaption><strong>• expunere este taken pe normal expir profund complet.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Expunerea se efectuează la un expir normal, profund și complet.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Ortostatism radiografie de abdomenul evidențiind dilated bowel](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_2.jpeg)
+![Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază anse intestinale dilatate](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Ortostatism radiografie de abdomenul evidențiind dilated bowel</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază anse intestinale dilatate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -236,9 +260,9 @@ This este preferably when masa de examinare este vertical, but how near vertical
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Ortostatism radiografie de abdomenul în Poziție Șezândă poziție evidențiind](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_4.jpeg)
+![Radiografie anteroposterioară (AP) a abdomenului în ortostatism, în poziție șezândă, care evidențiază](../../assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_4.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Ortostatism radiografie de abdomenul în Poziție Șezândă poziție evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) a abdomenului în ortostatism, în poziție șezândă, care evidențiază</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -263,4 +287,4 @@ This este preferably when masa de examinare este vertical, but how near vertical
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 355](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=355)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 355](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

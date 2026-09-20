@@ -1,34 +1,35 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) SPECIAL Superoinferior
-  tangențial (axial)
+breathing: Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) SPECIALĂ,
+  tangențială superoinferioară (axială)
 category: craniu-saf
-centering: Center raza centrală la nazion și angle ca needed la ensure that it este
-  paralel la GAl. (raza centrală trebuie să just skim glabelă și anterior upper front
-  teeth.)
+centering: Centrați raza centrală la nazion și angulați-o după necesități pentru a
+  vă asigura că este paralelă cu GAl. (Raza centrală trebuie doar să atingă glabela
+  și dinții frontali superiori anteriori.)
 clinical_indications:
-- suspiciune de fractură de Oase Proprii Nazale (OPN) (mediallateral displacement)
+- suspiciune de fractură a oaselor proprii nazale (deplasare mediolaterală)
 images:
-- caption: Fig. 11.140 Superoinferior tangențial (axial) incidență.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.140 Superoinferior
-    tangențial (axial) incidență.)
+- caption: Fig. 11.140 Incidență tangențială superoinferioară (axială).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.140 Incidență
+    tangențială superoinferioară (axială).)
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_1.jpeg
-- caption: Fig. 11.141 Superoinferior tangențial (axial) incidență.
+- caption: Fig. 11.141 Incidență tangențială superoinferioară (axială).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.141
-    Superoinferior tangențial (axial) incidență.)
+    Incidență tangențială superoinferioară (axială).)
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_2.jpeg
-- caption: Fig. 11.142 Superoinferior tangențial (axial) incidență.
+- caption: Fig. 11.142 Incidență tangențială superoinferioară (axială).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.142
-    Superoinferior tangențial (axial) incidență.)
+    Incidență tangențială superoinferioară (axială).)
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_3.jpeg
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: pacient este Poziție Șezândă Ortostatism în chair la end de table
-  sau în Decubit ventral poziție pe table.; Regiune anatomică: Extend și rest chin
-  pe receptorul de imagine. Place înclinat support under receptorul de imagine, ca
-  evidențiat, la place receptorul de imagine perpendicular la GAl (Fig. 11.140). Align
-  MsP perpendicular la raza centrală și la receptorul de imagine midline.'
+position: 'Pacient: Pacientul este poziționat șezând sau în ortostatism pe un scaun
+  la capătul mesei ori în decubit ventral pe masă.; Regiune anatomică: Extindeți și
+  sprijiniți bărbia pe receptorul de imagine. Plasați un suport înclinat sub receptorul
+  de imagine, după cum se arată, pentru a poziționa receptorul de imagine perpendicular
+  pe GAl (Fig. 11.140). Aliniați MSP perpendicular pe raza centrală și pe linia mediană
+  a receptorului de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -36,20 +37,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'tangențial incidență de midnasal și distal Oase Proprii Nazale (OPN) (cu minimal
-  superimposition de glabelă sau alveolar ridge) și nasal părți moi (Figs. 11.141
-  și 11.142). stânci temporale (piramide pietroase) sunt inferior la sinusuri maxilare.
-  poziție:'
-- fără pacient rotație este evident, ca indicated prin equal distance de la anterior
-  nasal coloană vertebrală la outer părți moi margini pe fiecare side.
-- 'Incorrect neck poziție este indicated prin visualization de alveolar ridge (excessive
-  extension) sau visualization de too much glabelă (excessive flexion). expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize Oase
-  Proprii Nazale (OPN) și nasal părți moi.
-- net bony margins indicate fără mișcare. Fig. 11.140 Superoinferior tangențial (axial)
-  incidență. Fig. 11.141 Superoinferior tangențial (axial) incidență. stâng nasal
-  bone Septal cartilage R drept nasal bone Region de anterior nasal coloană vertebrală
-  Fig. 11.142 Superoinferior tangențial (axial) incidență.
+- 'Incidență tangențială a regiunii nazale medii și distale a oaselor proprii nazale
+  (OPN) (cu suprapunere minimă a glabelei sau a crestei alveolare) și a părților moi
+  nazale (Fig. 11.141 și 11.142). Stâncile temporale (piramidele pietroase) sunt inferior
+  de sinusurile maxilare. Poziție:'
+- Absența rotației pacientului este evidentă, indicată prin distanța egală de la coloana
+  nazală anterioară la marginile externe ale părților moi de pe fiecare parte.
+- 'Poziția incorectă a gâtului este indicată prin vizualizarea crestei alveolare (extensie
+  excesivă) sau prin vizualizarea unei porțiuni prea mari a glabelei (flexie excesivă).
+  Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru
+  vizualizarea oaselor proprii nazale (OPN) și a părților moi nazale.
+- Marginile osoase nete indică absența mișcării. Fig. 11.140 Incidență tangențială
+  superoinferioară (axială). Fig. 11.141 Incidență tangențială superoinferioară (axială).
+  os nazal stâng Cartilaj septal R os nazal drept Regiunea coloanei nazale anterioare
+  Fig. 11.142 Incidență tangențială superoinferioară (axială).
 sid_dff: 100 cm
 slug: rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager
 sources:
@@ -57,15 +59,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe toate sides la Oase Proprii Nazale (OPN).
+  collimation: Colimați pe toate laturile la nivelul oaselor proprii nazale (OPN).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidență
+title: Rx Oase Proprii Nazale (OPN) — Incidență tangențială superoinferioară (axială)
 ---
-# Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidență
+# Rx Oase Proprii Nazale (OPN) — Incidență tangențială superoinferioară (axială)
 
 
 <div class="rx-meta-bar">
@@ -84,7 +86,7 @@ title: Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidenț�
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de Oase Proprii Nazale (OPN) (mediallateral displacement)
+        - suspiciune de fractură a oaselor proprii nazale (deplasare mediolaterală)
 
     === "Ghid Național IRIS"
 
@@ -98,10 +100,10 @@ title: Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidenț�
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient este Poziție Șezândă Ortostatism în chair la end de table sau în Decubit ventral poziție pe table.; Regiune anatomică: Extend și rest chin pe receptorul de imagine. Place înclinat support under receptorul de imagine, ca evidențiat, la place receptorul de imagine perpendicular la GAl (Fig. 11.140). Align MsP perpendicular la raza centrală și la receptorul de imagine midline.
-    - **Punct de Centrare Fascicul:** Center raza centrală la nazion și angle ca needed la ensure that it este paralel la GAl. (raza centrală trebuie să just skim glabelă și anterior upper front teeth.)
+    - **Poziție Pacient:** Pacient: Pacientul este poziționat șezând sau în ortostatism pe un scaun la capătul mesei ori în decubit ventral pe masă.; Regiune anatomică: Extindeți și sprijiniți bărbia pe receptorul de imagine. Plasați un suport înclinat sub receptorul de imagine, după cum se arată, pentru a poziționa receptorul de imagine perpendicular pe GAl (Fig. 11.140). Aliniați MSP perpendicular pe raza centrală și pe linia mediană a receptorului de imagine.
+    - **Punct de Centrare Fascicul:** Centrați raza centrală la nazion și angulați-o după necesități pentru a vă asigura că este paralelă cu GAl. (Raza centrală trebuie doar să atingă glabela și dinții frontali superiori anteriori.)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) SPECIAL Superoinferior tangențial (axial)
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) SPECIALĂ, tangențială superoinferioară (axială)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -115,18 +117,18 @@ title: Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidenț�
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe toate sides la Oase Proprii Nazale (OPN). |
+    | **Colimare Fascicul** | Colimați pe toate laturile la nivelul oaselor proprii nazale (OPN). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - tangențial incidență de midnasal și distal Oase Proprii Nazale (OPN) (cu minimal superimposition de glabelă sau alveolar ridge) și nasal părți moi (Figs. 11.141 și 11.142). stânci temporale (piramide pietroase) sunt inferior la sinusuri maxilare. poziție:
-    - fără pacient rotație este evident, ca indicated prin equal distance de la anterior nasal coloană vertebrală la outer părți moi margini pe fiecare side.
-    - Incorrect neck poziție este indicated prin visualization de alveolar ridge (excessive extension) sau visualization de too much glabelă (excessive flexion). expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize Oase Proprii Nazale (OPN) și nasal părți moi.
-    - net bony margins indicate fără mișcare. Fig. 11.140 Superoinferior tangențial (axial) incidență. Fig. 11.141 Superoinferior tangențial (axial) incidență. stâng nasal bone Septal cartilage R drept nasal bone Region de anterior nasal coloană vertebrală Fig. 11.142 Superoinferior tangențial (axial) incidență.
+    - Incidență tangențială a regiunii nazale medii și distale a oaselor proprii nazale (OPN) (cu suprapunere minimă a glabelei sau a crestei alveolare) și a părților moi nazale (Fig. 11.141 și 11.142). Stâncile temporale (piramidele pietroase) sunt inferior de sinusurile maxilare. Poziție:
+    - Absența rotației pacientului este evidentă, indicată prin distanța egală de la coloana nazală anterioară la marginile externe ale părților moi de pe fiecare parte.
+    - Poziția incorectă a gâtului este indicată prin vizualizarea crestei alveolare (extensie excesivă) sau prin vizualizarea unei porțiuni prea mari a glabelei (flexie excesivă). Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru vizualizarea oaselor proprii nazale (OPN) și a părților moi nazale.
+    - Marginile osoase nete indică absența mișcării. Fig. 11.140 Incidență tangențială superoinferioară (axială). Fig. 11.141 Incidență tangențială superoinferioară (axială). os nazal stâng Cartilaj septal R os nazal drept Regiunea coloanei nazale anterioare Fig. 11.142 Incidență tangențială superoinferioară (axială).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,25 +148,25 @@ title: Rx Oase Proprii Nazale (OPN) SUPEROINFERIOR TANGENTIAL (AXIAL) Incidenț�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.140 Superoinferior tangențial (axial) incidență.](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_1.jpeg)
+![Fig. 11.140 Incidență tangențială superoinferioară (axială).](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.140 Superoinferior tangențial (axial) incidență.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.140 Superoinferior tangențial (axial) incidență.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.141 Superoinferior tangențial (axial) incidență.](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.141 Superoinferior tangențial (axial) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.141 Superoinferior tangențial (axial) incidență.)</span></figcaption>
+<figcaption><strong>Fig. 11.140 Incidență tangențială superoinferioară (axială).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.140 Incidență tangențială superoinferioară (axială).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.142 Superoinferior tangențial (axial) incidență.](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_3.jpeg)
+![Fig. 11.141 Incidență tangențială superoinferioară (axială).](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.142 Superoinferior tangențial (axial) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.142 Superoinferior tangențial (axial) incidență.)</span></figcaption>
+<figcaption><strong>Fig. 11.141 Incidență tangențială superoinferioară (axială).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.141 Incidență tangențială superoinferioară (axială).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.142 Incidență tangențială superoinferioară (axială).](../../assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-superoinferior-tangential-axial-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.142 Incidență tangențială superoinferioară (axială).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.142 Incidență tangențială superoinferioară (axială).)</span></figcaption>
 
 </figure>
 

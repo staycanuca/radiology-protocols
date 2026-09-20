@@ -9,16 +9,16 @@ centering: Horizon̍ al și perpendicular pe centrul receptorului de imagine la 
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 199, imaginea 1
+- caption: Merrill — pagina 199, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p199_fig1.png
-- caption: Merrill — pagina PDF 200, imaginea 2
+- caption: Merrill — pagina 200, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig2.png
-- caption: Merrill — pagina PDF 200, imaginea 3
+- caption: Merrill — pagina 200, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig3.png
-- caption: Merrill — pagina PDF 201, imaginea 4
+- caption: Merrill — pagina 201, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p201_fig4.png
 last_updated: '2026-09-16'
@@ -123,9 +123,9 @@ source_sections:
 
     43 cm) longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
     198–201'
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=198
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
@@ -215,33 +215,33 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 199, imaginea 1](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p199_fig1.png)
+![Merrill — pagina 199, imaginea 1](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p199_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 199, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 200, imaginea 2](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 200, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 199, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 200, imaginea 3](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig3.png)
+![Merrill — pagina 200, imaginea 2](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 200, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 200, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 201, imaginea 4](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p201_fig4.png)
+![Merrill — pagina 200, imaginea 3](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p200_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 201, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 200, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 201, imaginea 4](../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p201_fig4.png)
+
+<figcaption><strong>Merrill — pagina 201, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -258,7 +258,7 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini PDF 198–201](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=198)
+- [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 198–201](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

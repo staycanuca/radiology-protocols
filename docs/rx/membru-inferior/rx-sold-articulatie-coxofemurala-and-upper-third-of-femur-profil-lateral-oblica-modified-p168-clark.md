@@ -58,7 +58,7 @@ sid_dff: 100 cm
 slug: rx-sold-articulatie-coxofemurala-and-upper-third-of-femur-profil-lateral-oblica-modified-p168-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 168
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=168
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
@@ -184,4 +184,4 @@ Modified technique Profil (lateral) incidență de Șold (Articulație Coxofemur
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 168](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=168)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 168](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

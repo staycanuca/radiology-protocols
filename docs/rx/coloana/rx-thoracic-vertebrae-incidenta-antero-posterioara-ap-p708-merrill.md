@@ -1,61 +1,65 @@
 ---
 author: Referință Merrill
-breathing: Suspended la end de Expir complet. This minimizes air în plămânii, which
-  results în less attenuation diferences și more uniform expunere de thoracic anatomy.
+breathing: Se menține apneea la sfârșitul expirului complet. Acest lucru minimizează
+  aerul din plămâni, ceea ce are ca rezultat diferențe mai mici de atenuare și o expunere
+  mai uniformă a anatomiei toracale.
 category: coloana
-centering: perpendicular pe receptorul de imagine (RI). center de raza centrală trebuie
-  să fie approximately halfway între incizură jugulară (furculiță sternală) și apendice
-  xifoid (see Fig. 9.68). Collimate closely la coloană vertebrală.
+centering: perpendicular pe receptorul de imagine (RI). Centrul razei centrale trebuie
+  să fie aproximativ la jumătatea distanței dintre incizura jugulară (furculița sternală)
+  și apendicele xifoid (vezi Fig. 9.68). Se colimează strâns coloana vertebrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 709, imaginea 1
+- caption: Merrill — pagina 709, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p709_fig1.png
-- caption: Merrill — pagina PDF 710, imaginea 2
+- caption: Merrill — pagina 710, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p710_fig2.png
-- caption: Merrill — pagina PDF 711, imaginea 3
+- caption: Merrill — pagina 711, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p711_fig3.png
-- caption: Merrill — pagina PDF 712, imaginea 4
+- caption: Merrill — pagina 712, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p712_fig4.png
 last_updated: '2026-09-16'
 modality: rx
-notes: ca suСested prin Fuchs, 16 more uniform expunere de coloană toracală poate
-  fie obtained if “heel efect” de tubul este used (Figs. 9.69 și 9.70). cu tubul poziționat
-  astfel încât cathode end este spre picioarele, greatest percentage de radiation
-  goes through thickest part de thorax.
-position: se așază pacientul în Decubit dorsal sau ortostatism. se poziționează pacientul’s
-  brațe along sides de corp și se ajustează umeri la lie în same plan orizontal. If
-  pacientul este Decubit dorsal, let capul rest directly pe masa de examinare sau
-  pe thin pillow la avoid accentuating thoracic kyphosis. If possible, orient pacientul
-  so lower thorax este la cathode end de x-ray tube. This orientation takes advantage
-  de “anode heel efect” la ensure more uniform expunere de thoracic anatomy. If ortostatism
-  este used, Se instruiește pacientul să sit sau stand up ca straight ca possible.;
-  se centrează MSP de corp la linia mediană grilă. pentru Decubit dorsal poziție,
-  la reduce kyphosis, se flectează pacient’s hips și genunchi la place thighs în vertical
-  poziție. se imobilizează picioare cu săculeți cu nisip (Fig. 9.68). If pacientul’s
-  limbs cannot fie flectat, support genunchii la relieve strain. pentru ortostatism,
-  Se instruiește pacientul să stand astfel încât pacient’s weight este equally distributed
-  pe picioarele la prevent rotație de coloană vertebrală. If pacientul’s lower limbs
-  sunt de unequal length, place support de correct height under Picior de shorter
-  side. Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm)
-  above umerii pe average pacient. This poziții receptorul de imagine so that T7 appears
-  near center de imagine și toate coloană toracală sunt vizualizat. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: După cum a sugerat Fuchs, 16 se poate obține o expunere mai uniformă a coloanei
+  toracale dacă se utilizează efectul de călcâi al tubului (Fig. 9.69 și 9.70). Cu
+  tubul poziționat astfel încât anodul să fie orientat spre picioare, cel mai mare
+  procent de radiație trece prin partea cea mai groasă a toracelui.
+position: Se așază pacientul în decubit dorsal sau în ortostatism. Se poziționează
+  brațele pacientului de-a lungul corpului și se ajustează umerii pentru a se afla
+  în același plan orizontal. Dacă pacientul este în decubit dorsal, se lasă capul
+  să se sprijine direct pe masa de examinare sau pe o pernă subțire, pentru a evita
+  accentuarea cifozei toracale. Dacă este posibil, se orientează pacientul astfel
+  încât toracele inferior să fie la capătul catodic al tubului de raze X. Această
+  orientare profită de efectul de călcâi anodic pentru a asigura o expunere mai uniformă
+  a anatomiei toracale. Dacă se utilizează ortostatismul, pacientul este instruit
+  să șadă sau să stea cât mai drept posibil.; Se centrează MSP al corpului pe linia
+  mediană a grilei. Pentru poziția în decubit dorsal, pentru reducerea cifozei, se
+  flectează șoldurile și genunchii pacientului pentru a plasa coapsele în poziție
+  verticală. Se imobilizează picioarele cu săculeți cu nisip (Fig. 9.68). Dacă membrele
+  pacientului nu pot fi flectate, se susțin genunchii pentru a reduce solicitarea.
+  Pentru ortostatism, pacientul este instruit să stea astfel încât greutatea sa să
+  fie distribuită egal pe picioare, pentru a preveni rotația coloanei vertebrale.
+  Dacă membrele inferioare ale pacientului au lungimi inegale, se plasează un suport
+  de înălțime corespunzătoare sub piciorul părții mai scurte. Se plasează marginea
+  superioară a receptorului de imagine la 1½ la 2 inches (3.8 la 5 cm) deasupra umerilor
+  pacientului mediu. Aceasta poziționează receptorul de imagine astfel încât T7 să
+  apară în apropierea centrului imaginii și să fie vizualizată întreaga coloană toracală.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- toate 12 coloană toracală
-- Absența rotației anatomice (simetrie bilaterală perfectă) ca evidențiat prin procese
-  spinoase la linia mediană vertebral corpuri
-- coloană vertebrală aliniat la middle de imagine
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- toate cele 12 vertebre toracale
+- Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin procesele
+  spinoase situate pe linia mediană a corpurilor vertebrale
+- coloana vertebrală aliniată în centrul imaginii
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill
 source_pages:
@@ -65,89 +69,84 @@ source_pages:
 - 711
 - 712
 source_sections:
-  anatomy: 'thoracic corpuri, intervertebral disk spaces, procese transverse, costovertebral
-    articulations, și surrounding structures (see Fig. 9.69). thoracic coloană vertebrală
-    poate fie dificult la evaluate cu radiografie pentru extremely large pacienți
-    și those cu lichid-filled chest. CT este often used la see
-
-    vertebre în detail (Fig. 9.71).'
+  anatomy: Corpurile vertebrale toracale, spațiile discale intervertebrale, procesele
+    transverse, articulațiile costovertebrale și structurile înconjurătoare (vezi
+    Fig. 9.69). Coloana vertebrală toracală poate fi dificil de evaluat prin radiografie
+    la pacienții extrem de voluminoși și la cei cu torace plin cu lichid. CT este
+    utilizat adesea pentru vizualizarea detaliată a vertebrelor (Fig. 9.71).
   collimation: • Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: '• perpendicular pe receptorul de imagine (RI). center de raza centrală trebuie
-    să fie approximately halfway între incizură jugulară (furculiță sternală) și xiphoid
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: '• perpendicular pe receptorul de imagine (RI). Centrul razei centrale trebuie
+    să fie aproximativ la jumătatea distanței dintre incizura jugulară (furculița
+    sternală) și procesul xifoid (vezi Fig. 9.68).
 
-    process (see Fig. 9.68).
+    • Se colimează strâns coloana vertebrală.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Collimate closely la coloană vertebrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • toate cele 12 vertebre toracale
 
-    • toate 12 coloană toracală
+    • Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin
+    procesele spinoase situate pe linia mediană a corpurilor vertebrale
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) ca evidențiat prin
-    procese spinoase la linia mediană vertebral corpuri
+    • coloana vertebrală aliniată în centrul imaginii
 
-    • coloană vertebrală aliniat la middle de imagine
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  notes: După cum a sugerat Fuchs, 16 se poate obține o expunere mai uniformă a coloanei
+    toracale dacă se utilizează efectul de călcâi al tubului (Fig. 9.69 și 9.70).
+    Cu tubul poziționat astfel încât anodul să fie orientat spre picioare, cel mai
+    mare procent de radiație trece prin partea cea mai groasă a toracelui.
+  part_pos: '• Se centrează MSP al corpului pe linia mediană a grilei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'ca suСested prin Fuchs, 16 more uniform expunere de coloană toracală poate
-    fie obtained if “heel efect” de tubul este used
-
-    (Figs. 9.69 și 9.70). cu tubul poziționat astfel încât cathode end este spre picioarele,
-    greatest percentage de radiation goes through thickest part de thorax.'
-  part_pos: '• se centrează MSP de corp la linia mediană grilă.
-
-    • pentru decubit dorsal, la reduce kyphosis, se flectează pacient’s hips și genunchi
-    la place thighs în vertical poziție. se imobilizează picioare
-
+    • Pentru decubit dorsal, pentru reducerea cifozei, se flectează șoldurile și genunchii
+    pacientului pentru a plasa coapsele în poziție verticală. Se imobilizează picioarele
     cu săculeți cu nisip (Fig. 9.68).
 
-    • If pacientul’s limbs cannot fie flectat, support genunchii la relieve strain.
+    • Dacă membrele pacientului nu pot fi flectate, se susțin genunchii pentru a reduce
+    solicitarea.
 
-    • pentru ortostatism, Se instruiește pacientul să stand astfel încât pacient’s
-    weight este equally distributed pe picioarele la prevent rotație de coloană vertebrală.
+    • Pentru ortostatism, pacientul este instruit să stea astfel încât greutatea sa
+    să fie distribuită egal pe picioare, pentru a preveni rotația coloanei vertebrale.
 
-    • If pacientul’s lower limbs sunt de unequal length, place support de correct
-    height under picior de shorter side.
+    • Dacă membrele inferioare ale pacientului au lungimi inegale, se plasează un
+    suport de înălțime corespunzătoare sub piciorul părții mai scurte.
 
-    • Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above
-    umerii pe average pacient. This poziții receptorul de imagine so that T7
+    • Se plasează marginea superioară a receptorului de imagine la 1½ la 2 inches
+    (3.8 la 5 cm) deasupra umerilor pacientului mediu. Aceasta poziționează receptorul
+    de imagine astfel încât T7 să apară în apropierea centrului imaginii și să fie
+    vizualizată întreaga coloană toracală.
 
-    appears near center de imagine și toate coloană toracală sunt vizualizat.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit dorsal sau în ortostatism.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau ortostatism.
+    • Se poziționează brațele pacientului de-a lungul corpului și se ajustează umerii
+    pentru a se afla în același plan orizontal.
 
-    • se poziționează pacientul’s brațe along sides de corp și se ajustează umeri
-    la lie în same plan orizontal.
+    • Dacă pacientul este în decubit dorsal, se lasă capul să se sprijine direct pe
+    masa de examinare sau pe o pernă subțire, pentru a evita accentuarea cifozei toracale.
+    Dacă este posibil, se orientează pacientul astfel încât toracele inferior să fie
+    la capătul catodic al tubului de raze X. Această orientare profită de efectul
+    de călcâi anodic pentru a asigura o expunere mai uniformă a anatomiei toracale.
 
-    • If pacientul este în decubit dorsal, let capul rest directly pe masa de examinare
-    sau pe thin pillow la avoid accentuating thoracic kyphosis. If
+    • Dacă se utilizează ortostatismul, pacientul este instruit să șadă sau să stea
+    cât mai drept posibil.'
+  respiration: Se menține apneea la sfârșitul expirului complet. Acest lucru minimizează
+    aerul din plămâni, ceea ce are ca rezultat diferențe mai mici de atenuare și o
+    expunere mai uniformă a anatomiei toracale.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    possible, orient pacientul so lower thorax este la cathode end de x-ray tube.
-    This orientation takes advantage de “anode
-
-    heel efect” la ensure more uniform expunere de thoracic anatomy.
-
-    • If ortostatism este used, Se instruiește pacientul să sit sau stand up ca straight
-    ca possible.'
-  respiration: 'Suspended la end de Expir complet. This minimizes air în plămânii,
-    which results în less attenuation diferences și
-
-    more uniform expunere de thoracic anatomy.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: Merrill’s Atlas, 9. Vertebral Column, pagini PDF 708–712
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=708
+- title: Merrill’s Atlas, 9. Vertebral Column, pagini 708–712
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
 ---
 # Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
@@ -183,10 +182,10 @@ title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism. se poziționează pacientul’s brațe along sides de corp și se ajustează umeri la lie în same plan orizontal. If pacientul este Decubit dorsal, let capul rest directly pe masa de examinare sau pe thin pillow la avoid accentuating thoracic kyphosis. If possible, orient pacientul so lower thorax este la cathode end de x-ray tube. This orientation takes advantage de “anode heel efect” la ensure more uniform expunere de thoracic anatomy. If ortostatism este used, Se instruiește pacientul să sit sau stand up ca straight ca possible.; se centrează MSP de corp la linia mediană grilă. pentru Decubit dorsal poziție, la reduce kyphosis, se flectează pacient’s hips și genunchi la place thighs în vertical poziție. se imobilizează picioare cu săculeți cu nisip (Fig. 9.68). If pacientul’s limbs cannot fie flectat, support genunchii la relieve strain. pentru ortostatism, Se instruiește pacientul să stand astfel încât pacient’s weight este equally distributed pe picioarele la prevent rotație de coloană vertebrală. If pacientul’s lower limbs sunt de unequal length, place support de correct height under Picior de shorter side. Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii pe average pacient. This poziții receptorul de imagine so that T7 appears near center de imagine și toate coloană toracală sunt vizualizat. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI). center de raza centrală trebuie să fie approximately halfway între incizură jugulară (furculiță sternală) și apendice xifoid (see Fig. 9.68). Collimate closely la coloană vertebrală.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în ortostatism. Se poziționează brațele pacientului de-a lungul corpului și se ajustează umerii pentru a se afla în același plan orizontal. Dacă pacientul este în decubit dorsal, se lasă capul să se sprijine direct pe masa de examinare sau pe o pernă subțire, pentru a evita accentuarea cifozei toracale. Dacă este posibil, se orientează pacientul astfel încât toracele inferior să fie la capătul catodic al tubului de raze X. Această orientare profită de efectul de călcâi anodic pentru a asigura o expunere mai uniformă a anatomiei toracale. Dacă se utilizează ortostatismul, pacientul este instruit să șadă sau să stea cât mai drept posibil.; Se centrează MSP al corpului pe linia mediană a grilei. Pentru poziția în decubit dorsal, pentru reducerea cifozei, se flectează șoldurile și genunchii pacientului pentru a plasa coapsele în poziție verticală. Se imobilizează picioarele cu săculeți cu nisip (Fig. 9.68). Dacă membrele pacientului nu pot fi flectate, se susțin genunchii pentru a reduce solicitarea. Pentru ortostatism, pacientul este instruit să stea astfel încât greutatea sa să fie distribuită egal pe picioare, pentru a preveni rotația coloanei vertebrale. Dacă membrele inferioare ale pacientului au lungimi inegale, se plasează un suport de înălțime corespunzătoare sub piciorul părții mai scurte. Se plasează marginea superioară a receptorului de imagine la 1½ la 2 inches (3.8 la 5 cm) deasupra umerilor pacientului mediu. Aceasta poziționează receptorul de imagine astfel încât T7 să apară în apropierea centrului imaginii și să fie vizualizată întreaga coloană toracală. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI). Centrul razei centrale trebuie să fie aproximativ la jumătatea distanței dintre incizura jugulară (furculița sternală) și apendicele xifoid (vezi Fig. 9.68). Se colimează strâns coloana vertebrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Suspended la end de Expir complet. This minimizes air în plămânii, which results în less attenuation diferences și more uniform expunere de thoracic anatomy.
+    - **Comandă Respiratorie:** Se menține apneea la sfârșitul expirului complet. Acest lucru minimizează aerul din plămâni, ceea ce are ca rezultat diferențe mai mici de atenuare și o expunere mai uniformă a anatomiei toracale.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -200,19 +199,19 @@ title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - toate 12 coloană toracală
-    - Absența rotației anatomice (simetrie bilaterală perfectă) ca evidențiat prin procese spinoase la linia mediană vertebral corpuri
-    - coloană vertebrală aliniat la middle de imagine
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - toate cele 12 vertebre toracale
+    - Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin procesele spinoase situate pe linia mediană a corpurilor vertebrale
+    - coloana vertebrală aliniată în centrul imaginii
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -223,7 +222,7 @@ title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    ca suСested prin Fuchs, 16 more uniform expunere de coloană toracală poate fie obtained if “heel efect” de tubul este used (Figs. 9.69 și 9.70). cu tubul poziționat astfel încât cathode end este spre picioarele, greatest percentage de radiation goes through thickest part de thorax.
+    După cum a sugerat Fuchs, 16 se poate obține o expunere mai uniformă a coloanei toracale dacă se utilizează efectul de călcâi al tubului (Fig. 9.69 și 9.70). Cu tubul poziționat astfel încât anodul să fie orientat spre picioare, cel mai mare procent de radiație trece prin partea cea mai groasă a toracelui.
 
 
 ### 🖼️ Imagini
@@ -232,33 +231,33 @@ title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 709, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p709_fig1.png)
+![Merrill — pagina 709, imaginea 1](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p709_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 709, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Merrill — pagina PDF 710, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p710_fig2.png)
-
-<figcaption><strong>Merrill — pagina PDF 710, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 709, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 711, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p711_fig3.png)
+![Merrill — pagina 710, imaginea 2](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p710_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 711, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 710, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 712, imaginea 4](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p712_fig4.png)
+![Merrill — pagina 711, imaginea 3](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p711_fig3.png)
 
-<figcaption><strong>Merrill — pagina PDF 712, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 711, imaginea 3</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Merrill — pagina 712, imaginea 4](../../assets/images/protocols/merrill/rx-thoracic-vertebrae-incidenta-antero-posterioara-ap-p708-merrill/p712_fig4.png)
+
+<figcaption><strong>Merrill — pagina 712, imaginea 4</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -275,67 +274,59 @@ title: Rx Coloană Toracală — Incidență Antero-Posterioară (AP) (Merrill)
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 9. Vertebral Column, pagini PDF 708–712](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=708)
+- [Merrill’s Atlas, 9. Vertebral Column, pagini 708–712](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 
-### anatomy
+### anatomie
 
-thoracic corpuri, intervertebral disk spaces, procese transverse, costovertebral articulations, și surrounding structures (see Fig. 9.69). thoracic coloană vertebrală poate fie dificult la evaluate cu radiografie pentru extremely large pacienți și those cu lichid-filled chest. CT este often used la see
-vertebre în detail (Fig. 9.71).
+Corpurile vertebrale toracale, spațiile discale intervertebrale, procesele transverse, articulațiile costovertebrale și structurile înconjurătoare (vezi Fig. 9.69). Coloana vertebrală toracală poate fi dificil de evaluat prin radiografie la pacienții extrem de voluminoși și la cei cu torace plin cu lichid. CT este utilizat adesea pentru vizualizarea detaliată a vertebrelor (Fig. 9.71).
 
-### collimation
+### colimare
 
-• Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
+• Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-### cr
+### raza centrală
 
-• perpendicular pe receptorul de imagine (RI). center de raza centrală trebuie să fie approximately halfway între incizură jugulară (furculiță sternală) și xiphoid
-process (see Fig. 9.68).
-• Collimate closely la coloană vertebrală.
+• perpendicular pe receptorul de imagine (RI). Centrul razei centrale trebuie să fie aproximativ la jumătatea distanței dintre incizura jugulară (furculița sternală) și procesul xifoid (vezi Fig. 9.68).
+• Se colimează strâns coloana vertebrală.
 
-### criteria
+### criterii
 
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• toate 12 coloană toracală
-• Absența rotației anatomice (simetrie bilaterală perfectă) ca evidențiat prin procese spinoase la linia mediană vertebral corpuri
-• coloană vertebrală aliniat la middle de imagine
-• Bony detalii trabeculare osoase și surrounding soft tissues
+Criterii radiologice de calitate a imaginii:
+• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
+• toate cele 12 vertebre toracale
+• Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin procesele spinoase situate pe linia mediană a corpurilor vertebrale
+• coloana vertebrală aliniată în centrul imaginii
+• Detalii osoase trabeculare și țesuturi moi înconjurătoare
 
-### notes
+### note
 
-ca suСested prin Fuchs, 16 more uniform expunere de coloană toracală poate fie obtained if “heel efect” de tubul este used
-(Figs. 9.69 și 9.70). cu tubul poziționat astfel încât cathode end este spre picioarele, greatest percentage de radiation goes through thickest part de thorax.
+După cum a sugerat Fuchs, 16 se poate obține o expunere mai uniformă a coloanei toracale dacă se utilizează efectul de călcâi al tubului (Fig. 9.69 și 9.70). Cu tubul poziționat astfel încât anodul să fie orientat spre picioare, cel mai mare procent de radiație trece prin partea cea mai groasă a toracelui.
 
 ### part_pos
 
-• se centrează MSP de corp la linia mediană grilă.
-• pentru decubit dorsal, la reduce kyphosis, se flectează pacient’s hips și genunchi la place thighs în vertical poziție. se imobilizează picioare
-cu săculeți cu nisip (Fig. 9.68).
-• If pacientul’s limbs cannot fie flectat, support genunchii la relieve strain.
-• pentru ortostatism, Se instruiește pacientul să stand astfel încât pacient’s weight este equally distributed pe picioarele la prevent rotație de coloană vertebrală.
-• If pacientul’s lower limbs sunt de unequal length, place support de correct height under picior de shorter side.
-• Place superior edge de receptorul de imagine 1½ la 2 inches (3.8 la 5 cm) above umerii pe average pacient. This poziții receptorul de imagine so that T7
-appears near center de imagine și toate coloană toracală sunt vizualizat.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
+• Se centrează MSP al corpului pe linia mediană a grilei.
+• Pentru decubit dorsal, pentru reducerea cifozei, se flectează șoldurile și genunchii pacientului pentru a plasa coapsele în poziție verticală. Se imobilizează picioarele cu săculeți cu nisip (Fig. 9.68).
+• Dacă membrele pacientului nu pot fi flectate, se susțin genunchii pentru a reduce solicitarea.
+• Pentru ortostatism, pacientul este instruit să stea astfel încât greutatea sa să fie distribuită egal pe picioare, pentru a preveni rotația coloanei vertebrale.
+• Dacă membrele inferioare ale pacientului au lungimi inegale, se plasează un suport de înălțime corespunzătoare sub piciorul părții mai scurte.
+• Se plasează marginea superioară a receptorului de imagine la 1½ la 2 inches (3.8 la 5 cm) deasupra umerilor pacientului mediu. Aceasta poziționează receptorul de imagine astfel încât T7 să apară în apropierea centrului imaginii și să fie vizualizată întreaga coloană toracală.
+• Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 ### patient_pos
 
-• se așază pacientul în decubit dorsal sau ortostatism.
-• se poziționează pacientul’s brațe along sides de corp și se ajustează umeri la lie în same plan orizontal.
-• If pacientul este în decubit dorsal, let capul rest directly pe masa de examinare sau pe thin pillow la avoid accentuating thoracic kyphosis. If
-possible, orient pacientul so lower thorax este la cathode end de x-ray tube. This orientation takes advantage de “anode
-heel efect” la ensure more uniform expunere de thoracic anatomy.
-• If ortostatism este used, Se instruiește pacientul să sit sau stand up ca straight ca possible.
+• Se așază pacientul în decubit dorsal sau în ortostatism.
+• Se poziționează brațele pacientului de-a lungul corpului și se ajustează umerii pentru a se afla în același plan orizontal.
+• Dacă pacientul este în decubit dorsal, se lasă capul să se sprijine direct pe masa de examinare sau pe o pernă subțire, pentru a evita accentuarea cifozei toracale. Dacă este posibil, se orientează pacientul astfel încât toracele inferior să fie la capătul catodic al tubului de raze X. Această orientare profită de efectul de călcâi anodic pentru a asigura o expunere mai uniformă a anatomiei toracale.
+• Dacă se utilizează ortostatismul, pacientul este instruit să șadă sau să stea cât mai drept posibil.
 
-### respiration
+### respirație
 
-Suspended la end de Expir complet. This minimizes air în plămânii, which results în less attenuation diferences și
-more uniform expunere de thoracic anatomy.
+Se menține apneea la sfârșitul expirului complet. Acest lucru minimizează aerul din plămâni, ceea ce are ca rezultat diferențe mai mici de atenuare și o expunere mai uniformă a anatomiei toracale.
 
-### tech
+### tehnică
 
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
+Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
+43 cm), longitudinal.
 

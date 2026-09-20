@@ -3,86 +3,90 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: craniu-saf
-centering: '• ca orientat prin extra-oral aiming device de holder.
+centering: '• Așa cum este orientat de dispozitivul de ghidare pentru alinierea extraorală
+  al suportului.
 
-  Quality standards pentru Radiografie Dentară Bite-Wing (Interproximală) Evidence
-  de optim imagine geometry
+  Standarde de calitate pentru radiografia dentară bitewing (interproximală). Dovezi
+  ale geometriei optime a imaginii.
 
-  • There trebuie să fie fără evidence de bending de imagine de teeth pe imagine.
+  • Nu trebuie să existe dovezi de curbare a imaginii dinților pe imagine.
 
-  • There trebuie să fie fără foreshortening sau elongation de teeth.
+  • Nu trebuie să existe scurtare sau alungire a dinților.
 
-  • Ideally, there trebuie să fie fără orizontal overlap.
+  • În mod ideal, nu trebuie să existe suprapunere orizontală.
 
-  If overlap este present, it trebuie să nu obscure more than one-half enamel thickness.
-  This poate fie unavoidable due la anatomical factors (e.g. overcrowding, shape de
-  dental arch), necessitating additional bitewing sau periapical radiografie.
+  Dacă este prezentă suprapunerea, aceasta nu trebuie să obscurizeze mai mult de jumătate
+  din grosimea smalțului. Aceasta poate fi inevitabilă din cauza factorilor anatomici
+  (de exemplu, înghesuirea dentară, forma arcadei dentare), necesitând o radiografie
+  bitewing sau periapicală suplimentară.
 
-  Correct coverage
+  Acoperire corectă
 
-  • film radiologic trebuie să cover distal surfaces de canine teeth și mesial surfaces
-  de most posterior erupted teeth.
+  • Filmul trebuie să acopere suprafețele distale ale dinților canini și suprafețele
+  meziale ale celor mai posteriori dinți erupți.
 
-  • periodontal bone level trebuie să fie vizibil și imaged equally în maxilla/Mandibulă,
-  confirming ideal centring.
+  • Nivelul osului periodontal trebuie să fie vizibil și imaginat în mod egal la nivelul
+  maxilei/mandibulei, confirmând centrarea ideală.
 
-  Good densitate optică și contrast There trebuie să fie good densitate optică și
-  adecvat contrast între enamel și dentine.
+  Densitate optică și contrast bune. Trebuie să existe o densitate optică bună și
+  un contrast adecvat între smalț și dentină.
 
-  adecvat number de filme radiologice When third molars sunt erupted sau partially
-  erupted și impacted, și toate other teeth sunt present, two filme radiologice poate
-  fie needed pe fiecare side la evaluate dentition.
+  Număr adecvat de filme radiologice. Atunci când molarii trei sunt erupți sau parțial
+  erupți și incluși și sunt prezenți toți ceilalți dinți, pot fi necesare două filme
+  radiologice pentru fiecare parte pentru evaluarea dentiției.
 
-  Extreme curvature de arch poate impact pe number de filme radiologice required.
+  Curbura extremă a arcadei poate influența numărul de filme radiologice necesare.
 
-  294 Profil (lateral) incidență de Hawe-Neos Kwikbite film radiologic holder poziționat
-  pentru stâng bitewing radiografie pe dried Mandibulă Positioning de pacientul și
-  X-ray tube pentru drept bitewing radiografie using Hawe-Neos Kwikbite film radiologic
-  holder și rectangular collimation de X-ray tube adecvat processing și dark room
-  techniques
+  294 Incidență de profil (lateral). Suport de film radiologic Hawe-Neos Kwikbite
+  poziționat pentru radiografia bitewing stângă pe mandibulă uscată. Poziționarea
+  pacientului și a tubului de raze X pentru radiografia bitewing dreaptă, utilizând
+  suportul de film radiologic Hawe-Neos Kwikbite și colimarea dreptunghiulară a tubului
+  de raze X. Tehnici adecvate de procesare și de cameră obscură.
 
-  • fără pressure marks pe film radiologic, fără emulsion scratches.
+  • Fără urme de presiune pe film, fără zgârieturi ale emulsiei.
 
-  • fără roller marks (automatic processing only).
+  • Fără urme de role (numai la procesarea automată).
 
-  • fără evidence de film radiologic fog.
+  • Fără dovezi de voalare a filmului.
 
-  • fără chemical streaks/splashes/contamination.
+  • Fără dâre/picături de substanțe chimice/contaminare.
 
-  • fără evidence de inadequate fixation/washing.'
+  • Fără dovezi de fixare/spălare insuficientă.'
 clinical_indications:
-- Evaluare radiografică regiunii Radiografie Dentară Bite-Wing (Interproximală) (poziție
-  de pacient și film radiologic using a).
+- Evaluarea radiografică a regiunii. Radiografie dentară bitewing (interproximală)
+  (poziția pacientului și a filmului utilizând o).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: 10 Radiografie Dentară Bite-Wing (Interproximală)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 10 Radiografie dentară bitewing (interproximală)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_1.jpeg
-- caption: ing additional bitewing sau periapical radiografie.
+- caption: pentru efectuarea unei radiografii bitewing sau periapicale suplimentare.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_2.jpeg
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'bitewing film radiologic-menținerea/fascicul-alignment instrument
+position: 'film radiologic bitewing – instrument de menținere/aliniere a fasciculului
 
-  • correct film radiologic size este chosen și plasat în film radiologic holder.
+  • se alege și se plasează în suportul pentru film radiologic dimensiunea corectă
+  a filmului radiologic.
 
-  • film radiologic holder este introduced into mouth, rotit over tongue și poziționat
-  în lingual sulcus.
+  • suportul pentru film radiologic este introdus în gură, rotit peste limbă și poziționat
+  în șanțul lingual.
 
-  • anterior edge de film radiologic trebuie să fie located opposite la distal edge
-  de lower canine.
+  • marginea anterioară a filmului radiologic trebuie să fie situată opus marginii
+  distale a caninului inferior.
 
-  • bite block rests pe occlusal surface de lower teeth.
+  • blocul de ocluzie se sprijină pe suprafața ocluzală a dinților inferiori.
 
-  • pacientul este told la bite gently pe bite block. la same time, operator ensures
-  that there este good contact între receptorul de imagine și teeth.
+  • pacientului i se spune să muște ușor pe blocul de ocluzie. În același timp, operatorul
+  se asigură că există un contact bun între receptorul de imagine și dinți.
 
-  • Se instruiește pacientul să continue biting pe bite block la poziție securely
-  film radiologic holder.'
+  • pacientului i se cere să continue să muște pe blocul de ocluzie pentru a menține
+  fix suportul pentru film radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -91,7 +95,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Radiografie Dentară Bite-Wing (Interproximală)).
+- Vizualizarea clară întregii arii anatomice (radiografie dentară bitewing (interproximală)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -99,19 +103,19 @@ sid_dff: 100 cm
 slug: rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 309
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=309
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patient and
-  film using a
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie dentară bitewing (interproximală) — poziționarea pacientului și
+  a filmului utilizând o
 ---
-# Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patient and film using a
+# Radiografie dentară bitewing (interproximală) — poziționarea pacientului și a filmului utilizând o
 
 
 <div class="rx-meta-bar">
@@ -130,7 +134,7 @@ title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patie
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Radiografie Dentară Bite-Wing (Interproximală) (poziție de pacient și film radiologic using a).
+        - Evaluarea radiografică a regiunii. Radiografie dentară bitewing (interproximală) (poziția pacientului și a filmului utilizând o).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
@@ -146,31 +150,31 @@ title: Rx Radiografie Dentară Bite-Wing (Interproximală) Poziționare of patie
 
     ---
 
-    - **Poziție Pacient:** bitewing film radiologic-menținerea/fascicul-alignment instrument
-• correct film radiologic size este chosen și plasat în film radiologic holder.
-• film radiologic holder este introduced into mouth, rotit over tongue și poziționat în lingual sulcus.
-• anterior edge de film radiologic trebuie să fie located opposite la distal edge de lower canine.
-• bite block rests pe occlusal surface de lower teeth.
-• pacientul este told la bite gently pe bite block. la same time, operator ensures that there este good contact între receptorul de imagine și teeth.
-• Se instruiește pacientul să continue biting pe bite block la poziție securely film radiologic holder.
-    - **Punct de Centrare Fascicul:** • ca orientat prin extra-oral aiming device de holder.
-Quality standards pentru Radiografie Dentară Bite-Wing (Interproximală) Evidence de optim imagine geometry
-• There trebuie să fie fără evidence de bending de imagine de teeth pe imagine.
-• There trebuie să fie fără foreshortening sau elongation de teeth.
-• Ideally, there trebuie să fie fără orizontal overlap.
-If overlap este present, it trebuie să nu obscure more than one-half enamel thickness. This poate fie unavoidable due la anatomical factors (e.g. overcrowding, shape de dental arch), necessitating additional bitewing sau periapical radiografie.
-Correct coverage
-• film radiologic trebuie să cover distal surfaces de canine teeth și mesial surfaces de most posterior erupted teeth.
-• periodontal bone level trebuie să fie vizibil și imaged equally în maxilla/Mandibulă, confirming ideal centring.
-Good densitate optică și contrast There trebuie să fie good densitate optică și adecvat contrast între enamel și dentine.
-adecvat number de filme radiologice When third molars sunt erupted sau partially erupted și impacted, și toate other teeth sunt present, two filme radiologice poate fie needed pe fiecare side la evaluate dentition.
-Extreme curvature de arch poate impact pe number de filme radiologice required.
-294 Profil (lateral) incidență de Hawe-Neos Kwikbite film radiologic holder poziționat pentru stâng bitewing radiografie pe dried Mandibulă Positioning de pacientul și X-ray tube pentru drept bitewing radiografie using Hawe-Neos Kwikbite film radiologic holder și rectangular collimation de X-ray tube adecvat processing și dark room techniques
-• fără pressure marks pe film radiologic, fără emulsion scratches.
-• fără roller marks (automatic processing only).
-• fără evidence de film radiologic fog.
-• fără chemical streaks/splashes/contamination.
-• fără evidence de inadequate fixation/washing.
+    - **Poziție Pacient:** film radiologic bitewing – instrument de menținere/aliniere a fasciculului
+• se alege și se plasează în suportul pentru film radiologic dimensiunea corectă a filmului radiologic.
+• suportul pentru film radiologic este introdus în gură, rotit peste limbă și poziționat în șanțul lingual.
+• marginea anterioară a filmului radiologic trebuie să fie situată opus marginii distale a caninului inferior.
+• blocul de ocluzie se sprijină pe suprafața ocluzală a dinților inferiori.
+• pacientului i se spune să muște ușor pe blocul de ocluzie. În același timp, operatorul se asigură că există un contact bun între receptorul de imagine și dinți.
+• pacientului i se cere să continue să muște pe blocul de ocluzie pentru a menține fix suportul pentru film radiologic.
+    - **Punct de Centrare Fascicul:** • Așa cum este orientat de dispozitivul de ghidare pentru alinierea extraorală al suportului.
+Standarde de calitate pentru radiografia dentară bitewing (interproximală). Dovezi ale geometriei optime a imaginii.
+• Nu trebuie să existe dovezi de curbare a imaginii dinților pe imagine.
+• Nu trebuie să existe scurtare sau alungire a dinților.
+• În mod ideal, nu trebuie să existe suprapunere orizontală.
+Dacă este prezentă suprapunerea, aceasta nu trebuie să obscurizeze mai mult de jumătate din grosimea smalțului. Aceasta poate fi inevitabilă din cauza factorilor anatomici (de exemplu, înghesuirea dentară, forma arcadei dentare), necesitând o radiografie bitewing sau periapicală suplimentară.
+Acoperire corectă
+• Filmul trebuie să acopere suprafețele distale ale dinților canini și suprafețele meziale ale celor mai posteriori dinți erupți.
+• Nivelul osului periodontal trebuie să fie vizibil și imaginat în mod egal la nivelul maxilei/mandibulei, confirmând centrarea ideală.
+Densitate optică și contrast bune. Trebuie să existe o densitate optică bună și un contrast adecvat între smalț și dentină.
+Număr adecvat de filme radiologice. Atunci când molarii trei sunt erupți sau parțial erupți și incluși și sunt prezenți toți ceilalți dinți, pot fi necesare două filme radiologice pentru fiecare parte pentru evaluarea dentiției.
+Curbura extremă a arcadei poate influența numărul de filme radiologice necesare.
+294 Incidență de profil (lateral). Suport de film radiologic Hawe-Neos Kwikbite poziționat pentru radiografia bitewing stângă pe mandibulă uscată. Poziționarea pacientului și a tubului de raze X pentru radiografia bitewing dreaptă, utilizând suportul de film radiologic Hawe-Neos Kwikbite și colimarea dreptunghiulară a tubului de raze X. Tehnici adecvate de procesare și de cameră obscură.
+• Fără urme de presiune pe film, fără zgârieturi ale emulsiei.
+• Fără urme de role (numai la procesarea automată).
+• Fără dovezi de voalare a filmului.
+• Fără dâre/picături de substanțe chimice/contaminare.
+• Fără dovezi de fixare/spălare insuficientă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -181,19 +185,19 @@ Extreme curvature de arch poate impact pe number de filme radiologice required.
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Radiografie Dentară Bite-Wing (Interproximală)).
+    - Vizualizarea clară întregii arii anatomice (radiografie dentară bitewing (interproximală)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -217,17 +221,17 @@ Extreme curvature de arch poate impact pe number de filme radiologice required.
 
 <figure class="protocol-image-card" markdown>
 
-![10 Radiografie Dentară Bite-Wing (Interproximală)](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_1.jpeg)
+![10 Radiografie dentară bitewing (interproximală)](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_1.jpeg)
 
-<figcaption><strong>10 Radiografie Dentară Bite-Wing (Interproximală)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>10 Radiografie dentară bitewing (interproximală)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![ing additional bitewing sau periapical radiografie.](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_2.jpeg)
+![pentru efectuarea unei radiografii bitewing sau periapicale suplimentare.](../../assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p309-clark/fig_2.jpeg)
 
-<figcaption><strong>ing additional bitewing sau periapical radiografie.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>pentru efectuarea unei radiografii bitewing sau periapicale suplimentare.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -244,4 +248,4 @@ Extreme curvature de arch poate impact pe number de filme radiologice required.
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 309](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=309)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 309](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)

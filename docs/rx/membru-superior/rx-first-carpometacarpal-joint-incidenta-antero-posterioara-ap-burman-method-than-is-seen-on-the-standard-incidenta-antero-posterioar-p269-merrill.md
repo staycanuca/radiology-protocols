@@ -7,10 +7,10 @@ centering: Through first articulații carpometacarpiene (CMC) la a 45-grade angl
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
-- caption: Merrill — pagina PDF 270, imaginea 1
+- caption: Merrill — pagina 270, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p270_fig1.png
-- caption: Merrill — pagina PDF 271, imaginea 2
+- caption: Merrill — pagina 271, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p271_fig2.png
 last_updated: '2026-09-16'
@@ -80,8 +80,8 @@ source_sections:
   tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
     display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
 sources:
-- title: Merrill’s Atlas, 5. Upper Extremity, pagini PDF 269–271
-  url: ../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=269
+- title: Merrill’s Atlas, 5. Upper Extremity, pagini 269–271
+  url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
@@ -171,17 +171,17 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 270, imaginea 1](../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p270_fig1.png)
+![Merrill — pagina 270, imaginea 1](../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p270_fig1.png)
 
-<figcaption><strong>Merrill — pagina PDF 270, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 270, imaginea 1</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Merrill — pagina PDF 271, imaginea 2](../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p271_fig2.png)
+![Merrill — pagina 271, imaginea 2](../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-burman-method-than-is-seen-on-the-standard-incidenta-antero-posterioar-p269-merrill/p271_fig2.png)
 
-<figcaption><strong>Merrill — pagina PDF 271, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
+<figcaption><strong>Merrill — pagina 271, imaginea 2</strong> — <span>Imagine din fragmentul sursă; asocierea necesită revizie.</span></figcaption>
 
 </figure>
 
@@ -198,7 +198,7 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
 
 ## Surse de documentare
 
-- [Merrill’s Atlas, 5. Upper Extremity, pagini PDF 269–271](../../assets/protocols/sources/a56d45c16829_Merrills_Atlas_of_Radiographic_Positioning__Procedures_3Vol_Set.pdf#page=269)
+- [Merrill’s Atlas, 5. Upper Extremity, pagini 269–271](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
 
 ## Fragmente sursă traduse (referință tehnică)
 

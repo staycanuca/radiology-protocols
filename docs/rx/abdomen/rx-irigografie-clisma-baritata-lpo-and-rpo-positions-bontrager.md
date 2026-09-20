@@ -1,26 +1,29 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Expose pe expiration.
+breathing: Efectuați expunerea în expir.
 category: abdomen
-centering: Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Angle
-  raza centrală și center de receptorul de imagine la level de creasta iliacă (corespunzător
-  L4-L5)s și about 1 inch (2.5 cm) lateral la ridicat side de MSP (see NOTE).
+centering: Direcționați raza centrală (RC) perpendicular pe receptorul de imagine.
+  Înclinați raza centrală și poziționați centrul receptorului de imagine la nivelul
+  crestei iliace (corespunzător L4-L5) și la aproximativ 1 țol (2.5 cm) lateral de
+  MSP, spre partea ridicată (vezi NOTA).
 clinical_indications:
-- Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception
-- Doublecontrast Irigografie (Clismă Baritată) este ideal pentru evidențiind diverticulosis,
-  polyps, și mucosal changes.
+- Obstrucții, inclusiv ileus dinamic sau mecanic, volvulus și invaginație intestinală
+- Irigografia (Clismă Baritată) cu dublu contrast este ideală pentru evidențierea
+  diverticulozei, polipilor și modificărilor mucoasei.
 images:
-- caption: Fig. 13.71 LPO—pentru drept colic flexure. (imagine centrat low la
+- caption: Fig. 13.71 LPO—pentru flexura colică dreaptă. (Imagine centrată jos pentru
+    a
   description: Poziționare pacient conform Ghidului Bontrager (Fig. 13.71 LPO—pentru
-    drept colic flexure. (imagine centrat low la)
+    flexura colică dreaptă. (Imagine centrată jos pentru a)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_1.jpeg
 - caption: Fig. 13.70 (A) LPO. (B) RPO.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.70
     (A) LPO. (B) RPO.)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_2.jpeg
-- caption: Fig. 13.72 RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază
+- caption: Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a
+    evidenția
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.72
-    RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază)
+    RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -28,21 +31,23 @@ images:
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_4.jpeg
 last_updated: '2026-09-15'
 modality: rx
-notes: '). poziție: LPo: fără tilt este evident, și coloană vertebrală este paralel
-  cu edge de radiografie. ala de stâng ilium este elongated, și drept side este foreshortened.
-  RPo: fără tilt este present; coloană vertebrală este paralel cu edge de radiografie.
-  ala de drept ilium este elongated, și stâng side este foreshortened. corect collimation
-  field size este applied. expunere: optim receptorul de imagine expunere și contrast
-  la visualize contrastfilled intestin gros (colon) fără significant overexposure
-  de orice portion. net structural margins indicate fără mișcare. B Fig. 13.70 (A)
-  LPO. (B) RPO. stâng colic flexure Fig. 13.72 RPO—pentru stâng colic flexure. (imagine
-  centrat pe evidențiază stâng colic flexure.)'
-position: 'Pacient: pacient este semisupine, rotit 35° la 45° into drept și stâng
-  posterior obliques, cu support pentru capul.; Regiune anatomică: Flex elevatedside
-  Cot și place în front de cap; place opposite braț down prin pacient’s side (Fig.
-  13.70). Partially flex elevatedside Genunchi la maintain this poziție. Align MSP
-  along axa longitudinală de table, cu drept și stâng abdominal margins echidistant
-  față de centerline de table.'
+notes: '). Poziție: LPo: nu se observă înclinare, iar coloana vertebrală este paralelă
+  cu marginea radiografiei. Aripa iliacă stângă este alungită, iar partea dreaptă
+  apare scurtată. RPo: nu există înclinare; coloana vertebrală este paralelă cu marginea
+  radiografiei. Aripa iliacă dreaptă este alungită, iar partea stângă apare scurtată.
+  Se aplică dimensiunea corectă a câmpului de colimare. Expunere: expunere optimă
+  a receptorului de imagine și contrast optim pentru vizualizarea intestinului gros
+  (colon) umplut cu substanță de contrast, fără supraexpunerea semnificativă a vreunei
+  porțiuni. Marginile nete ale structurilor indică absența mișcării. B Fig. 13.70
+  (A) LPO. (B) RPO. Flexura colică stângă Fig. 13.72 RPO—pentru flexura colică stângă.
+  (Imagine centrată pentru a evidenția flexura colică stângă.)'
+position: 'Pacient: pacientul este în poziție semidorsală, rotit cu 35° la 45° în
+  pozițiile oblice posterioare dreaptă și stângă, cu sprijin pentru cap.; Regiune
+  anatomică: Flectați cotul de pe partea ridicată și așezați-l în fața capului; așezați
+  brațul opus în jos, de-a lungul corpului pacientului (Fig. 13.70). Flectați parțial
+  genunchiul de pe partea ridicată pentru a menține această poziție. Aliniați MSP
+  de-a lungul axei longitudinale a mesei, cu marginile abdominale dreaptă și stângă
+  echidistante față de linia mediană a mesei.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,32 +55,33 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'LPo: drept colic (hepatic) flexure și ascending și rectosigmoid portions trebuie
-  să appear “open” fără significant superimposition (Fig. 13.71).'
-- 'RPo: stâng colic (splenic) flexure și descending portions trebuie să appear “open”
-  fără significant superimposition (Fig. 13.72). (second receptorul de imagine centrat
-  lower pentru include rectal area este required pe most adult pacienți if this area
-  este la fie included pe these postfluoroscopy radiografii).'
-- rectal ampulla trebuie să fie included pe lower margins de radiografie.
-- Entire contrastfilled intestin gros (colon), including rectal ampulla, trebuie să
-  fie included (see
+- 'LPo: flexura colică dreaptă (hepatică) și porțiunile ascendentă și rectosigmoidiană
+  trebuie să apară „deschise”, fără suprapunere semnificativă (Fig. 13.71).'
+- 'RPo: flexura colică stângă (splenică) și porțiunile descendente trebuie să apară
+  „deschise”, fără suprapunere semnificativă (Fig. 13.72). (La majoritatea pacienților
+  adulți este necesar un al doilea receptor de imagine, centrat mai jos pentru a include
+  regiunea rectală, dacă această regiune trebuie inclusă pe aceste radiografii efectuate
+  după fluoroscopie).'
+- Ampula rectală trebuie să fie inclusă la marginile inferioare ale radiografiei.
+- Întregul intestin gros (colon) umplut cu substanță de contrast, inclusiv ampula
+  rectală, trebuie să fie inclus (vezi
 sid_dff: 100 cm
 slug: rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 544
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă (OPD /
-  RPO)S
+title: Rx Irigografie (Clismă Baritată) LPO ȘI Oblică Posterioară Dreaptă (OPD / RPO)
 ---
-# Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă (OPD / RPO)S
+# Rx Irigografie (Clismă Baritată) LPO ȘI Oblică Posterioară Dreaptă (OPD / RPO)
 
 
 <div class="rx-meta-bar">
@@ -94,8 +100,8 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
 
     === "Indicații Clinice"
 
-        - Obstructions, including ileus dinamic sau mecanic, volvulus, și intussusception
-        - Doublecontrast Irigografie (Clismă Baritată) este ideal pentru evidențiind diverticulosis, polyps, și mucosal changes.
+        - Obstrucții, inclusiv ileus dinamic sau mecanic, volvulus și invaginație intestinală
+        - Irigografia (Clismă Baritată) cu dublu contrast este ideală pentru evidențierea diverticulozei, polipilor și modificărilor mucoasei.
 
     === "Ghid Național IRIS"
 
@@ -109,10 +115,10 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient este semisupine, rotit 35° la 45° into drept și stâng posterior obliques, cu support pentru capul.; Regiune anatomică: Flex elevatedside Cot și place în front de cap; place opposite braț down prin pacient’s side (Fig. 13.70). Partially flex elevatedside Genunchi la maintain this poziție. Align MSP along axa longitudinală de table, cu drept și stâng abdominal margins echidistant față de centerline de table.
-    - **Punct de Centrare Fascicul:** Direct Raza centrală (RC) perpendiculară pe receptorul de imagine. Angle raza centrală și center de receptorul de imagine la level de creasta iliacă (corespunzător L4-L5)s și about 1 inch (2.5 cm) lateral la ridicat side de MSP (see NOTE).
+    - **Poziție Pacient:** Pacient: pacientul este în poziție semidorsală, rotit cu 35° la 45° în pozițiile oblice posterioare dreaptă și stângă, cu sprijin pentru cap.; Regiune anatomică: Flectați cotul de pe partea ridicată și așezați-l în fața capului; așezați brațul opus în jos, de-a lungul corpului pacientului (Fig. 13.70). Flectați parțial genunchiul de pe partea ridicată pentru a menține această poziție. Aliniați MSP de-a lungul axei longitudinale a mesei, cu marginile abdominale dreaptă și stângă echidistante față de linia mediană a mesei.
+    - **Punct de Centrare Fascicul:** Direcționați raza centrală (RC) perpendicular pe receptorul de imagine. Înclinați raza centrală și poziționați centrul receptorului de imagine la nivelul crestei iliace (corespunzător L4-L5) și la aproximativ 1 țol (2.5 cm) lateral de MSP, spre partea ridicată (vezi NOTA).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Expose pe expiration.
+    - **Comandă Respiratorie:** Efectuați expunerea în expir.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -125,18 +131,18 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - LPo: drept colic (hepatic) flexure și ascending și rectosigmoid portions trebuie să appear “open” fără significant superimposition (Fig. 13.71).
-    - RPo: stâng colic (splenic) flexure și descending portions trebuie să appear “open” fără significant superimposition (Fig. 13.72). (second receptorul de imagine centrat lower pentru include rectal area este required pe most adult pacienți if this area este la fie included pe these postfluoroscopy radiografii).
-    - rectal ampulla trebuie să fie included pe lower margins de radiografie.
-    - Entire contrastfilled intestin gros (colon), including rectal ampulla, trebuie să fie included (see
+    - LPo: flexura colică dreaptă (hepatică) și porțiunile ascendentă și rectosigmoidiană trebuie să apară „deschise”, fără suprapunere semnificativă (Fig. 13.71).
+    - RPo: flexura colică stângă (splenică) și porțiunile descendente trebuie să apară „deschise”, fără suprapunere semnificativă (Fig. 13.72). (La majoritatea pacienților adulți este necesar un al doilea receptor de imagine, centrat mai jos pentru a include regiunea rectală, dacă această regiune trebuie inclusă pe aceste radiografii efectuate după fluoroscopie).
+    - Ampula rectală trebuie să fie inclusă la marginile inferioare ale radiografiei.
+    - Întregul intestin gros (colon) umplut cu substanță de contrast, inclusiv ampula rectală, trebuie să fie inclus (vezi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,7 +155,7 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
 </div>
 
 !!! note "Observații Clinice & Tehnice"
-    ). poziție: LPo: fără tilt este evident, și coloană vertebrală este paralel cu edge de radiografie. ala de stâng ilium este elongated, și drept side este foreshortened. RPo: fără tilt este present; coloană vertebrală este paralel cu edge de radiografie. ala de drept ilium este elongated, și stâng side este foreshortened. corect collimation field size este applied. expunere: optim receptorul de imagine expunere și contrast la visualize contrastfilled intestin gros (colon) fără significant overexposure de orice portion. net structural margins indicate fără mișcare. B Fig. 13.70 (A) LPO. (B) RPO. stâng colic flexure Fig. 13.72 RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază stâng colic flexure.)
+    ). Poziție: LPo: nu se observă înclinare, iar coloana vertebrală este paralelă cu marginea radiografiei. Aripa iliacă stângă este alungită, iar partea dreaptă apare scurtată. RPo: nu există înclinare; coloana vertebrală este paralelă cu marginea radiografiei. Aripa iliacă dreaptă este alungită, iar partea stângă apare scurtată. Se aplică dimensiunea corectă a câmpului de colimare. Expunere: expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea intestinului gros (colon) umplut cu substanță de contrast, fără supraexpunerea semnificativă a vreunei porțiuni. Marginile nete ale structurilor indică absența mișcării. B Fig. 13.70 (A) LPO. (B) RPO. Flexura colică stângă Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția flexura colică stângă.)
 
 
 ### 🖼️ Imagini
@@ -158,9 +164,9 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.71 LPO—pentru drept colic flexure. (imagine centrat low la](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_1.jpeg)
+![Fig. 13.71 LPO—pentru flexura colică dreaptă. (Imagine centrată jos pentru a](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 13.71 LPO—pentru drept colic flexure. (imagine centrat low la</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.71 LPO—pentru drept colic flexure. (imagine centrat low la)</span></figcaption>
+<figcaption><strong>Fig. 13.71 LPO—pentru flexura colică dreaptă. (Imagine centrată jos pentru a</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 13.71 LPO—pentru flexura colică dreaptă. (Imagine centrată jos pentru a)</span></figcaption>
 
 </figure>
 
@@ -174,9 +180,9 @@ title: Rx Irigografie (Clismă Baritată) LPO AND Oblică Posterioară Dreaptă 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 13.72 RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_3.jpeg)
+![Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția](../../assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 13.72 RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.72 RPO—pentru stâng colic flexure. (imagine centrat pe evidențiază)</span></figcaption>
+<figcaption><strong>Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția)</span></figcaption>
 
 </figure>
 

@@ -3,16 +3,18 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: coloana
-centering: • Direct raza centrală verticală centrală spre midclavicular line pe raised
-  side la nivelul lower costal margin.
+centering: • Se direcționează raza centrală verticală spre linia medioclaviculară
+  de pe partea ridicată, la nivelul marginii costale inferioare.
 clinical_indications:
-- defect în pars interarticularis poate fie congenital sau due la trauma. It este
-  weakness în mechanism that prevents one vertebra slipping forward pe one below (spondylolisthesis)
-  și poate fie cause de back pain. If bilateral, spondylolisthesis este more likely.
-  defect appears ca a ‘collar’ pe ‘Scottie dog’, hence importance de evidențiind ‘dog’.
+- Defectul pars interarticularis poate fi congenital sau datorat unui traumatism.
+  Este o slăbiciune a mecanismului care împiedică o vertebră să alunece înainte peste
+  cea subiacentă (spondilolistezis) și poate fi o cauză a durerii lombare. Dacă este
+  bilateral, spondilolistezisul este mai probabil. Defectul apare ca un „guler” pe
+  „câinele Scottie”, de unde importanța evidențierii „câinelui”.
 images:
-- caption: classic ‘Scottie dog’ appearance (see diagram).
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: aspectul clasic de „câine Scottie” (vezi diagrama).
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-lombara-right-or-left-oblica-posterioara-p202-clark/fig_1.jpeg
 - caption: Normal stâng posterior
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -29,14 +31,14 @@ images:
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este poziționat Decubit dorsal pe masa radiologică și este
-  then rotit 45 grade la drept și stâng sides în turn. pacientul’s brațe sunt raised,
-  cu mâinile resting pe pillow.
+position: '• Pacientul este poziționat în decubit dorsal pe masa radiologică și apoi
+  rotit 45 grade spre partea dreaptă și stângă, pe rând. Brațele pacientului sunt
+  ridicate, cu mâinile sprijinite pe o pernă.
 
-  • șoldurile și genunchi sunt flectat și pacientul este sprijinit cu a 45-grade foam
-  pad plasat under trunk pe raised side.
+  • Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu un suport
+  din spumă de 45 grade plasat sub trunchi, pe partea ridicată.
 
-  • caseta este centred la lower costal margin.'
+  • Caseta este centrată la nivelul marginii costale inferioare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -45,30 +47,31 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- grade de obliquity trebuie să fie astfel încât posterior elements de vertebra sunt
-  aliniat în such ca way ca la show classic ‘Scottie dog’ appearance (see diagram).
-- 'Erori de evitat / remedii: common error este la centre too medially, thus excluding
-  posterior elements de vertebre de la imagine. superior articular process Apophyseal
-  articulație Transverse process Pedicle Pars interarticularis inferior articular
-  process inferior articular process corp Apophyseal articulație Pars interarticularis
-  inferior articular process superior articular process corp Transverse process Pedicle
-  Normal stâng Oblică Posterioară Defect în pars interarticularis la L5'
+- Gradul de oblicitate trebuie să fie astfel încât elementele posterioare ale vertebrei
+  să fie aliniate în așa fel încât să prezinte aspectul clasic de „câine Scottie”
+  (vezi diagrama).
+- 'Erori de evitat / remedii: Eroarea frecventă este centrarea prea medială, excluzând
+  astfel elementele posterioare ale vertebrelor din imagine. proces articular superior
+  articulație apofizară proces transvers pedicul pars interarticularis proces articular
+  inferior proces articular inferior corp articulație apofizară pars interarticularis
+  proces articular inferior proces articular superior corp proces transvers pedicul
+  Normal stâng oblic posterior Defect al pars interarticularis la L5'
 sid_dff: 100 cm
 slug: rx-coloana-lombara-right-or-left-oblica-posterioara-p202-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 202
-  url: ../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=202
+  url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Lombară Right or left Oblică Posterioară
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie a coloanei lombare – oblică posterioară dreaptă sau stângă
 ---
-# Rx Coloană Lombară Right or left Oblică Posterioară
+# Radiografie a coloanei lombare – oblică posterioară dreaptă sau stângă
 
 
 <div class="rx-meta-bar">
@@ -87,7 +90,7 @@ title: Rx Coloană Lombară Right or left Oblică Posterioară
 
     === "Indicații Clinice"
 
-        - defect în pars interarticularis poate fie congenital sau due la trauma. It este weakness în mechanism that prevents one vertebra slipping forward pe one below (spondylolisthesis) și poate fie cause de back pain. If bilateral, spondylolisthesis este more likely. defect appears ca a ‘collar’ pe ‘Scottie dog’, hence importance de evidențiind ‘dog’.
+        - Defectul pars interarticularis poate fi congenital sau datorat unui traumatism. Este o slăbiciune a mecanismului care împiedică o vertebră să alunece înainte peste cea subiacentă (spondilolistezis) și poate fi o cauză a durerii lombare. Dacă este bilateral, spondilolistezisul este mai probabil. Defectul apare ca un „guler” pe „câinele Scottie”, de unde importanța evidențierii „câinelui”.
 
     === "Ghid Național IRIS"
 
@@ -101,10 +104,10 @@ title: Rx Coloană Lombară Right or left Oblică Posterioară
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat Decubit dorsal pe masa radiologică și este then rotit 45 grade la drept și stâng sides în turn. pacientul’s brațe sunt raised, cu mâinile resting pe pillow.
-• șoldurile și genunchi sunt flectat și pacientul este sprijinit cu a 45-grade foam pad plasat under trunk pe raised side.
-• caseta este centred la lower costal margin.
-    - **Punct de Centrare Fascicul:** • Direct raza centrală verticală centrală spre midclavicular line pe raised side la nivelul lower costal margin.
+    - **Poziție Pacient:** • Pacientul este poziționat în decubit dorsal pe masa radiologică și apoi rotit 45 grade spre partea dreaptă și stângă, pe rând. Brațele pacientului sunt ridicate, cu mâinile sprijinite pe o pernă.
+• Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu un suport din spumă de 45 grade plasat sub trunchi, pe partea ridicată.
+• Caseta este centrată la nivelul marginii costale inferioare.
+    - **Punct de Centrare Fascicul:** • Se direcționează raza centrală verticală spre linia medioclaviculară de pe partea ridicată, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -115,20 +118,20 @@ title: Rx Coloană Lombară Right or left Oblică Posterioară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - grade de obliquity trebuie să fie astfel încât posterior elements de vertebra sunt aliniat în such ca way ca la show classic ‘Scottie dog’ appearance (see diagram).
-    - Erori de evitat / remedii: common error este la centre too medially, thus excluding posterior elements de vertebre de la imagine. superior articular process Apophyseal articulație Transverse process Pedicle Pars interarticularis inferior articular process inferior articular process corp Apophyseal articulație Pars interarticularis inferior articular process superior articular process corp Transverse process Pedicle Normal stâng Oblică Posterioară Defect în pars interarticularis la L5
+    - Gradul de oblicitate trebuie să fie astfel încât elementele posterioare ale vertebrei să fie aliniate în așa fel încât să prezinte aspectul clasic de „câine Scottie” (vezi diagrama).
+    - Erori de evitat / remedii: Eroarea frecventă este centrarea prea medială, excluzând astfel elementele posterioare ale vertebrelor din imagine. proces articular superior articulație apofizară proces transvers pedicul pars interarticularis proces articular inferior proces articular inferior corp articulație apofizară pars interarticularis proces articular inferior proces articular superior corp proces transvers pedicul Normal stâng oblic posterior Defect al pars interarticularis la L5
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,9 +153,9 @@ title: Rx Coloană Lombară Right or left Oblică Posterioară
 
 <figure class="protocol-image-card" markdown>
 
-![classic ‘Scottie dog’ appearance (see diagram).](../../assets/images/protocols/clark/rx-coloana-lombara-right-or-left-oblica-posterioara-p202-clark/fig_1.jpeg)
+![aspectul clasic de „câine Scottie” (vezi diagrama).](../../assets/images/protocols/clark/rx-coloana-lombara-right-or-left-oblica-posterioara-p202-clark/fig_1.jpeg)
 
-<figcaption><strong>classic ‘Scottie dog’ appearance (see diagram).</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>aspectul clasic de „câine Scottie” (vezi diagrama).</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -193,4 +196,4 @@ title: Rx Coloană Lombară Right or left Oblică Posterioară
 
 ## Surse de documentare
 
-- [Clark's Positioning in Radiography (Ed. 12), Pagina 202](../../assets/protocols/sources/Clark___Positioning_in_Radiography__12th_edition.pdf#page=202)
+- [Clark's Positioning in Radiography (Ed. 12), Pagina 202](https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ)
